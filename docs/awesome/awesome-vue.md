@@ -1558,6 +1558,7 @@ _Display non-editable events in a Calendar_
 - [v-emoji-picker](https://github.com/joaoeudes7/v-emoji-picker) - :star2: A Lightweight and customizable package of Emoji Picker in Vue using emojis natives (unicode).
 - [learnawesome-flashcard](https://github.com/learn-awesome/flashcard) - Deck of flashcards with spaced-repetition via localStorage :bulb:
 - [vue-portfolio-viewer](https://github.com/MelihAltintas/vue-portfolio-viewer.git) - Scroll animated portfolio viewer component for vue js :bulb:
+- [vue-text-middle-ellipsis](https://github.com/Tardigrada777/vue-text-middle-ellipsis) - A simple vue-directive(2+) that clamps the content in the middle of the element if the content inside is too long.
 
 #### Tabs
 
@@ -1742,7 +1743,7 @@ _Switch / on/off toggle / checkbox_
 - [vue-rocker-switch](https://github.com/DannyFeliz/vue-rocker-switch) - A customizable rocker switch component for Vue.js.
 - [vue-toggle-btn](https://github.com/JonathanDn/vue-toggle-btn) - A Highly Customizable, easy-to-use elegant toggle/switch button component
 - [vue-tristate-checkbox](https://github.com/hartwork/vue-tristate-checkbox) - Cycling tristate checkbox that supports form submission
-- [vue-toggles](https://github.com/jllagerberg/vue-toggles) - A very customizable and beautiful toggle component
+- [vue-toggles](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
 
 ##### Masked Input
 
