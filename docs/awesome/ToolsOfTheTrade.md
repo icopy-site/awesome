@@ -242,6 +242,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
+| [CabinJS](https://cabinjs.com) | [@niftylettuce](https://twitter.com/niftylettuce) | Free and Open-Source | Cabin is a drop-in replacement and alternative JavaScript logging service to Sentry, Timber, Bugsnag, and more.  It is security, privacy, and business cost-saving focused.  Full support across all Node versions and IE 10+ support.
 | [CatchJS](https://catchjs.com) | - | $49 - $499 | JavaScript error reporting for web apps. Can take screenshots and collect click trails, so reproducing bugs becomes easy. |
 | [Crashlytics](https://try.crashlytics.com) | [@crashlytics](https://twitter.com/crashlytics) | Free | Crash reports and grouping for easier analysis. Basic analytics and reports. iOS & Android |
 | [Sentry](https://sentry.io/) | [@getsentry](https://twitter.com/getsentry) | Open Source & $24/mo - $199/mo | Sentry notifies you when your users experience errors. Know immediately when things happen in your application. Engage users before they have a chance to report a problem. |
@@ -583,6 +584,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
+| [Lad](https://lad.js.org) | [@niftylettuce](https://twitter.com/niftylettuce) | Free | Lad scaffolds a Koa webapp and API framework for Node.js.  It also includes a job scheduler, automatic email previewing and templates, and much more. |
 | [Yeoman](https://yeoman.io/) | [@yeoman](https://twitter.com/yeoman) | Free | The web scaffolding tool for modern web apps |
 | [Hix on Rails](https://hixonrails.com/) | [@hixonrails](https://twitter.com/hixonrails) | $39 - $249 | Ruby on Rails project generator |
 | [JHipster](https://www.jhipster.tech/) | [@jhipster](https://twitter.com/jhipster) | Free | Hipster stack for Java developers. Spring Boot + Angular/React in one handy generator. |
@@ -716,6 +718,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
+| [Forward Email](https://forwardemail.net) | [@niftylettuce](https://twitter.com/niftylettuce) | Free | Create and forward an unlimited amount of email addresses with your domain name. Plus get catch-all, wildcard, and disposable forwarding addresses!  The Forward Email DNS-based solution is completely free.
 | [DynDNS](https://dyn.com/dns/) | [@Dyn](https://twitter.com/Dyn) | - | - |
 | [Cloudflare](https://www.cloudflare.com/) | [@Cloudflare](https://twitter.com/Cloudflare) | - | - |
 | [Amazon Route 53](https://aws.amazon.com/route53/) | - | - | - |

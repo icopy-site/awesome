@@ -148,7 +148,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Macs in Chemistry](http://www.macinchem.org/) - Provide a resource for chemists using Apple Macintosh computers.
 * [DrugDiscovery.NET](http://www.drugdiscovery.net/) - Blog of [Andreas Bender](http://www.andreasbender.de/), who is a Reader for Molecular Informatics at University of Cambridge.
 * [Is life worth living?](https://iwatobipen.wordpress.com/) - Some examples for cheminformatics libraries.
-* [Cheminformatics 2.0](https://cheminf20.org/) - Blog of [Alex M. Clark](https://twitter.com/aclarkxyz), who is a research scientist at Collaborative Drug Discovery.
+* [Cheminformatics 2.0](https://cheminf20.org/) - Blog of [Alex M. Clark](https://twitter.com/aclarkxyz), a research scientist at Collaborative Drug Discovery.
+* [Depth-First](https://depth-first.com/) - Blog of [Richard L. Apodaca](https://depth-first.com/about/), a chemist living in La Jolla, California.
 
 ### Books
 
@@ -162,6 +163,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo.
 * [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry.
 * [MolSSI Molecular Software Database](https://molssi.org/software-search/)
+＊[Pages created by Tobias Kind, PhD](https://fiehnlab.ucdavis.edu/staff/kind/metabolomics)
 
 ## License
 

@@ -14,7 +14,7 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Recent Trend
+## Recent Trends
 ### Recent QA Models
 - UnifiedQA: Crossing Format Boundaries With a Single QA System (2020)
   - Demo: https://unifiedqa.apps.allenai.org/
