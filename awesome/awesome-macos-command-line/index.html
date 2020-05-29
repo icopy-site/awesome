@@ -2792,8 +2792,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#install-os" class="md-nav__link">
-    Install OS
+  <a href="#installation" class="md-nav__link">
+    Installation
   </a>
   
     <nav class="md-nav">
@@ -2802,6 +2802,13 @@
           <li class="md-nav__item">
   <a href="#create-bootable-installer" class="md-nav__link">
     Create Bootable Installer
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#download-older-os-versions" class="md-nav__link">
+    Download Older OS Versions
   </a>
   
 </li>
@@ -13057,8 +13064,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#install-os" class="md-nav__link">
-    Install OS
+  <a href="#installation" class="md-nav__link">
+    Installation
   </a>
   
     <nav class="md-nav">
@@ -13067,6 +13074,13 @@
           <li class="md-nav__item">
   <a href="#create-bootable-installer" class="md-nav__link">
     Create Bootable Installer
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#download-older-os-versions" class="md-nav__link">
+    Download Older OS Versions
   </a>
   
 </li>
@@ -14884,9 +14898,12 @@ sudo fdesetup disable
 <div class="codehilite"><pre><span></span>sudo sysdiagnose -f ~/Desktop/
 </pre></div>
 
-<h3 id="install-os">Install OS<a class="headerlink" href="#install-os" title="Permanent link">&para;</a></h3>
+<h3 id="installation">Installation<a class="headerlink" href="#installation" title="Permanent link">&para;</a></h3>
 <h4 id="create-bootable-installer">Create Bootable Installer<a class="headerlink" href="#create-bootable-installer" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1">## Mojave</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Catalina</span>
+sudo /Applications/Install<span class="se">\ </span>macOS<span class="se">\ </span>Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets
+
+<span class="c1">## Mojave</span>
 sudo /Applications/Install<span class="se">\ </span>macOS<span class="se">\ </span>Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets
 
 <span class="c1">## High Sierra</span>
@@ -14907,6 +14924,98 @@ sudo /Applications/Install<span class="se">\ </span>OS<span class="se">\ </span>
 <li>The optional <code>–-downloadassets</code> flag is new in Mojave. It downloads assets which may be required during installation, like updates.</li>
 <li>The <code>–-applicationpath</code> flag is deprecated since Mojave and will throw an error if used.</li>
 </ul>
+<h4 id="download-older-os-versions">Download Older OS Versions<a class="headerlink" href="#download-older-os-versions" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>Version</th>
+<th>Codename</th>
+<th>Download</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mac OS X 10.0</td>
+<td>Cheetah</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>Mac OS X 10.1</td>
+<td>Puma</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>Mac OS X 10.2</td>
+<td>Jaguar</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>Mac OS X 10.3</td>
+<td>Panther</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>Mac OS X 10.4</td>
+<td>Tiger</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>Mac OS X 10.5</td>
+<td>Leopard</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>Mac OS X 10.6</td>
+<td>Snow Leopard</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>Mac OS X 10.7</td>
+<td>Lion</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>OS X 10.8</td>
+<td>Mountain Lion</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>OS X 10.9</td>
+<td>Maverick</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>OS X 10.10</td>
+<td>Yosemite</td>
+<td><a href="http://updates-http.cdn-apple.com/2019/cert/061-41343-20191023-02465f92-3ab5-4c92-bfe2-b725447a070d/InstallMacOSX.dmg">Direct Download</a></td>
+</tr>
+<tr>
+<td>OS X 10.11</td>
+<td>El Capitan</td>
+<td><a href="http://updates-http.cdn-apple.com/2019/cert/061-41424-20191024-218af9ec-cf50-4516-9011-228c78eda3d2/InstallMacOSX.dmg">Direct Download</a></td>
+</tr>
+<tr>
+<td>macOS 10.12</td>
+<td>Sierra</td>
+<td><a href="http://updates-http.cdn-apple.com/2019/cert/061-39476-20191023-48f365f4-0015-4c41-9f44-39d3d2aca067/InstallOS.dmg">Direct Download</a></td>
+</tr>
+<tr>
+<td>macOS 10.13</td>
+<td>High Sierra</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>macOS 10.14</td>
+<td>Mojave</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>macOS 10.15</td>
+<td>Catalina</td>
+<td><a href="https://apps.apple.com/de/app/macos-catalina/id1466841314">App Store</a></td>
+</tr>
+</tbody>
+</table>
 <h3 id="kernel-extensions">Kernel Extensions<a class="headerlink" href="#kernel-extensions" title="Permanent link">&para;</a></h3>
 <h4 id="display-status-of-loaded-kernel-extensions">Display Status of Loaded Kernel Extensions<a class="headerlink" href="#display-status-of-loaded-kernel-extensions" title="Permanent link">&para;</a></h4>
 <div class="codehilite"><pre><span></span>sudo kextstat -l
