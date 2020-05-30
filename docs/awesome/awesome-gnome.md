@@ -266,7 +266,7 @@
 - [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
 - [`GNOMEDesktop` on Peertube](https://peertube.video/accounts/gnome)
 
-## Developpers Ressources
+## Developers Resources
 
 ### Libraries
 

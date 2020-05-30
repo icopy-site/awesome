@@ -50,22 +50,13 @@
 - [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
 - [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
 
-### Project Management
+### Project management
 
 - [vset](https://github.com/mulh8377/vset) - A project setup and configuration tool for V projects.
 
 ## Libraries
 
-### Syntax highlighting
-
-- [v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
-- [vim-v](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
-- [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - V Language extension for Visual Studio Code.
-- [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/).
-- [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html).
-- [language-v](https://github.com/Cutlery-Drawer/language-v) - V language support for Atom (port of vscode-vlang).
-
-### Command Line Interface
+### Command line interface
 
 - [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays.
 - [progressbar](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
@@ -101,7 +92,7 @@
 - [vspeech](https://github.com/thecodrr/vspeech) - Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📢📜
 - [v-miniaudio](https://github.com/Larpon/v-miniaudio) - Bindings for the excellent miniaudio C audio library.
 
-### Operating System
+### Operating system
 
 - [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) - V module for interacting with the OS clipboard. Fully cross-platform.
 - [vlipboard](https://github.com/asvvvad/vlipboard) - An easy to use wrapper of clipboard with Wayland and Termux support.
@@ -118,7 +109,7 @@
 
 - [v-mime](https://github.com/nedpals/v-mime) - MIME detection library for V.
 
-### Game Development
+### Game development
 
 - [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for [raylib](https://www.raylib.com), the C game development framework.
 
@@ -126,14 +117,14 @@
 
 - [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) - A simple event bus system for V.
 
-### User Interface Toolkits
+### User Interface toolkits
 
 - [V UI](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
 - [vgtk3](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
 - [vig](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit.
 - [vnk](https://github.com/nsauzede/vnk) - Bindings for [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit.
 
-### Scientific Computing
+### Scientific computing
 
 - [vsl](https://github.com/vlang/vsl) - A pure-V scientific library with a great variety of functions.
 - [vnum](https://github.com/vlang-num/vnum) - Numerical computing library supporting n-dimensional data, backed by LAPACK and BLAS.
@@ -142,20 +133,28 @@
 
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 
-
 ## Other
 
-- [lsp.v](https://github.com/nedpals/lsp.v) - Implementation of the Language Server Protocol spec on V.
+### Syntax highlighting
+
+- [v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
+- [vim-v](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
+- [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - V Language extension for Visual Studio Code.
+- [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/).
+- [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html).
+- [language-v](https://github.com/Cutlery-Drawer/language-v) - V language support for Atom (port of vscode-vlang).
+
+### GitHub actions
+
 - [setup-v-action](https://github.com/marketplace/actions/setup-v-environment) - GitHub action automation to use V in your workflow.
 
 ### Videos
 
 - [V Programming Language](https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
 
-### Programming Contests
+### Programming contests
 
 - [Rosetta Code V](https://github.com/RustemB/rosetta-code-v) - Solutions for Rosetta Code in V.
-
 - [Advent of Code 2019](https://github.com/mvlootman/aoc2019) - Solution of Advent of Code 2019 in V.
 
 ### Tutorials

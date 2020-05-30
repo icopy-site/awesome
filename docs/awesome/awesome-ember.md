@@ -62,6 +62,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-keyboard](https://github.com/patience-tema-baron/ember-keyboard) - An Ember.js addon for the painless support of keyboard events.
 - [ember-a11y-testing](https://github.com/ember-a11y/ember-a11y-testing) - A suite of accessibility tests that can be run within the Ember.js testing framework.
 - [a11y-announcer](https://github.com/ember-a11y/a11y-announcer) - An accessible ember route change announcer.
+- [ember-a11y-refocus](https://github.com/MelSumner/ember-a11y-refocus) - Provides an unobtrusive navigation narration element for Ember applications.
 
 ### Adapters
 
@@ -144,6 +145,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Charts
 
+- [ember-charts](https://github.com/Addepar/ember-charts) - A charting library built with the Ember.js and d3.js frameworks. 
 - [ember-sparkles](https://github.com/LocusEnergy/ember-sparkles) - Collection of composable D3 components built with ember-d3-helpers.
 
 ### CI/CD
@@ -197,6 +199,7 @@ to build any web application. It is focused on making you, the developer, as pro
 	- [ember-rx](https://github.com/alexlafroscia/ember-rx) - RxJS 6 integration for Ember.js.
 - Generators
 	- [ember-concurrency](https://github.com/machty/ember-concurrency) - Ember.js Addon that enables you to write concise, worry-free, cancelable, restartable, asynchronous tasks.
+  - [ember-master-tab](https://github.com/rhyek/ember-master-tab) - A library that provides a service which helps running a function on only one tab of an Ember application.
 
 ### CSS & etc
 
@@ -978,6 +981,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Rust Package Registry](https://github.com/rust-lang/crates.io) - [crates.io](https://crates.io)
 - [Ember.js RealWorld Implementation](https://github.com/gothinkster/ember-realworld) - Ember.js codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
 - [A wild tomster appears](https://github.com/scudco/tomsweeper)
+- [An ember integration for building visual programming editors with blockly.](https://github.com/Program-AR/ember-blockly)
 
 ### Examples Glimmer
 - [breethe-client](https://github.com/simplabs/breethe-client) - Air Quality Data for Locations around the World.
