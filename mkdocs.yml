@@ -461,6 +461,7 @@ nav:
     - Software-Defined Networking: awesome/awesome-sdn.md
     - Network Analysis: awesome/awesome-network-analysis.md
     - PCAPTools: awesome/awesome-pcaptools.md
+    - Real-Time Communications: awesome/awesome-rtc.md
   - Decentralized Systems:
     - Bitcoin: awesome/awesome-bitcoin.md
     - Ripple: awesome/awesome-ripple.md
@@ -486,6 +487,7 @@ nav:
     - TAP: awesome/awesome-tap.md
     - JMeter: awesome/awesome-jmeter.md
     - k6: awesome/awesome-k6.md
+    - Playwright: awesome/awesome-playwright.md
   - Miscellaneous:
     - JSON: awesome/awesome-json.md
     - JSON_sub: 

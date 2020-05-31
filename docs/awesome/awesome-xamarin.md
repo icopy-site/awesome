@@ -195,6 +195,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 - [FluentAssertions](https://fluentassertions.com) - TDD/BDD fluent asserts.
 - [NBehave ★47](https://github.com/nbehave/NBehave) - Framework for Behaviour-Driven Development.
+- [VSMac-CodeCoverage](https://github.com/ademanuele/VSMac-CodeCoverage) - Gather code coverage results for your unit test projects from Visual Studio for Mac.
 
 
 ## Tools
@@ -210,6 +211,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Xamaridea ★69](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, opens *.axml files in Android Studio. 
 - [Xavtool ★15](https://github.com/gabrielrobert/xavtool) - Command-line utility to automatically increase iOS / Android / UWP applications version.
 - [Xamarin-APRTextFieldSuggestions](https://github.com/aproram/Xamarin-APRTextFieldSuggestions) - Xamarin.iOS Autocomplete suggestions for UITextfield in iOS.
+- [VSMac-CodeDistribution](https://github.com/ademanuele/VSMac-CodeDistribution) - A Visual Studio for Mac extension that visualises code distribution between projects. Particularly useful for Xamarin projects to understand the amount of code shared between platforms.
 
 
 ## UI

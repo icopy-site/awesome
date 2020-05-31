@@ -3,22 +3,15 @@
 <div align="center">
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
 	<br>
-	<br>
-	<!-- <hr> -->
 	<p>
-		<!-- <p>
+		<p>
 			<sup>
 				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
 			</sup>
-		</p> -->
+		</p>
 		<br>
-		<br>
-		<h3 align="center"><a href="https://www.producthunt.com/posts/jiffy-2">My new macOS app for discovering & sharing GIFs is on Product Hunt</h3></h3>
 		<br>
 	</p>
-	<hr>
-	<br>
-	<br>
 	<br>
 	<br>
 </div>
@@ -514,6 +507,7 @@
 - [Software-Defined Networking](awesome/awesome-sdn.md)
 - [Network Analysis](awesome/awesome-network-analysis.md)
 - [PCAPTools](awesome/awesome-pcaptools.md)
+- [Real-Time Communications](awesome/awesome-rtc.md) - Network protocols for near simultaneous exchange of media and data.
 
 ## Decentralized Systems
 
@@ -547,6 +541,7 @@
 - [TAP](awesome/awesome-tap.md) - Test Anything Protocol.
 - [JMeter](awesome/awesome-jmeter.md) - Load testing and performance measurement tool.
 - [k6](awesome/awesome-k6.md) - Open-source, developer-centric performance monitoring and load testing solution.
+- [Playwright](awesome/awesome-playwright.md) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## Miscellaneous
 
