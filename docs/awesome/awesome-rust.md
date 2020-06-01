@@ -711,7 +711,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * Generic
     * [launchbadge/sqlx](https://raw.githubusercontent.com/launchbadge/sqlx) - async PostgreSQL/MySQL/SQLite connection pool with strong typing support [<img src="https://img.shields.io/github/workflow/status/launchbadge/sqlx/Rust/master?style=flat-square">](https://raw.githubusercontent.com/launchbadge/sqlx)
   * Microsoft SQL
-    * [steffengy/tiberius](https://raw.githubusercontent.com/steffengy/tiberius) — [<img src="https://api.travis-ci.org/steffengy/tiberius.svg?branch=master">](https://travis-ci.org/steffengy/tiberius)
+    * [prisma/tiberius](https://github.com/prisma/tiberius) — ![Build status](https://badge.buildkite.com/172053d935f64a275beca911ab20bad34e7597775ce024469d.svg)
   * MySql [[mysql](https://crates.io/keywords/mysql)]
     * [AgilData/mysql-proxy-rs](https://github.com/AgilData/mysql-proxy-rs) — A MySQL Proxy [![CircleCI](https://circleci.com/gh/AgilData/mysql-proxy-rs/tree/master.svg?style=svg)](https://circleci.com/gh/AgilData/mysql-proxy-rs/tree/master)
     * [blackbeam/mysql_async](https://github.com/blackbeam/mysql_async) [[mysql_async](https://crates.io/crates/mysql_async)] — asyncronous Rust Mysql driver based on Tokio. [![CircleCI](https://circleci.com/gh/blackbeam/mysql_async/tree/master.svg?style=shield)](https://circleci.com/gh/blackbeam/mysql_async/tree/master)
@@ -1152,7 +1152,7 @@ See also [Are we game yet?](https://arewegameyet.com)
 ### Virtualization
 
 * [chromium/chromiumos/platform/crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/) CrOSVM — Enables Chrome OS to run Linux apps inside a fast, secure virtualized environment
-* [ekse/unicorn-rs](https://github.com/ekse/unicorn-rs) — Rust bindings for the unicorn CPU emulator
+* [unicorn-rs/unicorn-rs](https://github.com/unicorn-rs/unicorn-rs) — Rust bindings for the unicorn CPU emulator [![Build Status](https://api.travis-ci.org/ekse/unicorn-rs.svg?branch=master)](https://travis-ci.org/ekse/unicorn-rs)
 * [saurvs/hypervisor-rs](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
 
 ### Web programming

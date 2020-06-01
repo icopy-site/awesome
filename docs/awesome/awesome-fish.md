@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="jorgebucaran/awesome-fish"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome `fish` [![Version](https://img.shields.io/github/tag/fish-shell/fish-shell.svg?label=&color=0080FF)](https://github.com/fish-shell/fish-shell/releases/latest)
+## Awesome `fish` (the friendly interactive shell) [![Version](https://img.shields.io/github/tag/fish-shell/fish-shell.svg?label=&color=0366d6)](https://github.com/fish-shell/fish-shell/releases/latest)
 
 A curated list of the most fabulous packages, prompts, and resources for the <a href="https://github.com/fish-shell/fish-shell" title="fish">friendly interactive shell</a>.
 
