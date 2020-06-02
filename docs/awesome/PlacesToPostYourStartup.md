@@ -55,6 +55,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * BetaList - https://betalist.com/submit
 * Beterest - https://beterest.com/submit-startup/
 * Boing Boing - http://boingboing.net/sub/
+* Broadwise.org - https://broadwise.org/
 * BuiltInChicago - http://www.builtinchicago.org/send-us-tip
 * Capterra - http://www.capterra.com/vendors/sign-up
 * CloudShowPlace - http://www.cloudshowplace.com/add-your-company/
@@ -63,9 +64,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Crazy About Startups - http://www.crazyaboutstartups.com/index.php/share-your-startup-form
 * CrozDesk - https://vendor.crozdesk.com/user/signup
 * Crunch Base - https://www.crunchbase.com/#/home/index
-* CSS Mania - http://www.cssmania.com/submit/
 * Designer News - https://www.designernews.co/
-* Digg - http://digg.com/submit
 * Discova - http://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
 * Erlibird - https://erlibird.com/beta-testing
@@ -122,6 +121,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Startup Collections - http://startupcollections.com/
 * Startup Dope - http://startupdope.com/submit-news/
 * Startup Inspire - https://www.startupinspire.com/submit
+* Startup John - https://www.startupjohn.com/
 * Startup Lift - http://www.startuplift.com/
 * Startup Ranking - http://www.startupranking.com/
 * Startup Register - http://startupregister.net/register-your-startup/

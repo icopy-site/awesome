@@ -79,6 +79,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Code Analysis and Metrics
  * [ameba](https://github.com/crystal-ameba/ameba) - A static code analysis tool
+ * [linguist.cr](https://github.com/microgit-com/linguist.cr) - Using multiple ways to find programming language used in files, based on Github's Linguist
 
 ## Compression
  * [Crystar](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
@@ -266,6 +267,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [pinger](https://github.com/spider-gazelle/pinger) - Ping IP addresses and DNS entries without requiring sudo
  * [port_midi](https://github.com/jimm/crystal_port_midi) - Crystal C bindings for the PortMIDI cross-platform MIDI I/O library
  * [retriable.cr](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
+ * [simple_retry](https://github.com/spider-gazelle/simple_retry) - Simple tool for retrying failed code blocks
  * [ulid](https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID)
  * [zaru_crystal](https://github.com/szTheory/zaru_crystal) - Filename sanitization
 
@@ -398,6 +400,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [office365](https://github.com/PlaceOS/office365) - Microsoft Graph API wrapper
  * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
  * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry](https://github.com/getsentry/sentry)
+ * [stripe.cr](https://github.com/confact/stripe.cr) - Stripe api wrapper
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
  * [web_finger](https://github.com/toddsundsted/web_finger) - A WebFinger (https://tools.ietf.org/html/rfc7033) client
  * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) - A library to interact with your YNAB data
@@ -487,7 +490,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * TextMate
    * [Crystal.tmbundle](https://github.com/crystal-lang-tools/Crystal.tmbundle) - Crystal syntax highlighting, compile, format command, snippets
  * Vim
-   * [vim-crystal](https://github.com/rhysd/vim-crystal) - Vim filetype support for Crystal
+   * [vim-crystal](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
    * [vim-slang](https://github.com/elorest/vim-slang) - Vim filetype support for Slang Templating Engine
  * Visual Studio Code
    * [vscode-crystal](https://github.com/g3ortega/vscode-crystal) - Crystal language support in VSCode

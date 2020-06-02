@@ -54,6 +54,10 @@
 
 - [vset](https://github.com/mulh8377/vset) - A project setup and configuration tool for V projects.
 
+### Serialization
+
+- [protoc-v](https://github.com/emily33901/protoc-v) - Protobuf compiler and plugin for V.
+
 ## Libraries
 
 ### Command line interface

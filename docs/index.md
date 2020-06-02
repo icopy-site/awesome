@@ -471,6 +471,7 @@
 - [Textpattern](awesome/awesome-textpattern.md) - Lightweight PHP-based CMS.
 - [Drupal](awesome/awesome-drupal.md) - Extensible PHP-based CMS.
 - [Craft CMS](awesome/awesome.md) - Content-first CMS.
+- [Sitecore](awesome/Awesome-Sitecore.md) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
 
 ## Hardware
 
