@@ -29,7 +29,6 @@ It includes a command-line shell and an associated scripting language.
 ## Blogs
 
 * [Windows PowerShell Blog](https://blogs.msdn.microsoft.com/powershell/) - Official PowerShell Team Blog.
-* [Hey, Scripting Guy! Blog](http://blogs.technet.com/b/heyscriptingguy/) - Popular Microsoft blog.
 * [Learn PowerShell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox who moderated for the Scripting Guy.
 * [PowerShellMagazine](http://www.powershellmagazine.com/) - Awesome magazine.
 * [PowerShellExplained](https://powershellexplained.com) - Personal blog of Kevin Marquette
@@ -66,7 +65,6 @@ It includes a command-line shell and an associated scripting language.
 
 * [GitHub](https://github.com/search?l=powershell&q=stars%3A%3E1&s=stars&type=Repositories) - Looking for an Open Source PowerShell project? It's probably here.
 * [PowerShell Gallery](https://www.powershellgallery.com/) - Official PowerShell package repository, used by PowerShellGet.
-* [TechNet Gallery](https://gallery.technet.microsoft.com/) - Wide variety of PowerShell code from snippets to modules.
 
 ## Commandline Productivity
 
@@ -98,18 +96,12 @@ It includes a command-line shell and an associated scripting language.
 
 * [PowerShell Studio](https://www.sapien.com/software/powershell_studio) - Powerful PowerShell IDE with module, help, and user interface development tools, high DPI support and regular updates.
 * [PowerShell for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) - Provides IntelliSense, code navigations, script analysis, script debugging, and more for the [Visual Studio Code](https://code.visualstudio.com) editor.
-* [PoshTools for Visual Studio](https://github.com/adamdriscoll/PoshTools) - Provides IntelliSense, script debugging, and Pester testing support for PowerShell to Visual Studio.
+* [PoshTools for Visual Studio](https://ironmansoftware.com/powershell-tools-for-visual-studio/) - Provides IntelliSense, script debugging, and Pester testing support for PowerShell to Visual Studio.
 * [PowerShell ISE](https://docs.microsoft.com/en-us/powershell/scripting/components/ise/introducing-the-windows-powershell-ise) - Official PowerShell development environment included with Microsoft Windows.
 * [ISE Steroids](http://www.powertheshell.com/isesteroids/) - Add-on for the PowerShell ISE which provides a rich set of additional features to complete the ISE development experience.
 * [PowerShell Plus](https://www.idera.com/productssolutions/freetools/powershellplus) - All in one IDE.
 * [SublimeText package](https://github.com/SublimeText/PowerShell) - PowerShell language support for Sublime Text.
 * [Atom package](https://github.com/jugglingnutcase/language-powershell) - PowerShell language support for Atom.
-
-## Module Development Templates
-
-* [Plaster](https://github.com/PowerShell/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
-* [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Get started using module templates in 2 minutes with this module's low entry barrier and casual convenience.
-* [Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
 
 ## Frameworks
 
@@ -118,12 +110,23 @@ It includes a command-line shell and an associated scripting language.
 * [PSCX](https://github.com/Pscx/Pscx) - PowerShell Community Extensions - Useful set of additional cmdlets.
 * [PSFramework](https://github.com/PowershellFrameworkCollective/psframework) - Easily add configurations, logging and more to your own PowerShell module.
 
+## Interactive Learning
+
+* [PSKoans](https://github.com/vexx32/PSKoans) - A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.
+
+## Module Development Templates
+
+* [Plaster](https://github.com/PowerShell/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
+* [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Get started using module templates in 2 minutes with this module's low entry barrier and casual convenience.
+* [Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
+
 ## Package Managers
 
 * [PowerShellGet](https://github.com/powershell/powershellget) - PowerShellGet is the Package Manager for PowerShell. Packages are available on [PowerShellGallery](https://www.PowerShellGallery.com).
 * [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
 * [GitLab](https://github.com/akamac/GitLabProvider) - Use a GitLab server as Package Provider.
 * [Scoop](https://scoop.sh) - A command-line installer for Windows.
+* [PowerShell App Deployment Toolkit](https://psappdeploytoolkit.com/) - Provides a set of functions to perform common application deployment tasks and to interact with the user during a deployment.
 
 ## Parallel Processing
 
@@ -147,11 +150,20 @@ It includes a command-line shell and an associated scripting language.
 * [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Easily identify highly complex attack paths that would otherwise be impossible to quickly identify.
 * [Nishang](https://github.com/samratashok/nishang) - Enables scripting for red team, penetration testing, and offensive security.
 
+## SharePoint
+
+* [AutoSPInstaller](https://autospinstaller.com/) - Automated SharePoint 2010-2019 installation script.
+* [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) - API for SharePoint 2010, 2013 and Online.
+* [SPReplicator](https://github.com/potatoqualitee/SPReplicator) - SPReplicator helps replicate SharePoint list data to/from CSV, SQL Server, SharePoint itself and more.
+
+## SQL Server
+
+* [dbatools](https://dbachecks.io) - Helps SQL Server Pros be more productive with instance migrations and much more.
+
 ## Testing
 
 * [Pester](https://github.com/pester/Pester) - PowerShell BDD style testing framework.
 * [Format-Pester](https://github.com/equelin/format-pester) - PowerShell module for documenting Pester's results - exports Pester results to HTML, Word, text files using [PScribo](https://github.com/iainbrighton/PScribo).
-* [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Static code checker for modules and scripts. It checks the quality of the code by running a set of rules based on best practices identified by the PowerShell Team and community.
 
 ## Themes
 
@@ -185,16 +197,6 @@ It includes a command-line shell and an associated scripting language.
 * [Pode](https://github.com/Badgerati/Pode) - Pode is a Cross-Platform PowerShell framework for creating web servers to host REST APIs, Web Sites, and TCP/SMTP Servers.
 * [Polaris](https://github.com/PowerShell/Polaris) - A cross-platform, minimalist web framework for PowerShell.
 * [WebCommander](https://github.com/vmware/webcommander) - Run scripts and view results, in a friendly web GUI or via a web service.
-
-## SharePoint
-
-* [AutoSPInstaller](https://autospinstaller.com/) - Automated SharePoint 2010-2019 installation script.
-* [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) - API for SharePoint 2010, 2013 and Online.
-* [SPReplicator](https://github.com/potatoqualitee/SPReplicator) - SPReplicator helps replicate SharePoint list data to/from CSV, SQL Server, SharePoint itself and more.
-
-## SQL Server
-
-* [dbatools](https://dbachecks.io) - Helps SQL Server Pros be more productive with instance migrations and much more.
 
 ## Misc
 

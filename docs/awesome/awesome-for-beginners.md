@@ -79,6 +79,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue) _(label: good first issue)_ <br> API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly.
 - [SirixDB](https://github.com/sirixdb/sirix/labels/good%20first%20issue) _(label: good first issue)_ <br> SirixDB is an evolutionary, versioned NoSQL document store (XML and JSON) written (mostly) in Java. It stores compact snapshots during commits with many concepts borrowed from ZFS and Git. Each revision is indexed and the document store can be queried with temporal queries. It's especially well stuited for modern hardware.
 - [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF/labels/good%20first%20issue) _(label: good first issue)_ <br> An android app to convert images to PDF file.
+- [Presto](https://github.com/prestosql/presto/labels/good%20first%20issue) _(label: good first issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on [project's Slack](https://prestosql.io/slack.html).
 
 ## JavaScript
 
@@ -149,6 +150,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Binari](https://github.com/BrandonArmand/Binari/labels/up%20for%20grabs) _(label: up for grabs)_ <br> Interactive code editor with a live binary tree visual designed to teach new developers the fundementals of dynamic programming.
 - [SirixDB](https://github.com/sirixdb/sirix-svelte-front-end/labels/good%20first%20issue) _(label: good first issue)_ <br>
 A Svelte/Sapper based <a href="https://github.com/sirixdb/sirix-svelte-front-end">web front-end</a> for <a href="https://sirix.io">SirixDB</a>, which is a versioned NoSQL document store (XML and JSON) written in Java.
+- [json-editor](https://github.com/json-editor/json-editor/labels/good%20first%20issue) _(label: good first issue)_ <br>
+JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
 
 ## Julia
 

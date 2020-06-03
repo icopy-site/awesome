@@ -63,6 +63,7 @@
 - [CloudyCam](https://CloudyCam.dev/) - PWA built on Next.js and hosted on Zeit Now v2 Serverless platform.
 - [FbaMonthly](https://www.fbamonthly.com) - Hosted on Netlify, built with Jekyll, Netlify Functions and Netlify Forms.
 - [Jarod Peachey](https://jarodpeachey.netlify.com) - Built with Gatsby + MaterialUI and hosted on Netlify
+- [ProtonDB](https://www.protondb.com) - React/MaterialUI/Firebase hosted on Netlify since August 2018. Prominent in Linux gaming community.
 
 ## Static Site Generators
 
@@ -81,7 +82,7 @@
 *For a more complete list see [StaticGen](https://www.staticgen.com/).*
 
 ## CMS
-
+- [Kentico Kontent](https://kontent.ai) - A cloud-native headless CMS that scales.
 - [Contentful](https://contentful.com) - Content infrastructure for digital teams.
 - [NetlifyCMS](https://netlifycms.org/) - open source Git-based CMS.
 - [ButterCMS](https://buttercms.com/) - Headless CMS and Content API.
@@ -183,6 +184,7 @@
 - [How We Got Here and The Future of the Web](https://www.gatsbyjs.com/gatsby-days-keynote-kyle/) - Kyle Mathews.
 - [Talks from all the Jamstack Conferences](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos) - Jamstack Conf.
 - [How I Used React, Vue, & Node to Build a Single Jamstack App](https://www.youtube.com/watch?v=dwpn1pd9kT8) - Ahmad Awais.
+- [React vs Vue, Gatsby vs Gridsome - building the same site](https://www.youtube.com/watch?v=H19fF7ITtaI) - Ondrej Polesny.
 
 ## Tutorials / Articles
 
@@ -210,6 +212,7 @@
 - [A Broad Discussion on Jamstack & E-Commerce (Podcast & Transcript)](https://snipcart.com/jamstack-ecommerce-podcast)
 - [The Beginner's Guide to Static Site Generators](https://bejamas.io/blog/static-site-generators/)
 - [9 Headless CMS Options for Your Jamstack Site](https://bejamas.io/blog/headless-cms/)
+- [State of Jamstack 2020 report](https://kontent.ai/resources/state-of-jamstack-2020-report)
 
 ## Podcasts
 
