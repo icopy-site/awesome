@@ -294,6 +294,7 @@
 - [Computer Vision](awesome/awesome-computer-vision.md)
 - [Deep Learning](awesome/awesome-deep-learning.md) - Neural networks.
 	- [TensorFlow](awesome/awesome-tensorflow.md) - Library for machine intelligence.
+	- [TensorFlow.js](awesome/awesome-tensorflow-js.md) - WebGL-accelerated machine learning JavaScript library for training and deploying models.
 	- [Papers](awesome/awesome-deep-learning-papers.md) - The most cited deep learning papers.
 	- [Education](awesome/awesome-deep-learning-resources.md)
 - [Deep Vision](awesome/awesome-deep-vision.md)

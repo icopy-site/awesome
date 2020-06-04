@@ -281,6 +281,7 @@ nav:
     - Deep Learning: awesome/awesome-deep-learning.md
     - Deep Learning_sub: 
       - TensorFlow: awesome/awesome-tensorflow.md
+      - TensorFlow.js: awesome/awesome-tensorflow-js.md
       - Papers: awesome/awesome-deep-learning-papers.md
       - Education: awesome/awesome-deep-learning-resources.md
     - Deep Vision: awesome/awesome-deep-vision.md
