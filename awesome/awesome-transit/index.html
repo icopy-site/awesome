@@ -8826,6 +8826,7 @@
 <ul>
 <li><a href="https://www.transit.dot.gov/ntd">National Transit Database (USA)</a> - Information and statistics on the transit systems of the United States, run by the Federal Transit Administration.</li>
 <li><a href="https://transport.data.gouv.fr/">Transport (France)</a> - GTFS datasets for French transit systems.</li>
+<li><a href="https://github.com/public-transport/european-transport-operators">European long-distance transport operators (EU) <em>(Unofficial)</em></a> - Unofficial list of available API endpoints, GTFS feeds and client libraries</li>
 </ul>
 <h4 id="proprietary-non-standard-vendor-apis">Proprietary (non-standard) vendor APIs<a class="headerlink" href="#proprietary-non-standard-vendor-apis" title="Permanent link">&para;</a></h4>
 <ul>
@@ -8834,6 +8835,7 @@
 <li><a href="http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf">NextBus API</a> - REST API for real-time vehicle, route, stop, and arrival data for agencies that have puchased NextBus's hardware and/or software.</li>
 <li><a href="http://www.navitia.io/">Navitia.io</a> - REST API for journey planning, stop schedules, isocrhons and lot more on US and EU. <a href="https://github.com/CanalTP/navitia">Navitia</a> is the opensource engine behind the live API.</li>
 <li><a href="http://api.citybik.es">CityBikes</a> - REST API for aggregated bikeshare data from around the world. Powered by <a href="https://github.com/eskerda/pybikes">pyBikes</a>.</li>
+<li><a href="https://de.wikipedia.org/wiki/HAFAS">HAFAS</a> – Propriety public transport management software by <a href="https://www.hacon.de">HaCon</a> (<a href="https://gist.github.com/derhuerst/2b7ed83bfa5f115125a5">list of endpoints</a>)</li>
 </ul>
 <h3 id="software-for-creating-apis">Software for Creating APIs<a class="headerlink" href="#software-for-creating-apis" title="Permanent link">&para;</a></h3>
 <p>Software that you can set up to provide an API to transit and multimodal data.</p>
@@ -8846,6 +8848,7 @@
 <li><a href="https://github.com/denysvitali/gtfs-server">gtfs-server</a> - A web server, written in Rust that uses PostGIS as a backend to serve GTFS data via a HTTP endpoint</li>
 <li><a href="https://github.com/CanalTP/navitia">Navitia</a> is the opensource engine behind the <a href="http://www.navitia.io/">Navitia.io</a> live API.</li>
 <li><a href="https://github.com/eskerda/pybikes">pyBikes</a> - Software powering <a href="http://api.citybik.es">CityBikes</a> for worldwide bikeshare system info</li>
+<li><a href="https://github.com/public-transport/hafas-rest-api">hafas-rest-api</a> – Expose a <a href="https://de.wikipedia.org/wiki/HAFAS">HAFAS</a> endpoint as a REST API.</li>
 </ul>
 <h3 id="agency-tools">Agency Tools<a class="headerlink" href="#agency-tools" title="Permanent link">&para;</a></h3>
 <p>Tools for transit agencies.  See also <a href="#gtfs-data-collection-and-maintenance-tools">GTFS Data Collection and Maintenance Tools</a> for tools specific to GTFS.</p>
@@ -8957,6 +8960,8 @@
 <h4 id="java-script">Java Script<a class="headerlink" href="#java-script" title="Permanent link">&para;</a></h4>
 <ul>
 <li><a href="https://github.com/evansiroky/gtfs-sequelize">gtfs-sequelize</a> - Node.js library modeling the static GTFS using <a href="http://sequelizejs.com/">sequelize.js</a>.</li>
+<li><a href="https://github.com/public-transport/gtfs-utils">gtfs-utils</a> – Utilities to process GTFS data sets (e.g., "flattening" <code>calendar.txt</code> &amp; <code>calendar_dates.txt</code>, computing arrival/departure times of trips).</li>
+<li><a href="https://github.com/derhuerst/gtfs-via-postgres">gtfs-via-postgres</a> – Yet another tool to process GTFS using PostgreSQL.</li>
 <li><a href="https://github.com/brendannee/node-gtfs">Node-GTFS</a> - Loads transit data from <a href="http://www.gtfs-data-exchange.com/">GTFS Data Exchange</a>, unzips it and stores it to a MongoDB database and provides some methods to query for agencies, routes, stops and times.</li>
 </ul>
 <h4 id="postgresql">PostgreSQL<a class="headerlink" href="#postgresql" title="Permanent link">&para;</a></h4>
@@ -8996,6 +9001,7 @@
 <li><a href="https://github.com/hiposfer/o2g">o2g</a> - A simple tool to extract GTFS feed from OpenStreetMap.</li>
 <li><a href="https://github.com/laidig/transloc-gtfs-rectifier">transloc-gtfs-rectifier</a> - Python application that attempts to assign GTFS stop_ids to <a href="http://transloc.com/">TransLoc</a> IDs using <a href="https://market.mashape.com/transloc/openapi-1-2">TransLoc's API</a> (<a href="http://transloc.com/">TransLoc</a> doesn't provide GTFS <code>stop_ids</code> in their API).</li>
 <li><a href="https://github.com/geops/hafas2gtfs">Hafas2GTFS</a> - Hafas2GTFS converter written in Python, optimized for SBB HAFAS feeds.</li>
+<li><a href="https://github.com/derhuerst/hafas-generate-gtfs">hafas-generate-gtfs</a> <em>(work-in-progress)</em>] – A Javascript tool to generate GTFS dumps from HAFAS endpoints.</li>
 <li><a href="https://github.com/r-gtfs/gtsf">gtsf</a> - general transit (GTFS) simple (geographic) features (sf) in R. can be used to convert from GTFS to Shapefile, GeoJSON, and other formats through GDAL.</li>
 <li><a href="https://github.com/CanalTP/transit_model">transit_model</a> - A Rust library to convert to/from the following formats: GTFS, NTFS (for Navitia, see <a href="#software-for-creating-apis">Software for Creating APIs</a>), TransXChange (<a href="http://naptan.dft.gov.uk/transxchange/documentation.htm">UK standard format</a>), KV1 (<a href="http://bison.connekt.nl/standaarden/">Netherland standard format</a>) or NeTEx (<a href="http://netex-cen.eu/">European standard format</a>).</li>
 <li><a href="https://github.com/OneBusAway/onebusaway-vdv-modules">onebusaway-vdv-modules</a> - A Java library for working with transit data in the VDV format, including converting VDV-452 schedule data into GTFS.</li>
@@ -9076,14 +9082,17 @@
 <li><a href="http://thetransitclock.org">GTFS-realtime VehiclePositions to GTFS-realtime TripUpdates (TransitClock)</a> - Java application that can consume raw vehicle positions and generate prediction times in formats such as GTFS-realtime.  Formerly known as "Transitime".</li>
 <li><a href="https://github.com/Intersection/gtfs-realtime-translators">gtfs-realtime-translators</a> - A Python-based tool to translate custom arrival API formats to GTFS-realtime.  As of July 2019 it supports LA Metro and SEPTA.</li>
 <li><a href="https://github.com/jonathonwpowell/transloc-to-gtfs-real-time">Transloc API to GTFS-realtime</a> - A Node.js based tool to convert the Transloc API to GTFS-realtime.</li>
+<li><a href="https://github.com/derhuerst/hafas-gtfs-rt-feed">hafas-gtfs-rt-feed</a> – A Javascript tool to generate a GTFS Realtime feed from a HAFAS endpoint.</li>
 </ul>
 <h4 id="gtfs-realtime-utilities">GTFS Realtime Utilities<a class="headerlink" href="#gtfs-realtime-utilities" title="Permanent link">&para;</a></h4>
 <ul>
 <li><a href="https://github.com/kurtraschke/gtfs-rt-dump">gtfs-rt-dump</a> - Converts protocol buffer format to plain text for easy viewing of a GTFS-realtime feed in plain text (for debugging purposes)</li>
 <li><a href="https://github.com/laidig/gtfs-rt-printer">GTFS-realtime Printer</a> Java-based utility to print out information from a GTFS-realtime file or URL.</li>
+<li><a href="https://github.com/derhuerst/print-gtfs-rt-cli">print-gtfs-rt-cli</a> – Javascript tool to read a GTFS Realtime feed from stdin, print human-readable or as JSON.</li>
 <li><a href="https://github.com/OneBusAway/onebusaway-gtfs-realtime-munin-plugin">GTFS-realtime Munin Plugin</a> - Provides a <a href="http://munin-monitoring.org/">Munin</a> plugin for logging information about a GTFS-realtime feed.</li>
 <li><a href="https://github.com/OneBusAway/onebusaway-gtfs-realtime-nagios-plugin">GTFS-realtime Nagio Plugin</a> - Provides a <a href="https://www.nagios.org/">Nagios</a> plugin for monitoring a GTFS-realtime feed</li>
 <li><a href="https://github.com/CUTR-at-USF/gtfs-realtime-test-service">GTFS-realtime-test-service</a> - A tool for mocking GTFS-realtime feed content (e.g., for use in testing a GTFS-realtime consuming application)</li>
+<li><a href="https://github.com/derhuerst/gtfs-rt-differential-to-full-dataset">gtfs-rt-differential-to-full-dataset</a> – Javascript tool to transform a continuous GTFS Realtime stream of <code>DIFFERENTIAL</code> incrementality data into a <code>FULL_DATASET</code> dump.</li>
 </ul>
 <h3 id="siri">SIRI<a class="headerlink" href="#siri" title="Permanent link">&para;</a></h3>
 <ul>
