@@ -30,7 +30,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [Getting Started with Apache JMeter](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
 - [A Simple Load Test with JMeter](https://www.urbaninsight.com/article/simple-load-test-with-jmeter)
-- [Performance testing with JMeter](https://www.atlassian.com/blog/archives/performance_testing_with_jmete)
+- [The Beginner's Guide to Performance Testing with Apache JMeter](https://medium.com/better-programming/the-beginners-guide-to-performance-testing-with-apache-jmeter-5cc52c327ff6)
 
 ## Tutorials
 
@@ -224,7 +224,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Correlation
 
-- [Siebel CRM JMeter plugin](https://github.com/Blazemeter/SiebelPlugin)
+- [Correlation Recorder plugin](https://github.com/Blazemeter/CorrelationRecorder) - JMeter plugin that simplifies the process of recording for applications with Dynamic Variables by providing automatic correlations of variables at recording time.
+- [Siebel CRM plugin](https://github.com/Blazemeter/SiebelPlugin) - JMeter plugin to simplify the scripting of Siebel CRM applications by providing automatic correlations of variables at recording time *(deprecated)*.
 
 ## APM Integration
 

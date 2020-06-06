@@ -13,6 +13,7 @@ This list is a collection of useful resources to create decentralized applicatio
 ## Official
 
 - [Official website](https://wavesprotocol.org/)
+- [Blog on Medium](https://medium.com/wavesprotocol)
 - [Waves on GitHub](https://github.com/wavesplatform/)
 - [Documentation](https://docs.wavesprotocol.org/)
 
@@ -34,6 +35,15 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 - [How to: Waves dApps — DAO. Example using Ride-language for smart contracts](https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8) - How to create the simple DAO dApp for voting and collective investing in projects. ([ru](https://habr.com/ru/post/447808/))
 - [How to: Waves dApps — Prediction Markets example with Ride-language. Part 1](https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d) - How to create the simple Prediction Market dApp (like Augur or Gnosis) to create new markets, trade shares and win if the prediction will come true.
 - [Simple voting on the Waves blockchain](https://docs.wavesprotocol.org/en/smart-contracts/simple-voting-on-the-waves-blockchain.html) - The head of the HOA (homeowners association) asks the tenants of the building: "Dear residents, do you agree with the construction of the kids' playground in the yard of your building?". Objective: implement such voting among tenants on the Waves blockchain.
+- [How to use Waves Signer](https://medium.com/@izhur27/getting-started-with-waves-signer-893017c9b7ae) - How to authorize and sign transactions on your website.
+- [Understanding Waves Signer — Nuxt.js integration step-by-step](https://medium.com/auctionlance/understanding-waves-signer-nuxt-js-integration-step-by-step-fe33e19c2eb8) - How to create demo app for authenticating with Waves Signer and Nuxt.js for SSR (server-side rendering).
+- [Certificado, Part 1. How to build your first blockchain-based app in 15 minutes](https://medium.com/wavesprotocol/how-to-build-your-first-blockchain-based-app-in-15-minutes-83de36826143) - Tutorial on how to create blockchain-based certificate storage ([ru](https://vk.com/@wavesplatform-kak-sozdat-pervoe-prilozhenie-na-blokcheine-za-15-minut)).
+- [Certificado, Part 2. What are Smart Contracts and how to use them in your app](https://medium.com/wavesprotocol/what-are-smart-contracts-and-how-to-use-them-in-your-app-a1c0d62d1a5) - Tutorial on how to create blockchain-based certificate storage ([ru](https://vk.com/@wavesplatform-chto-takoe-smart-kontrakty-i-kak-ih-ispolzovat-v-prilozhenii)).
+- [How to: offer a free trial for your dApp](https://medium.com/wavesprotocol/make-your-dapp-free-for-a-user-d560b38ec598) - Detailed guide to lowering the barrier for users of a dApp ([ru](https://vk.com/@wavesplatform-how-to-besplatnye-dlya-polzovatelya-decentralizovannye-prilo)).
+- [Blockchain Trigger: a tool for automatic smart contract invocation](https://medium.com/wavesprotocol/blockchain-trigger-a-tool-for-automatic-smart-contract-invocation-1cb2748c53be) - Calling a smart contract, users experience some issues, which hampers mass adoption of blockchain. An instrument called Blockchain Trigger could help resolve these issues ([ru](https://vk.com/@wavesprotocol-instrument-dlya-dlya-avtomaticheskogo-vyzova-smart-kontrakto)).
+- [How to avoid common mistakes in dApp development](https://medium.com/wavesprotocol/how-to-avoid-common-mistakes-in-dapp-development-61015e700459) - How can we avoid the most common mistakes when developing dApps for Web 3.0 ([ru](https://vk.com/@wavesprotocol-kak-izbezhat-oshibok-pri-razrabotke-dapp)).
+- [How to write decentralized oracles in Ride](https://medium.com/wavesprotocol/how-to-write-decentralized-oracles-in-ride-f2c096812b18) - How can we resolve the issue of supplying real-world data to the blockchain? Introducing Oraculus - a smart contract for creating decentralized oracles ([ru](https://vk.com/@wavesprotocol-kak-napisat-decentralizovannyi-orakul-na-ride)).
+- [Billy — motivation bot for Slack and Microsoft Teams](https://medium.com/@ikardanov/billy-motivation-and-recognition-bot-for-slack-and-microsoft-teams-d05167e4a7f9) - A tool built on the Waves blockchain to reward team members in a non-financial way ([ru](https://vc.ru/tribuna/128472-billy-bot-dlya-motivacii-personala)).
 
 ## Products
 
@@ -83,6 +93,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 ### Docker images
 
 - [WavesNode](https://hub.docker.com/r/wavesplatform/wavesnode) - Docker Image for Waves Platform node. Supports any official or custom networks.
+- [K8s by loxal](https://hub.docker.com/r/loxal/waves-node) - The container was built in order to run as a fire-and-forget `StatefulSet` in a Kubernetes cluster.
 - [waves-private-node](https://hub.docker.com/r/wavesplatform/waves-private-node) - Private local Waves Node. The easiest way to run your own isolated node to develop smart contracts and any experiments.
 - [explorer](https://hub.docker.com/r/wavesplatform/explorer) - Waves Explorer for your node.
 
@@ -109,6 +120,10 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 - [WavesJ](https://github.com/wavesplatform/WavesJ) - Java library to interact with the Waves blockchain and DEX.
 - [waves-crypto-java](https://github.com/msmolyakov/waves-crypto-java) - Library to work with cryptographic primitives used in the Waves blockchain.
 #### JavaScript/TypeScript
+- [Waves Signer](https://github.com/wavesplatform/signer) - library to interact with the Waves blockchain from your web app ([example provider](https://github.com/waves-exchange/provider-web)).
+- [vue-waves-signer](https://github.com/opensolutionsweb3/vue-waves-signer) - Waves Signer implementation for Vue.js.
+- [pay-crypto-widget](https://github.com/vlzhr/pay-crypto-widget) - JS widget for accepting crypto payments on your website.
+- [crypto-donate](https://github.com/vlzhr/crypto-donate) - HTML widget allowing to donate Waves tokens to content authors.
 - [waves-transactions](https://github.com/wavesplatform/waves-transactions) - JS library to build and sign transactions.
 - [ts-lib-crypto](https://github.com/wavesplatform/ts-lib-crypto) - Typescript implementations like signature verification and protocol entries used in Waves protocol.
 #### Go
@@ -117,6 +132,8 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 - [WavesKit](https://github.com/deemru/WavesKit) - All-in-one Waves Platform development kit for the PHP language.
 #### Python
 - [PyWaves](https://github.com/PyWaves/PyWaves) - Object-oriented library for the Waves blockchain platform.
+- [ERC20 Gateway Framework](https://github.com/PyWaves/Waves-ERC20-Gateway) - Allows to easily establish a gateway between any ERC-20 token and the Waves blockchain ([example](https://github.com/iammortimer/TN-WAVES-Gateway)).
+- [Waves-Gateway-Framework](https://github.com/jansenmarc/WavesGatewayFramework) - A framework to connect other cryptocurrencies to the Waves blockchain ([LTC example](https://github.com/jansenmarc/WavesGatewayLTCExample)).
 #### Rust
 - [WavesRS](https://github.com/petermz/WavesRs) - A Rust interface for the Waves blockchain.
 #### Swift
@@ -148,10 +165,11 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 ### Projects
 
 - [Neutrino](https://github.com/ventuary-lab/neutrino-contract) - An algorithmic price-stable cryptocurrency protocol collateralized by WAVES token.
+- [Billy](https://iambilly.app) - A motivation tool for teams. Billy offers a product to create an atmosphere of cooperation, focus the company on the core values, and incentivize sharing by creating an in-team economy.
 - [Ventuary-DAO](https://alpha.ventuary.space/) - Sandbox dedicated to filtering dApp ideas and stimulating the Waves community to take part in Web 3.0 adoption.
 - [Tokenomica](https://tokenomica.com/) - Security Tokens Issuance Platform. Create and trade digital assets with ease and confidence.
 - [LIGA](https://ligatokens.io/) - A platform with tokenized sport events, enabling you to deal with real-time rates and to trade your personal predictions with others.
-- [WaveFlow](https://waveflow.xyz/) - Allows you to create new or use existing exchangers that provide a constant supply and demand for certain traded pairs. Algorithmic pricing is used to ensure consistency of supply and demand - the more popular the token is, the higher its price is set. Each exchanger is a dApp written in Ride.
+- [WaveFlow](https://waveflow.xyz/) - Allows you to create new or use existing exchangers that provide a constant supply and demand for certain traded pairs. Algorithmic pricing is used to ensure consistency of supply and demand - the more popular the token is, the higher its price is set. Each exchanger is a dApp written in Ride ([example of trading bot](https://github.com/vlzhr/waveflow-trading-bot)).
 - [Lombardini](https://lombardini.io/) - Borrow WBTC for WAVES instantly.
 - [Blockchain Cars](http://blockchaincars.io/) - Transport as a Service.
 - [WavesAffi](https://github.com/bettexproject/WavesAffi) - Decentralized affiliate program on Waves blockchain.
@@ -181,6 +199,9 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 ### French
 
 - [Telegram](https://t.me/wavesdappsFR) - Chat Telegram pour les développeurs dApps.
+- [Dev France on Youtube](https://www.youtube.com/channel/UC2DS9ktTKWGW3NHHV2Ja3_A) - Une chaîne dédiée à l'apprentissage du développement d'applications décentralisées (dApp) sur la Blockchain Waves.
+- [Dev France on Facebook](https://www.facebook.com/wavesfr)
+- [Dev France on Twitter](https://twitter.com/WavesDevFr)
 
 ### Greek
 

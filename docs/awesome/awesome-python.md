@@ -25,20 +25,24 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Algorithms and Design Patterns
 
-*Python implementation of algorithms and design patterns.*
+*Python implementation of data structures, algorithms and design patterns.*
 
-* [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python.
-* [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
-* [python-ds](https://github.com/prabhupant/python-ds) - Clean and simple collection of data structure and algorithms in Python for coding interviews.
-* [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
-* [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Fast, pure-Python implementation of SortedList, SortedDict, and SortedSet types.
-* [transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation in Python.
+* Algorithms
+    * [TheAlgorithms](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
+    * [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
+    * [python-ds](https://github.com/prabhupant/python-ds) - A collection of data structure and algorithms for coding interviews.
+    * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
+* Design Patterns
+    * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
+    * [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
+    * [transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
 
 ## ASGI Servers
 
-*ASGI-compatible web servers.*
+*[ASGI](https://asgi.readthedocs.io/en/latest/)-compatible web servers.*
 
-* [uvicorn](https://github.com/encode/uvicorn) - Uvicorn is a lightning-fast ASGI server implementation, using uvloop and httptools.
+* [uvicorn](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
+* [daphne](https://github.com/django/daphne) - A HTTP, HTTP2 and WebSocket protocol server for ASGI and ASGI-HTTP.
 
 ## Asynchronous Programming
 

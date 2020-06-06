@@ -86,6 +86,7 @@ nav:
       - Observables: awesome/awesome-observables.md
       - npm scripts: awesome/awesome-npm-scripts.md
       - 30 Seconds of Code: awesome/30-seconds-of-code.md
+      - Ponyfills: awesome/awesome-ponyfills.md
     - Swift: awesome/awesome-swift.md
     - Swift_sub: 
       - Education: awesome/Awesome-Swift-Education.md

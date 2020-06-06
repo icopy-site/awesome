@@ -109,6 +109,7 @@
 	- [Observables](awesome/awesome-observables.md)
 	- [npm scripts](awesome/awesome-npm-scripts.md) - Task runner.
 	- [30 Seconds of Code](awesome/30-seconds-of-code.md) - Code snippets you can understand in 30 seconds.
+	- [Ponyfills](awesome/awesome-ponyfills.md) - Like polyfills but without overriding native APIs.
 - [Swift](awesome/awesome-swift.md) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
 	- [Education](awesome/Awesome-Swift-Education.md)
 	- [Playgrounds](awesome/Awesome-Swift-Playgrounds.md)
