@@ -8123,6 +8123,7 @@
 <img alt="Logo" src="https://raw.githubusercontent.com/analysis-tools-dev/static-analysis/master/awesome.png" /></p>
 <blockquote>
 <p>Static program analysis is the analysis of computer software that is performed without actually executing programs — <a href="https://en.wikipedia.org/wiki/Static_program_analysis">Wikipedia</a></p>
+<p>The most important thing I have done as a programmer in recent years is to aggressively pursue static code analysis. Even more valuable than the hundreds of serious bugs I have prevented with it is the change in mindset about the way I view software reliability and code quality. — <a href="https://www.gamasutra.com/view/news/128836/InDepth_Static_Code_Analysis.php">John Carmack (Creator of Doom)</a> </p>
 </blockquote>
 <p><img alt="CI" src="https://github.com/analysis-tools-dev/static-analysis/workflows/CI/badge.svg" /></p>
 <p>This is a collection of static analysis tools and code quality checkers. Pull requests are very welcome!</p>
@@ -8138,10 +8139,12 @@
   <ul>
     <li><a href="#abap">ABAP</a></li>
     <li><a href="#ada">Ada</a></li>
+    <li><a href="#asm">Assembly</a></li>
     <li><a href="#awk">Awk</a></li>
     <li><a href="#c">C</a></li>
     <li><a href="#csharp">C#</a></li>
     <li><a href="#cpp">C++</a></li>
+    <li><a href="#coffeescript">CoffeeScript</a></li>
     <li><a href="#crystal">Crystal</a></li>
     <li><a href="#delphi">Delphi</a></li>
     <li><a href="#dlang">Dlang</a></li>
@@ -8162,7 +8165,6 @@
     <li><a href="#php">PHP</a></li>
     <li><a href="#perl">Perl</a></li>
     <li><a href="#python">Python</a></li>
-    <li><a href="#pythonwrapper">Python wrappers</a></li>
     <li><a href="#r">R</a></li>
     <li><a href="#rpg">RPG</a></li>
     <li><a href="#ruby">Ruby</a></li>
@@ -8183,16 +8185,21 @@
 <h2 id="abap">ABAP</h2>
 
 <ul>
-<li><a href="https://github.com/larshp/abaplint">abaplint</a> - Linter for ABAP, written in TypeScript.</li>
-<li><a href="https://github.com/larshp/abapOpenChecks">abapOpenChecks</a> - Enhances the SAP Code Inspector with new and customizable checks.</li>
+<li><a href="https://abaplint.org/">abaplint</a> - Linter for ABAP, written in TypeScript.</li>
+<li><a href="https://docs.abapopenchecks.org/">abapOpenChecks</a> - Enhances the SAP Code Inspector with new and customizable checks.</li>
 </ul>
 <h2 id="ada">Ada</h2>
 
 <ul>
-<li><a href="http://www.adacore.com/codepeer">Codepeer</a> - detects run-time and logic errors</li>
+<li><a href="http://www.adacore.com/codepeer">Codepeer</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - detects run-time and logic errors</li>
 <li><a href="https://www.mathworks.com/products/polyspace-ada.html">Polyspace for Ada</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - provide code verification that proves the absence of overflow, divide-by-zero, out-of-bounds array access, and certain other run-time errors in source code.</li>
-<li><a href="http://www.spark-2014.org/about">SPARK</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Static analysis and formal verification toolset for Ada</li>
+<li><a href="https://www.adacore.com/about-spark">SPARK</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Static analysis and formal verification toolset for Ada</li>
 <li><a href="https://scitools.com/ada-programming-essential/">Understand</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - IDE that provides code analysis, standards testing, metrics, graphing, dependency analysis and more for Ada and VHDL.</li>
+</ul>
+<h2 id="asm">Assembly</h2>
+
+<ul>
+<li><a href="http://stoke.stanford.edu/">STOKE</a> - a programming-language agnostic stochastic optimizer for the x86_64 instruction set. It uses random search to explore the extremely high-dimensional space of all possible program transformations</li>
 </ul>
 <h2 id="awk">Awk</h2>
 
@@ -8206,10 +8213,8 @@
 <li><a href="http://www.cprover.org/cbmc/">CBMC</a> - bounded model-checker for C programs, user-defined assertions, standard assertions, several coverage metric analyses</li>
 <li><a href="http://clang.llvm.org/extra/clang-tidy/">clang-tidy</a> - clang static analyser</li>
 <li><a href="https://github.com/MetricsGrimoire/CMetrics">CMetrics</a> - Measures size and complexity for C files</li>
-<li><a href="https://github.com/Ericsson/codechecker">Codecheker</a> - static analysis of C/C++ code, with web GUI</li>
 <li><a href="https://www.grammatech.com/products/codesonar">CodeSonar from GrammaTech</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Advanced, whole program, deep path, static analysis of C and C++ with easy-to-understand explanations and code and path visualization.</li>
-<li><a href="https://github.com/jameysharp/corrode">Corrode</a> - Semi-automatic translation from C to Rust. Could reveal bugs in the original implementation by showing Rust compiler warnings and errors.</li>
-<li><a href="https://github.com/danmar/cppcheck">cppcheck</a> - static analysis of C/C++ code</li>
+<li><a href="http://cppcheck.sourceforge.net/">cppcheck</a> - static analysis of C/C++ code</li>
 <li><a href="https://www.cppdepend.com">CppDepend</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.</li>
 <li><a href="https://github.com/google/styleguide/tree/gh-pages/cpplint">cpplint</a> - automated C++ checker that follows Google's style guide</li>
 <li><a href="https://github.com/dspinellis/cqmetrics">cqmetrics</a> - quality metrics for C code</li>
@@ -8221,34 +8226,25 @@
 <li><a href="https://github.com/nasa-sw-vnv/ikos">IKOS</a> - a sound static analyzer for C/C++ code based on LLVM</li>
 <li><a href="https://github.com/feddischson/include_gardener">include-gardener</a> - a multi-language static analyzer for C/C++/Obj-C/Python/Ruby to create a graph (in dot or graphml format) which shows all <code>#include</code> relations of a given set of files.</li>
 <li><a href="https://ldra.com">LDRA</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - a tool suite including static analysis (TBVISION) to various standards including MISRA C &amp; C++, JSF++ AV, CWE, CERT C, CERT C++ &amp; Custom Rules.</li>
-<li><a href="http://oclint.org/">oclint</a> - static analysis of C/C++ code</li>
-<li><a href="https://github.com/secure-software-engineering/phasar">Phasar</a> - A LLVM-based static analysis framework which comes with a taint and type state analysis.</li>
-<li><a href="https://www.mathworks.com/products/polyspace-bug-finder.html">Polyspace Bug Finder</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - identifies run-time errors, concurrency issues, security vulnerabilities, and other defects in C and C++ embedded software.</li>
-<li><a href="https://www.mathworks.com/products/polyspace-code-prover.html">Polyspace Code Prover</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - provide code verification that proves the absence of overflow, divide-by-zero, out-of-bounds array access, and certain other run-time errors in C and C++ source code.</li>
+<li><a href="https://phasar.org/">Phasar</a> - A LLVM-based static analysis framework which comes with a taint and type state analysis.</li>
+<li><a href="https://www.mathworks.com/products/polyspace-bug-finder.html">Polyspace Bug Finder</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Identifies run-time errors, concurrency issues, security vulnerabilities, and other defects in C and C++ embedded software.</li>
+<li><a href="https://www.mathworks.com/products/polyspace-code-prover.html">Polyspace Code Prover</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Provide code verification that proves the absence of overflow, divide-by-zero, out-of-bounds array access, and certain other run-time errors in C and C++ source code.</li>
 <li><a href="https://clang-analyzer.llvm.org/scan-build.html">scan-build</a> - Analyzes C/C++ code using LLVM at compile-time</li>
-<li><a href="https://github.com/ravenexp/splint">splint</a> - Annotation-assisted static program checker</li>
-<li><a href="https://github.com/SVF-tools/SVF">SVF</a> - a static tool that enables scalable and precise interprocedural dependence analysis for C and C++ programs.</li>
+<li><a href="http://splint.org/">splint</a> - Annotation-assisted static program checker</li>
+<li><a href="http://svf-tools.github.io/SVF/">SVF</a> - a static tool that enables scalable and precise interprocedural dependence analysis for C and C++ programs.</li>
 <li><a href="https://bitbucket.org/verateam/vera/wiki/Introduction">vera++</a> - Vera++ is a programmable tool for verification, analysis and transformation of C++ source code.</li>
 </ul>
 <h2 id="csharp">C#</h2>
 
 <ul>
 <li><a href="https://github.com/DotNetAnalyzers">.NET Analyzers</a> - An organization for the development of analyzers (diagnostics and code fixes) using the .NET Compiler Platform.</li>
-<li><a href="https://carc.codeplex.com/">Code Analysis Rule Collection</a> - Contains a set of diagnostics, code fixes and refactorings built on the Microsoft .NET Compiler Platform "Roslyn".</li>
-<li><a href="https://github.com/code-cracker/code-cracker">code-cracker</a> - An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.</li>
-<li><a href="https://www.devexpress.com/products/coderush/">CodeRush</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Code creation, debugging, navigation, refactoring, analysis and visualization tools that use the Roslyn engine in Visual Studio 2015 and up.</li>
+<li><a href="https://carc.codeplex.com/">Code Analysis Rule Collection</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - Contains a set of diagnostics, code fixes and refactorings built on the Microsoft .NET Compiler Platform "Roslyn".</li>
+<li><a href="http://code-cracker.github.io/">code-cracker</a> - An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.</li>
 <li><a href="https://github.com/DustinCampbell/CSharpEssentials">CSharpEssentials</a> - C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.</li>
 <li><a href="http://www.designite-tools.com">Designite</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Designite supports detection of various architecture, design, and implementation smells, computation of various code quality metrics, and trend analysis.</li>
-<li><a href="http://www.mono-project.com/docs/tools+libraries/tools/gendarme/">Gendarme</a> - Gendarme inspects programs and libraries that contain code in ECMA CIL format (Mono and .NET).</li>
+<li><a href="https://www.mono-project.com/docs/tools+libraries/tools/gendarme/">Gendarme</a> - Gendarme inspects programs and libraries that contain code in ECMA CIL format (Mono and .NET).</li>
 <li><a href="http://www.ndepend.com/">NDepend</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.</li>
-<li><a href="https://github.com/pumasecurity/puma-scan">Puma Scan</a> - Puma Scan provides real time secure code analysis for common vulnerabilities (XSS, SQLi, CSRF, LDAPi, crypto, deserialization, etc.) as development teams write code in Visual Studio.</li>
-<li><a href="https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio">Refactoring Essentials</a> - The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.</li>
-<li><a href="https://www.jetbrains.com/resharper/">ReSharper</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Extends Visual Studio with on-the-fly code inspections for C#, VB.NET, ASP.NET, JavaScript, TypeScript and other technologies.</li>
-<li><a href="https://github.com/dotnet/roslyn-analyzers">Roslyn Analyzers</a> - Roslyn-based implementation of FxCop analyzers.</li>
-<li><a href="https://dotnet-security-guard.github.io/">Roslyn Security Guard</a> - Project that focuses on the identification of potential vulnerabilities such as SQL injection, cross-site scripting (XSS), CSRF, cryptography weaknesses, hardcoded passwords and many more.</li>
 <li><a href="https://github.com/JosefPihrt/Roslynator/">Roslynator</a> - A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.</li>
-<li><a href="https://security-code-scan.github.io/">Security Code Scan</a> - Security code analyzer for C# and VB.NET. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc.</li>
-<li><a href="https://vs.sonarlint.org/">SonarLint for Visual Studio</a> - SonarLint is an extension for Visual Studio 2015 and 2017 that provides on-the-fly feedback to developers on new bugs and quality issues injected into .NET code.</li>
 <li><a href="https://github.com/Vannevelj/VSDiagnostics">VSDiagnostics</a> - A collection of static analyzers based on Roslyn that integrates with VS.</li>
 <li><a href="https://github.com/Wintellect/Wintellect.Analyzers">Wintellect.Analyzers</a> - .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.</li>
 </ul>
@@ -8259,10 +8255,8 @@
 <li><a href="http://www.cprover.org/cbmc/">CBMC</a> - bounded model-checker for C programs, user-defined assertions, standard assertions, several coverage metric analyses</li>
 <li><a href="http://clang.llvm.org/extra/clang-tidy/">clang-tidy</a> - clang static analyser</li>
 <li><a href="https://github.com/MetricsGrimoire/CMetrics">CMetrics</a> - Measures size and complexity for C files</li>
-<li><a href="https://github.com/Ericsson/codechecker">Codecheker</a> - static analysis of C/C++ code, with web GUI</li>
 <li><a href="https://www.grammatech.com/products/codesonar">CodeSonar from GrammaTech</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Advanced, whole program, deep path, static analysis of C and C++ with easy-to-understand explanations and code and path visualization.</li>
-<li><a href="https://github.com/jameysharp/corrode">Corrode</a> - Semi-automatic translation from C to Rust. Could reveal bugs in the original implementation by showing Rust compiler warnings and errors.</li>
-<li><a href="https://github.com/danmar/cppcheck">cppcheck</a> - static analysis of C/C++ code</li>
+<li><a href="http://cppcheck.sourceforge.net/">cppcheck</a> - static analysis of C/C++ code</li>
 <li><a href="https://www.cppdepend.com">CppDepend</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.</li>
 <li><a href="https://github.com/google/styleguide/tree/gh-pages/cpplint">cpplint</a> - automated C++ checker that follows Google's style guide</li>
 <li><a href="https://github.com/dspinellis/cqmetrics">cqmetrics</a> - quality metrics for C code</li>
@@ -8274,19 +8268,23 @@
 <li><a href="https://github.com/nasa-sw-vnv/ikos">IKOS</a> - a sound static analyzer for C/C++ code based on LLVM</li>
 <li><a href="https://github.com/feddischson/include_gardener">include-gardener</a> - a multi-language static analyzer for C/C++/Obj-C/Python/Ruby to create a graph (in dot or graphml format) which shows all <code>#include</code> relations of a given set of files.</li>
 <li><a href="https://ldra.com">LDRA</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - a tool suite including static analysis (TBVISION) to various standards including MISRA C &amp; C++, JSF++ AV, CWE, CERT C, CERT C++ &amp; Custom Rules.</li>
-<li><a href="http://oclint.org/">oclint</a> - static analysis of C/C++ code</li>
-<li><a href="https://github.com/secure-software-engineering/phasar">Phasar</a> - A LLVM-based static analysis framework which comes with a taint and type state analysis.</li>
-<li><a href="https://www.mathworks.com/products/polyspace-bug-finder.html">Polyspace Bug Finder</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - identifies run-time errors, concurrency issues, security vulnerabilities, and other defects in C and C++ embedded software.</li>
-<li><a href="https://www.mathworks.com/products/polyspace-code-prover.html">Polyspace Code Prover</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - provide code verification that proves the absence of overflow, divide-by-zero, out-of-bounds array access, and certain other run-time errors in C and C++ source code.</li>
+<li><a href="https://phasar.org/">Phasar</a> - A LLVM-based static analysis framework which comes with a taint and type state analysis.</li>
+<li><a href="https://www.mathworks.com/products/polyspace-bug-finder.html">Polyspace Bug Finder</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Identifies run-time errors, concurrency issues, security vulnerabilities, and other defects in C and C++ embedded software.</li>
+<li><a href="https://www.mathworks.com/products/polyspace-code-prover.html">Polyspace Code Prover</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Provide code verification that proves the absence of overflow, divide-by-zero, out-of-bounds array access, and certain other run-time errors in C and C++ source code.</li>
 <li><a href="https://clang-analyzer.llvm.org/scan-build.html">scan-build</a> - Analyzes C/C++ code using LLVM at compile-time</li>
-<li><a href="https://github.com/ravenexp/splint">splint</a> - Annotation-assisted static program checker</li>
-<li><a href="https://github.com/SVF-tools/SVF">SVF</a> - a static tool that enables scalable and precise interprocedural dependence analysis for C and C++ programs.</li>
+<li><a href="http://splint.org/">splint</a> - Annotation-assisted static program checker</li>
+<li><a href="http://svf-tools.github.io/SVF/">SVF</a> - a static tool that enables scalable and precise interprocedural dependence analysis for C and C++ programs.</li>
 <li><a href="https://bitbucket.org/verateam/vera/wiki/Introduction">vera++</a> - Vera++ is a programmable tool for verification, analysis and transformation of C++ source code.</li>
+</ul>
+<h2 id="coffeescript">CoffeeScript</h2>
+
+<ul>
+<li><a href="http://www.coffeelint.org/">coffeelint</a> - A style checker that helps keep CoffeeScript code clean and consistent.</li>
 </ul>
 <h2 id="crystal">Crystal</h2>
 
 <ul>
-<li><a href="https://github.com/veelenga/ameba">ameba</a> - A static code analysis tool for Crystal</li>
+<li><a href="https://crystal-ameba.github.io/">ameba</a> - A static code analysis tool for Crystal</li>
 <li><a href="https://crystal-lang.org/">crystal</a> - The Crystal compiler has built-in linting functionality.</li>
 </ul>
 <h2 id="delphi">Delphi</h2>
@@ -8304,7 +8302,7 @@
 <h2 id="elixir">Elixir</h2>
 
 <ul>
-<li><a href="https://github.com/rrrene/credo">credo</a> - A static code analysis tool with a focus on code consistency and teaching.</li>
+<li><a href="http://credo-ci.org/">credo</a> - A static code analysis tool with a focus on code consistency and teaching.</li>
 <li><a href="https://github.com/nccgroup/sobelow">sobelow</a> - Security-focused static analysis for the Phoenix Framework</li>
 </ul>
 <h2 id="elm">Elm</h2>
@@ -8321,7 +8319,7 @@
 <h2 id="fsharp">F#</h2>
 
 <ul>
-<li><a href="https://github.com/fsprojects/FSharpLint">FSharpLint</a> - Lint tool for F#</li>
+<li><a href="http://fsprojects.github.io/FSharpLint/">FSharpLint</a> - Lint tool for F#</li>
 </ul>
 <h2 id="fortran">Fortran</h2>
 
@@ -8339,8 +8337,7 @@
 <li><a href="https://github.com/mibk/dupl">dupl</a> - Reports potentially duplicated code.</li>
 <li><a href="https://github.com/kisielk/errcheck">errcheck</a> - Check that error return values are used.</li>
 <li><a href="https://github.com/lafolle/flen">flen</a> - Get info on length of functions in a Go package.</li>
-<li><a href="https://github.com/GoASTScanner/gas">gas</a> - Inspects source code for security problems by scanning the Go AST.</li>
-<li><a href="https://github.com/alecthomas/gometalinter">Go Meta Linter</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - Concurrently run Go lint tools and normalise their output. Use <code>golangci-lint</code> for new projects.</li>
+<li><a href="https://securego.io/">gas</a> - Inspects source code for security problems by scanning the Go AST.</li>
 <li><a href="https://golang.org/cmd/vet/#hdr-Shadowed_variables">go tool vet --shadow</a> - Reports variables that may have been unintentionally shadowed.</li>
 <li><a href="https://golang.org/cmd/vet/">go vet</a> - Examines Go source code and reports suspicious.</li>
 <li><a href="https://github.com/Quasilyte/go-consistent">go-consistent</a> - Analyzer that helps you to make your Go programs more consistent.</li>
@@ -8350,23 +8347,22 @@
 <li><a href="https://github.com/jgautheron/goconst">goconst</a> - Finds repeated strings that could be replaced by a constant.</li>
 <li><a href="https://github.com/fzipp/gocyclo">gocyclo</a> - Calculate cyclomatic complexities of functions in Go source code.</li>
 <li><a href="https://golang.org/cmd/gofmt/">gofmt -s</a> - Checks if the code is properly formatted and could not be further simplified.</li>
-<li><a href="https://godoc.org/golang.org/x/tools/cmd/goimports">goimports</a> - Checks missing or unreferenced package imports.</li>
-<li><a href="https://github.com/golangci/golangci-lint">GolangCI-Lint</a> - Alternative to <code>Go Meta Linter</code>: GolangCI-Lint is a linters aggregator.</li>
+<li><a href="https://pkg.go.dev/golang.org/x/tools/cmd/goimports">goimports</a> - Checks missing or unreferenced package imports.</li>
+<li><a href="https://golangci-lint.run/">GolangCI-Lint</a> - Alternative to <code>Go Meta Linter</code>: GolangCI-Lint is a linters aggregator.</li>
 <li><a href="https://github.com/golang/lint">golint</a> - Prints out coding style mistakes in Go source code.</li>
-<li><a href="https://github.com/360EntSecGroup-Skylar/goreporter">goreporter</a> - concurrently runs many linters and normalises their output to a report.</li>
 <li><a href="https://github.com/linuxerwang/goroutine-inspect">goroutine-inspect</a> - An interactive tool to analyze Golang goroutine dump.</li>
-<li><a href="https://github.com/GoASTScanner/gas">gosec (gas)</a> - Inspects source code for security problems by scanning the Go AST.</li>
-<li><a href="https://godoc.org/github.com/surullabs/lint/gosimple">gosimple</a> - Simplifies code.</li>
-<li><a href="https://golang.org/x/tools/cmd/gotype">gotype</a> - Syntactic and semantic analysis similar to the Go compiler.</li>
+<li><a href="https://securego.io/">gosec (gas)</a> - Inspects source code for security problems by scanning the Go AST.</li>
+<li><a href="https://pkg.go.dev/github.com/surullabs/lint/gosimple?tab=doc">gosimple</a> - Simplifies code.</li>
+<li><a href="https://pkg.go.dev/golang.org/x/tools/cmd/gotype">gotype</a> - Syntactic and semantic analysis similar to the Go compiler.</li>
 <li><a href="https://github.com/gordonklaus/ineffassign">ineffassign</a> - Detect ineffectual assignments in Go code</li>
-<li><a href="https://github.com/mvdan/interfacer">interfacer</a> - Suggest narrower interfaces that can be used.</li>
+<li><a href="https://github.com/mvdan/interfacer">interfacer</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - Suggest narrower interfaces that can be used.</li>
 <li><a href="https://github.com/walle/lll">lll</a> - Report long lines.</li>
 <li><a href="https://github.com/mdempsky/maligned">maligned</a> - Detect structs that would take less memory if their fields were sorted.</li>
 <li><a href="https://github.com/client9/misspell">misspell</a> - Finds commonly misspelled English words.</li>
 <li><a href="https://github.com/alexkohler/nakedret">nakedret</a> - Finds naked returns.</li>
 <li><a href="https://github.com/alexkohler/nargs">nargs</a> - Finds unused arguments in function declarations.</li>
 <li><a href="https://github.com/alexkohler/prealloc">prealloc</a> - Finds slice declarations that could potentially be preallocated.</li>
-<li><a href="https://github.com/mgechev/revive">revive</a> - Fast, configurable, extensible, flexible, and beautiful linter for Go. Drop-in replacement of golint.</li>
+<li><a href="https://revive.run/">revive</a> - Fast, configurable, extensible, flexible, and beautiful linter for Go. Drop-in replacement of golint.</li>
 <li><a href="https://github.com/stripe/safesql">safesql</a> - Static analysis tool for Golang that protects against SQL injections.</li>
 <li><a href="https://staticcheck.io/">staticcheck</a> - A suite of static analysis tools for Go, similar to ReSharper for C#. It specialises on bug finding, code simplicity, performance and editor integration.</li>
 <li><a href="https://gitlab.com/opennota/check">structcheck</a> - Find unused struct fields.</li>
@@ -8381,76 +8377,69 @@
 <h2 id="groovy">Groovy</h2>
 
 <ul>
-<li><a href="https://github.com/CodeNarc/CodeNarc">CodeNarc</a> - a static analysis tool for Groovy source code, enabling monitoring and enforcement of many coding standards and best practices</li>
+<li><a href="https://codenarc.github.io/CodeNarc/">CodeNarc</a> - a static analysis tool for Groovy source code, enabling monitoring and enforcement of many coding standards and best practices</li>
 </ul>
 <h2 id="haskell">Haskell</h2>
 
 <ul>
 <li><a href="https://github.com/ndmitchell/hlint">HLint</a> - HLint is a tool for suggesting possible improvements to Haskell code.</li>
-<li><a href="https://github.com/ndmitchell/weeder">Weeder</a> - A tool for detecting dead exports or package imports in Haskell code.</li>
+<li><a href="https://github.com/ocharles/weeder">Weeder</a> - A tool for detecting dead exports or package imports in Haskell code.</li>
 </ul>
 <h2 id="haxe">Haxe</h2>
 
 <ul>
-<li><a href="https://github.com/HaxeCheckstyle/haxe-checkstyle">Haxe Checkstyle</a> - A static analysis tool to help developers write Haxe code that adheres to a coding standard.</li>
+<li><a href="http://haxecheckstyle.github.io/docs/haxe-checkstyle/home.html">Haxe Checkstyle</a> - A static analysis tool to help developers write Haxe code that adheres to a coding standard.</li>
 </ul>
 <h2 id="java">Java</h2>
 
 <ul>
-<li><a href="https://github.com/typetools/checker-framework/">Checker Framework</a> - Pluggable type-checking for Java <a href="http://checkerframework.org/">http://checkerframework.org/</a></li>
-<li><a href="https://github.com/checkstyle/checkstyle">checkstyle</a> - checking Java source code for adherence to a Code Standard or set of validation rules (best practices)</li>
+<li><a href="https://checkerframework.org/">Checker Framework</a> - Pluggable type-checking for Java <a href="http://checkerframework.org/">http://checkerframework.org/</a></li>
+<li><a href="https://checkstyle.org/">checkstyle</a> - checking Java source code for adherence to a Code Standard or set of validation rules (best practices)</li>
 <li><a href="https://github.com/mauricioaniche/ck">ck</a> - calculates Chidamber and Kemerer object-oriented metrics by processing the source Java files</li>
 <li><a href="http://www.spinellis.gr/sw/ckjm/">ckjm</a> - calculates Chidamber and Kemerer object-oriented metrics by processing the bytecode of compiled Java files</li>
 <li><a href="https://www.eclipse.org/cognicrypt/">CogniCrypt</a> - checks Java source and byte code for incorrect uses of cryptographic APIs</li>
 <li><a href="http://www.designite-tools.com/designitejava">DesigniteJava</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - DesigniteJava supports detection of various architecture, design, and implementation smells along with computation of various code quality metrics.</li>
-<li><a href="https://github.com/google/error-prone">Error-prone</a> - Catch common Java mistakes as compile-time errors</li>
-<li><a href="https://github.com/mebigfatguy/fb-contrib">fb-contrib</a> - A plugin for FindBugs with additional bug detectors</li>
-<li><a href="https://find-sec-bugs.github.io/">Find Security Bugs</a> - IDE/SonarQube plugin for security audits of Java web applications.</li>
+<li><a href="https://errorprone.info/">Error-prone</a> - Catch common Java mistakes as compile-time errors</li>
+<li><a href="http://fb-contrib.sourceforge.net/">fb-contrib</a> - A plugin for FindBugs with additional bug detectors</li>
 <li><a href="https://github.com/policeman-tools/forbidden-apis">forbidden-apis</a> - Detects and forbids invocations of specific method/class/field (like reading from a text stream without a charset). Maven/Gradle/Ant compatible.</li>
 <li><a href="https://github.com/google/google-java-format">google-java-format</a> - Google Style Reformat</li>
-<li><a href="https://github.com/cuplv/hopper">Hopper</a> - A static analysis tool written in scala for languages that run on JVM</li>
 <li><a href="https://github.com/amaembo/huntbugs">HuntBugs</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - Bytecode static analyzer tool based on Procyon Compiler Tools aimed to supersede FindBugs.</li>
 <li><a href="https://www.jarchitect.com">JArchitect</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.</li>
-<li><a href="http://www.cprover.org/jbmc/">JBMC</a> - bounded model-checker for Java (bytecode), verifies user-defined assertions, standard assertions, several coverage metric analyses</li>
+<li><a href="https://www.cprover.org/jbmc/">JBMC</a> - bounded model-checker for Java (bytecode), verifies user-defined assertions, standard assertions, several coverage metric analyses</li>
 <li><a href="https://github.com/uber/NullAway">NullAway</a> - Type-based null-pointer checker with low build-time overhead; an <a href="http://errorprone.info/">Error Prone</a> plugin</li>
 <li><a href="https://owasp.org/www-project-dependency-check/">OWASP Dependency Check</a> - Checks dependencies for known, publicly disclosed, vulnerabilities.</li>
-<li><a href="https://www.qulice.com/">qulice</a> - combines a few (pre-configured) static analysis tools (checkstyle, PMD, Findbugs, ...).</li>
+<li><a href="https://www.qulice.com/">qulice</a> - Combines a few (pre-configured) static analysis tools (checkstyle, PMD, Findbugs, ...).</li>
 <li><a href="https://sable.github.io/soot/">Soot</a> - A framework for analyzing and transforming Java and Android applications.</li>
-<li><a href="https://github.com/INRIA/spoon">Spoon</a> - Library to write your own static analyses and architectural rule checkers for Java. Can be integrated in Maven and Gradle.</li>
+<li><a href="http://spoon.gforge.inria.fr/">Spoon</a> - Spoon is a metaprogramming library to analyze and transform Java source code (incl Java 9, 10, 11, 12, 13, 14). It parses source files to build a well-designed AST with powerful analysis and transformation API. Can be integrated in Maven and Gradle.</li>
 <li><a href="https://spotbugs.github.io/">SpotBugs</a> - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.</li>
-<li><a href="https://xanitizer.com/">Xanitizer</a> - Xanitizer finds security vulnerabilities in Java/Scala web applications.</li>
 </ul>
 <h2 id="javascript">JavaScript</h2>
 
 <ul>
-<li><a href="https://github.com/codecombat/aether">aether</a> - Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.</li>
-<li><a href="https://github.com/google/closure-compiler">Closure Compiler</a> - A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.</li>
+<li><a href="http://aetherjs.com/">aether</a> - Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.</li>
+<li><a href="https://developers.google.com/closure/compiler/">Closure Compiler</a> - A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.</li>
 <li><a href="https://github.com/google/closure-linter">ClosureLinter</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - ensures that all of your project's JavaScript code follows the guidelines in the Google JavaScript Style Guide. It can also automatically fix many common errors</li>
-<li><a href="https://github.com/clutchski/coffeelint">coffeelint</a> - A style checker that helps keep CoffeeScript code clean and consistent.</li>
 <li><a href="https://github.com/jared-stilwell/complexity-report">complexity-report</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - Software complexity analysis for JavaScript projects</li>
 <li><a href="https://deepscan.io">DeepScan</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - An analyzer for JavaScript which targets runtime errors and quality issues rather than coding conventions.</li>
 <li><a href="https://github.com/jared-stilwell/escomplex">escomplex</a> - Software complexity analysis of JavaScript-family abstract syntax trees.</li>
-<li><a href="https://github.com/eslint/eslint">eslint</a> - A fully pluggable tool for identifying and reporting on patterns in JavaScript</li>
-<li><a href="https://github.com/jquery/esprima">Esprima</a> - ECMAScript parsing infrastructure for multipurpose analysis</li>
+<li><a href="https://eslint.org/">eslint</a> - A fully pluggable tool for identifying and reporting on patterns in JavaScript</li>
+<li><a href="https://esprima.org/">Esprima</a> - ECMAScript parsing infrastructure for multipurpose analysis</li>
 <li><a href="https://flow.org/">flow</a> - A static type checker for JavaScript.</li>
-<li><a href="https://jsmonk.github.io/hegel">hegel</a> - A static type checker for JavaScript with a bias on type inference and strong type systems.</li>
-<li><a href="https://github.com/jshint/jshint">jshint</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - detect errors and potential problems in JavaScript code and enforce your team's coding conventions</li>
+<li><a href="https://hegel.js.org/">hegel</a> - A static type checker for JavaScript with a bias on type inference and strong type systems.</li>
+<li><a href="https://jedi.readthedocs.io/en/latest/">jshint</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - detect errors and potential problems in JavaScript code and enforce your team's coding conventions</li>
 <li><a href="https://github.com/douglascrockford/JSLint">JSLint</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - The JavaScript Code Quality Tool</li>
-<li><a href="https://github.com/dpnishant/jsprime">JSPrime</a> - static security analysis tool</li>
+<li><a href="http://dpnishant.github.io/jsprime/">JSPrime</a> - static security analysis tool</li>
 <li><a href="https://github.com/es-analysis/plato">plato</a> - Visualize JavaScript source complexity</li>
-<li><a href="https://github.com/prettier/prettier">Prettier</a> - An opinionated code formatter.</li>
 <li><a href="https://github.com/jden/quality">quality</a> - zero configuration code and module linting</li>
-<li><a href="https://github.com/RetireJS/retire.js">retire.js</a> - Scanner detecting the use of JavaScript libraries with known vulnerabilities</li>
-<li><a href="http://standardjs.com/">standard</a> - An npm module that checks for Javascript Styleguide issues</li>
-<li><a href="https://github.com/ternjs/tern">tern</a> - A JavaScript code analyzer for deep, cross-editor language support</li>
+<li><a href="http://retirejs.github.io/retire.js/">retire.js</a> - Scanner detecting the use of JavaScript libraries with known vulnerabilities</li>
+<li><a href="https://ternjs.net/">tern</a> - A JavaScript code analyzer for deep, cross-editor language support</li>
 <li><a href="https://github.com/xojs/xo">xo</a> - Opinionated but configurable ESLint wrapper with lots of goodies included. Enforces strict and readable code.</li>
 <li><a href="https://github.com/calmh/yardstick">yardstick</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - Javascript code metrics</li>
 </ul>
 <h2 id="kotlin">Kotlin</h2>
 
 <ul>
-<li><a href="https://github.com/arturbosch/detekt">detekt</a> - Static code analysis for Kotlin code.</li>
-<li><a href="https://github.com/shyiko/ktlint">ktlint</a> - An anti-bikeshedding Kotlin linter with built-in formatter</li>
+<li><a href="https://detekt.github.io/detekt/">detekt</a> - Static code analysis for Kotlin code.</li>
 </ul>
 <h2 id="lua">Lua</h2>
 
@@ -8460,53 +8449,51 @@
 <h2 id="matlab">MATLAB</h2>
 
 <ul>
-<li><a href="https://de.mathworks.com/help/matlab/ref/mlint.html">mlint</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Check MATLAB code files for possible problems.</li>
+<li><a href="https://mathworks.com/help/matlab/ref/mlint.html">mlint</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Check MATLAB code files for possible problems.</li>
 </ul>
 <h2 id="php">PHP</h2>
 
 <ul>
-<li><a href="https://github.com/mihaeu/dephpend">dephpend</a> - Dependency analysis tool</li>
+<li><a href="https://dephpend.com/">dephpend</a> - Dependency analysis tool</li>
 <li><a href="https://github.com/sensiolabs-de/deprecation-detector">deprecation-detector</a> - Finds usages of deprecated (Symfony) code</li>
 <li><a href="https://github.com/sensiolabs-de/deptrac">deptrac</a> - Enforce rules for dependencies between software layers.</li>
 <li><a href="https://github.com/Halleck45/DesignPatternDetector">DesignPatternDetector</a> - detection of design patterns in PHP code</li>
-<li><a href="https://github.com/Symplify/EasyCodingStandard">EasyCodingStandard</a> - combine <a href="https://github.com/squizlabs/PHP_CodeSniffer">PHP_CodeSniffer</a> and <a href="https://github.com/FriendsOfPHP/PHP-CS-Fixer">PHP-CS-Fixer</a></li>
-<li><a href="https://github.com/exakat/exakat">exakat</a> - An automated code reviewing engine for PHP</li>
+<li><a href="https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines/">EasyCodingStandard</a> - Combine <a href="https://github.com/squizlabs/PHP_CodeSniffer">PHP_CodeSniffer</a> and <a href="https://github.com/FriendsOfPHP/PHP-CS-Fixer">PHP-CS-Fixer</a></li>
 <li><a href="https://github.com/phpro/grumphp">GrumPHP</a> - checks code on every commit</li>
-<li><a href="https://github.com/Trismegiste/Mondrian">Mondrian</a> - a set of static analysis and refactoring tools which use graph theory</li>
+<li><a href="http://trismegiste.github.io/Mondrian/">Mondrian</a> - a set of static analysis and refactoring tools which use graph theory</li>
 <li><a href="https://github.com/php-parallel-lint/PHP-Parallel-Lint">parallel-lint</a> - This tool checks syntax of PHP files faster than serial check with a fancier output.</li>
 <li><a href="https://github.com/psecio/parse">Parse</a> - A Static Security Scanner</li>
 <li><a href="https://pdepend.org/">pdepend</a> - Calculates software metrics like cyclomatic complexity for PHP code.</li>
-<li><a href="https://github.com/etsy/phan">phan</a> - a modern static analyzer from etsy</li>
+<li><a href="https://github.com/phan/phan/wiki">phan</a> - a modern static analyzer from etsy</li>
 <li><a href="https://github.com/carlosas/phpat">PHP Architecture Tester</a> - Easy to use architecture testing tool for PHP.</li>
 <li><a href="https://github.com/rskuipers/php-assumptions">PHP Assumptions</a> - Checks for weak assumptions</li>
-<li><a href="http://cs.sensiolabs.org/">PHP Coding Standards Fixer</a> - Fixes your code according to standards like PSR-1, PSR-2, and the Symfony standard.</li>
-<li><a href="https://github.com/kalessil/phpinspectionsea">Php Inspections (EA Extended)</a> - A Static Code Analyzer for PHP.</li>
-<li><a href="https://github.com/QafooLabs/php-refactoring-browser">PHP Refactoring Browser</a> - Refactoring helper</li>
+<li><a href="https://cs.symfony.com/">PHP Coding Standards Fixer</a> - Fixes your code according to standards like PSR-1, PSR-2, and the Symfony standard.</li>
+<li><a href="https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-">Php Inspections (EA Extended)</a> - A Static Code Analyzer for PHP.</li>
+<li><a href="http://qafoolabs.github.io/php-refactoring-browser/">PHP Refactoring Browser</a> - Refactoring helper</li>
 <li><a href="https://github.com/tomzx/php-semver-checker">PHP Semantic Versioning Checker</a> - Suggests a next version according to semantic versioning</li>
 <li><a href="https://github.com/nikic/PHP-Parser">PHP-Parser</a> - A PHP parser written in PHP</li>
 <li><a href="https://github.com/Andrewsville/PHP-Token-Reflection">PHP-Token-Reflection</a> - Library emulating the PHP internal reflection</li>
-<li><a href="https://github.com/sstalle/php7cc">php7cc</a> - PHP 7 Compatibility Checker</li>
-<li><a href="https://github.com/Alexia/php7mar">php7mar</a> - assist developers in porting their code quickly to PHP 7</li>
-<li><a href="https://github.com/squizlabs/PHP_CodeSniffer">PHP_CodeSniffer</a> - detects violations of a defined set of coding standards</li>
+<li><a href="https://github.com/sstalle/php7cc">php7cc</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - PHP 7 Compatibility Checker</li>
+<li><a href="https://github.com/Alexia/php7mar">php7mar</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - assist developers in porting their code quickly to PHP 7</li>
+<li><a href="https://pear.php.net/package/PHP_CodeSniffer">PHP_CodeSniffer</a> - detects violations of a defined set of coding standards</li>
 <li><a href="https://github.com/wapmorgan/PhpCodeAnalyzer">phpca</a> - Finds usage of non-built-in extensions</li>
 <li><a href="http://wapmorgan.github.io/PhpCodeFixer/">phpcf</a> - Finds usage of deprecated PHP features</li>
 <li><a href="https://github.com/sebastianbergmann/phpcpd">phpcpd</a> - Copy/Paste Detector for PHP code.</li>
-<li><a href="https://github.com/sebastianbergmann/phpdcd">phpdcd</a> - Dead Code Detector (DCD) for PHP code.</li>
-<li><a href="https://github.com/mamuz/PhpDependencyAnalysis">PhpDependencyAnalysis</a> - builds a dependency graph for a project</li>
+<li><a href="https://github.com/sebastianbergmann/phpdcd">phpdcd</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - Dead Code Detector (DCD) for PHP code.</li>
+<li><a href="https://mamuz.github.io/PhpDependencyAnalysis/">PhpDependencyAnalysis</a> - builds a dependency graph for a project</li>
 <li><a href="https://github.com/dunglas/phpdoc-to-typehint">phpdoc-to-typehint</a> - Add scalar type hints and return types to existing PHP projects using PHPDoc annotations</li>
 <li><a href="https://www.phpdoc.org/">phpDocumentor</a> - Analyzes PHP source code to generate documentation</li>
 <li><a href="https://phpmd.org/">PHPMD</a> - finds possible bugs in your code</li>
 <li><a href="http://www.phpmetrics.org/">PhpMetrics</a> - Calculates and visualizes various code quality metrics</li>
 <li><a href="https://github.com/povils/phpmnd">phpmnd</a> - Helps to detect magic numbers</li>
-<li><a href="https://github.com/EdgedesignCZ/phpqa">PHPQA</a> - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics)</li>
+<li><a href="https://edgedesigncz.github.io/phpqa/">PHPQA</a> - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics)</li>
 <li><a href="https://github.com/jakzal/phpqa">phpqa - jakzal</a> - Many tools for PHP static analysis in one container</li>
 <li><a href="https://github.com/jmolivas/phpqa">phpqa - jmolivas</a> - PHPQA all-in-one Analyzer CLI tool</li>
 <li><a href="https://github.com/ovr/phpsa">phpsa</a> - Static analysis tool for PHP.</li>
-<li><a href="https://github.com/phpstan/phpstan">PHPStan</a> - PHP Static Analysis Tool - discover bugs in your code without running it!</li>
+<li><a href="https://phpstan.org/">PHPStan</a> - PHP Static Analysis Tool - discover bugs in your code without running it!</li>
 <li><a href="https://github.com/designsecurity/progpilot">Progpilot</a> - A static analysis tool for security purposes</li>
-<li><a href="https://getpsalm.org/">Psalm</a> - Static analysis tool for finding type errors in PHP applications</li>
+<li><a href="https://psalm.dev/">Psalm</a> - Static analysis tool for finding type errors in PHP applications</li>
 <li><a href="https://github.com/Qafoo/QualityAnalyzer">Qafoo Quality Analyzer</a> - Visualizes metrics and source code</li>
-<li><a href="https://www.ripstech.com/">RIPS</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - A static source code analyser for vulnerabilities in PHP scripts</li>
 <li><a href="https://github.com/ircmaxell/Tuli">Tuli</a> - A static analysis engine</li>
 <li><a href="https://github.com/asm89/twig-lint">twig-lint</a> - twig-lint is a lint tool for your twig files.</li>
 <li><a href="https://securityonline.info/owasp-wap-web-application-protection-project/">WAP</a> - Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives by combining static analysis and data mining.</li>
@@ -8519,39 +8506,30 @@
 <h2 id="python">Python</h2>
 
 <ul>
-<li><a href="https://github.com/PyCQA/bandit">bandit</a> - a tool to find common security issues in Python code</li>
+<li><a href="https://bandit.readthedocs.io/en/latest/">bandit</a> - a tool to find common security issues in Python code</li>
 <li><a href="https://github.com/hchasestevens/bellybutton">bellybutton</a> - a linting engine supporting custom project-specific rules</li>
-<li><a href="https://github.com/ambv/black">Black</a> - The uncompromising Python code formatter</li>
 <li><a href="https://github.com/mschwager/cohesion">cohesion</a> - a tool for measuring Python class cohesion</li>
 <li><a href="https://github.com/dlint-py/dlint">Dlint</a> - a tool for ensuring Python code is secure</li>
 <li><a href="https://github.com/feddischson/include_gardener">include-gardener</a> - a multi-language static analyzer for C/C++/Obj-C/Python/Ruby to create a graph (in dot or graphml format) which shows all <code>#include</code> relations of a given set of files.</li>
-<li><a href="https://github.com/davidhalter/jedi">jedi</a> - autocompletion/static analysis library for Python</li>
+<li><a href="https://jedi.readthedocs.io/en/latest/">jedi</a> - autocompletion/static analysis library for Python</li>
 <li><a href="https://github.com/lyft/linty_fresh">linty fresh</a> - parse lint errors and report them to Github as comments on a pull request</li>
-<li><a href="https://github.com/PyCQA/mccabe">mccabe</a> - check McCabe complexity</li>
-<li><a href="https://github.com/python/mypy">mypy</a> - a static type checker that aims to combine the benefits of duck typing and static typing, frequently used with <a href="https://github.com/Instagram/MonkeyType">MonkeyType</a></li>
-<li><a href="https://github.com/uber/py-find-injection">py-find-injection</a> - find SQL injection vulnerabilities in Python code</li>
-<li><a href="https://github.com/PyCQA/pycodestyle">pycodestyle</a> - (formerly <code>pep8</code>) check Python code against some of the style conventions in PEP 8</li>
-<li><a href="https://github.com/PyCQA/pydocstyle">pydocstyle</a> - check compliance with Python docstring conventions</li>
-<li><a href="https://github.com/pyflakes/pyflakes/">pyflakes</a> - check Python source files for errors</li>
-<li><a href="https://github.com/PyCQA/pylint">pylint</a> - looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It additionally includes <code>pyreverse</code> (an UML diagram generator) and <code>symilar</code> (a similarities checker).</li>
-<li><a href="https://github.com/facebook/pyre-check">pyre-check</a> - A fast, scalable type checker for large Python codebases</li>
+<li><a href="https://pypi.org/project/mccabe/">mccabe</a> - check McCabe complexity</li>
+<li><a href="http://www.mypy-lang.org/">mypy</a> - A static type checker that aims to combine the benefits of duck typing and static typing, frequently used with <a href="https://github.com/Instagram/MonkeyType">MonkeyType</a></li>
+<li><a href="https://github.com/uber/py-find-injection">py-find-injection</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - find SQL injection vulnerabilities in Python code</li>
+<li><a href="https://pycodestyle.pycqa.org/en/latest/">pycodestyle</a> - (formerly <code>pep8</code>) check Python code against some of the style conventions in PEP 8</li>
+<li><a href="http://www.pydocstyle.org">pydocstyle</a> - Check compliance with Python docstring conventions</li>
+<li><a href="https://pypi.org/project/pyflakes/">pyflakes</a> - Check Python source files for errors</li>
+<li><a href="http://pylint.pycqa.org/en/latest/">pylint</a> - looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It additionally includes <code>pyreverse</code> (an UML diagram generator) and <code>symilar</code> (a similarities checker).</li>
+<li><a href="https://pyre-check.org/">pyre-check</a> - A fast, scalable type checker for large Python codebases</li>
 <li><a href="https://github.com/Microsoft/pyright">pyright</a> - Static type checker for Python, created to address gaps in existing tools like mypy.</li>
-<li><a href="https://github.com/regebro/pyroma">pyroma</a> - rate how well a Python project complies with the best practices of the Python packaging ecosystem, and list issues that could be improved</li>
-<li><a href="https://github.com/python-security/pyt">PyT - Python Taint</a> - A static analysis tool for detecting security vulnerabilities in Python web applications.</li>
-<li><a href="https://github.com/google/pytype">pytype</a> - A static type analyzer for Python code.</li>
-<li><a href="https://github.com/rubik/radon">radon</a> - a Python tool that computes various metrics from the source code</li>
-<li><a href="https://github.com/jendrikseipp/vulture">vulture</a> - find unused classes, functions and variables in Python code</li>
-<li><a href="https://github.com/wemake-services/wemake-python-styleguide">wemake-python-styleguide</a> - the strictest and most opinionated python linter ever</li>
-<li><a href="https://github.com/tonybaloney/wily">wily</a> - a command-line tool for archiving, exploring and graphing the complexity of Python source code</li>
-<li><a href="https://github.com/rubik/xenon">xenon</a> - monitor code complexity using <a href="https://github.com/rubik/radon"><code>radon</code></a></li>
-</ul>
-<h2 id="pythonwrapper">Python wrappers</h2>
-
-<ul>
-<li><a href="https://github.com/ContinuumIO/ciocheck">ciocheck</a> - linter, formatter and test suite helper. As a linter, it is a wrapper around <code>pep8</code>, <code>pydocstyle</code>, <code>flake8</code>, and <code>pylint</code>.</li>
-<li><a href="https://github.com/PyCQA/flake8">flake8</a> - a wrapper around <code>pyflakes</code>, <code>pycodestyle</code> and <code>mccabe</code></li>
-<li><a href="https://github.com/adamchainz/multilint">multilint</a> - a wrapper around <code>flake8</code>, <code>isort</code> and <code>modernize</code></li>
-<li><a href="https://github.com/PyCQA/prospector">prospector</a> - a wrapper around <code>pylint</code>, <code>pep8</code>, <code>mccabe</code> and others</li>
+<li><a href="https://github.com/regebro/pyroma">pyroma</a> - Rate how well a Python project complies with the best practices of the Python packaging ecosystem, and list issues that could be improved</li>
+<li><a href="https://github.com/python-security/pyt">PyT - Python Taint</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - A static analysis tool for detecting security vulnerabilities in Python web applications.</li>
+<li><a href="https://google.github.io/pytype/">pytype</a> - A static type analyzer for Python code.</li>
+<li><a href="https://radon.readthedocs.io/en/latest/">radon</a> - A Python tool that computes various metrics from the source code</li>
+<li><a href="https://github.com/jendrikseipp/vulture">vulture</a> - Find unused classes, functions and variables in Python code</li>
+<li><a href="https://wemake-python-stylegui.de">wemake-python-styleguide</a> - The strictest and most opinionated python linter ever</li>
+<li><a href="https://github.com/tonybaloney/wily">wily</a> - A command-line tool for archiving, exploring and graphing the complexity of Python source code</li>
+<li><a href="https://xenon.readthedocs.io/">xenon</a> - monitor code complexity using <a href="https://github.com/rubik/radon"><code>radon</code></a></li>
 </ul>
 <h2 id="r">R</h2>
 
@@ -8559,7 +8537,6 @@
 <li><a href="https://github.com/MangoTheCat/cyclocomp">cyclocomp</a> - Quantifies the cyclomatic complexity of R functions / expressions.</li>
 <li><a href="http://mangothecat.github.io/goodpractice/">goodpractice</a> - Analyses the source code for R packages and provides best-practice recommendations.</li>
 <li><a href="https://github.com/jimhester/lintr">lintr</a> - Static Code Analysis for R.</li>
-<li><a href="https://styler.r-lib.org/">styler</a> - Formatting of R source code files and pretty-printing of R code.</li>
 </ul>
 <h2 id="rpg">RPG</h2>
 
@@ -8569,41 +8546,40 @@
 <h2 id="ruby">Ruby</h2>
 
 <ul>
-<li><a href="https://github.com/presidentbeef/brakeman">brakeman</a> - A static analysis security vulnerability scanner for Ruby on Rails applications</li>
+<li><a href="https://brakemanscanner.org/">brakeman</a> - A static analysis security vulnerability scanner for Ruby on Rails applications</li>
 <li><a href="https://github.com/square/cane">cane</a> - Code quality threshold checking as part of your build</li>
-<li><a href="https://github.com/seattlerb/flay">flay</a> - Flay analyzes code for structural similarities.</li>
-<li><a href="https://github.com/seattlerb/flog">flog</a> - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.</li>
+<li><a href="https://ruby.sadi.st/Flay.html">flay</a> - Flay analyzes code for structural similarities.</li>
+<li><a href="https://ruby.sadi.st/Flog.html">flog</a> - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.</li>
 <li><a href="https://github.com/feddischson/include_gardener">include-gardener</a> - a multi-language static analyzer for C/C++/Obj-C/Python/Ruby to create a graph (in dot or graphml format) which shows all <code>#include</code> relations of a given set of files.</li>
-<li><a href="https://github.com/michaeledgar/laser">laser</a> - Static analysis and style linter for Ruby code.</li>
+<li><a href="https://github.com/michaeledgar/laser">laser</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - Static analysis and style linter for Ruby code.</li>
 <li><a href="https://github.com/codegram/pelusa">pelusa</a> - Static analysis Lint-type tool to improve your OO Ruby code</li>
-<li><a href="https://github.com/apiology/quality">quality</a> - Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.</li>
 <li><a href="https://github.com/soutaro/querly">Querly</a> - Pattern Based Checking Tool for Ruby</li>
 <li><a href="https://railroader.org/">Railroader</a> - An open source static analysis security vulnerability scanner for Ruby on Rails applications.</li>
 <li><a href="https://github.com/troessner/reek">reek</a> - Code smell detector for Ruby</li>
-<li><a href="https://github.com/rubocop-hq/rubocop">RuboCop</a> - A Ruby static code analyzer, based on the community Ruby style guide.</li>
-<li><a href="https://github.com/blazeeboy/rubrowser">Rubrowser</a> - Ruby classes interactive dependency graph generator.</li>
-<li><a href="https://github.com/YorickPeterse/ruby-lint">ruby-lint</a> - Static code analysis for Ruby</li>
+<li><a href="https://docs.rubocop.org/rubocop/">RuboCop</a> - A Ruby static code analyzer, based on the community Ruby style guide.</li>
+<li><a href="http://www.emadelsaid.com/rubrowser/">Rubrowser</a> - Ruby classes interactive dependency graph generator.</li>
+<li><a href="http://code.yorickpeterse.com/ruby-lint/latest/">ruby-lint</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - Static code analysis for Ruby</li>
 <li><a href="https://github.com/whitesmith/rubycritic">rubycritic</a> - A Ruby code quality reporter</li>
-<li><a href="https://github.com/makaroni4/sandi_meter">SandiMeter</a> - Static analysis tool for checking Ruby code for Sandi Metz' rules.</li>
-<li><a href="https://github.com/sorbet/sorbet">Sorbet</a> - A fast, powerful type checker designed for Ruby</li>
+<li><a href="https://rubygems.org/gems/sandi_meter">SandiMeter</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - Static analysis tool for checking Ruby code for Sandi Metz' rules.</li>
+<li><a href="https://sorbet.org/">Sorbet</a> - A fast, powerful type checker designed for Ruby</li>
 </ul>
 <h2 id="rust">Rust</h2>
 
 <ul>
-<li><a href="https://github.com/RustSec/cargo-audit">cargo-audit</a> - Audit Cargo.lock for crates with security vulnerabilities reported to the <a href="https://github.com/RustSec/advisory-db/">RustSec Advisory Database</a>.</li>
+<li><a href="https://rustsec.org/">cargo-audit</a> - Audit Cargo.lock for crates with security vulnerabilities reported to the <a href="https://github.com/RustSec/advisory-db/">RustSec Advisory Database</a>.</li>
 <li><a href="https://github.com/mre/cargo-inspect">cargo-inspect</a> - Inspect Rust code without syntactic sugar to see what the compiler does behind the curtains.</li>
-<li><a href="https://github.com/Manishearth/rust-clippy">clippy</a> - A code linter to catch common mistakes and improve your Rust code</li>
-<li><a href="https://github.com/Kha/electrolysis">electrolysis</a> - A tool for formally verifying Rust programs by transpiling them into definitions in the Lean theorem prover.</li>
+<li><a href="https://rust-lang.github.io/rust-clippy/">clippy</a> - A code linter to catch common mistakes and improve your Rust code</li>
+<li><a href="http://kha.github.io/electrolysis/">electrolysis</a> - A tool for formally verifying Rust programs by transpiling them into definitions in the Lean theorem prover.</li>
 <li><a href="https://github.com/mcarton/rust-herbie-lint">herbie</a> - Adds warnings or errors to your crate when using a numerically unstable floating point expression.</li>
 <li><a href="https://github.com/AtomLinter/linter-rust">linter-rust</a> - Linting your Rust-files in Atom, using rustc and cargo</li>
 <li><a href="https://github.com/facebookexperimental/MIRAI">MIRAI</a> - And abstract interpreter operating on Rust's mid-level intermediate language, and providing warnings based on taint analysis.</li>
 <li><a href="https://github.com/rust-lang-nursery/rls">Rust Language Server</a> - Supports functionality such as 'goto definition', symbol search, reformatting, and code completion, and enables renaming and refactorings.</li>
-<li><a href="https://github.com/killercup/rustfix">rustfix</a> - read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).</li>
+<li><a href="https://github.com/rust-lang/rustfix">rustfix</a> - read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).</li>
 </ul>
 <h2 id="sql">SQL</h2>
 
 <ul>
-<li><a href="https://github.com/jarulraj/sqlcheck-old">sqlcheck</a> - Automatically identify anti-patterns in SQL queries</li>
+<li><a href="https://github.com/jarulraj/sqlcheck">sqlcheck</a> - Automatically identify anti-patterns in SQL queries</li>
 <li><a href="https://github.com/purcell/sqlint">sqlint</a> - Simple SQL linter</li>
 <li><a href="https://github.com/tsqllint/tsqllint">tsqllint</a> - T-SQL-specific linter</li>
 <li><a href="https://github.com/ashleyglee/TSqlRules">TSqlRules</a> - TSQL Static Code Analysis Rules for SQL Server</li>
@@ -8614,27 +8590,25 @@
 <li><a href="https://github.com/HairyFotr/linter">linter</a> - Linter is a Scala static analysis compiler plugin which adds compile-time checks for various possible bugs, inefficiencies, and style problems.</li>
 <li><a href="http://www.scalastyle.org">Scalastyle</a> - Scalastyle examines your Scala code and indicates potential problems with it.</li>
 <li><a href="https://github.com/sksamuel/scapegoat">scapegoat</a> - Scala compiler plugin for static code analysis</li>
-<li><a href="https://github.com/puffnfresh/wartremover">WartRemover</a> - a flexible Scala code linting tool.</li>
-<li><a href="https://xanitizer.com/">Xanitizer</a> - Xanitizer finds security vulnerabilities in Java/Scala web applications.</li>
+<li><a href="https://www.wartremover.org/">WartRemover</a> - a flexible Scala code linting tool.</li>
 </ul>
 <h2 id="shell">Shell</h2>
 
 <ul>
 <li><a href="https://github.com/lequal/i-CodeCNES">i-Code CNES for Shell</a> - An open source static code analysis tool for Shell and Fortran (77 and 90).</li>
-<li><a href="https://github.com/koalaman/shellcheck">shellcheck</a> - ShellCheck, a static analysis tool that gives warnings and suggestions for bash/sh shell scripts</li>
+<li><a href="https://www.shellcheck.net/">shellcheck</a> - ShellCheck, a static analysis tool that gives warnings and suggestions for bash/sh shell scripts</li>
 </ul>
 <h2 id="solidity">Solidity</h2>
 
 <ul>
 <li><a href="https://github.com/trailofbits/slither">slither</a> - Static analysis framework that runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses</li>
-<li><a href="https://github.com/duaraghav8/Solium">solium</a> - Solium is a linter to identify and fix style and security issues in Solidity smart contracts</li>
+<li><a href="https://ethlint.readthedocs.io/en/latest/">solium</a> - Solium is a linter to identify and fix style and security issues in Solidity smart contracts</li>
 </ul>
 <h2 id="swift">Swift</h2>
 
 <ul>
-<li><a href="https://github.com/nicklockwood/SwiftFormat">SwiftFormat</a> - A library and command-line formatting tool for reformatting Swift code</li>
-<li><a href="https://github.com/realm/SwiftLint">SwiftLint</a> - A tool to enforce Swift style and conventions</li>
-<li><a href="https://github.com/sleekbyte/tailor">Tailor</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - A static analysis and lint tool for source code written in Apple's Swift programming language.</li>
+<li><a href="https://realm.github.io/SwiftLint/">SwiftLint</a> - A tool to enforce Swift style and conventions</li>
+<li><a href="https://tailor.sh/">Tailor</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - A static analysis and lint tool for source code written in Apple's Swift programming language.</li>
 </ul>
 <h2 id="tcl">Tcl</h2>
 
@@ -8646,9 +8620,9 @@
 <h2 id="typescript">TypeScript</h2>
 
 <ul>
-<li><a href="https://github.com/mgechev/codelyzer">Codelyzer</a> - A set of tslint rules for static code analysis of Angular 2 TypeScript projects.</li>
+<li><a href="http://codelyzer.com/">Codelyzer</a> - A set of tslint rules for static code analysis of Angular 2 TypeScript projects.</li>
 <li><a href="https://github.com/typescript-eslint/typescript-eslint">ESLint</a> - An extensible linter for the TypeScript language.</li>
-<li><a href="https://github.com/Glavin001/tslint-clean-code">tslint-clean-code</a> - A set of TSLint rules inspired by the Clean Code handbook.</li>
+<li><a href="https://www.npmjs.com/package/tslint-clean-code">tslint-clean-code</a> - A set of TSLint rules inspired by the Clean Code handbook.</li>
 <li><a href="https://github.com/Microsoft/tslint-microsoft-contrib">tslint-microsoft-contrib</a> - A set of tslint rules for static code analysis of TypeScript projects maintained by Microsoft.</li>
 </ul>
 <h2 id="vbscript">VBScript</h2>
@@ -8666,56 +8640,98 @@
 <li><a href="https://www.archunit.org/">ArchUnit</a> - Unit test your Java or Kotlin architecture </li>
 <li><a href="https://atom.io/packages/atom-beautify">Atom-Beautify</a> - Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more in Atom editor </li>
 <li><a href="https://www.axivion.com/en/products-services-9#products_bauhaussuite">Axivion Bauhaus Suite</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Tracks down error-prone code locations, style violations, cloned or dead code, cyclic dependencies and more for C/C++, C#/.NET, Java and Ada 83/Ada 95 </li>
+<li><a href="https://black.readthedocs.io/en/stable/">Black</a> - The uncompromising Python code formatter </li>
 <li><a href="https://www.castsoftware.com/products/highlight">CAST Highlight</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Commercial Static Code Analysis which runs locally, but uploads the results to its cloud for presentation. </li>
 <li><a href="https://www.checkmarx.com/products/static-application-security-testing/">Checkmarx CxSAST</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Commercial Static Code Analysis which doesn't require pre-compilation. </li>
+<li><a href="https://github.com/ContinuumIO/ciocheck">ciocheck</a> - linter, formatter and test suite helper. As a linter, it is a wrapper around <code>pep8</code>, <code>pydocstyle</code>, <code>flake8</code>, and <code>pylint</code>. </li>
 <li><a href="https://github.com/classgraph/classgraph">ClassGraph</a> - a classpath and module path scanner for querying or visualizing class metadata or class relatedness. </li>
 <li><a href="https://coala.io/">coala</a> - Language independent framework for creating code analysis - supports <a href="https://coala.io/languages">over 60 languages</a> by default </li>
 <li><a href="http://spinroot.com/cobra/">Cobra</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Structural source code analyzer by NASA's Jet Propulsion Laboratory. </li>
-<li><a href="https://github.com/groupon/codeburner">codeburner</a> - Provides a unified interface to sort and act on the issues it finds </li>
+<li><a href="https://www.codeac.io?ref=awesome-static-analysis">Codeac</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Automated code review tool integrates with GitHub, Bitbucket and GitLab (even self-hosted). Available for JavaScript, TypeScript, Python, Ruby, Go, PHP, Java, Docker, and more. (open-source free) </li>
+<li><a href="http://groupon.github.io/codeburner/">codeburner</a> - Provides a unified interface to sort and act on the issues it finds </li>
+<li><a href="https://codechecker.readthedocs.io/en/latest/">codechecker</a> - a defect database and viewer extension for the Clang Static Analyzer with web GUI </li>
 <li><a href="https://codefactor.io">CodeFactor</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Static Code Analysis for C#, C, C++, CoffeeScript, CSS, Groovy, GO, JAVA, JavaScript, Less, Python, Ruby, Scala, SCSS, TypeScript. </li>
-<li><a href="https://submain.com/products/codeit.right.aspx">CodeIt.Right</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - CodeIt.Right&trade; provides a fast, automated way to ensure that your source code adheres to (your) predefined design and style guidelines as well as best coding practices. Supported languages: C#, VB.NET. </li>
+<li><a href="https://submain.com/products/codeit.right.aspx">CodeIt.Right</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - CodeIt.Right&trade; provides a fast, automated way to ensure that your source code adheres to (your) predefined design and style guidelines as well as best coding practices </li>
+<li><a href="https://cyber-security.claranet.fr/en/codepatrol">CodePatrol</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Automated SAST code reviews driven by security, supports 15+ languages and includes security training. </li>
+<li><a href="https://www.devexpress.com/products/coderush/">CodeRush</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Code creation, debugging, navigation, refactoring, analysis and visualization tools that use the Roslyn engine in Visual Studio 2015 and up. </li>
 <li><a href="https://empear.com/">CodeScene</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - CodeScene prioritizes technical debt, finds social patterns and identifies hidden risks in your code. </li>
+<li><a href="https://github.com/jameysharp/corrode">Corrode</a> - Semi-automatic translation from C to Rust. Could reveal bugs in the original implementation by showing Rust compiler warnings and errors. </li>
 <li><a href="https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html">Coverity</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Synopsys Coverity supports 20 languages and over 70 frameworks including Ruby on rails, Scala, PHP, Python, JavaScript, TypeScript, Java, Fortran, C, C++, C#, VB.NET. </li>
 <li><a href="https://github.com/xcatliu/cqc">cqc</a> - Check your code quality for js, jsx, vue, css, less, scss, sass and styl files. </li>
+<li><a href="https://github.com/csscomb/csscomb.js">CSScomb</a> - a coding style formatter for CSS. Supports own configurations to make style sheets beautiful and consistent </li>
 <li><a href="https://github.com/thesp0nge/dawnscanner">dawnscanner</a> - a static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks. </li>
 <li><a href="https://www.deepcode.ai/">DeepCode</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - DeepCode finds bugs, security vulnerabilities, performance and API issues based on AI. DeepCode's speed of analysis allow us to analyse your code in real time and deliver results when you hit the save button in your IDE. Supported languages are Java, C/C++, JavaScript, Python, and TypeScript. Integrations with GitHub, BitBucket and Gitlab. </li>
 <li><a href="https://deepsource.io/">DeepSource</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - In-depth static analysis to monitor source code quality and security. Supports Python and Go and can detect 600+ types of issues in verticals of bug risks, security, anti-patterns, performance, documentation and style. Native integration with GitHub. </li>
 <li><a href="https://github.com/multilang-depends/depends">Depends</a> - Analyses the comprehensive dependencies of code elements for Java, C/C++, Ruby. </li>
 <li><a href="https://github.com/microsoft/devskim">DevSkim</a> - Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others. </li>
 <li><a href="https://embold.io">Embold</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Intelligent software analytics platform that identifies design issues, code issues, duplication and metrics. Supports Java, C, C++, C#, JavaScript, TypeScript, Python, Go, Kotlin and more. </li>
+<li><a href="https://www.exakat.io/">exakat</a> - An automated code reviewing engine for PHP </li>
+<li><a href="https://find-sec-bugs.github.io/">Find Security Bugs</a> - The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects) </li>
+<li><a href="https://github.com/PyCQA/flake8">flake8</a> - a wrapper around <code>pyflakes</code>, <code>pycodestyle</code> and <code>mccabe</code> </li>
 <li><a href="https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview">Fortify</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML. </li>
-<li><a href="https://github.com/sideci/goodcheck">Goodcheck</a> - Regexp based customizable linter </li>
-<li><a href="https://github.com/wireghoul/graudit">graudit</a> - Grep rough audit - source code auditing tool - C/C++, PHP, ASP, C#, Java, Perl, Python, Ruby </li>
+<li><a href="https://github.com/alecthomas/gometalinter">Go Meta Linter</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - Concurrently run Go lint tools and normalise their output. Use <code>golangci-lint</code> for new projects. </li>
+<li><a href="https://sider.github.io/goodcheck/">Goodcheck</a> - Regexp based customizable linter </li>
+<li><a href="https://github.com/360EntSecGroup-Skylar/goreporter">goreporter</a> - concurrently runs many linters and normalises their output to a report. </li>
+<li><a href="http://www.justanotherhacker.com/">graudit</a> - Grep rough audit - source code auditing tool </li>
+<li><a href="https://github.com/cuplv/hopper">Hopper</a> - A static analysis tool written in scala for languages that run on JVM </li>
 <li><a href="https://houndci.com/">Hound CI</a> - Comments on style violations in GitHub pull requests. Supports Coffeescript, Go, HAML, JavaScript, Ruby, SCSS and Swift. </li>
 <li><a href="https://github.com/justinabrahms/imhotep">imhotep</a> - Comment on commits coming into your repository and check for syntactic errors and general lint warnings. </li>
-<li><a href="https://github.com/facebook/infer">Infer</a> - A static analyzer for Java, C and Objective-C </li>
-<li><a href="https://github.com/insidersec/insider">InsiderSec</a> - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js). </li>
+<li><a href="https://fbinfer.com/">Infer</a> - A static analyzer for Java, C and Objective-C </li>
+<li><a href="https://insidersec.io/">InsiderSec</a> - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js). </li>
 <li><a href="https://www.kiuwan.com/code-security-sast/">Kiuwan</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Identify and remediate cyber threats in a blazingly fast, collaborative environment, with seamless integration in your SDLC. Python, C\C++, Java, C#, PHP and more </li>
-<li><a href="http://www.klocwork.com/products-services/klocwork">Klocwork</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Quality and Security Static analysis for C/C++, Java and C# </li>
-<li><a href="https://github.com/ajinabraham/NodeJsScan">NodeJSScan</a> - NodeJsScan is a static security code scanner for Node.js applications. </li>
-<li><a href="https://github.com/oclint/oclint">oclint</a> - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C </li>
-<li><a href="https://github.com/facebook/pfff">pfff</a> - Facebook's tools for code analysis, visualizations, or style-preserving source transformation for many languages </li>
+<li><a href="https://www.perforce.com/products/klocwork">Klocwork</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Quality and Security Static analysis for C/C++, Java and C# </li>
+<li><a href="https://ktlint.github.io/">ktlint</a> - An anti-bikeshedding Kotlin linter with built-in formatter </li>
+<li><a href="https://lgtm.com/">LGTM.com</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Deep code analysis for GitHub and Bitbucket to find security vulnerabilities and critical code quality issues (using Semmle QL). Automatic code review for pull requests; free for public repositories. </li>
+<li><a href="https://github.com/adamchainz/multilint">multilint</a> - a wrapper around <code>flake8</code>, <code>isort</code> and <code>modernize</code> </li>
+<li><a href="https://nitpick-ci.com">Nitpick CI</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Automated PHP code review </li>
+<li><a href="https://opensecurity.in/">NodeJSScan</a> - NodeJsScan is a static security code scanner for Node.js applications. </li>
+<li><a href="http://oclint.org/">oclint</a> - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C </li>
+<li><a href="https://github.com/facebookarchive/pfff/wiki/Main">pfff</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - Facebook's tools for code analysis, visualizations, or style-preserving source transformation for many languages </li>
 <li><a href="https://pmd.github.io/">PMD</a> - A source code analyzer for Java, Javascript, PLSQL, XML, XSL and others </li>
-<li><a href="https://github.com/pre-commit/pre-commit">pre-commit</a> - A framework for managing and maintaining multi-language pre-commit hooks. </li>
-<li><a href="https://github.com/prontolabs/pronto">Pronto</a> - Quick automated code review of your changes. Supports more than 40 runners for various languages, including Clang, Elixir, JavaSCript, PHP, Ruby and more </li>
-<li><a href="https://github.com/PositiveTechnologies/PT.PM">PT.PM</a> - An engine for searching patterns in the source code, based on Unified AST or UST. At present time C#, Java, PHP, PL/SQL, T-SQL, and JavaScript are supported. Patterns can be described within the code or using a DSL. </li>
+<li><a href="https://github.com/Polymer/tools/tree/master/packages/analyzer">Polymer-analyzer</a> - A static analysis framework for Web Components. </li>
+<li><a href="https://pre-commit.com/">pre-commit</a> - A framework for managing and maintaining multi-language pre-commit hooks. </li>
+<li><a href="https://prettier.io/">Prettier</a> - An opinionated code formatter. </li>
+<li><a href="https://github.com/prontolabs/pronto">Pronto</a> - Quick automated code review of your changes. Supports more than 40 runners for various languages, including Clang, Elixir, JavaScript, PHP, Ruby and more </li>
+<li><a href="https://github.com/PyCQA/prospector">prospector</a> - a wrapper around <code>pylint</code>, <code>pep8</code>, <code>mccabe</code> and others </li>
+<li><a href="https://github.com/PositiveTechnologies/PT.PM">PT.PM</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - An engine for searching patterns in the source code, based on Unified AST or UST. At present time C#, Java, PHP, PL/SQL, T-SQL, and JavaScript are supported. Patterns can be described within the code or using a DSL. </li>
+<li><a href="https://www.pullrequest.com">PullRequest</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Code review as a service with built-in static analysis </li>
+<li><a href="https://pumasecurity.io/">Puma Scan</a> - Puma Scan provides real time secure code analysis for common vulnerabilities (XSS, SQLi, CSRF, LDAPi, crypto, deserialization, etc.) as development teams write code in Visual Studio. </li>
 <li><a href="https://www.viva64.com/en/pvs-studio/">PVS-Studio</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - a (<a href="https://www.viva64.com/en/b/0614/">conditionally free</a> for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes <a href="https://github.com/viva64/pvs-studio-check-list">you can propose a large FOSS project for analysis by PVS employees</a>. Supports CWE mapping, MISRA and CERT coding standards. </li>
+<li><a href="https://github.com/apiology/quality">quality</a> - Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time. </li>
 <li><a href="https://www.qualys.com/apps/container-security/">Qualys Container Security</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Container native application protection to provide visibility and control of containerized applications. </li>
+<li><a href="https://github.com/quantifiedcode/quantifiedcode">QuantifiedCode</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - Automated code review &amp; repair </li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio">Refactoring Essentials</a> - The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers. </li>
+<li><a href="https://www.jetbrains.com/resharper/">ReSharper</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Extends Visual Studio with on-the-fly code inspections for C#, VB.NET, ASP.NET, JavaScript, TypeScript and other technologies. </li>
 <li><a href="https://github.com/haya14busa/reviewdog">Reviewdog</a> - A tool for posting review comments from any linter in any code hosting service. </li>
-<li><a href="https://security-code-scan.github.io/">Security Code Scan</a> - Security code analyzer for C# and VB.NET. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc. </li>
+<li><a href="https://www.ripstech.com/">RIPS</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - A static source code analyser for vulnerabilities in PHP scripts </li>
+<li><a href="https://github.com/dotnet/roslyn-analyzers">Roslyn Analyzers</a> - Roslyn-based implementation of FxCop analyzers. </li>
+<li><a href="https://security-code-scan.github.io/">Roslyn Security Guard</a> - Project that focuses on the identification of potential vulnerabilities such as SQL injection, cross-site scripting (XSS), CSRF, cryptography weaknesses, hardcoded passwords and many more. </li>
+<li><a href="https://security-code-scan.github.io/">Security Code Scan</a> - Security code analyzer for C# and VB.NET. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc. Integrates into Visual Studio 2015 and newer. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc. </li>
 <li><a href="https://semmle.com/">Semmle QL and LGTM</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Find security vulnerabilities, variants, and critical code quality issues using queries over source code. Automatic PR code review; free for public GitHub/Bitbucket repo: <a href="https://LGTM.com">LGTM.com</a>. </li>
-<li><a href="https://github.com/google/shipshape">shipshape</a> - Static program analysis platform that allows custom analyzers to plug in through a common interface </li>
+<li><a href="https://insight.sensiolabs.com/">SensioLabs Insight</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Detect security risks, find bugs and provide actionable metrics for PHP projects </li>
+<li><a href="https://github.com/google/shipshape">shipshape</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - Static program analysis platform that allows custom analyzers to plug in through a common interface </li>
+<li><a href="https://sider.review">Sider</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - An automated code reviewing tool. Improving developers' productivity. </li>
 <li><a href="https://smartdecscanner.com/">SmartDec Scanner</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - SAST tool which is capable of identifying vulnerabilities and undocumented features. The analyzer scans the source code and executables without debug info (i.e. binaries). Supports: Java/Scala/Kotlin, PHP, C#, JavaScript, TypeScript, VBScript, HTML5, Python, Perl, C/C++, Objective-C/Swift, PL/SQL, T-SQL, ABAP, 1C, Apex, Go, Ruby, Groovy, Delphi, VBA, Visual Basic 6, Solidity, Vyper, COBOL. </li>
+<li><a href="https://snyk.io/">Snyk</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Vulnerability scanner for dependencies of node.js apps (free for Open Source Projects) </li>
+<li><a href="https://sonarcloud.io">SonarCloud</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Multilanguage cloud-based static code analysis. History, trends, security hot-spots, pull request analysis and more. Free for open source. </li>
+<li><a href="https://vs.sonarlint.org/">SonarLint for Visual Studio</a> - SonarLint is an extension for Visual Studio 2015 and 2017 that provides on-the-fly feedback to developers on new bugs and quality issues injected into .NET code. </li>
 <li><a href="http://www.sonarqube.org/">SonarQube</a> - SonarQube is an open platform to manage code quality. </li>
-<li><a href="https://github.com/StanfordPL/stoke">STOKE</a> - a programming-language agnostic stochastic optimizer for the x86_64 instruction set. It uses random search to explore the extremely high-dimensional space of all possible program transformations </li>
+<li><a href="http://standardjs.com/">standard</a> - An npm module that checks for Javascript Styleguide issues </li>
+<li><a href="https://styler.r-lib.org/">styler</a> - Formatting of R source code files and pretty-printing of R code. </li>
+<li><a href="https://github.com/nicklockwood/SwiftFormat">SwiftFormat</a> - A library and command-line formatting tool for reformatting Swift code </li>
 <li><a href="https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html">Synopsys</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - A commercial static analysis platform that allows for scanning of multiple languages (C/C++, Android, C#, Java, JS, PHP, Python, Node.JS, Ruby, Fortran, and Swift) </li>
+<li><a href="http://www.teamscale.com/">Teamscale</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Static and dynamic analysis tool supporting more than 25 languages and direct IDE integration. Free hosting for Open Source projects available on request. Free academic licenses available. </li>
 <li><a href="https://github.com/Tencent/TscanCode">TscanCode</a> - A fast and accurate static analysis solution for C/C++, C#, Lua codes provided by Tencent. Using GPLv3 license. </li>
 <li><a href="https://github.com/Yelp/undebt">Undebt</a> - Language-independent tool for massive, automatic, programmable refactoring based on simple pattern definitions </li>
 <li><a href="https://unibeautify.com/">Unibeautify</a> - Universal code beautifier with a GitHub app. Supports HTML, CSS, JavaScript, TypeScript, JSX, Vue, C++, Go, Objective-C, Java, Python, PHP, GraphQL, Markdown, and more. </li>
+<li><a href="https://www.jetbrains.com/upsource/">Upsource</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Code review tool with static code analysis and code-aware navigation for Java, PHP, JavaScript and Kotlin. </li>
 <li><a href="http://www.veracode.com/products/static-analysis-sast/static-code-analysis">Veracode</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Find flaws in binaries and bytecode without requiring source. Support all major programming languages: Java, .NET, JavaScript, Swift, Objective-C, C, C++ and more. </li>
-<li><a href="http://wala.sourceforge.net/wiki/index.php/Main_Page">WALA</a> - static analysis capabilities for Java bytecode and related languages and for JavaScript </li>
-<li><a href="https://www.whitehatsec.com/products/static-application-security-testing/">WhiteHat Application Security Platform</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - WhiteHat Scout (for Developers) combined with WhiteHat Sentinel Source (for Operations) supporting WhiteHat Top 40 and OWASP Top 10. Language support for: Java, C#(.NET), ASP.NET, PHP, JavaScript, Node.js, Objective-C, Android, HTML5, TypeScript. </li>
+<li><a href="https://github.com/tomasbjerre/violations-lib">Violations Lib</a> - Java library for parsing report files from static code analysis. Used by a bunch of Jenkins, Maven and Gradle plugins. </li>
+<li><a href="http://wala.sourceforge.net">WALA</a> - static analysis capabilities for Java bytecode and related languages and for JavaScript </li>
+<li><a href="https://www.whitehatsec.com/platform/static-application-security-testing/">WhiteHat Application Security Platform</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - WhiteHat Scout (for Developers) combined with WhiteHat Sentinel Source (for Operations) supporting WhiteHat Top 40 and OWASP Top 10. </li>
 <li><a href="https://github.com/fimbullinter/wotan">Wotan</a> - Pluggable TypeScript and JavaScript linter </li>
+<li><a href="https://xanitizer.com/">Xanitizer</a> - Xanitizer finds security vulnerabilities in Java/Scala web applications. </li>
+<li><a href="https://xanitizer.com/">Xanitizer</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Xanitizer finds security vulnerabilities in Java/Scala web applications. </li>
 <li><a href="https://developer.apple.com/xcode/">XCode</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - XCode provides a pretty decent UI for <a href="http://clang-analyzer.llvm.org/xcode.html">Clang's</a> static code analyzer (C/C++, Obj-C) </li>
 </ul>
 <h2 id="other">Other<a class="headerlink" href="#other" title="Permanent link">&para;</a></h2>
@@ -8726,45 +8742,43 @@
 <li><a href="https://github.com/fkie-cad/cwe_checker">cwe_checker</a> - cwe_checker finds vulnerable patterns in binary executables.</li>
 <li><a href="https://github.com/jkinder/jakstab">Jakstab</a> - Jakstab is an Abstract Interpretation-based, integrated disassembly and static analysis framework for designing analyses on executables and recovering reliable control flow graphs.</li>
 <li><a href="https://github.com/JusticeRage/Manalyze">Manalyze</a> - A static analyzer, which checks portable executables for malicious content.</li>
-<li><a href="https://github.com/rustwasm/twiggy">Twiggy</a> - Analyzes a binary's call graph to profile code size. The goal is to slim down binaries.</li>
+<li><a href="https://rustwasm.github.io/twiggy/">Twiggy</a> - Analyzes a binary's call graph to profile code size. The goal is to slim down binaries.</li>
 </ul>
 <h2 id="buildtool">Build tools</h2>
 
 <ul>
 <li><a href="https://github.com/mrtazz/checkmake">checkmake</a> - Linter / Analyzer for Makefiles</li>
-<li><a href="https://github.com/Ericsson/codechecker">codechecker</a> - a defect database and viewer extension for the Clang Static Analyzer</li>
 </ul>
 <h2 id="css">CSS/SASS/SCSS</h2>
 
 <ul>
-<li><a href="https://github.com/cssstats/cssstats">CSS Stats</a> - Potentially interesting stats on stylesheets</li>
-<li><a href="https://github.com/csscomb/csscomb.js">CSScomb</a> - a coding style formatter for CSS. Supports own configurations to make style sheets beautiful and consistent</li>
-<li><a href="https://github.com/CSSLint/csslint">CSSLint</a> - Does basic syntax checking and finds problematic patterns or signs of inefficiency</li>
+<li><a href="https://cssstats.com/">CSS Stats</a> - Potentially interesting stats on stylesheets</li>
+<li><a href="http://csslint.net/">CSSLint</a> - Does basic syntax checking and finds problematic patterns or signs of inefficiency</li>
 <li><a href="https://graphmycss.com">GraphMyCSS.com</a> - CSS Specificity Graph Generator</li>
 <li><a href="https://github.com/katiefenn/parker">Parker</a> - Stylesheet analysis tool</li>
-<li><a href="https://github.com/projectwallace/css-analyzer">Project Wallace CSS Analyzer</a> - Analytics for CSS, part of <a href="https://www.projectwallace.com">Project Wallace</a></li>
-<li><a href="https://github.com/sasstools/sass-lint">sass-lint</a> - A Node-only Sass linter for both sass and scss syntax.</li>
-<li><a href="https://github.com/brigade/scss-lint">scsslint</a> - Linter for SCSS files</li>
-<li><a href="https://github.com/pocketjoso/specificity-graph">Specificity Graph</a> - CSS Specificity Graph Generator</li>
+<li><a href="https://www.projectwallace.com/">Project Wallace CSS Analyzer</a> - Analytics for CSS, part of <a href="https://www.projectwallace.com">Project Wallace</a></li>
+<li><a href="https://github.com/sasstools/sass-lint">sass-lint</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - A Node-only Sass linter for both sass and scss syntax.</li>
+<li><a href="https://github.com/brigade/scss-lint">scsslint</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - Linter for SCSS files</li>
+<li><a href="https://jonassebastianohlsson.com/specificity-graph/">Specificity Graph</a> - CSS Specificity Graph Generator</li>
 <li><a href="http://stylelint.io/">Stylelint</a> - Linter for SCSS/CSS files</li>
 </ul>
 <h2 id="configfile">Config Files</h2>
 
 <ul>
-<li><a href="https://github.com/wemake-services/dotenv-linter">dotenv-linter</a> - Linting dotenv files like a charm.</li>
+<li><a href="https://dotenv-linter.readthedocs.io/en/latest/">dotenv-linter</a> - Linting dotenv files like a charm.</li>
 <li><a href="https://github.com/yandex/gixy">gixy</a> - a tool to analyze Nginx configuration. The main goal is to prevent misconfiguration and automate flaw detection.</li>
 </ul>
 <h2 id="configmanagement">Configuration Management</h2>
 
 <ul>
-<li><a href="https://github.com/willthames/ansible-lint">ansible-lint</a> - Checks playbooks for practices and behaviour that could potentially be improved</li>
+<li><a href="https://docs.ansible.com/ansible-lint/">ansible-lint</a> - Checks playbooks for practices and behaviour that could potentially be improved</li>
 <li><a href="https://github.com/awslabs/cfn-python-lint">cfn-lint</a> - AWS Labs CloudFormation linter.</li>
 <li><a href="https://github.com/stelligent/cfn_nag">cfn_nag</a> - A linter for AWS CloudFormation templates.</li>
-<li><a href="https://github.com/bridgecrewio/checkov/">checkov</a> - Static analysis tool for Terraform files (tf&gt;=v0.12), preventing cloud misconfigs at build time.</li>
-<li><a href="https://docs.chef.io/cookstyle.html">cookstyle</a> - Cookstyle is a linting tool based on the RuboCop Ruby linting tool for Chef cookbooks</li>
+<li><a href="https://www.checkov.io/">checkov</a> - Static analysis tool for Terraform files (tf&gt;=v0.12), preventing cloud misconfigs at build time.</li>
+<li><a href="https://github.com/chef/cookstyle">cookstyle</a> - Cookstyle is a linting tool based on the RuboCop Ruby linting tool for Chef cookbooks</li>
 <li><a href="http://www.foodcritic.io/">foodcritic</a> - A lint tool that checks Chef cookbooks for common problems.</li>
 <li><a href="https://github.com/rodjek/puppet-lint">Puppet Lint</a> - Check that your Puppet manifests conform to the style guide.</li>
-<li><a href="https://terraform-compliance.com">terraform-compliance</a> - a lightweight, compliance and security focused, BDD test framework against Terraform.</li>
+<li><a href="https://terraform-compliance.com">terraform-compliance</a> - A lightweight, compliance- and security focused, BDD test framework against Terraform.</li>
 <li><a href="https://github.com/cesar-rodriguez/terrascan">terrascan</a> - Collection of security and best practice tests for static code analysis of Terraform templates.</li>
 <li><a href="https://github.com/wata727/tflint">tflint</a> - A Terraform linter for detecting errors that can not be detected by <code>terraform plan</code>.</li>
 </ul>
@@ -8777,7 +8791,7 @@
 <li><a href="https://github.com/eliasgranderubio/dagda">dagda</a> - Perform static analysis of known vulnerabilities in docker images/containers.</li>
 <li><a href="https://github.com/garethr/docker-label-inspector">Docker Label Inspector</a> - Lint and validate Dockerfile labels</li>
 <li><a href="https://github.com/lukasmartinelli/hadolint">Haskell Dockerfile Linter</a> - A smarter Dockerfile linter that helpsyou build best practice Docker images</li>
-<li><a href="https://github.com/zegl/kube-score">kube-score</a> - Static code analysis of your Kubernetes object definitions.</li>
+<li><a href="https://kube-score.com/">kube-score</a> - Static code analysis of your Kubernetes object definitions.</li>
 </ul>
 <h2 id="deno">Deno</h2>
 
@@ -8792,10 +8806,9 @@
 <h2 id="html">HTML</h2>
 
 <ul>
-<li><a href="https://github.com/philipwalton/html-inspector">HTML Inspector</a> - HTML Inspector is a code quality tool to help you and your team write better markup.</li>
+<li><a href="https://github.com/philipwalton/html-inspector">HTML Inspector</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - HTML Inspector is a code quality tool to help you and your team write better markup.</li>
 <li><a href="http://www.html-tidy.org/">HTML Tidy</a> - Corrects and cleans up HTML and XML documents by fixing markup errors and upgrading legacy code to modern standards.</li>
-<li><a href="https://github.com/yaniswang/HTMLHint">HTMLHint</a> - A Static Code Analysis Tool for HTML</li>
-<li><a href="https://github.com/Polymer/polymer-analyzer">Polymer-analyzer</a> - A static analysis framework for Web Components.</li>
+<li><a href="https://htmlhint.com/">HTMLHint</a> - A Static Code Analysis Tool for HTML</li>
 </ul>
 <h2 id="ide">IDE Plugins</h2>
 
@@ -8804,9 +8817,7 @@
 <li><a href="https://developer.android.com/studio">Android Studio</a> - Based on IntelliJ IDEA, and comes bundled with tools for Android including Android Lint.</li>
 <li><a href="https://www.attackflow.com/Extension">Attackflow Extension</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Attackflow plugin for Visual Studio, which enables developers to find critical security bugs at real time in the source code without any prior knowledge.</li>
 <li><a href="https://github.com/Microsoft/DevSkim">DevSkim</a> - Inline, realtime security analysis. Works with multiple programming languages and IDEs (VS, VS Code, Sublime Text, ...).</li>
-<li><a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a> - Comes bundled with a lot of inspections for Java and Kotlin and includes tools for refactoring, formatting and more.</li>
-<li><a href="https://github.com/pumasecurity/puma-scan">Puma Scan</a> - Puma Scan provides real time secure code analysis for common vulnerabilities (XSS, SQLi, CSRF, LDAPi, crypto, deserialization, etc.) as development teams write code in Visual Studio.</li>
-<li><a href="https://security-code-scan.github.io/">Security Code Scan</a> - Security code analyzer for C# and VB.NET that integrates into Visual Studio 2015 and newer. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc.</li>
+<li><a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Comes bundled with a lot of inspections for Java and Kotlin and includes tools for refactoring, formatting and more.</li>
 <li><a href="https://github.com/Kuniwak/vint">vint</a> - Fast and Highly Extensible Vim script Language Lint implemented by Python.</li>
 </ul>
 <h2 id="latex">LaTeX</h2>
@@ -8825,21 +8836,21 @@
 <ul>
 <li><a href="https://github.com/DavidAnson/markdownlint">markdownlint</a> - Node.js -based style checker and lint tool for Markdown/CommonMark files.</li>
 <li><a href="https://github.com/mivok/markdownlint">mdl</a> - A tool to check Markdown files and flag style issues.</li>
-<li><a href="https://github.com/remarkjs/remark-lint">remark-lint</a> - Pluggable Markdown code style linter written in JavaScript.</li>
+<li><a href="https://remark.js.org/">remark-lint</a> - Pluggable Markdown code style linter written in JavaScript.</li>
 </ul>
 <h2 id="mobile">Mobile</h2>
 
 <ul>
 <li><a href="http://tools.android.com/tips/lint">Android Lint</a> - Run static analysis on Android projects.</li>
-<li><a href="https://github.com/passy/android-lint-summary">android-lint-summary</a> - Combines lint errors of multiple projects into one output, check lint results of multiple sub-projects at once.</li>
-<li><a href="https://github.com/secure-software-engineering/soot-infoflow-android">FlowDroid</a> - static taint analysis tool for Android applications</li>
+<li><a href="https://passy.github.io/android-lint-summary/">android-lint-summary</a> - Combines lint errors of multiple projects into one output, check lint results of multiple sub-projects at once.</li>
+<li><a href="https://github.com/secure-software-engineering/FlowDroid">FlowDroid</a> - static taint analysis tool for Android applications</li>
 <li><a href="https://github.com/GeoffreyHecht/paprika">paprika</a> - A toolkit to detect some code smells in analyzed Android applications.</li>
 <li><a href="https://github.com/linkedin/qark">qark</a> - Tool to look for several security related Android application vulnerabilities</li>
 </ul>
 <h2 id="package">Packages</h2>
 
 <ul>
-<li><a href="https://github.com/Debian/lintian">lintian</a> - Static analysis tool for Debian packages</li>
+<li><a href="https://lintian.debian.org/">lintian</a> - Static analysis tool for Debian packages</li>
 <li><a href="https://github.com/rpm-software-management/rpmlint">rpmlint</a> - Tool for checking common errors in rpm packages</li>
 </ul>
 <h2 id="protobuf">Protocol Buffers</h2>
@@ -8851,15 +8862,14 @@
 
 <ul>
 <li><a href="https://github.com/uni-bremen-agst/libvcs4j">LibVCS4j</a> - A Java library that allows existing tools to analyse the evolution of software systems by providing a common API for different version control systems and issue trackers.</li>
-<li><a href="https://github.com/tomasbjerre/violations-lib">Violations Lib</a> - Java library for parsing report files from static code analysis. Used by a bunch of Jenkins, Maven and Gradle plugins.</li>
 </ul>
 <h2 id="template">Template-Languages</h2>
 
 <ul>
 <li><a href="https://github.com/rwjblue/ember-template-lint">ember-template-lint</a> - Linter for Ember or Handlebars templates.</li>
-<li><a href="https://github.com/brigade/haml-lint">haml-lint</a> - Tool for writing clean and consistent HAML</li>
+<li><a href="https://github.com/sds/haml-lint">haml-lint</a> - Tool for writing clean and consistent HAML</li>
 <li><a href="https://github.com/sds/slim-lint">slim-lint</a> - Configurable tool for analyzing Slim templates</li>
-<li><a href="https://github.com/adrienverge/yamllint">yamllint</a> - Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.</li>
+<li><a href="https://yamllint.readthedocs.io/">yamllint</a> - Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.</li>
 </ul>
 <h2 id="translation">Translation</h2>
 
@@ -8872,34 +8882,22 @@
 <li><a href="https://www.codacy.com/">Codacy</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Code Analysis to ship Better Code, Faster.</li>
 <li><a href="https://codeclimate.com/">Code Climate</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - The open and extensible static analysis platform, for everyone.</li>
 <li><a href="https://www.code-inspector.com">Code Inspector</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Code quality and technical debt management platform that supports 10+ languages.</li>
-<li><a href="https://www.codeac.io?ref=awesome-static-analysis">Codeac</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Automated code review tool integrates with GitHub, Bitbucket and GitLab (even self-hosted). Available for JavaScript, TypeScript, Python, Ruby, Go, PHP, Java, Docker, and more. (open-source free)</li>
 <li><a href="https://codefactor.io">CodeFactor</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Automated Code Analysis for repos on GitHub or BitBucket.</li>
 <li><a href="https://www.getcodeflow.com">CodeFlow</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Automated code analysis tool to deal with technical depth. Integrates with Bitbucket and Gitlab. (free for Open Source Projects)</li>
-<li><a href="https://cyber-security.claranet.fr/en/codepatrol">CodePatrol</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Automated SAST code reviews driven by security, supports 15+ languages and includes security training.</li>
 <li><a href="https://www.kiuwan.com/">kiuwan</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Software Analytics in the Cloud supporting more than 22 programming languages.</li>
-<li><a href="https://landscape.io/">Landscape</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Static code analysis for Python</li>
-<li><a href="https://lgtm.com/">LGTM.com</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Deep code analysis for GitHub and Bitbucket to find security vulnerabilities and critical code quality issues (using Semmle QL). Automatic code review for pull requests; free for public repositories.</li>
-<li><a href="https://nitpick-ci.com">Nitpick CI</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Automated PHP code review</li>
-<li><a href="https://www.pullrequest.com">PullRequest</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Code review as a service with built-in static analysis</li>
-<li><a href="https://www.quantifiedcode.com/">QuantifiedCode</a> - Automated code review &amp; repair</li>
-<li><a href="https://softwaresecured.com/reshift/">Reshift</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - A source code analysis tool for detecting and managing Java security vulnerabilities.</li>
+<li><a href="https://landscape.io/">Landscape</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Static code analysis for Python</li>
+<li><a href="https://www.reshiftsecurity.com/">Reshift</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - A source code analysis tool for detecting and managing Java security vulnerabilities.</li>
 <li><a href="https://scrutinizer-ci.com/">Scrutinizer</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - A proprietary code quality checker that can be integrated with GitHub</li>
-<li><a href="https://insight.sensiolabs.com/">SensioLabs Insight</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Detect security risks, find bugs and provide actionable metrics for PHP projects</li>
-<li><a href="https://sider.review">Sider</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - An automated code reviewing tool. Improving developers' productivity.</li>
-<li><a href="https://snyk.io/">Snyk</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Vulnerability scanner for dependencies of node.js apps (free for Open Source Projects)</li>
-<li><a href="https://sonarcloud.io">SonarCloud</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Multilanguage cloud-based static code analysis. History, trends, security hot-spots, pull request analysis and more. Free for open source.</li>
-<li><a href="http://www.teamscale.com/">Teamscale</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Static and dynamic analysis tool supporting more than 25 languages and direct IDE integration. Free hosting for Open Source projects available on request. Free academic licenses available.</li>
-<li><a href="https://www.jetbrains.com/upsource/">Upsource</a> <img alt="©️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/00a9.svg" title=":copyright:" /> - Code review tool with static code analysis and code-aware navigation for Java, PHP, JavaScript and Kotlin.</li>
 </ul>
 <h2 id="writing">Writing</h2>
 
 <ul>
 <li><a href="https://afterthedeadline.com/">After the Deadline</a> <img alt="⚠️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a0.svg" title=":warning:" /> - spell, style and grammar checker</li>
 <li><a href="https://github.com/codespell-project/codespell">codespell</a> - check code for common misspellings</li>
-<li><a href="https://github.com/languagetool-org/languagetool">languagetool</a> - Style and grammar checker for 25+ languages. It finds many errors that a simple spell checker cannot detect.</li>
+<li><a href="https://languagetool.org/">languagetool</a> - Style and grammar checker for 25+ languages. It finds many errors that a simple spell checker cannot detect.</li>
 <li><a href="https://github.com/vlajos/misspell-fixer">misspell-fixer</a> - Quick tool for fixing common misspellings, typos in source code</li>
-<li><a href="https://github.com/jwilk/mwic">Misspelled Words In Context</a> - a spell-checker that groups possible misspellings and shows them in their contexts</li>
-<li><a href="https://github.com/amperser/proselint/">proselint</a> - a linter for English prose with a focus on writing style instead of grammar.</li>
+<li><a href="http://jwilk.net/software/mwic">Misspelled Words In Context</a> - a spell-checker that groups possible misspellings and shows them in their contexts</li>
+<li><a href="http://proselint.com/">proselint</a> - a linter for English prose with a focus on writing style instead of grammar.</li>
 <li><a href="https://github.com/ValeLint/vale">vale</a> - A customizable, syntax-aware linter for prose.</li>
 <li><a href="https://github.com/btford/write-good">write-good</a> - A linter with a focus on eliminating "weasel words".</li>
 </ul>
