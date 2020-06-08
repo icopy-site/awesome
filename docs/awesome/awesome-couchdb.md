@@ -15,6 +15,10 @@
 Pull-Requests are welcomed.
 
 
+## News & Blog Posts
+
+- [MiniCouchDB in Rust](https://www.garrensmith.com/blogs/mini-couch-hack-week)
+- [The Road to CouchDB 3.0: Prepare for 4.0](https://blog.couchdb.org/2020/02/26/the-road-to-couchdb-3-0-prepare-for-4-0/) _(02-26-2020)_
 
 ## Patterns & Best Practices
 
@@ -97,7 +101,6 @@ Pull-Requests are welcomed.
 
 ### Companies
 
-- [Couchbase](https://www.couchbase.com/) - NoSQL database.
 - [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices](https://github.com/eHealthAfrica/couchdb-best-practices).
 
 
@@ -111,7 +114,10 @@ Pull-Requests are welcomed.
 ### Related Projects
 
 - [PouchDB](https://pouchdb.com/) - A pocket-sized database.
+- [FoundationDB](https://www.foundationdb.org/) - CouchDB 4.0 will utilize FoundationDB.
 - [Hoodie](http://hood.ie/) - A backend for Offline First applications.
+- [Couchbase](https://www.couchbase.com/) - NoSQL database.
+  - [Migrating from Apache CouchDB](https://docs.couchbase.com/server/current/install/migrate-couchdb.html) - Comparison of CouchDB and CouchBase
 
 
 ## Misc/Technical
