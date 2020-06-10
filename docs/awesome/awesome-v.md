@@ -107,7 +107,7 @@
 
 ### Telegram
 
-- [vgram](https://github.com/vpervenditti/vgram) - Telegram bot library.
+- [vgram](https://github.com/dariotarantini/vgram) - Telegram bot library.
 
 ### Files
 

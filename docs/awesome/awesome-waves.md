@@ -44,6 +44,7 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 - [How to avoid common mistakes in dApp development](https://medium.com/wavesprotocol/how-to-avoid-common-mistakes-in-dapp-development-61015e700459) - How can we avoid the most common mistakes when developing dApps for Web 3.0 ([ru](https://vk.com/@wavesprotocol-kak-izbezhat-oshibok-pri-razrabotke-dapp)).
 - [How to write decentralized oracles in Ride](https://medium.com/wavesprotocol/how-to-write-decentralized-oracles-in-ride-f2c096812b18) - How can we resolve the issue of supplying real-world data to the blockchain? Introducing Oraculus - a smart contract for creating decentralized oracles ([ru](https://vk.com/@wavesprotocol-kak-napisat-decentralizovannyi-orakul-na-ride)).
 - [Billy — motivation bot for Slack and Microsoft Teams](https://medium.com/@ikardanov/billy-motivation-and-recognition-bot-for-slack-and-microsoft-teams-d05167e4a7f9) - A tool built on the Waves blockchain to reward team members in a non-financial way ([ru](https://vc.ru/tribuna/128472-billy-bot-dlya-motivacii-personala)).
+- [How to build a dApp for team motivation](https://medium.com/wavesprotocol/how-to-build-a-dapp-for-team-motivation-8943504e3feb) - Billy is DApp in the form of a bot that allows for an incentive and reward system aiming to motivate employees through Slack, a business communication platform ([ru](https://vk.com/@wavesprotocol-kak-sozdat-dapp-dlya-motivacii-sotrudnikov)).
 
 ## Products
 

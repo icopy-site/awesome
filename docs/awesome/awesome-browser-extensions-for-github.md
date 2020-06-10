@@ -152,6 +152,9 @@ Displays live previews of Markdown comments while you type. Works with Issues + 
 
 Review repositories on GitHub like a Pull Request. This extension adds the ability to github.com to make notes in files and add them as a compiled list to an issue.
 
+
+This extension adds the simplicity of WYSIWYG editing to issues, comments, pull requests, wikis and discussions in GitHub. It accepts Markdown input and offers productive writing, starting with tables.  
+
 ## Miscellaneous
 
 

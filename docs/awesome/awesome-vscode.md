@@ -115,11 +115,6 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ### [AutoHotkey Plus](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus)
 > Syntax Highlighting, Snippets, Go to Definition, Signature helper and Code formatter
 
-### [AutoHotkey Manager](https://marketplace.visualstudio.com/items?itemName=Denis-net.vscode-ahk-manager)
-> All you need to develop ahk scripts. Extension for interacting with ahk executables
-
-![AutoHotkey Manager](https://raw.githubusercontent.com/Denis-net/vscode-ahk-manager/master/media/vs-ahk-manager.gif)
-
 ## Bash
 
 ### [Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode)
@@ -1115,11 +1110,6 @@ A dark syntax/workbench theme for Visual Studio Code - optimized for SCSS, HTML,
  <a href="https://vscodethemes.com/e/mischah.relaxed-theme">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/niketa-theme.png" width="600" />
 </a>
-
-
-### [Tinacious design syntax by Tinacious](https://github.com/tinacious/vscode-tinacious-design-syntax)
-
-Tinacious Design Syntax is a syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange.
 
 #### Dark 
   
