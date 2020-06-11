@@ -31,6 +31,7 @@
 - [GoRails](https://gorails.com)
 - [Drifting Ruby](https://www.driftingruby.com/)
 - [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
+- [Ruby on Rails Online Courses at Classpert](https://classpert.com/ruby-on-rails)
 
 
 ### Jobs

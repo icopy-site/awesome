@@ -1,12 +1,5 @@
 <div class="github-widget" data-repo="drewrwilson/toolsforactivism"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
----
-
-## There is a growing number of techies calling on Github to cancel its contract with ICE. Please take a moment to read this [open letter to Github](https://github.com/drop-ice/dear-github-2.0) and add your name to the list.
-
----
-
-
 ## Digital Tools for Activism
 
 ![digital tools for activism](https://raw.githubusercontent.com/drewrwilson/toolsforactivism/master/digital-tool.jpg "digital tools for activism")

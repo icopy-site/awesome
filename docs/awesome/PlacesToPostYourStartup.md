@@ -43,7 +43,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Apps Listo - http://appslisto.com/submit-your-app/
 * Apps Mamma - http://appsmamma.com/submit-your-app/
 * Apps Mirror - http://www.appsmirror.com/submit-your-app-for-review
-* AppsNow - http://appsnow.us/submit-app-for-review/
 * AppsThunder - http://appsthunder.com/submit-your-app/
 * AppStorm - http://appstorm.net/
 * Appvita - http://www.appvita.com/
@@ -87,7 +86,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Launching Next - http://www.launchingnext.com/submit/
 * Loop - https://app.loopinput.com/ 
 * MakeUseOf - http://www.makeuseof.com/about/
-* Maqtoob - https://maqtoob.com/submit-a-tool
 * Mobilzed - https://www.moblized.com/vendors/register
 * Netted - https://www.netted.net/contact-us/
 * Next Big Product - http://nextbigproduct.net/product-submission/
@@ -103,6 +101,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Robingood - http://tools.robingood.com/
 * SaaSHub - https://www.saashub.com/
 * Saasified - https://saasified.co
+* Saijo's Tools List - https://saijogeorge.com/best-marketing-tools/
 * Show HN - https://news.ycombinator.com/showhn.html
 * Side Projectors - https://www.sideprojectors.com
 * SideProjects - https://sideprojects.net
