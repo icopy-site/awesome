@@ -29,7 +29,7 @@ CodeWyng provides lightning fast code navigation on GitHub: hover documentation,
 
 <details><summary>Screenshots</summary>
 
- ![CodeWyng](https://raw.githubusercontent.com/CodeWyng/codewyng/master/demo.gif)
+ ![CodeWyng](https://github.com/CodeWyng/codewyng/raw/master/readme/demo.gif)
 </details>
 
 

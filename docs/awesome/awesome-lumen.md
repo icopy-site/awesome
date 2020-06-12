@@ -17,6 +17,8 @@
 * [Documentation](https://lumen.laravel.com/docs/5.2) - Lumen 5
 * [GitHub Repository](https://github.com/laravel/lumen)
 
+## Demos
+ * [Lumen API demo](https://github.com/liyu001989/lumen-api-demo)
 
 ## Tutorials
 
@@ -68,10 +70,11 @@
 * [Email Microservice](https://github.com/rlacerda83/lumen-email-microservice) - Microservice for sending emails with Lumen
 * [Lissandra](https://github.com/laravelista/Lissandra) - API for Laracasts Feed built with Lumen.
 * [Lumen Solder](https://github.com/TechnicPack/LumenSolder) - An implementation of Solder in Laravel's Lumen Framework.
-
+* [Lumen Microservices Skeleton](https://github.com/FabrizioCafolla/microservice-lumen) - Skeleton structure for Microservices with Docker and Lumen
 
 ## Books
 * [Writing APIs with Lumen](https://leanpub.com/lumen-apis)
+* [Lumen Programming Guide: Writing PHP Microservices, REST and Web Service APIs](https://www.amazon.com/Lumen-Programming-Guide-Writing-Microservices/dp/1484221869/ref=sr_1_1?ie=UTF8&qid=1536504679&sr=8-1&keywords=lumen+programming)
 
 ## Community
 * [StackOverflow](http://stackoverflow.com/questions/tagged/lumen)

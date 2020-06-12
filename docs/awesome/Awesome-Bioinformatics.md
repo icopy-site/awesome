@@ -34,7 +34,7 @@ Package suites gather software packages and installation tools for specific lang
 
 ### BioJulia
 
-* __[BioJulia](http://biojulia.net/Bio.jl/)__ - Bioinformatics and computational biology infastructure for the Julia programming language.
+* __[BioJulia](https://biojulia.net/)__ - Bioinformatics and computational biology infastructure for the Julia programming language.
 
 ## Data Tools
 
