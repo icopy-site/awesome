@@ -220,6 +220,10 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [Deno Land Indonesia website](https://denoland.id/)
 - [Deno Land Indonesia Telegram group](https://t.me/deno_id)
 
+### Italian
+
+- [Deno - L'anagramma di Node](https://www.slideshare.net/FrancescoSciuti/deno-lanagramma-di-node)
+
 ### Japanese
 
 - [Node.js における設計ミス By Ryan Dahl](https://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335)
