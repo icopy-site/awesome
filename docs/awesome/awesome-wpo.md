@@ -21,7 +21,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Articles
 
-> Go to [https://github.com/davidsonfellipe/awesome-wpo/blob/master/ARTICLES.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/ARTICLES.md).
+> Go to [ARTICLES.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/ARTICLES.md).
 
 ## Blogs
 
@@ -63,7 +63,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## People
 
-> Go to [https://github.com/davidsonfellipe/awesome-wpo/blob/master/PEOPLE.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/PEOPLE.md).
+> Go to [https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/PEOPLE.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/PEOPLE.md).
 
 ## Events
 
@@ -75,11 +75,11 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ### Meetups
 
-> They are categorized into [https://github.com/davidsonfellipe/awesome-wpo/blob/master/MEETUPS.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/MEETUPS.md).
+> They are categorized into [https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/MEETUPS.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/MEETUPS.md).
 
 ## Talks
 
-> They are categorized into [https://github.com/davidsonfellipe/awesome-wpo/blob/master/TALKS.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/TALKS.md).
+> They are categorized into [https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/TALKS.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/TALKS.md).
 
 ## Tools
 
@@ -180,7 +180,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Browser Calories](https://github.com/zenorocha/browser-calories-chrome) - The easiest way to measure your performance budget.
 
 ## Image Optimizers
-
 > How to remove all this unnecessary data and give you a file without degrading quality.
 
 - [Grunt-smushit](https://github.com/heldr/grunt-smushit) - Grunt plugin to remove unnecessary bytes of PNG and JPG using Yahoo Smushit.
@@ -210,6 +209,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Leanify](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
 - [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
 - [ImageEngine](https://imageengine.io) - Cloud service for optimizing, resizing and caching images on the fly with great mobile support.
+- [ImageKit.io](https://imagekit.io) - Intelligent real-time image optimizations, image transformations with a global delivery network and storage.
 
 ## Lazyloaders
 

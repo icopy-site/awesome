@@ -51,6 +51,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Libraries
 
 - [Savory](https://gitlab.com/MAlrusayni/savory) - Library for building user interface based on Seed.
+- [seed-icons](https://crates.io/crates/seed-icons) - Library with collections of icons to include in Seed-based application.
 
 ## Contribute
 

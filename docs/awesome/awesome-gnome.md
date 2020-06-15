@@ -65,6 +65,7 @@
 - [Curlew](https://curlew.sourceforge.io/) - Multimedia converter.
 - [Cozy](https://github.com/geigi/cozy) - Audiobook player.
 - [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
+- [Podcasts](https://wiki.gnome.org/Apps/Podcasts) - Listen to your favourite podcasts.
 
 ### Graphics
 
@@ -96,6 +97,7 @@
 - [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) - Keepass-compatible password manager.
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager compatible with freedesktop secrets.
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
+- [RecApp](https://github.com/amikha1lov/RecApp) - User friendly Open Source screencaster.
 
 ### Developpement and Design
 
@@ -113,6 +115,7 @@
 ### Others
 
 - [razerCommander](https://github.com/GabMus/razerCommander) - Control center for managing Razer peripherals.
+- [Boxes](https://wiki.gnome.org/Apps/Boxes) - View, access, and manage remote and virtual systems.
 
 ## Third-party Apps Plugins
 
