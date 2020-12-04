@@ -19,7 +19,6 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Google Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator&hl=en) - Official calculator from Google.
 - [Samsung Calculator](https://play.google.com/store/apps/details?id=com.sec.android.app.popupcalculator&hl=en) - New, official calculator from Samsung.
 - [Photomath (Camera Calculator)](https://play.google.com/store/apps/details?id=com.microblink.photomath&hl=en) - Calculate math problems using camera.
-- [MyScript Calculator (Drawing Calculator)](https://play.google.com/store/apps/details?id=com.visionobjects.calculator&hl=en) - Perform mathematical operations naturally using your handwriting.
 - [RealCalc](https://play.google.com/store/apps/details?id=uk.co.nickfines.RealCalc&hl=en) - Scientific calculator with realistic interface.
 - [a41cv](https://play.google.com/store/apps/details?id=dk.andsen.hp41&hl=en) - Excellent emulation of the classic [HP-41CV](http://www.hpmuseum.org/hp41.htm) calculator.
 - [Wabbitemu](https://play.google.com/store/apps/details?id=com.Revsoft.Wabbitemu&hl=en) - Emulate Texas Instruments graphing calculators on your device.
@@ -35,7 +34,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 
 ### Mac
 - [Numi](https://numi.io/) - Beautiful calculator with great features, including unit & time zone conversion.
-- [Soulver](http://www.acqualia.com/soulver/) - Do basic math operations using modern, clean interface without buttons.
+- [Soulver 3](https://soulver.app/) - Smart notepad with a built-in calculator.
 - [Calculator + ƒ](https://www.phnsft.com/products/calculator/) - Powerful, extensible calculator for the Mac.
 
 ### Linux
@@ -44,6 +43,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [x48](https://github.com/gwenhael-le-moine/x48) - Emulate the HP48GX/SX, one of the best engineering calculators ever.
 
 ### Cross-Platform
+- [Parsify Desktop](https://parsify.app) - Extendable calculator for the 21st Century.
 - [Simple Electron Calculator](https://github.com/DCKT/electron-calculator) - Basic, cross-platform calculator made with Electron.
 - [elcalc](https://github.com/xxczaki/elcalc) - Calculator with simple & beautiful interface.
 - [Material Design Calculator](https://github.com/lirios/calculator) - Cross-platform material design calculator.
@@ -60,6 +60,9 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Calculator.js](https://material-calculator.netlify.com/) - Open-Source, web calculator with beautiful Google Material Design interface.
 - [Notepad Calculator](http://notepadcalculator.com/) - Calculator with user-friendly, unique notepad interface.
 - [Calculator.net](http://www.calculator.net/) - Huge collection of various calculators.
+- [Clcalc.net](https://clcalc.net/) - Open-Source command-line style arbitrary precision calculator with mathematical, scientific, programming functions and more.
+- [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
+- [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
 
 ## Resources
 
@@ -79,6 +82,7 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [How to use scientific calculator?](https://www.youtube.com/watch?v=3GfuVDtGhWo)
 - [Scott Flansburg, the human calculator](https://www.youtube.com/watch?v=WhtvLpi8Z1M)
 - [15 Year Old Yaashwin Sarawanan is a human calculator | Asia's Got Talent 2019](https://www.youtube.com/watch?v=kvymoFdjuHw)
+- [3Blue1Brown Lockdown math series (11 episodes)](https://www.youtube.com/playlist?list=PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev)
 
 ---
 

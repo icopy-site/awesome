@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="zudochkin/awesome-newsletters"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Newsletters [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/zudochkin/awesome-newsletters.svg)](https://travis-ci.org/zudochkin/awesome-newsletters)
+## Awesome Newsletters [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![Build Status](https://api.travis-ci.org/zudochkin/awesome-newsletters.svg)](https://travis-ci.org/zudochkin/awesome-newsletters)
 
 A curated list of awesome newsletters.
 
@@ -20,6 +20,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Dev Tips](https://umaar.com/dev-tips/). A developer tip, in the form of a gif, in your inbox each week.
 - [Friday Front-end](https://zendev.com/friday-frontend.html). 15 great Front-end articles, tutorials, and announcements every Friday. Sections for CSS/SCSS, JavaScript, and other awesome stuff. [Archive](https://zendev.com/category/friday-frontend.html)
 - [Unreadit/Frontend](https://unread.it/n/frontend/). Best frontend development news sourced from the best subreddits.
+- [UI Dev Newsletter](https://mentor.silvestar.codes/reads). A hand-curated list of articles, tutorials, opinions, and tools related to User Interface development.
 
 ### General Web Development
 
@@ -30,6 +31,8 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Dev Awesome](https://devawesome.io/). Get the latest programming news, cool libraries and productivity tips in your inbox every two weeks.
 - [Insnippets](https://insnippets.com). A daily newsletter with TL;DR information about interesting topics around web development, Devops and distributed systems.
 - [JAMstacked](https://jamstack.email/). An email update on the evolving JAMstack ecosystem.
+- [FreeCodeCamp](https://www.freecodecamp.org). Weekly selection of five articles, videos or entire courses from FreeCodeCamp learning platform.
+- [Codrops](https://tympanus.net/codrops/). Weekly news about qualitative new projects and libraries in web development and design.
 
 ### JavaScript
 
@@ -56,6 +59,8 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [ActReact](https://www.actreact.io). Learn React from the best content in the community, weekly in your inbox.
 - [This Week In React](https://this-week-in-react.org/). Weekly coverage of interesting pull requests, discussions, and RFCs around React Core and React DOM. Coming out every Friday.
 - [Tiny React](https://tinyreact.email). Top 3 React articles of the week in your inbox.
+- [React Explained](https://www.getrevue.co/profile/react-explained). A weekly newsletter for people learning React.
+- [Next.js News](https://nextjsnews.com). Next.js focused newsletter sent every month. Contains reviews of upcoming features, best articles, tools, and plugins.
 
 #### EmberJS
 
@@ -72,6 +77,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [Data Visualization & D3.js Weekly Newsletter](https://www.dashingd3js.com/data-visualization-and-d3-newsletter). Get D3.js and Data Visualization news, articles, jobs and more delivered to your inbox every Tuesday.
 - [Best in Visual Storytelling](https://us16.list-manage.com/subscribe?u=5c12dabe1e59a9fbde1174b8c&id=e27a48af53). Monday roundup of the best in data journalism from the past week. Paid version also includes data visualization job postings.
+- [Generative Collective](https://generative.substack.com/). News, tutorials, articles and inspirations covering the generative / functional arts every Saturday morning.
 
 ### CSS
 
@@ -111,6 +117,10 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [SVG Weekly](https://tinyletter.com/svgweekly). A weekly email focused on Scalable Vector Graphics (SVG), sharing tutorials, tools, experiments, talks and data.
 
+### GraphQL
+
+- [GraphQL Weekly](https://www.graphqlweekly.com/). A weekly newsletter highlighting resources and news from the GraphQL community.
+
 ## Programming
 
 ### Common Section
@@ -121,6 +131,8 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Weekly Dev Tips](https://ardalis.com/tips). A weekly email each Wednesday with a new software development tip from [Steve "ardalis" Smith](https://twitter.com/ardalis). Topics range from git to career to web development to personal development and teamwork.
 - [LLVM Weekly](http://llvmweekly.org). A weekly newsletter covering developments in LLVM, Clang, and related projects.
 - [Discover dev](https://www.discoverdev.io). Weekly digest of the best engineering blogs from across the web. [Archive](https://www.discoverdev.io/archive).
+- [Programming Feedback for Advanced Beginners](https://advancedbeginners.substack.com/). Bi-weekly in-depth code-review related write-up.
+- [Active forks](https://activeforks.net). A weekly newsletter for open source enthusiats with a list of repositories and their recently active forks.
 
 ### ObjectiveC
 
@@ -155,6 +167,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Awesome Go Newsletter](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
 - [Master the World of Golang](https://www.getrevue.co/profile/golang). A weekly newsletter with fine stories about the theories, trends, tools and topics.
 - [Go Gazette](http://www.go-gazette.com/). Weekly curated blogs and tools for Golang seniors.
+- [GoNotícias](https://gonoticias.substack.com/). A weekly newsletter about the Go programming language in Portuguese.
 
 ### R
 
@@ -261,10 +274,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [Postgres Weekly](https://postgresweekly.com/). A free, once–weekly e-mail round-up of PostgreSQL news and articles.
 
-### MySQL
-
-- [Weekly MySQL News](http://mysqlnewsletter.com/). Unofficial Weekly News Digest of all things MySQL.
-
 ### Redis
 
 - [Redis Watch](https://redislabs.com/resources/redis-watch-archive/). Periodic newsletter about everything and anything Redis.
@@ -314,6 +323,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Awesome Android Newsletter](https://android.libhunt.com/newsletter). A curated list of awesome Android packages and resources.
 - [Weekly Xamarin](http://weeklyxamarin.com). Xamarin development.
 - [Flutter Weekly](https://flutterweekly.net/). A weekly newsletter for flutter fans by flutter fans.
+- [Mobile Developers Cafe](https://mobiledeveloperscafe.com). A weekly newsletter for Mobile Developers - iOS, Android, Flutter & React Native.
 
 ## Artificial Intelligence / Machine Learning / Big Data
 
@@ -376,8 +386,8 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ## Security
 - [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.
 - [this week in security](https://twitter.us18.list-manage.com/subscribe?u=e1ad6038c994abec17dafb116&id=a2457dc8ad). a weekly tl;dr cybersecurity newsletter including news, the happy corner, your weekly cyber-cat, and more. It's sent every Sunday.
-- [Morning Hacked](https://morninghacked.com/). Cybersecurity news in your inbox every weekday, in the morning (Eastern Time).
 - [InfoSecSherpa](https://nuzzel.com/InfoSecSherpa). A daily summary of 10 Information Security news items that aren't necessarily getting a lot of attention.
+- [tl;dr sec](https://tldrsec.com/). A weekly distillation of the best security tools, blog posts, and conference talks, covering AppSec, cloud and container security, DevSecOps, and more.
 
 ## Miscellaneous
 
@@ -400,6 +410,8 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/). Cutting edge news regarding entrepreneurship, growth, investing and startups sourced from the best Reddit posts.
 - [Tech Productivity](https://techproductivity.co/). Tech Productivity is a short weekly newsletter for tech professionals (programmers, developers, designers, etc). Each issue includes a brief list of productivity-related tools, articles, and other resources that can help workers in various tech-related fields be more productive.
 - [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/carrers and anything related to developers and the industry.
+- [Solo Founder](http://solofounder.dev/). A weekly newsletter focused on startups founded by solo founders. We feature interviews with different founders each week along with curating a handful of links of tools and resources to help founders grow their businesses.
+- [Trending Projects](https://www.trendingprojects.com/) A weekly email showcasing trending projects on GitHub.
 
 ## License
 

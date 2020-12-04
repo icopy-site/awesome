@@ -10,6 +10,11 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 
 ---
 
+### Support
+<a href="https://www.buymeacoffee.com/maksimabramchuk"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  target="_blank"></a>
+
+---
+
 <div align="center">
 	<p>
 		<a href="https://triplebyte.com/a/TfjWb6Y/d">
@@ -78,7 +83,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 * [A list of helpful Angular related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/Yonet/Angular-Interview-Questions)
 * [Angular 2 Interview Questions](https://www.onlineinterviewquestions.com/angular2-interview-questions/)
 * [List of 300 Angular Interview Questions and Answers](https://github.com/sudheerj/angular-interview-questions)
-
+* [Angular Interview Questions (2020)](https://www.interviewbit.com/angular-interview-questions/)
 
 ### BackboneJS
 
@@ -96,7 +101,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 * [C++ Programming Q&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
 * [C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc](http://www.indiabix.com/cpp-programming/questions-and-answers/)
 * [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode)
-* [25 Fundamental C++ Interview Questions](https://pangara.com/blog/cplusplus-interview-questions)
+* [25 Fundamental C++ Interview Questions](https://pangara.com/blog/blogcplusplus-interview-questions/)
 
 ### C
 
@@ -258,6 +263,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 * [Front end interview handbook](https://github.com/yangshun/front-end-interview-handbook)
 * [JavaScript Interview Questions - Quick Refresher](https://www.techbeamers.com/javascript-interview-questions-answers/)
 * [The MEGA Interview Guide](https://github.com/danieldelcore/mega-interview-guide)
+* [Javascript Interview Questions and Answers (2020)](https://www.interviewbit.com/javascript-interview-questions/)
 
 ### jQuery
 

@@ -6,11 +6,8 @@
 
 
 
-## Why We need Performance Budget
-
-- [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201) - Performance Budget by Addyosmani.
-
 ## Articles
+- [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201) - Performance Budget by Addyosmani.
 - [Performance Budget](https://addyosmani.com/blog/performance-budgets/) - Performance Budget by Addyosmani.
 - [Your first performance budget](https://web.dev/your-first-performance-budget/) - Explained how to define your first performance budget in a few simple steps.
 - [Designing for Performance](http://designingforperformance.com/index.html#table-of-contents) - How performance is important for designers.
@@ -21,6 +18,7 @@
 - [Performance Budget using Angular CLI](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a) - Implementing Performance Budget in Angular projects.
 - [Incorporate performance budgets into your build process](https://web.dev/incorporate-performance-budgets-into-your-build-tools) - Set up performance budget into your build process.
 - [How to make Performance Budget](http://v3.danielmall.com/articles/how-to-make-a-performance-budget/) - Instructions for developing the performance budget.
+- [Impact of Page Weight on Load Time](https://paulcalvano.com/2018-07-02-impact-of-page-weight-on-load-time/) - 
 
 ## Tools to measure Performance Budget
 
@@ -29,6 +27,7 @@
 - [Speed Curve](https://speedcurve.com) - Measuring web performance, get today's performance metrics.
 - [Yellow Lab Tools](https://yellowlab.tools/) - Online test to help speeding up heavy web pages.
 - [Sitespeed.io](https://www.sitespeed.io/) - Easy to monitor and measure the performance of your web site.
+- [Perf Track](https://perf-track.web.app/) - Tracking framework performance at scale.
 
 ## Build Tools to set up performance budget
 
@@ -53,14 +52,28 @@
 - [Parcel plugin Visualizer](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
 - [CSS Analyzer](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer.
 
+## Website Analyzers
+- [Lighthouse Metrics](https://lighthouse-metrics.com/) - Lighthouse Metrics provides easy insights for your site's performance. Save your time by running tests from multiple locations to get the valuable insight you need.
+- [UITest.com Site Check](https://uitest.com/check/) - Test your website in more than 80 tools (web-based and free).
+
+## Podcasts
+- [Chasing Waterfalls](https://chasingwaterfalls.io/) - Conversation with people to make web faster by [Tim kadlec](https://timkadlec.com/)
+- [Shoptalk Show](https://shoptalkshow.com/) - A podcast about building websites.
+
 ## Videos
 
 - [Concept of Performance Budget](https://www.youtube.com/watch?list=PLYo5nh8xQFpkwsu9QNlCpPGkmCCuTTWDJ&v=yqejmZrtmNg) - Performance Budget with Tim Kadlec.
 - [Implementing Performance Budgets](https://youtu.be/vVlpCmK1l5k) - How to implement performance budgets to avoid regression - Google Chrome Developers.
 - [Design Decisions Through The Lens Of A Performance Budget](https://vimeo.com/108328247) - How we can make smarter design decisions, from the beginning of a project, to ensure that our sites perform well.
 
+## Books
+
+- [Web Performance Warrior](https://www.oreilly.com/library/view/web-performance-warrior/9781492048114/)
+- [Designing for Performance](http://designingforperformance.com/)
+
 ## Case Studies
 
+- [Web Performance Optimization case studies](https://wpostats.com/) - Case studies and experiments demonstrating the impact of web performance optimization (WPO) on user experience and business metrics.
 - [BBC - Cutting the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard) - Optimizations while building responsive websites.
 - [Casper.com Self-hosting Optimization](https://medium.com/caspertechteam/we-shaved-1-7-seconds-off-casper-com-by-self-hosting-optimizely-2704bcbff8ec) - How we shaved 1.7 seconds off casper.com by self-hosting Optimizely.
 - [Netflix Performance Improvement by shipping less JS](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) - A Netflix Web Performance Case Study.

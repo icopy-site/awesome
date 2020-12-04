@@ -57,12 +57,16 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - **[Nugget.one](https://nugget.one/)** [$]
 
   Nugget.one focuses on helping software developers launch successful side projects. Being part of the community gives access to case studios, bi-weekly webinars and live mentoring. Run by [Justin Vincent](https://twitter.com/justinvincent). $19.99 per month.
+  
+- **[Makerlog](https://getmakerlog.com)**
+
+  Makerlog is a free community of makers shipping products together. There's discussions + a task management tracker that allows you to get a streak (to keep you motivated shipping).
 
 ##### Other
 - **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
 - **[Bootstrapped Slack](https://bootstrapped.slack.com)** ([invite here](http://www.bootstrappedchat.com/) invite link currently dead, working on it!) - Slack that probably originated from the bootstrapped.fm forum. Not really moderated.
 - **[r/SideProject](https://www.reddit.com/r/SideProject/)** - Quite active
-- **[Sideprojectxyz](https://sideprojectxyz.slack.com)** ([invite here](http://sideproject.xyz/)) - Slack community for people working on their sideprojects.
+- **[Sideprojectxyz](https://sideprojectxyz.slack.com)** ([invite here](http://sideproject.xyz/)) - Slack community for people working on their side-projects.
 - **[r/IndieBiz](https://www.reddit.com/r/indiebiz/)** - A subreddit for small and independent businesses.
 - **[/r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)**
 - **[Work In Progress](https://wip.chat)** [$] - A public todo list for accountability, and a [Telegram chat](https://t.me/wipchat) of 800+ makers. Freemium.
@@ -136,7 +140,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
   
 - **[Mixergy](https://itunes.apple.com/us/podcast/mixergy-startup-stories-1000-entrepreneurs-businesses/id348690336?mt=2)**
 
-  Startup Interview podcast hosted by [Andrew Warner](https://twitter.com/andrewwarner), who made $1 million a month from an online greeting cards business.
+  Startup Interview podcast hosted by [Andrew Warner](https://twitter.com/andrewwarner), who made $1 million a month from an online greeting card business.
   
 - **[How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)**
 
@@ -158,11 +162,11 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
   
 - **[Bootstrapping Side Projects To Profit by Pieter Levels](https://www.youtube.com/watch?v=m3nb_Qj3mRA)** by [Pieter Levels](https://twitter.com/levelsio)
 
-  Probably one of the most known indie hackers of the last couple of years talks about how to turn our sideprojects into profitable businesses. Very straight to the point, Pieter always provides a lot of insightful thoughts. By the way, don't get fooled by his lifestyle, his success is 500% work. 
+  Probably one of the most known indie hackers of the last couple of years talks about how to turn our side-projects into profitable businesses. Very straight to the point, Pieter always provides a lot of insightful thoughts. By the way, don't get fooled by his lifestyle, his success is 500% work. 
   
 - **[Marketing for Minorities](http://businessofsoftware.org/2011/03/hello-ladies-patrick-mckenzie-at-business-of-software-2010-marketing-to-minorities/)** by [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
 
-  Lightning 7 minute talk by one of the most respected indie developers. The point Patrick is trying to make, is that solo developers can target way smaller and niche markets which might have low competition and be very profitable from a solo business point of view.
+  Lightning 7-minute talk by one of the most respected indie developers. The point Patrick is trying to make, is that solo developers can target way smaller and niche markets which might have low competition and be very profitable from a solo business point of view.
   
 - **[Talking about CoderPad and business at Dropbox](https://www.youtube.com/watch?v=J8UwcyYT3z0)** by [Vincent Woo](https://twitter.com/fulligin?lang=ca)
 
@@ -301,7 +305,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 - **[MicroConf](http://www.microconf.com/)** [$]
 
-  "The worlds biggest conference for the worlds smallest self-funded software companies". It has two editions, one more focused to starters, and another one focused on growth. Both last two days. Las Vegas. Run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder).
+  "The world's biggest conference for the world's smallest self-funded software companies". It has two editions, one more focused to starters, and another one focused on growth. Both last two days. Las Vegas. Run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder).
   
 - **[MicroConf Europe](http://www.microconfeurope.com/)** [$]
 
@@ -347,10 +351,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[The $100 Startup](http://100startup.com/)** [$] by [Chris Guillebeau](https://chrisguillebeau.com/).
 - **[Technical Blogging (2nd Edition)](https://pragprog.com/book/actb2/technical-blogging-second-edition)** [$] by [Antonio Cangiano](https://antoniocangiano.com/).
 - **[The Mom Test](http://momtestbook.com/)** [$] by [Rob Fitzpatrick](https://robfitz.com/).
+- **[Zero to Sold](http://zerotosoldbook.com/)** [$] by [Arvid Kahl](https://thebootstrappedfounder.com/about-me/). How Arvid and his partner Danielle started, ran, and sold the bootstrapped EdTech SaaS FeedbackPanda, with everything that worked, should have worked, and didn't work.
 
 ##### Other
 
-- **[Groundera.com](https://groundera.com/)** - A collection of indie books, most of them free, for entrepreneurs. By [Philipp](https://groundera.com/about).
 - **[SideProject Books](https://books.makesideproject.com/)** - Side Project Books is a curated collection of books for anyone interested in building a business on the side. By [Mubashar Iqbal](https://twitter.com/mubashariqbal)
 - **[The SaaS Bootstrapper book list](http://thesaasbootstrapper.com/book-list/)** - Collection curated by [Mac Martine](http://macmartine.com/). 
 - **[Badass: Making Users Awesome](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra-ebook/dp/B00VAUIM18/ref=sr_1_1?s=books&ie=UTF8&qid=1493985078&sr=1-1&keywords=badass+kathy+sierra)** [$] by [Kathy Sierra](http://seriouspony.com/).
@@ -359,10 +363,6 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[SideProject Book](http://www.sideprojectbook.com/)** - [$49].
 
 ### Tools
-
-- **[The SaaS Bootstrapper Startup Resources](http://thesaasbootstrapper.com/saas-startup-resources/)**
-
-  A collection of resources for bootstrappers put together by [Mac Martine](http://macmartine.com/). 
 
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 

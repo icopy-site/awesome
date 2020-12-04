@@ -44,6 +44,7 @@ _Please read the [contribution guidelines](https://github.com/BubuAnabelas/aweso
 - [Hexo](https://hexo.io/) - A fast, simple & powerful blog framework
 - [Hugo](https://gohugo.io/) - Fast & Modern Static Website Engine.
 - [Jekyll](https://jekyllrb.com/) - Transform your plain text into static websites and blogs.
+- [Pelican](https://blog.getpelican.com/) - Static site generator that requires no database or server-side logic.
 - [Svbtle](https://svbtle.com/) - Blogging platform designed to help you think.
 - [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator.
 
@@ -53,6 +54,7 @@ _Please read the [contribution guidelines](https://github.com/BubuAnabelas/aweso
 
 ### C
 
+- [cmark](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C.
 - [Hoedown](https://github.com/hoedown/hoedown) - Standards compliant, fast, secure Markdown processing library in C (Sundown fork).
 - [peg-markdown](https://github.com/jgm/peg-markdown) - An implementation of Markdown in C, using a PEG grammar.
 - [Sundown](https://github.com/vmg/sundown) - Standards compliant, fast, secure Markdown processing library in C.
@@ -83,8 +85,10 @@ _Please read the [contribution guidelines](https://github.com/BubuAnabelas/aweso
 
 ### Python
 
+- [markdown-it-py](https://github.com/executablebooks/markdown-it-py) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python!
 - [markdown2](https://github.com/trentm/python-markdown2) - Fast and complete implementation of Markdown in Python.
 - [Mistune](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature.
+- [PyMdown Extensions](https://facelessuser.github.io/pymdown-extensions/) - A collection of extensions for Python Markdown.
 - [Python-Markdown](https://github.com/Python-Markdown/markdown) - Python implementation of John Gruber's Markdown.
 
 ### Ruby
@@ -144,7 +148,6 @@ _Please read the [contribution guidelines](https://github.com/BubuAnabelas/aweso
 
 > Tools which let you edit, convert, export, _et al._ your Markdown documents.
 
-- [Classeur](http://classeur.io/) - Classeur is a new platform to write simple notes as well as technical documents and blogs. ![Globe][globe]
 - [Dillinger](https://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. ![Globe][globe]
 - [GitDown](https://github.com/gajus/gitdown) – GitHub's Markdown preprocessor. :octocat:
 - [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. ![Globe][globe]
@@ -153,6 +156,7 @@ _Please read the [contribution guidelines](https://github.com/BubuAnabelas/aweso
 - [markcat](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: _`cat` with Markdown highlight._ ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Markdown Magic](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files and sync external docs/src code
 - [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe][globe]
+- [mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [remark](https://remark.js.org/) - Markdown processor powered by plugins
 - [Socrates](https://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe][globe]
 
@@ -166,6 +170,7 @@ _Please read the [contribution guidelines](https://github.com/BubuAnabelas/aweso
 - [Marp](https://marp.app/) - Markdown presentation ecosystem. :gem: _CLI, Web, IDE plugin and more to convert Markdown into various formats_ ![Mac OS][macosx] ![Linux][linux] ![Windows][windows]
 - [mdp](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: _Like PowerPoint and Vim but with Markdown!_ ![Mac OS X][macosx] ![Linux][linux]
 - [remark](https://remarkjs.com) - A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS. ![Globe][globe]
+- [reveal.js](https://revealjs.com) - Open source HTML presentation framework with Markdown support ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 
 ## Services
 

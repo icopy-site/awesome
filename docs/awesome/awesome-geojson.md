@@ -36,7 +36,6 @@ GeoJSON utilities that will make your life easier.
 * [geojson.io](http://geojson.io/): web-based editor, supports many filetype imports & exports, operations, sharing via GitHub
 * [umap](http://umap.openstreetmap.fr/en/): web-based editor, supports sharing on-site
 * [geojson.tools](http://geojson.tools/): web-based editor from HERE XYZ
-* [simple geojson editor](https://google-developers.appspot.com/maps/documentation/utils/geojson/): geojson editor on a google map, by google
 * [mapstarter](http://mapstarter.com/): helps generate svg, images, and code from GeoJSON
 * [gjv](https://github.com/anandthakker/gjv): electron app enables viewing GeoJSON locally and hack on it with turf; works offline
 * [GeoJSON editor](https://tomscholz.github.io/geojson-editor/): a modified version of Google's simple geojson editor
@@ -125,7 +124,6 @@ GeoJSON utilities that will make your life easier.
 ### resources
 
 * [RFC 7946 – The GeoJSON Format](https://tools.ietf.org/html/rfc7946): the current GeoJSON standard by IETF
-* [geojson.win](http://geojson.win): More readable version of the spec.
 * [GeoJSON.org](http://geojson.org/): the first specification, defining all the rules for GeoJSON structures
 * [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html): a review of the concepts behind the specification in a more narrative format.
 

@@ -1,11 +1,11 @@
 <div class="github-widget" data-repo="jorgebucaran/awesome-hyperapp"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## <img height=24 src=https://cdn.rawgit.com/JorgeBucaran/f53d2c00bafcf36e84ffd862f0dc2950/raw/882f20c970ff7d61aa04d44b92fc3530fa758bc0/Hyperapp.svg?sanitize=true> Awesome Hyperapp
+## Hyperawesome
 
 > I'm preparing a new Awesome List as I get ready to release V2. Please stand by! :wave:
 
 
-A curated list of [Hyperapp](https://hyperapp.dev) resources.
+A curated list of awesome [Hyperapp](https://hyperapp.dev) resources.
 
 To contribute, fork this repository, add your amazing entry and send us a PR. See [CONTRIBUTING](https://github.com/jorgebucaran/awesome-hyperapp/blob/master//CONTRIBUTING.md) for more information.
 
@@ -67,11 +67,10 @@ These resources below only apply to V1 of Hyperapp
 * [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp boilerplate counter app using parcel with Airbnb ESlint and JSX.
 * [lukejacksonn/hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - Minimal, progressive web app compliant template for Hyperapp projects.
 * [marcusasplund/hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - Hyperapp with RxJS & service worker.
-* [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app buit with Hyperapp.
+* [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app built with Hyperapp.
 * [jdh2550/hyperapp-responsive-admin](https://github.com/jdh2550/hyperapp-responsive-admin) - Responsive app with simple login and GraphQL.
 * [joseluisq/hyperapp-starter](https://github.com/joseluisq/hyperapp-starter) - Minimal Hyperapp, TypeScript and Parcel starter.
 * [elisherer/hyperapp-less-boilerplate](https://github.com/elisherer/hyperapp-less-boilerplate) - Minimal webpack Hyperapp setup with LESS and hyperapp-forms.
-* [loteoo/hyperapp-starter](https://github.com/loteoo/hyperapp-starter) Clean PWA starter with strong focus on developer experience - Parcel, CSS modules, solid config
 
 ## Examples V1
 
@@ -124,3 +123,4 @@ These resources below only apply to V2 of Hyperapp.
 ## Boilerplates V2
 
 * [bonniss/hyparcel](https://github.com/bonniss/hyparcel) - Hyperapp v2 + TailwindCSS + Parcel boilerplate, with PurgeCSS intergrated in production.
+* [loteoo/hyperapp-starter](https://github.com/loteoo/hyperapp-starter) Clean PWA starter with strong focus on developer experience - Parcel, CSS modules, solid config

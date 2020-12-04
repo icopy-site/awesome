@@ -46,6 +46,7 @@ A list of awesome free open source software & libraries for photography. Also to
 
 - [Timelapse-sony](https://github.com/ThibaudM/timelapse-sony) - *Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.*
 - [Remoteyourcam-usb](https://github.com/crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.*
+- [digiCamControl](https://github.com/dukus/digiCamControl) - *DSLR camera remote control open source software.*
 
 
 ## RAW image developers
@@ -78,6 +79,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) - *A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.*
 - [Leaf Pic](https://github.com/HoraApps/LeafPic/) - *material-designed android gallery alternative.*
 - [A Photo Manager](https://github.com/k3b/APhotoManager/) - *Manage local photos on Android: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send,...*
+- [PhotoPrism](https://photoprism.org/) - *PhotoPrism™ is a server-based application for browsing, organizing and sharing your personal photo collection.A*
 ## EXIF Editors
 
 - [ExifTool](http://owl.phy.queensu.ca/~phil/exiftool/) - *A program for reading, writing, and manipulating image, audio, and video metadata.*

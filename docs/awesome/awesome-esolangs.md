@@ -21,13 +21,14 @@ Curated list of awesome esoteric programming languages, resources and related pr
 * [AlmostBinary](https://github.com/wsdt/AlmostBinary) - Code in binary and run on any platform.
 * [ArnoldC](http://lhartikk.github.io/ArnoldC) - Based on the best one-liners of Arnold Schwarzenegger.
 * [Befunge](https://esolangs.org/wiki/Befunge) - Two-dimensional language.
+* [Brackets](https://github.com/kvbc/brackets) - Language made of brackets, a lot of brackets.
 * [Brainfuck](https://esolangs.org/wiki/Brainfuck) - Minimalist language using only 8 single-character commands.
 * [Charcoal](https://github.com/somebody1234/Charcoal) - Concise language for sketching ASCII art.
 * [Chef](http://www.dangermouse.net/esoteric/chef.html) - Programs that look like cooking recipes.
 * [Chicken](https://esolangs.org/wiki/Chicken) - Only 1 valid symbol: 'chicken'.
 * [ChuckScript](https://github.com/angrykoala/chuckscript) - Unary-based language, where the code is a single number.
 * [DNA#](https://esolangs.org/wiki/DNA-Sharp) - Language based on the structure of the DNA.
-* [Dots](https://github.com/josconno/dots) - A turing-complete language with only one symbol: ".".
+* [Dots](https://github.com/josconno/dots) - A turing-complete language using "." symbol only.
 * [Emojicode](http://www.emojicode.org) - Full-blown programming language consisting of emojis.
 * [Enterprise™](https://github.com/joaomilho/Enterprise) - Non deterministic unnecessarily statically typed language.
 * [False](http://strlen.com/false-language) - Heavily offuscated language with a minimal implementation.
@@ -37,13 +38,14 @@ Curated list of awesome esoteric programming languages, resources and related pr
 * [Golfscript](http://www.golfscript.com/golfscript) - Stack oriented, aimed at solving problems in as few keystrokes as possible.
 * [Haifu](http://www.dangermouse.net/esoteric/haifu.html) - Designed with the core values of Easter philosophy in mind.
 * [INTERCAL](http://www.catb.org/~esr/intercal) - Parody language intended to be completely different from other languages.
-* [Japt](https://github.com/ETHproductions/japt) - Reduced JavaScript for [golfing](https://en.wikipedia.org/wiki/Code_golf).
-* [Jelly](https://github.com/DennisMitchell/jellylanguage) - [Golfing](https://en.wikipedia.org/wiki/Code_golf) language based on J.
+* [Japt](https://github.com/ETHproductions/japt) - Reduced JavaScript for golfing.
+* [Jelly](https://github.com/DennisMitchell/jellylanguage) - Golfing language based on J.
 * [JSFuck](https://github.com/aemkei/jsfuck) - Esoteric programming style based on the atomic parts of JavaScript.
 * [Lazy K](https://tromp.github.io/cl/lazy-k.html) - Minimal, turing-complete pure functional language without extra features.
 * [LolCode](http://lolcode.org) - Language with keywords based on the lolcat meme expressions.
 * [Malbolge](http://www.lscheffer.com/malbolge.shtml) - Named after the 8th level of hell, is designed to be as difficult as possible to program.
 * [Monicelli](https://github.com/esseks/monicelli) - Programming using Italian-like gibberish.
+* [Ni](https://github.com/DeybisMelendez/ni) - Brainfuck-based with more helpful instructions.
 * [Omgrofl](https://esolangs.org/wiki/Omgrofl) - Syntax resembling Internet slang.
 * [Ook!](http://www.dangermouse.net/esoteric/ook.html) - Brainfuck-based language, where the commands are orangutan words.
 * [Orca](https://hundredrabbits.itch.io/orca) - Livecoding environment to quickly create procedural audio sequencers.
@@ -53,7 +55,9 @@ Curated list of awesome esoteric programming languages, resources and related pr
 * [Shakespeare](http://shakespearelang.sourceforge.net) - Language where the code appear to be Shakespearean plays.
 * [Spooky](https://spookylang.com) - The scariest programming language  :jack_o_lantern: :skull:.
 * [Suzy](https://github.com/gvx/suzy) - 3D language inspired in Befunge.
+* [Technologic](https://esolangs.org/wiki/Technologic) - Language in which programs look like the lyrics to the Daft Punk song Technologic.
 * [Thue](https://github.com/jcolag/Thue) - *Matrioshka* language based on nondeterministic string rewriting of a semi-Thue grammar.
+* [Tru](https://github.com/sungwoncho/tru) - A stack-based language with prefix-free brackets.
 * [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again.
 * [Turtle](https://github.com/TypeMonkey/Turtle) - Uses long-term storage for memory use.
 * [Unary](https://esolangs.org/wiki/Unary) - Brainfuck-based language where all the commands are 0.

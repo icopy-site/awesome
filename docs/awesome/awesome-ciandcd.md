@@ -54,6 +54,7 @@ and developer-friendly build server out of the box
 
 ## Online Build System
 Online build release system  
+* [appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online device emulators.
 * [closeheat](http://closeheat.com) Static website integration with GitHub and Cloud development environment
 * [travis-ci](https://travis-ci.org) ci server for github and bitbuckets  
 * [cloudbees](https://www.cloudbees.com/) the Enterprise Jenkins Company  
@@ -215,6 +216,8 @@ Provision tools
 
 ## secure tools
 Secure tools
+* [Deepfence Enterprise](https://deepfence.io) - Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless.
+* [Deepfence Threat Mapper](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 * [whitesource](https://www.whitesourcesoftware.com/) The simplest way to secure and manage open source components in your software.  
 
 ## Web Server

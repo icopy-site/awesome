@@ -24,6 +24,7 @@ Feel free to send a PR :)
 
 ## IDE 
 
+ * [Visual Studio Code](https://github.com/Microsoft/vscode) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
  * [Coding WebIDE](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project
  * [CodeBox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
 
@@ -48,7 +49,9 @@ Feel free to send a PR :)
  * [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server
  * [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects
  * [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration 
-
+ 
+## Feature management
+ * [Unleash](https://github.com/Unleash/unleash) - Free open-source feature flag & toggle service. SDKs for all major languages.
 
 ## Security and PKI
 
@@ -60,7 +63,7 @@ Feel free to send a PR :)
 
 * [Bugzilla](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
 * [Mantis](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
-
+* [Trac](https://github.com/edgewall/trac) - IT project management solution that enables software developers to track and address bugs, tasks, files, wiki pages, and more.
 
 ## Project management
 * [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails

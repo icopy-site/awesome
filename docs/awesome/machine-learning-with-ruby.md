@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="arbox/machine-learning-with-ruby"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-<img src="https://raw.githubusercontent.com/arbox/machine-learning-with-ruby/master/header.png" align="center">
+<img title="Awesome Machine Learning with Ruby" alt="Awesome Machine Learning with Ruby" src="https://raw.githubusercontent.com/arbox/machine-learning-with-ruby/master/header.png" align="center">
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
 
@@ -45,7 +45,7 @@ the word using the `#RubyML` hash tag!
 ## :sparkles: Tutorials
 
 Please help us to fill out this section! :smiley:
-
+- [Ruby neural networks](https://www.honeybadger.io/blog/ruby-neural-networks/)
 - [How to implement linear regression in Ruby](https://www.practicalai.io/implementing-linear-regression-using-ruby/)
   <sup>[[code](https://github.com/daugaard/example-linear-regression)]</sup>
 - [How to implement classification using logistic regression in Ruby](https://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/)
@@ -128,12 +128,12 @@ programming languages with appropriate bindings for Ruby.
 
 - [tensor_stream](https://github.com/jedld/tensor_stream) -
   Ground-up and standalone reimplementation of TensorFlow for Ruby.
-- [red-chainer](https://github.com/red-data-tools/red-chainer) -
-  Deep learning framework for Ruby.
+- [red-chainer](https://github.com/red-data-tools/red-chainer) - Deep learning framework for Ruby.
 - [tensorflow](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
 - [ruby-dnn](https://github.com/unagiootoro/ruby-dnn) - Simple deep learning for Ruby.
 - [torch-rb](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch](https://github.com/pytorch/pytorch)
   using [rice](https://github.com/jasonroelofs/rice).
+- [mxnet](https://github.com/mrkn/mxnet.rb) - Ruby bindings for [mxnet](https://mxnet.apache.org/).
 
 ### Kernel methods
 
@@ -178,6 +178,8 @@ programming languages with appropriate bindings for Ruby.
   Attempting to build a fast, memory efficient K-Means program.
 - [knn](https://github.com/reddavis/knn) -
   Simple K Nearest Neighbour Algorithm.
+- [annoy-rb](https://github.com/yoshoku/annoy.rb) -
+  bindings for the [Annoy](https://github.com/spotify/annoy) (Approximate Nearest Neighbors Oh Yeah).
 
 ### Linear classifiers
 
@@ -390,7 +392,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   General List of NLP related resources (mostly not for Ruby programmers).
 - [Scientific Ruby](http://sciruby.com/) -
   Linear Algebra, Visualization and Scientific Computing for Ruby.
-- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython).
+- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formerly IPython).
 - [Kiba](https://github.com/thbar/kiba) -
   Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
 - [Awesome OCR](https://github.com/kba/awesome-ocr) -

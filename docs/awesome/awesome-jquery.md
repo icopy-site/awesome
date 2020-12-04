@@ -37,6 +37,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Learn jQuery](http://learn.jquery.com/) - jQuery learning center.
 * [Snoopcode](http://www.snoopcode.com/jquery/) - jQuery tutorials.
 * [Extending jQuery](https://j11y.io/javascript/extending-jquerys-selector-capabilities/) - Extending jQuery’s selector capabilities.
+* [Free jQuery Courses at Classpert](https://classpert.com/search?filter[free_course][]=true&filter[price][]=0&filter[price][]=0&p=1&tag=jquery) - List of Free jQuery Courses at Classpert Online Course Search
 
 
 ### Books
@@ -101,6 +102,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Scrollify](https://github.com/lukehaas/Scrollify/) - Assists scrolling and snaps to sections. Touch optimised.
 * [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
 * [jQuery DrawSVG](https://github.com/lcdsantos/jquery-drawsvg) - Lightweight, simple to use jQuery plugin to animate SVG paths
+* [jQuery Particles](https://github.com/matteobruni/tsparticles/tree/master/components/jquery) - A plugin to easily add Particles animations to your web application
 
 
 ### Editors

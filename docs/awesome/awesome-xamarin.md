@@ -91,7 +91,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 ## IOC/DI
 
 - [Autofac ★2,169](https://github.com/autofac/Autofac) - An addictive .NET IoC container.
-- [DryIoc](https://bitbucket.org/dadhi/dryioc) - Fast, small, full-featured IoC Container for .NET.
+- [DryIoc](https://github.com/dadhi/DryIoc) - Fast, small, full-featured IoC Container for .NET.
 - [Funq ★2](https://github.com/thiagoromam/FunqPortable) - High performance DI framework by eliminating all runtime reflection through the use of lambdas and generic functions as factories.
 - [LightInject ★320](https://github.com/seesharper/LightInject) - Light, simple and stunningly fast IoC container for .NET.
 - [Ninject ★2,034](https://github.com/ninject/Ninject) - The ninja of .net dependency injectors.
@@ -229,7 +229,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [SimpleColorPicker](https://github.com/galadril/Xam.Plugin.SimpleColorPicker) - Just a nice and simple ColorPicker for your Xamarin Forms project
 - [SimpleAppIntro](https://github.com/galadril/Xam.Plugin.SimpleAppIntro) - Just a nice and simple AppIntro for your Xamarin Forms project
 - [SimpleStaticMap](https://github.com/galadril/Xam.Plugin.SimpleStaticMap) - Just a simple static map control based on the Static API of Google Maps for your Xamarin Forms project
-
+- [TEdito2](https://github.com/bulubuloa/TEditor2) - TEditor2 is a HTML editor for Xamarin, it has so many build-in features and easy to use.
 
 
 ## Wearable
@@ -309,9 +309,9 @@ Most of them support Android and iOS, some do Windows Phone 8
 - [Planet Xamarin](https://www.planetxamarin.com) - An aggregator of content from Xamarin Community members. Why subscribe individually when you can subscribe to one convenient RSS feed? If RSS isn't your thing, follow the [Twitter](https://twitter.com/PlanetXamarin) or [Facebook](https://www.facebook.com/planetxamarin/) accounts which are automatically updated with the latest content from the community.
 - [Programming Community Curated Resources For Learning Xamarin](https://hackr.io/tutorials/learn-xamarin) - A curated list of resources for learning Xamarin.
 - [Weekly Xamarin](http://weeklyxamarin.com) - Hand-picked round up of the best Xamarin development links every week. Curated by Geoffrey Huntley and published every Friday. Free.
-- [Xamarin Online Courses](https://classpert.com/xamarin) - A list of over 60 Online Courses (free and paid) from Classpert Online Course Search.
+- [Xamarin Online Courses](https://classpert.com/it-computer-science/mobile-development/xamarin) - A list of over 60 Online Courses (free and paid) from Classpert Online Course Search.
 
 
 ## License
 
-see [https://github.com/XamSome/awesome-xamarin/blob/master/LICENCE.md](https://github.com/XamSome/awesome-xamarin/blob/master/LICENCE.md)
+see [https://github.com/XamSome/awesome-xamarin/blob/master/LICENSE](https://github.com/XamSome/awesome-xamarin/blob/master/LICENSE)

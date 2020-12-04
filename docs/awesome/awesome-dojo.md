@@ -98,7 +98,7 @@ Inspired by the `awesome-*` trend on GitHub.
     * [Dojo.NET](https://github.com/lstratman/Dojo.NET) - .NET class library that provides WebControl bindings to ASP.NET websites (both WebForms and MVC, including Razor) using the Dojo toolkit.
     * [Reactive Extensions](https://github.com/Reactive-Extensions/RxJS-Dojo) - Reactive Extensions bindings for the Dojo Toolkit
 * Java
-    * [Dojofaces](http://www.dojofaces.org) - project that assists JSF developers in connecting Dojo widgets with JSF backign beans
+    * [Dojofaces](http://www.dojofaces.org) - project that assists JSF developers in connecting Dojo widgets with JSF backing beans
     * [DWR](http://directwebremoting.org/dwr/index.html) - library that enables Java on the server and JavaScript in a browser
     * [Grails](https://grails.org/) - open source full stack web application framework that has support for Dojo with [plugin](http://grails.org/plugin/dojo)
     * [LightStreamer](http://www.lightstreamer.com/) - Server with Dojo integrated

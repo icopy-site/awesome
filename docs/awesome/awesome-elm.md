@@ -27,6 +27,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Exercism Elm Track](http://exercism.io/languages/elm) - Collection of Elm exercises.
 * [Learn you an Elm](http://learnyouanelm.github.io/) - Elm tutorial with exhaustive examples and descriptions.
 * [Beginning Elm](http://elmprogramming.com/) - A gentle introduction to the Elm programming language.
+* [Elm patterns](http://sporto.github.io/elm-patterns/index.html) - A collection of common patterns in Elm.
 * [Elm Koans](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm.
 * [Learn Elm](https://github.com/dwyl/learn-elm) - Discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
 * [Learn Elm in Y Minutes](https://learnxinyminutes.com/docs/elm/) - Syntax and features overview. The Elm page on [learnxinyminutes.com](https://learnxinyminutes.com)
@@ -358,19 +359,12 @@ Here are some notable ones:
 * [Elm Hacker News PWA](https://github.com/elmariofredo/elm-hn-pwa) - A progressive web app built with Elm version 0.18, using the official Hacker-News API
 * [Elm Narrative Engine](https://github.com/jschomay/elm-narrative-engine) - A framework for building interactive fiction style stories in Elm. Detailed example [elmnarrativeengine.com](http://elmnarrativeengine.com) shows how to build a "chose your own adventure" game; perfect for beginners. **Elm v.0.19**
 * [Ari's Garden](https://github.com/theiceshelf/arisgarden) - A recipe [site](https://arisgarden.theiceshelf.com/) built as an SPA that also makes use of the Elm parser.
+* [Bolster](https://github.com/tarbh-engineering/journal) - An end-to-end encrypted journal app.
 
 ### Games
 
-* [Circuit Breaker](https://martinsstewart.gitlab.io/hackman/) - A WebGL game in Elm - [Source](https://gitlab.com/MartinSStewart/hackman/)
-* [Elm Joust](https://github.com/stefankreitmayer/elm-joust) — a two-player fighting game written in Elm.
-* [First Person Elm](https://github.com/jeffcole/first-person-elm) - A demo of first person navigation in 3D using WebGL and ports for browser APIs
-* [Vessel](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
-* [Elm shooter](https://github.com/sporto/elm-shooter) - A side scrolling shotter
-* [Sliding Puzzle](https://github.com/moroshko/sliding-puzzle) - Configurable sliding puzzle game written in Elm.
-* [Elm Flatris](https://github.com/w0rm/elm-flatris) - A Flatris clone in Elm language v0.18.
-* [Elm Hangman](https://github.com/puemos/elm-hangman) - The game of Hangman written in Elm.
-* [Seeds](https://github.com/andrewMacmurray/seeds-game) is a "connect the dots" game written in **Elm v.0.19**. Play it online: [seedsgame.com](https://www.seedsgame.com)
-* [404 Elm Street](https://github.com/zalando/elm-street-404) - A fun WebGL game built with Elm.
+* [elm-games](https://github.com/rofrol/elm-games) - An excellent list of games made in Elm
+
 
 
 ---

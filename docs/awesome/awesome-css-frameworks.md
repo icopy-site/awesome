@@ -2,9 +2,15 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome CSS Frameworks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-List of awesome CSS frameworks.
-
+List of awesome CSS frameworks.  
 Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob/master/.github/CONTRIBUTING.md).
+
+**Supported by [FrontAid CMS](https://frontaid.io/?pk_campaign=cssfw)**:
+
+<a href="https://frontaid.io/?pk_campaign=cssfw"><img
+  src="https://raw.githubusercontent.com/troxler/awesome-css-frameworks/master/media/frontaid.png"
+  width="600"
+  alt="FrontAid CMS - Agile Content Management with Git."></a>
 
 
 
@@ -136,7 +142,6 @@ Frameworks that are smaller than ~5KB.
 
 - [**Foundation**](http://foundation.zurb.com) - The most advanced responsive front-end framework in the world.  
   ![](https://img.shields.io/github/stars/zurb/foundation-sites.svg?style=social&label=Star)
-  [Demo](http://zurb.com/responsive),
   [Docs](http://foundation.zurb.com/sites/docs/),
   [Repo](https://github.com/zurb/foundation-sites)
   | #SCSS
@@ -255,6 +260,11 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://github.com/nostalgic-css/NES.css#installation),
   [Repo](https://github.com/nostalgic-css/NES.css)
   | #SCSS
+  
+- [**98.css**](https://jdan.github.io/98.css/) - CSS library for building interfaces that look like Windows 98.  
+  ![](https://img.shields.io/github/stars/jdan/98.css.svg?style=social&label=Star)
+  [Repo](https://github.com/jdan/98.css)
+  | #CSS
 
 - [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.  
   ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social&label=Star)

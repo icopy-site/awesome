@@ -46,7 +46,6 @@ A list of communities about web development and design that are powered by **Sla
 
 ## Misc
 - [WordPress](https://make.wordpress.org/chat/)
-- [👋 Remote - Remote workers community](https://slack-helloremote.now.sh)
 - [Chit Chats](http://www.chitchats.co/)
 - [The Evangelist Collective](https://github.com/evangelistcollective/)
 - [Psychedelic Chat](http://psychedelicchat.com/)

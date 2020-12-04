@@ -41,6 +41,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-message-sequence](https://github.com/koudelka/d3-message-sequence) - A dynamic/static message sequence chart
 - [d3-timeline](https://github.com/commodityvectors/d3-timeline) - responsive timeline charts
 - [d3-timeseries](https://github.com/mcaule/d3-timeseries) - Time series charting library
+- [d3-upset](https://github.com/chuntul/d3-upset) - Functions for plotting an UpSet plot [upset, bar, intersections, venn, relationships]
 - [d3-x3d](https://github.com/jamesleesaunders/d3-x3d) - Data Driven 3D Charts with D3 and X3D [bubble, bar, surfacearea, scatterplot, area]
 - [d3fc](https://github.com/d3fc/d3fc) - A collection of interactive chart components [line, bar, stacked, scatter, candlestick, ohlc]
 - [d3plus](https://github.com/alexandersimoes/d3plus) - Extension library for easy creation of visualizations [scatter, stacked, line, bar, pie, network, bubble, box, map]
@@ -96,6 +97,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [react-d3-library](https://github.com/react-d3-library/react-d3-library) - Library to use D3 in React [area, bar, line, pie, scatter]
 - [react-stockcharts](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts [area, line, scatter, bubble, bar, stacked, candlestick]
 - [react-vis](https://github.com/uber/react-vis) - A collection of react components to render visualizations [area, bar, heatmap, line, scatter]
+- [reaviz](https://github.com/reaviz/reaviz) - Data visualization library for React based on D3
 - [recharts](https://github.com/recharts/recharts) - Re-designed charting library built with React
 - [semiotic](https://github.com/emeeks/semiotic) - A data visualization framework combining React & D3 [scatter, line, area]
 - [victory](https://github.com/FormidableLabs/victory) - Composable React components for building visualizations [area, bar, candlestick, pie, line, scatter, voronoi]
@@ -137,7 +139,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [crossfilter](https://github.com/crossfilter/crossfilter) - Library for exploring large multivariate datasets
 - [d3kit-timeline](https://github.com/kristw/d3kit-timeline) - Timeline component that labels do not overlap
 - [d3scription](https://github.com/GlobalWebIndex/d3scription) - Tooltip with window edge collision detection
-- [d3-annotation](https://github.com/susielu/d3-annotation) - Annotaion helper with built-in annotation types
+- [d3-annotation](https://github.com/susielu/d3-annotation) - Annotation helper with built-in annotation types
 - [d3-area-label](https://github.com/curran/d3-area-label) - A library for placing labels in areas
 - [d3-breadcrumbs](https://github.com/bumbeishvili/d3-breadcrumbs) - Simplifies breadcrumbs usage
 - [d3-component](https://github.com/curran/d3-component) - Lightweight component abstraction

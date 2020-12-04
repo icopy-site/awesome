@@ -73,6 +73,7 @@ G-code is a text-based standard for controlling CNC machines. Though it was desi
 - [jscut](http://jscut.org/) - A web-based utiltity for converting SVG to G-code.
 - [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender.
 - [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) - Modular web-based workspaces to visualize G-code and control hardware.
+- [gcode-generative-for-processing](https://github.com/o0morgan0o/gcode-generative-for-processing) - Processing library, aiming to create gcode from simple shapes. (Designed for usage with the Creality CR10)
 
 ### Plotter-Specific
 
@@ -160,6 +161,7 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) - Resources for traveling salesman problem (single path) art.
 - [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - Discussion and links to code for wireframe removal of STL files.
 - [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - Lots of nice tips, not all specific to the Axidraw, plus some pen reviews and handy 3d-printed tools.
+- [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - Good overview of the AxiDraw and its clones, plus some DIY options.
 
 ## Community
 
@@ -169,12 +171,11 @@ Where to find other plotter and drawbot friends.
 - [PlotterArt Subreddit](https://www.reddit.com/r/PlotterArt)
 - [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 - [Generative Art Subreddit](https://www.reddit.com/r/generative)
-- [Chiplotle-discuss](https://lists.columbia.edu/mailman/listinfo/chiplotle-discuss) - Fairly inactive mailing list for the Chiplotle HPGL Python library with some general plotter talk.
 - [Plotter People](https://plotterpeople.github.io/) - In-person meetups (SF and NYC so far) with talks and plotter art galleries.
 
 ## Plotter Art For Sale
 
-- [Paul Rickards](http://biosrhythm.com/?page_id=1569)
+- [Paul Rickards](https://shop.paulrickards.com)
 - [Michael Fogleman](https://www.michaelfogleman.com/plotter)
 - [inconvergent](http://buy.inconvergent.net)
 - [Customized Streetart](https://www.literalstreetart.com) - Customizable maps with optional pen plotter output.
@@ -190,6 +191,10 @@ Where to find other plotter and drawbot friends.
 - [Nadieh Bremer](https://shop.visualcinnamon.com/collections/pen-plotter-prints)
 - [Michelle Chandra](https://www.dirtalleydesign.com/)
 - [Jessica In](https://www.jessicain.net/shop-originals)
+- [Pedro Alcocer](https://store.pedroalcocer.com/)
+- [AndyMakes](https://shop.andymakes.com/)
+- [Marcel Schwittlick](https://schwittlick.bigcartel.com/)
+
 
 ## Other Awesomes
 

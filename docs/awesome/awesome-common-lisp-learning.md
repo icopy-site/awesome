@@ -86,7 +86,7 @@ These are books that you'll have to buy, or borrow from a library.
 - [Lisp Subreddit](http://www.reddit.com/r/lisp/) - An active community, and has loads of useful links and reference documents in the sidebar.
   - [Common Lisp Subreddit](https://www.reddit.com/r/Common_Lisp) - The Subreddit for Common Lisp.
 - [Exercism's Common Lisp track](http://exercism.io/languages/common-lisp/about) - An excellent way to learn the language through practice, have your code reviewed, and to discuss solutions with other people.
-- [Lisp Discord server](https://discord.gg/GEyD6) - Has a channel dedicated to Common Lisp and will happily answer questions.
+- [Lisp Discord server](https://discord.gg/7tSq5EaA6Z) - Is a Discord for Lisp. Has a channel dedicated to Common Lisp and will happily answer questions.
 
 
 ## Library Management

@@ -25,6 +25,7 @@ Your contributions are always welcome!
 ## Libraries
 List of libraries and components which can be used in your application
 
+- [JNPM](https://github.com/OrienteerBAP/JNPM) - Java library for JS Node Package Manager(NPM). Provides Wicket resource for transparent obtaining of NPM package and providing required file from it. 
 - [wicket-akka](https://github.com/l0rdn1kk0n/wicket-akka) - Integration of Akka for Wicket.
 - [wicket-autowire](https://github.com/wicket-acc/wicket-autowire) - Makes your life easier by automatic creation of component according to provided annotation.
 - [wicket-bootstrap](https://github.com/l0rdn1kk0n/wicket-bootstrap) - Integration of Bootstrap Toolkit for Wicket.
@@ -113,6 +114,7 @@ Web Framework on top of wicket which allow you to build your system easily and s
 - [Nocket](https://github.com/Nocket/nocket) - Naked Object based framework for wicket.
 - [NoWicket](http://invesdwin.de/nowicket/) - A naked objects framework for Wicket that enables developers to write less boilerplate Wicket code during implementation of complex websites.
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - Web framework on top of Wicket and [OrientDB](http://orientdb.com/) to build you own CRM, CMS, ERP, mobile app backend or just common site.
+- [Vuecket](https://github.com/OrienteerBAP/vuecket) - Web Framework which integrates VueJS and Wicket and most natural way for both of them
 - [Wicketopia](https://github.com/jwcarman/Wicketopia) - Rapid Application Development (RAD) library for the Wicket.
 
 ## Solutions

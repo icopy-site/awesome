@@ -3,15 +3,26 @@
 <div align="center">
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
 	<br>
+	<h4>
+		Check out my latest iPhone app <a href="https://apps.apple.com/app/id1532588789">Photo Widget</a> which lets you add photos to your home screen
+	</h4>
+	<br>
+	<br>
+	<br>
 	<p>
 		<p>
 			<sup>
 				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
 			</sup>
 		</p>
+		<sup>Special thanks to:</sup>
 		<br>
 		<br>
+		<a href="https://standardresume.co">
+			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
+		</a>
 	</p>
+	<br>
 	<br>
 	<br>
 </div>
@@ -136,7 +147,8 @@
 - [Lua](awesome/awesome-lua.md)
 - [C](awesome/awesome-c.md)
 - [C/C++](awesome/awesome-cpp.md) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
-- [R](awesome/awesome-R.md)
+- [R](awesome/awesome-R.md) - Functional programming language and environment for statistical computing and graphics.
+	- [Learning](awesome/awesome-r-learning-resources.md)
 - [D](awesome/awesome-d.md)
 - [Common Lisp](awesome/awesome-cl.md) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
 	- [Learning](awesome/awesome-common-lisp-learning.md)
@@ -152,7 +164,6 @@
 - [PHP](awesome/awesome-php.md) - Server-side scripting language.
 	- [Composer](awesome/awesome-composer.md) - Package manager.
 - [Pascal](awesome/awesome-pascal.md)
-- [Assembler](awesome/awesome-asm.md)
 - [AutoHotkey](awesome/awesome-AutoHotkey.md)
 - [AutoIt](awesome/awesome-AutoIt.md)
 - [Crystal](awesome/awesome-crystal.md)
@@ -246,6 +257,7 @@
 - [Web Animation](awesome/awesome-web-animation.md) - Animations in the browser with JavaScript, CSS, SVG, etc.
 - [Yew](awesome/awesome-yew.md) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
 - [Material-UI](awesome/awesome-material-ui.md) - Material Design React components for faster and easier web development.
+- [Building Blocks for Web Apps](awesome/awesome-building-blocks-for-web-apps.md) - Standalone features to be integrated into web apps.
 
 ## Back-End Development
 
@@ -259,6 +271,7 @@
 	- [Education](awesome/awesome-symfony-education.md)
 - [Laravel](awesome/awesome-laravel.md) - PHP framework.
 	- [Education](awesome/Awesome-Laravel-Education.md)
+	- [TALL Stack](awesome/awesome-tall-stack.md) - Full-stack development solution featuring libraries built by the Laravel community.
 - [Rails](awesome/awesome-rails.md) - Web app framework for Ruby.
 	- [Gems](awesome/awesome-rails-gem.md) - Packages.
 - [Phalcon](awesome/awesome-phalcon.md) - PHP framework.
@@ -273,6 +286,7 @@
 - [Terraform](awesome/awesome-terraform.md) - Tool for building, changing, and versioning infrastructure.
 - [Vapor](awesome/awesome-vapor.md) - Server-side development in Swift.
 - [Dash](awesome/awesome-dash.md) - Python web app framework.
+- [FastAPI](awesome/awesome-fastapi.md) - Python web app framework.
 
 ## Computer Science
 
@@ -284,6 +298,8 @@
 	- [ML with Ruby](awesome/machine-learning-with-ruby.md) - Learning, implementing, and applying Machine Learning using Ruby.
 	- [Core ML Models](awesome/Awesome-CoreML-Models.md) - Models for Apple's machine learning framework.
 	- [H2O](awesome/awesome-h2o.md) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
+	- [Software Engineering for Machine Learning](awesome/awesome-seml.md) - From experiment to production-level machine learning.
+	- [AI in Finance](awesome/awesome-ai-in-finance.md) - Solving problems in finance with machine learning.
 - [Speech and Natural Language Processing](awesome/speech-language-processing.md)
 	- [Spanish](awesome/awesome-spanish-nlp.md)
 	- [NLP with Ruby](awesome/nlp-with-ruby.md)
@@ -296,6 +312,7 @@
 - [Deep Learning](awesome/awesome-deep-learning.md) - Neural networks.
 	- [TensorFlow](awesome/awesome-tensorflow.md) - Library for machine intelligence.
 	- [TensorFlow.js](awesome/awesome-tensorflow-js.md) - WebGL-accelerated machine learning JavaScript library for training and deploying models.
+	- [TensorFlow Lite](awesome/awesome-tensorflow-lite.md) - Framework that optimizes TensorFlow models for on-device machine learning.
 	- [Papers](awesome/awesome-deep-learning-papers.md) - The most cited deep learning papers.
 	- [Education](awesome/awesome-deep-learning-resources.md)
 - [Deep Vision](awesome/awesome-deep-vision.md)
@@ -367,6 +384,9 @@
 - [libGDX](awesome/awesome-libgdx.md) - Java game framework.
 - [PlayCanvas](awesome/awesome-playcanvas.md) - Game engine.
 - [Game Remakes](awesome/awesome-game-remakes.md) - Actively maintained open-source game remakes.
+- [Flame](awesome/awesome-flame.md) - Game engine for Flutter.
+- [Discord Communities](awesome/awesome-discord-communities.md) - Chat with friends and communities.
+- [CHIP-8](awesome/awesome-chip-8.md) - Virtual computer game machine from the 70s.
 
 ## Development Environment
 
@@ -432,6 +452,7 @@
 - [Pixel Art](awesome/awesome-pixel-art.md) - Pixel-level digital art.
 - [FFmpeg](awesome/awesome-ffmpeg.md) - Cross-platform solution to record, convert and stream audio and video.
 - [Icons](awesome/awesome-icons.md) - Downloadable SVG/PNG/font icon projects.
+- [Audiovisual](awesome/awesome-audiovisual.md) - Lighting, audio and video in professional environments.
 
 ## Learn
 
@@ -465,6 +486,7 @@
 - [Fuzzing](awesome/awesome-fuzzing.md) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 - [Embedded and IoT Security](awesome/awesome-embedded-and-iot-security.md)
 - [GDPR](awesome/awesome-gdpr.md) - Regulation on data protection and privacy for all individuals within EU.
+- [DevSecOps](awesome/awesome-devsecops.md) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
 
 
 - [Umbraco](awesome/awesome-umbraco.md)
@@ -494,6 +516,8 @@
 - [Tools of the Trade](awesome/ToolsOfTheTrade.md) - Tools used by companies on Hacker News.
 - [Clean Tech](awesome/awesome-clean-tech.md) - Fighting climate change with technology.
 - [Wardley Maps](awesome/awesome-wardley-maps.md) - Provides high situational awareness to help improve strategic planning and decision making.
+- [Social Enterprise](awesome/awesome-social-enterprise.md) - Building an organization primarily focused on social impact that is at least partially self-funded.
+- [Engineering Team Management](awesome/awesome-engineering-team-management.md) - How to transition from software development to engineering management.
 
 ## Work
 
@@ -523,11 +547,14 @@
 - [EOSIO](awesome/awesome-eosio.md) - A decentralized operating system supporting industrial-scale apps.
 - [Corda](awesome/awesome-corda.md) - Open source blockchain platform designed for business.
 - [Waves](awesome/awesome-waves.md) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
+- [Substrate](awesome/awesome-substrate.md) - Framework for writing scalable, upgradeable blockchains in Rust.
 
 ## Higher Education
 
 - [Computational Neuroscience](awesome/awesome-computational-neuroscience.md) - A multidisciplinary science which uses computational approaches to study the nervous system.
 - [Digital History](awesome/awesome-digital-history.md) - Computer-aided scientific investigation of history.
+- [Scientific Writing](awesome/awesome-scientific-writing.md) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
+- [Sustainable Technology](awesome/awesome-sustainable-technology.md) - Open technology sustaining stable climate, energy supply, and vital natural resources.
 
 ## Events
 
@@ -553,7 +580,6 @@
 	- [Datasets](awesome/awesome-json-datasets.md)
 - [CSV](awesome/awesomeCSV.md) - A text file format that stores tabular data and uses a comma to separate values.
 - [Discounts for Student Developers](awesome/discount-for-student-dev.md)
-- [Sysadmin](awesome/awesome-sysadmin.md)
 - [Radio](awesome/awesome-radio.md)
 - [Awesome](awesome/awesome.md) - Recursion illustrated.
 - [Analytics](awesome/awesome-analytics.md)
@@ -660,9 +686,13 @@
 - [Naming](awesome/awesome-naming.md) - Naming things in computer science done right.
 - [Biomedical Information Extraction](awesome/awesome-bioie.md) - How to extract information from unstructured biomedical data and text.
 - [Web Archiving](awesome/awesome-web-archiving.md) - An effort to preserve the Web for future generations.
+- [WP-CLI](awesome/awesome-wp-cli.md) - Command-line interface for WordPress.
+- [Credit Modeling](awesome/awesome-credit-modeling.md) - Methods for classifying credit applicants into risk classes.
+- [Ansible](awesome/awesome-ansible.md) - A Python-based, open source IT configuration management and automation platform.
 
 ## Related
 
+- [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.

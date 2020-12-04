@@ -11,18 +11,12 @@
 
 <img src="https://raw.githubusercontent.com/ligurio/awesome-software-quality/master/sqaunderhood-logo.svg?sanitize=true" align="left" alt="sqaunderhood logo" width="100" style="padding: 10px;"/>
 
-- Telegram: https://t.me/sqaunderhood
-- Twitter: https://twitter.com/sqaunderhood
-- Facebook: https://www.facebook.com/sqaunderhood/
-- VK: https://vk.com/sqaunderhood
+- [Telegram](https://t.me/sqaunderhood)/sqaunderhood
+- [Twitter](https://twitter.com/sqaunderhood)/sqaunderhood
+- [Facebook](https://www.facebook.com/sqaunderhood)/sqaunderhood
+- [VK](https://vk.com/sqaunderhood)/sqaunderhood
 
-### Introduction
-
-This [wiki](https://github.com/ligurio/awesome-software-quality/wiki) collects resources for anyone considering the use of software testing and formal methods. 
-    
-If you would like add something, just send the text as you would like it to appear to estetus@gmail.com, preferrably already formatted in markdown.
-
-Clone wiki: `git clone https://github.com/ligurio/awesome-software-quality.wiki.git`
+## Explore [Wiki](https://github.com/ligurio/awesome-software-quality/wiki)
 
 ### License
 

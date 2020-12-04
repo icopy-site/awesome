@@ -2,8 +2,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome TAP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
 
-> Useful resources for the [Test Anything Protocol](https://testanything.org)\
-> A simple text-based interface between testing modules in a test harness
+> Useful resources for the [Test Anything Protocol](https://testanything.org)
+
+TAP is a simple text-based interface between testing modules in a test harness.
 
 *The list is very JavaScript focused right now. That's just because I'm only familiar with TAP stuff in the JS world. Contributions welcome for any language.*
 
@@ -61,6 +62,7 @@ Things that produce TAP output.
 ### Bash
 
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System.
+- [ShellSpec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for POSIX shells.
 
 [More…](https://testanything.org/producers.html)
 

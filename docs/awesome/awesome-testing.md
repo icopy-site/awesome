@@ -17,7 +17,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Security
 - [BeEF](http://beefproject.com/) - Manipulate the browser exploiting any XSS vulns you find.
 - [OWASP ZAP](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
-- [Cookie Inspector](https://chrome.google.com/webstore/detail/cookie-inspector/jgbbilmfbammlbbhmmgaagdkbkepnijn) - View and Edit Cookies easily using the developer tools pane.
 
 ### Make your life easier
 - [Courgette](https://courgette-testing.com) - Beautifully simple UI testing. Proper declarative BDD scenarios using Gherkin, Gherkin templates and composable YAML-style page and component objects.
@@ -65,6 +64,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [James Bach](http://www.satisfice.com/blog/)
 - [Michael Bolton](http://www.developsense.com/blog/)
 - [Janet Gregory](http://janetgregory.ca/blog/)
+- [Softwaretester Blog](https://www.softwaretester.blog/)
 
 ## Suggested Awesome Lists
 
@@ -86,7 +86,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Others
 - [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
-- [Testers.io](http://www.testers.io/) - Community Slack for testers to discuss everything and rant. Mostly rant.
 - [Software Testing Conferences](http://testingconferences.org/) - A list of software testing conferences and workshops.
 - [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
 

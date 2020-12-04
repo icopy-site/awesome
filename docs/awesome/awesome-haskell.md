@@ -5,6 +5,7 @@ Awesome Haskell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) projects line.
 
+    - [Bloggers](#bloggers)    
 
 
 ## _Basics_
@@ -97,7 +98,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 ## Configuration
 
 * [Deiko-config](http://hackage.haskell.org/package/deiko-config) - small typesafe library that uses [HOCON](https://github.com/lightbend/config#features-of-hocon) config format
-* [Dhal](https://github.com/dhall-lang/dhall-haskell) - A configuration language guaranteed to terminate 
+* [Dhall](https://github.com/dhall-lang/dhall-haskell) - A configuration language guaranteed to terminate 
 * [Configurator](http://hackage.haskell.org/package/configurator) - A configuration management library which supports automatic, dynamic reloading in response to modifications to configuration files.
 
 ## Cryptography & Hashing
@@ -336,7 +337,12 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Haskell](https://www.haskell.org/) - Official Website.
 * [The Haskell Programming Language](https://wiki.haskell.org/Haskell) - Haskell wiki.
 * [Try Haskell](http://tryhaskell.org/) - Haskell Online.
-* [School of Haskell](https://www.fpcomplete.com/school) - Learning Haskell.
+* [School of Haskell](https://www.schoolofhaskell.com/) - Learning Haskell.
+
+## Bloggers
+
+* [Neil Mitchell](https://neilmitchell.blogspot.com/) - Neil Mitchell's Haskell Blog.
+
 
 ## Community
 
@@ -399,6 +405,8 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Hoogle](https://www.haskell.org/hoogle/) - is a Haskell API search engine, which allows you to search many standard Haskell libraries by either function name, or by approximate type signature.
 * [Hayoo](http://hayoo.fh-wedel.de/) - will search all packages from Hackage, including all function and type definitions.
 
+## Best Practices
+* [Haskell Style Guide](https://kowainik.github.io/posts/2019-02-06-style-guide) 
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

@@ -35,6 +35,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Command-line tools
 * [fx](https://github.com/antonmedv/fx) - A interactive terminal tool.
+* [jo](https://github.com/jpmens/jo) - A small utility to create JSON objects
 * [jsoncat](https://github.com/pantuza/jsoncat) - Pretty-print Json in terminal with colors and adjusting tabs size.
 * [jq](http://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
 * [json](http://trentm.com/json/) - A "json" command for massaging JSON on your Unix command line.
@@ -47,6 +48,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jiq](https://github.com/fiatjaf/jiq) - It's `jid` with `jq`. You can drill down interactively by using `jq` filtering queries.
 * [jv](https://github.com/maxzender/jv) - jv (for jsonviewer) helps you view your JSON.
 * [jl](https://github.com/chrisdone/jl) - Functional sed for JSON.
+* [oj](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
+* [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet-like tool for interactively exploring data.
 
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
@@ -95,7 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JsonML](http://www.jsonml.org/) - A compact format for transporting XML-based markup as JSON which allows it to be losslessly converted back to its original form.
 * [JSON5](https://json5.org/) - a extension that aims to make it easier for humans to write and maintain by hand.
 * [JSON6](https://github.com/d3x0r/json6) - JSON for Humans (ES6).
-* [JSON 1.1/JSONX](https://json-next.github.io/) - An evolved version 1.1 with format extension for humans incl. comments, unquoted and multi-line strings, optional and trailing commas and more. 
+* [JSON 1.1/JSONX](https://json-next.github.io/) - An evolved version 1.1 with format extension for humans incl. comments, unquoted and multi-line strings, optional and trailing commas and more.
 * [JSON Resume](https://jsonresume.org/) - The open source initiative to create standard for resumes.
 * [JSON Web Tokens](https://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
 * [JSON API](https://jsonapi.org/) - A standard for building APIs.
@@ -122,18 +125,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **C**
 * [Jansson](http://www.digip.org/jansson/) - A C library for encoding, decoding and manipulating data.
 * [jsmn](https://zserge.com/jsmn.html) - A minimalistic parser in C. It can be easily integrated into the resource-limited projects or embedded systems.
+* [ojc](https://github.com/ohler55/ojc) - A fast JSON parser.
 
 **C++**
 * [ArduinoJson](https://github.com/bblanchon/ArduinoJson) - An efficient library for embedded systems.
 * [JSON++](https://github.com/tunnuz/json) - A self contained Flex/Bison parser for C++11.
 * [json11](https://github.com/dropbox/json11) - A tiny library for C++11.
+* [Nlohmann JSON](https://github.com/nlohmann/json) - A C++11 header-only class.
 * [RapidJSON](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
+* [simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second.
 
 **Clojure**
 * [data.json](https://github.com/clojure/data.json) - parser/generator to/from Clojure data structures.
 
 **Fortran**
 * [JSON-Fortran](https://github.com/jacobwilliams/json-fortran) - A Fortran library for writing, reading, and manipulating JSON files and data structures.
+
+**Go**
+* [ojg](https://github.com/ohler55/ojg) - A collection of high performance JSON processing and generating tool.
 
 **Haskell**
 * [aeson-qq](https://github.com/sol/aeson-qq) - JSON quasiquoter for Haskell.
@@ -182,6 +191,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **.NET**
 * [jsonfx](https://github.com/jsonfx/jsonfx) - serialization framework for .NET.
+* [jsonapi-consumer](https://github.com/OKTAYKIR/jsonapi-consumer) - Client framework for consuming JSONAPI based APIs on the [JSON API standard](http://jsonapi.org/).
 
 **Scala**
 * [spray-json](https://github.com/spray/spray-json) - A lightweight, clean and simple implementation in Scala.
@@ -304,6 +314,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [nimnjs](https://github.com/nimndata/nimnjs) - JSON to nimn bidirectional converter.
 
 ## Queries
+* [dasel](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedlan/jq) / [yq](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 * [JMESPath](http://jmespath.org/) - A query language for JSON.
 * [JSON Mask](https://github.com/nemtsov/json-mask) - Tiny language and engine for selecting specific parts of a JS object, hiding the rest. (Javascript)
 * [JSONiq](http://www.jsoniq.org/) - The JSON Query Language.
@@ -355,6 +366,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [tv4](https://github.com/geraintluff/tv4) - Tiny Validator.
 * [ajv](https://github.com/epoberezkin/ajv) - The fastest validator. Supports v5/6 proposals.
 
+**Java and Kotlin**
+* [Medeia Validator](https://github.com/worldturner/medeia-validator) - Compliant (draft-04/06/07) and fast streaming validator written in Kotlin
 
 **PHP**
 * [JSON Schema for PHP](https://github.com/justinrainbow/json-schema) - PHP implementation of JSON schema.

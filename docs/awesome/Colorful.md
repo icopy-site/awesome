@@ -13,6 +13,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 #### Libraries
 - [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
+- [pigment](https://github.com/satya164/pigment) - Color information, conversion and manipulation library
 - [GradStop.js](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
 - [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 - [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
@@ -65,6 +66,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [geenes](https://geenes.app/) - Create a color scale in seconds, then export it to sketch or code.
 - [Tints and Shades](https://maketintsandshades.com/) - Display tints and shades of a given hex color in 10% increments.
 - [Sorted colors](https://enes.in/sorted-colors/) - Sorted named CSS colors in a way that it shows related colors together.
+- [Croma](https://croma.app) - Generate color palettes from image and colors
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
@@ -81,6 +83,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Color Lisa](http://www.colorlisa.com/) - Color palette masterpieces of the world’s greatest artists.
 - [Cohesive Colors](http://javier.xyz/cohesive-colors/) - A tool to create cohesive color schemes.
 - [Colordrop](https://colordrop.io/) - A collection of great looking color palettes.
+- [ColorsWall](https://colorswall.com/) - Place to store your color Palettes and generate tool.
 - [Open Color](https://yeun.github.io/open-color/) - Colors tested on deuteranopia and protanopia mode.
 - [ColorClaim](http://www.vanschneider.com/colors) - Subtle color combinations.
 - [Color Farm](http://color.farm/) - Handpicked colors from the popular Dribbble shots.
@@ -123,7 +126,8 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Cubehelix, or How I Learned to Love Black & White Printers](http://www.ifweassume.com/2013/05/cubehelix-or-how-i-learned-to-love.html)
 - [A colour scheme for the display of astronomical intensity images](http://adsabs.harvard.edu/abs/2011BASI...39..289G)
 
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-Image credits - [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).
+<br>
+<br>
+
+### Image credits
+[Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).

@@ -103,7 +103,7 @@ Below is a curated list of awesome software and other resources to enable those 
 
  * [Citizen Science: Theory and Practice](http://theoryandpractice.citizenscienceassociation.org/) - An open-access, peer-reviewed journal dedicated to discussion about methods in citizen science.
  * [Scholar Subreddit](https://www.reddit.com/r/scholar) - A great place to request help getting access to scientific papers that are beyond paywalls.
- * [LibGen](http://libgen.io/) - An online tool for gaining access to scientific articles that are normally beyond paywalls.
+ * [Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis) - An online tool for gaining access to scientific articles that are normally beyond paywalls.
  * [SciHub](https://sci-hub.tw/) - Another site for gaining access to science papers that are normally behind paywalls.
  * [Public Library of Science (PLOS)](https://plos.org/) - Nonprofit organization that publishes open-access journals and also advocates for openness and tranparency in science.
  * [arXiv](http://arxiv.org/) - A Cornell-supported site for sharing and discussing early drafts of scientific papers (mostly physics and math).

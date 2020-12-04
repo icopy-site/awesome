@@ -25,12 +25,14 @@ Organizations bringing diversity to tech.
 - [Black Girl Gamers](http://blackgirlgamers.com) - A safe space that supports black girl gamers. Also found on:
   - [Twitch](https://www.twitch.tv/blackgirlgamers)
   - [Steam](https://steamcommunity.com/groups/BlackGirlsWhoPlayGames)
-- [Blacks In Technology](https://www.blacksintechnology.net/) - Organization focused on "Stomping the Divide" by establishing a blueprint of world-class technical excellence and innovation.
+- [Blacks In Technology](https://www.blacksintechnology.net/) - Oragnization focused on "Stomping the Divide" by establishing a blueprint of world-class technical excellence and innovation.
+- [Black Women in Computational Biology](https://www.blackwomencompbio.org/) - An intersectional community of Black women who are working toward (or interested in) a career that combines computational and quantitative sciences with biology.
 - [Bridge Troll](https://www.bridgetroll.org/) - Events organized by volunteers to empower people with technology.
 - [Code 2040](http://www.code2040.org/) - Through a variety of programs and fellowships, Code2040 is a great initiative creating opportunities in tech for Black and Latinx talent.
 - [Codebar](https://codebar.io/) - Codebar is a non-profit initiative that facilitates the growth of a diverse tech community by running regular programming workshops.
 - [Code Liberation](http://codeliberation.org/) - Code Liberation catalyzes the creation of digital games and creative technologies by women, nonbinary, femme, and girl-identifying people to diversify STEAM fields.
 - [Consensual Software](http://consensualsoftware.com/) - An open source project advocating for better use consent in software design.
+- [Computational Biology in Sweden, RSG-Sweden](http://rsg-sweden.iscbsc.org/) - A team of students and researchers working together to get more people interested in computational biology, and connect people to build a diverse and inclusive community across Sweden.
 - [Dear Tech People](http://www.deartechpeople.com) - A race and gender diversity ranking of 100 top tech companies.
 - [Dev Color](https://www.devcolor.org/) - A non-profit organization that aims to advance the careers of Black software engineers.
 - [Diversify Tech](https://www.diversifytech.co/) - A collection of resources for underrepresented people in tech.
@@ -50,8 +52,10 @@ Organizations bringing diversity to tech.
 - [Kapor Center](http://www.kaporcenter.org/) - The Kapor family of organizations works to remove barriers to Science, Technology, Engineering and Math (STEM) education and tech careers for underrepresented people of color.
 - [Lesbians Who Tech](https://lesbianswhotech.org/) - Lesbians Who Tech is a community of queer women in or around tech (and the people who love them).
 - [OS4W](https://www.os4w.org) - OS4W aims to be a resource for connecting all women, including women of color and transgender women, to open source projects that are welcoming, inclusive, and appreciative of diversity in their contributors.
+- [Open Source Diversity](https://opensourcediversity.org/) - Open Source Diversity is a community gathering resources, building networks and collaborating for more diversity & inclusion in free & open source software communities.
 - [Open Sourcing Mental Illness](https://osmihelp.org/) - Open Sourcing Mental Illness is a non-profit corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
 - [Out In Tech](https://outintech.com) - Non-profit organization that unites the LGBTQ+ tech community.
+- [OpenCIDER](https://selgebali.gitbook.io/opencider/) - A community building effort to promote computational inclusion and serve as digital equity resource.
 - [ParadigmIQ](https://www.paradigmiq.com/) - Paradigm offers a range of workshops, training and assessments aiding in diversity, inclusion, belonging, retention and more.
 - [People Of Creativity](http://www.peopleofcreativity.xyz/) - Organization that focuses on creating a community that shares opportunities, experiences and ideas ultimately bettering the representation of minorities throughout creative industries.
 - [PHP Women](http://phpwomen.org) - An inclusive & global network providing support within the PHP community.
@@ -66,6 +70,7 @@ Organizations bringing diversity to tech.
 - [R-Ladies](https://rladies.org/) - A worl-wide organization to promote gender diversity in the R community.
 - [Scala Bridge](http://www.scalabridge.org/) - Building an inclusive Scala community with introductory programming workshops for women.
 - [She++](https://sheplusplus.org) - Non-profit organization that works to empower underrepresented groups in technology by dismantling negative stereotypes surrounding technical careers.
+- [Techqueria](https://techqueria.org/) - A non-profit organization that serves the largest community of Latinx in Tech.
 - [Techtonica](https://techtonica.org/) - Techtonica partners with tech companies to offer tech apprenticeships with stipends and job placement to Bay Area women and non-binary, feminine-adjacent adults with low incomes.
 - [Tech Ladies](https://www.hiretechladies.com/) - Tech Ladies connects women with the best jobs and opportunities in tech.
 - [Teens Exploring Technology](http://exploringtech.org/) - Encourages inner city teenage Black and Latino males to become catalysts of change in urban communities.
@@ -73,13 +78,18 @@ Organizations bringing diversity to tech.
 - [Trans*H4CK](http://www.transhack.org/) - Trans\*H4CK empowers trans, gender non conforming, agender and nonbinary people through improving access to social services, promoting gender safety and community sustainability while bringing visibility to trans* tech innovators and entrepreneurs.
 - [Women Love Tech](https://womenlovetech.com/) - Women Love Tech was launched with the vision to share a passion and love for technology. Since then, Women Love Tech has evolved into a lifestyle technology digital magazine for women who love all things tech that can enhance their everyday lifestyle.
 - [Women Make](https://womenmake.com/) - A community where women are in the forefront.
+- [Women Hack For Non-Profits](http://www.womenhackfornonprofits.com/) - A community of women in tech building open source projects for non-profit organizations and individuals with a cause.
 - [Women Techmakers](https://www.womentechmakers.com/) - Google's program that provides visibility, community, and resources for women in technology.
 - [Women Who Code](https://www.womenwhocode.com/) - Women Who Code is a global community empowering women to excel in technology fields through resources, job boards, conference scholarships and other member benefits.
 - [Women Who Go](https://www.womenwhogo.org/) - A network focused on building a more diverse and inclusive Golang community.
 - [Women Who Tech](https://www.womenwhotech.com/) - Nonprofit organization to bring together talented and renowned women breaking new ground in technology to transform the world and inspire change.
 - [Wonder Women Tech](https://wonderwomentech.com/) - Organization that produces year-round programming and national and international conferences that highlight, educate, and celebrate women and diversity in STEAM (Science, Technology, Engineering, Arts, Math), innovation and entrepreneurialism.
+- [Write/Speak/Code](https://www.writespeakcode.com/) - A 501c3, tax-exempt non-profit that hosts an annual conference and meetup events designed to help you fully own your expertise through writing, speaking, and open source.
 - [YesWeTech](http://yeswetech.org/) - Feminist community working for an egalitarian and proud culture of women interested in technology.
 - [Natives in Tech](https://nativesintech.org) - Natives in Tech is a coalition of Native and non-Native software developers whose goal is to support software application development that reinforces Native beliefs, knowledge, and identity. 
+- [Brazilians in Tech](https://braziliansintech.com/)- Brazilians in Tech is the first Brazilian platform to bring together the most relevant opportunities in the world of Science and Technology for women working or interested in digital technologies.
+- [Latinas in computing](https://latinasincomputing.org/) - A community created by and for the Latinas in Computing with a mission of promoting their representation and success in computing-related fields.
+- [Latinas in tech](https://www.latinasintech.org/) - a non-profit organization with the aim to connect, support, and empower Latina women working in tech. We work hand in hand with top technology companies to create safe spaces for learning, mentorship and recruitment.
 
 ## Events
 
@@ -87,9 +97,9 @@ The following is a list of events that make a special effort to be inclusive and
 
 - [ACT-W National Conference](http://www.act-w.org/) - Presented by ChickTech, ACT-W National focuses on providing you with inspiring and actionable education in career development, leadership, technology, and diversity.
 - [AlterConf](https://alterconf.com/) - AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
-- [Elixir With Love](https://www.elixir-with-love.com/) - Elixir With Love is a proactive conference with the mission of introducing developers to this exciting new language and building a diverse Elixir community.
-- [Lambda World](http://www.lambda.world/) - Lambda World is a functional programming conference with an ideology of empowering underrepresented minorities in tech. In this mindset, we have a few actions we follow such as creating grants to cover tickets and accommodation, hosting inclusive workshops, and making conferences more accessible to individuals finding it hard to be away from their families, by providing tourist activities, and necessities like cribs and strollers.
 - [DDD Europe](https://dddeurope.com) - Domain-Driven Design Europe is a focused on software design and modeling. They have an amazing commitment to diversity and improving their event.
+- [Lambda World](http://www.lambda.world/) - Lambda World is a functional programming conference with an ideology of empowering underrepresented minorities in tech. In this mindset, we have a few actions we follow such as creating grants to cover tickets and accommodation, hosting inclusive workshops, and making conferences more accessible to individuals finding it hard to be away from their families, by providing tourist activities, and necessities like cribs and strollers.
+- [PyMCon](https://pymc-devs.github.io/pymcon//) - PyMCon is an asynchronous-first virtual conference for the Bayesian community organized by the PyMC community with a strong emphasis on diversity and inclusion from the organizing committee to attendees.
 - [REFACTR.TECH](https://www.refactr.tech) - REFACTR.TECH focuses on technology while creating a safe space for thoughtful and nuanced conversations around diversity, inclusion, and intersectionality in tech.
 
 ## Ally Resources
@@ -97,6 +107,7 @@ The following is a list of events that make a special effort to be inclusive and
 The following are collections of various types of resources (talks, documents, blog posts etc) for being an ally in any diversity efforts.
 
 - [Better Male Allies](https://code.likeagirl.io/@betterallies) - By Code Like a Girl.
+- [Contributor Covenant](https://www.contributor-covenant.org/) - By Coraline Ada Ehmke.
 - [Inclusion At Work](https://inclusionatwork.co) - By Jennifer Kim.
 - [Resources For Allies](https://github.com/larahogan/ally-resources) - By Lara Hogan.
 
@@ -123,6 +134,20 @@ The following is a list of individual resources with actionable items for being 
 - [Tracking Compensation And Promotion Inequity](http://larahogan.me/blog/inclusion-math/) - By Lara Hogan.
 - [What Does Sponsorship Look Like?](http://larahogan.me/blog/what-sponsorship-looks-like/) - By Lara Hogan.
 - [You Have A Culture Problem. Here's How To Avoid A Diversity Disaster](https://medium.com/projectinclude/you-have-a-culture-problem-heres-how-to-avoid-a-diversity-disaster-178eaecd7e3f) - By Ellen K. Pao.
+
+## Projects
+
+Open source projects which support underrepresented groups and where you can participate.
+
+- [A11y Project](https://www.a11yproject.com/) - A community-driven effort to make digital accessibility easier.
+- [Accessibility Cloud](https://www.accessibility.cloud/) - Simplifies sharing and obtaining accessibility data in a standardized, future-proof, easy-to-use way.
+- [CHAOSS D&I Workgroup](https://chaoss.community/metrics/) - Collection of resources for projects to create a diversity and inclusion report.
+- [Chayn](https://chayn.co/) - A volunteer network tackling gender based violence globally by creating intersectional survivor-led resources on the web.
+- [Diversity Tickets](https://diversitytickets.org/) - Help events reach a more diverse audience. And help you to find these events.
+- [SignDict](https://signdict.org/) - An open dictionary for sign language.
+- [The Supernova Project](http://supernovaproject.org/) - A global effort that aims to contribute to addressing abuse within the LGBTQIA+ communities.
+- [Wheelmap](https://wheelmap.org/) - The world's biggest crowdsourced and open database for wheelchair-accessible places.
+- [WikiProject Women in Red](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red) - Increasing the representation of women on Wikipedia through biographies and articles of women’s achievements.
 
 ## Posts
 

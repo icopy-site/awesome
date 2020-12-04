@@ -98,10 +98,12 @@ An "awesome" list of the Ionic resources
 
 #### i18n & l10n
 * [Internationalize and Localize Your App With Angular 2](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/)
+* [attranslate](https://github.com/fkirc/attranslate) - Semi-automated translation of JSON and other resource files
 
 #### Tools
 * [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)
 * [Vim-ionic2](https://github.com/akz92/vim-ionic2)
+* [Ionic Vetur Intellisense](https://github.com/moduslabs/ionic/tree/master/packages/ionic-vetur) - Vetur support for Ionic Components for tag and attribute autocompletion
 
 #### Video Tutorials
 * [Ionic Quickstart](https://www.udemy.com/ionic-2-quickstart/)

@@ -39,7 +39,7 @@
 - [python-alexa](https://github.com/nmyster/python-alexa) - A Simple Python Library to make Alexa skill development easy when aimed used in Lambda.
 - [Java Alexa Skills Kit SDK (Lambda)](https://github.com/amzn/alexa-skills-kit-java) - An Amazon Alexa Skills SDK for Java.
 - [vsms-skeleton](https://github.com/internetofvoice/vsms-skeleton) - Voice Skill Management System (Skeleton).
-- [amazon-alexa-skill-library](https://github.com/travello-gmbh/amazon-alexa-skill-library) - PHP Library for Amazon Alexa Skills.
+- [phoice/phlexa](https://github.com/phoice/phlexa) - PHP Library for Amazon Alexa voice applications.
 - [amazon-alexa-php](https://github.com/MiniCodeMonkey/amazon-alexa-php) - Amazon Alexa PHP Library.
 - [alexa-app](https://github.com/develpr/alexa-app) - Set of classes to make creating Amazon Alexa Skills Kit (ASK) applications easier with Laravel and Lumen.
 - [Virtual Alexa](https://github.com/bespoken/virtual-alexa) - Alexa Emulator for Unit-Testing.
@@ -195,7 +195,7 @@
 
 - [Alexa Voice Service (AVS) with cURL](https://miguelmota.com/blog/alexa-voice-service-with-curl/) - Tutorial on interacting with Alexa Voice Service over cURL.
 - [Alexa Voice Service (AVS) Authentication](https://miguelmota.com/blog/alexa-voice-service-authentication/) - Tutorial on Alexa Voice Service authentication.
-- [How to develop an Alexa Skill](http://tutorials.pluralsight.com/interesting-apis/alexa-run-this-javascript-app) - Tutorial on creating an Alexa Skill.
+- [How to develop an Alexa Skill](https://www.pluralsight.com/guides/alexa-run-this-javascript-app) - Tutorial on creating an Alexa Skill.
 - [How to create an Alexa Skill using Alexia Framework](https://accenture.github.io/blog/2016/11/18/alexia-framework.html) - Tutorial on using the Alexia framework.
 - [How to create a cross-platform voice app using Assistant.js](https://github.com/webcomputing/AssistantJS/wiki/Getting-Started) - Tutorial on using Assistant.js.
 

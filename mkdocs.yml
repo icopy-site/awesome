@@ -117,6 +117,8 @@ nav:
     - C: awesome/awesome-c.md
     - C/C++: awesome/awesome-cpp.md
     - R: awesome/awesome-R.md
+    - R_sub: 
+      - Learning: awesome/awesome-r-learning-resources.md
     - D: awesome/awesome-d.md
     - Common Lisp: awesome/awesome-cl.md
     - Common Lisp_sub: 
@@ -135,7 +137,6 @@ nav:
     - PHP_sub: 
       - Composer: awesome/awesome-composer.md
     - Pascal: awesome/awesome-pascal.md
-    - Assembler: awesome/awesome-asm.md
     - AutoHotkey: awesome/awesome-AutoHotkey.md
     - AutoIt: awesome/awesome-AutoIt.md
     - Crystal: awesome/awesome-crystal.md
@@ -230,6 +231,7 @@ nav:
     - Web Animation: awesome/awesome-web-animation.md
     - Yew: awesome/awesome-yew.md
     - Material-UI: awesome/awesome-material-ui.md
+    - Building Blocks for Web Apps: awesome/awesome-building-blocks-for-web-apps.md
   - Back-End Development:
     - Flask: awesome/awesome-flask.md
     - Docker: awesome/awesome-docker.md
@@ -243,6 +245,7 @@ nav:
     - Laravel: awesome/awesome-laravel.md
     - Laravel_sub: 
       - Education: awesome/Awesome-Laravel-Education.md
+      - TALL Stack: awesome/awesome-tall-stack.md
     - Rails: awesome/awesome-rails.md
     - Rails_sub: 
       - Gems: awesome/awesome-rails-gem.md
@@ -258,6 +261,7 @@ nav:
     - Terraform: awesome/awesome-terraform.md
     - Vapor: awesome/awesome-vapor.md
     - Dash: awesome/awesome-dash.md
+    - FastAPI: awesome/awesome-fastapi.md
   - Computer Science:
     - University Courses: awesome/awesome-courses.md
     - Data Science: awesome/awesome-datascience.md
@@ -269,6 +273,8 @@ nav:
       - ML with Ruby: awesome/machine-learning-with-ruby.md
       - Core ML Models: awesome/Awesome-CoreML-Models.md
       - H2O: awesome/awesome-h2o.md
+      - Software Engineering for Machine Learning: awesome/awesome-seml.md
+      - AI in Finance: awesome/awesome-ai-in-finance.md
     - Speech and Natural Language Processing_sub: 
       - Spanish: awesome/awesome-spanish-nlp.md
       - NLP with Ruby: awesome/nlp-with-ruby.md
@@ -283,6 +289,7 @@ nav:
     - Deep Learning_sub: 
       - TensorFlow: awesome/awesome-tensorflow.md
       - TensorFlow.js: awesome/awesome-tensorflow-js.md
+      - TensorFlow Lite: awesome/awesome-tensorflow-lite.md
       - Papers: awesome/awesome-deep-learning-papers.md
       - Education: awesome/awesome-deep-learning-resources.md
     - Deep Vision: awesome/awesome-deep-vision.md
@@ -343,6 +350,9 @@ nav:
     - libGDX: awesome/awesome-libgdx.md
     - PlayCanvas: awesome/awesome-playcanvas.md
     - Game Remakes: awesome/awesome-game-remakes.md
+    - Flame: awesome/awesome-flame.md
+    - Discord Communities: awesome/awesome-discord-communities.md
+    - CHIP-8: awesome/awesome-chip-8.md
   - Development Environment:
     - Quick Look Plugins: awesome/quick-look-plugins.md
     - Dev Env: awesome/awesome-devenv.md
@@ -400,6 +410,7 @@ nav:
     - Pixel Art: awesome/awesome-pixel-art.md
     - FFmpeg: awesome/awesome-ffmpeg.md
     - Icons: awesome/awesome-icons.md
+    - Audiovisual: awesome/awesome-audiovisual.md
   - Learn:
     - CLI Workshoppers: awesome/awesome-workshopper.md
     - Learn to Program: awesome/learn-to-program.md
@@ -429,6 +440,7 @@ nav:
     - Fuzzing: awesome/awesome-fuzzing.md
     - Embedded and IoT Security: awesome/awesome-embedded-and-iot-security.md
     - GDPR: awesome/awesome-gdpr.md
+    - DevOps: awesome/DevOps.md
     - Umbraco: awesome/awesome-umbraco.md
     - Refinery CMS: awesome/awesome-refinerycms.md
     - Wagtail: awesome/awesome-wagtail.md
@@ -451,6 +463,8 @@ nav:
     - Tools of the Trade: awesome/ToolsOfTheTrade.md
     - Clean Tech: awesome/awesome-clean-tech.md
     - Wardley Maps: awesome/awesome-wardley-maps.md
+    - Social Enterprise: awesome/awesome-social-enterprise.md
+    - Engineering Team Management: awesome/awesome-engineering-team-management.md
   - Work:
     - Slack: awesome/awesome-slack.md
     - Slack_sub: 
@@ -475,9 +489,12 @@ nav:
     - EOSIO: awesome/awesome-eosio.md
     - Corda: awesome/awesome-corda.md
     - Waves: awesome/awesome-waves.md
+    - Substrate: awesome/awesome-substrate.md
   - Higher Education:
     - Computational Neuroscience: awesome/awesome-computational-neuroscience.md
     - Digital History: awesome/awesome-digital-history.md
+    - Scientific Writing: awesome/awesome-scientific-writing.md
+    - Sustainable Technology: awesome/awesome-sustainable-technology.md
   - Events:
     - Creative Tech Events: awesome/awesome-creative-tech-events.md
     - Events in Italy: awesome/awesome-italy-events.md
@@ -498,7 +515,6 @@ nav:
       - Datasets: awesome/awesome-json-datasets.md
     - CSV: awesome/awesomeCSV.md
     - Discounts for Student Developers: awesome/discount-for-student-dev.md
-    - Sysadmin: awesome/awesome-sysadmin.md
     - Radio: awesome/awesome-radio.md
     - Awesome: awesome/sindresorhus-awesome.md
     - Analytics: awesome/awesome-analytics.md
@@ -605,6 +621,10 @@ nav:
     - Naming: awesome/awesome-naming.md
     - Biomedical Information Extraction: awesome/awesome-bioie.md
     - Web Archiving: awesome/awesome-web-archiving.md
+    - WP-CLI: awesome/awesome-wp-cli.md
+    - Credit Modeling: awesome/awesome-credit-modeling.md
+    - Ansible: awesome/awesome-ansible.md
+    - All Awesome Lists: awesome/topics-awesome.md
     - StumbleUponAwesome: awesome/StumbleUponAwesome.md
     - Awesome CLI: awesome/awesome-cli.md
 

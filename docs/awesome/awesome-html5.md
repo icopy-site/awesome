@@ -86,6 +86,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ### Forms
 
 * [Changes to forms in HTML5 from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
+* [HTML Forms](https://www.w3schools.com/html/html_forms.asp)
 
 ### Details
 
@@ -245,7 +246,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Apache Cordova tutorial](http://ccoenraets.github.io/cordova-tutorial/)
 * [PhoneGap from Scratch](https://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171)
 * [Best practices for mobile web apps](https://www.html5rocks.com/en/tutorials/speed/quick/)
-* [Build mobile apps with Kendo UI]https://docs.telerik.com/kendo-ui/controls/hybrid/introduction)
+* [Build mobile apps with Kendo UI](https://docs.telerik.com/kendo-ui/controls/hybrid/introduction)
 * [HTML5 Vibration API](https://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585)
 * [HTML5 Battery Status API](https://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
 * [Privacy analysis of the HTML5 Battery Status API](https://eprint.iacr.org/2015/616.pdf)
@@ -257,6 +258,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ### Web Sockets
 
 * [Introducing Websockets](https://www.html5rocks.com/en/tutorials/websockets/basics/)
+* [About HTML5 WebSocket](https://www.websocket.org/aboutwebsocket.html)
+* [HTML5 Web Sockets API](http://www.tutorialspark.com/html5/HTML5_WebSockets.php)
 
 ### WebRTC
 
@@ -300,13 +303,17 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Over 380 resources on HTML5 game development](https://html5-game-development.zeef.com/andre.antonio.schmitz)
 * Opensource JavaScript game engines
   - [Pixi.js](https://github.com/pixijs/pixi.js)
-  - [phaser](https://github.com/photonstorm/phaser)
+  - [Phaser](https://github.com/photonstorm/phaser)
   - [MelonJS](https://github.com/melonjs/melonJS)
-  - [kiwi.js](https://github.com/gamelab/kiwi.js)
+  - [Kiwi.js](https://github.com/gamelab/kiwi.js)
   - [Crafty](https://github.com/craftyjs/Crafty)
   - [PhysicsJS](https://github.com/wellcaffeinated/PhysicsJS)
   - [Stage.js](https://github.com/shakiba/stage.js)
-  - [cocos2d](https://github.com/cocos2d/cocos2d-html5)
+  - [Cocos2d](https://github.com/cocos2d/cocos2d-html5)
+
+## Bootcamp
+*[Learn coding for free online](https://www.freecodecamp.org/)
+*[Free online cources](https://www.khanacademy.org/)
 
 ## Videos and Keynotes
 
@@ -325,6 +332,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [W3C Highlights form June 2014](http://www.w3.org/2014/06/w3c-highlights/)
 * [HTML5 Please](https://html5please.com/) (Know when HTML5 feature are ready to use)
 * [Keen HTML](https://keenhtml.com) (Free interactive lessons to learn HTML)
+* [A Complete Guide to the Table Element ](https://css-tricks.com/complete-guide-table-element/) 
 
 ### Weekly news
 

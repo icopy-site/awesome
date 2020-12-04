@@ -1,5 +1,8 @@
 <div class="github-widget" data-repo="RichardLitt/awesome-fantasy"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+## I WILL REOPEN TO PRS IN NOVEMBER. 
+
+
 ## awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Fantasy literature worth reading
@@ -19,6 +22,20 @@
 *The [number] at the end is the rounded version of the rating on Goodreads. If a series is not available as an individual book, the first book in the series is used for the rating.*
 
 ### Epic Fantasy
+
+#### [The Belgariad](https://www.goodreads.com/book/show/44660.The_Belgariad_Boxed_Set?ac=1&from_search=true&qid=wv9xaSskqn&rank=3) _by [David Eddings](https://en.wikipedia.org/wiki/David_Eddings)_ [4.3] :star2:
+
+The Belgariad was my first foray into an epic series and I was hooked from the start because of the characters, humor, and adventure created by David and Leigh Eddings. The series starts with Pawn of Prophecy and spans a total of 16 novels each as well developed as the one before. Inspired by the continued printing of Lord of the Rings, Eddings created the Belgariad as a trilogy, but was eventually convinced by the publisher to print it as a series of five books. The story continues on in the equally as developed 5-book series known as the [Mallorean](https://www.goodreads.com/series/42429-the-malloreon). - [@codercarly](https://github.com/codercarly)
+
+Books:
+
+-   [Pawn of Prophecy](https://www.goodreads.com/book/show/44659.Pawn_of_Prophecy)
+-   [Queen of Sorcery](https://www.goodreads.com/book/show/587582.Queen_of_Sorcery)
+-   [Magician's Gambit](https://www.goodreads.com/book/show/44688.Magician_s_Gambit)
+-   [Castle of Wizardry](https://www.goodreads.com/book/show/645023.Castle_of_Wizardry)
+-   [Enchanters End Game](https://www.goodreads.com/book/show/44687.Enchanters_End_Game)
+
+> It all begins with the theft of the Orb that for so long protected the West from an evil god. As long as the Orb was at Riva, the prophecy went, its people would be safe from this corrupting power. Garion, a simple farm boy, is familiar with the legend of the Orb, but skeptical in matters of magic. Until, through a twist of fate, he learns not only that the story of the Orb is true, but that he must set out on a quest of unparalleled magic and danger to help recover it. For Garion is a child of destiny, and fate itself is leading him far from his home, sweeping him irrevocably toward a distant tower-and a cataclysmic confrontation with a master of the darkest magic. The quest may be nearing its end, but the danger continues. After discovering a shocking secret about himself he never could have imagined-all in pursuit of the legendary Orb-Garion and his fellow adventurers must escape a crumbling enemy fortress and flee across a vast desert filled with ruthless soldiers whose only aim is to destroy them. But even when the quest is complete, Garion's destiny is far from fulfilled. For the evil God Torak is about to awaken and seek dominion. Somehow, Garion has to face the God, to kill or be killed. On the outcome of this dread duel rests the future of the world. But how can one man destroy an immortal God?
 
 #### [The Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.1] :star2:
 
@@ -121,6 +138,64 @@ Books:
 
 > In a faraway land where members of the royal family are named for the virtues they embody, one young boy will become a walking enigma. Born on the wrong side of the sheets, Fitz, son of Chivalry Farseer, is a royal bastard, cast out into the world, friendless and lonely. Only his magical link with animals - the old art known as the Wit - gives him solace and companionship. But the Wit, if used too often, is a perilous magic, and one abhorred by the nobility. So when Fitz is finally adopted into the royal household, he must give up his old ways and embrace a new life of weaponry, scribing, courtly manners; and how to kill a man secretly, as he trains to become a royal assassin.
 
+#### [Thorn of Glass Series](https://www.goodreads.com/book/show/7896527-throne-of-glass) (2012) *by [Saraah J. Maas](https://en.wikipedia.org/wiki/Sarah_J._Maas)* [4.21] 🔥
+
+This is gorgeous, dark and ridiculously epic. Fast-paced, action-packed and High-fantasy goodness lovers! People-who-don't-love-any-of-those-things-but-want-to-try-something-new lovers! - I definitely recommend this book!  - [@gayatripalkar](https://github.com/gayatripalkar)
+ 
+ Books:
+ 
+1. [The Assassin's Blade](https://www.goodreads.com/book/show/18243700-the-assassin-s-blade) [4.4] 🔥
+2. [Throne of Glass](https://www.goodreads.com/book/show/7896527-throne-of-glass) [4.21] 🔥
+3. [Crown of Midnight](https://www.goodreads.com/book/show/17167166-crown-of-midnight) [4.43] 🔥
+4. [Heir of Fire](https://www.goodreads.com/book/show/20613470-heir-of-fire) [4.48] 🔥
+5. [Queen of Shadows](https://www.goodreads.com/book/show/18006496-queen-of-shadows) [4.56] 🔥
+6. [Empire of Storms](https://www.goodreads.com/book/show/28260587-empire-of-storms) [4.54] 🔥
+7. [Tower of Dawn](https://www.goodreads.com/book/show/31450852-tower-of-dawn) [4.36] 🔥
+8. [Kingdom of Ash](https://www.goodreads.com/book/show/33590260-kingdom-of-ash) [4.57] 🔥
+
+> Throne of Glass is a young adult turned new adult, high fantasy novel series by American author Sarah J. Maas, beginning with the novel of the same name, released in August 2012. The story follows the journey of Celaena Sardothien, a teenage assassin in a corrupt kingdom with a tyrannical ruler. As the tale progresses, Celaena forms unexpected bonds and uncovers a conspiracy amidst her adventures. The series concluded with the eighth book in October 2018.
+The series appeared on the New York Times Best Seller list, and has been optioned by Hulu for a television series adaptation by Mark Gordon.
+
+> After serving out a year of hard labor in the salt mines of Endovier for her crimes, 18-year-old assassin Celaena Sardothien is dragged before the Crown Prince. Prince Dorian offers her her freedom on one condition: she must act as his champion in a competition to find a new royal assassin.
+Her opponents are men-thieves and assassins and warriors from across the empire, each sponsored by a member of the king's council. If she beats her opponents in a series of eliminations, she'll serve the kingdom for four years and then be granted her freedom. Celaena finds her training sessions with the captain of the guard, Westfall, challenging and exhilarating. But she's bored stiff by court life. Things get a little more interesting when the prince starts to show interest in her ... but it's the gruff Captain Westfall who seems to understand her best.
+Then one of the other contestants turns up dead ... quickly followed by another. Can Celaena figure out who the killer is before she becomes a victim? As the young assassin investigates, her search leads her to discover a greater destiny than she could possibly have imagined.
+
+#### [The First Law Trilogy](https://en.wikipedia.org/wiki/The_First_Law) (2006) *by [Joe Abercrombie](https://en.wikipedia.org/wiki/Joe_Abercrombie)* [4.2] :fire:
+
+The First Law is a grimdark epic fantasy trilogy that is very character driven. The characters in this book are not particularly *likable* but despite that I found them all very lovable. The first book is a slow burn, and for a time I wasn't sure I would continue, but by the time I was half way I realised I loved seeing these characters go through their hardships, and on their adventures. This is the kind of series you feel sad about finishing because you want to spend more time with these characters. Fortunately there are standalone books and a second trilogy to read if you enjoy the original trilogy!
+
+The magic in this series isn't front and center. Despite this I would say this is a series every lover of fantasy needs to read. - [@Darknessflowers](https://github.com/Darknessflowers)
+
+Books:
+
+Original trilogy:
+* [The Blade Itself](https://www.goodreads.com/book/show/944073.The_Blade_Itself) [4.2] :fire:
+* [Before They Are Hanged](https://www.goodreads.com/book/show/902715.Before_They_Are_Hanged) [4.3] :fire:
+* [Last Argument of Kings](https://www.goodreads.com/book/show/944076.Last_Argument_of_Kings) [4.3] :fire:
+
+Standalone Novels:
+* [Best Served Cold](https://www.goodreads.com/book/show/2315892.Best_Served_Cold) [4.2]
+* [The Heroes](https://www.goodreads.com/book/show/9300768-the-heroes) [4.3]
+* [Red Country](https://www.goodreads.com/book/show/13521459-red-country) [4.3]
+
+Short Story anthology:
+* [Sharp Ends](https://www.goodreads.com/book/show/26030742-sharp-ends) [4.2]
+
+The Age of Madness Trilogy:
+* [A Little Hatred](https://www.goodreads.com/book/show/35606041-a-little-hatred) [4.5]
+* [The Trouble With Peace](https://www.goodreads.com/book/show/40701777-the-trouble-with-peace) [4.7]
+* The Wisdom of Crowds - *to be released 2021*
+
+> Logen Ninefingers, infamous barbarian, has finally run out of luck. Caught in one feud too many, he’s on the verge of becoming a dead barbarian – leaving nothing behind him but bad songs, dead friends, and a lot of happy enemies.
+>
+> Nobleman Captain Jezal dan Luthar, dashing officer, and paragon of selfishness, has nothing more dangerous in mind than fleecing his friends at cards and dreaming of glory in the fencing circle. But war is brewing, and on the battlefields of the frozen North they fight by altogether bloodier rules.
+>
+>Inquisitor Glokta, cripple turned torturer, would like nothing better than to see Jezal come home in a box. But then Glokta hates everyone: cutting treason out of the Union one confession at a time leaves little room for friendship. His latest trail of corpses may lead him right to the rotten heart of government, if he can stay alive long enough to follow it.
+>
+>Enter the wizard, Bayaz. A bald old man with a terrible temper and a pathetic assistant, he could be the First of the Magi, he could be a spectacular fraud, but whatever he is, he's about to make the lives of Logen, Jezal, and Glokta a whole lot more difficult.
+>
+>Murderous conspiracies rise to the surface, old scores are ready to be settled, and the line between hero and villain is sharp enough to draw blood.
+
 #### [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) *by [J.K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling)*
 
 These are amusing, and relevant for their cultural impact if not for the caliber of the writing. - [@RichardLitt](https://github.com/RichardLitt)
@@ -140,6 +215,22 @@ Books:
 > Each book chronicles one year in Harry's life with the main narrative being set in the years 1991–98. The books also contain many flashbacks, which are frequently experienced by Harry viewing the memories of other characters in a device called a Pensieve.
 >
 > The environment Rowling created is completely separate from reality yet also intimately connected to it. While the fantasy land of Narnia is an alternative universe and the Lord of the Rings‍ '​ Middle-earth a mythic past, the wizarding world of Harry Potter exists in parallel within the real world and contains magical versions of the ordinary elements of everyday life. Many of its institutions and locations are recognizable, such as London. It comprises a fragmented collection of overlooked hidden streets, ancient pubs, lonely country manors and secluded castles that remain invisible to the Muggle population.
+
+#### [Percy Jackson](https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians) *by [Rick Riordan](https://en.wikipedia.org/wiki/Rick_Riordan)*
+
+These are really amazing and fun to read, especially the characters and how it relates with Greek mythology. - [@ankush1024](https://github.com/ankush1024)
+
+Books:
+
+1. [The Lightning Thief](https://www.goodreads.com/book/show/28187.The_Lightning_Thief) [4.3]
+2. [The Sea of Monsters](https://www.goodreads.com/book/show/28186.The_Sea_of_Monsters) [4.4]
+3. [The Titan's Curse](https://www.goodreads.com/book/show/561456.The_Titan_s_Curse) [4.4]
+4. [The Battle of the Labyrinth](https://www.goodreads.com/book/show/2120932.The_Battle_of_the_Labyrinth) [4.4]
+5. [The Last Olympian](https://www.goodreads.com/book/show/4556058-the-last-olympian) [4.5]
+
+> The novels revolves around Percy Jackson, who is a demigod whose father is Poseidon, God of the Sea and the quests he follows to save the world from the war between gods.
+>
+> The series feel fresh and new from the eyes of these young modern heroes. From the first novel, the plot is engaging and exciting, appealing to anyone who's ever felt like they didn't belong. Between all of the action, magic and riddles, it's a truly heart-warming story about finding friends who eventually become family, and houses that eventually become homes.
 
 #### [The Inheritance Trilogy](https://en.wikipedia.org/wiki/The_Inheritance_Trilogy_(N.K._Jemisin)) *by [N.K. Jemisin](https://en.wikipedia.org/wiki/N._K._Jemisin)*
 
@@ -510,11 +601,17 @@ Books:
  * [The Silver Chair](http://www.goodreads.com/book/show/65641.The_Silver_Chair) :star2: :fire:
  * [The Last Battle](http://www.goodreads.com/book/show/84369.The_Last_Battle) :star2: :fire:
 
+#### [Kafka On the Shore](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore) *by [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)* [4.1]
+
+This book is a metaphor. It is poignant, magical and somewhat weird. If you want to get swept away and really dive into a story, stop whatever you are doing and find a way to get your hands on a copy of this book. This is a story of a young man who is discovering himself where he meets a lot of people and expereinces different feelings altogether. Reality almost seems sterile when we immerse ourselves in this book. It a must read book for fantasy lovers. - [@NehaChaudhary311](https://github.com/NehaChaudhary311)
+
+> Kafka on the Shore, a tour de force of metaphysical reality, is powered by two remarkable characters: a teenage boy, Kafka Tamura, who runs away from home either to escape a gruesome oedipal prophecy or to search for his long-missing mother and sister; and an aging simpleton called Nakata, who never recovered from a wartime affliction and now is drawn toward Kafka for reasons that, like the most basic activities of daily life, he cannot fathom. Their odyssey, as mysterious to them as it is to us, is enriched throughout by vivid accomplices and mesmerizing events. Cats and people carry on conversations, a ghostlike pimp employs a Hegel-quoting prostitute, a forest harbors soldiers apparently unaged since World War II, and rainstorms of fish (and worse) fall from the sky. There is a brutal murder, with the identity of both victim and perpetrator a riddle—yet this, along with everything else, is eventually answered, just as the entwined destinies of Kafka and Nakata are gradually revealed, with one escaping his fate entirely and the other given a fresh start on his own.
+
 #### [Lilith](http://www.goodreads.com/book/show/268187.Lilith) *by [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)* [3.9]
 
 This was a weird, weird book, just like _Phantastes_. George MacDonald had a gift for writing essentially plotless books that journey through fantastic realms; but at no point do they ever become uninteresting. They were also the inspiration for a lot of later writers, most notably CS Lewis, and it is easy to see why. Worth the read. - [@RichardLitt](https://github.com/RichardLitt)
 
-> This book is hard to describe. It is a long wandering fantasy, about a man on a quest. It is very similar to Phantastes in that regard.
+> After he followed the old man through the mirror, nothing in his life was ever right again. It was a special mirror and the man he followed was a special man - a man who led him to the things that underlie the fate of all creation. Lilith is considered among the darkest of MacDonald's works, and among the most profound. It is a story concerning the nature of life, death, and salvation. In the story, MacDonald mentions a cosmic sleep that heals tortured souls, preceding the salvation of all.
 
 #### [Phantastes](http://www.goodreads.com/book/show/174948.Phantastes) *by [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)* [4.0]
 
@@ -745,6 +842,12 @@ Beautiful and stunning film with strong female characters. Even if you're not fa
 
 > On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.
 
+#### [Your Name - Kimi no na wa(Original title)](https://www.imdb.com/title/tt5311514/) [8.4]
+
+The idea of eternal love through human existence and connection made be cry. A heartwarming romcom with an intriguing mystery that leaves priceless impressions on you. - [@kritikashah20](https://github.com/kritikashah20)
+
+> Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?
+
 ## TV Series
 
 #### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) [9.2]
@@ -752,6 +855,12 @@ Beautiful and stunning film with strong female characters. Even if you're not fa
 Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@RichardLitt](https://github.com/RichardLitt)
 
 > In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar.
+
+#### [Cursed](https://www.imdb.com/title/tt8210856/?ref_=fn_al_tt_1) (2020-?) [7]
+
+Reimagining of the Lady in the Lake with young King Arthur and Merlin by the legendary [Frank Miller](https://en.wikipedia.org/wiki/Frank_Miller_(comics)).  This rendition of Merlin was awesome, very different take from previous versions. The mythical world has some twists and spin on favorites like Lord of the Rings and Witcher. - [@will-chow](https://github.com/will-chow)
+
+> "A teenage sorceress named Nimue encounters a young Arthur on her quest to find a powerful and ancient sword."
 
 #### [Game of Thrones](http://www.imdb.com/title/tt0944947/) [9.5] :star2:
 
@@ -764,6 +873,17 @@ Pretty good, if overly televised at times and with too much emphasis on sexual v
 A great comedic mini-series with perfect casting wonderfully depicting the motifs of Gaiman and Pratchett's novel with the same name. - [@Djolo1802](https://github.com/djolo1802)
 
 > A tale of the bungling of Armageddon features an angel, a demon, an eleven-year-old Antichrist, and a doom-saying witch.
+
+#### [His Dark Materials](https://www.imdb.com/title/tt5607976/) [7.9]
+
+Excellent tv show. I love the books and I thought the adaptation was really good. - [@staelsabrina](https://github.com/staelsabrina)
+
+> A young girl is destined to liberate her world from the grip of the Magisterium which represses people's ties to magic and their animal spirits known as daemons.
+
+#### [Lucifer](https://www.imdb.com/title/tt4052886/) (2016-ongoing) [8.2]
+I have loved this show since day one, and am an avid fan of all the lively and realistic characters. It is FUNNY and WELL WRITTEN and touches the nerves of Humanity, like never before. This show seems HELL-bent on showing you that every coin has two sides and every choice and decision you make has consequences, from YOU and no one else. - [@gayatripalkar](https://github.com/gayatripalkar)
+
+> Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.
 
 #### [The Originals](https://www.imdb.com/title/tt2632424) [8.2]
 

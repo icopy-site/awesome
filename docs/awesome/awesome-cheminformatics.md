@@ -50,6 +50,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [CDK (Chemistry Development Kit)](https://sourceforge.net/projects/cdk/) - Algorithms for structural chemo- and bioinformatics, implemented in Java.
 * [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - Cheminformatics package for analyzing drug-like small molecule data in R.
 * [ChemPy](https://github.com/bjodah/chempy) - A Python package useful for chemistry (mainly physical/inorganic/analytical chemistry)
+* [MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) - A graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia
 
 <a id="lib-format"></a>
 ### Format Checking
@@ -71,6 +72,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Molecular Descriptors
 
 * [mordred](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
+* [DescriptaStorus](https://github.com/bp-kelley/descriptastorus) - Descriptor computation(chemistry) and (optional) storage for machine learning.
 * [mol2vec](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
 * [Align-it](http://silicos-it.be.s3-website-eu-west-1.amazonaws.com/software/align-it/1.0.4/align-it.html#alignit-generating-pharmacophore-points) - Align molecules according their pharmacophores.
 * [Rcpi](https://nanx.me/Rcpi/index.html) - R/Bioconductor package to generate various descriptors of proteins, compounds and their interactions.
@@ -97,6 +99,10 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Databases
 
 * [razi](https://github.com/rvianello/razi) - Cheminformatic extension for the SQLAlchemy database.
+
+<a id="lib-dock"></a>
+### Docking
+* [Rosetta](https://www.rosettacommons.org/docs/latest/Home) - A comprehensive software suite for modeling macromolecular structures. Used larely for protein-protein docking.
 
 <a id="lib-md"></a>
 ### Molecular Dynamics

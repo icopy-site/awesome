@@ -14,7 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [SoundCloud](https://soundcloud.com/) - Audio hosting with an embeddable player. Up to 3 hours of content is free.
 - [Mixcloud](https://www.mixcloud.com/) - Audio hosting with unlimited uploads and an embeddable player.
-- [Spotify](https://www.spotify.com/) - You can embed any song, album, or playlist with a [Spotify Play Button](https://developer.spotify.com/technologies/widgets/spotify-play-button/).
+- [Spotify](https://www.spotify.com/) - You can embed any song, album, or playlist with a [Spotify Play Button](https://developer.spotify.com/documentation/widgets/guides/adding-a-spotify-embed/).
 
 ## Books
 
@@ -48,7 +48,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Mux](https://mux.com/) - Paid - An API to play videos directly to the client. Can also power live streams.
 - [YouTube](https://www.youtube.com/) - Embeddable videos with unlimited uploads.
-- [Vimeo](https://vimeo.co/) - Paid - Embeddable videos with no ads.
+- [Vimeo](https://vimeo.com/) - Paid - Embeddable videos with no ads.
 - [Vevo](http://www.vevo.com/) - Embeddable music videos.
 - [Wistia](http://wistia.com/) - Free plan has a limit of 25 videos.
 
@@ -61,7 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Functions as a Service
 
-- [1Backend](https://1backend.com) - Deploy your backend in seconds. Free tier included. Open source.
+- [1Backend](https://github.com/1backend/1backend) - Deploy your backend in seconds. Free tier included. Open source.
 - [AWS Lambda](https://aws.amazon.com/lambda/) - AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume
 - [Google Cloud Functions](https://cloud.google.com/functions/) - Create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment
 - [Webtask by Auth0](https://webtask.io/) - Call code on the server with simple HTTP, easier to set up by far than Lambda or Google's
@@ -104,11 +104,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Normal Forms
 
+- [Formcarry](https://formcarry.com) - Hassle-free HTML form endpoints for your form, powerful dashboard, reliable spam blocking, attachment uploads and Zapier integrations.
+- [Formcake](https://formcake.com) - The form backend built for developers: Zapier integrations, simple endpoint API, unlimited forms.
 - [Google Forms](https://www.google.com/forms/about/) - Saves results into Google Sheets and can email you when there is a submission.
 - [FormKeep](https://formkeep.com/) - Paid - View form submissions in a beautiful web interface. It has spam filtering and it integrates with webhooks such as Gmail, Trello, and Basecamp.
-- [123 Contact Form](http://www.123contactform.com/) - Connects to other online services such at MailChimp, Salesforce, and Google Drive. It also integreates with payment Processers and includes security and analytics.
+- [123 Contact Form](http://www.123contactform.com/) - Connects to other online services such at MailChimp, Salesforce, and Google Drive. It also integrates with payment Processers and includes security and analytics.
 - [FormAssembly](http://www.formassembly.com/) - Allows you to build any kind of form that can include complex branching logic and multiple pages.
-- [FormSite](https://www.formsite.com/) - Form buider, with payments, and form management.
+- [FormSite](https://www.formsite.com/) - Form builder with payments and form management.
 - [FormStack](https://www.formstack.com/) - Forms with A/B testing, partial submission, analytics, and integrations.
 - [Sheetsu](https://sheetsu.com/) - POST and GET your data to Google Spreadsheet.
 - [Typeform](http://www.typeform.com/) - Awesome forms that can be embedded.
@@ -145,7 +147,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Social Media
 
-- [Google+](https://developers.google.com/+/web/embedded-post/) - Google+ embedded post.
 - [Pinterest](https://developers.pinterest.com/) - Pin It Button.
 - [Twitter](https://dev.twitter.com/web/embedded-tweets) - Embedded tweets.
 - [Facebook](https://developers.facebook.com/docs/plugins) - Facebook embedded plugins.
@@ -178,7 +179,25 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Search
 
+Self-hosted:
+
 - [lunr.js](http://lunrjs.com/) - Simple full-text search in your browser.
+- [itemsjs](https://github.com/itemsapi/itemsjs) - Full text, faceted, almost dependency free search engine in javascript
+- [minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
+- [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+- [fuse.js](https://fusejs.io/) - Powerful, lightweight fuzzy-search library, with zero dependencies
+- [static-search](https://github.com/dchest/static-search) - A Go program to generate JSON index of HTML files, and a JavaScript component with optional UI to search this index
+- [elasticlunr](http://elasticlunr.com/docs/index.html) - Lightweight full-text search engine developed in JavaScript for browser search and offline search based on Lunr.js
+- [tinysearch](https://github.com/tinysearch/tinysearch) - Tiny, full-text search engine for static websites built with Rust and Wasm
+- [js-search](https://www.npmjs.com/package/js-search) - Client-side searches of JavaScript and JSON objects, ES5 compatible and does not require jQuery or any other third-party libraries
+- [search-index](https://github.com/fergiemcdowall/search-index) - A persistent, network resilient, full text search library for the browser and Node.js
+- [fuzzysearch](https://github.com/bevacqua/fuzzysearch) - Tiny and blazing-fast fuzzy search in JavaScript
+- [fuzzy](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
+- [fullproof](https://reyesr.github.io/fullproof/) - Javascript library that provides high-quality full-text search in the browser
+- [Jets.js](https://jets.js.org/) - Native CSS search engine
+
+Third party integration:
+
 - [Google Custom Search Engine](https://cse.google.com/cse/) - Search your site with a custom Google Search.
 - [Algolia](https://www.algolia.com/) - Hosted Search API that delivers instant and relevant results from the first keystroke.
 - [CloudSh](https://cloudsh.com/) - Powerful search for your website with a few lines of JavaScript.

@@ -36,6 +36,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers) - Steam Trade Offers for Node.js.
 - [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management.
 - [steam-inventory-stream](https://github.com/timvandam/steam-inventory-stream) - Fetch inventories as readable streams.
+- [steam-inventory-api-ng](https://github.com/itsjfx/node-steam-inventory-api-ng) - A Steam Inventory API wrapper with advanced features such as retries and proxy support.
 
 #### Game Interaction
 
@@ -69,6 +70,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [vdf](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa.
 - [steamrep](https://github.com/scholtzm/node-steamrep) - Check user's SteamRep reputation.
 - [reptf](https://github.com/scholtzm/node-reptf) - Check user's rep.tf reputation.
+- [steamapis](https://github.com/itsjfx/node-steamapis) - Module to use the API of [steamapis.com](https://steamapis.com).
 
 ### C&#35;
 
@@ -169,6 +171,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) - Inspect messages dumped by NetHook2.
 - [steam-auth-web-util](http://scholtzm.github.io/steam-auth-web-util/) - Generate 2FA codes directly in your web browser.
 - [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
+- [protonenv](https://github.com/rizkiarm/protonenv) - Simple Proton version and prefix management.
 
 ### Discussion Boards
 

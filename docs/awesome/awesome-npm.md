@@ -3,6 +3,8 @@
 
 > Awesome [npm](https://www.npmjs.com) resources and tips
 
+[npm](https://en.wikipedia.org/wiki/Npm_(software)) is a package manager for the JavaScript programming language and comes bundled in the [Node.js](https://en.wikipedia.org/wiki/Node.js) runtime.
+
 *Please read the [contribution guidelines](https://github.com/sindresorhus/awesome-npm/blob/master/contributing.md) before contributing.*
 
 
@@ -39,7 +41,6 @@
 - [npm-top](https://gist.github.com/bcoe/dcc961b869bbf6685002) - npm users by downloads.
 - [npm semver calculator](http://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 - [npm-stats](http://www.npm-stats.com) - Displays metrics about packages.
-- [greenkeeper.io](https://greenkeeper.io) - Automates dependency updates through pull requests.
 - [ghub.io](https://ghub.io) - Redirects to the GitHub repo of an npm package.
 - [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
 
@@ -140,6 +141,8 @@ $ npm install --global npm
 - `npm t` → `npm test`
 - `npm it` → `npm install && npm test`
 - `npm r` → `npm uninstall`
+- `npm un` → `npm uninstall`
+- `npm up` → `npm update`
 
 ### Shell aliases
 

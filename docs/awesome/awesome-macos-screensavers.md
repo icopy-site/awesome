@@ -86,7 +86,21 @@ Free
 
 > A predator-inspired clock screensaver.
 
-[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/predator.png)](https://predatorsaver.space/)
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/predator.png)](https://github.com/vpeschenkov/Predator)
+
+### Death Counter
+
+> A simple counter screensaver that counts down to your death. 
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter)
+
+### MinimalClock
+
+> Simple and elegant screensaver for MacOS that displays the time.
+
+Free
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock)
 
 ## Apple Inspired
 
@@ -259,6 +273,14 @@ Free (Open Source)
 Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/googleTrends.png)](https://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5)
+
+### Last Statement
+
+> Like the macOS "Word of the Day" screensaver, but instead of words and definitions, it's the names and last statements of people executed by the State of Texas.
+
+Free (Open Source)
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/last-statement.png)](https://www.github.com/amiantos/last-statement)
 
 ## Collections
 

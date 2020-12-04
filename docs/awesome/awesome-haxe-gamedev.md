@@ -87,6 +87,7 @@ MVC == Model View Controller
 |Game                                                                       |Platform            |Engine             |Screenshot                                    |
 |---------------------------------------------------------------------------|--------------------|-------------------|----------------------------------------------|
 |**RELEASED**                                                               |                    |                   |                                              |
+|[Darksburg](https://store.steampowered.com/app/939100/Darksburg/)          |Desktop             |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/darksburg.jpg)           |
 |[Dead Cells](https://dead-cells.com/)                                      |Desktop, Consoles   |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/dead-cells.jpg)          |
 |[Defender's Quest](http://www.defendersquest.com/)                         |Desktop, Consoles   |HaxeFlixel (OpenFL)|![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/defenders-quest.jpg)     |
 |[Dicey Dungeons](http://diceydungeons.com/)                                |Desktop, Consoles   |Haxegon (OpenFL)   |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/dicey-dungeons.jpg)      |
@@ -95,9 +96,9 @@ MVC == Model View Controller
 |[Papers, Please](http://papersplea.se/)                                    |Desktop, iOS, PsVita|OpenFL             |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/papers-please.jpg)       |
 |[Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/)|Desktop             |HaxePunk (OpenFL)  |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/pocket-kingdom.jpg)      |
 |[rymdkapsel](https://rymdkapsel.com/)                                      |Desktop, Mobile     |OpenFL             |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/rymdkapsel.jpg)          |
+|[Spellbreak](https://playspellbreak.com/)                                  |PC, PS, Xbox, Switch|unreal.hx          |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/spellbreak.jpg)          |
 |[The Westport Independent](http://www.doublezeroonezero.com/westport.html) |Desktop, Mobile     |Luxe               |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/westport-independent.jpg)|
 |**IN DEVELOPMENT**                                                         |                    |                   |                                              |
-|[Darksburg](https://store.steampowered.com/app/939100/Darksburg/)          |Desktop, ?          |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/darksburg.jpg)           |
 |[Frontier Story](https://twitter.com/jmw327)                               |Desktop             |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/frontier-story.jpg)      |
 
 More showcase :
@@ -111,9 +112,12 @@ More showcase :
 ## Miscellaneous
 |Type                 |Library                                                                    | Description                                                                                                                                                                     |
 |---------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Animation            |[spine-hx](https://github.com/jeremyfa/spine-hx)                           |Spine runtime for Haxe automatically converted from the official Java/libgdx runtime. For Heaps: [Heaps-Spine](https://github.com/Beeblerox/Heaps-Spine).                        |
-|_                    |HaxeFlixel                                                                 |Spine parser via [flixel-addons](https://github.com/HaxeFlixel/flixel-addons/tree/dev/flixel/addons/editors).                                                                    |
+|Animation            |[spine-hx](https://github.com/jeremyfa/spine-hx)                           |Spine runtime for Haxe automatically converted from the official Java/libgdx runtime.                                                                                            |
+|_                    |HaxeFlixel                                                                 |Spine parser.                                                                                                                                                                    |
 |_                    |[Heaps-Spine](https://github.com/Beeblerox/Heaps-Spine)                    |Spine player for heaps.                                                                                                                                                          |
+|_                    |[heaps-aseprite](https://github.com/AustinEast/heaps-aseprite)             |Load and render sprites and animations in Aseprite format.                                                                                                                       |
+|_                    |[openfl-aseprite](https://github.com/miriti/openfl-aseprite)               |Load and render sprites and animations in Aseprite format.                                                                                                                       |
+|_                    |[ase](https://github.com/miriti/ase)                                       |.ase/.aseprite file format loader written in Haxe without external dependencies.                                                                                                                       |
 |Color manipulation   |[nxColor](https://github.com/oscarcs/nxColor)                              |Color manipulation library.                                                                                                                                                      |
 |Collision            |[differ](https://github.com/snowkit/differ)                                |A separation axis theorem collision library.                                                                                                                                     |
 |Data structures      |[polygonal-ds](https://github.com/polygonal/ds)                            |Data structures for games.                                                                                                                                                       |
@@ -122,7 +126,8 @@ More showcase :
 |Localization         |[firetongue](https://github.com/larsiusprime/firetongue)                   |A translation/localization framework written in Haxe.                                                                                                                            |
 |Map parser           |[PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-Importer)|Parser for maps generated by the editor PyxelEdit.                                                                                                                               |
 |_                    |Heaps                                                                      |Built-in parser for Tiled.                                                                                                                                                       |
-|_                    |HaxeFlixel                                                                 |Parser for Tiled & Ogmo via [flixel-addons](https://github.com/HaxeFlixel/flixel-addons/tree/dev/flixel/addons/editors).                                                         |
+|_                    |HaxeFlixel                                                                 |Parser for Tiled & Ogmo.                                                                                                                                                         |
+|_                    |[LEd](https://github.com/deepnight/led-haxe-api)                           |2D level editor with a typed compile time loader.                                                                                                                                |
 |Math helpers         |[hxmath](https://github.com/tbrosman/hxmath)                               |A game-oriented math library for the Haxe language.                                                                                                                              |
 |_                    |[haxe-glm](https://github.com/hamaluik/haxe-glm)                           |A toolset for using 2, 3, and 4 dimensional vectors and matrices, as well as quaternions.                                                                                        |
 |_                    |[hx-vector2d](https://github.com/markknol/hx-vector2d)                     |Worlds most complete Vector2d / Point class. With operator overloading.                                                                                                          |
@@ -139,15 +144,6 @@ More showcase :
 |_                    |[flixel-ui](https://github.com/HaxeFlixel/flixel-ui)                       |GUI library for HaxeFlixel.                                                                                                                                                      |
 |_                    |[HaxeUI](http://haxeui.org/)                                               |UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress)                                                 |                                                                                                                                                   |
 
-## Jobs
-* [Squidly](https://twitter.com/squuuidly/status/1243925472121151488) - Opened up [a bounties page](https://github.com/chosencharacters/squidBounties) for HaxeFlixel features and one of the them is [already claimed](https://github.com/chosencharacters/squidBounties/issues/2).
-* [Kaleido Games](https://twitter.com/KaleidoGames) - Bounty to make OpenFL work with [(FNA/UWP)](https://community.openfl.org/t/bounty-to-make-openfl-work-with-fna-uwp-300usd-150usd/12328).
-* [NX Studio](https://studionx.ru/) - Looking for [a Haxe programmer](https://hh.ru/vacancy/35432606) to work on their game called "Throne Rush". _(Moscow, Russia)_
-* [Shiro Games](https://twitter.com/ncannasse/status/1166704326485651457) - Recruiting for different roles to expand their studio and work on upcoming, exciting projects!
-* Lars Doucet's list of various [open bounties](https://github.com/larsiusprime/larsBounties/issues).
-
-_Source: haxe.io_
-
 ## Articles
 * [Flash is dead, long live OpenFL!](http://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
 * [Flash is gone, what now?](https://www.linkedin.com/pulse/flash-gone-what-now-matan-uberstein/)
@@ -159,7 +155,3 @@ _Source: haxe.io_
 * [awesome haxe](https://github.com/nadako/awesome-haxe)
 * [awesome snowkit](https://github.com/anissen/awesome-snowkit)
 * [awesome haxe js](https://github.com/MatthijsKamstra/awesome-haxe-js)
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

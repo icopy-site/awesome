@@ -24,7 +24,7 @@
   - [Accelerated Text](https://github.com/tokenmill/accelerated-text): a natural language generation environment (backend: Clojure, frontend: JS)
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
-  - [mal](https://github.com/kanaka/mal/tree/master/clojure)
+  - [mal](https://github.com/kanaka/mal/tree/master/impls/clojure)
   - [scheje](https://github.com/turbopape/scheje)
   - [eden](https://github.com/benzap/eden)
 
@@ -122,6 +122,7 @@
   * [Datomic](http://www.datomic.com/)
   * [Datahike](https://github.com/replikativ/datahike)
   * [Datascript](https://github.com/tonsky/datascript)
+  * [Datalevin](https://github.com/juji-io/datalevin)
   * [Cassandra](https://github.com/mpenet/alia)
   * [clojure.jdbc](https://github.com/funcool/clojure.jdbc)
   * [cravendb](https://github.com/robashton/cravendb)
@@ -183,6 +184,7 @@
   * [caesium](https://github.com/lvh/caesium) (libsodium bindings)
   * [Friend](https://github.com/cemerick/friend)
   * [bolt](https://github.com/juxt/bolt)
+  * [secrets.clj](https://github.com/lk-geimfari/secrets.clj)
 
 ## RESTful API
 
@@ -369,7 +371,8 @@ anylysis and visualization.*
   * [vim-iced (Vim)](https://github.com/liquidz/vim-iced)
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
   * [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
-  * [Bracket Pair Colorizer (VSCode)](https://github.com/kristoft/awesome-clojure.git)
+  * [Bracket Pair Colorizer (VSCode)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+  * [clojureVSCode (VSCode)](https://github.com/avli/clojureVSCode)
 
 ## Documentation
 
@@ -456,7 +459,7 @@ anylysis and visualization.*
   * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure): Introductions to Functional programming and TDD with Clojure
   * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos): Introduction to Clojure one function at a time
   * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
-  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos): More advanced videos on core.async, tranducers, transients, logic programming and a "Function of the day" series.
+  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos): More advanced videos on core.async, transducers, transients, logic programming and a "Function of the day" series.
 
 ## Websites
 

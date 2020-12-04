@@ -166,7 +166,7 @@ When on a repository page, keyboard shortcuts allow you to navigate easily.
 
  - Pressing `t` will bring up a file explorer.
  - Pressing `w` will bring up the branch selector.
- - Pressing `s` will focus the search field for the current repository. Pressing Backspace to delete the “This repository” pill changes the field to search all of GitHub.
+ - Pressing `s` will focus the search field for the current repository. Pressing ↓ to select the “All GitHub” option changes the field to search all of GitHub.
  - Pressing `l` will edit labels on existing Issues.
  - Pressing `y` **when looking at a file** (e.g., `https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md`) will change your URL to one which, in effect, freezes the page you are looking at. If this code changes, you will still be able to see what you saw at that current time.
 
@@ -570,7 +570,7 @@ If you are a student you will be eligible for the GitHub Student Developer Pack.
 | GitHub Training | https://training.github.com/ |
 | GitHub Developer | https://developer.github.com/ |
 | Github Education (Free Micro Account and other stuff for students) | https://education.github.com/ |
-| GitHub Top 10 Best Practices | [Best Practices List](https://datree.io/blog/top-10-github-best-practices/) |
+| GitHub Best Practices | [Best Practices List](https://www.datree.io/resources/github-best-practices) |
 
 #### GitHub Talks
 | Title | Link |
@@ -592,6 +592,16 @@ https://github.com/{user}.keys
 e.g. [https://github.com/tiimgreen.keys](https://github.com/tiimgreen.keys)
 
 [*Read more about accessing public ssh keys.*](https://changelog.com/github-exposes-public-ssh-keys-for-its-users/)
+
+### Profile Image
+
+You can get a user's profile image by visiting:
+
+```
+https://github.com/{user}.png
+```
+
+e.g. [https://github.com/tiimgreen.png](https://github.com/tiimgreen.png)
 
 ### Repository Templates
 
@@ -962,7 +972,6 @@ $ git config --global color.ui 1
 | Git God | https://github.com/gorosgobe/git-god |
 | Git for Computer Scientists | http://eagain.net/articles/git-for-computer-scientists/ |
 | Git Magic | http://www-cs-students.stanford.edu/~blynn/gitmagic/ |
-| GitHub Training Kit | https://training.github.com/kit/ |
 | Git Visualization Playground | http://onlywei.github.io/explain-git-with-d3/#freeplay |
 | Learn Git Branching | http://pcottle.github.io/learnGitBranching/ |
 | A collection of useful .gitignore templates | https://github.com/github/gitignore |
@@ -992,3 +1001,4 @@ $ git config --global color.ui 1
 | Title | Link |
 | ----- | ---- |
 | GitHub Flow  | http://scottchacon.com/2011/08/31/github-flow.html |
+| Migrating to Git Large File Storate (Git LFS) | http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/ |

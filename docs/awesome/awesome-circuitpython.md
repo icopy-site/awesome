@@ -39,6 +39,8 @@
 - [Wearable Tech Projects by Sophy Wong](https://store.rpipress.cc/collections/books/products/wearable-tech-projects-2019) - Contains many wearable projects using CircuitPython.
 - [CircuitPython for beginners with Adafruit Circuit Playground Express & Mu](https://twitter.com/AoyamaProd) - Japanese.
 - [Learning IoT with Python and Raspberry Pi by E.I. Horvath, E.A. Horvath](https://www.barnesandnoble.com/w/learning-iot-with-python-and-raspberry-pi-ei-horvath/1133345171?ean=9780578549361)
+- [Make Music with the Circuit Playground Express by Rick Leander](https://www.amazon.com/author/rleander) - Twelve projects that make music, sound and noise with Circuit Python.
+- [Ten Games for  the Circuit Playground Express by Rick Leander](https://www.amazon.com/author/rleander) - Ten classic games adapted for Circuit Python.
 
 ## Code
 
@@ -184,6 +186,7 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 
 ## Swag
 
+- [CircuitPython 6 release poster](https://www.adafruit.com/product/4713) - CircuitPython release version 6 poster.
 - [CircuitPython 5 release poster](https://www.adafruit.com/product/4365) - CircuitPython release version 5 poster.
 - [CircuitPython 4 release poster](https://www.adafruit.com/product/4082) - CircuitPython release version 4 poster featuring Nordic.
 - [CircuitPython 3 release poster](https://www.adafruit.com/product/3793) - CircuitPython release version 3 poster.
@@ -221,7 +224,7 @@ The workflow is explained in detail here: [Adafruit : Contribute to CircuitPytho
 1. Clone the forked repo to your drive.
 1. Add a remote using owner adafruit and the original URL.
 1. Fetch the remote
-1. Merge adafruit master
+1. Merge adafruit master (or main)
 1. Create a branch
 1. Make a change
 1. Commit and push to your repo

@@ -31,7 +31,6 @@
 * [Build an API with Lumen and Fractal](http://laravelista.com/build-an-api-with-lumen-and-fractal/)
 * [Developing a microservice with Lumen](http://goodheads.io/2015/06/19/developing-a-micro-service-with-lumen/)
 * [Json Web token authentication for Lumen](https://laravelista.com/posts/json-web-token-authentication-for-lumen)
-* [How to use Lumen](http://codelution.com/resource/framework/how-to-use-lumen-by-laravel/)
 * [Creating Your First Artisan Command in Lumen 5.5](https://www.codementor.io/seyiadeleke42/creating-your-first-artisan-command-in-lumen-5-5-cvi59gmgl)
 
 ### Videos

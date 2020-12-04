@@ -10,12 +10,18 @@ A curated list of awesome niche job boards.
 
 * [DataJobs.com](https://datajobs.com/)
 * [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
+* [Data Yoshi](https://www.datayoshi.com/) - Jobs in Data Science, Analytics, AI and Machine Learning
 
 ## Blockchain
 
 * [Blocktribe](https://blocktribe.com/) - A job board for people working in "blockchain, DLT, Ethereum, Hyperledger, R3, crypto currency and related distributed technologies".
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
 * [Crypto Job](https://crypto-job.com/) - Crypto Job is the place where talent meets opportunity. Our goal is to connect passionate blockchain and cryptocurrency developers with companies that value their talent and expertise.
+* [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
+
+## Cloud
+
+* [CNCF Job Board](https://jobs.cncf.io/) - Kubernetes and cloud native jobs
 
 ## Customer Support
 
@@ -24,10 +30,10 @@ A curated list of awesome niche job boards.
 ## Design
 
 * [AIGA](https://designjobs.aiga.org/)
-* [Authentic Jobs](https://www.authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
+* [Authentic Jobs](https://authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
 * [Behance](https://www.behance.net/joblist)
 * [Coroflot](https://www.coroflot.com/design-jobs)
-* [IXDA](http://ixda.org/jobs/)
+* [IXDA](https://ixda.org/jobs/)
 * [Jobs for Designers](https://dribbble.com/jobs)
 * [Krop](https://www.krop.com/creative-jobs/)
 * [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
@@ -37,9 +43,13 @@ A curated list of awesome niche job boards.
 
 * [Jobs For DevOps](https://jobsfordevops.com)
 
+## Gaming
+
+* [Work With Indies](https://www.workwithindies.com) - A single place find all the cool jobs in indie games
+
 ## Growth Hacking
 
-* [GrowthHackers](https://growthhackers.com/jobs)
+* [GrowthHackers](https://jobs.growthhackers.com/)
 
 ## InfoSec
 
@@ -52,17 +62,13 @@ A curated list of awesome niche job boards.
 
 * [Elixir Jobs](https://elixir.career/)
 
-### Front-End
-
-* [Front-End Developer Jobs](http://frontenddeveloperjob.com/)
-
 ### Full-Stack
 
 * [Full-Stack Developer Jobs](https://fullstackjob.com/) - Job board for Full-Stack Developers
 
 ### Functional
 
-* [Functional Jobs](https://functionaljobs.com/) - Job board for functional programmers
+* [Functional Jobs](https://www.functionaljobs.com/) - Job board for functional programmers
 
 ### Go
 
@@ -76,9 +82,9 @@ A curated list of awesome niche job boards.
 * [Angular Jobs](https://angularjobs.com/)
 * [Angular Work](https://angular.work/)
 * [Ember Job Board](https://jobs.emberjs.com/)
+* [Jobs In JS](https://jobsinjs.com/)
 * [JavaScript Developer Board](https://javascriptjob.xyz/)
 * [Vue.js Jobs](https://vuejobs.com/)
-* [We Love Angular](https://www.weloveangular.com/)
 * [We Work Meteor](https://www.weworkmeteor.com/)
 * [Svelte Jobs](https://sveltejobs.dev/)
 
@@ -115,6 +121,8 @@ A curated list of awesome niche job boards.
 
 * [We Work Remotely](https://weworkremotely.com/)
 * [DailyRemote](https://dailyremote.com/)
+* [Werkington](https://www.werkington.com/)
+* [EqualOpportunity.Work](https://equalopportunity.work/)
 
 ### Aggregator
 
@@ -124,6 +132,7 @@ A curated list of awesome niche job boards.
 
 ## Startups
 
+* [BerlinStartupJobs](https://berlinstartupjobs.com/) - The hottest jobs at Berlin's finest startups and scaleups since 2011
 * [Startup Jobs](https://startup.jobs/)
 
 ## Tech
@@ -131,11 +140,12 @@ A curated list of awesome niche job boards.
 * [wateringcan.work](https://www.wateringcan.work) - Christian Tech Jobs
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
+* [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 
 ### Australia
 
-* [Breakout Careers](https://breakout.careers/) - Australia's best tech and startup job board
-* [austechjobs.com.au](https://austechjobs.com.au/) - Premium Australian Tech Job Board
+* [Breakout Careers](https://breakout.careers/jobs/) - Australia's best tech and startup job board
+* [Headhunted](https://www.headhunted.com.au/jobs/) - Find your next IT Job in Australia
 
 ### Canada
 
@@ -143,12 +153,10 @@ A curated list of awesome niche job boards.
 
 ### Europe
 
+* [GermanTech Jobs](https://germantechjobs.de/) - Dedicated Tech Job Board for Germany
 * [SwissDev Jobs](https://swissdevjobs.ch/) - Jobs for Software Developers from the EU that want to work in Switzerland
+* [WeJob.ch](https://WeJob.ch/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - Developers and IT Jobs in Switzerland 🇨🇭
 
 ### United Kingdom
 
 * [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking and real-time job vacancy statistics.
-
-### United States
-
-* [DallasJobs](https://www.dallasjobs.io/) - The best tech jobs in Dallas / Fort Worth

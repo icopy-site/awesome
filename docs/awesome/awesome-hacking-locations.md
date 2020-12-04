@@ -7,8 +7,6 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 
 ## Index
 
-  - [England] (#england)
-    - [London] (#london)
 
 ## Contribute 🌟
 
@@ -40,7 +38,7 @@ Hackerspaces are great places to hack, and in fact they are so great that they h
 
 ## CoWorking
 
-CoWorking offices are awesome, but typically require a long term commitement, if you are looking for something more stable for a long term stay, look at http://coworkingmap.org/
+CoWorking offices are awesome, but typically require a long term commitment, if you are looking for something more stable for a long term stay, look at http://coworkingmap.org/
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -51,7 +49,7 @@ CoWorking offices are awesome, but typically require a long term commitement, if
 
 #### MetaLab
 
-> Coffe, Club Mate
+> Coffee, Club Mate
 > All kind of activities and talks
 
 Webpage: https://metalab.at
@@ -86,7 +84,7 @@ Wifi | Power | Address | Open Hours
 Webpage: https://hsbxl.be/
 
 Wifi | Power  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
+---- | ----- | -------- | ------
 ✔ | ✔ | [Rue des Goujons 152, 1070 Brussels](https://goo.gl/maps/7UqJcxPrsar) | Tue 19:00-00:00
 
 ---------------------------------------------------------------
@@ -126,7 +124,7 @@ Wifi | Power | Address | Open Hours
 
 #### SoHo
 
-> Co-working space, friendly hosts, artistic setting; has coffee, kitchen, bar and a garden. Entrance fee : 8 EUR to rent a desk
+> Co-working space, friendly hosts, artistic setting; has coffee, kitchen, bar and a garden. Entrance fee: 8 EUR to rent a desk
 
 Webpage: http://soho.bg/
 
@@ -186,11 +184,21 @@ Wifi| Power | Address  | Open Hours
 
 ## Copenhagen
 
+#### The Black Diamond
+
+> The Royal Danish Library / the Black Diamond
+
+Webpage: http://www5.kb.dk/en/dia/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔    | ✔     | [Søren Kierkegaards Plads 1, Copenhagen](https://goo.gl/maps/FYgBmyrYyEc7h9zR7) | Mon-Fri 8:00-20:00, Sat 9:00-18:00
+
 #### Copenhagen Coffee Lab
 
 > Roasts and sells their own coffee
 
-Webpage: http://copenhagencoffeelab.com/kaffebaren/
+Webpage: http://copenhagencoffeelab.com/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
@@ -200,7 +208,7 @@ Wifi | Power | Address | Open Hours
 
 > Coffee connoisseurs: Roasts and sells their own coffee + won several coffee championships (bad cellphone coverage)
 
-Webpage: http://coffeecollective.dk/bars/
+Webpage: http://coffeecollective.dk/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
@@ -208,7 +216,7 @@ Wifi | Power | Address | Open Hours
 
 #### Emmerys (Store Kongensgade)
 
-Webpage: http://www.emmerys.dk/cafebutik.html
+Webpage: http://www.emmerys.dk/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
@@ -216,7 +224,7 @@ Wifi | Power | Address | Open Hours
 
 #### Emmerys (Store Strandstræde)
 
-Webpage: http://www.emmerys.dk/cafebutik.html
+Webpage: http://www.emmerys.dk/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
@@ -252,15 +260,6 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Ravnsborggade 10B, 2200 København](https://goo.gl/maps/9x8KcbPzN7B2) | Mon 9:30—23:00, Tue-Wed 9:30—24:00, Thu 9:30—2:00, Fri 9:30—3:00, Sat 10:00—3:00, Sun 10:00—21:30
 
-#### Cafe Nutid
-
-> It's a café ran by volunteers - all staff is young guys and girls, mostly students, super smiley and friendly. A lot of ppl go there to study usually. If you go to the basement, there are long, narrow tables where you can sit with your hack-buddies next to each other. Also some very comfy couches.
-
-Webpage: http://cafenutid.dk
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Sankt Peders Stræde 1, 1453 København](https://goo.gl/maps/iR2ffyCTRzw) | Mon (open sometimes only), Tue-Fri 9:00—20:00, Sat 13:00—22:00, Sun 13:00—18:00
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
@@ -272,7 +271,7 @@ Wifi | Power | Address | Open Hours
 
 - Chaostreff weekly on Thursdays @ 18:00
 - The only hackerspace with a server room (according to [hackerspaces.org](https://wiki.hackerspaces.org/K-space.ee))
-- Various equipment to print, engrave and cut (everything but yourslef)
+- Various equipment to print, engrave and cut (everything but yourself)
 - Bees, honey
 - Quiet office, if you don't have time for fun
 
@@ -579,7 +578,7 @@ Wifi | Power | Address | Open Hours
 
 > A cafe connected to a bookshop. Very tolerant of hacker types who never leave. Wifi is about 8mbit, and fairly stable. Most speak enough English you can order a coffee, and the coffee is good. Cow milk only.
 
-Webpage: https://www.vaga.lt/draugyste-knygynas-gedimino-pr-2-vilnius-/knygynas
+Webpage: https://vaga.lt/knygynas/draugyste-knygynas-gedimino-pr-2-vilnius
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
@@ -604,7 +603,7 @@ Wifi | Power | Address | Open Hours
 
 #### YsBreeker
 
-> Big beautiful and friendly cafe. Incredibly fast wifi and tons of seating. Very good food and high quality coffee drinks.
+> Big beautiful and friendly cafe. Incredibly fast wifi and tons of seating. Very good food and high-quality coffee drinks.
 
 Webpage: http://www.deysbreeker.nl/
 
@@ -725,7 +724,7 @@ Wifi | Power | Address | Open Hours
 
 #### Blossom
 
-> Great coffee and food in reasonable price.
+> Great coffee and food at reasonable prices.
 
 Webpage: https://www.facebook.com/BlossomCoffeeAndFood/
 
@@ -806,7 +805,7 @@ Wifi | Power | Address | Open Hours
 
 #### NATA Lisboa
 
-> Small modern place in the  city "centre". Calm, clean , a good variety of tapas to eat. Speciality natas.
+> Small modern place in the  city "centre". Calm, clean, a good variety of tapas to eat. Speciality natas.
 
 Webpage: [natalisboa.com](https://natalisboa.com)
 
@@ -855,7 +854,7 @@ Wifi | Power | Address | Open Hours
 
 #### Centro Comercial Nova Arcada
 
-> Shopping mall just outside Braga, surprinsigly very quiet during the week and many people go there to study/work. There is free WiFi provided by the mall, you just need to re-login every 45 or so minutes (I hacked away [this script](https://gist.github.com/ntfc/cd37a3b822183b1741f132247197a1eb) to automate the process, seemed to work for a whole afternoon). There are power plugs available, restaurantes and cafes are on the same floor and free bus from/to city center during the week.
+> Shopping mall just outside Braga, surprisingly very quiet during the week and many people go there to study/work. There is free WiFi provided by the mall, you just need to re-login every 45 or so minutes (I hacked away [this script](https://gist.github.com/ntfc/cd37a3b822183b1741f132247197a1eb) to automate the process, seemed to work for a whole afternoon). There are power plugs available, restaurants and cafes are on the same floor and free bus from/to city center during the week.
 
 Webpage: http://www.novaarcada.pt/
 
@@ -1051,7 +1050,7 @@ Wifi | Power | Address | Open Hours
 
 #### Bop
 
-> Hipster vibes with massive record collection, coffee, beer, and tasty bagels.
+> Hipster vibes with large record collection, coffee, beer, and tasty bagels.
 
 Webpage: https://www.bop.pt
 
@@ -1062,7 +1061,7 @@ Wifi | Power | Address | Open Hours
 ![](http://www.speedtest.net/result/5468130872.png)
 
 #### Costa COFFEE
-> Influencer vibes, great coffee, english fiendly, accepts AliPay and has nice croissants.
+> Influencer vibes, great coffee, English-speaking, accepts AliPay and has nice croissants.
 
 Webpage: https://https://www.costa.co.uk/
 
@@ -1292,7 +1291,7 @@ Wifi | Power | Address | Open Hours
 
 #### 26Grados
 
-> Super central, powerfull wifi and awestome biscuits.
+> Super central, powerful wifi and awesome biscuits.
 
 Webpage: http://www.26grados.com/
 
@@ -1508,7 +1507,7 @@ Wifi | Power | Address | Open Hours
 
 #### HanaHaus
 
-> Historic Varsity Theatre location with free and reservable seats, well tuned wifi, and Blue Bottle Coffee.
+> Historic Varsity Theatre location with free and reservable seats, well-tuned wifi, and Blue Bottle Coffee.
 
 Webpage: http://hanahaus.com/
 
@@ -1532,7 +1531,7 @@ Wifi | Power | Coffee | Address | Open Hours
 
 #### Coffee Bar
 
-> Big and spacious space with many seats, lots of plugs, not that great WiFi. During summer it may get quiet hot as no AC/good air flow.
+> Big and spacious space with many seats, lots of plugs, not that great WiFi. During summer it may get quite hot as no AC/good airflow.
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
@@ -1587,7 +1586,7 @@ Wifi | Power | Coffee | Address | Open Hours
 
 #### Dolce Casa
 
-> A coffee shop, a european-style café, and a neighborhood gathering spot all in one.
+> A coffee shop, a European-style café, and a neighborhood gathering spot all in one.
 
 Webpage: http://dolcecasacafe.com/
 
@@ -1721,7 +1720,7 @@ open | ✔ | ✔ | [3262 Minnehaha Ave, Minneapolis, MN 55406](https://goo.gl/ma
 
 #### Yoghut
 
-> Great coffee, acai bowls and bubble tea. Never crowded or noisy either so its good if you enjoy peace and quite for hacking.
+> Great coffee, acai bowls and bubble tea. Never crowded or noisy either so its good if you enjoy peace and quiet for hacking.
 
 Webpage: https://yoghut.com/
 
@@ -1749,7 +1748,7 @@ Wifi | Power | Climatization  | Address | Open Hours
 
 #### Amazon AWS Loft
 
-> Free loft in soho sponsered by Amazon web services with free food, wifi, coffee and beer.
+> Free loft in soho sponsored by Amazon web services with free food, wifi, coffee and beer.
 
 Webpage: https://aws.amazon.com/start-ups/loft/ny-loft/
 

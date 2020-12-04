@@ -12,7 +12,7 @@
 
 This is a collection of **awesome resources** about [Prisma](https://www.prisma.io/ 'Modern Database Access for TypeScript & Node.js') :heart_eyes:
 
-**Prisma is an open-source database toolkit**. It replaces traditional ORMs and makes database access easy with an auto-generated query builder for TypeScript & Node.js.
+**Prisma is an open-source ORM**. It makes database access easy with type safety and an auto-generated query builder for TypeScript & Node.js.
 
 ## :books: Docs
 
@@ -56,7 +56,9 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [An Introduction to Prisma 2](https://blog.logrocket.com/an-introduction-to-prisma-2/)
 - [Static Sites with Next.js 9.3 and Prisma](https://leerob.io/blog/next-prisma)
 - [Using Prisma with GraphQL Codegen](https://medium.com/tomorrowapp/using-prisma-with-graphql-codegen-eed022c13749)
+- [Using Prisma in Azure Functions](https://swacblooms.com/using-prisma-in-azure-functions/)
 - [Building a sane Docker image for Typescript, Yarn Workspaces and Prisma 2](https://medium.com/@emilefugulin/building-a-sane-docker-image-for-typescript-lerna-and-prisma-2-76d8ff9926e4)
+- [Building a Backend for React with Next.js, Prisma 2, and PostgreSQL](https://www.youtube.com/watch?v=Bqacj0iOL68)
 
 ### Tutorials with [Nexus](https://www.nexusjs.org/#/)
 - [Complete Introduction to Fullstack, Type-Safe GraphQL (feat. Next.js, Nexus, Prisma)](https://dev.to/prisma/complete-introduction-to-fullstack-type-safe-graphql-feat-next-js-nexus-prisma-c5)

@@ -45,6 +45,7 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 - [How to write decentralized oracles in Ride](https://medium.com/wavesprotocol/how-to-write-decentralized-oracles-in-ride-f2c096812b18) - How can we resolve the issue of supplying real-world data to the blockchain? Introducing Oraculus - a smart contract for creating decentralized oracles ([ru](https://vk.com/@wavesprotocol-kak-napisat-decentralizovannyi-orakul-na-ride)).
 - [Billy — motivation bot for Slack and Microsoft Teams](https://medium.com/@ikardanov/billy-motivation-and-recognition-bot-for-slack-and-microsoft-teams-d05167e4a7f9) - A tool built on the Waves blockchain to reward team members in a non-financial way ([ru](https://vc.ru/tribuna/128472-billy-bot-dlya-motivacii-personala)).
 - [How to build a dApp for team motivation](https://medium.com/wavesprotocol/how-to-build-a-dapp-for-team-motivation-8943504e3feb) - Billy is DApp in the form of a bot that allows for an incentive and reward system aiming to motivate employees through Slack, a business communication platform ([ru](https://vk.com/@wavesprotocol-kak-sozdat-dapp-dlya-motivacii-sotrudnikov)).
+- [How to add crypto payments to your online store?](https://medium.com/wavesprotocol/how-to-add-crypto-payments-to-your-online-store-b528b739cdfb) - How to add crypto payment options to your online store with the help of Pay Crypto Widget developed in the Waves ecosystem.
 
 ## Products
 
@@ -66,6 +67,7 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 
 - [WavesLabs](https://waveslabs.com/) - An initiative to support talented developers and promising startups focused on building the decentralised technologies that will form the backbone to Web 3.0.
 - [Node](https://github.com/wavesplatform/Waves) - Waves Node repository on GitHub.
+- [GRPC Server](https://grpc.wavesnodes.com:6870) - Public GRPC interface for Mainnet.
 - [Go Node](https://github.com/wavesplatform/gowaves) - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
 - [Waves Data Service](https://api.wavesplatform.com/v0/docs/#/) - Official data service. Simple and convenient way to get data from Waves blockchain.
 - [Waves Oracles](https://oracles.wavesexplorer.com/) - Catalog of Oracles.
@@ -89,7 +91,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 - [Explorer](https://wavesexplorer.com/stagenet) - Official explorer. It has a [faucet](https://wavesexplorer.com/stagenet/faucet) for getting a few free Waves tokens.
 - [Node API](https://nodes-stagenet.wavesnodes.com/) - Swagger REST API of Waves Node.
-- [IDE](https://ide-stagenet.wavesplatform.com) - Online IDE to create Ride smart contracts on Stagenet.
+- [IDE](https://stagenet.waves-ide.com) - Online IDE to create Ride smart contracts on Stagenet.
 
 ### Docker images
 
@@ -102,7 +104,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 ### The Ride programming language
 
-- [Waves IDE](https://ide.wavesplatform.com/) - Online IDE to create smart contracts on Ride.
+- [Waves IDE](https://waves-ide.com/) - Online IDE to create smart contracts on Ride.
 - [ride-examples](https://github.com/wavesplatform/ride-examples) - Examples of scripts for accounts and assets using Ride.
 - [waves-ride](https://marketplace.visualstudio.com/items?itemName=wavesplatform.waves-ride) - Visual Studio Code extension to support Ride.
 - [vim-ride](https://github.com/rosmanov/vim-ride) - Vim plugin for Ride syntax highlighting.
@@ -137,6 +139,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 - [Waves-Gateway-Framework](https://github.com/jansenmarc/WavesGatewayFramework) - A framework to connect other cryptocurrencies to the Waves blockchain ([LTC example](https://github.com/jansenmarc/WavesGatewayLTCExample)).
 #### Rust
 - [WavesRS](https://github.com/petermz/WavesRs) - A Rust interface for the Waves blockchain.
+- [waves-lib-rust](https://github.com/waves-rust/waves-lib-rust) - Library to work with Waves blockchain.
 #### Swift
 - [WavesSDK-iOS](https://github.com/wavesplatform/WavesSDK-iOS) - SDK for Mobile Apps on iOS.
 
@@ -224,6 +227,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 - [Telegram - WavesBrasil](https://t.me/WavesBrasil) - Chat de Telegram para a Comunidade da Waves.
 - [Telegram - Waves Dev Jedi 🇧🇷 🇵🇹](https://t.me/joinchat/DtIEA0mI2HvmVbyBBodOew) - Chat de Telegram para desenvolvedores dApps.
+- [Telegram - Waves Portugal](https://t.me/WavesPortugal) - Chat da Comunidade Portuguesa da Waves.
 
 ### Russian
 

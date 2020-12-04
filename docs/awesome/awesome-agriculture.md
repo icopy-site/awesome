@@ -12,13 +12,13 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Calculators
 
-- [farm-calculators](https://github.com/beaorn/farm-calculators) - WordPress plugin for calculating various farming and crop related information.
+- [farm-calculators](https://github.com/brycejohnston/farm-calculators) - WordPress plugin for calculating various farming and crop related information.
 
 ## Climate, Environment and Weather
 
-- [agroclimatology](https://github.com/beaorn/agroclimatology) - Ruby client for interacting with the NASA (POWER) Agroclimatology Web Resource.
+- [agroclimatology](https://github.com/brycejohnston/agroclimatology) - Ruby client for interacting with the NASA (POWER) Agroclimatology Web Resource.
 - [bomrang](https://github.com/ropensci/bomrang) - Australian Government Bureau of Meteorology Data from R.
-- [evapotranspiration](https://github.com/beaorn/evapotranspiration) - Ruby library for calculating reference crop evapotranspiration (ETo).
+- [evapotranspiration](https://github.com/brycejohnston/evapotranspiration) - Ruby library for calculating reference crop evapotranspiration (ETo).
 - [frostline](https://github.com/waldoj/frostline) - A dataset, API, and python parser for USDA plant hardiness zones.
 - [GSODR](https://github.com/ropensci/GSODR) - Global summary daily weather data in R.
 - [iem](https://github.com/akrherz/iem) - Code that makes the Iowa Environmental Mesonet run.
@@ -42,7 +42,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 - [AgGateway’s ADAPT Toolkit](https://adaptframework.org) - Open Source project providing tools to simplify communication between growers, their machines, and their partners.
 - [agworld_api_client](https://github.com/agworld/agworld_api_client) - Example Agworld API Ruby client library that is compliant with specification defined by jsonapi.org.
-- [agx-ruby](https://github.com/beaorn/agx-ruby) - Ruby client for Proagrica's agX platform APIs.
+- [agx-ruby](https://github.com/brycejohnston/agx-ruby) - Ruby client for Proagrica's agX platform APIs.
 - [API-Code-Samples](https://github.com/aWhereAPI/API-Code-Samples) - Contains aWhere's API platform code samples.
 - [ClearAg-API-Examples](https://github.com/IterisClearAg/ClearAg-API-Examples) - A collection of code examples using the ClearAg APIs.
 - [Open Ag Data Alliance](https://github.com/oada) - OADA is an open project designed to bring interoperability, security, and privacy to agricultural data.
@@ -83,8 +83,10 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [AgOpenGPS](https://github.com/farmerbriantee/AgOpenGPS) - Ag precision mapping and section control software.
 - [DRO-Matic](https://github.com/drolsen/DRO-Matic) - Fully Automated Hydroponic OS for DIY DRO-Matic cabinets - Nutrient dosing, irrigation, topoffs, timers, EC & pH drift fixing.
 - [FarmBot](https://github.com/farmbot) -  Open source precision agriculture CNC farming project.
+- [Farm Hack](https://farmhack.org/tools) - Worldwide community of farmers that build and modify our own tools.
 - [Open Agriculture Foundation](https://github.com/OpenAgricultureFoundation) -  Open Source ecosystem of technologies that enable and promote transparency, networked experimentation, education, and hyper-local production.
 - [OpenMinder](https://github.com/autogrow/openminder) - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.
+- [ROS Agriculture](http://rosagriculture.org/) - Open Source community focusing on using Robot Operating System to empower farmers with robotics tools. 
 
 ## Knowledgebases and Learning Resources
 
@@ -96,9 +98,10 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
 - [Raster Vision](https://github.com/azavea/raster-vision) - Deep learning for aerial/satellite imagery.
 - [Sen2Agri](https://github.com/Sen2Agri/Sen2Agri-System) - Software system processing high resolution satellite images for agricultural purposes.
+- [Awesome Vegetation Index](https://github.com/px39n/Awesome-Vegetation-Index) - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Bryce Johnston](https://github.com/beaorn) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Bryce Johnston](https://github.com/brycejohnston) has waived all copyright and related or neighboring rights to this work.

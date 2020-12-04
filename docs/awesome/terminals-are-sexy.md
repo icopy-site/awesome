@@ -182,7 +182,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 *Sexy Applications for your Command Line Interface.*
 
-* [ack2](https://github.com/beyondgrep/ack2) - Greplike tool, optimized for programmers.
+* [ack3](https://github.com/beyondgrep/ack3) - Greplike tool, optimized for programmers.
 * [add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI that generates a .gitignore for your project based on your needs.
 * [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
 * [autojump](https://github.com/wting/autojump) - cd command that learns
@@ -247,6 +247,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
 * [z](https://github.com/rupa/z) - Tool to jump to folders based on history matching a given regex
 * [z.lua](https://github.com/skywind3000/z.lua) - New cd command that helps you navigate faster by learning your habits.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) - cd anywhere without typing in long paths.
 
 
 ## Communication

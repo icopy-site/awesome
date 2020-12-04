@@ -70,6 +70,7 @@ Different environments (platforms, browsers, versions) have different capabiliti
 * [Is PWA ready?](https://ispwaready.toxicjohann.com/) - Overview of support for the core and related technologies behind Progressive Web Apps for both popular global and many Chinese browsers.
 * [Is WebRTC ready yet?](http://iswebrtcreadyyet.com/) - Overview of support for the different browser features behind real time communication.
 * [Is WebVR ready?](https://iswebvrready.org/) - Overview of support of different browser features behind WebVR including display, gamepad, audio and speech APIs.
+* [Is Houdini ready yet?](https://ishoudinireadyyet.com/) - Overview of support for Houdini (low-level APIs exposing parts of the CSS rendering engine) across browsers.
 * [Chrome Platform Status](https://www.chromestatus.com/features)
 * [Edge Platform Status](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/)
 * [Firefox Platform Status](https://platform-status.mozilla.org/)

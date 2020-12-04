@@ -6,7 +6,7 @@
   <a href="https://awesome.re">
 	  <img src="https://awesome.re/badge-flat.svg" alt="Awesome">
   </a>
-    <p><a href="https://ponyfill.com">Ponyfills</a> are like polyfills but without overriding native APIs. Polyfills patch a piece of functionality so that older environemts can support newer features whilst Ponyfills, on the other hand, provide functionality as standalone modules.</p>
+    <p><a href="https://ponyfill.com">Ponyfills</a> are like polyfills but without overriding native APIs. Polyfills patch a piece of functionality so that older environments can support newer features whilst Ponyfills, on the other hand, provide functionality as standalone modules.</p>
 </div>
 
 
@@ -80,6 +80,8 @@
 - [resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) - [`ResizeObserver`](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)
 - [webcrypto-shim](https://github.com/vibornoff/webcrypto-shim) - [`crypto`](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
 - [css-vars-ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill/) - [CSS variables/custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+- [raf](https://github.com/chrisdickinson/raf) - [`requestAnimationFrame`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
+- [xhr2](https://github.com/pwnall/node-xhr2) - [`XMLHttpRequest`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 
 ## Node.js Features
 

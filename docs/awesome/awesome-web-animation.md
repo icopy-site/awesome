@@ -59,6 +59,8 @@ This list contains the most useful tools and data for creating web animations.
 - [Ocanvas](https://github.com/koggdal/ocanvas) - JavaScript library for object-based canvas drawing.
 - [Curtainsjs](https://github.com/martinlaxenaire/curtainsjs) - Lightweight vanilla WebGL JavaScript library that turns HTML DOM elements into interactive textured planes.
 - [Hover-effect](https://github.com/robin-dela/hover-effect) - JavaScript library to draw and animate images on hover.
+- [Pts.js](https://github.com/williamngan/pts) - Pts is a typescript/javascript library for visualization and creative-coding.
+- [tsParticles](https://github.com/matteobruni/tsparticles/) - tsParticles is a lightweight typescript/javascript library for creating easily particles animations.
 
 ## Animate on scroll
 
@@ -82,6 +84,7 @@ This list contains the most useful tools and data for creating web animations.
 
 - [Motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React.
 - [SVGR](https://github.com/gregberge/svgr) - Transform SVGs into React components.
+- [React tsParticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - ReactJS wrapper for *tsParticles*
 
 
 ## GUI tools
@@ -147,7 +150,11 @@ This book will help you create practical / usable / wickedly-cool animations in 
 
 <img src="https://raw.githubusercontent.com/sergey-pimenov/awesome-web-animation/master/data/covers/RmphScK8u-gC.jpg" width="200"/>
 
-Foundation HTML5 Animation with JavaScript covers everything that you need to know to create dynamic scripted animation using the HTML5 canvas. It provides information on all the relevant math you'll need, before moving on to physics concepts like acceleration, velocity, easing, springs, collision detection, conservation of momentum, 3D, and forward and inverse kinematics. Foundation HTML5 Animation with JavaScript is a fantastic resource for all web developers working in HTML5 or switching over from Flash to create standards-compliant games, applications, and animations that will work across all modern browsers and most mobile devices, including iPhones, iPads, and Android devices. -->
+Foundation HTML5 Animation with JavaScript covers everything that you need to know to create dynamic scripted animation using the HTML5 canvas. It provides information on all the relevant math you'll need, before moving on to physics concepts like acceleration, velocity, easing, springs, collision detection, conservation of momentum, 3D, and forward and inverse kinematics. Foundation HTML5 Animation with JavaScript is a fantastic resource for all web developers working in HTML5 or switching over from Flash to create standards-compliant games, applications, and animations that will work across all modern browsers and most mobile devices, including iPhones, iPads, and Android devices.
+
+## Videos
+
+- [Yuri Artyukh youtube channel](https://www.youtube.com/user/flintyara) - This man creates amazing web animations using various technologies for this, and recording it all in steam format.
 
 <h3 align="center">✨<a href="https://awesome-web-animation.netlify.com"> See also web page version of this list </a>✨</h3>
 

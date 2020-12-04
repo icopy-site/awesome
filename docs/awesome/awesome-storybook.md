@@ -29,6 +29,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Brand's materials](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook.
 - [Design system](https://storybooks-official.netlify.com) - Storybook's website design system.
 - [Storybook Deployer](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
+- [Documentation Primitives](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
 
 ## Tutorials
 
@@ -36,6 +37,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Practical Guide to Storybook-Driven Development](https://dzone.com/articles/practical-guide-to-storybook-driven-development) - A tutorial on how to use the Storybook tool as a means of templating and driving forward your development efforts.
 - [Adding Storybook Style Guide to a Create React App](https://www.youtube.com/watch?v=va-JzrmaiUM) - A tutorial on how to add Storybook in an application generated with Create React App.
 - [Build your components with Storybook](https://www.youtube.com/watch?v=_jttw14T52o) - A tutorial on how to create your components and exposing them in a Storybook.
+- [Storybook React with Full Dark Mode Integration](https://davidyeiser.com/tutorials/storybook-react-with-dark-mode) - A tutorial on how to integrate Storybook’s dark mode toggle with your React components.
 
 ## Presentations
 
@@ -53,7 +55,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Storybook 5.0](https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8) - A features' showcase about the biggest release to date.
 - [Real-time accessibility testing with Storybook](https://medium.com/storybookjs/instant-accessibility-qa-linting-in-storybook-4a474b0f5347) - A comprehensive overview of the accessibility testing tools offered in Storybook.
 - [Using Storybook with VueJS](https://auth0.com/blog/using-storybook-with-vuejs/) - Learn how to build a component library with Vue and Storybook to create modular and reusable components.
-- [Setting up Storybook for Preact](https://www.iamdeveloper.com/blog/2018-09-02-setting-up-storybook-for-preact/) - A handy guide allowing us to add storybook easily on a Preact project.
+- [Setting up Storybook for Preact](https://www.iamdeveloper.com/posts/setting-up-storybook-for-preact-p5a/) - A handy guide allowing us to add storybook easily on a Preact project.
 - [Setting up a Component Library with React and Storybook](https://auth0.com/blog/setting-up-a-component-library-with-react-and-storybook/) - Learn how to set up a component library with React and Storybook to create modular and reusable components that can be shared across projects.
 - [Storybook - UI component development tool for React, Vue, and Angular (Article focusing on React)](https://dev.to/madhusudhansrinivas/storybook---ui-component-development-tool-for-react-vue-and-angular-article-focusing-on-react-29od) - A brief presentation of Storybook and how to setup on a React application.
 - [Storybook vs Styleguidist](https://blog.hichroma.com/storybook-vs-styleguidist-2bd93d6dcc06) - A comparison of the top UI component explorers.
@@ -71,7 +73,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Addons
 
-The official & community addons lists are available in the Storybook's [Addon Gallery](https://storybook.js.org/docs/addons/addon-gallery/).
+The official & community addons lists are available on the Storybook's [Addon Page](https://storybook.js.org/addons/).
 
 ## Contributing
 

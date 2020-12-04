@@ -24,12 +24,12 @@ A list of tools for research. Also available on http://tools.kausalflow.com/tool
 
 #### Online Git Service
 
-* [GitHub](https://github.com/): the most popular platform for git with social and collaborations built in.
+* [GitHub](https://github.com/): the most popular platform for git with social and collaborations built-in.
   * GitHub also provides GitHub Actions. With Actions one could automate processes.
   * GitHub provides GitHub Pages. With GitHub Pages, on could host static files as well as [Jekyll](https://jekyllrb.com) built websites.
-* [GitLab](https://about.gitlab.com/): similar to GitHub, gitlab provides git hosting, collaborations, social, automations, and more. GitLab can be both cloud-based and self-hosted using its opensource code.
+* [GitLab](https://about.gitlab.com/): similar to GitHub, GitLab provides git hosting, collaborations, social, automations, and more. GitLab can be both cloud-based and self-hosted using its open-source code.
   * GitLab includes unlimited free private repositories.
-  * GitLab comes with a continuous integration tool which is more powerful than GitHub Actions.
+  * GitLab comes with a continuous integration tool that is more powerful than GitHub Actions.
 * [BitBucket](https://bitbucket.org): Alternative to GitHub and GitLab with free private repositories.
 
 
@@ -78,7 +78,7 @@ A list of tools for research. Also available on http://tools.kausalflow.com/tool
 > There are many tools that allows use of code, perform numerical calculations or analytical derivation online.
 
 * [Google Colab](https://colab.research.google.com/): free jupyter notebook online. Google Colab also comes with free GPU hours.
-  * Free and powerfull.
+  * Free and powerful.
   * Share and collaborate on the same notebook.
   * Can be saved in GitHub or Google Drive.
 * [NextJournal](https://nextjournal.com/): the notebook for reproducible research.
@@ -95,7 +95,7 @@ A list of tools for research. Also available on http://tools.kausalflow.com/tool
 
 
 
-### Ploting and Charting Online
+### Plotting and Charting Online
 
 > While one could use these online jupyter notebooks mentioned above to make plots, there are many easy to use too that could be used for simple plotting.
 
@@ -659,6 +659,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [LaTeXDraw](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
 * [TikZ](http://www.texample.net/tikz/)(`LaTeX`)
 * [BoxPlotR](http://shiny.chemgrid.org/boxplotr/)(`Web`): A web-tool for generation of box plots.
+* [Graphviz](https://www.graphviz.org/)(`Linux,Win,Max,Solaris,FreeBSD`): Open source graph visualization software.
 
 > Choose percentually accurate colors for your research plots. Why? ([1](https://github.com/holoviz/colorcet/blob/master/examples/index.ipynb), [2](https://bids.github.io/colormap/))
 

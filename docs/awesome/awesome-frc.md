@@ -87,7 +87,7 @@
 
 - [RobotPy-WPILib](https://github.com/robotpy/robotpy-wpilib) - Unofficial WPILib port allowing you to write robot code in Python.
 - [pyrobottraining](https://github.com/robotpy/pyrobottraining) - Fundamental tutorial for FRC robot coding in Python.
-- [pynetworktables](https://github.com/robotpy/pynetworktables) - Port to allow accessing of NetworkTables in Python.
+- [pynetworktables](https://github.com/robotpy/pynetworktables) - Port to allow access of NetworkTables in Python.
 - [TBApi](https://github.com/PlasmaRobotics2403/TBApi) - A Python library for interacting with The Blue Alliance API.
 
 ### CSS

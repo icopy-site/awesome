@@ -25,7 +25,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Configuration management
 
 - [Using Ansible with DigitalOcean](https://the.binbashtheory.com/using-ansible-with-digitalocean/)
-- [Ansible Cloud Modules - DigitalOcean](http://docs.ansible.com/ansible/list_of_cloud_modules.html#digital-ocean)
+- [Ansible Cloud Modules - DigitalOcean](https://docs.ansible.com/ansible/latest/collections/community/digitalocean/index.html#plugins-in-community-digitalocean)
 - [Terraform - DigitalOcean Provider](https://www.terraform.io/docs/providers/do/)
 - [DigitalOcean in Action!](https://github.com/keinohguchi/do-in-action) - Example repo for using DigitalOcean with Terraform and Ansible.
 - [Use DigitalOcean as Dynamic DNS](https://surdu.me/2019/07/28/digital-ocean-ddns.html)
@@ -49,6 +49,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Commercial integrations
 
+- [HostLaunch](https://hostlaunch.io) - Launch a hosting company based on DigitalOcean and ServerPilot.
 - [SimpleBackups](https://simplebackups.io) - Tool for scheduling DigitalOcean backups (files & databases) on auto-pilot.
 - [SnapShooter](https://snapshooter.io/daily-hourly-digital-ocean-backups/) - Tool for taking Daily to Hourly backups of Droplets and Volumes
 - [Weap.io](https://weap.io) - Hourly to Daily DigitalOcean backups. Tool for scheduling more frequent DigitalOcean backups

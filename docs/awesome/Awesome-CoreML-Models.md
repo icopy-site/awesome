@@ -26,7 +26,7 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 ## Models
 
 ## Image - Metadata/Text
-*Models that takes image data as input and output useful information about the image.*
+*Models that take image data as input and output useful information about the image.*
 * **TextDetection** - Detecting text using Vision built-in model in real-time. [Download]() | [Demo](https://github.com/tucan9389/TextDetection-CoreML) | [Reference](https://developer.apple.com/documentation/vision)
 * **PhotoAssessment** - Photo Assessment using Core ML and Metal. [Download](https://github.com/yulingtianxia/PhotoAssessment/blob/master/PhotoAssessment-Sample/Sources/NIMANasnet.mlmodel) | [Demo](https://github.com/yulingtianxia/PhotoAssessment) | [Reference](https://arxiv.org/abs/1709.05424)
 * **PoseEstimation** - Estimating human pose from a picture for mobile. [Download](https://github.com/edvardHua/PoseEstimationForMobile/tree/master/release) | [Demo](https://github.com/tucan9389/PoseEstimation-CoreML) | [Reference](https://github.com/edvardHua/PoseEstimationForMobile)
@@ -53,7 +53,7 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 * **DepthPrediction** - Predict the depth from a single image. [Download](https://developer.apple.com/machine-learning/models/) | [Demo](https://github.com/tucan9389/DepthPrediction-CoreML) | [Reference](https://github.com/iro-cp/FCRN-DepthPrediction)
 
 ## Image - Image
-*Models that transform image.*
+*Models that transform images.*
 * **HED** - Detect nested edges from a color image. [Download](https://github.com/s1ddok/HED-CoreML/blob/master/HED-CoreML/Models/HED_so.mlmodel) | [Demo](https://github.com/s1ddok/HED-CoreML) | [Reference](http://dl.acm.org/citation.cfm?id=2654889)
 * **AnimeScale2x** - Process a bicubic-scaled anime-style artwork [Download](https://github.com/imxieyi/waifu2x-ios/blob/master/waifu2x/models/anime_noise0_model.mlmodel) | [Demo](https://github.com/imxieyi/waifu2x-ios) | [Reference](https://arxiv.org/abs/1501.00092)
 
@@ -70,10 +70,9 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 * **Exermote** - Predicts the exercise, when iPhone is worn on right upper arm. [Download](https://github.com/Lausbert/Exermote/tree/master/ExermoteInference) | [Demo](https://github.com/Lausbert/Exermote/tree/master/ExermoteInference) | [Reference](http://lausbert.com/2017/08/03/exermote/)
 * **GestureAI** - Recommend an artist based on given location and genre. [Download](https://goo.gl/avdMjD) | [Demo](https://github.com/akimach/GestureAI-CoreML-iOS) | [Reference](https://github.com/akimach/GestureAI-iOS/tree/master/GestureAI)
 * **Artists Recommendation** - Recommend an artist based on given location and genre. [Download](https://github.com/agnosticdev/Blog-Examples/blob/master/UsingCoreMLtoCreateASongRecommendationEngine/Artist.mlmodel) | [Demo]() | [Reference](https://www.agnosticdev.com/blog-entry/python/using-scikit-learn-and-coreml-create-music-recommendation-engine)
-* **ESC-10** - Recognize sounds from the ESC-10 sound dataset. [Download](https://github.com/narner/ESC10-CoreML/blob/master/CreateML%20Project%20And%20Dataset/ESC-10%20Sound%20Classifier.mlproj/Models/ESC-10%20Sound%20Classifier.mlmodel) | [Demo](https://github.com/narner/ESC10-CoreML/tree/master/ECS10-CoreML-Demo) | [Reference](https://nicholas-arner.squarespace.com/blog/2019/10/29/classification-of-sound-files-on-ios-with-the-soundanalysis-framework)
 
 ## Visualization Tools
-*Tools that helps visualize CoreML Models*
+*Tools that help visualize CoreML Models*
 * [Netron](https://lutzroeder.github.io/Netron)
 
 ## Supported formats

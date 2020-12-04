@@ -29,11 +29,12 @@
 
 ### Editors
 
-- [vid](https://github.com/vlang/vid) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
+- [ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
 
 ### Web
 
 - [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
+- [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 - [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - Deploy V apps on Heroku.
 
 ### Graphics
@@ -42,13 +43,17 @@
 
 ### Games
 
-- [Vlang the Game](https://github.com/alula/vlang-the-game) - A little platformer written in V with [vSDL2](https://github.com/nsauzede/vsdl2), made purely for memes and fun.
+- [Vlang the Game](https://github.com/alula/vlang-the-game) - A little platformer written in V with vSDL2, made purely for memes and fun.
 - [Boundstone](https://github.com/organization/boundstone) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
+- [v-pong](https://github.com/thebigsmileXD/v-pong) - A classic paddle game brought back to life through the power of V.
 
 ### Command-line
 
 - [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
 - [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
+- [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
+- [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
+- [props](https://github.com/StunxFS/props) - Property support like Java for V.
 
 ### Project management
 
@@ -56,7 +61,7 @@
 
 ### Serialization
 
-- [protoc-v](https://github.com/emily33901/protoc-v) - Protobuf compiler and plugin for V.
+- [vproto](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
 
 ## Libraries
 
@@ -73,11 +78,19 @@
 - [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
 - [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
 - [cjson](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
+- [ascii_robot](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
 
 ### Graphics
 
 - [vgl](https://github.com/justicesuh/vgl) - Low-level graphics API access.
+- [viup](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
+- [vsdl](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
+- [V Earcut](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
+
+### Game development
+
+- [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for [raylib](https://www.raylib.com), the C game development framework.
 
 ### Web
 
@@ -85,10 +98,13 @@
 - [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 - [vweb](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
+- [pico.v](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
 
 ### Database clients
 
 - [redis](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
+- [vsql](https://github.com/lydiandy/vsql) - A sql query builder for V.
+- [vmemcached](https://github.com/blacktrub/vmemcached) - Memcached client for V, written in V.
 
 ### Audio
 
@@ -109,13 +125,13 @@
 
 - [vgram](https://github.com/dariotarantini/vgram) - Telegram bot library.
 
+### IRC
+
+- [vitric](https://github.com/m-242/vitric) - A transparent IRC library.
+
 ### Files
 
 - [v-mime](https://github.com/nedpals/v-mime) - MIME detection library for V.
-
-### Game development
-
-- [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for [raylib](https://www.raylib.com), the C game development framework.
 
 ### Eventing
 
@@ -131,11 +147,12 @@
 ### Scientific computing
 
 - [vsl](https://github.com/vlang/vsl) - A pure-V scientific library with a great variety of functions.
-- [vnum](https://github.com/vlang-num/vnum) - Numerical computing library supporting n-dimensional data, backed by LAPACK and BLAS.
+- [vtl](https://github.com/vlang/vtl) - Numerical computing library supporting n-dimensional data structure, backed by LAPACKE and OpenBLAS.
 
 ### Utility
 
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
+- [random](https://github.com/Delta456/random) - An all purpose random library written in V.
 
 ## Other
 
@@ -147,6 +164,8 @@
 - [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/).
 - [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html).
 - [language-v](https://github.com/Cutlery-Drawer/language-v) - V language support for Atom (port of vscode-vlang).
+- [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
+- [v-mode](https://github.com/damon-kwok/v-mode) - Emacs major mode for the V programming language.
 
 ### GitHub actions
 
@@ -160,6 +179,7 @@
 
 - [Rosetta Code V](https://github.com/RustemB/rosetta-code-v) - Solutions for Rosetta Code in V.
 - [Advent of Code 2019](https://github.com/mvlootman/aoc2019) - Solution of Advent of Code 2019 in V.
+- [SoloLearn Coding Challenges](https://github.com/Serkonda/v-sololearn-coding-challenges) - Implementation of the SoloLearn coding challenges in V.
 
 ### Tutorials
 
@@ -169,8 +189,7 @@
 
 ### Online IDEs with V
 
-- [V Playground](https://vlang.io/play)
-- [DevBits V Playground](https://devbits.app/play?lang=v&code64=Zm4gbWFpbigpIHsKCWFyZWFzIDo9IFsnZ2FtZScsICd3ZWInLCAndG9vbHMnLCAnc2NpZW5jZScsICdzeXN0ZW1zJywgJ2VtYmVkZGVkJywgJ2RyaXZlcnMnLCAnR1VJJywgJ21vYmlsZSddIAoJZm9yIGFyZWEgaW4gYXJlYXMgewoJCXByaW50bG4oJ0hlbGxvLCAkYXJlYSBkZXZlbG9wZXJzIScpCgl9Cn0K)
+- [V Playground](https://v-wasm.now.sh/)
 
 ### Articles
 

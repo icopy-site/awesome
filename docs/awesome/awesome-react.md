@@ -40,6 +40,7 @@ A collection of awesome things regarding the React ecosystem.
 - [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
 - [Setup Flow with React](https://flow.org/en/docs/react/)
+- [Develop a Live Project with React with Payment Integration & BarCode Scanner](https://www.manning.com/liveproject/online-booking-systems-for-a-salon-and-day-spa-using-spring-boot-and-reactjs)
 
 ##### React Hooks
 
@@ -106,10 +107,11 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Frameworks
 
-- [next.js](https://github.com/zeit/next.js) - The React Framework
+- [next.js](https://github.com/vercel/next.js) - The React Framework
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
 - [react-admin](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
 - [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
+- [aleph.js](https://github.com/alephjs/aleph.js) - The React Framework in Deno
 
 ##### React Styling
 
@@ -126,6 +128,7 @@ A collection of awesome things regarding the React ecosystem.
 - [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
 - [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
 - [reach](https://github.com/reach/router) - Next Generation Routing for React
+- [universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps
 
 ##### React Component Libraries
 
@@ -150,9 +153,11 @@ A collection of awesome things regarding the React ecosystem.
 - [react-bulma](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
 - [rbx](https://github.com/dfee/rbx) - The Comprehensive Bulma UI Framework for React
 - [trunx](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
-- [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
+- [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) - React utility component primitives & UI framework for use with Tailwind CSS
 - [tails-ui](https://github.com/knipferrc/tails-ui) - Clean UI based on tailwindcss
-- [zeit-ui/react](https://github.com/zeit-ui/react) - Modern and minimalist React UI library
+- [geist-org/react](https://github.com/geist-org/react) - Modern and minimalist React UI library, originating from Vercel's design
+- [elastic ui framework](https://github.com/elastic/eui) - The Elastic UI Framework is a collection of React UI components for quickly building user interfaces at Elastic.
+- [bugbag react ui kit](https://bumbag.style/) - Bumbag is a friendly React UI Kit suitable for MVPs or large-scale applications.
 
 ##### React Awesome Components
 
@@ -190,6 +195,9 @@ A collection of awesome things regarding the React ecosystem.
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - A PDF viewer made for React
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
+- [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A component to easily add Particles animations to your React application
+- [react-spring](https://www.react-spring.io/) - Spring-physics based animation library for React applications.
+- [framer-motion](https://www.framer.com/motion/) - A React library to power production-ready animations.
 
 ##### React for Command Line
 
@@ -212,7 +220,6 @@ A collection of awesome things regarding the React ecosystem.
 - [tcomb-react - Library allowing you to check all the props of your React components](https://github.com/gcanti/tcomb-react)
 - [react-responsive - Media queries in react for responsive design](https://github.com/wearefractal/react-responsive)
 - [react-cursor - Functional state management abstraction for use with Facebook React](https://github.com/dustingetz/react-cursor)
-- [Omniscient.js - Abstracting React components for fast top down render of immutable data](https://github.com/omniscientjs/omniscient)
 - [Touchstonejs - React.js powered UI framework for developing beautiful hybrid mobile apps.](https://github.com/touchstonejs/touchstonejs)
 - [Elemental - A UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)
 - [StateTrooper - Centrally manage state for React applications with CSP](https://github.com/swipely/state-trooper)
@@ -303,6 +310,8 @@ A collection of awesome things regarding the React ecosystem.
 - [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
 - [reaptcha - Clean, modern and simple React wrapper for Google reCAPTCHA](https://github.com/sarneeh/reaptcha)
 - [react-recaptcha-that-works - A reCAPTCHA bridge for React that works](https://github.com/douglasjunior/react-recaptcha-that-works)
+- [ckeditor4-react - An official CKEditor 4 rich text editor component for React](https://github.com/ckeditor/ckeditor4-react)
+- [ckeditor5-react - An official CKEditor 5 rich text editor component for React](https://github.com/ckeditor/ckeditor5-react)
 
 ##### React State Management
 
@@ -314,6 +323,17 @@ A collection of awesome things regarding the React ecosystem.
 
 - [React 360](https://facebook.github.io/react-360/) - Create exciting 360 and VR experiences using React
 - [Viro React](https://viromedia.com/viroreact/) - Platform for rapidly building AR/VR applications using React Native
+
+##### React Renderers
+
+- [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
+- [React Sketch.app](https://github.com/airbnb/react-sketchapp) - Render React components to Sketch
+- [React Figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js (web and react-native)
+- [React 360](https://facebook.github.io/react-360/)
+- [react-nil](https://github.com/pmndrs/react-nil) - A react null renderer
+- [React PDF](https://github.com/diegomura/react-pdf) - Create PDF files using React
+- [React Hardware](https://github.com/iamdustan/react-hardware) - A React renderer for Hardware
 
 ##### Forms
 
@@ -340,7 +360,6 @@ A collection of awesome things regarding the React ecosystem.
 - [formland - A simple, super-flexible, extensible config based form generator](https://github.com/indix/formland)
 - [react-reactive-form - Angular like reactive forms in React](https://github.com/bietkul/react-reactive-form)
 - [unform - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!](https://github.com/Rocketseat/unform)
-- [Formal - Elegant form management primitives for the react hooks era](https://github.com/iamkevinwolf/formal)
 - [react-hook-form - Performant, flexible and extensible forms with easy to use validation](https://github.com/react-hook-form/react-hook-form)
 
 ##### Autocomplete
@@ -412,13 +431,15 @@ A collection of awesome things regarding the React ecosystem.
 - [Victory - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
 - [Recharts - A charting library built on D3 with an awesome declarative API](https://github.com/recharts/recharts)
 - [React-ApexCharts - React component for ApexCharts (An Interactive SVG Chart Library)](https://github.com/apexcharts/react-apexcharts)
-- [reaviz](https://github.com/jask-oss/reaviz) - React Data Visualization Library based on D3.js
+- [reaviz](https://github.com/reaviz/reaviz) - React Data Visualization Library based on D3.js
 - [react-vis - A React visualization library designed with the following principles in mind: React-friendly, high-level and customizable, expressive, and industry-strong.](https://github.com/uber/react-vis)
 - [nivo - It provides a rich set of data visualization components, built on top of the D3 and React libraries.](https://github.com/plouc/nivo)
 - [vx - A collection of reusable low-level visualization components. It combines the power of D3 to generate your visualization with the benefits of React for updating the DOM.](https://github.com/hshoff/vx)
 - [echarts-for-react - A very simple ECharts wrapper for React.](https://github.com/hustcc/echarts-for-react)
 - [Chartify - React plugin for building charts using CSS.](https://github.com/kis/chartify)
 - [Semiotic - A data visualization framework combining React and D3.](https://github.com/nteract/semiotic)
+- [react-muze - React wrapper for [muze](https://muzejs.org/) (free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)](https://github.com/chartshq/react-muze)
+- [reaflow](https://github.com/reaviz/reaflow/) Diagram editor for React
 
 ---
 
@@ -442,7 +463,6 @@ A collection of awesome things regarding the React ecosystem.
 - [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 - [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
 - [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
-- [Gesture detection in React Native – fixing unexpected panning](http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/)
 - [Digital Smart Mirror lab with React Native](http://atticuswhite.com/blog/react-native-smart-mirror-lab/)
 - [The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 1)](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
 - [The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 2)](https://www.smashingmagazine.com/2016/04/how-to-build-your-first-ios-app-with-javascript/)

@@ -16,6 +16,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [love-gltf](https://gitlab.com/Alloyed/love-gltf) - gltf asset loader and test renderer; Supports skeletal animations and morph targets 
 * [Lovox](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels
 * [ss3d](https://github.com/groverburger/ss3d) - a simple and easy 3d engine for love2d
+* [model_renderer](https://github.com/xiejiangzhi/model_renderer) - a simple 3d model renderer for love2d
 
 
 ## AI
@@ -77,7 +78,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [SYSL-Pixel](https://github.com/SystemLogoff/Sysl-Pixel) - Pixel art focused scaler for graphics, position, screen-captures and shaders
 * [Sölar](https://github.com/JanWerder/soelar) - a fairly simple solar system simulator
 * [Tove2d](https://github.com/poke1024/tove2d) - Animated vector graphics for LÖVE
-
+* [turtle.lua](https://github.com/arthurealike/turtle.lua) - Turtle graphics library for LÖVE
 
 ## Entity
 *Entity and Gameobject Managing Libraries*
@@ -92,6 +93,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Game specific Library bundles, that provide reuseable functions*
 
 * [astray](https://github.com/SiENcE/astray) - Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and roguelike video games
+* [batteries](https://github.com/1bardesign/batteries/) - fills out lua's sparse standard library and provides implementations of common algorithms and data structures useful for games.
 * [cartographer](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
 * [clove](https://github.com/YoungNeer/clove) - A helper library which allows you to quickly loads huge amount of assets
 * [hump](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras). Repo is inactive but improvements are in the works at [this fork](https://github.com/HDictus/hump/tree/temp-master) (branch temp-master)
@@ -102,6 +104,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine
 * [lue](https://github.com/Ulydev/lue) - lue is a LÖVE library that allows you to display hue color effects in your game
 * [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development
+* [narrator](https://github.com/astrochili/narrator) - An Ink narrative scripting language parser and runtime implementation
 * [reflowprint](https://github.com/josefnpat/reflowprint) - A library designed for alignment of text that is shown one character at a time
 * [roomy](https://github.com/tesselode/roomy) - screen management library for LÖVE
 * [rotLove](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js
@@ -167,6 +170,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
 * [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
 * [muun](https://github.com/megagrump/muun) - Moonscript compatible class implementation
+* [selene](https://github.com/novafacing/selene) - Project template for writing games in Moonscript instead of Lua without precompiling
 
 ## Performance
 *Performance measurement tools*
@@ -257,6 +261,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Slab](https://github.com/coding-jackalope/Slab) - Slab is an immediate mode GUI toolkit for the LÖVE framework.
 * [SUIT](https://github.com/vrld/SUIT) - small immediate mode GUI library
 * [ListBox](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs
+* [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
+* [YALG](https://github.com/sasszem/yalg) - A very simple, cross-platform, reactive UI for last minute UIs.
 
 ## Utilities
 *Non-Game specific libraries and tools*

@@ -52,16 +52,12 @@ Manages isolated, ephemeral, and resource controlled environments. Part of Cloud
 A platform, built on Virtuozzo containers, that can be easily run on top of any bare-metal or virtual servers in any public or private cloud, to automate, optimize, and accelerate internal IT and development processes.
 * [Rancher](http://rancher.com/)  
 Rancher is a complete, open source platform for deploying and managing containers in production. It includes commercially-supported distributions of Kubernetes, Mesos, and Docker Swarm, making it easy to run containerized applications on any infrastructure.
-* [Docker Swarm](https://docs.docker.com/swarm)  
+* [Docker Swarm](https://docs.docker.com/engine/swarm/)  
 Docker Swarm is native clustering for Docker.
 * [Azure Container Service](https://azure.microsoft.com/en-us/services/container-service/)  
 Azure Container Service optimizes the configuration of popular open source tools and technologies specifically for Azure.
 * [CIAO](https://ciao-project.github.io/)  
  Cloud Integrated Advanced Orchestrator for Intel Clear Linux OS. 
- * [Kontena](http://kontena.io)  
-Kontena is a developer friendly, open source platform for orchestrating applications that are run on Docker containers. It simplifies deploying and running containerized applications on any infrastructure.
-* [Hyper.sh](https://hyper.sh)  
-Serverless Container Platform.
 * [Alibaba Cloud Container Service](https://www.alibabacloud.com/fr/product/container-service)  
 Container Service is a high-performance and scalable container application management service that enables you to use Docker and Kubernetes to manage the lifecycle of containerized applications.
 * [Nomad](https://www.nomadproject.io/)  
@@ -81,7 +77,7 @@ Ubuntu Core is the perfect system for large-scale cloud container deployments, b
 A host OS tailored for containers, designed for reliability, proven in production.
 * [Photon](https://github.com/vmware/photon)  
 Photon OS is a minimal Linux container host designed to have a small footprint and tuned for VMware platforms. Photon is intended to invite collaboration around running containerized and Linux applications in a virtualized environment.
-* [Clear Linux Project](https://clearlinux.org/documentation/clear-linux/get-started)  
+* [Clear Linux Project](https://clearlinux.org)  
 The Clear Linux Project for Intel Architecture is a distribution built for various Cloud use cases.
 * [CargOS](https://cargos.io/)  
 CargOS is a new lightweight, open source, platform for Docker hosts that aims for speed, manageability and security. Releases are built for 64-bit Intel/AMD CPUs.
@@ -98,7 +94,7 @@ MCL (*Minimal Container Linux*) is a from scratch minimal Linux OS designed spec
 An open platform for distributed applications for developers and sysadmins. **Standard de facto**.
 * [LXD](https://github.com/lxc/lxd)  
 Daemon based on liblxc offering a REST API to manage LXC containers.
-* [OpenVZ](https://openvz.org/Main_Page)  
+* [OpenVZ](https://openvz.org/)  
 OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
 * [MultiDocker](https://github.com/marty90/multidocker)  
 Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.
@@ -201,9 +197,12 @@ A tool for exploring each layer in a docker image.
 * [go-containerregistry](https://github.com/google/go-containerregistry)  
 Go library and CLIs for working with container registries.
 * [kaniko](https://github.com/GoogleContainerTools/kaniko)  
-kaniko is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.
-* [umoci](https://umo.ci/)
-umoci is a tool to manipulate OCI container images, and can be used as a rudimentary build tool.
+Kaniko is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.
+* [umoci](https://umo.ci/)  
+Umoci is a tool to manipulate OCI container images, and can be used as a rudimentary build tool.
+* [docker pushrm](https://github.com/christian-korneck/docker-pushrm)  
+A Docker CLI plugin that that lets you push the README.md file from the current directory to a container registry. Supports Docker Hub, Quay and Harbor.
+
 
 ## Dashboard
 
@@ -211,6 +210,10 @@ umoci is a tool to manipulate OCI container images, and can be used as a rudimen
 Web panel for LXC on Ubuntu.
 * [Liman](https://github.com/salihciftci/liman)  
 Basic docker monitoring web application.
+* [portainer](https://github.com/portainer/portainer)  
+Lightweight Docker management UI.
+* [swarmpit](https://github.com/swarmpit/swarmpit)  
+Lightweight mobile-friendly Docker Swarm management UI.
 
 ## Best practices
 
@@ -243,7 +246,8 @@ A proxy for docker.sock that enforces access control and isolated privileges.
 gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.
 * [docker-explorer](https://github.com/google/docker-explorer/)  
 A tool to help forensicate offline docker acquisitions.
-
+* [oci-seccomp-bpf-hook](https://github.com/containers/oci-seccomp-bpf-hook)  
+OCI hook to trace syscalls and generate a seccomp profile.
 
 ### Links
 * [CIS Security Benchmarks](https://benchmarks.cisecurity.org/about/)
@@ -256,7 +260,7 @@ A tool to help forensicate offline docker acquisitions.
 * [CIS Docker 1.6 Benchmark v1.0.0](https://benchmarks.cisecurity.org/tools2/docker/CIS_Docker_1.6_Benchmark_v1.0.0.pdf)
 * [Understanding docker security and best practices](https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/)
 * [Update on Ubuntu Phone security issue](https://insights.ubuntu.com/2015/10/15/update-on-ubuntu-phone-security-issue/)
-* [Don't expose the Docker socket (not even to a container)](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html)
+* [Don't expose the Docker socket (not even to a container)](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container/)
 * [RedHat Blog](http://rhelblog.redhat.com/?s=container&submit=Search)
   - [Introduction to Linux Containers](https://access.redhat.com/articles/1353593)
   - [What’s Next for Containers? User Namespaces](http://rhelblog.redhat.com/2015/07/07/whats-next-for-containers-user-namespaces/#more-1004)

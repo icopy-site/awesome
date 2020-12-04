@@ -41,6 +41,7 @@ Recommended Splunk Apps.
   - [Splunkbase Entry](https://splunkbase.splunk.com/app/3975/) - Download page.
   - [SAI Documentation](https://docs.splunk.com/Documentation/InfraApp) - Splunk App for Infrastructure Documentation.
   - [SAI Install Guide](https://docs.splunk.com/Documentation/InfraApp/latest/Install/About)
+- [Miscellaneous Scripts for fixing issues with the Universal Forwarder](https://github.com/jimmyatSplunk/SplunkForwarderRepairKit) - This kit was compiled based on common issues with Splunk deployments and managing idiosyncrasies that tend to naturally occur.
 
 ### Premium Apps
 

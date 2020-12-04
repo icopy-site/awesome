@@ -65,6 +65,7 @@ Name and description | Downloads
 [hyperalfred](https://www.npmjs.com/package/hyperalfred) - Open Hyper from Alfred 3. | [![npm](https://img.shields.io/npm/dm/hyperalfred.svg?label=DL)](https://www.npmjs.com/package/hyperalfred)
 [hyperinator](https://www.npmjs.com/package/hyperinator) - Layout automation tool likes tmuxinator for Hyper. | [![npm](https://img.shields.io/npm/dm/hyperinator.svg?label=DL)](https://www.npmjs.com/package/hyperinator)
 [hyper-drop-file](https://www.npmjs.com/package/hyper-drop-file) - Drop file path from file explorer into your terminal. | [![npm](https://img.shields.io/npm/dm/hyper-drop-file.svg?label=DL)](https://www.npmjs.com/package/hyper-drop-file)
+[hyper-dnd-tabs](https://www.npmjs.com/package/hyper-dnd-tabs) - Drag and drop tabs. | [![npm](https://img.shields.io/npm/dm/hyper-dnd-tabs.svg?label=DL)](https://www.npmjs.com/package/hyper-dnd-tabs)
 
 
 ## Customization
@@ -257,7 +258,7 @@ Name and description | Downloads
 [hyperterm-sourcerer](https://www.npmjs.com/package/hyperterm-sourcerer) - A 16-bit dark theme based on [xero/sourcerer](https://github.com/xero/sourcerer). | [![npm](https://img.shields.io/npm/dm/hyperterm-sourcerer.svg?label=DL)](https://www.npmjs.com/package/hyperterm-sourcerer)
 [hyperterm-spacegray](https://www.npmjs.com/package/hyperterm-spacegray) - Port of the popular Spacegray theme, optimized for terminal usage. | [![npm](https://img.shields.io/npm/dm/hyperterm-spacegray.svg?label=DL)](https://www.npmjs.com/package/hyperterm-spacegray)
 [hyperterm-tomorrow-night](https://www.npmjs.com/package/hyperterm-tomorrow-night) - Dark - Port of the popular Tomorrow Night theme. | [![npm](https://img.shields.io/npm/dm/hyperterm-tomorrow-night.svg?label=DL)](https://www.npmjs.com/package/hyperterm-tomorrow-night)
-[hyperterm-ubuntu-theme](https://www.npmjs.com/package/hyperterm-ubuntu-theme) - Ubuntu-style theme. | [![npm](https://img.shields.io/npm/dm/hyperterm-ubuntu-them.svg?label=DL)](https://www.npmjs.com/package/hyperterm-ubuntu-theme)
+[hyperterm-ubuntu-theme](https://www.npmjs.com/package/hyperterm-ubuntu-theme) - Ubuntu-style theme. | [![npm](https://img.shields.io/npm/dm/hyperterm-ubuntu-theme.svg?label=DL)](https://www.npmjs.com/package/hyperterm-ubuntu-theme)
 [hyperterm-ultrasweet](https://www.npmjs.com/package/hyperterm-ultrasweet) - A dark theme with nebula hues for Hyper. | [![npm](https://img.shields.io/npm/dm/hyperterm-ultrasweet.svg?label=DL)](https://www.npmjs.com/package/hyperterm-ultrasweet)
 [hyperterm-unlease](https://www.npmjs.com/package/hyperterm-unlease) - A fresh theme for Hyper that makes you feel like there's one of those pine tree car air fresheners hanging from your terminal. | [![npm](https://img.shields.io/npm/dm/hyperterm-unlease.svg?label=DL)](https://www.npmjs.com/package/hyperterm-unlease)
 [hyperterm-wp-theme](https://www.npmjs.com/package/hyperterm-wp-theme) - An adaptation of the popular JetBrains Darcula Theme with support for colored tabs. | [![npm](https://img.shields.io/npm/dm/hyperterm-wp-theme.svg?label=DL)](https://www.npmjs.com/package/hyperterm-wp-theme)

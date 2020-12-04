@@ -29,6 +29,7 @@ For now this is a really short list, so please contribute. Read [the guide](http
 
 ## Golang
 - [gomatrix](https://github.com/GeertJohan/gomatrix) - Connect to The Matrix and display it's data streams in your terminal.
+- [codeometer](https://github.com/rafael-santiago/codeometer) - It measures your code in real world units of measurement also comparing the evaluated distance to famous places and monuments. Codeometer supports plain code files, zipped files and remote git repos. Doing all stuff as a straightforward command line tool or as a web tool through its embedded httpd (tls supported).
 
 
 ## Haskell
@@ -67,6 +68,8 @@ For now this is a really short list, so please contribute. Read [the guide](http
 - [Pettier](https://github.com/coleturner/pettier) - Prettier config that randomizes options and arbitrarily switches between spaces and tabs 🙄
 - [not-paid.js](https://github.com/kleampa/not-paid) - Add opacity to the body tag and increase it every day until their site completely fades away. 💸
 - [Popup Trombone](https://matthewrayfield.com/goodies/popup-trombone/) - A trombone you play by resizing a pop-up window. 🎺
+- [eslint-plugin-replyguy](https://github.com/jlengstorf/eslint-plugin-replyguy) - The ESLint plugin you definitely didn’t ask for.
+- [HTPL Compiler](https://github.com/roveroniandrea/HTPLcompiler) - HTPL is a programming language based on HTML.
 
 
 ## PHP
@@ -98,6 +101,7 @@ For now this is a really short list, so please contribute. Read [the guide](http
 - [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚.
 - [OnlyToday](https://github.com/molnarmark/onlytoday) - A date and time based programming language.
 - [Rockstar](https://github.com/dylanbeattie/rockstar) - A dynamically typed computer programming language, designed for creating programs that are also song lyrics.
+- [strategic-communication](https://github.com/rotoclone/strategic-communication) - A best-of-breed language with a holistic approach to moving the needle.
 
 
 ## SaaS
@@ -140,12 +144,12 @@ For now this is a really short list, so please contribute. Read [the guide](http
 - [cmatrix](https://github.com/abishekvashok/cmatrix) - Make it digital rain in your terminal like The Matrix.
 - [Gosleap](https://github.com/koriroys/gosleap) - Make Ryan Gosling jump across your screen.
 - [nSnake](https://github.com/alexdantas/nSnake) - Snake game in terminal!
+- [tra.sh](https://github.com/Indexerrowaty/tra.sh) - tra.sh in your terminal!
 
 ## DevOps
 - [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [Volkswagen](https://github.com/auchenberg/volkswagen) - 🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 - [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) - The Terraform plugin for the Dominos Pizza provider.
-
 
 
 ## Miscellaneous

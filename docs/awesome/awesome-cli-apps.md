@@ -43,6 +43,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [beets](https://github.com/beetbox/beets) - Music library manager and tagger.
 - [playx](https://github.com/NISH1001/playx) - Stream songs/playlists from various sources.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify client.
+- [swagsyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 
 ### Social Media
 
@@ -52,6 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
 - [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
 - [irssi](https://github.com/irssi/irssi) - IRC chat client.
+- [kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client.
 
 ### Video
 
@@ -59,6 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [streamlink](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 - [mpv](https://mpv.io) - Superior video player.
+- [editly](https://github.com/mifi/editly) - Declarative video editing.
 
 ### Movies
 
@@ -228,7 +231,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [calcurse](http://calcurse.org/) - Calendar and scheduling.
 - [gcalcli](https://github.com/insanum/gcalcli) - Google calendar client.
 - [khal](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
-- [vidirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
+- [vdirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
 
 ## Utilities
 
@@ -279,6 +282,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
 - [speed-test](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
+- [bandwhich](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
 
 ### Theming and Customization
 
@@ -322,25 +326,32 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Data Manipulation
 
-- [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
-- [ramda-cli](https://github.com/raine/ramda-cli) - A CLI tool for processing data with functional pipelines.
-- [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files.
-- [q](http://harelba.github.io/q/) - A command line tool that allows execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
-- [yq](https://github.com/kislyuk/yq) - Command-line YAML processor (Uses the same syntax as jq).
+### Processors
+
+- [jq](https://github.com/stedolan/jq) - JSON processor.
+- [yq](https://github.com/kislyuk/yq) - YAML processor.
+- [dasel](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
+- [yaml-cli](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
+- [ramda-cli](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 
 ### JSON
 
-- [jq](https://github.com/stedolan/jq) - JSON processor.
-- [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement).
+- [jp](https://github.com/therealklanni/jp) - JSON parser.
 - [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 - [vj](https://github.com/busyloop/vj) - Makes JSON human readable.
+- [underscore-cli](https://github.com/ddopson/underscore-cli) - Utility-belt for hacking JSON and Javascript.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
 - [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 
+### Columns
+
+- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
+- [q](http://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
+
 ### Text
 
-- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
 - [figlet](http://www.figlet.org/) - Creates large text out of ASCII characters.
+- [stegcloak](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords.
 
 ## Files and Directories
 
@@ -361,6 +372,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [del-cli](https://github.com/sindresorhus/del-cli) - Delete files and folders.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copies files.
 - [rename-cli](https://github.com/jhotmann/node-rename-cli) - A cross-platform tool for renaming files quickly, especially multiple files at once.
+- [renameutils](https://www.nongnu.org/renameutils) - Mass renaming in your editor.
 
 ### Files
 
@@ -375,6 +387,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ffsend](https://github.com/timvisee/ffsend) - Fully featured CLI for [Firefox Send](https://send.firefox.com/) - simple and private file sharing.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
 - [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
+- [google-drive-upload](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
+- [gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) - Download files/folders from Google Drive.
+- [entr](https://github.com/eradman/entr) - Run an arbitrary command when files change.
 
 ### Directory Listing
 
@@ -426,6 +441,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - Generate README.md files interactively.
 - [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
+- [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 
 ## Images
 

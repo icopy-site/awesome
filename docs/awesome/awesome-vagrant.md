@@ -25,7 +25,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 
 ## Provisioning
 
-* [All available build in provisioning providers](https://www.vagrantup.com/docs/provisioning/index.html) - official doc.
+* [All available build in provisioning providers](https://www.vagrantup.com/docs/provisioning) - official doc.
 * [Vaprobash](http://fideloper.github.io/Vaprobash/index.html) - Vagrant Provisioning Bash Scripts.
 
 
@@ -85,6 +85,7 @@ for any IP address.
 * [Working with Advanced Vagrant features in PhpStorm.](http://confluence.jetbrains.com/display/PhpStorm/Working+with+Advanced+Vagrant+features+in+PhpStorm)
 * [Sharing Your Virtual Machine on the Web with Vagrant Share](https://scotch.io/tutorials/sharing-your-virtual-machine-on-the-web-with-vagrant-share).
 * [Programming Community Curated Resources for Learning Vagrant](https://hackr.io/tutorials/learn-vagrant)
+* [Vagrant Online Courses at Classpert](https://classpert.com/vagrant) List of Vagrant Online Courses (free and paid)
 
 ## Books
 

@@ -6,8 +6,34 @@
 
 > Useful resources for creating apps with [Electron](https://electronjs.org)
 
+Electron is an open-source framework for creating desktop apps using web technologies. It combines the Chromium rendering engine and the Node.js runtime.
+
 - [Who is hiring?](https://github.com/sindresorhus/awesome-electron/issues/612)
 - [Who wants to be hired?](https://github.com/sindresorhus/awesome-electron/issues/613)
+
+<br>
+
+---
+
+<div align="center">
+	<p>
+		<p>
+			<sup>
+				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
+			</sup>
+		</p>
+		<sup>Special thanks to:</sup>
+		<br>
+		<br>
+		<a href="https://standardresume.co">
+			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="200"/>
+		</a>
+	</p>
+</div>
+
+---
+
+<br>
 
 
 
@@ -105,7 +131,6 @@ Made with Electron.
 - [Ansel](https://github.com/m0g/ansel) - Image organizer.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
 - [Tockler](https://github.com/MayGo/tockler) - Tracks your time.
-- [Ghost](https://github.com/tryghost/ghost-desktop) - Professional publishing platform.
 - [Mattermost](https://github.com/mattermost/desktop) - Mattermost client.
 - [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app.
@@ -148,7 +173,6 @@ Made with Electron.
 - [Manta](https://github.com/hql287/Manta) - Invoicing for freelancers with beautiful and customizable templates.
 - [Headset](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
 - [Nuclear](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
-- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox app.
 - [FreeMAN](https://github.com/matthew-matvei/freeman) - File manager for power users.
 - [Mark Text](https://github.com/marktext/marktext) - Real-time preview Markdown editor.
 - [Pomotroid](https://github.com/Splode/pomotroid) - Pomodoro timer.
@@ -170,6 +194,9 @@ Made with Electron.
 - [MQTTX](https://github.com/emqx/MQTTX) - Client for MQTT, which is a lightweight messaging protocol.
 - [LightProxy](https://github.com/alibaba/lightproxy) - Web debugging proxy.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Cross-platform SQL editor and database manager.
+- [Mouseless](https://github.com/ueberdosis/mouseless) - Keyboard shortcut training and look-up.
+- [Glyphfinder](https://github.com/ueberdosis/glyphfinder) - Unicode character search.
+- [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
 
 ### Closed Source
 
@@ -187,7 +214,6 @@ Made with Electron.
 - [Caret](http://caret.io) - Markdown editor.
 - [Wantedly Chat](https://www.wantedly.com/chat) - Business team chat. *(Japanese)*
 - [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
-- [BearyChat](https://bearychat.com) - Team messaging service. *(Chinese)*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - Official MongoDB app.
 - [Freeter](https://freeter.io) - Organizer for freelancers & creatives.
 - [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
@@ -203,7 +229,7 @@ Made with Electron.
 - [Mockoon](https://mockoon.com) - Mock servers in seconds.
 - [Twitch](https://app.twitch.tv) - Official Twitch app.
 - [Fenêtre](https://fenêt.re) - Picture-in-picture for your Mac.
-- [Cleaver](https://getcleaver.com) - Provision servers and deploy web apps.
+- [Cleavr](https://cleavr.io) - Provision servers and deploy web apps.
 - [Brandy](https://getbrandy.io) - A brand asset manager for your menu bar.
 - [Cacher](https://www.cacher.io) - Cloud-based, team-enabled code snippet manager with Gist sync.
 - [MusicPlus](https://musicplus.io) - Free music app for macOS and Windows.
@@ -212,8 +238,6 @@ Made with Electron.
 - [Notion](https://notion.so) - All-in-one workspace for your notes, tasks, wikis, and databases.
 - [FATpick](https://www.fatpick.com) - Guitar tablature viewer that scores your performance as you play along.
 - [Taskade](https://www.taskade.com) - Realtime organization and collaboration tool for distributed teams with tasks, notes, and chat.
-- [Mouseless](https://mouseless.app) - Keyboard shortcut training and look-up.
-- [Glyphfinder](https://www.glyphfinder.com) - Unicode character search.
 
 ### Samples
 
@@ -354,7 +378,6 @@ Made with Electron.
 - [Building a desktop application with Electron](https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658)
 - [Codesigning your app for macOS](http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/)
 - [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
-- [How To Make Your Electron App Sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
 - [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
 - [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) - New Electron API to embed web apps with fewer bugs and improved performance.
 - [Migrating Slack's Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) - Slack rewrote their Electron app with `BrowserView`, Redux, Rx, and TypeScript, to fix its performance problems.
@@ -393,7 +416,7 @@ Made with Electron.
 - [JavaScript Jabber: Electron with Jessica Lord and Amy Palamountain](https://devchat.tv/js-jabber/193-jsj-electron-with-jessica-lord-and-amy-palamountain)
 - [Hanselminutes: Creating cross-platform Electron apps with Jessica Lord](http://hanselminutes.com/534/creating-cross-platform-electron-apps-with-jessica-lord)
 - [JavaScript Air: Electron Apps with @jlord and @emorikawa](https://javascriptair.com/episodes/2016-07-06)
-- [The Changelog #216: GitHub's Electron with Zeke Sikelianos](https://changelog.com/216/)
+- [The Changelog #216: GitHub's Electron with Zeke Sikelianos](https://changelog.com/podcast/216)
 - [Full Stack Radio #48: Jessica Lord - Building Desktop Apps with Electron](http://www.fullstackradio.com/48)
 
 ## Community
@@ -418,3 +441,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/sin
 ## Related
 
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+- [awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking)

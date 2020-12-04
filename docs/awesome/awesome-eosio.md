@@ -199,6 +199,7 @@ All about development on EOSIO platform.
 
 - [EOSIO/eosio.cdt](https://github.com/EOSIO/eosio.cdt) - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts.
 - [EOSIO/ricardian-template-toolkit](https://github.com/EOSIO/ricardian-template-toolkit) - Renderer for the Ricardian Contract specification.
+- [EOSIO Ethereum Virtual Machine (EVM)](https://github.com/jafri/eosio.evm) - Ethereum Virtual Machine on EOSIO.
 - [EOS Studio](https://www.eosstudio.io/) - Graphic IDE for EOSIO Development.
 - [EOS Node Tools](https://eosnode.tools/) - This microsite is a collection of resources and tools for any EOS enthusiast, dApp developer or block producer who wants to setup, maintain or recover their own nodes for the EOSIO blockchain.
 - [eos-helm](https://github.com/activeeos/eos-helm) - Kubernetes Helm charts for the EOS smart contracts platform.

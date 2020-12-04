@@ -18,14 +18,11 @@ _Projects released with an open source license._
 
 - [Akira](https://www.patreon.com/akiraux), [#2](https://liberapay.com/AkiraUX/) - Linux application for UI and UX design.
 - [Albert launcher](https://www.patreon.com/albertlauncher) - Keyboard launcher written in C++/Qt.
-- [ApexCharts](https://www.patreon.com/junedchhipa) - JavaScript charts library.
 - [Armory](https://armory3d.org/fund) - 3D game engine for Blender.
-- [Asset-Importer-Lib](https://www.patreon.com/assimp) -  Loads 40+ 3D file formats into one unified and clean data structure for game-developers.
 - [bcachefs](https://www.patreon.com/bcachefs) - Linux filesystem.
 - [Blender](https://fund.blender.org/) - 3D creation suite.
 - [Calibre](https://www.patreon.com/kovidgoyal) - E-books manager.
 - [Compiler Explorer](https://www.patreon.com/mattgodbolt) - Online decompiler and compiler explorer. 
-- [Dear ImGui](https://www.patreon.com/imgui) - Immediate Mode Graphical User interface for C++.
 - [Dekko Project](https://www.patreon.com/dekkoproject) - Ubuntu email client. 
 - [Deluge](https://www.patreon.com/deluge_cas) - BitTorrent client. 
 - [DIGImend](https://www.patreon.com/spbnick) - Improving Linux support for (non-Wacom) graphics tablets.
@@ -37,7 +34,6 @@ _Projects released with an open source license._
 - [Funkwhale](https://opencollective.com/funkwhale) - A free, federated and social music server.
 - [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine. 
 - [HaxeFlixel](https://www.patreon.com/haxeflixel) - Cross-platform 2D game engine.
-- [HaxeUI](https://www.patreon.com/haxeui) - User interface toolkit.
 - [Homebrew](https://www.patreon.com/homebrew) - Package manager for macOS.
 - [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&D tabletop role-playing game combat tracker.
 - [Invidious](https://liberapay.com/omarroth/), [#2](https://www.patreon.com/omarroth) - An alternative web front-end to YouTube.
@@ -65,7 +61,6 @@ _Projects released with an open source license._
 - [Open Source BIM Collective](https://www.patreon.com/opensourcebim) - Tools for building information modeling.
 - [openage](https://liberapay.com/SFTtech/) - Real time strategy game engine.
 - [OpenFAAS](https://github.com/users/alexellis/sponsorship) - Serverless platform.
-- [OpenFL](https://www.patreon.com/openfl) - Cross-platform application framework. 
 - [OpenShot](https://www.patreon.com/openshot) - Video editor.
 - [Paperwork](https://www.patreon.com/openpaper) - Personal document manager.
 - [Perkeep](https://opencollective.com/perkeep) - Personal storage system.
@@ -84,7 +79,6 @@ _Projects released with an open source license._
 - [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool.
 - [Synfig](https://www.patreon.com/synfig) - 2D animation software.
 - [SysV init](https://www.patreon.com/sysvinit) - System V init implementation.
-- [Tabulator](https://www.patreon.com/olifolkerd) - JavaScript library for building interactive tables.
 - [Termux](https://www.patreon.com/termux) - Android terminal emulator.
 - [The Lounge](https://opencollective.com/thelounge) - Modern web IRC client. 
 - [Thirthy Bees](https://www.patreon.com/thirtybees) - Ecommerce software. 
@@ -95,22 +89,32 @@ _Projects released with an open source license._
 - [Vim-Go](https://www.patreon.com/fatih) - Go plugin for VIM.
 - [Webpack](https://opencollective.com/webpack) - JavaScript module bundler.
 - [Wiki.js](https://github.com/users/NGPixel/sponsorship), [#2](https://opencollective.com/wikijs), [#3](https://patreon.com/requarks) - Wiki platform built with Node.js.
+- [WireGuard](https://www.patreon.com/zx2c4) - Next generation secure network tunnel.
 - [Xfce](https://salt.bountysource.com/teams/xfce) - Desktop environment for UNIX-like operating systems.
 - [Zig](https://www.patreon.com/andrewrk) - System programming language which prioritizes robustness, optimality, and clarity.
+- [Kitbashery](https://www.patreon.com/kitbashery) - 3D kitbashing solution & CC0 model library.
+
 
 ### Libraries 
 _Libraries and frameworks._
 
+- [ApexCharts](https://www.patreon.com/junedchhipa) - JavaScript charts library.
+- [Asset-Importer-Lib](https://www.patreon.com/assimp) -  Loads 40+ 3D file formats into one unified and clean data structure for game-developers.
 - [Babel](https://www.patreon.com/henryzhu) - JavaScript compiler.
+- [Dear ImGui](https://www.patreon.com/imgui) - Immediate Mode Graphical User interface for C++.
 - [Flare3D](https://www.patreon.com/arieln) - JavaScript 3D engine.
 - [Hapi.js](https://www.patreon.com/eranhammer) - Node.js framework.
+- [HaxeUI](https://www.patreon.com/haxeui) - User interface toolkit.
 - [Jam.py](https://www.patreon.com/jampyapp) - Python Web framework.
 - [Laravel](https://www.patreon.com/taylorotwell) - PHP framework.
 - [LibGDX](https://www.patreon.com/libgdx) - Game development framework.
+- [MicroG](https://github.com/sponsors/mar-v-in), [#2](https://liberapay.com/microG/) - A free-as-in-freedom re-implementation of Google's proprietary Android user space apps and libraries.
 - [Moleculer](https://www.patreon.com/moleculer) - Progressive microservices framework for Node.js.
 - [Musl libc](https://www.patreon.com/musl) - The Musl libc project.
+- [OpenFL](https://www.patreon.com/openfl) - Cross-platform application framework. 
 - [Phalcon](https://opencollective.com/phalcon) - Web framework delivered as a C extension for PHP.
 - [stdlib](https://www.patreon.com/athan) - Standard library for JavaScript and Node.js with an emphasis on scientific computing.
+- [Tabulator](https://www.patreon.com/olifolkerd) - JavaScript library for building interactive tables.
 - [Vapor](https://github.com/tanner0101), [#2](https://opencollective.com/vapor) - Server-side Swift framework.
 - [Vue.js](https://www.patreon.com/evanyou) - Vue.js. 
 - [Yii framework](https://www.patreon.com/samdark) - PHP framework.
@@ -131,6 +135,7 @@ _Operating Systems and Linux distributions._
 - [Serenity OS](https://github.com/sponsors/awesomekling) [#2](https://www.patreon.com/serenityos) - A graphical Unix-like OS for x86, with 90s aesthetics.
 - [Slackware Linux](https://www.patreon.com/slackwarelinux) - Linux distribution.
 - [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) - Ubuntu variant. 
+- [Ubuntu Studio](https://www.patreon.com/ubuntustudio), [#2](https://liberapay.com/ubuntustudio) - Ubuntu variant for creating audio, video, graphics etc.
 - [Ubuntu Touch](https://www.patreon.com/ubports), [#2](https://liberapay.com/UBports) - Touch-friendly mobile version of Ubuntu.
 
 
@@ -145,13 +150,14 @@ _Games and game-related projects._
 - [Play!](https://www.patreon.com/jpd002) - PS2 emulator.
 - [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 emulator.
 - [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 emulator.
+- [yuzu](https://www.patreon.com/yuzuteam) - Nintendo Switch emulator.
 - [vvctre](https://www.patreon.com/vvctre) - Nintendo 3DS emulator.
 
 
 ## People Doing Open Source Work
 _Developers contributing to multiple projects that ask to support their work._
 
-- [Adam King](https://github.com/sponsors/notadamking) - RLTrader, Tensortrade and other tradin related projects.
+- [Adam King](https://github.com/sponsors/notadamking) - RLTrader, Tensortrade and other trading related projects.
 - [Alexandre Prokoudine](https://www.patreon.com/prokoudine), [#2](https://liberapay.com/prokoudine) - GIMP contributor, editor of Libre Graphics World online magazine.
 - [Alyssa Rosenzweig](https://liberapay.com/alyssa/) - FOSS graphics driver work (Panfrost) and contributions to several other projects.
 - [Amit Merchant](https://www.patreon.com/amitmerchant) - Open source software enthusiast.
@@ -233,7 +239,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Thomas M. Edwards](https://www.patreon.com/thomasmedwards) - Gaming related projects. 
 - [Tim Oliver](https://github.com/sponsors/TimOliver) - Multitude of iOS libraries and various contribution to the iOS ecosystem.
 - [Timothée Giet](https://www.patreon.com/animtim) - GCompris contributor.
-- [Tobias Koppers](https://github.com/users/sokra/sponsorship) - Founder and maintaner of Webpack.
+- [Tobias Koppers](https://github.com/users/sokra/sponsorship) - Founder and maintainer of Webpack.
 - [Toby Zerner](https://www.patreon.com/tobyzerner) - Flarum contributor.
 - [Yorik van Havre](https://www.patreon.com/yorikvanhavre), [#2](https://liberapay.com/yorik) - FreeCAD contributor.
 - [Øyvind Kolås](https://www.patreon.com/pippin), [#2](https://liberapay.com/pippin/) - Lead developer of babl & GEGL libraries used in the graphics editor GIMP.

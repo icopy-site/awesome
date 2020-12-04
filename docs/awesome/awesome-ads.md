@@ -30,7 +30,7 @@
 
 ## Best Practices
 
-- [Coalition for Better Ads](https://www.betterads.org/) - A group of companies (Google, Facebook, etc) that published a research about how to improve the online consumer ad experience and defined some standards.
+- [Coalition for Better Ads](https://www.betterads.org/) - A group of companies (Google, Facebook, etc) that publish research about how to improve the online consumer ad experience and defined some standards.
 
 ## Ad Managers / Ad Servers / Platforms
 
@@ -91,7 +91,7 @@ Contributions to this list are always welcome! Take a look at [contribution guid
 
 ## Contact
 
-If you have any questions or suggestion about this list, do not hesitate to contact me on Twitter [@\_seunoura](https://twitter.com/_seunoura) or [open an issue](https://github.com/cenoura/awesome-ads/issues/new).
+If you have any questions or suggestions about this list, do not hesitate to contact me on Twitter [@\_seunoura](https://twitter.com/_seunoura) or [open an issue](https://github.com/cenoura/awesome-ads/issues/new).
 
 ## License
 

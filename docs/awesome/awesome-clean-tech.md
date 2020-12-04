@@ -6,7 +6,7 @@
 
 The goal of this list is to gather a list of awesome companies fighting climate change, as well as collecting research about the issues and solutions connected to it.
 
-_Contributions to this list are welcome! Just edit the [README.md](https://github.com/nglgzz/awesome-clean-tech/blob/master/./edit/master/README.md) (this document) and send the changes as a pull request. Please read the [guidelines](https://github.com/nglgzz/awesome-clean-tech/blob/master/./CONTRIBUTING.md) before contributing._
+_Contributions to this list are welcome! Just edit the [README.md](https://github.com/nglgzz/awesome-clean-tech/blob/master/README.md) (this document) and send the changes as a pull request. Please read the [guidelines](https://github.com/nglgzz/awesome-clean-tech/blob/master/./CONTRIBUTING.md) before contributing._
 
 
 
@@ -32,7 +32,11 @@ Short description.
 
 - [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
 
-  They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
+  A team including foresters, ecologists, and engineers focused on wildfire reforestation. They plant native trees & vegetation using drone swarms and seed vessels developed to boost survival rates. As of 2020 they can propagate 40 acres in a day.
+
+- [Kheyti](https://kheyti.com/) | India | 2015
+
+  They implement low-cost farming solutions such as "Greenhouse-in-a-box" to help small farmers increase yield and predictability of produce.
 
 - [Land Life Company](https://landlifecompany.com/) | Amsterdam | 2013
 
@@ -82,6 +86,10 @@ Short description.
 
 ### Materials
 
+- [Boston Metal](https://www.bostonmetal.com/) | Boston, USA | 2012
+
+  Developed a new technology to produce emission free steel in a scalable and cost effective manner. As of 2020 they produced more than 1.000kg of metal alloys since the commissioning of their first reactor.
+
 - [Cellugy](https://cellugy.com/) | Denmark | 2018
 
   Offers a biomaterial produced from food and vegetable waste, that can be used for packaging as an alternative to plastic. This material is translucent, resistent, and home compostable.
@@ -104,6 +112,10 @@ Short description.
 
   Developed a technology to passively collect ocean debris, with the goal of cleaning the oceans of 90% of their plastic waste by 2040. In 2018 they deployed their solution in the Great Pacific Garbage Patch.
 
+- [Ocean Voyages Institute](https://www.oceanvoyagesinstitute.org/) | Honolulu, USA | 1979
+
+  Non-profit founded by international sailors, educators, and conservationists with a mission of teaching maritime arts and sciences and preserving the world’s oceans. They completed multiple cleanup expeditions in the Pacific, the most recent one in June 2020 where they removed 103 tons of fishing nets and consumer plastics from the Great Pacific Garbage Patch.
+
 - [Orbital Systems](https://orbital-systems.com/) | Sweden | 2012
 
   Collaborated with NASA to develop a shower system that uses 90% less water. The shower has a purification system that makes it possible to reuse the same batch of water. The company now wants to make this technology - initially developed for space - available to consumers.
@@ -120,6 +132,10 @@ Short description.
 
   Develops a reverse osmosis technology for producing drinking water with low operating expenses and no CO2 emissions. The desalination system is fully solar, independent of external energy sources and easy-to-use and maintain.
 
+- [Zero Mass Water](https://www.zeromasswater.com/) | Scottsdale, USA | 2014
+
+  Produces Hydropanels, a self-contained system that relies on solar power to convert air humidity into clean drinkable water.
+
 ### Energy
 
 - [Bulb](https://bulb.co.uk/) | UK | 2013
@@ -129,6 +145,10 @@ Short description.
 - [Carbon Engineering](https://carbonengineering.com/) | Canada | 2009
 
   Using Direct Air Capture technology, Carbon Engineering aims to take existing CO<sub>2</sub> directly out of the air, then use the gas to make carbon neutral synthetic fuels for planes, trucks, and ships. Carbon Engineering is funded by several government and sustainability-focused agencies as well as by private investors, including Bill Gates and oil sands magnate Norman Murray Edwards.
+
+- [ChargePoint](https://www.chargepoint.com/) | California,USA | 2007
+
+  ChargePoint operates a open electric vehicle (EV) charging network and makes technology used in it.
 
 - [ElectricityMap.org](https://www.electricitymap.org/) | Denmark/France | 2017
 
@@ -238,6 +258,7 @@ Short description.
 
 ## More Resources
 
+- [Breakthrough Energy Ventures](https://www.b-t.energy/) - Venture fund backed by Bill Gates and a group of private investors, with more than \$1 billion in committed capital, to build companies that will help stop climate change.
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - Hub of Finnish clean tech companies.
 - [Clean Tech Sweden](https://swedishcleantech.com/) - Hub of Swedish clean tech companies.
 - [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - A subreddit for giving people hope when facing climate change.

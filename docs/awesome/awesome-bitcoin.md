@@ -9,6 +9,9 @@ A curated list of bitcoin services and tools for software developers
 
 
 ## Utilities
+* [Nigiri](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
+* [Nigiri in Travis](https://github.com/vulpemventures/nigiri-travis) - Travis template for adding Nigiri to your Travis (or Github Action) pipeline.
+* [hal](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
 * [BitKey](https://bitkey.io) - Live USB for airgapped transactions and Bitcoin swiss army knife.
 * [Pycoin](https://github.com/richardkiss/pycoin) - Python-based Bitcoin and alt-coin utility library.
 * [bx](https://github.com/libbitcoin/libbitcoin-explorer) - Bitcoin Command Line Tool.
@@ -16,10 +19,12 @@ A curated list of bitcoin services and tools for software developers
 * [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) - A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
 * [Mining visualization](http://www.yogh.io/#mine:last)
 * [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) - Find all used addresses in your Bitcoin HD wallets bypassing gap limits.
+* [LibreSelery](https://github.com/protontypes/libreselery) - Automated Bitcoin distribution to your project contributors and dependencies integrated into GitHub Actions. 
 
 ## Blockchain API and Web services
 * [block.io](https://block.io)
 * [BlockCypher](https://www.blockcypher.com)
+* [Esplora](https://github.com/Blockstream/esplora) - Self-hosted blockchain explorer.
 * [Gem.co](https://gem.co)
 * [Insight](https://insight.is)
 * [Chain.com](https://chain.com)
@@ -28,6 +33,10 @@ A curated list of bitcoin services and tools for software developers
 * [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - Self-hosted payment gateway.
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) - Blockchain Explorer API for Chainradar.
 * [One-Time Address](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
+
+## Market Data API
+* [CoinMetrics.io](https://docs.coinmetrics.io/api/v2/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
+* [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc. 
 
 ## Wallets API
 * [BitGo](https://bitgo.github.io/bitgo-docs/)
@@ -43,6 +52,7 @@ A curated list of bitcoin services and tools for software developers
 ## Blockchain Explorers
 * [Chain.so](http://chain.so)
 * [Blockchain.com](https://blockchain.com)
+* [Blockstream.info](https://blockstream.info) - Blockchain explorer with API (mainnet, testnet and Liquid).
 * [BlockTrail](https://www.blocktrail.com/BTC) 
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
 * [Blockexplorer.com](https://blockexplorer.com)
@@ -74,7 +84,8 @@ A curated list of bitcoin services and tools for software developers
 * [btctxstore](https://github.com/F483/btctxstore) - Simple library to store/retrieve information in bitcoin transactions using OP_RETURN.
 * [pybitcointools](https://github.com/vbuterin/pybitcointools) - Python library for Bitcoin signatures and transactions from Vitalik Buterin. Project discontinued.
 * [pycoin](https://github.com/richardkiss/pycoin) - Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx).
-* [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation. 
+* [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
+* [oogway](https://github.com/merwane/oogway) - A secure Bitcoin utility library for Python.
 
 ## Java Libraries
 > Note that you can also use [Scala libraries](#scala-libraries) in Java.
@@ -93,7 +104,6 @@ A curated list of bitcoin services and tools for software developers
 ## Playgrounds
 * [Script Playground](https://www.crmarsh.com/script-playground/)
 * [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) - Bitcoin Script for dummies.
-* [Debug Script Execution](https://webbtc.com/script)
 * [Script Debugger](https://github.com/kallewoof/btcdeb)
 * [Bitcore Playground](https://bitcore.io/playground/)
 * [Mnemonic Code generator](https://iancoleman.io/bip39/)
@@ -109,6 +119,7 @@ A curated list of bitcoin services and tools for software developers
 * [Blockchain2Graph](https://github.com/straumat/blockchain2graph) - Graph Database Builder.
 
 ## Full nodes
+* [btcd](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
 * [Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node) - bitcoin node based on bitcoin-ruby-blockchain.
 * [Fullnode](https://github.com/ryanxcharles/yours-bitcoin) - Javascript implementation of bitcoin.
 * [Bitcore Node](https://github.com/bitpay/bitcore-node) - bitcoind linked to node.js by BitPay.
@@ -133,7 +144,9 @@ A curated list of bitcoin services and tools for software developers
 * [@lopp / Lightning Developers](https://twitter.com/lopp/lists/lightning-developers) - Software developers with experience working on LN implementations / applications.
 * [Practical Bitcoin Info - Google Sheets](https://docs.google.com/spreadsheets/d/1Z3Ofa4P8097VWV70Z_bMqIMladngvm-Ck24ot9TDNmw/).
 * [A brief history of Bitcoin development...](https://www.youtube.com/watch?v=ZfFNce6CVsE)
-
+* [bitcoin-resources.com](https://bitcoin-resources.com/) Meta-list of Bitcoin resources, from books, articles, to podcasts.
+* [Jameson Lopp Bitcoin Resource List](https://www.lopp.net/bitcoin-information.html) Very detailed curated Bitcoin resource list and meta-list by J. Lopp
+* [River Learn](https://river.com/learn) A collection of educational resources to learn about Bitcoin basics, investing, technology, and more.
 ---
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.

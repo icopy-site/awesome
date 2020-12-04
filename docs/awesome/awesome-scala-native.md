@@ -76,6 +76,7 @@
 ## Web Development
 * [Trail](https://github.com/sparsetech/trail) - Routing library.
 * [sttp](https://github.com/softwaremill/sttp) - HTTP Client library.
+* [snunit](https://github.com/lolgab/snunit) - Scala Native HTTP server based on NGINX Unit.
 
 ## Concurrency
 * [scala-native-loop](https://github.com/scala-native/scala-native-loop) - Event loop and async-oriented IO for Scala Native
@@ -99,7 +100,7 @@
 * [sglgears](https://github.com/Milyardo/sglgears) - Port of GL [gears.c](https://github.com/JoakimSoderberg/mesademos/blob/master/src/xdemos/glxgears.c).
 * [k8s-cli](https://github.com/fsat/k8s-cli) - CLI tools to generate [Kubernetes](https://kubernetes.io/) resources for [Akka](https://akka.io/), [Play Framework](https://www.playframework.com/) and [Lagom](https://www.lagomframework.com/)-based applications.
 * [Coursier](https://github.com/coursier/coursier) - Coursier's [`bootstrap` command](https://get-coursier.io/docs/cli-native-bootstrap) generates native launchers.
-
+* [fractals](https://github.com/Rusty-Bike/fractals) - A self-similar fractal generator with basic animation support.
 ## Infrastructure
 * [Seed Docker image](https://hub.docker.com/r/tindzk/seed/tags) - Docker image for cross-platform builds with [Seed](https://github.com/tindzk/seed).
 * [scala-native-sbt-docker](https://github.com/ScalaWilliam/scala-native-sbt-docker) - Docker image for Scala Native and sbt.

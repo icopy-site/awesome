@@ -87,6 +87,7 @@ We also recommend these lists.
 ## Commercial WebServices
 
 * [Net::Xero](https://metacpan.org/pod/Net::Xero) - Interface to Xero accounting
+* [PagerDuty::Agent](https://metacpan.org/pod/PagerDuty::Agent) - A perl PagerDuty client
 * [WebService::Spotify](https://metacpan.org/pod/WebService::Spotify) - A simple interface to the Spotify Web API
 * [WebService::Xero](https://metacpan.org/pod/WebService::Xero) - Access Xero Accounting Package Public and Private Application API
 * [WWW::Shopify](https://metacpan.org/pod/WWW::Shopify) - object representing acess to a particular Shopify store
@@ -173,7 +174,7 @@ We also recommend these lists.
 
 ## DevOps Tools
 
-*Libraries that help when you what to deploy software across networks ond several hostsare working across computer networks*
+*Libraries that help when you want to deploy software across networks on several hosts/are working across computer networks*
 
 * [Rex](https://metacpan.org/pod/Rex) - Remote Execution
 
@@ -316,7 +317,7 @@ We also recommend these lists.
 * [Furl](https://metacpan.org/pod/Furl) - Faster HTTP(S) Client
 * [HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny) - Minimal and fast client. Included in the standard packages.
 * [LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) - Popular HTTP(S) Client
-* [Net::DHCP](https://metacpan.org/pod/Net::DHCP) - Send and recieve DHCP packets
+* [Net::DHCP](https://metacpan.org/pod/Net::DHCP) - Send and receive DHCP packets
 * [Net::DNS](https://metacpan.org/pod/Net::DNS) - Resolve DNS host names
 
 ## Queueing
@@ -408,6 +409,7 @@ We also recommend these lists.
 * [Data::Printer](https://metacpan.org/pod/Data::Printer) - Colored pretty-print of Perl data structures and objects.
 * [Reply](https://metacpan.org/pod/Reply) - Read-eval-print-loop(REPL) command-line tool.
 * [Riji](https://metacpan.org/pod/Riji) - Static site generator using markdown and git mainly for blogging.
+* [Smart::Comments](https://metacpan.org/pod/Smart::Comments) - Comments that do more than just sit there.
 
 *Libraries for developping command line applications*
 

@@ -6,7 +6,7 @@
 
 This list is mainly about JavaScript - the language. Not about APIs, tooling, frameworks or other aspects of todays JavaScript ecosystem.
 
-*Please read the [contribution guidelines](https://github.com/micromata/awesome-javascript-learning/blob/master/.github/contributing.md) before contributing.*
+*Please read the [contribution guidelines](https://github.com/micromata/awesome-javascript-learning/blob/master/contributing.md) before contributing.*
 
 
 

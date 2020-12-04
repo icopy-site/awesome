@@ -1,73 +1,57 @@
 <div class="github-widget" data-repo="jorgebucaran/awesome-fish"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome `fish` (the friendly interactive shell) [![Version](https://img.shields.io/github/tag/fish-shell/fish-shell.svg?label=&color=0366d6)](https://github.com/fish-shell/fish-shell/releases/latest)
+## Awesome.fish [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of the most fabulous packages, prompts, and resources for the <a href="https://github.com/fish-shell/fish-shell" title="fish">friendly interactive shell</a>.
+> The friendly interactive shell (fish) is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family. Unlike previous shells, which disable certain features by default to save system resources, fish enables all features by default—finally, a command line shell for the 90s!
 
-Want to add your project here? Fork this repo, make your changes and [open a pull request](https://github.com/jorgebucaran/awesome-fish/fork). Is anything wrong, unclear, or missing? Help us improve this page—thank you!
+A curation of plugins, prompts, and resources for the [friendly interactive shell](https://fishshell.com). This page is not an official fish-shell project. We do not to advertise for profit. Want to have your project featured here? [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork). 🐚
 
-Looking to get started with fish? [Try it in your browser](https://rootnroll.com/d/fish-shell).
+## Official Resources
 
-## What's in the menu?
+- [Official Site](https://fishshell.com)
+- [GitHub Repository](https://github.com/fish-shell/fish-shell)
+- [Try in browser!](https://rootnroll.com/d/fish-shell/) 🍤
 
-### Package managers
-
-- [Fisher](https://github.com/jorgebucaran/fisher) - Minimal, fast and reliable package manager.
-- [Fundle](https://github.com/danhper/fundle) - <samp>config.fish</samp>-based package manager inspired by vundle.
-- [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - Shell configuration framework and package manager all-in-one.
-
-### Shell prompts
-
-- [Pure](https://github.com/rafaelrinaldi/pure) - Port of [sindresorhus/pure](https://github.com/sindresorhus/pure) prompt.
-- [Mono](https://github.com/fishpkg/fish-prompt-mono) - No bells or whistles, minimal shell prompt.
-- [Metro](https://github.com/fishpkg/fish-prompt-metro) - Git-aware, space-conscious, powerline prompt.
-- [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt.
-- [Sashimi](https://github.com/isacikgoz/sashimi) - A minimalist fish prompt made with raw fish.
-
-### Commands, utilities, functions
-
-- [enhancd](https://github.com/b4b4r07/enhancd) - A next-generation cd command with your interactive filter
-- [z](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping.
-- [fzf](https://github.com/jethrokuan/fzf) - Improved key bindings for [junegunn/fzf](https://github.com/junegunn/fzf).
-- [bax](https://github.com/jorgebucaran/fish-bax) - Run bash scripts, replaying environment changes in fish (see also [bass](https://github.com/edc/bass)).
-- [done](https://github.com/franciscolourenco/done) - Automatically receive notifications when a long process finishes.
-- [mock](https://github.com/matchai/fish-mock) - Quick and powerful function mocks.
-- [spark](https://github.com/jorgebucaran/fish-spark) - Pure-fish sparkline generator: ▁▂▃▅▂▇ in your shell.
-- [gitnow](https://github.com/joseluisq/gitnow) - A collection of utility functions set to speed up your git workflow.
-- [pisces](https://github.com/laughedelic/pisces) - Autoclose parentheses, braces, quotes and other paired symbols in the command-line.
-- [getopts](https://github.com/jorgebucaran/fish-getopts) - CLI options parser; alternative to the [argparse](https://fishshell.com/docs/current/commands.html#argparse) fish builtin.
-- [git-util](https://github.com/fishpkg/fish-git-util) - Git utility functions to query the status of a repository.
-- [fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for fish scripts.
-- [ssh-agent](https://github.com/danhper/fish-ssh-agent) - Utility functions to start your ssh agent.
-- [bang-bang](https://github.com/oh-my-fish/plugin-bang-bang) - Bash-like history substitution.
-- [virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
-- [apple-touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
-- [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous to increase it reactivity. 
-- [jorgebucaran/nvm](https://github.com/jorgebucaran/fish-nvm) - Pure-fish Node.js version manager.
-- [fabioantunes/nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper with completions (see also [brigand/fast-nvm](https://github.com/brigand/fast-nvm-fish)).
-- [jbonjean/re-search](https://github.com/jbonjean/re-search) - More readline (or bash) like incremental history search.
-
-### Articles, tutorials, guides
-
-- [The fish cookbook](https://github.com/jorgebucaran/fish-cookbook) (by [@jorgebucaran](https://github.com/jorgebucaran))
-- [The fish shell is awesome](https://jvns.ca/blog/2017/04/23/the-fish-shell-is-awesome/) (by [@jvns](https://github.com/jvns))
-- [Why you should give fish a chance](https://dev.to/jukben/why-you-should-give-a-chance-to-fish-shell-5a0l) (by [@jukben](https://github.com/jukben))
-- [A user introduction to the fish shell](https://flaviocopes.com/fish-shell/) (by [@flaviocopes](https://github.com/flaviocopes))
-- [Came for the colors, stayed for the sane scripting!](https://mvolkmann.github.io/fish-article/) (by [@mvolkmann](https://github.com/mvolkmann))
-- [Why I Switched from ZSH to FISH](https://dev.to/joshmedeski/why-i-switched-from-zsh-to-fish-2j17) (by [@joshmedeski](https://github.com/joshmedeski)) 
-
-### Docker
-
-- [dideler/fish-shell](https://hub.docker.com/r/dideler/fish-shell) - Ubuntu LTS with fish installed as the default shell
-
-## Stay in the loop
+## Community Resources
 
 - [r/fishshell](https://www.reddit.com/r/fishshell)
 - [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
 - [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish)
+- [The Fish Cookbook](https://github.com/jorgebucaran/fish-cookbook)
 
-<sup>[Back to top](#awesome-fish-) or [keep](https://github.com/topics/fish-shell) [exploring](https://github.com/topics/fish-packages) [on](https://github.com/topics/fish) [GitHub](https://github.com/topics/fish-prompt)</sup>
+## Plugin Managers
 
-<h2></h2>
+- [Fisher](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI. 
+- [Fundle](https://github.com/danhper/fundle) - <samp>config.fish</samp>-based plugin manager inspired by Vundle. 
+- [Tacklebox](https://github.com/justinmayer/tacklebox) - Configuration framework for organizing and sharing utilities.
+- [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) - OMZ-inspired shell configuration framework.
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+## Prompts
+
+- [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for fish.
+- [Pure](https://github.com/rafaelrinaldi/pure) - Port of the [original pure](https://github.com/sindresorhus/pure) prompt.
+- [Mono](https://github.com/fishpkg/mono) - No bells or whistles, minimal shell prompt.
+- [Lucid](https://github.com/mattgreen/lucid.fish) - Minimalist, high-performance prompt with async Git dirty check.
+- [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Powerline-style, Git-aware shell prompt.
+- [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous!
+
+## Utilities
+
+- [Z](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping.
+- [Fzf](https://github.com/PatrickF1/fzf.fish) - Augment your fish command line with [fzf](https://github.com/junegunn/fzf) key bindings. ([Alternative](https://github.com/jethrokuan/fzf)).
+- [Bax](https://github.com/jorgebucaran/bax.fish) - Run bash scripts from fish.
+- [Nvm](https://github.com/jorgebucaran/nvm.fish) - 100% pure-fish Node.js version manager. ([Alternative](https://github.com/FabioAntunes/fish-nvm)).
+- [Done](https://github.com/franciscolourenco/done) - Automatically receive notifications when a long process finishes.
+- [Spark](https://github.com/jorgebucaran/spark.fish) - Pure-fish sparkline generator: ▁▂▃▅▂▇ in your shell.
+- [Pisces](https://github.com/laughedelic/pisces) - Autoclose parentheses, braces, quotes and other paired symbols in the command-line.
+- [Gitio](https://github.com/jorgebucaran/gitio.fish) - Create a tiny GitHub URL.
+- [GitNow](https://github.com/joseluisq/gitnow) - A collection of utility functions set to speed up your git workflow.
+- [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI options parser; alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin.
+- [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for fish.
+- [Virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
+- [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
+- [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Help you remembering abbreviations by displaying tips when you can use them.
+
+## Docker
+
+- [Ubuntu LTS container](https://hub.docker.com/r/dideler/fish-shell)

@@ -37,6 +37,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [QS on Wired](https://www.wired.com/tag/quantified-self/) - Quantified Self articles on Wired.com.
 - [QS on LiveScience](http://www.livescience.com/topics/quantified-self) - Quantified Self articles on LiveScience.
 - [Gwern](http://www.gwern.net/) - Esoteric blog which includes blinded self-experiments & Quantified Self analyses amongst other topics.
+- [beepb00p](https://beepb00p.xyz) - Writing about Quantified Self, owning the data and building the infrastructure.
 
 ## Books
 
@@ -75,7 +76,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [FitnessSyncer](https://www.fitnesssyncer.com/) - Joins health and fitness data into a single centralized platform.
 - [IoTool](https://iotool.io/) - Smartphone IoT platform for automation and data collection.
 - [Tictrac](https://tictrac.com/) - Dashboard for health and fitness data (web).
-- [QS Access](http://quantifiedself.com/qs-access-app/) - Export Apple Health data into CSV table format (iOS). 
+- [QS Access](https://apps.apple.com/us/app/qs-access/id920297614) - Export Apple Health data into CSV table format (iOS).
 - [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-purpose tracker (Android).
 
 ### Automation
@@ -88,7 +89,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [AskMeEvery](https://www.askmeevery.com/) - Automated data entry through email or text questions.
 - [Reporter](http://www.reporter-app.com/) - Tracking app that collects data through random surveys (iOS).
 - [Logsit](http://www.logsit.com/) - Quantified self and lifelogging app to track the things you've done (iOS).
-- [LifeMetrics](https://lifemetrics.io/) - Daily questionaires and automatically generated wellness insights (iOS).
+- [LifeMetrics](https://lifemetrics.io/) - Daily questionnaires and automatically generated wellness insights (iOS).
 
 ### Diet
 - [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
@@ -98,6 +99,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Zero](https://www.zerofasting.com/) - A simple fasting tracker used for intermittent, circadian rhythm, and custom fasting (iOS & Android). 
 - [Vora](https://getvora.com/) - Fasting tracker (iOS & Android).
 - [Bitesnap](https://www.getbitesnap.com/) - Image based food logging app powered by computer vision (iOS & Android).
+- [Coffee It](https://apps.apple.com/us/app/coffee-it-record-caffeine/id1216049514) - Record Caffeine intake, with database inside & Apple Health sync. (iOS)
 
 ### Goals
 - [GoalsOnTrack](http://www.goalsontrack.com/) - Web-based goal setting and tracking software (iOS & Android).
@@ -128,6 +130,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 
 ### Media Consumption
 - [Goodreads](https://www.goodreads.com/) - Lets users track and rate books and network with other readers (Web, iOS, Android). 
+- [HistoryHound](https://www.stclairsoft.com/HistoryHound/) - Searchable cross-browser history database that can be exported as HTML (MacOS).
 - [Last.fm](http://www.last.fm/) - Track the music you listen to by scrobbling via desktop and mobile apps or by connecting to music services (Web, iOS, Android).
 - [Trakt](https://trakt.tv/) - Automatically track TV & movies you're watching (Web, Media Players).
 - [Pocket](https://getpocket.com/)  - Lets you save articles to read later (Web, iOS, Android).
@@ -205,6 +208,8 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Spire](https://spire.io/) - Activity tracker that determines stress and focus levels by measuring breathing.
 - [Oura Ring](https://ouraring.com/) - Highly-accurate sleep (and activity) tracker worn on the finger that measures HR, HRV, temperature, and movement.
 - [Aidlab](https://www.aidlab.com/) - Smart and hackable wearable, compatible with special T-shirts and chest straps.
+- [Gadgetbridge](https://gadgetbridge.org/) - FOSS fitness tracker app for use with a wide variety of wearables.
+- [Dreem](https://dreem.com/) - Consumer-grade EEG used to monitor and optimize sleep; it also has pulse oxymeter, bone conduction audio, accelerometer and sonometer.
 
 ## Research and Analysis
 

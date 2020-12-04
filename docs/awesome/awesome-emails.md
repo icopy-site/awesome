@@ -65,7 +65,7 @@
 - [EmailComb](http://emailcomb.com/) - Email-friendly unused CSS removal tool which does not parse and thus accepts mixed sources, including your ESP templating tags. Extras: CSS uglification and HTML/CSS minification (powered by HTML Crush).
 - [HTML Crush](https://htmlcrush.com/) - Email-friendly HTML minifier: limits lines to 500 chars. (best practice), respects Outlook conditional tags and accepts mixed sources, including ESP templating tags. Optionally, can only remove indentations (not touching line breaks).
 - [Tabifier](https://tools.arantius.com/tabifier) - Opposite of HTML Crush - a tool to beautify the indentation in HTML files. Works with mixed input sources, including your ESP templating tags.
-- [Email Link Builder](https://email-link-builder.samcarlton.com/) - Make mailto links that open email drafts with prefilled Recipients, Subject, Body and more. 
+- [Email Link Builder](https://email-link-builder.samcarlton.com/) - Make mailto links that open email drafts with prefilled Recipients, Subject, Body and more.
 
 ## Services
 
@@ -83,12 +83,14 @@
 
 ## Self-Hosted Services
 
+- [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution
+- [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
+- [mailcow](https://mailcow.email/) - The mailserver suite with the 'moo'. An easy to use dockerized selfhosted email solution.
 - [Mailtrain](https://mailtrain.org/) - Self Hosted Newsletter App Built on Top of Nodemailer.
 - [Mautic](https://mautic.org/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
-- [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
-- [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution
-- [mailcow](https://mailcow.email/) - The mailserver suite with the 'moo'. An easy to use dockerized selfhosted email solution.
+- [Modoboa](https://modoboa.org/) - A solution to quickly deploy and manage a complete email server, compatible with latest standards and optimized for delivery and reputation protection.
 - [Poste.io](https://poste.io/) - Complete mailserver built in one docker container.
+- [SimpleLogin](https://github.com/simple-login/app) - Self-hosted email alias solution.
 
 ## Workflows
 

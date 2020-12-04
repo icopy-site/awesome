@@ -14,6 +14,7 @@ An awesome list about Software Defined Networks (SDN)
 - [Beluganos](https://github.com/beluganos/beluganos) - Beluganos is a new network OS designed for white-box switches (OF-DPA), which can apply large-scale networks.
 - [Cumulus Linux](https://cumulusnetworks.com) - Cumulus Linux is a powerful open network operating system that allows you to automate, customize and scale using web-scale principles like the world's largest data centers.
 - [FlexSwitch](https://snaproute.com/) - The first open source network protocol suite offering complete layer2/layer3 functionality for accelerating development and deployment of whitebox networking gear
+- [Mion](https://github.com/opencomputeproject/mion) - A switch OS based on ONLP API and Yocto project.
 - [OcNOS](https://www.ipinfusion.com/) - Extensive switching and routing protocol support with advanced capabilities such as MPLS and SDN
 - [Open Network Linux, ONL](https://opennetlinux.org) - A Linux distribution for "bare metal" switches, that is, network forwarding devices built from commodity components.
 - [OpenSwitch](http://www.openswitch.net) - A linux network operating system from Dell EMC.
@@ -71,12 +72,12 @@ An awesome list about Software Defined Networks (SDN)
 - [ONOS](http://onosproject.org) - Open Network Operating System.
 - [Open MUL](http://www.openmul.org/openmul-controller.html) - A lightweight SDN/Openflow controller written almost entirely in C from scratch.
 - [Open Security Controller](https://www.opensecuritycontroller.org/) - Software-defined security orchestration solution that automates deployment of virtualized network security functions, like next-generation firewall, intrusion prevention systems and application data controllers
-- [OpenContrail](http://www.opencontrail.org/) - A SDN project that utilizes SDN & NFV and provides all the necessary components for network virtualization.
+- [OpenContrail](https://tungsten.io/opencontrail-is-now-tungsten-fabric/) - A SDN project that utilizes SDN & NFV and provides all the necessary components for network virtualization.
 - [OpenDaylight](https://www.opendaylight.org) - OpenDaylight Platform
 - [OVN](http://www.openvswitch.org//support/slides/OVN-Vancouver.pdf) - OVN: Open Virtual Network for Open vSwitch
 - [POX](https://github.com/noxrepo/pox) - An open source development platform for Python-based software-defined networking (*SDN*) control applications.
 - [Ravel](https://github.com/ravel-net/ravel) - A software-defined networking (SDN) controller that uses a standard SQL database to represent the network.
-- [Ryu](https://osrg.github.io/ryu) - A component-based software defined networking framework.
+- [Ryu](https://ryu-sdn.org/) - A component-based software defined networking framework.
 - [Trema](https://trema.github.io/trema/) - A full-stack, easy-to-use framework for developing OpenFlow controllers in Ruby and C.
 - [Vyatta](https://github.com/BRCDcomm/BVC/) - The first commercial Controller built directly from OpenDaylight.
 
@@ -140,6 +141,7 @@ An awesome list about Software Defined Networks (SDN)
 
 ## Misc
 
+- [Aether Project](https://www.opennetworking.org/aether/) - the first open source Enterprise 5G/LTE Edge-Cloud-as-a-Service platform (ECaaS).
 - [Central Office Re-architected as a Datacenter, CORD](http://opencord.org) - Reference Implementation of a Service Delivery Platform that Provides Cloud Economies and Agility.
 - [Mininet Spear Narmox](http://mininet.spear.narmox.com) - A online web service provides a visualization of Mininet Topology
 - [Open Network Automation Platform, ONAP](https://www.onap.org/) - Alignment of the two projects creates a harmonized and comprehensive framework for real-time, policy-driven software automation of virtual network functions that will enable software, network, IT and cloud providers and developers to rapidly create new services.
@@ -175,7 +177,7 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 - [DevOps for Networking](https://www.packtpub.com/networking-and-servers/devops-networking)
 - [Network Algorithmics：An Interdisciplinary Approach to Designing Fast Networked Devices](https://doc.lagout.org/network/Network%20Algorithmics%20An%20Interdisciplinary%20Approach%20to%20Designing%20Fast%20Networked%20Devices.pdf)
 - [Network Programmability and Automation Skills for the Next-Generation Network Engineer](http://shop.oreilly.com/product/0636920042082.do)
-- [SDN: Software Defined Networks: An Authoritative Review of Network Programmability Technologies](https://www.amazon.com/SDN-Software-Networks-Thomas-Nadeau/dp/1449342302/&tag=eltale-20)
+- [SDN: Software Defined Networks: An Authoritative Review of Network Programmability Technologies](https://www.oreilly.com/library/view/sdn-software-defined/9781449342425/)
 - [SDN网络指南](https://feisky.gitbooks.io/sdn/)(OpenSource Book in Chinese by Pengfei Ni)
 - [SDN核心技术剖析和实战指南](http://www.sdnlab.com/book/9480.html)
 - [Software Defined Networking with OpenFlow](https://www.packtpub.com/networking-and-servers/software-defined-networking-openflow)

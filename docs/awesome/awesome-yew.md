@@ -15,8 +15,6 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 ## Official
 
 - [Yew](https://github.com/yewstack/yew) - Rust / WebAssembly framework for building client web apps.
-- [Yew router](https://github.com/yewstack/yew_router) - A routing library for the Yew frontend framework.
-- [Yewtil](https://github.com/yewstack/yewtil) - Utilities for Yew.
 - [Live demo](https://yew-todomvc.netlify.com) - A todomvc demo.
 - [Examples](https://github.com/yewstack/yew/tree/master/examples) - Smaller examples included in official repo.
 - [API Docs](https://docs.rs/yew) - Docs on docs.rs.
@@ -52,6 +50,20 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [Yew-WebRTC-Chat](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
 - [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
 - [Chord Quiz](https://github.com/Stigjb/chord-quiz) - Practice recognizing chords in this Rust/Yew/WebAssembly app.
+- [RustMart](https://github.com/sheshbabu/rustmart-yew-example) - Single Page Application (SPA) written using Rust, Wasm and Yew.
+- [yew-bulma](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
+- [DevAndDev](https://github.com/alepez/devand) - A website where developers can find pair-programming partners. Written in Rust, Yew frontend.
+- [yew-octicons](https://github.com/io12/yew-octicons) - An easy interface for using Octicons in Yew projects.
+- [Pipe](https://github.com/pipe-fun/pipe) - This is a Rust / Wasm client web app which is a task control center.
+- [yew-state](https://github.com/intendednull/yew-state) - Ergonomic shared state for Yew components with optionally persistent local and session storage.
+- [yew-material-components](https://github.com/hamza1311/yew-material-components) - Yew material components.
+- [Yewprint](https://github.com/cecton/yewprint) - Port of blueprintjs.com to Yew.
+- [ybc](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
+- [note-to-yew](https://github.com/GalAster/note-to-yew) - Convert your markups into Yew macro online, which is also made by Yew.
+- [ASCII-Hangman](https://github.com/getreu/ascii-hangman) - Configurable Hangman game for children with ASCII-art rewarding.
+- [dotdotyew](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) using Yew, with Rust powering the backend API.
+- [patternfly-yew](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
+- [reacty_yew](https://github.com/hobofan/reacty_yew) - Generate Yew components from React components via Typescript type definitions.
 
 ## Templates
 
@@ -69,7 +81,9 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) - Your favorite Rust -> WebAssembly workflow tool.
 - [wasm-pack-action](https://github.com/jetli/wasm-pack-action) - Github action to install `wasm-pack` by downloading the executable to speed up CI/CD.
+- [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) - Github action to install `wasm-bindgen` by downloading the executable to speed up CI/CD.
 - [cargo-web](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web.
+- [Trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust Wasm application to the web.
 - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
 - [binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
 
@@ -87,7 +101,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [How to render a YouTube vlog with Rust Yew fetch API](https://www.steadylearner.com/blog/read/How-to-render-a-YouTube-vlog-with-Rust-Yew-fetch-API)
 - [How to render blog posts with Rust Yew mounted API](https://www.steadylearner.com/blog/read/How-to-render-blog-posts-with-Rust-Yew-mounted-API)
 - [A Web Application completely in Rust](https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471)
-- [Yew - Rust & WebAsse-frontend framework](https://sudonull.com/posts/16392-Yew-Rust-WebAsse-frontend-framework)
+- [Yew - Rust & WebAsse-frontend framework](https://sudonull.com/post/11627-Yew-Rust-WebAsse-frontend-framework)
 
 ## Books
 

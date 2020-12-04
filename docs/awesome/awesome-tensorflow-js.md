@@ -30,6 +30,7 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) - Google's fast-paced, practical introduction to machine learning.
 - [Google Codelabs](https://codelabs.developers.google.com/) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience.
 - [Beginning ML with TensorFlow.js](https://academy.infinite.red/p/beginning-machine-learning-with-tensorflow-js) - Full online course for web devs to get into TF.js.
+- [Effective TensorFlow.js](https://effectivemachinelearning.com/TensorFlow.js) - TensorFlow.js tutorials and best practices.
 
 
 ### Models/Projects
@@ -52,7 +53,7 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 - [Official TensorFlow.js video series](https://www.youtube.com/playlist?reload=9&list=PLs6AluHXaQnjeI6jzDkpKXvbPj31i4GgF) - The YouTube content focuses on TensorFlow ecosystem updates.
 - [TensorFlow.js: ML for the web and beyond](https://youtu.be/iH9CS-QYmZs) - TensorFlow Dev Summit 2020.
 - [Rock Paper Scissors!](https://www.youtube.com/watch?v=y4pfTQJaUJU) - Train Rock Paper Scissors on your machine and watch the results with your webcam!
-- [Color Blind Tensors](https://www.youtube.com/watch?v=X55m9eS5UFU) - Manipulate image tensors to percieve color blindness, live coding.
+- [Color Blind Tensors](https://www.youtube.com/watch?v=X55m9eS5UFU) - Manipulate image tensors to perceive color blindness, live coding.
 
 
 ### Books
@@ -73,6 +74,9 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 
 - [Handwritten Digit Classification](https://github.com/aaronhma/ngconf-2020) - A showcase project for [NgConf 2020](https://www.ng-conf.org/) talk on **A Journey into the World of Machine Learning with TensorFlow.js**.
 - [NSFWJS - Indecent Content Checker](https://github.com/infinitered/nsfwjs) - A friendly library to check images to see if they are indecent content on either the client or the server!
+- [Pose Animator](https://pose-animator-demo.firebaseapp.com/camera.html) - A tool to bring SVG characters to life in the browser via motion capture.
+- [LipSync](https://lipsync.withyoutube.com/) - A web-based, playful, interactive experiences to lip sync to your favorite songs.
+- [BodyPix](https://storage.googleapis.com/tfjs-models/demos/body-pix/index.html) - A real-time person and body-part segmentation in the browser.
 
 
 ## Tools
@@ -84,6 +88,7 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and Node.js with tensorflow.js.
 - [handtrack.js](https://github.com/victordibia/handtrack.js/) - A library for prototyping realtime hand detection (bounding box), directly in the browser.
 - [magenta.js](https://magenta.tensorflow.org/get-started/#magenta-js) - Music and Art Generation with Machine Intelligence in the Browser.
+- [Danfo.js](https://danfo.jsdata.org/) - High-performance, intuitive, and easy-to-use data structures for manipulating and processing structured data. (Inspired by Pandas)
 
 
 ### Tools/Utilities
@@ -128,4 +133,6 @@ Also, if you notice that any of the above listed repositories should be deprecat
 - The repository's owner explicitly says that "this library is not maintained".
 - Not committed for long time (2~3 years).
 
-More info on the [guidelines](https://github.com/aaronhma/awesome-tensorflow-js/blob/master/CONTRIBUTING.md)
+More info on the [guidelines](https://github.com/aaronhma/awesome-tensorflow-js/blob/master/CONTRIBUTING.md).
+
+**NOTE: In order to create an community that is welcome for all, ALL contributors MUST agree to the [Code of Conduct](https://github.com/aaronhma/awesome-tensorflow-js/blob/master/CODE_OF_CONDUCT.md).**

@@ -1,5 +1,6 @@
 <div class="github-widget" data-repo="edm00se/awesome-board-games"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<!--lint disable no-repeat-punctuation match-punctuation awesome-heading awesome-github awesome-git-repo-age-->
 <div align="center">
   <img src="https://raw.githubusercontent.com/edm00se/awesome-board-games/master/./assets/images/Jon_Board.png" alt="Jon and the Board Game of Westeros" title="you know nothing, Jon Snow">
   <br />
@@ -12,7 +13,7 @@
 
 ## Family
 
-### [Ghost Blitz](https://github.com/edm00se/awesome-board-games/blob/master/<https://boardgamegeek.com/boardgame/83195/ghost-blitz>)
+### [Ghost Blitz](https://boardgamegeek.com/boardgame/83195/ghost-blitz)
 
 > Balduin, the house ghost, found an old camera in the castle cellar. Immediately he photographed everything that he loves to make disappear when he is haunting  – including himself, of course. Unfortunately, the enchanted camera takes many photos in the wrong colors. Sometimes the green bottle is white, at other times it's blue. Looking at the photos, Balduin doesn't really remember any more what he wanted to make disappear next. Can you help him with his haunting and quickly name the right item, or even make it disappear by yourself? If you grab the right items quickly, you have a good chance of winning...
 
@@ -21,7 +22,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 8 |        8 |  20m |
-
 
 ### [Ticket to Ride](https://github.com/edm00se/awesome-board-games/blob/master/<https://wikipedia.org/wiki/Ticket_to_Ride_(board_game)>)
 
@@ -52,6 +52,16 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 5 |       10 |  45m |
+
+### [Forbidden Sky](https://boardgamegeek.com/boardgame/245271/forbidden-sky)
+
+> Soar to dizzying heights in the electrifying cooperative adventure. Work as a team to explore a mysterious platform that floats at the center of a savage storm. Connect a circuit of cables to launch a secret rocket — all before you are struck by lightning or blown off to the depths below. It's a high-wire act that will test your team's capacity for courage and cooperation. One false step and you all could be grounded.This latest installment in the Forbidden that game series takes you to new heights with several novel challenges, including collectively planning a terrain using only limited information and constructing a real electrical circuit.
+
+![Forbidden Sky image](https://cf.geekdo-images.com/itemrep/img/zu-kq_Fnq8twvfhPG5PevtT4z5E=/fit-in/246x300/filters:strip_icc()/pic4177924.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |       10 |  60m |
 
 ### [Elder Sign](https://github.com/edm00se/awesome-board-games/blob/master/<https://wikipedia.org/wiki/Elder_Sign_(card_game)>)
 
@@ -127,7 +137,7 @@
 | ------: | -------: | ------: |
 |   1 - 6 |       12 | 60-120m |
 
-### [Candy Land](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/Candy_Land>)
+### [Candy Land](https://en.wikipedia.org/wiki/Candy_Land)
 
 > The race is woven around a storyline about finding King Kandy, the lost king of Candy Land...game requires no reading and minimal counting skills, making it suitable for young children...players are never required to make choices, just follow directions.
 
@@ -137,15 +147,25 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        3 | 15-21m |
 
+### [Chutes and Ladders](https://en.wikipedia.org/wiki/Snakes_and_Ladders)
+
+> Also known as Snakes and Ladders, Chutes and Ladders is simple and easy to play, even for those who can't read. Going up the ladders and down the chutes, a child will learn (by the pictures) the rewards of good deeds and the consequences of naughty ones. 
+
+![Chutes and Ladders game image](https://upload.wikimedia.org/wikipedia/en/b/ba/Cnl03.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        4 | 15-30m |
+
 ### [Sorry](https://boardgamegeek.com/boardgame/2407/sorry)
 
 > Slide, collide and score to win the game of Sorry! Draw cards to see how far you get to move one of your pawns on the board. If you land on a Slide you can zip to the end and bump your opponents' pawns or your own!
 
 ![Sorry image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sorry_diamond_edit.jpg/300px-Sorry_diamond_edit.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 4 |        6 | 30m    |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |        6 |  30m |
 
 ### [Klask](https://boardgamegeek.com/boardgame/165722/klask)
 
@@ -153,9 +173,49 @@
 
 ![Klask image](https://cf.geekdo-images.com/itemrep/img/tVtNzNug3e8QiLREwiEJOZMF0UY=/fit-in/246x300/pic2627442.jpg)
 
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |        8 |  10m |
+
+### [Battleball](https://boardgamegeek.com/boardgame/6795/battleball)
+
+> Battleball is a football board game but with teams made of players with physical and mechanical enhancements - which has made the sport more intense and more deadly. Plan a strategy and do your best to score two touchdowns without having all of your players be destroyed!
+
+![Battleball Image](https://cf.geekdo-images.com/itemrep/img/_ybsCFVKunSnqyGPCiuXbT2kuDo=/fit-in/246x300/filters:strip_icc()/pic227687.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |        8 |  45m |
+
+### [Parcheesi](https://en.wikipedia.org/wiki/Parcheesi)
+
+> Pachisi, the national game of India, dates back to 4 AD and remains popular today. Parcheesi is the westernized version. Parcheesi is typically played with two dice, four pieces per player and a gameboard with a track around the outside, four corner spaces and four home paths leading to a central end space. Moving all four pieces to the home position wins the game.
+
+![Parcheesi Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Parcheesi-board-perspective.jpg/320px-Parcheesi-board-perspective.jpg)
+
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
-|       2 |        8 | 10m    |
+|   2 - 4 |        8 | 30-60m |
+
+### [Tokaido](https://boardgamegeek.com/boardgame/123540/tokaido)
+
+> In Tokaido, each player is a traveler crossing the "East sea road", one of the most magnificent roads of Japan. While traveling, you will meet people, taste fine meals, collect beautiful items, discover great panoramas, and visit temples and wild places but at the end of the day, when everyone has arrived at the end of the road you'll have to be the most initiated traveler – which means that you'll have to be the one who discovered the most interesting and varied things. All of the actions in Tokaido are very simple, and combined with a unique graphic design, Tokaido offers players a peaceful zen mood in its play.
+
+![Tokaido Image](https://cf.geekdo-images.com/itemrep/img/oNPKz7nD6d53yT7CDIquGw6moNg=/fit-in/246x300/filters:strip_icc()/pic3747956.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |        8 |    45m |
+
+### [Santorini](https://boardgamegeek.com/boardgame/194655/santorini)
+
+> Santorini is an accessible strategy game, simple enough for an elementary school classroom while aiming to provide gameplay depth and content for hardcore gamers to explore, The rules are simple. Each turn consists of 2 steps. those are Move (move one of your builders into a neighboring space) and Build (construct a building level adjacent to the builder you move). If either of your builders reaches the third level, you win.
+
+![Santorini Image](https://cf.geekdo-images.com/itemrep/img/8vG-UtGeFbhMXPTzLDUOqWot8hA=/fit-in/246x300/filters:strip_icc()/pic3283110.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        8 |    20m |
 
 
 ## Strategy
@@ -368,9 +428,9 @@
 
 ![Connect four image](https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Connect_4_Board_and_Box.jpg/220px-Connect_4_Board_and_Box.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2     |        6 | 1-10m  |
+| Players | Min. Age |  Time |
+| ------: | -------: | ----: |
+|       2 |        6 | 1-10m |
 
 ### [Shadow Hunters](https://en.wikipedia.org/wiki/Shadow_Hunters)
 
@@ -379,9 +439,9 @@
 
 ![Shadow Hunters Image](https://cf.geekdo-images.com/itemrep/img/RTm1Doeg8mGYz9VP_YEp__9h37Q=/fit-in/246x300/pic1215982.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   4-8   |       13 |  45m   |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|     4-8 |       13 |  45m |
 
 ### [Persian Wars](https://boardgamegeek.com/boardgame/236008/persian-wars)
 
@@ -389,7 +449,7 @@
 
 ![Persian Wars Image](https://cf.geekdo-images.com/itemrep/img/dP4fwGwf-wFQ36ROJU0v2lOQF3E=/fit-in/246x300/pic4079777.png)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 4 |       12 | 60-90m |
 
@@ -399,9 +459,9 @@
 
 ![Mastermind image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mastermind.jpg/226px-Mastermind.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|    2    |       8  |  30m   |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |        8 |  30m |
 
 ### [Call to Adventure](https://www.brotherwisegames.com/about-call-to-adventure)
 
@@ -409,9 +469,29 @@
 
 ![Call to Adventure box image](https://cf.geekdo-images.com/itemrep/img/9s46VFMEDqq9BGZwHDB0ZnDHwhw=/fit-in/246x300/pic4165094.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 4 |       13 | 30-45m |
+
+### [Heroscape](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg)
+
+> Join the battle of all time! Draft your army from troops of all different eras, species, and battle styles then fight on a battlefield created by you and your friends. Work together to accomplish a scenario laid out in the included rules or duke it out amongst yourselves to see who's the greater battlefield commander.
+
+![Heroscape Master Set: Rise of the Valkyrie](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |        8 |  90m |
+
+### [Stone Age](https://boardgamegeek.com/boardgame/34635/stone-age)
+
+> In Stone Age, players live in the early days of human history, competing for food and collecting resources to expand their tribe and achieve new levels of civilization. Take turns assigning your tribe members to limited areas on the board that benefit you in different ways, sequence your actions strategically and feed your people to avoid losing points or resources.
+
+![Stone Age](https://cf.geekdo-images.com/itemrep/img/vApiI-gvXtwafEriPc4jDVJ1ajA=/fit-in/246x300/filters:strip_icc()/pic1632539.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |       10 | 60-90m |
 
 ## Party
 
@@ -596,7 +676,7 @@
 | ------: | -------: | -----: |
 |   1 - 5 |       10 | 45-60m |
 
-### [Terraforming Mars](https://en.wikipedia.org/wiki/Terraforming_Mars_(board_game))
+### [Terraforming Mars](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/Terraforming_Mars_(board_game)>)
 
 > Terraforming Mars is a game where players take the role of corporations to terraform the planet by raising the temperature and creating oxygen, water, plant and animal life. Players compete to earn the most points, which are measured by their contribution to terraforming, as well as building human infrastructure.
 
@@ -678,9 +758,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
-|   2 - 8 |       8  |  15m |
+|   2 - 8 |        8 |  15m |
 
-### [Love Letter](https://en.wikipedia.org/wiki/Love_Letter_(card_game))
+### [Love Letter](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/Love_Letter_(card_game)>)
 
 > Love Letter is a game of risk, deduction, and luck. Each player attempts to have their love letter delivered to Annette, the princess of Tempest, before anyone else does. From a deck with sixteen cards and eight roles, each player starts with one card. As the game progresses, each player must choose between their current role and those remaining in the deck. Will your letter reach the princess first?
 
@@ -692,7 +772,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### [TZAAR](https://en.wikipedia.org/wiki/TZAAR)
 
-> TZAAR is the second game in the GIPF series of abstract strategy games. Each player has types of pieces (6 tzaars, 9 tzarras, and 15 totts). Players take turns trying to capture opponent's pieces or stacking their pieces. Stacking pieces makes them stronger but reduces the number of pieces the player has on the board. Players lose if they cannot capture their opponent's piece or they do not have at least one type of each piece on the baord. 
+> TZAAR is the second game in the GIPF series of abstract strategy games. Each player has types of pieces (6 tzaars, 9 tzarras, and 15 totts). Players take turns trying to capture opponent's pieces or stacking their pieces. Stacking pieces makes them stronger but reduces the number of pieces the player has on the board. Players lose if they cannot capture their opponent's piece or they do not have at least one type of each piece on the baord.
 
 ![TZAAR image](https://upload.wikimedia.org/wikipedia/en/b/b2/TZAAR_box_cover.png)
 
@@ -702,8 +782,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### [Pinch 'n' Pass](https://boardgamegeek.com/boardgame/270030/pinch-n-pass)
 
-> Battle with your opponents and the buzzer in this quick-thinking, fast-paced game of categories. How many famous actors, pizza topping, things that are red, or breeds of dog can you name under pressure? ‘Pinch’ and ‘pass’ category cards differ in that you try to snag pinch cards from other players by shouting out something from the category and you try to get rid of pass cards hot-potato style by saying something from the category. Whoever’s left holding the card when the buzzer goes off  reaps the benefit (for pinch cards) or suffering the penalty (for pass cards). First player to the finish line is the winner, but don’t get knocked out for getting caught with too many pass cards! Each player may also call another player out for a head-to-head round. You can only do it once, so make it count!
-
+> Battle with your opponents and the buzzer in this quick-thinking, fast-paced game of categories. How many famous actors, pizza topping, things that are red, or breeds of dog can you name under pressure? ‘Pinch’ and ‘pass’ category cards differ in that you try to snag pinch cards from other players by shouting out something from the category and you try to get rid of pass cards hot-potato style by saying something from the category. Whoever’s left holding the card when the buzzer goes off reaps the benefit (for pinch cards) or suffering the penalty (for pass cards). First player to the finish line is the winner, but don’t get knocked out for getting caught with too many pass cards! Each player may also call another player out for a head-to-head round. You can only do it once, so make it count!
 
 ![Pinch 'n' Pass Image](https://images-na.ssl-images-amazon.com/images/I/51b2hKGHwnL._AC_.jpg)
 
@@ -723,24 +802,36 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### [Mind the Gap](https://boardgamegeek.com/boardgame/229537/mind-gap)
 
-> Mind the Gap is a card game that replicates the iconic design of the London Underground map, and the game is licensed by Transport for London. Players have a hand of cards, each representing stations on the London Underground. Each player lays a card face up and players in turn play cards that are on a line that matches that of the previous card. If they cannot lay a card, they draw a card. The winner is the first player to exhaust their hand. 
-
+> Mind the Gap is a card game that replicates the iconic design of the London Underground map, and the game is licensed by Transport for London. Players have a hand of cards, each representing stations on the London Underground. Each player lays a card face up and players in turn play cards that are on a line that matches that of the previous card. If they cannot lay a card, they draw a card. The winner is the first player to exhaust their hand.
 
 ![Mind the Gap image](https://cf.geekdo-images.com/itemrep/img/-tBdBfB3GDsePPK0kNT4K4-EH5E=/fit-in/246x300/pic3604392.jpg)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 8 |        6 | 20m    |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |        6 |  20m |
+
+### [Catan: Explorers & Pirates Expansion](https://boardgamegeek.com/boardgame/135378/catan-explorers-pirates)
+
+> Catan: Explorers & Pirates is the fourth major expansion for The Settlers of Catan. It includes five scenarios and three missions; some of the scenarios make use of the missions while others do not. This expansion is based on the CATAN base game rules but also contains a number of new game mechanisms. For example, ships are now equipped for expeditions and can be moved freely across the board. In the ships you transport settlers, crews, fish, or spices across the seas. The main goal is to build new outposts on the islands that are still undiscovered and to complete the Council of Catan's missions in the most skillful way possible. Catan: Explorers & Pirates differs from the Catan base game in three main ways. First, instead of having only a single island in the game on which players build and compete for resources, three islands are present. Second, instead of using cities, Catan: Explorers & Pirates allows players to build port settlements. Like cities, port settlements are worth two victory points (VPs), and the number of VPs required to win depends on the scenario. Third, if a player receives no resources during the production roll (other than on a roll of 7), she receives one gold in compensation. The winner is the first one who reaches 17 VPs.
+
+![Catan image](https://cf.geekdo-images.com/itemrep/img/mSwnoBBEdGDnzC5wlDVU9dhpIyA=/fit-in/246x300/filters:strip_icc()/pic2420310.jpg)
+
+| Players | Min. Age | Time     |
+| ------: | -------: | --------:|
+|   2 - 4 |      12+ |  90-120m |
+
+### [The Mind](https://www.boardgamegeek.com/boardgame/244992/mind)
+
+> The Mind is more than just a game. It's an experiment, a journey, a team experience in which you can't exchange information, yet will become one to defeat all the levels of the game. In more detail, the deck contains cards numbered 1-100, and during the game you try to complete 12, 10, or 8 levels of play with 2, 3, or 4 players. In a level, each player receives a hand of cards equal to the number of the level: one card in level 1, two cards in level 2, etc. Collectively you must play these cards into the center of the table on a single discard pile in ascending order but you cannot communicate with one another in any way as to which cards you hold. You simply stare into one another's eyes, and when you feel the time is right, you play your lowest card. If no one holds a card lower than what you played, great, the game continues! If someone did, all players discard face up all cards lower than what you played, and you lose one life.
+
+![The Mind image](https://cf.geekdo-images.com/itemrep/img/w6x_ahGLQVe2u6trDx0kO91OprM=/fit-in/246x300/filters:strip_icc()/pic3979766.png)
+
+| Players | Min. Age | Time     |
+| ------: | -------: | --------:|
+|   2 - 4 |      8+  |      15m |
 
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, any and/or all copyright has been waived as well as any
-related or neighboring rights to this work.
 
 [contrib-guide]: contributing.md

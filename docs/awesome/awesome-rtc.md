@@ -30,6 +30,7 @@
 - [RTP:Engine](https://github.com/sipwise/rtpengine) - RTP and UDP based media traffic proxy, usable as a kernel module.
 - [mediasoup](https://mediasoup.org) - Specialized WebRTC conferencing system.
 - [SEMS](https://github.com/sems-server/sems) - Open source media and application server for SIP based VoIP services.
+- [Jitsi](https://jitsi.org/projects/) - A collection of RTC open source projects, with a focus on conferencing software.
 
 ### STUN/TURN
 
@@ -90,7 +91,7 @@
 
 ### C/C++ Libraries
 
-- [libre](http://www.creytiv.com) - Portable SIP Stack along with companion libraries for media handling, STUN/TURN and a modular user agent.
+- [libre](https://github.com/creytiv/re) - Portable SIP Stack along with companion libraries for media handling, STUN/TURN and a modular user agent.
 - [PJSIP](https://www.pjsip.org) - Multi-protocol RTC library written in C.
 - [eXosip](http://savannah.nongnu.org/projects/exosip) - eXtended osip is a mature C library for abstracting the SIP protocol.
 - [libdatachannel](https://github.com/paullouisageneau/libdatachannel) - Standalone WebRTC DataChannels C++ implementation.
@@ -106,6 +107,10 @@
 - [gossip](https://github.com/StefanKopieczek/gossip) - SIP stack for stateful user agents written in Go.
 - [siprocket](https://github.com/marv2097/siprocket) - Fast SIP and SDP packet parser.
 - [go-diameter](https://github.com/fiorix/go-diameter) - RFC compliant Diameter protocol library.
+
+### PHP Libraries
+
+- [RTCKit/SIP](https://github.com/rtckit/php-sip) - RFC 3261 compliant SIP parsing and rendering library for PHP 7.4+.
 
 ### Python Libraries
 
@@ -151,6 +156,15 @@
 - [OpenSIPS Summit](https://www.opensips.org/events) - Meeting place for the OpenSIPS community.
 - [Kranky Geek](https://krankygeek.com) - AI and RTC event in San Francisco.
 - [FOSDEM](https://fosdem.org/2020) - Free event for software developers, with a RTC component, held every year in Europe.
+
+
+## Related Lists
+
+- [Awesome RIPT](https://github.com/rtckit/awesome-ript) - Real Time Internet Peering for Telephony.
+- [Awesome RTC Hacking](https://github.com/EnableSecurity/awesome-rtc-hacking) - Real Time Communications hacking and penetration testing resources.
+- [Awesome 5G](https://github.com/calee0219/awesome-5g) - 5G frameworks, libraries, software and resources.
+- [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - Research resources in the 3G/4G/5G Cellular security space.
+- [Awesome Telco](https://github.com/ravens/awesome-telco) - Telco resources and projects.
 
 
 ## Contribute

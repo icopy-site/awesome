@@ -144,7 +144,7 @@ productboard is the product management system that helps you understand what use
 |-----------|--------------------------------------------------------------------|
 | Developer | [productboard](https://www.productboard.com/)                      |
 | Cost      | Paid (starts at _$49/month_)                                       |
-| Platform  | web                                                                |
+| Platform  | Web                                                                |
 | URL       | https://productboard.com                                           |
 
 ## Articles
@@ -224,6 +224,7 @@ productboard is the product management system that helps you understand what use
 ## Additional resources
 
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
+- [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 
 ## License
 

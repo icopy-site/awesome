@@ -166,11 +166,13 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [First Robotics Competition](http://www.firstinspires.org/robotics/frc)
 * [VEX Robotics Competition](https://www.vexrobotics.com/)
 * [RoboCup](http://www.robocup.org/)
+* [RoboCupJunior](https://junior.robocup.org/)
 * [Eurobot](http://www.eurobot.org/) International Students Robotics Contest
-* [RoboMasters](http://www.robomasters.com/en/)
+* [RoboMasters](https://www.robomaster.com/en-US)
 * [RoboSoft, Grand Challenge](http://www.robosoftca.eu/)
 * [Intelligent Ground Vehicle Competition](http://www.igvc.org/)
 * [Robotex](https://robotex.ee/en/) The biggest robotics festival in Europe
+* [First Lego League](https://www.firstlegoleague.org/)
 
 ### Companies ###
 * [Boston Dynamics](http://www.bostondynamics.com/) robotics R&D company, creator of the state of the art [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY) and [Spot](https://www.youtube.com/watch?v=M8YjvHYbZ9w) robots
@@ -211,3 +213,4 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
 * [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
+* [Awesome RoboCupJunior Soccer](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer)
