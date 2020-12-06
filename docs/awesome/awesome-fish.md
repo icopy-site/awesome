@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="jorgebucaran/awesome-fish"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome.fish [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## awsm.fish [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > The friendly interactive shell (fish) is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family. Unlike previous shells, which disable certain features by default to save system resources, fish enables all features by default—finally, a command line shell for the 90s!
 
@@ -35,7 +35,7 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Powerline-style, Git-aware shell prompt.
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous!
 
-## Utilities
+## Plugins
 
 - [Z](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping.
 - [Fzf](https://github.com/PatrickF1/fzf.fish) - Augment your fish command line with [fzf](https://github.com/junegunn/fzf) key bindings. ([Alternative](https://github.com/jethrokuan/fzf)).
@@ -43,7 +43,7 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Nvm](https://github.com/jorgebucaran/nvm.fish) - 100% pure-fish Node.js version manager. ([Alternative](https://github.com/FabioAntunes/fish-nvm)).
 - [Done](https://github.com/franciscolourenco/done) - Automatically receive notifications when a long process finishes.
 - [Spark](https://github.com/jorgebucaran/spark.fish) - Pure-fish sparkline generator: ▁▂▃▅▂▇ in your shell.
-- [Pisces](https://github.com/laughedelic/pisces) - Autoclose parentheses, braces, quotes and other paired symbols in the command-line.
+- [Autopair](https://github.com/jorgebucaran/autopair.fish) - Automatically insert, erase, and skip matching pairs in the command-line. ([Alternative](https://github.com/laughedelic/pisces)).
 - [Gitio](https://github.com/jorgebucaran/gitio.fish) - Create a tiny GitHub URL.
 - [GitNow](https://github.com/joseluisq/gitnow) - A collection of utility functions set to speed up your git workflow.
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI options parser; alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin.
