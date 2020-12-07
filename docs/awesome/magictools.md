@@ -90,6 +90,7 @@ Graphics
 
 * :free: [ArrayPainter](http://arraypainter.com/) -  Array Painter is the easiest and fastest way to make 2D arrays ready for copy pasting into your own program.
 * :moneybag: [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains.
+* :tada: [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) - LDtk is an open-source 2D level editor for indie devs, with a strong focus on user-friendliness.
 * :tada: [OGMO Editor](http://www.ogmoeditor.com/) - generic level editor.
 * :tada: [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) - a 2D level and UI editor with an engine agnostic philosophy.
 * :tada: [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor.
@@ -177,7 +178,7 @@ Code
 * :tada: [bitsy](https://ledoux.itch.io/bitsy) - A little editor for little games or worlds. The goal is to make it easy to make games where you can walk around and talk to people and be somewhere.
 * :tada: [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor.
 * :money_with_wings: [Blend4Web](http://www.blend4web.com/) - A Javascript framework for creating and displaying interactive 3D computer graphics in web browsers.
-* [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games.
+* :tada: [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games.
 * :tada: [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
 * :tada: [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 * :tada: [Cerberus X](https://www.cerberus-x.com/wordpress/) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
