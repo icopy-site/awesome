@@ -5,7 +5,7 @@
 [<img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-logo.svg?sanitize=true" align="right" width="250">](http://vertx.io)
 
 *Awesome Vert.x* is a list of awesome frameworks, libraries or other components for use with or that use
-[Vert.x](https://github.com/eclipse/vert.x) version 3.
+[Vert.x](https://github.com/eclipse/vert.x) version.
 
 If you want your component to appear here send a pull request to this repository to add it.
 
@@ -305,6 +305,10 @@ For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/
 * [Vert.x GraphQL Utils](http://github.com/tibor-kocsis/vertx-graphql-utils) - A route handler and Vert.x compatible interfaces to handle GraphQL queries in Vert.x and Vert.x Web.
 * [Nannoq-Tools](https://noriginmedia.github.io/nannoq-tools/) - Nannoq-Tools is a toolkit for constructing robust, scalable and distributed applications leveraging Vert.x including modules for authentication, cluster management, Firebase Cloud Messaging, DynamoDB, fully generic queries, REST, and more.
 
+## Presentations
+
+- [Vert.x Youtube channel](https://www.youtube.com/channel/UCGN6L3tRhs92Uer3c6VxOSA)
+
 ## Community
 
 - [User Group](https://groups.google.com/forum/?fromgroups#!forum/vertx) - Discuss all user issues related to *using* Vert.x.
@@ -312,9 +316,26 @@ For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/
 - [Gitter chat](https://gitter.im/eclipse-vertx/vertx-users) general chat for Vert.x releated chat.
 - [Issues](https://github.com/vert-x3/issues/issues) - Vert.x core issue tracker.
 - [Wiki](https://github.com/vert-x3/wiki/wiki) - Contains useful information about Vert.x.
-- [Learning Materials](http://vertx.io/materials/) - A list of articles and presentations on Vert.x.
 - [Blog](http://vertx.io/blog/) - The official Vert.x blog containing many tutorials and other information.
 - [2017 Events](https://github.com/vert-x3/wiki/wiki/Vert.x-2017-Events) - A list of 2017 Vert.x talks and presentations.
+
+## Articles
+
+- [Going reactive with Eclipse Vert.x and RX Java ](http://www.javamagazine.mozaicreader.com/JanFeb2018#&pageSet=32&page=0)
+- [First Steps With Vert.x and Infinispan - Part 2: PUSH API ](https://dzone.com/articles/first-steps-with-vertx-and-infinispan-push-api-par)
+- [First Steps With Vert.x and Infinispan - Part 1: REST API ](https://dzone.com/articles/first-steps-with-vertx-and-infinispan-rest-api)
+- [Location Transparency With Vert.x ](https://dzone.com/articles/location-transparency-with-vertx)
+- [Reactive Microservices and Service Discovery with Vert.x ](https://dzone.com/articles/reactive-microservices-and-service-discovery-with)
+- [https://dzone.com/articles/vertx-330-development-automation](https://dzone.com/articles/vertx-330-development-automation)
+- [Vert.x 3.3.0 Features Enhanced Networking Microservices, Testing and More ](https://www.infoq.com/news/2016/06/Vert.x-3.3.0-release-features)
+- [Launching Vert.x Dynamically](https://dzone.com/articles/vertx-launcher)
+- [Secure Your Vertx 3 App With Pac4j](https://dzone.com/articles/secure-your-vertx)
+- [Interview with Tim Fox About Vert.x 3, the Original Reactive, Microservice Toolkit for the JVM ](http://www.infoq.com/articles/vertx-3-tim-fox)
+
+## Tutorials
+
+- [Vert.x - From zero to (micro-) hero](http://escoffier.me/vertx-hol)
+- [Introduction to Vert.x](https://vertx.io/blog/posts/introduction-to-vertx.html)
 
 ## Social events / Meetups
 
