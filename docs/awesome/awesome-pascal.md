@@ -30,6 +30,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 		- [Other GUI](#other-gui)
 	- [Database](#database)
 	- [Scripting](#scripting)
+	- [Machine Learning](#machine-learning)
 	- [Non-visual Classes/Utils](#non-visual-classesutils)
 		- [Compression](#compression)
 		- [Encryption](#encryption)
@@ -296,7 +297,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [ToroKernel](https://github.com/torokernel/torokernel). `[FPC]` This is a library-kernel that allows freepascal applications which are specially ported to run alone in the system. Toro is compiled within the user's application thus resulting in a single binary that can boot on baremetal or as a guest in a modern hypervisor,e.g., hyperv, kvm, qemu, firecraker. ToroKernel addresses the development of microservices by providing a dedicated API.
 
-* [Horse](https://github.com/HashLoad/horse). `[Delphi]` Fast and minimalist web framework. Horse allows to create powerful RESTful servers without effort. Focused on microservices.
+* [Horse](https://github.com/HashLoad/horse). `[Delphi]` `[FPC]` Fast and minimalist web framework. Horse allows to create powerful RESTful servers without effort. Focused on microservices.
 
 * [Bauglir WebSocket](https://github.com/MFernstrom/Bauglir-WebSocket-2). `[Delphi]` `[FPC]` WebSocket server/client implementation based on Ararat Synapse.
 
@@ -359,6 +360,8 @@ Designed to facilitate development, in a simple and minimalist way.
 * [SpTBXLib](https://github.com/SilverpointDev/sptbxlib). `[Delphi]` Add on package for Toolbar2000 components, it adds the following features: Skins, Unicode support, Custom painting events and many more.
 
 * [Kastri library free](https://github.com/DelphiWorlds/KastriFree). `[Delphi]` Free version of the Kastri library, a cross-platform library which builds upon the existing RTL and FMX libraries in Delphi. Supports a number of newer APIs that you won't find in FMX/RTL, and "backfills" for missing APIs
+
+* [DelphiUCL](https://github.com/VuioVuio/DelphiUCL). `[Delphi]` UWP controls for Delphi VCL.
 
 
 ## Single controls
@@ -547,6 +550,10 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [QuickJS-Engine](https://github.com/Coldzer0/QuickJS-Pascal). `[Delphi]` `[FPC]` Delphi and Free Pascal bindings for Bellard's [QuickJS](https://bellard.org/quickjs) Javascript Engine.
 
+## Machine Learning ##
+*Machine learning and neural networks*
+
+* [noe](https://github.com/ariaghora/noe). `[FPC]` Framework to build neural networks in pure object pascal.
 
 ## Non-visual Classes/Utils ##
 
@@ -594,10 +601,12 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [bcrypt](https://github.com/viniciussanchez/bcrypt). `[Delphi]` A library to help you hash passwords.
 
+* [MurMur-Delphi](https://github.com/thibmo/murmur-delphi). `[Delphi]` MurMur1/2/3 fast seeded hashing algorithms port in pure-pascal.
+
 
 ## XML/JSON/YAML
 
-* [dataset-serialize](https://github.com/viniciussanchez/dataset-serialize). `[Delphi]` This component is a JSON serializer for the DataSet component of Delphi. Allows you to convert JSON to DataSet, DataSet to JSON, and export and load the structure of DataSet fields in JSON format. Compatible with VCL projects, FMX and uniGUI (framework).
+* [dataset-serialize](https://github.com/viniciussanchez/dataset-serialize). `[Delphi]` `[FPC]` This component is a JSON serializer for the DataSet component. Allows you to convert JSON to DataSet, DataSet to JSON, and export and load the structure of DataSet fields in JSON format. Compatible with VCL projects, FMX and uniGUI (framework).
 
 * [OmniXML](https://github.com/mremec/omnixml). `[Delphi]` XML parser written in Delphi. Full support for Document Object Model (DOM) Level 1 specification; Supports Extensible Markup Language (XML) 1.0 (Second Edition) specification; Has built-in support for different code pages (main 8-bit code pages, UTF-8, UTF-16); Is compatible with MS XML parser; Fast parsing even large and highly structured documents; Includes helper functions to ease processing XML documents; Simplified XPath support.
 
@@ -649,11 +658,15 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [Internet Tools](https://github.com/benibela/internettools). `[Delphi]` `[FPC]` Package provides standard conformant XPath 2.0, XQuery 1.0 and XPath/XQuery 3.0 interpreters with extensions for - among others - JSONiq, pattern matching, CSS and HTML; as well as functions to perform HTTP/S requests on Windows/Linux/MacOSX/Android, an XSLT-inspired webscraping language, and an auto update class.
 
-* [Delphi-JsonToDelphiClass](https://github.com/PKGeorgiev/Delphi-JsonToDelphiClass). `[Delphi]` Generates Delphi Classes based on JSON string (Json To Delphi Class Generator / JSON Data Binding Tool). Also includes unit for interaction with GitHub.
+* [Delphi-JsonToDelphiClass](https://github.com/PKGeorgiev/Delphi-JsonToDelphiClass) ([Newer fork](https://github.com/JensBorrisholt/Delphi-JsonToDelphiClass). `[Delphi]` Generates Delphi Classes based on JSON string (Json To Delphi Class Generator / JSON Data Binding Tool). Also includes unit for interaction with GitHub.
 
 * [XML Parser](http://www.destructor.de/xmlparser). `[Delphi]` `[FPC]` Lightweight ObjectPascal XML parser for Delphi and FreePascal. By leaving out syntax checking, well-formedness checks and/or validation, and by choosing a progressive scanning technique, this parser is very fast.
 
 * [HTML parser](https://github.com/ying32/htmlparser). `[Delphi]` HTML parser. Supports Windows, MacOSX, iOS, Android platform. Comments in Chinese
+
+* [Neslib](https://github.com/neslib/Neslib.Xml). `[Delphi]` Ultra light-weight and cross-platform XML library for Delphi.
+
+* [DJSON](https://github.com/mauriziodm/DJSON). `[Delphi]` Delphi JSON object mapper
 
 
 ## Language
@@ -712,6 +725,7 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [MustaPAS](https://github.com/leledumbo/mustapas). `[Delphi]` `[FPC]` Mustache implementation in simple procedural Pascal.
 
+* [Sempare Template Engine](https://github.com/sempare/sempare-delphi-template-engine). `[Delphi]`  The template engine allows for flexible text manipulation. It can be used for generating email, html, source code, xml, configuration, etc. It is very easy to use, flexible and extensible, where templates are readable and maintainable. It supports: conditions, looping, custom functions and referencing data via RTTI. XE4, XE8+
 
 ## Logging
 
@@ -838,7 +852,9 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [Rapid.Generics](https://github.com/d-mozulyov/Rapid.Generics). `[Delphi]` Rapid generics/defaults equivalent classes for Delphi (XE8+)
 
-* [Keras4Delphi](https://github.com/Pigrecos/Keras4Delphi). `[Delphi]` Keras4Delphi is a high-level neural networks API, written in Pascal with Python Binding
+* [Keras4Delphi](https://github.com/Pigrecos/Keras4Delphi). `[Delphi]` High-level neural networks API, written in Pascal with Python Binding
+
+* [TZDB](https://github.com/pavkam/tzdb). `[Delphi]` `[FPC]` IANA Time Zone Database for Delphi/FreePascal
 
 
 ## OS ##
@@ -848,7 +864,7 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [MemoryMap](https://github.com/AlexanderBagel/ProcessMemoryMap/tree/master/MemoryMap). `[Delphi]` Set of classes to get all the info about a memory of a running process.
 
-* [The new Drag and Drop Component Suite](https://github.com/DelphiPraxis/The-Drag-and-Drop-Component-Suite-for-Delphi). `[Delphi]` VCL component library that enables your Delphi and C++Builder applications to support COM based drag and drop and integrate with the Windows clipboard.
+* [The Drag and Drop Component Suite](https://github.com/landrix/The-Drag-and-Drop-Component-Suite-for-Delphi). `[Delphi]` VCL component library that enables your Delphi and C++Builder applications to support COM based drag and drop and integrate with the Windows clipboard.
 
 * [TSMBIOS](https://github.com/RRUZ/tsmbios). `[Delphi]` `[FPC]` Allows access the System Management BIOS (SMBIOS) using the Object Pascal language (Delphi or Free Pascal). The SMBIOS (System Management BIOS) is a standard developed by the DMTF. The information stored in the SMBIOS includes devices manufacturer, model name, serial number, BIOS version, asset tag, processors, ports and device memory installed.
 
@@ -981,6 +997,8 @@ Designed to facilitate development, in a simple and minimalist way.
 ## Plugins for other IDE's
 
 * [Delphi IDE theme editor / Delphi IDE Colorizer](#rad-studio-ide-pluginswizards). Supports Appmethod, Lazarus and Smart Mobile Studio.
+
+* [Pascal](https://github.com/alefragnani/vscode-language-pascal) and [Pascal Formatter](https://github.com/alefragnani/vscode-pascal-formatter). Open source extensions created for Visual Studio Code that add Pascal support.
 
 
 ## Documentation

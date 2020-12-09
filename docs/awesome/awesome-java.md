@@ -122,6 +122,14 @@ _Frameworks that help to create parsers, interpreters or compilers._
 - [JavaCC](https://javacc.github.io/javacc/) - Parser generator that generates top-down parsers. Allows lexical state switching and permits extended BNF specifications.
 - [JFlex](https://jflex.de) - Lexical analyzer generator.
 
+### Computer Vision
+
+_Libraries which seek to gain high level information from images and videos._
+
+- [BoofCV](https://boofcv.org) - Libray for image processing, camera calibration, tracking, SFM, MVS, 3D vision, QR Code and much more.
+- [ImageJ](https://imagej.net/ImageJ) - Medical image processing application with an API.
+- [JavaCV](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and much more.
+
 ### Configuration
 
 _Libraries that provide external configuration._
@@ -555,7 +563,6 @@ _Everything else._
 - [FF4J](https://github.com/ff4j/ff4j) - Feature Flags for Java.
 - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - No-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (No explicit license)
 - [J2ObjC](https://github.com/google/j2objc) - Java-to-Objective-C translator for porting Android libraries to iOS.
-- [JavaCV](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more.
 - [JBake](https://jbake.org) - Static website generator.
 - [JBot](https://github.com/rampatra/jbot) - Framework for building chatbots. (GPL-3.0-only)
 - [JCuda](http://jcuda.org) - JCuda offers Java bindings for CUDA and CUDA-related libraries.
