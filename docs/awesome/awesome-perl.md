@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Perl5 frameworks, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+A curated list of awesome Perl5 resources, including frameworks, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 Not Perl6 modules ;-P
 
@@ -24,7 +24,7 @@ We also recommend these lists.
 
 * [Data::Validator](https://metacpan.org/pod/Data::Validator) - Rule based validator on type constraint system.
 * [Params::Util](https://metacpan.org/pod/Params::Util) - Simple, compact and correct param-checking functions.
-* [Params::Validate](https://metacpan.org/pod/Params::Validate) - Validate method/function parameters.
+* [Params::ValidationCompiler](https://metacpan.org/pod/Params::ValidationCompiler) - Validate method/function parameters.
 * [Smart::Args](https://metacpan.org/pod/Smart::Args)
 
 ## Audio
@@ -326,6 +326,7 @@ We also recommend these lists.
 *Message Queue, Job Queue System..*
 
 * [Gearman](https://metacpan.org/pod/Gearman)
+* [Minion](https://docs.mojolicious.org/Minion) - Pure-Perl job queue
 * [Net::RabbitMQ](https://metacpan.org/pod/Net::RabbitMQ)
 * [Net::Stomp](https://metacpan.org/pod/Net::Stomp)
 * [Qudo](https://metacpan.org/pod/Qudo)
