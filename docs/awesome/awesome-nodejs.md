@@ -34,6 +34,8 @@
 	<br>
 </div>
 
+**You can now [discuss Node.js and ask questions](https://github.com/sindresorhus/awesome-nodejs/discussions) right in this repo.**
+
 
 
 ## Packages
@@ -284,6 +286,7 @@
 - [Zeronode](https://github.com/sfast/zeronode) - Minimal building block for reliable and fault-tolerant microservices.
 - [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
 - [Tinyhttp](https://github.com/talentlessguy/tinyhttp) - Modern and fast Express-like web framework.
+- [Marble.js](https://github.com/marblejs/marble) - Functional reactive framework for building server-side apps, based on TypeScript and RxJS.
 
 ### Documentation
 
