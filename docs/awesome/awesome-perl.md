@@ -105,6 +105,7 @@ We also recommend these lists.
 *Libraries for serializing, formatting and parsing*
 
 * [BSON](https://metacpan.org/pod/BSON) - Binary JSON format
+* [CBOR::Free](https://metacpan.org/pod/CBOR::Free) - Support for (CBOR)[https://tools.ietf.org/html/rfc7049], IETF’s “binary JSON”
 * [Data::Dumper::Simple](https://metacpan.org/pod/Data::Dumper::Simple) - Reduce and faster Data::Dumper and eval() equivalent
 * [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
 * [JSON::PP](https://metacpan.org/pod/JSON::PP)
@@ -195,6 +196,7 @@ We also recommend these lists.
 * [Event](https://metacpan.org/pod/Event) - Works well, but older
 * [IO::Async](https://metacpan.org/pod/IO::Async) - Asynchronous event-driven programming
 * [POE](https://metacpan.org/pod/POE) - Common interface for several event loops
+* [Promise::XS](https://metacpan.org/pod/Promise::XS) - Promises in Perl
 
 ## Exception Handling
 
@@ -318,8 +320,10 @@ We also recommend these lists.
 * [Furl](https://metacpan.org/pod/Furl) - Faster HTTP(S) Client
 * [HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny) - Minimal and fast client. Included in the standard packages.
 * [LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) - Popular HTTP(S) Client
+* [Net::Curl](https://metacpan.org/pod/Net::Curl) - (libcurl)[https://curl.se/libcurl/] integration
 * [Net::DHCP](https://metacpan.org/pod/Net::DHCP) - Send and receive DHCP packets
 * [Net::DNS](https://metacpan.org/pod/Net::DNS) - Resolve DNS host names
+* [Protocol::DBus](https://metacpan.org/pod/Protocol::DBus) - D-Bus in (pure) Perl
 
 ## Queueing
 
