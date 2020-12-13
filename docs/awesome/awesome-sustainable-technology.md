@@ -813,7 +813,7 @@ To explore Open Sustainable Technology Communities check out our list of them [h
 
 ### Soil and Land
 
-- [SoilGrids250m](https://github.com/ISRICWorldSoil/SoilGrids250mGlobal) - Spatial predictions of soil properties and classes at 250 m resolution.
+- [SoilGrids250m](https://github.com/ISRICWorldSoil/SoilGrids250m) - Global Spatial predictions of soil properties and classes at 250 m resolution.
 - [Hyperspectral Soilmoisture Dataset](https://github.com/felixriese/hyperspectral-soilmoisture-dataset) - Hyperspectral benchmark dataset on soil moisture.
 - [soilReports](https://github.com/ncss-tech/soilReports) - An R package that assists with the setup and operation of a collection of soil data summary, comparison, and evaluation reports.
 - [AQP](https://github.com/ncss-tech/aqp) - Algorithms for Quantitative Pedology is a collection of code, ideas, documentation, and examples wrapped-up into several R packages.
@@ -928,6 +928,7 @@ To explore Open Sustainable Technology Communities check out our list of them [h
 - [Climate Change Impact Assessment](https://claut.gitlab.io/man_ccia/) - A practical walk-through.
 - [ModularSensors](https://github.com/EnviroDIY/ModularSensors) - This Arduino library gives environmental sensors a common interface of functions for use with Arduino-compatible dataloggers.
 - [OpenSourceSeeds](https://www.opensourceseeds.org/en) - Committed to re-establishing seed as a common good for all.
+- [sdgindex](https://www.sdgindex.org/) - International Sustainable Development Reports.
 
 
 ### Footnotes

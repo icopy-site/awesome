@@ -70,6 +70,11 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [Keycastr](https://github.com/sdeken/keycastr) - show your keys while
   presenting/casting `/OSX/`
 
+## Documentation
+*Tools to document your project*
+
+* [Log4brains](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
+
 
 ## Dotfiles
 

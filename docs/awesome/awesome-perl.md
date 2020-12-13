@@ -350,6 +350,12 @@ We also recommend these lists.
 * [PDL::Stats](https://metacpan.org/pod/PDL::Stats)
 * [Physics::*](https://metacpan.org/search?q=physics%3A%3A&size=20)
 
+## Stream Manipulation
+
+*Libraries for manipulating event streams*
+
+* [RxPerl](https://metacpan.org/pod/RxPerl) - Perl implementation of [Reactive Extensions](http://reactivex.io) / rxjs
+
 ## REST Frameworks
 
 *Libraries for developing REST applications*
