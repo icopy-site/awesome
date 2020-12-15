@@ -14,7 +14,6 @@ A curated list of awesome niche job boards.
 
 ## Blockchain
 
-* [Blocktribe](https://blocktribe.com/) - A job board for people working in "blockchain, DLT, Ethereum, Hyperledger, R3, crypto currency and related distributed technologies".
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
 * [Crypto Job](https://crypto-job.com/) - Crypto Job is the place where talent meets opportunity. Our goal is to connect passionate blockchain and cryptocurrency developers with companies that value their talent and expertise.
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
@@ -58,10 +57,6 @@ A curated list of awesome niche job boards.
 * [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
 
 ## Programming
-
-### Elixir
-
-* [Elixir Jobs](https://elixir.career/)
 
 ### Full-Stack
 
@@ -124,12 +119,15 @@ A curated list of awesome niche job boards.
 * [DailyRemote](https://dailyremote.com/)
 * [Werkington](https://www.werkington.com/)
 * [EqualOpportunity.Work](https://equalopportunity.work/)
+* [Just Remote](https://justremote.co/remote-jobs)
 
 ### Aggregator
 
+* [Career Vault](https://careervault.io/) - Thousands of remote jobs scraped from 900+ companies every few hours
 * [remote | OK](https://remoteok.io/)
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
+* [remotebond](https://remotebond.com/)
 
 ## Startups
 

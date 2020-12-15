@@ -913,6 +913,7 @@
 - [Wammes Gifts](https://www.wammes-gifts.nl) - Wammes Gifts helps you find the perfect gift.
 - [Back Home/回家](https://flights.vincentc.us/) - A flight searching engine for the flights from oversea to China Mainland (and China to oversea) that still fly during COVID-19.
 - [Deadlines](https://deadlines.vercel.app) - An offline, simple deadline tracker made with Vue.js and localForage.
+- [Scraperbox](https://scraperbox.com) - Undetectable web scraping API. Built with Laravel and Vue.
 
 ### Interactive Experiences
 
@@ -1067,6 +1068,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - [vuetify-toast-snackbar](https://github.com/eolant/vuetify-toast-snackbar) - Vue.JS toast service with queue support that uses Vuetify's "Snackbar" component.
 - [vue-toaster](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
 - [vue-notification-ui](https://github.com/HELMAB/vue-notification-ui) - A simple push the notification UI with Vue.js
+- [vue-my-toasts](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest.
 
 #### Loader
 
@@ -1419,6 +1421,7 @@ _Display non-editable events in a Calendar_
 - [vue-audio-better](https://github.com/forijk/vue-audio-better) - Easy to create custom audio player components for Vue 2.x. A progress bar with soul.
 - [vue-sounds](https://github.com/redcodemohammed/vue-sounds) - Easy to add sounds to your components.
 - [vue-soundcloud-player](https://github.com/matswainson/vue-soundcloud-player) - A custom Soundcloud player supporting single tracks & playlists
+- [vue-use-sound](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.
 
 #### Infinite Scroll
 
@@ -2080,7 +2083,9 @@ _Set of components + responsive layout system_
 - [oruga](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
 - [Wave UI](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
 - [vectre](https://github.com/vectrejs/vectre) - A lightweight, simple and responsive component framework based on [Spectre CSS](https://picturepan2.github.io/spectre/)
-- [element3](https://github.com/kkbjs/element3) - A Vue.js 3.0 UI Toolkit for Web is based on element-ui 
+- [element3](https://github.com/kkbjs/element3) - A Vue.js 3.0 UI Toolkit for Web is based on element-ui
+- [superBVue](https://github.com/superbvue/SuperBVue) - A Vue 3 UI Components for Web is based on boostrap v5 
+
 
 #### Mobile
 
@@ -2581,6 +2586,7 @@ _Internationalization / L10n / localization / translation_
 - [vue-emit](https://github.com/denisinvader/vue-emit) - A helper function to emit events from functional components.
 - [vue-plugin-events](https://github.com/nolde/vue-plugin-events) - Simple global event bus for Vue.js applications with automatic subscription control.
 - [vue3-custom-hooks](https://github.com/PoluosmakAndrew/vue3-custom-hooks) - Build custom hooks for Vue.js 3 Composition API.
+- [vue-catch-hrefs](https://github.com/Tahul/vue-catch-hrefs) - Catch clicks on hrefs links (in v-html) and route them to vue-router.
 
 #### Persistence
 
@@ -3144,6 +3150,7 @@ _Scaffold parts of the app_
 - [Rendora](https://github.com/rendora/rendora) - dynamic SSR (server-side rendering) using headless Chrome to effortlessly solve the SEO problem for modern javascript websites
 - [pre-vue](https://github.com/mtlynch/pre-vue) - A boilerplate Vue + Nuxt project that offers built-in support for OpenGraph tags, Google Analytics, a sitemap, and robots.txt.
 - [ssr-vuejs-nodejs](https://github.com/gustavoSoriano/ssr-vuejs-nodejs) - Server-side render vuejs with nodejs without Nuxt.
+- [vue-genesis](https://github.com/fmfe/genesis) - 🔥Micro front end, micro service and lightweight solution based on Vue SSR🔥
   <!-- md-parser-end -->
   <br/>
   <br/>

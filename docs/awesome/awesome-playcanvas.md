@@ -38,6 +38,7 @@
 - [MDN tutorial](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas) - Build up a basic demo with PlayCanvas.
 - [Official Tutorials](https://developer.playcanvas.com/en/tutorials/) - Large collection of official PlayCanvas tutorials.
 - [Playing in Canvas](http://pirron.one/playingincanvas/) - Pirron One's PlayCanvas themed blog.
+- [Rescue the Lunar Lander](https://medium.com/@omar4ur/rescue-the-lunar-lander-a-coderdojo-tutorial-5217d463e26a) - Tutorial to make a simple physics based game.
 - [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) - YouTube playlist for short PlayCanvas tutorials.
 
 ## Extensions and Utilities
@@ -67,6 +68,7 @@
 
 - [Ally Racing](https://www.allyracer.com/) - Retro NASCAR racing adver-game.
 - [Billie Eilish](https://site.billieeilish.com/) - Billie's bedroom recreated in WebGL.
+- [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
 - [eBay Report](https://www.ebay-report.de/) - Stats and facts from eBay Germany.
 - [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) - Interactive 3D ad for a popular mobile game.
 - [DOOH Invaders](https://vimeo.com/136313614) - World's largest Space Invaders clone unveiled at Cannes Lions.
@@ -114,7 +116,7 @@
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - Motorcycle configurator.
 - [Polaris RZR](https://rzr.polaris.com/en-us/build-model/) - Off-road vehicle configurator.
 
-## Product Configurators and Visualizers
+## Product Configurators
 
 - [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) - Elevator configurator.
 - [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - Promotional 3D experience themed on Call of Duty.
@@ -124,6 +126,11 @@
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - Closet configurator.
 - [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung) - Window configurator.
 - [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - Greenhouse configurator.
+
+## AR/VR/XR
+
+- [Neon Bubblegum](https://www.rtz23.de/) - Demo scene style WebXR-based homepage for Karsten Weil.
+- [WebXR VR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - Sandbox for VR interaction experiments.
 
 ## Contributing
 
