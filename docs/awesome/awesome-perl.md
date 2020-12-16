@@ -31,6 +31,13 @@ We also recommend these lists.
 
 * [Audio::CD](https://metacpan.org/pod/Audio::CD) - Interface to libcdaudio (cd + cddb)
 * [Audio::Wav](https://metacpan.org/pod/Audio::Wav) - Modules for reading & writing Microsoft WAV files.
+* [Audio::SndFile](https://metacpan.org/pod/Audio::SndFile) - Perl library for  reading and writing  sound files
+* [Audio::Ao](https://metacpan.org/pod/Audio::Ao) - A Perl wrapper for the Ao audio library
+* [MIDI::ALSA](https://metacpan.org/pod/MIDI::ALSA) - the perl ALSA library, plus some interface functions
+
+### DSP
+* [Audio::Analyzer](https://metacpan.org/pod/Audio::Analyzer) - Demodulate Audio through  FFT and perl!
+* [Audio::Analyzer::ToneDetect](https://metacpan.org/pod/Audio::Analyzer::ToneDetect) - Detect freq of tones in an audio file or stream
 
 ## Benchmarks
 
@@ -170,9 +177,12 @@ We also recommend these lists.
 
 *Libraries to talk to physical devices*
 
+* [Device::SerialPort](https://metacpan.org/pod/Device::SerialPort) - Generic Serial Port library for serial line communication
 * [Device::Modem](https://metacpan.org/pod/Device::Modem) - Talk to modem devices conneted via serial port
 * [Device::Onkyo](https://metacpan.org/pod/Device::Onkyo) - Control Onkyo/Integra AV equipment via LAN or Serial
-
+* [Chipcard::PCSC::Card](https://metacpan.org/pod/distribution/pcsc-perl/Card/Card.pod) - Control Smart card using perl and PCSC
+* [Device::XBee::API](https://metacpan.org/pod/Device::XBee::API) - Control XBee Device using pure perl code
+* [Device::Firmata](https://metacpan.org/pod/Device::Firmata) - module for controlling Firmata devices like Arduino
 
 ## DevOps Tools
 
@@ -185,6 +195,8 @@ We also recommend these lists.
 *Libraries that implement email creation and sending*
 
 * [Email::Sender](https://metacpan.org/pod/Email::Sender)
+* [Email::Reply](https://metacpan.org/pod/Email::Reply)
+* [Email::Stuffer](https://metacpan.org/pod/Email::Stuffer)
 
 ## Event Loops
 
@@ -208,6 +220,10 @@ We also recommend these lists.
 * [Throwable](https://metacpan.org/pod/Throwable) - a role for classes that can be thrown
 * [Try::Tiny](https://metacpan.org/pod/Try::Tiny) - minimal try/catch with proper preservation of $@
 * [TryCatch](https://metacpan.org/pod/TryCatch) - first class try catch semantics for Perl, without source filters
+
+## DOM Manipulation
+
+* [HTML5::DOM](https://metacpan.org/pod/HTML5::DOM) - Super fast html5 DOM library with css selectors (based on Modest/MyHTML).
 
 ## File Manipulation
 
@@ -234,6 +250,11 @@ We also recommend these lists.
 
 * [Image::Magick](https://metacpan.org/pod/Image::Magick) - An object-oriented interface to ImageMagick's image composing libraries.
 * [Imager](https://metacpan.org/pod/Imager)
+* [GD](https://metacpan.org/pod/GD) - Interface to Gd Graphics Library
+* [Image::Info](https://metacpan.org/pod/Image::Info) - Get image informations
+* [Image::PNG::Libpng](https://metacpan.org/pod/release/BKB/Image-PNG-Libpng-0.52_03/lib/Image/PNG/Libpng.pm) - Perl interface for libpng
+* [Graphics::TIFF](https://metacpan.org/pod/Graphics::TIFF) - Perl wrapper for libtiff
+* [Image::BMP](https://metacpan.org/pod/Image::BMP) - Perl bitmap image parser and viewer
 
 ## List Manipulation
 
@@ -437,6 +458,9 @@ We also recommend these lists.
 
 * [FFmpeg](https://metacpan.org/pod/FFmpeg) - Interface to FFmpeg, a video converter written in C
 * [Video::Info](https://metacpan.org/pod/Video::Info) - Retrieve video properties such as: height width codec fps
+* [Vlc::Engine](https://metacpan.org/pod/Vlc::Engine) - use Vlc media player with Perl
+* [VideoLAN::LibVLC](https://metacpan.org/pod/VideoLAN::LibVLC) - Perl bindings for libvlc.so
+* [Video::Generator](https://metacpan.org/pod/Video::Generator) - Perl class for video generation
 
 ## Web Frameworks
 
@@ -474,6 +498,61 @@ We also recommend these lists.
 *Libraries for extracting some information from websites*
 
 * [Web::Scraper](https://metacpan.org/pod/Web::Scraper)
+* [WWW::Mechanize](https://metacpan.org/pod/WWW::Mechanize)
+* [WWW::Mechanize::PhantomJS](https://metacpan.org/pod/WWW::Mechanize::PhantomJS) - automate the PhantomJS browser
+* [WWW::Scripter](https://metacpan.org/pod/distribution/WWW-Scripter/lib/WWW/Scripter.pod) - For scripting web sites that have scripts
+* [WWW::Selenium](https://metacpan.org/pod/WWW::Selenium) 
+
+
+## Network Security
+
+*Some great libraries for starting the world of Network security with Perl*
+
+
+* [Net::Pcap](https://metacpan.org/pod/Net::Pcap) - Interface to the pcap LBL packet capture library
+* [Net::Ncap](https://metacpan.org/pod/Net::Ncap) - Perl binding to the ncap network data capture library
+* [Net::Frame](https://metacpan.org/pod/Net::Frame) - Perl framework for frame crafting
+* [NetPacket](https://metacpan.org/pod/NetPacket) - assemble/disassemble network packets at the protocol level
+* [Net::Write](https://metacpan.org/pod/Net::Write) - portable interface to open and send raw data to network
+* [Net::Analysis](https://metacpan.org/pod/Net::Analysis) - Perl library for analysing network traffic
+* [Net::Silk](https://metacpan.org/pod/Net::Silk) - Perl's Interface to the SiLK network flow library
+* [Net::Inspect](https://metacpan.org/pod/Net::Inspect) - Perl library for inspection of data on various network layers
+* [Net::Tshark](https://metacpan.org/pod/Net::Tshark) - Perl interface for Tshark network capture utility 
+* [Net::Sharktools](https://metacpan.org/pod/Net::Sharktools) - Wireshark's packet inspection capabilities in Perl
+* [File::PCAP](https://metacpan.org/pod/File::PCAP) - Read, Write and manipulate  PCAP file format through Perl
+* [Net::P0f](https://metacpan.org/pod/Net::P0f) - Perl interface to p0f utility, usefull for finger-printing os
+* [Net::Pcap::Reassemble](https://metacpan.org/pod/Net::Pcap::Reassemble) - Perl IP fragment reassembly for Net::Pcap
+* [Nagios::NRPE](https://metacpan.org/pod/Nagios::NRPE) - Pure perl Nagios NRPE implementation
+* [Monitoring::Plugin](https://metacpan.org/pod/Monitoring::Plugin) -  A family of perl modules to streamline writing Naemon, Nagios, Icinga or Shinken (and compatible) plugins
+* [Net::Connection::Sniffer](https://metacpan.org/pod/Net::Connection::Sniffer) - practical Perl library for MiTM connections
+* [Net::ARP](https://metacpan.org/pod/Net::ARP) - Library for crafting ARP packets
+* [SNMPMonitor](https://metacpan.org/pod/SNMPMonitor) - Perl extension for writing SNMP Monitors
+* [Net::LibNIDS](https://metacpan.org/pod/Net::LibNIDS) - Perl interface for the Network Intrusion Detection System library
+* [Parse::Snort](https://metacpan.org/pod/Parse::Snort) - Perl Snort rules parser
+* [Net::Wireless::802_11::WPA::CLI](https://metacpan.org/pod/Net::Wireless::802_11::WPA::CLI) - Perl WPA_CLI interface
+* [IO::Socket::SSL::Intercept](https://metacpan.org/IO::Socket::SSL::Intercept) - library for intercepting SSL connections through Perl
+
+## Metadata Forensics
+
+*General Metadata files parser, usefull during forensics investigations*
+
+* [Image::ExifTool](https://metacpan.org/pod/distribution/Image-ExifTool/exiftool) - General metadata parser and viewer framework
+
+## Reverse Engineering
+
+*Libraries used for disassembly assembly operations, ELF files and bytecode*
+
+* [Disassembly](https://metacpan.org/pod/distribution/B-C/script/disassemble) - Decompiles binary bytecode to readable and recompilable bytecode assembler
+* [Python::Bytecode](https://metacpan.org/pod/Python::Bytecode) - Parse Python bytecode
+* [B::Bytecode](https://metacpan.org/pod/B::Bytecode) - Compiles a Perl script into a bytecode format that could be loaded later
+* [Perf::ARM](https://metacpan.org/pod/Perf::ARM) - Use ARM instructions in Perl
+* [Asm::Z80::Table](https://metacpan.org/pod/Asm::Z80::Table) - assemble / disassemble all Z80 CPU assembly instructions with Perl
+* [X86::Disasm](https://metacpan.org/pod/X86::Disasm) - Disassemble Intel x86 instructions with Perl
+* [Disassemble::X86](https://metacpan.org/pod/Disassemble::X86) - Another library for disassembe X86 instructions
+* [X86::Udis86](https://metacpan.org/pod/X86::Udis86) - Interface for the C Udis disassembler
+* [Asm::X86](https://metacpan.org/pod/Asm::X86) - List of instructions and registers of x86-compatible processors, validating and converting instructions and memory references
+* [ELF::Writer](https://metacpan.org/pod/ELF::Writer) - write and read executable ELF files 
+
 
 ## Other Awesome Lists
 
