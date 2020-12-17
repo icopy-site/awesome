@@ -39,6 +39,9 @@ maybe not widely known) features or are awesome in some other way.
 * [U+1D455](https://codepoints.net/U+1D455) is missing. It would be an italic
     small “h”. It was not encoded, because it would be identical to the Planck
     constant ℎ ([U+210E](https://codepoints.net/U+210E)).
+* [U+FF03](https://codepoints.net/U+FF03) FULLWIDTH NUMBER SIGN - it is the 
+    "Japanese Hashtag" `＃`. Sites like Twitter accept it as equivalent to the 
+    regular `#` ([U+0023](https://codepoints.net/U+0023)).
 
 ## Code Points that Affect Others
 
@@ -132,9 +135,10 @@ different types of whitespace.
     in the 0x10000-0x10FFFD range, are private use characters, guaranteed to
     be never filled by a future Unicode standard.
 * [U+1F402](https://codepoints.net/U+1F402) OX - shortest name.
-* [U+FBF9](https://codepoints.net/U+FBF9) ARABIC LIGATURE UIGHUR KIRGHIZ YEH
-    WITH HAMZA ABOVE WITH ALEF MAKSURA ISOLATED FORM - longest name: 83
-    characters.
+* U+1FBA8 BOX DRAWINGS LIGHT DIAGONAL UPPER CENTRE TO MIDDLE LEFT AND MIDDLE RIGHT TO LOWER CENTRE
+    and
+    U+1FBA9 BOX DRAWINGS LIGHT DIAGONAL UPPER CENTRE TO MIDDLE RIGHT AND MIDDLE LEFT TO LOWER CENTRE - longest name: 88
+    characters each.
 * [U+FDFA](https://codepoints.net/U+FDFA) ARABIC LIGATURE SALLALLAHOU ALAYHE
     WASALLAM - longest decomposition form: 18 characters.
 * [U+5146](https://codepoints.net/U+5146) and
