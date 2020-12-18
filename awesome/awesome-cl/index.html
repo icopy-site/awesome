@@ -8778,7 +8778,6 @@ Bringing the speed of Static Dispatch to CLOS. <a href="http://opensource.franz.
 <li><a href="https://github.com/fukamachi/qlot">qlot</a> - A project-local library installer, similar to Bundler or Carton. <a href="https://directory.fsf.org/wiki/License:Expat">Expat</a>.</li>
 <li><a href="https://github.com/tarballs-are-good/quickutil">Quickutil</a> - A utility manager, similar to Quicklisp, but for small utilities rather than whole libraries. <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">3-clause BSD</a>.</li>
 <li><a href="https://gitlab.common-lisp.net/clpm/clpm">clpm</a> - A package manager for Common Lisp that strives to cleanly separate the package manager process itself from the client image that uses it. <a href="https://directory.fsf.org/wiki/License:BSD_2Clause">BSD_2Clause</a>.</li>
-<li><a href="https://github.com/CodyReichert/qi">Qi</a> - A package manager with a traditional approach. <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">BSD</a>.</li>
 </ul>
 <p>might help:</p>
 <ul>
@@ -8791,6 +8790,7 @@ Bringing the speed of Static Dispatch to CLOS. <a href="http://opensource.franz.
 <li><a href="https://github.com/dimitri/ql-to-deb">ql-to-deb</a> -  Update cl-* debian packages from Quicklisp releases. WTFPL.</li>
 <li><a href="https://github.com/ralt/dh-quicklisp-buildapp">dh-quicklisp-buildapp</a> - debhelper utility to let you compile your quicklisp-based Common Lisp code into a buildapp binary in a .deb with almost no effort. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 <li><a href="https://github.com/can3p/cl-brewer">cl-brewer</a> - Homebrew formula builder for (command line) common lisp applications. Public domain.</li>
+<li><a href="https://gitlab.com/ralph-schleicher/flatpak-common-lisp">flatpack-common-lisp</a> - A BuildStream project for building Flatpak based runtime environments for Common Lisp applications.</li>
 </ul>
 <p>See also <a href="https://github.com/smashedtoatoms/asdf-sbcl">asdf-sbcl</a>, a plugin for the universal package manager.</p>
 <h1 id="machine-learning">Machine Learning<a class="headerlink" href="#machine-learning" title="Permanent link">&para;</a></h1>
@@ -8897,7 +8897,7 @@ Bringing the speed of Static Dispatch to CLOS. <a href="http://opensource.franz.
 </ul>
 <h2 id="javascript">Javascript<a class="headerlink" href="#javascript" title="Permanent link">&para;</a></h2>
 <ul>
-<li><img alt="⭐️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/2b50.svg" title=":star:" /> <a href="https://github.com/vsedach/Parenscript">Parenscript</a> - A translator from Common Lisp to Javascript. <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">3-clause BSD</a>. See <a href="https://github.com/johnmastro/trident-mode.el">Trident-mode</a>, an Emacs mode that provides live interaction with the browser.<a href="http://unlicense.org/">unlicence</a>.</li>
+<li><img alt="⭐️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/2b50.svg" title=":star:" /> <a href="https://common-lisp.net/project/parenscript/">Parenscript</a> - A translator from Common Lisp to Javascript. <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">3-clause BSD</a>. See <a href="https://github.com/johnmastro/trident-mode.el">Trident-mode</a>, an Emacs mode that provides live interaction with the browser.<a href="http://unlicense.org/">unlicence</a>.</li>
 <li><a href="https://github.com/BnMcGn/paren6/">paren6</a> - a set of ES6 macros for Parenscript.</li>
 <li><a href="http://marijnhaverbeke.nl/parse-js/">parse-js</a> - A package for parsing ECMAScript 3. <a href="https://directory.fsf.org/wiki/License:Zlib">zlib</a>.</li>
 <li><a href="https://github.com/jscl-project/jscl">JSCL</a> - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.</li>
@@ -9014,6 +9014,8 @@ Service (S3) and CloudFront service. <a href="https://directory.fsf.org/wiki/Lic
 <li><img alt="⭐️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/2b50.svg" title=":star:" /> <a href="https://common-lisp.net/project/bordeaux-threads/">BordeauxThreads</a> - Portable, shared-state concurrency. <a href="https://directory.fsf.org/wiki/License:Expat">Expat</a>.</li>
 <li><img alt="⭐️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/2b50.svg" title=":star:" /> <a href="https://github.com/lmj/lparallel">lparallel</a> - A library for parallel programming. <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">3-clause BSD</a>.</li>
 <li><a href="https://github.com/lmj/lfarm">lfarm</a> - distributing work across machines (on top of lparallel and usocket). <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">BSD_3Clause</a></li>
+<li><a href="https://github.com/hawkir/calispel">calispel</a> - <a href="https://en.wikipedia.org/wiki/Communicating_sequential_processes">CSP</a>-like channels for common lisp. With blocking, optionally buffered channels and a "CSP select" statement. ISC-style.</li>
+<li>"It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. <a href="https://github.com/CodyReichert/awesome-cl/issues/290">discussion</a></li>
 <li><a href="https://github.com/zkat/chanl">chanl</a> - Portable, channel-based concurrency. <a href="https://directory.fsf.org/wiki/License:Expat">Expat</a>, with parts under <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">3-clause BSD</a>.</li>
 <li><a href="https://github.com/orthecreedence/cl-async">cl-async</a> - A library for general-purpose, non-blocking programming. <a href="https://directory.fsf.org/wiki/License:Expat">Expat</a>.</li>
 <li><a href="https://github.com/TBRSS/moira">Moira</a> -  Monitor and restart background threads. In-lisp process supervisor. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
@@ -9209,6 +9211,8 @@ programs, providing support for mixed language debugging.</li>
   etc). <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 <li><a href="https://github.com/vseloved/wiki-lang-detect">wiki-lang-detect</a> -
 Text language identification using Wikipedia data. No license specified.</li>
+<li><a href="https://github.com/bgutter/cl-phonetic">cl-phonetic</a> - Phonetic pattern matching library for Common Lisp (intended to replace the Sylvia library for Python). <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
+<li><a href="https://github.com/pokepay/cl-string-generator">cl-string-generator</a> -  Generate string from regular expression. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
 <h1 id="tools_1">Tools<a class="headerlink" href="#tools_1" title="Permanent link">&para;</a></h1>
 <p>These are applications or bits of code that make development in Common Lisp easier without being Common Lisp libraries themselves.</p>
@@ -9263,7 +9267,7 @@ Text language identification using Wikipedia data. No license specified.</li>
 </ul>
 <h2 id="date-and-time">Date and time<a class="headerlink" href="#date-and-time" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="https://common-lisp.net/project/local-time/">localtime</a> - A development library for manipulating date and time information in a semi-standard manner. <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">3-clause BSD</a>.</li>
+<li><img alt="⭐️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/2b50.svg" title=":star:" /> <a href="https://common-lisp.net/project/local-time/">local-time</a> - A development library for manipulating date and time information in a semi-standard manner. <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">3-clause BSD</a>.</li>
 <li><a href="https://github.com/tkych/cl-date-time-parser">cl-date-time-parser</a> - Parse date-time-string, liberally. Hides the difference between date-time formats, and enables to manage date and time as the one date-time format. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 <li><a href="https://github.com/chaitanyagupta/chronicity">chronicity</a> - A natural language date and time parse, to parse strings like "3 days from now". <a href="https://directory.fsf.org/wiki/License:BSD_3Clause">BSD_3Clause</a>.</li>
 <li><a href="https://github.com/enaeher/local-time-duration">local-time-duration</a> -
@@ -9389,6 +9393,7 @@ to access git repository. It doesn't need git or libgit installed. <a href="http
   lispy, structure-less Gnuplot library. With its
   <a href="http://guicho271828.github.io/eazy-gnuplot/">cookbook</a>. <a href="http://opensource.franz.com/preamble.html">LLGPL</a></li>
 <li><a href="https://github.com/komi1230/kai">kai</a> - A high-level plotter library for Common Lisp. A wrapper around the <a href="https://plotly.com/javascript/">Plotly</a> JS library. <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
+<li><a href="https://common-lisp.net/project/adw-charting/">ADW-Charting</a> - A simple chart drawing library written completely in Common Lisp. Also includes a backend to Google's chart service. BSD-like.</li>
 <li><a href="https://github.com/tkych/cl-spark">cl-spark</a> - sparkline strings for the console: <code>(spark '(1 1 2 3 5 8))</code> =&gt; "▁▁▂▃▅▇". <a href="https://opensource.org/licenses/MIT">MIT</a>.</li>
 </ul>
 <h2 id="security">Security<a class="headerlink" href="#security" title="Permanent link">&para;</a></h2>
