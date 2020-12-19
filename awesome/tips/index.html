@@ -5954,8 +5954,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#show-a-git-logical-variable" class="md-nav__link">
-    Show a Git logical variable.
+  <a href="#list-all-git-variable" class="md-nav__link">
+    List all Git variable.
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#show-a-git-specific-variable" class="md-nav__link">
+    Show a Git specific variable.
   </a>
   
 </li>
@@ -10459,8 +10466,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#show-a-git-logical-variable" class="md-nav__link">
-    Show a Git logical variable.
+  <a href="#list-all-git-variable" class="md-nav__link">
+    List all Git variable.
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#show-a-git-specific-variable" class="md-nav__link">
+    Show a Git specific variable.
   </a>
   
 </li>
@@ -11051,7 +11065,7 @@ git config --global alias.st status
 </pre></div>
 
 <h2 id="restore-deleted-file">Restore deleted file.<a class="headerlink" href="#restore-deleted-file" title="Permanent link">&para;</a></h2>
-<div class="codehilite"><pre><span></span>git checkout &lt;deleting_commit&gt;^ -- &lt;file_path&gt;
+<div class="codehilite"><pre><span></span>git checkout &lt;deleting_commit&gt; -- &lt;file_path&gt;
 </pre></div>
 
 <h2 id="restore-file-to-a-specific-commit-hash">Restore file to a specific commit-hash<a class="headerlink" href="#restore-file-to-a-specific-commit-hash" title="Permanent link">&para;</a></h2>
@@ -11327,8 +11341,12 @@ git bisect reset                    <span class="c1"># Finish search </span>
 <div class="codehilite"><pre><span></span>git blame -L &lt;start&gt;,&lt;end&gt;
 </pre></div>
 
-<h2 id="show-a-git-logical-variable">Show a Git logical variable.<a class="headerlink" href="#show-a-git-logical-variable" title="Permanent link">&para;</a></h2>
-<div class="codehilite"><pre><span></span>git var -l <span class="p">|</span> &lt;variable&gt;
+<h2 id="list-all-git-variable">List all Git variable.<a class="headerlink" href="#list-all-git-variable" title="Permanent link">&para;</a></h2>
+<div class="codehilite"><pre><span></span>git var -l
+</pre></div>
+
+<h2 id="show-a-git-specific-variable">Show a Git specific variable.<a class="headerlink" href="#show-a-git-specific-variable" title="Permanent link">&para;</a></h2>
+<div class="codehilite"><pre><span></span>git var &lt;variable&gt;
 </pre></div>
 
 <h2 id="preformatted-patch-file">Preformatted patch file.<a class="headerlink" href="#preformatted-patch-file" title="Permanent link">&para;</a></h2>
