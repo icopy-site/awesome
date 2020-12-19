@@ -619,7 +619,7 @@ git clean -X -f
 
 ## Restore deleted file.
 ```sh
-git checkout <deleting_commit>^ -- <file_path>
+git checkout <deleting_commit> -- <file_path>
 ```
 
 ## Restore file to a specific commit-hash
@@ -977,9 +977,14 @@ git config [--global] --edit
 git blame -L <start>,<end>
 ```
 
-## Show a Git logical variable.
+## List all Git variable.
 ```sh
-git var -l | <variable>
+git var -l
+```
+
+## Show a Git specific variable.
+```sh
+git var <variable>
 ```
 
 ## Preformatted patch file.
