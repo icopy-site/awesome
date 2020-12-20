@@ -232,6 +232,7 @@ nav:
     - Yew: awesome/awesome-yew.md
     - Material-UI: awesome/awesome-material-ui.md
     - Building Blocks for Web Apps: awesome/awesome-building-blocks-for-web-apps.md
+    - Svelte: awesome/awesome-svelte.md
   - Back-End Development:
     - Flask: awesome/awesome-flask.md
     - Docker: awesome/awesome-docker.md
@@ -586,6 +587,7 @@ nav:
     - Prometheus: awesome/awesome-prometheus.md
     - Homematic: awesome/awesome-homematic.md
     - Ledger: awesome/awesome-ledger.md
+    - Web Monetization: awesome/awesome-web-monetization.md
     - Uncopyright: awesome/awesome-uncopyright.md
     - Crypto Currency Tools & Algorithms: awesome/awesome-coins.md
     - Diversity: awesome/awesome-diversity.md

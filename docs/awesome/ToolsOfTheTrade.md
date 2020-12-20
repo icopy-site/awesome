@@ -107,12 +107,13 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Toggl](https://toggl.com) | [@toggl](https://twitter.com/toggl) | Free - $59/mo | Toggl’s time tracker is built for speed and ease of use. Time logging with Toggl is so simple that you’ll actually use it. |
-| [Clockify](https://clockify.me) | [@clockify](https://twitter.com/clockify) | Free | Clockify is the only 100% Free time tracking software that lets you and your team track time with one click. It works like Toggl but offers unlimited features and unlimited users. |
-| [Hubstaff](https://hubstaff.com) | [@hubstaff](https://twitter.com/Hubstaff) | Free - $9/mo | Hubstaff is time tracking software designed to make remote team management more effective and efficient. You just have to sign up, download our intuitive desktop app and push the start button to begin tracking time. |
+| [Toggl](https://toggl.com) | [@toggl](https://twitter.com/toggl) | Free - $20/user/mo | Toggl’s time tracker is built for speed and ease of use. Time logging with Toggl is so simple that you’ll actually use it. |
+| [Clockify](https://clockify.me) | [@clockify](https://twitter.com/clockify) | Free - $9/user/mo| Clockify is the only 100% Free time tracking software that lets you and your team track time with one click. It works like Toggl but offers unlimited features and unlimited users. |
+| [Hubstaff](https://hubstaff.com) | [@hubstaff](https://twitter.com/Hubstaff) | Free - $20/user/mo | Hubstaff is time tracking software designed to make remote team management more effective and efficient. You just have to sign up, download our intuitive desktop app and push the start button to begin tracking time. |
 | [Tickspot](https://www.tickspot.com/) | [@tickspot](https://twitter.com/tickspot) | Free - $149/mo | Straightforward time tracking software to help your team run more profitable projects. Whether you prefer iOS, Android, the Apple Watch, or your desktop computer, Tick is the easiest way to track your time. |
 | [Kimai](https://www.kimai.org/) | [@kimai_org](https://twitter.com/kimai_org) | self-hosted | Kimai is a Free open source timetracker. It tracks work time and prints out a summary of your activities on demand. Yearly, monthly, daily, by customer, by project, by action, etc. |
 | [Timetrap](https://github.com/samg/timetrap) | - | Free | Simple open source command line time tracking. |
+| [OfficeClip](https://www.officeclip.com/web/timesheet) | @OfficeClip | Free - $12/user/mo| Time tracking software designed for small business. Free for unlimited user and unlimited time. Available as boh Hosted and Self-Hosted |
 
 ### App Developer Tools
 
@@ -239,6 +240,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Grafana](https://grafana.com) | [@grafana](https://twitter.com/grafana) | $0 - $90/mo (+9/user/mo) | The analytics platform for all your metrics. Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data-driven culture. |
 | [Redash](https://redash.io) | [@getredash](https://twitter.com/getredash) | Self-hosted or $49/mo - 450/mo | "Redash has support for querying multiple databases, including: Redshift, Google BigQuery, PostgreSQL, MySQL, Graphite, Presto, Google Spreadsheets, Cloudera Impala, Hive and custom scripts." |
 | [Cyfe](https://www.cyfe.com) | [@cyfe](https://twitter.com/Cyfe) | $0 - $29/mo | Cyfe offers all-in-one web dashboards for your clients to help them monitor and analyze data scattered across all their online services like Google Analytics, Salesforce, AdSense, MailChimp, Amazon, Facebook, WordPress, Twitter and more from one single location in real-time. |
+| [Two Minute Reports](https://www.gox.ai/two-minute-reports/) | - | Free - $9/mo | Two-Minute-Reports is an addon for Google Sheets, that helps startups pull data from different sources like Google Analytics, MySQL, Google PageSpeed, Firebase, etc. to analyze data, create reports, and automate e-mail reporting.
 
 ### Error/Exception Handling
 
@@ -364,6 +366,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Open Exchange Rates](https://openexchangerates.org) | - | $12/mo - $97/mo | Real-time exchange rates & currency conversion JSON API. A simple and easy-to-integrate exchange rates API in JSON format, with HTTPS and JSONP support, with examples, guides and full documentation. |
 | [FormAPI](https://formapi.io) | [@form_api](https://twitter.com/form_api) | $49/mo - $249/mo | PDF Service for Developers. Makes it easy for programmers to fill out and sign PDF documents. Saves a lot of development time if you need to generate a lot of contracts, invoices, etc. |
 | [iplocate.app](https://iplocate.app) | - | Free | Free geolocation API service (IP address to location) |
+| [Abstract APIs](https://www.abstractapi.com) | [@abstractapi](https://twitter.com/abstractapi) | Free - $249/mo | Suite of APIs for everyday needs (email validation, VAT calculation, IP geolocation, and more). |
 
 ### Site Search
 
@@ -500,9 +503,10 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Effortless Reviews](https://effortlessreviews.com) | [@effortlessrevie](https://twitter.com/EffortlessRevie) | Free - $25/mo | Easily reach out to your customers for feedback and reviews. |
-| [PickFu](https://www.pickfu.com) | [@pickfu](https://twitter.com/pickfu) | $20/mo - $299/mo | REAL CONSUMER FEEDBACK IN MINUTES. PickFu is a tool that provides instant, unbiased and insightful public opinion on questions that you care about. |
+| [PickFu](https://www.pickfu.com) | [@pickfu](https://twitter.com/pickfu) | $50/mo - $299/mo | REAL CONSUMER FEEDBACK IN MINUTES. PickFu is a tool that provides instant, unbiased and insightful public opinion on questions that you care about. |
 | [Promoter.io](https://www.promoter.io) | [@Promoter_io](https://twitter.com/promoter_io) | $199/mo - $479/mo | Helps companies quickly gain predictive customer intelligence & insights driven by NPS (Net Promoter) to increase revenue and reduce churn. |
 | [Raaft.io](https://www.raaft.io/) | [@RaaftRetain](https://twitter.com/RaaftRetain) | $79/mo - $229/mo| Instantly get feedback from every canceling customer. Make retention offers to reduce churn. |
+| [ProsperStack](https://prosperstack.com/) | [@prosperstack](https://twitter.com/prosperstack) | Free - $149+| Collect cancellation feedback from customers and prevent churn automatically. |
 
 
 ### Data
@@ -543,6 +547,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Runway](https://startuprunway.io) | [@ltse](https://twitter.com/ltse) | Free | Most startups die from running out of cash. Runway is an easy, visual way to plan and manage your startup's most precious resource, explore scenarios and track planned versus actual spending. |
 | [WaveApps](https://www.waveapps.com/) | [@WaveHQ](https://twitter.com/WaveHQ) | Free | Startups on a budget will love this free accounting software (only paying normal pricing for transactions, invoicing and payroll) |
 | [InvoiceNinja](https://www.invoiceninja.com/) | [@invoiceninja](https://twitter.com/invoiceninja) | Free, $8, $12 | You can host it yourself and get it whitelabeled or do the service online depending on your budget. |
+| [Bonsai](https://www.hellobonsai.com/) | [@bonsaiinc](https://twitter.com/bonsaiinc) | Free, $19, $29 | Online invoicing and payments with intregated accounting, expenses, and proposals. |
 
 ### Privacy Policy, Terms & Conditions, Legal Documents
 
@@ -566,7 +571,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [FetchApp](https://www.fetchapp.com) | [@fetchapp](https://twitter.com/fetchapp) | $5/mo - $500/mo | The Simpler way to Fetch. Simply put, FetchApp allows you to sell and digitally delivery downloadable goods |
 | [Chargify](https://www.chargify.com) | [@chargify](https://twitter.com/chargify) | $459/mo - $65/mo | Easily Manage Your Recurring Revenue Business. Customers sign up, make payments, use coupons, upgrade... You bill one-time & recurring fees using whatever pricing model you need, charge cards, send invoices & reminders, etc. |
 | [Recurly](https://recurly.com) | [@Recurly](https://twitter.com/Recurly) | $99/mo - $259/mo | Subscription Billing Automation. As the leading recurring billing platform, Recurly ensures setup is easy, integrations are quick, and our service scales with the needs of your business. With Recurly you'll be ready to accept payments and focus on growing your sales in no time. |
-| [ChargeBee](https://www.chargebee.com) | [@chargebee](https://twitter.com/chargebee) | $49/mo - $249/mo | ChargeBee is an easy to use recurring billing and invoicing solution for online businesses |
 | [ChargeOver](https://chargeover.com) | [@ChargeOver](https://twitter.com/chargeover) | $65/mo- $549/mo | ChargeOver is a full featured invoicing platform supporting payment plans, recurring billing, one-time billing, and all the major gateway backends. |
 | [Chargebee](https://www.chargebee.com/) | [@chargebee](https://twitter.com/chargebee) | $249/mo- $599/mo | Chargebee is a Subscription Billing & Revenue Operations for Fast-growth B2B SaaS |
 

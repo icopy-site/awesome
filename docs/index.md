@@ -258,6 +258,7 @@
 - [Yew](awesome/awesome-yew.md) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
 - [Material-UI](awesome/awesome-material-ui.md) - Material Design React components for faster and easier web development.
 - [Building Blocks for Web Apps](awesome/awesome-building-blocks-for-web-apps.md) - Standalone features to be integrated into web apps.
+- [Svelte](awesome/awesome-svelte.md) - App framework.
 
 ## Back-End Development
 
@@ -651,6 +652,7 @@
 - [Prometheus](awesome/awesome-prometheus.md) - Open-source monitoring system.
 - [Homematic](awesome/awesome-homematic.md) - Smart home devices.
 - [Ledger](awesome/awesome-ledger.md) - Double-entry accounting on the command-line.
+- [Web Monetization](awesome/awesome-web-monetization.md) - A free open web standard service that allows you to send money directly in your browser. 
 - [Uncopyright](awesome/awesome-uncopyright.md) - Public domain works.
 - [Crypto Currency Tools & Algorithms](awesome/awesome-coins.md) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 - [Diversity](awesome/awesome-diversity.md) - Creating a more inclusive and diverse tech community.

@@ -2,21 +2,12 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Open Sustainable Technology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!--lint ignore double-link-->
-[<img src="https://raw.githubusercontent.com/protontypes/awesome-sustainable-technology/master/earth.gif" align="right" width="330"> <br>](https://tabletopwhale.com/)
 __[Open technology projects](https://opensustain.tech/) sustaining stable climate, energy supply and vital natural resources__
-> "For technology to be truly sustainable, it must be globally available and independent. The open distribution of sustainable technology, knowledge and data provides the basis for an ecological and economical global economy.  This secures the access to vital resources such as stable climate, soil or water for everyone in the long term." [protontypes](https://protontypes.eu/)
-
-<br>
-
 <!--lint ignore double-link-->
-Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](https://github.com/protontypes/awesome-sustainable-technology/blob/master/CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [contact us](https://protontypes.eu/contact/) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or create a issue on GitHub.
-To explore Open Sustainable Technology Communities check out our list of them [here](https://github.com/protontypes/awesome-sustainable-technology/blob/master/docs/COMMUNITIES.md).
+[![Join the chat at https://gitter.im/protontypes/community](https://badges.gitter.im/protontypes/community.svg)](https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[<img src="https://raw.githubusercontent.com/protontypes/awesome-sustainable-technology/master/earth.gif" align="right" width="330"> <br>](https://tabletopwhale.com/)
+_"For technology to be truly sustainable, it must be globally available and independent. The open distribution of sustainable technology, knowledge and data provides the basis for an ecological and economical global economy.  This secures the access to vital resources such as stable climate, soil or water for everyone in the long term." [protontypes](https://protontypes.eu/)_<br> <br>  Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](https://github.com/protontypes/awesome-sustainable-technology/blob/master/CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [contact us](https://protontypes.eu/contact/) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or create a issue on GitHub.
 
-<!--lint ignore double-link-->
-All new project entries will have a tweet from [protontypes](https://twitter.com/protontypes). 
-
-<!--lint ignore double-link-->
-[![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes) [![Join the chat at https://gitter.im/protontypes/community](https://badges.gitter.im/protontypes/community.svg)](https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ---
 <!--toc-->
@@ -65,6 +56,8 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [Photovoltaic_Fault_Detector](https://github.com/RentadroneCL/Photovoltaic_Fault_Detector) - Model-definition is a deep learning application for fault detection in photovoltaic plants.
 - [nasapower](https://github.com/ropensci/nasapower) - Aims to make it quick and easy to automate downloading NASA-POWER global meteorology, surface solar energy and climatology data in your R session as a tidy data frame tibble object for analysis and use in modelling or other purposes.
 - [pvcompare](https://github.com/greco-project/pvcompare) - A model for comparing the benefits of different PV technologies in a specified local energy system in different energy supply scenarios.
+- [solax](https://github.com/squishykid/solax) - Read energy usage data from the real-time API on Solax solar inverters.
+- [SolTrace](https://github.com/NREL/SolTrace) - A software tool developed at NREL to model concentrating solar power (CSP) systems and analyze their optical performance.
 
 
 ### Wind Turbines
@@ -147,10 +140,11 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [SLIDE](https://github.com/davidhowey/SLIDE) - SLIDE is a C++ code that simulates degradation of lithium ion cell.
 - [equiv-circ-model](https://github.com/batterysim/equiv-circ-model) - An equivalent circuit model for a battery cell, module, and pack.
 - [long-live-the-battery](https://github.com/dsr-18/long-live-the-battery) - Predicting total battery cycle life time with machine learning.
-- [ISEAFramework](https://github.com/FHust/ISEAFramework) - Allows coupled electrical-thermal simulations of single storage systems (e.g. lithium ion batteries or double layer capacitors) or complete storage system packs.
+- [ISEAFramework](https://git.rwth-aachen.de/isea/framework) - Allows coupled electrical-thermal simulations of single storage systems (e.g. lithium ion batteries or double layer capacitors) or complete storage system packs.
 - [Ampere](https://github.com/nealde/Ampere) - Advanced Model Package for ElectRochemical Experiments.
 - [StorageVET](https://github.com/epri-dev/StorageVET) - A valuation model for analysis of energy storage technologies and some other energy resources paired with storage.
 - [offgridsystems](https://github.com/offgridsystems/Documents) - Data sheet and assembly manual, component data sheets, busbars and files needed to build no-weld wireless BMS DKblock style battery packs.
+- [3d_milp](https://github.com/ElektrikAkar/3d_milp) - Energy Arbitrage Optimization With Battery Storage
 
 
 ### Hydrogen
@@ -358,6 +352,7 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [demandlib](https://github.com/oemof/demandlib) - With the demandlib you can create power and heat profiles for various sectors by scaling them to your desired demand.
 - [dieter_py](https://gitlab.com/diw-evu/dieter_public/dieter_py) -  A open-source power sector optimization model that has been developed to investigate the role of electricity storage and sector coupling options in future scenarios with high shares of renewable energy sources.
 - [OMEGAlpes](https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes) - Aims to be an energy systems modelling tool for linear optimisation (LP, MILP).
+- [](https://github.com/reegis/deflex) - Flexible multi-regional energy system model forheat, power and mobility.
 
 ### Analysis
 
@@ -751,6 +746,7 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [SWEET](https://github.com/ESIPFed/sweet) - Official repository for Semantic Web for Earth and Environmental Terminology Ontologies.
 - [PO.DAAC](https://podaac.jpl.nasa.gov/datasetlist) - NASA Earth Observing System Data and Information System data center managed by the Earth Science Data and Information System Project.
 - [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - Provides easy access to the European Centre for Medium-Range Weather Forecasts web API services and Copernicus Climate Data Store from within R, matching and expanding upon the ECMWF python tools.
+- [ncl](https://github.com/NCAR/ncl) - The NCAR Command Language (NCL) is a scripting language for the analysis and visualization of climate and weather data.
 
 
 ## Access and Monitoring of Resources

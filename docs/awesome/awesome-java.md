@@ -126,7 +126,7 @@ _Frameworks that help to create parsers, interpreters or compilers._
 
 _Libraries which seek to gain high level information from images and videos._
 
-- [BoofCV](https://boofcv.org) - Libray for image processing, camera calibration, tracking, SFM, MVS, 3D vision, QR Code and much more.
+- [BoofCV](https://boofcv.org) - Library for image processing, camera calibration, tracking, SFM, MVS, 3D vision, QR Code and much more.
 - [ImageJ](https://imagej.net/ImageJ) - Medical image processing application with an API.
 - [JavaCV](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and much more.
 
@@ -569,6 +569,7 @@ _Everything else._
 - [Jimfs](https://github.com/google/jimfs) - In-memory file system.
 - [Joda-Money](https://www.joda.org/joda-money/) - Basic currency and money classes and algorithms not provided by the JDK.
 - [JPad](http://jpad.io) - Snippet runner.
+- [jsweet](https://github.com/cincheo/jsweet) - Source transpiler to TypeScript/JavaScript.
 - [Maven Wrapper](https://github.com/takari/maven-wrapper) - Analogue of Gradle Wrapper for Maven, allows building projects without installing maven.
 - [Membrane Service Proxy](https://github.com/membrane/service-proxy) - Open-source, reverse-proxy framework.
 - [MinimalFTP](https://github.com/Guichaguri/MinimalFTP) - Lightweight, small and customizable FTP server.
