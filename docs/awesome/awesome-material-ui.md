@@ -72,6 +72,8 @@ A list of UI components built with Material-UI Design.
 - [Dx-react-chart-Material-UI](https://devexpress.github.io/devextreme-reactive/react/chart/) - Charts for Material-UI that visualizes data using a variety of series types, including bar, line, area, scatter, pie, and more.
 - [Material-UI Medium Blog](https://github.com/sabesansathananthan/material-ui-medium-blog) - Extended Material-UI Card component to show the Medium blogs.
 - [React Github Repo Cards](https://github.com/sabesansathananthan/react-github-repo-cards) - Extended Material-UI Card component to show the GitHub repositories.
+- [React molecule-components](https://github.com/alexandre-lelain/components-extra) - React molecule-components based on Material-UI.
+- [Material-UI NestedMenuItem](https://github.com/azmenak/material-ui-nested-menu-item) - Drop-in replacement for MUI's MenuItem with infinitely nested menus, and open on hover.
 
 ## Applications
 

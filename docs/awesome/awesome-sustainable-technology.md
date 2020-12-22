@@ -58,6 +58,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [pvcompare](https://github.com/greco-project/pvcompare) - A model for comparing the benefits of different PV technologies in a specified local energy system in different energy supply scenarios.
 - [solax](https://github.com/squishykid/solax) - Read energy usage data from the real-time API on Solax solar inverters.
 - [SolTrace](https://github.com/NREL/SolTrace) - A software tool developed at NREL to model concentrating solar power (CSP) systems and analyze their optical performance.
+- [CarrierCapture.jl](https://github.com/WMD-group/CarrierCapture.jl) - A set of codes to compute carrier capture and recombination rates in semiconducting compounds like solar cells. 
 
 
 ### Wind Turbines
@@ -756,6 +757,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [PO.DAAC](https://podaac.jpl.nasa.gov/datasetlist) - NASA Earth Observing System Data and Information System data center managed by the Earth Science Data and Information System Project.
 - [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - Provides easy access to the European Centre for Medium-Range Weather Forecasts web API services and Copernicus Climate Data Store from within R, matching and expanding upon the ECMWF python tools.
 - [ncl](https://github.com/NCAR/ncl) - The NCAR Command Language (NCL) is a scripting language for the analysis and visualization of climate and weather data.
+- [xskillscore](https://github.com/xarray-contrib/xskillscore) - An open source project and Python package that provides verification metrics of deterministic (and probabilistic from properscoring) forecasts with xarray.
 
 
 ## Access and Monitoring of Resources

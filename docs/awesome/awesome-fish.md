@@ -19,21 +19,11 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish)
 - [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) 🍣
 
-## Plugin Managers
-
-- [Fisher](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI.
-- [Fundle](https://github.com/danhper/fundle) - `config.fish`-based plugin manager inspired by Vundle.
-- [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - OMZ-inspired shell configuration framework.
-- [Tacklebox](https://github.com/justinmayer/tacklebox) - Configuration framework for organizing and sharing utilities.
-
 ## Prompts
 
 - [Tide](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish.
-- [Pure](https://github.com/rafaelrinaldi/pure) - Pretty, minimal Fish prompt ported from the [zsh original](https://github.com/sindresorhus/pure).
-- [Fly](https://github.com/jorgebucaran/fly.fish) - Unobtrusive Fish prompt with async Git status.
-- [Lucid](https://github.com/mattgreen/lucid.fish) - Minimal, high-performance prompt with async Git dirty check.
-- [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - Powerline-style, Git-aware shell prompt.
-- [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous!
+- [Pure](https://github.com/rafaelrinaldi/pure) - One-to-one port of [_that_](https://github.com/sindresorhus/pure) ZSH prompt to Fish.
+- [Hydro](https://github.com/jorgebucaran/hydro) - Minimal, lag-free prompt with async Git status.
 
 ## Plugins
 
@@ -44,13 +34,16 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Replay](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. ([Alternative](https://github.com/edc/bass))
 - [Spark](https://github.com/jorgebucaran/spark.fish) - Pure-Fish sparkline generator.
 - [Gitio](https://github.com/jorgebucaran/gitio.fish) - Create a custom git.io URL.
+- [Fisher](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI.
+- [Fundle](https://github.com/danhper/fundle) - `config.fish`-based plugin manager.
 - [GitNow](https://github.com/joseluisq/gitnow) - A collection of utility functions to speed up your git workflow.
-- [Autopair](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line. 🥊 ([Alternative](https://github.com/laughedelic/pisces)).
+- [Autopair](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command-line. ([Alternative](https://github.com/laughedelic/pisces)).
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin).
 - [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for Fish.
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
+- [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous.
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
-- [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Help you remembering abbreviations by displaying tips when you can use them.
+- [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them.
 
 ## Docker
 
