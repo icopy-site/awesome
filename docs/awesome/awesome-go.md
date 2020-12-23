@@ -409,7 +409,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [godbal](https://github.com/xujiajun/godbal) - Database Abstraction Layer (dbal) for go. Support SQL builder and get result easily.
 * [goqu](https://github.com/doug-martin/goqu) - Idiomatic SQL builder and query library.
 * [gosql](https://github.com/twharmon/gosql) - SQL Query builder with better null values support.
-* [hasql](https://golang.yandex/hasql) - Library for accessing multi-host SQL database installations. 
+* [hasql](https://golang.yandex/hasql) - Library for accessing multi-host SQL database installations.
 * [igor](https://github.com/galeone/igor) - Abstraction layer for PostgreSQL that supports advanced functionality and uses gorm-like syntax.
 * [jet](https://github.com/go-jet/jet) - Framework for writing type-safe SQL queries in Go, with ability to easily convert database query result into desired arbitrary object structure.
 * [mpath](https://github.com/spacetab-io/mpath-go) - MPTT (Modified Preorder Tree Traversal) package for SQL records - materialized path realisation.
@@ -597,6 +597,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [anko](https://github.com/mattn/anko) - Scriptable interpreter written in Go.
 * [binder](https://github.com/alexeyco/binder) - Go to Lua binding library, based on [gopher-lua](https://github.com/yuin/gopher-lua).
 * [cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing.
+* [ecal](https://github.com/krotik/ecal) - A simple embeddable scripting language which supports concurrent event processing.
 * [expr](https://github.com/antonmedv/expr) - Expression evaluation engine for Go: fast, non-Turing complete, dynamic typing, static typing.
 * [gentee](https://github.com/gentee/gentee) - Embeddable scripting programming language.
 * [gisp](https://github.com/jcla1/gisp) - Simple LISP in Go.
@@ -868,6 +869,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [goimagehash](https://github.com/corona10/goimagehash) - Go Perceptual image hashing package.
 * [goimghdr](https://github.com/corona10/goimghdr) - The imghdr module determines the type of image contained in a file for Go.
 * [govatar](https://github.com/o1egl/govatar) - Library and CMD tool for generating funny avatars.
+* [govips](https://github.com/davidbyttow/govips) - A lightning fast image processing and resizing library for Go.
 * [gridder](https://github.com/shomali11/gridder) - A Grid based 2D Graphics library.
 * [image2ascii](https://github.com/qeesung/image2ascii) - Convert image to ASCII.
 * [imagick](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API.
@@ -934,10 +936,11 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [gojq](https://github.com/elgs/gojq) - JSON query in Golang.
 * [gojson](https://github.com/ChimeraCoder/gojson) - Automatically generate Go (golang) struct definitions from example JSON.
 * [JayDiff](https://github.com/yazgazan/jaydiff) - JSON diff utility written in Go.
-* [jettison](https://github.com/wI2L/jettison) - High performance, reflection-less JSON encoder for Go.
+* [jettison](https://github.com/wI2L/jettison) - Fast and flexible JSON encoder for Go.
 * [JSON-to-Go](https://mholt.github.io/json-to-go/) - Convert JSON to Go struct.
 * [json2go](https://github.com/m-zajac/json2go) - Advanced JSON to Go struct conversion. Provides package that can parse multiple JSON documents and create struct to fit them all.
 * [jsonapi-errors](https://github.com/AmuzaTkts/jsonapi-errors) - Go bindings based on the JSON API errors reference.
+* [jsondiff](https://github.com/wI2L/jsondiff) - JSON diff library for Go based on RFC6902 (JSON Patch).
 * [jsonf](https://github.com/miolini/jsonf) - Console tool for highlighted formatting and struct query fetching JSON.
 * [jsongo](https://github.com/ricardolonga/jsongo) - Fluent API to make it easier to create Json objects.
 * [jsonhal](https://github.com/RichardKnop/jsonhal) - Simple Go package to make custom structs marshal into HAL compatible JSON responses.
@@ -1011,6 +1014,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-cluster](https://github.com/e-XpertSolutions/go-cluster) - Go implementation of the k-modes and k-prototypes clustering algorithms.
 * [go-deep](https://github.com/patrikeh/go-deep) - A feature-rich neural network library in Go.
 * [go-fann](https://github.com/white-pony/go-fann) - Go bindings for Fast Artificial Neural Networks(FANN) library.
+* [go-featureprocessing](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine leraning in Go.
 * [go-galib](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / golang.
 * [go-pr](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
 * [gobrain](https://github.com/goml/gobrain) - Neural Networks written in go.
@@ -1071,6 +1075,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [gorush](https://github.com/appleboy/gorush) - Push notification server using [APNs2](https://github.com/sideshow/apns2) and google [GCM](https://github.com/google/go-gcm).
 * [gosd](https://github.com/alexsniffin/gosd) - A library for scheduling when to dispatch a message to a channel.
 * [guble](https://github.com/smancke/guble) - Messaging server using push notifications (Google Firebase Cloud Messaging, Apple Push Notification services, SMS) as well as websockets, a REST API, featuring distributed operation and message-persistence.
+* [hare](https://github.com/leozz37/hare) - A user friendly library for sending messages and listening to TCP sockets.
 * [hub](https://github.com/leandro-lugaresi/hub) - A Message/Event Hub for Go applications, using publish/subscribe pattern with support for alias like rabbitMQ exchanges.
 * [jazz](https://github.com/socifi/jazz) - A simple RabbitMQ abstraction layer for queue administration and publishing and consuming of messages.
 * [machinery](https://github.com/RichardKnop/machinery) - Asynchronous task queue/job queue based on distributed message passing.
@@ -1416,7 +1421,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [fileb0x](https://github.com/UnnoTed/fileb0x) - Simple tool to embed files in go with focus on "customization" and ease to use.
 * [go-embed](https://github.com/pyros2097/go-embed) - Generates go code to embed resource files into your library or executable.
 * [go-resources](https://github.com/omeid/go-resources) - Unfancy resources embedding with Go.
-* [go.rice](https://github.com/GeertJohan/go.rice) - go.rice is a Go package that makes working with resources such as html,js,css,images and templates very easy.
+* [go.rice](https://github.com/GeertJohan/go.rice) - go.rice is a Go package that makes working with resources such as HTML, JS, CSS, images, and templates very easy.
 * [mule](https://github.com/wlbr/mule) - Embed external resources like images, movies ... into Go source code to create single file binaries using `go generate`. Focussed on simplicity.
 * [packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
 * [statics](https://github.com/go-playground/statics) - Embeds static resources into go files for single binary compilation + works with http.FileSystem + symlinks.

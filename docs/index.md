@@ -506,6 +506,7 @@
 - [Bluetooth Beacons](awesome/awesome-beacon.md)
 - [Electric Guitar Specifications](awesome/guitarspecs.md) - Checklist for building your own electric guitar.
 - [Plotters](awesome/awesome-plotters.md) - Computer-controlled drawing machines and other visual art robots.
+- [LIDAR](awesome/awesome-lidar.md) - Sensor for measuring distances by illuminating the target with laser light.
 
 ## Business
 

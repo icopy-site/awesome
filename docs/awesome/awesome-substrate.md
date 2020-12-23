@@ -188,6 +188,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Hydra](https://github.com/Joystream/hydra) - A GraphQL framework for Substrate nodes with a
   [hosted playground](https://indexer-kusama.joystream.app/graphql). Check out the great
   [docs](https://github.com/Joystream/hydra/tree/master/docs).
+- [Substrate Graph](https://github.com/playzero/substrate-graph) - GraphQL indexer for
+  Substrate-based chains.
 - [Megaclite](https://github.com/patractlabs/megaclite) - Zero-knowledge tools for the Polkadot
   ecosystem.
 - [Europa](https://github.com/patractlabs/europa) - A sandbox for the Substrate runtime execution
@@ -211,6 +213,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   bundle that contains Polkadot{JS} libraries.
 - [`substrate-staking`](https://github.com/shawntabrizi/substrate-society) - A basic front-end for
   the FRAME Society pallet.
+- [Aleph.im](https://aleph.im) - Scalable, decentralized database, file storage, and computation
+  services for Substrate chains and more.
 
 ## Alternative Implementations
 
