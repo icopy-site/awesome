@@ -27,6 +27,10 @@ You can find a (way cooler) web version of this list [here](https://gbdev.github
     - [Experimental/Proof of Concepts](#experimentalproof-of-concepts)
   - [Emulators](#emulators)
   - [Tools](#tools)
+    - [Engines](#engines)
+    - [Development tools](#development-tools)
+    - [Graphics utilities](#graphics-utilities)
+    - [Hardware and ROM utilities](#hardware-and-rom-utilities)
     - [Music drivers and trackers](#music-drivers-and-trackers)
 - [Programming](#programming)
   - [ASM](#asm)
@@ -214,11 +218,11 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 ### Compilers
 
-- [GBDK](http://gbdk.sourceforge.net/) - A set of tools that enable to develop in **C**. Includes a set of libraries for the most common requirements and generates ready ROM files. [Documentation](http://gbdk.sourceforge.net/doc/gbdk-doc.pdf).
++ [GBDK](http://gbdk.sourceforge.net/) - A set of tools that enable to develop in **C**. Includes a set of libraries for the most common requirements and generates ready ROM files. Last updated in 2001. [Documentation](http://gbdk.sourceforge.net/doc/gbdk-doc.pdf).
+  - [GBDK-2020](https://github.com/Zal0/gbdk-2020/) - A modernized GBDK with updated SDCC toolchain (supports ROM banking), bug fixes, documentation and other improvements. Supports Windows, Linux and MacOS.
   - [gbdk-osx](https://github.com/x43x61x69/gbdk-osx) - Patched GBDK 2.96a for the latest compilers on macOS.
   - [gbdk-n](https://github.com/rotmoset/gbdk-n) - Aims to update the gbdk libraries to be compatible with new versions of SDCC and provide helpers for building roms. Does not support ROM banking, thus limiting ROM size to 32K.
-  - [gbdk-2020](https://github.com/Zal0/gbdk-2020) - An updated version of GBDK, C compiler, assembler, linker and set of libraries.
-
+  
 #### Experimental/Proof of Concepts
 
 - [Wiz](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).
@@ -240,37 +244,51 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Gambatte](https://github.com/sinamas/gambatte) - Cross-platform and accurate emulator.
 - [MetroBoy](https://github.com/aappleby/MetroBoy) - A playable, circuit-level simulation of an entire Game Boy.
 - [gbe-plus](https://github.com/shonumi/gbe-plus) - A recently rewritten emulator that has a large effort in preserving the functions of obscure accessories (such as IR link, Mobile Network GB, Barcode Boy, GB Printer, local and online GB Serial Link Cable, ... )
+- [Emulicious](https://emulicious.net/) - Provides accurate emulation and includes powerful tools such as a profiler and source-level debugging for ASM and C via a [VS Code debug adapter](https://marketplace.visualstudio.com/items?itemName=emulicious.emulicious-debugger).
 
 [Complete list of open source emulators](EMULATORS.md)
 
 ### Tools
 
+#### Engines
+
 - [ZGB](https://github.com/Zal0/ZGB) - A little engine for creating games for the original Game Boy (expands gbdk, more info [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)).
-- [Game Boy Tile Data Generator](https://github.com/chrisantonellis/gbtdg) - HTML5 / JS web application that will convert bitmap images to hexadecimal data appropriate for use in tile based graphical applications, specifically GB.
-- [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) - Some sources and home of Game Boy Tile Designer and Game Boy Map Builder tools.
-- [GBTiles](https://github.com/bashaus/gbtiles) - Converts .GBR files created with Harry Mulder's Tile Designer (GBTD) and .GBM files created with Harry Mulder's Map Builder (GBMB) to different formats for use with the Game Boy and GBDK.
-- [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) - An online tool to inspect and modify a ROM's header data, including the logo.
-- [gbcamextract](https://github.com/jkbenaim/gbcamextract) - Extracts photos from Game Boy Camera saves.
+- [Retr0 GB](https://bitbucket.org/HellSuffering/retr0-gb/) - An engine for creating games (expands GBDK).
+
+#### Development tools
+
 - [GBExtended](http://www.tensi.eu/thomas/programming/gameboy/gbextended.html) - C library extending gbdk.
+- [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) - A small set of sources and tools for the Game Boy Development Kit by Michael Hope.
+- [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - An IDE for Game Boy programming in a C-like language called GBL, with many other features like tile and map extraction, WLA-DX assembly, and more.
+- [mgbdis](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
+- [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) - An online tool to inspect and modify a ROM's header data, including the logo.
+- [romusage](https://github.com/bbbbbr/romusage) - Command line tool for estimating usage (free space) of Game Boy ROMs from a .map, .noi or ihx file. Works with GBDK-2020 and RGBDS.
+- [awake](https://github.com/devdri/awake) - Game Boy decompiler.
+- [Game Boy Text Tools](https://github.com/raphaklaus/gameboy-text-tools) - Set of tools for text manipulation and translation of Game Boy ROMs written in Node.js.
+
+#### Graphics utilities
+
+- [Game Boy Tile Data Generator](https://github.com/chrisantonellis/gbtdg) - HTML5 / JS web application that will convert bitmap images to hexadecimal data appropriate for use in tile based graphical applications, specifically GB.
+- [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) - Some sources and home of Game Boy Tile Designer (GBTD) and Game Boy Map Builder (GBMB) tools.
+- [GBTiles](https://github.com/bashaus/gbtiles) - Converts .GBR files created with Harry Mulder's Tile Designer (GBTD) and .GBM files created with Harry Mulder's Map Builder (GBMB) to different formats for use with the Game Boy and GBDK.
 - [bmp2cgb](https://github.com/gitendo/bmp2cgb) - Graphics converter for Game Boy Color development providing real time palette adjustments.
 - [png2gb](https://github.com/LuckyLights/png2gb) - CLI tool to convert image file to game boy .c array.
-- [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) - A small set of sources and tools for the Game Boy Development Kit by Michael Hope.
 - [GB-convert](https://github.com/exezin/gb-convert) - Game Boy tile conversion and map editor tool (converts to assembly).
-- [cart-dumper](https://github.com/Palmr/cart-dumper) - Game Boy Cartridge Dumper ROM.
-- [Game Boy LCD sniffing](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - Sniff your Game Boy's LCD using a logic analyzer.
-- [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - An IDE for Game Boy programming in a C-like language called GBL, with many other features like tile and map extraction, WLA-DX assembly, and more.
 - [brewtool](http://make.vg/brewtool/) - A collection of primitive editor/converter tools for making assets used with homebrew ROM development.
-- [Game Boy Text Tools](https://github.com/raphaklaus/gameboy-text-tools) - Set of tools for text manipulation and translation of Game Boy ROMs written in Node.js.
-- [mgbdis](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
-- [Retr0 GB](https://bitbucket.org/HellSuffering/retr0-gb/) - An engine for creating games (expands GBDK).
-- [awake](https://github.com/devdri/awake) - Game Boy decompiler.
-- [swapdump](https://github.com/sanqui/swapdump) - Diagnostic utility for Game Boy flashcarts.
-- [Gameboy-LinkUp](https://github.com/JustinLloyd/Gameboy-LinkUp) - Game Boy LinkUp serial cable networking project.
 - [vtGBte](https://github.com/paul-arutyunov/vtGBte) - A minimalistic ncurses tile editor.
 - [tpp1](https://github.com/TwitchPlaysPokemon/tpp1) - Definition and specification of a custom GB/GBC memory/hardware mapper, as a functional superset of MBC.
 - [libstdgb](https://github.com/delwink/libstdgb) - A C library of useful Game Boy operations (SDCC).
 - [Tilemap GB](https://github.com/bbbbbr/gimp-tilemap-gb) - GIMP image editor plug-in for importing & exporting GBMB and GBTD tilemaps and tilesets (as bitmap images or .GBM/.GBR files).
 - [Tilemap Helper](https://github.com/bbbbbr/gimp-tilemap-helper) - GIMP image editor plug-in for optimizing tile maps and tile sets.
+- [Tilemap Studio](https://github.com/Rangi42/tilemap-studio) - A tilemap editor for Game Boy, Color, Advance, and SNES projects. Written in C++ with FLTK. 
+
+#### Hardware and ROM utilities
+
+- [cart-dumper](https://github.com/Palmr/cart-dumper) - Game Boy Cartridge Dumper ROM.
+- [gbcamextract](https://github.com/jkbenaim/gbcamextract) - Extracts photos from Game Boy Camera saves.
+- [Game Boy LCD sniffing](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - Sniff your Game Boy's LCD using a logic analyzer.
+- [swapdump](https://github.com/sanqui/swapdump) - Diagnostic utility for Game Boy flashcarts.
+- [Gameboy-LinkUp](https://github.com/JustinLloyd/Gameboy-LinkUp) - Game Boy LinkUp serial cable networking project.
 
 #### Music drivers and trackers
 
@@ -416,6 +434,7 @@ Complete and open source games.
 - [Dino's Offline Adventure](https://github.com/gingemonster/DinosOfflineAdventure) - A clone of the Google Chrome offline game.
 - [dino-gb](https://github.com/rnegron/dino-gb) - Another clone of the Chrome game.
 - [Evoland.gb](https://github.com/flozz/evoland.gb) - A port of the first level of Evoland.
+- [Petris](https://github.com/bbbbbr/Petris) - A puzzle game of shapely pets for the Game Boy Color ([itch.io](https://bbbbbr.itch.io/petris)).
 
 ### Demos
 

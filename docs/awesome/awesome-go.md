@@ -577,6 +577,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [chasquid](https://blitiri.com.ar/p/chasquid) - SMTP server written in Go.
 * [douceur](https://github.com/aymerick/douceur) - CSS inliner for your HTML emails.
 * [email](https://github.com/jordan-wright/email) - A robust and flexible email library for Go.
+* [email-verifier](https://github.com/AfterShip/email-verifier) - A Go library for email verification without sending any emails.
 * [go-dkim](https://github.com/toorop/go-dkim) - DKIM library, to sign & verify email.
 * [go-imap](https://github.com/emersion/go-imap) - IMAP library for clients and servers.
 * [go-message](https://github.com/emersion/go-message) - Streaming library for the Internet Message Format and mail messages.
@@ -2251,6 +2252,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 ### DevOps Tools
 
+* [abbreviate](https://github.com/dnnrly/abbreviate) - abbreviate is a tool turning long strings in to shorter ones with configurable seperaters, for example to embed branch names in to deployment stack IDs.
 * [aptly](https://github.com/smira/aptly) - aptly is a Debian repository management tool.
 * [aurora](https://github.com/xuri/aurora) - Cross-platform web-based Beanstalkd queue server console.
 * [awsenv](https://github.com/soniah/awsenv) - Small binary that loads Amazon (AWS) environment variables for a profile.

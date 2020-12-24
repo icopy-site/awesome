@@ -50,35 +50,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [An Introduction to Actions](https://svelte.school/tutorials/introduction-to-actions) - Svelte School.
 - [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - The Net Ninja (YouTube).
 
-### Scaffold
+### Studies
 
-_Templates / boilerplate / seed / starter kits / stack ensemble / Yeoman generator._
+_Studies and research on the Svelte framework._
 
-#### Client
-
-_Render Svelte application in the browser only._
-
-- [sveltejs/template](https://github.com/sveltejs/template) - Template for building basic applications with rollup.
-- [component-template](https://github.com/sveltejs/component-template) - A base for building shareable components.
-- [svelte-component-template](https://github.com/YogliB/svelte-component-template) - A base for building shareable components.
-- [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
-- [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit) - A starter template integrating Redux-Toolkit.
-- [svelte-ts-eslint-tailwind](https://github.com/toerndev/svelte-ts-eslint-tailwind) - Starter template and tutorial for adding ESLint, Jest and Tailwind CSS to the official TypeScript template.
-- [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template) - Starter template with TS activated, and ESLint and Prettier working together.
-
-#### Universal
-
-_SSR framework._
-
-- [sapper-template#rollup](https://github.com/sveltejs/sapper-template/tree/rollup) - The default Sapper template, available for Rollup.
-- [sapper-template#webpack](https://github.com/sveltejs/sapper-template/tree/webpack) - The default Sapper template, available for Webpack.
-- [sapper-firebase-typescript-graphql-tailwindcss-actions-template](https://github.com/babichjacob/sapper-firebase-typescript-graphql-tailwindcss-actions-template) - Template that includes Sapper, Firebase functions and hosting, TypeScript and TypeGraphQL, Tailwind CSS, ESLint, and automatic building and deployment with GitHub Actions.
-- [sapper-mdsvex-template](https://github.com/pngwn/sapper-mdsvex-template) - The default Sapper template with mdsvex.
-- [sapper-postcss-template](https://github.com/babichjacob/sapper-postcss-template) - Template that includes Sapper and PostCSS preprocessing with Tailwind CSS.
-- [sapper-tailwindcss-template](https://github.com/sarioglu/sapper-tailwindcss-template) - The default Sapper template with Tailwind CSS.
-- [sapper-template-firebase](https://github.com/nhristov/sapper-template-firebase) - Starter Rollup template for Sapper apps with Firebase functions, PostCSS, PurgeCSS, CSSNano, Tailwind CSS, and svelte-preprocess.
-- [sapper-typescript-graphql-template](https://github.com/babichjacob/sapper-typescript-graphql-template) - Template that includes Sapper, TypeScript preprocessing, and a GraphQL server through TypeGraphQL.
-- [SENT-template](https://github.com/Zimtir/SENT-template) - SENT (Sapper Express Node Template) and other tools.
+- [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale?
+- [Will it Scale?](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point.
 
 ## Integrations
 
@@ -175,12 +152,43 @@ _For Single Page Applications (SPAs) and more._
 - [svelte-router-spa](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
 - [svelte-routing](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
 - [tinro](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
+- [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
 
 ### UI Utilities
 
 #### WebGL
 
 - [svelthree](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
+
+### Scaffold
+
+_Templates / boilerplate / seed / starter kits / stack ensemble / Yeoman generator._
+
+#### Client
+
+_Render Svelte application in the browser only._
+
+- [sveltejs/template](https://github.com/sveltejs/template) - Template for building basic applications with rollup.
+- [component-template](https://github.com/sveltejs/component-template) - A base for building shareable components.
+- [svelte-component-template](https://github.com/YogliB/svelte-component-template) - A base for building shareable components.
+- [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
+- [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit) - A starter template integrating Redux-Toolkit.
+- [svelte-ts-eslint-tailwind](https://github.com/toerndev/svelte-ts-eslint-tailwind) - Starter template and tutorial for adding ESLint, Jest and Tailwind CSS to the official TypeScript template.
+- [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template) - Starter template with TS activated, and ESLint and Prettier working together.
+
+#### Universal
+
+_SSR framework._
+
+- [sapper-template#rollup](https://github.com/sveltejs/sapper-template/tree/rollup) - The default Sapper template, available for Rollup.
+- [sapper-template#webpack](https://github.com/sveltejs/sapper-template/tree/webpack) - The default Sapper template, available for Webpack.
+- [sapper-firebase-typescript-graphql-tailwindcss-actions-template](https://github.com/babichjacob/sapper-firebase-typescript-graphql-tailwindcss-actions-template) - Template that includes Sapper, Firebase functions and hosting, TypeScript and TypeGraphQL, Tailwind CSS, ESLint, and automatic building and deployment with GitHub Actions.
+- [sapper-mdsvex-template](https://github.com/pngwn/sapper-mdsvex-template) - The default Sapper template with mdsvex.
+- [sapper-postcss-template](https://github.com/babichjacob/sapper-postcss-template) - Template that includes Sapper and PostCSS preprocessing with Tailwind CSS.
+- [sapper-tailwindcss-template](https://github.com/sarioglu/sapper-tailwindcss-template) - The default Sapper template with Tailwind CSS.
+- [sapper-template-firebase](https://github.com/nhristov/sapper-template-firebase) - Starter Rollup template for Sapper apps with Firebase functions, PostCSS, PurgeCSS, CSSNano, Tailwind CSS, and svelte-preprocess.
+- [sapper-typescript-graphql-template](https://github.com/babichjacob/sapper-typescript-graphql-template) - Template that includes Sapper, TypeScript preprocessing, and a GraphQL server through TypeGraphQL.
+- [SENT-template](https://github.com/Zimtir/SENT-template) - SENT (Sapper Express Node Template) and other tools.
 
 ## Dev Tools
 
