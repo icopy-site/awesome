@@ -26,6 +26,7 @@ Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and 
 * [PEARL](http://pearl.berkeley.edu/) - Conservation assessments of macroparasitic invertebrates.
 * [PHI-base](http://www.phi-base.org/index.jsp) - A database with information on specific genes of fungal, Oomycete and bacterial pathogens that affect pathogenicity. Focused on agricultural and medical pathogens of importance. 
 * [PREDICT](http://data.predict.global/) - Field data from the USAID PREDICT project 2008-2019, a global emerging virus surveillance program. This data is downloadable if you have a healthmap account. 
+* [Shaw et al. 2020](https://figshare.com/articles/The_phylogenetic_range_of_bacterial_and_viral_pathogens_of_vertebrates_dataset_and_supplementary_material/8262779) - A human-curated database of 12,212 host-pathogen associations: 2,595 bacterial and viral pathogens infecting 2,656 vertebrate host species across 90 host orders. It also contains a mitochondrial genome phylogeny for the host species. [Analysis](https://onlinelibrary.wiley.com/doi/10.1111/mec.15463) published in Molecular Ecology.
 * [Virus-Host DB](http://www.genome.jp/virushostdb/view/) - A synthesis of host-virus associations from genomes posted in NCBI/RefSeq and GenBank.
 
 ## Museums & Collections
