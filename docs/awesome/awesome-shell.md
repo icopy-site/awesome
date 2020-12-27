@@ -27,6 +27,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell)
 * [elvish](https://elv.sh/) - Friendly, expressive shell features like anonymous functions and data structures
+* [es](https://wryun.github.io/es-shell/) - The extensible shell, based on Plan 9's [rc](https://github.com/rakitzis/rc) shell
 * [fish](https://fishshell.com) - Smart and user-friendly command line shell
 * [ion](https://github.com/redox-os/ion) - A modern system shell that features a simple, yet powerful, syntax. It is written entirely in Rust.
 * [ksh93](https://github.com/att/ast) - Korn Shell
@@ -281,6 +282,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 * [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
 * [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies
+* [dstask](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task
 * [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line tool
 * [fanyi](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
 * [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar command line interface
@@ -409,6 +411,6 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
 
 [awesome-badge]: https://raw.githubusercontent.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-[awesome-fish]: https://github.com/jorgebucaran/awesome.fish
+[awesome-fish]: https://github.com/jorgebucaran/awsm.fish
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins

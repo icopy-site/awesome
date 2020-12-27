@@ -165,6 +165,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 - [CSharpEssentials](https://github.com/DustinCampbell/CSharpEssentials) - C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
 - [Designite](http://www.designite-tools.com) :copyright: - Designite supports detection of various architecture, design, and implementation smells, computation of various code quality metrics, and trend analysis.
 - [Gendarme](https://www.mono-project.com/docs/tools+libraries/tools/gendarme) - Gendarme inspects programs and libraries that contain code in ECMA CIL format (Mono and .NET).
+- [Infer#](https://github.com/microsoft/infersharp) - InferSharp (also referred to as Infer#) is an interprocedural and  scalable static code analyzer for C#. Via the capabilities of Facebook's Infer,  this tool detects null pointer dereferences and resource leaks.
 - [NDepend](http://www.ndepend.com) :copyright: - Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 - [Puma Scan](https://pumasecurity.io) - Puma Scan provides real time secure code analysis for common vulnerabilities (XSS, SQLi, CSRF, LDAPi, crypto, deserialization, etc.) as development teams write code in Visual Studio.
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
@@ -339,6 +340,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [ckjm](http://www.spinellis.gr/sw/ckjm) - Calculates Chidamber and Kemerer object-oriented metrics by processing the bytecode of compiled Java files.
 - [CogniCrypt](https://www.eclipse.org/cognicrypt) - Checks Java source and byte code for incorrect uses of cryptographic APIs.
 - [DesigniteJava](http://www.designite-tools.com/designitejava) :copyright: - DesigniteJava supports detection of various architecture, design, and implementation smells along with computation of various code quality metrics.
+- [Doop](https://bitbucket.org/yanniss/doop) - Doop is a declarative framework for static analysis of Java/Android programs, centered on pointer analysis algorithms. Doop provides a large variety of analyses and also the surrounding scaffolding to run an analysis end-to-end (fact generation, processing, statistics, etc.).
 - [Error-prone](https://errorprone.info) - Catch common Java mistakes as compile-time errors.
 - [fb-contrib](http://fb-contrib.sourceforge.net) - A plugin for FindBugs with additional bug detectors.
 - [forbidden-apis](https://github.com/policeman-tools/forbidden-apis) - Detects and forbids invocations of specific method/class/field (like reading from a text stream without a charset). Maven/Gradle/Ant compatible.

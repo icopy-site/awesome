@@ -92,18 +92,31 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 ## Data Manipulation
 *Packages for cooking data.*
 
-* [haven](https://github.com/hadley/haven) - Improved methods to import SPSS, Stata and SAS files in R.
 * [tidyr](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
 * [rlist](https://github.com/renkun-ken/rlist) - A toolbox for non-tabular data manipulation with lists.
-* [jsonlite](https://github.com/jeroenooms/jsonlite) - A robust and quick way to parse JSON files in R.
 * [ff](http://ff.r-forge.r-project.org/) - Data structures designed to store large datasets.
 * [lubridate](https://github.com/tidyverse/lubridate) - A set of functions to work with dates and times.
 * [bigmemory](https://github.com/kaneplusplus/bigmemory) - Shared memory and memory-mapped matrices. The big\* packages provide additional tools including linear models ([biglm](http://cran.r-project.org/web/packages/biglm/index.html)) and Random Forests ([bigrf](https://github.com/aloysius-lim/bigrf)).
 * [fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin) - Join tables together on inexact matching.
 * [tidyverse](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.
 * [snakecase](https://github.com/Tazinho/snakecase) - Automatically parse and convert strings into cases like snake or camel among others.
-* [vroom](https://github.com/r-lib/vroom) - Fast reading of delimited files
 * [DataExplorer](https://github.com/boxuancui/DataExplorer) - Fast exploratory data analysis with minimum code.
+
+## Data Formats
+*Packages for reading and writing data of different formats.*
+
+* [arrow <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://arrow.apache.org/docs/r/) - An interface to the Arrow C++ library.
+* [fst <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](www.fstpackage.org/fst/) - Lightning Fast Serialization of Data Frames for R.
+* [haven](https://github.com/hadley/haven) - Improved methods to import SPSS, Stata and SAS files in R.
+* [jsonlite](https://github.com/jeroenooms/jsonlite) - A robust and quick way to parse JSON files in R.
+* [qs](https://github.com/traversc/qs) - Quick serialization of R objects.
+* [readxl <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://readxl.tidyverse.org/) - Read excel files (.xls and .xlsx) into R.
+* [rio](https://github.com/leeper/rio) - A Swiss-Army Knife for Data I/O.
+* [readODS](https://github.com/chainsawriot/readODS/) - Read OpenDocument Spreadsheets into R as data.frames.
+* [RcppTOML](https://github.com/eddelbuettel/rcpptoml) - Rcpp Bindings to C++ parser for TOML files.
+* [vroom](https://github.com/r-lib/vroom) - Fast reading of delimited files.
+* [writexl](https://docs.ropensci.org/writexl/) - Portable, light-weight data frame to xlsx exporter for R.
+* [yaml](https://github.com/viking/r-yaml) - R package for converting objects to and from YAML.
 
 
 ## Graphic Displays
