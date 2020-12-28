@@ -21,7 +21,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Conflict Prevention and Conflict Resolution](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Conflict-Prevention-Resolution.md)
 - [The CTO Role](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/The-CTO-role.md)
 - [Culture](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Culture.md)
-- [Decision-Making](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Decision-Making.md)
+- [Decision-Making and Prioritization](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Decision-Making-and-Prioritization.md)
 - [Delegation](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Delegation.md)
 - [Diversity and Inclusion](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Diversity-and-Inclusion.md)
 - [Empathy and Listening](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Empathy-and-Listening.md)

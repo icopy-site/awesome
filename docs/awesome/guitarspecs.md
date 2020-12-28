@@ -67,8 +67,8 @@ V           | thick       | Boatneck      | V Shape (Vintage 52 Tele) |
 asymmetrisch| medium      | Wolfgang      | Modern C                  |        
 
 >  [*warmoth](http://www.warmoth.com/Guitar/Necks/BackContours.aspx) - Warmoth Neck Profiles    
->  [*fender](http://shop.fender.com/de-DE/electric-guitars/telecaster/) - see "NECK SHAPE" Filter     
->  [*gibson forum](http://forum.gibson.com/index.php?/topic/74036-gibson-neck-profiles) - Gibson Neck Profiles    
+>  [*fender](https://shop.fender.com/de-DE/electric-guitars/) - see "NECK SHAPE" Filter     
+>  [*gibson forum](https://forum.gibson.com/topic/74036-gibson-neck-profiles/?tab=comments#comment-1360076) - Gibson Neck Profiles    
 
 
 ### Neck Nut Width and Nut Slot Spacing
@@ -88,7 +88,7 @@ Narrow string spread | 7 mm           | 35 mm        | 4.75 mm    | 44,5 mm (1-3
 Medium string spread | 7.3 mm         | 36.5 mm      | 4 mm       | 44,5 mm (1-3/4")
 Wide string spread   | 7.5 mm         | 37.5 mm      | 3.5 mm     | 44,5 mm (1-3/4")
 
-> [graphtech - sizing guide and pre-slotted nuts (pdf)](http://www.graphtech.com/docs/default-document-library/quick-sizing-guide.pdf)
+> [graphtech - sizing guide and pre-slotted nuts](https://graphtech.com/collections/tusq-nuts-guitar)
 
 
 ### Neck Heel Width and Mounting
@@ -184,6 +184,9 @@ Picture left to right:
 - Vintage Telcaster Routing and Single Coil Tele Pickup, 
 - Tune-O-Matic Style Routing and Habucker Pickup
 
+> [callahamguitar.com](http://www.callahamguitars.com/tech_compatibility.htm) - technical specifications of some coustom parts.
+
+
 
 ### Flat Mount Strat Routing
 
@@ -220,7 +223,7 @@ Schaller 47X        | 51 mm - 55,5 mm  |  3.18mm (0.125")  | approx. X  | 73 x 4
 
 ### Tremolo Routing
 
-    Bohrbild "Vintage":         Bohrbild "Standard":
+    Tremolo "Vintage":         Tremolo "Standard":
     ..o..o..o..o..o...o...      .....O.......O.....
 
 Modell                  | E/e              | Holes     | Hole Distance       | Hole Ø
@@ -233,7 +236,6 @@ Schaller 2000          | 53,5 mm           | 2         | 56 mm            | 10 m
 Schaller vintage       | 53,5 mm           | 2         | 74,3 mm          | 10 mm
 Wilkinson ("recessed") | 54 mm (2-1/8")    | 2         | 55,9 mm (2.2")   | 9,7 mm (.382")
 
-> [callahamguitar.com](http://www.callahamguitars.com/technicalinfo.htm) - technical specifications of some coustom parts.
 
 ### Tune-O-Matic Gibson Style Routing
 
@@ -246,7 +248,7 @@ Model       |  E/e       | Bridge       | Tailpiece         | Tailpiece Top     
 ------------|------------|--------------|-------------------|-------------------|-------------------|------
 Tune-O-Matic| ca. 52 mm* | 74 mm (2.91")| approx 82 mm*     | 38 mm (1.49")     | 41 mm (1.61")     | approx. 11 mm (0.44")
 
-Instead Tailpiece - there may be "strings through the body" drillings.
+Instead tailpiece - there may be "strings through the body" drillings.
 
 
 ### Other Rare Bridge Variants
@@ -298,16 +300,18 @@ Tuning Machines Options:
 ## Bridges
 ![bridge](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip11_bridge.jpg)
 
-Guitar bridge has large **influence on playability** (mainly through string spacing).  Wider string spacing is better for finger-picking style, narrow spacing gives easier control when playing leads with distorted tone.  [Bridge Routing](#bridge-routing) chapter above describes common bridge categories with string spacing specification.
+Guitar bridge has large **influence on playability** (mainly through string spacing).  Wider string spacing is better for finger-picking style, narrow spacing gives easier control when playing leads with distorted tone.  [Bridge and Pickup Routing](#bridge-and-pickup-routing-overview) chapter above describes common bridge categories with string spacing specification.
 
 Bridge form and material have also some **influence on sound**.
 Good manufacturers provide detailed product information on their pages:
 
->  [ABM](https://abm-guitarpartsshop.com/From-a-solid-Block-to-a-Bridge:_:206.html?language=en) -  indicates that Bell Brass and Steel shape the guitar sound with character, while Aluminum acts largely neutral in the transfer of tone.
+>  [ABM - Aluminium, Bell Brass and Steel comparison](https://abm-guitarpartsshop.com/From-a-solid-Block-to-a-Bridge:_:206.html?language=en) -  indicates that Bell Brass and Steel shape the guitar sound with character, while Aluminum acts largely neutral in the transfer of tone.
  
 
 ## Hardware Parts Checklist
 ![jackplate](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip9_jackplate.jpg)
+
+The following list summarizes the accessories that are required to complete your own guitar building project
 
  - Jacks & jackplates
  - Neck plate (neck-to-body)
@@ -315,7 +319,7 @@ Good manufacturers provide detailed product information on their pages:
  - Screws for all parts above
  - Control plate (only for for standard tele)
  - String ferrules (String-thru Top or Bottom - if you use "string through body" instead of bridge)
- - String retainers. [Happy Little String Trees](https://www.premierguitar.com/articles/24295-guitar-shop-101-happy-little-string-trees)  
+ - String retainers. [see premierguitar.com article about design and construction](https://www.premierguitar.com/articles/24295-guitar-shop-101-happy-little-string-trees)  
  - Strap holders
 
 For each screw, the hole must be pre-drilled to the core diameter (not outer diameter)
@@ -341,7 +345,7 @@ mellow      | 1.5 - 2kHz   | low peak | Rolling back tone pot
 Following topics change resonant frequency and resonant peak:
 
  - [Pickup Properties](#pickup-properties)  - position and height of frequency peak vary from type to type.     
- - [Electronics Wiring Options](#electronics-wiring-options)  - Hambucker coils are switched in series by default, switching them in parallel or using only one of the coils will increase resonant frequency and the sound will have more treble.    
+ - [Sound Control With Switches](#sound-control-with-switches)  - Hambucker coils are switched in series by default, switching them in parallel or using only one of the coils will increase resonant frequency and the sound will have more treble.    
  - [Potentiometer and Capacitor Values](#potentiometer-and-capacitor-values) changing provides also simple way to change resonant frequency and peak.     
  - Cable capacitance - longer cable will lead to lower resonant frequency.  
  - Amp input impedance
@@ -408,15 +412,6 @@ Example: "Seriell/Parallel und Coil Split at same time" are possible with 4 Push
 > [open.guitars (german)](https://open-guitars.de/egitarrenbau/pu-anschlussarten/) - Hambucker Conductor/Coils switching options.
 
 
-### Electronics Wiring Schemas
-![electronics wiring schemas](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip4_wiring.jpg)
-
-More wiring schemas from:
-
->- [seymourduncan](http://www.seymourduncan.com/wiring-diagrams)
->- [dimarzio](http://www.dimarzio.com/support/wiring-diagrams)
->- [amplifiedparts](https://www.amplifiedparts.com/tech-corner/electric-guitar-wiring-diagrams)
-
 ### Potentiometer and Capacitor Values
 ![cap values](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip16_cap.jpg)
 
@@ -456,6 +451,16 @@ There are 3 common styles of knobs:
 
 > [philadelphialuthiertools.com](http://blog.philadelphialuthiertools.com/2013/05/16/choosing-the-correct-knob-for-your-guitar-or-bass/)  - Choosing the correct knob for your guitar or bass.
 
+### Electronics Wiring Schemas
+![electronics wiring schemas](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip4_wiring.jpg)
+
+>- [Solder yourself - seymourduncan](http://www.seymourduncan.com/wiring-diagrams)
+>- [Solder yourself - dimarzio](http://www.dimarzio.com/support/wiring-diagrams)
+>- [Solder yourself - amplifiedparts](https://www.amplifiedparts.com/tech-corner/electric-guitar-wiring-diagrams)
+>- [Solderless - EMG](https://www.emgpickups.com/parts/wiring-kits.html)
+>- [Prewired Classic - mojotone](https://www.mojotone.com/guitar-parts/Prewired-Kits#/)
+>- [Prewired Modern - toneshapers](https://toneshapers.com/wiring-products.html#cat=nextgen)
+
 ### Active Pickups Electronics
 ![active pickups](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip7_active-pickup.jpg)
 
@@ -488,7 +493,7 @@ There are also other hybrid sets available - like "Light Top/Heavy Bottom" and "
 
 > [daddario.com](https://www.daddario.com/products/guitar/electric-guitar/) - you can choose between bright and mellow sounding electric strings.      
 > [ghsstrings.com](http://www.ghsstrings.com/products?categories=electric-guitar) - also bright vs mellow overview, and [tension guide (pdf)](http://www.ghsrep.net/uploads/2/2/2/5/22258814/ghs_electric_guitar_string_guide.pdf)    
-> [thomastik-infeld.com](http://www.thomastik-infeld.com/fretted-instruments) - good jazz and blues strings    
+> [thomastik-infeld.com](https://www.thomastik-infeld.com/en/products/guitar-strings) - good jazz and blues strings    
 
 
 ## Scale Length
@@ -543,7 +548,5 @@ Wenge 		| bright 	| heavy  | T/B/N/F 	| dark
 ¹ Sound:  the diagram for effects on tone stands mainly for acoustic instruments and NOT for solid body guitars, where other components have much larger impact on sound. Thus, a mahogany electric guitar can sound bright despite the representations below. 
 ² Weight may vary for the same variety. 
 ³ Used for: T - Body Top | B - Body | N - neck | F - fretboards
-
-![frudua.com](https://www.frudua.com/immagini/tonereferenceingtast.gif)
 
 > [frudua.com](https://www.frudua.com/wood-tone-reference-diagram.htm) - graphical examples for body and neck woods showing relationship between wood hardness, its density and tone.
