@@ -412,21 +412,6 @@ Now links that are inserted via a CMS, which don't usually have a `class` attrib
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
-### Consistent Vertical Rhythm
-
-Use a universal selector (`*`) within an element to create a consistent vertical rhythm:
-
-```css
-.intro > * {
-  margin-bottom: 1.25rem;
-}
-```
-
-Consistent vertical rhythm provides a visual aesthetic that makes content far more readable.
-
-<sup>[back to table of contents](#table-of-contents)</sup>
-
-
 ### Intrinsic Ratio Boxes
 
 To create a box with an intrinsic ratio, all you need to do is apply top or bottom padding to a div:
