@@ -157,6 +157,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Helix
 
 - [Sitecore Helix Documentation](https://github.com/Sitecore/Helix.Docs) - The official guidelines and recommended practises for developing in Sitecore for Sitecore Helix.
+- [Sitecore Helix Examples](https://github.com/Sitecore/Helix.Examples) - Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types / requirements than existing examples.
 - [Helixbase](https://github.com/muso31/Helixbase) - Sitecore Helix based solution for Greenfield projects.
 - [Sitecore Foundation](https://github.com/Avanade/SitecoreFoundation) - Sitecore Framework that follows the Helix modular architecture design principles.Includes plenty of Feature and Foundation layer modules, as well as reusable Common from Project layer.
 - [Helix example Module & Solution templates](https://github.com/LaubPlusCo/Helix-Templates) - Templates for the Sitecore Helix Visual Studio templates extension.
