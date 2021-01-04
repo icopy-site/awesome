@@ -87,6 +87,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Crowdin](https://crowdin.com/) `requires-approval` - Localization management platform.
 - [LingoHub](https://lingohub.com/) `requires-approval` - Translation management.
 - [Locale](https://www.localeapp.com/) - Localization and Translation.
+- [Lokalise](https://lokalise.com/) `requires-approval` - Localization and Translation Software Tool.
 - [POEditor](https://poeditor.com/) `requires-approval` - Localization management platform.
 - [Transifex](https://www.transifex.com/) `requires-approval` - Localization platform for translating digital content.
 - [Weblate](https://weblate.org/) `requires-approval` - Web-based continuous localization.
@@ -112,6 +113,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Helpmonks](https://helpmonks.com/) `requires-approval` - Collaborative team email inboxes.
 - [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval` `non-commercial` - Software vendor specializing in the creation of intelligent development tools.
 - [Libraries.io](https://libraries.io/) - Open source discovery service.
+- [Mailman 3](https://mailman3.com/) `requires-approval` - Mailing lists for distributed teams.
 - [Mailtrap](https://mailtrap.io/) `requires-approval` - Fake SMTP testing server.
 - [Netlify](https://www.netlify.com) `requires-approval` - Hosting for static sites.
 - [Sourcegraph](https://sourcegraph.com/) - Smart source code transparency.
