@@ -290,6 +290,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [eaopt](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 * [leaves](https://github.com/dmitryikh/leaves) - A pure Go implementation of the prediction part of GBRTs, including XGBoost and LightGBM.
 * [gobrain](https://github.com/goml/gobrain) - Neural Networks written in Go.
+* [go-featureprocessing](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
 * [go-mxnet-predictor](https://github.com/songtianyi/go-mxnet-predictor) - Go binding for MXNet c_predict_api to do inference with a pre-trained model.
 * [go-ml-transpiler](https://github.com/znly/go-ml-transpiler) - An open source Go transpiler for machine learning models.
 * [golearn](https://github.com/sjwhitworth/golearn) - Machine learning for Go.
@@ -835,7 +836,7 @@ be
 <a name="php-general-purpose"></a>
 ### General-Purpose Machine Learning
 
-* [PHP-ML](https://github.com/php-ai/php-ml) - Machine Learning library for PHP. Algorithms, Cross Validation, Neural Network, Preprocessing, Feature Extraction and much more in one library.
+* [PHP-ML](https://gitlab.com/php-ai/php-ml) - Machine Learning library for PHP. Algorithms, Cross Validation, Neural Network, Preprocessing, Feature Extraction and much more in one library.
 * [PredictionBuilder](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
 * [Rubix ML](https://github.com/RubixML) - A high-level machine learning (ML) library that lets you build programs that learn from data using the PHP language.
 * [19 Questions](https://github.com/fulldecent/19-questions) - A machine learning / bayesian inference assigning attributes to objects.
@@ -869,6 +870,7 @@ be
 * [dream-creator](https://github.com/ProGamerGov/dream-creator) - A PyTorch implementation of DeepDream. Allows individuals to quickly and easily train their own custom GoogleNet models with custom datasets for DeepDream.
 * [Lucent](https://github.com/greentfrapp/lucent) - Tensorflow and OpenAI Clarity's Lucid adapted for PyTorch.
 * [lightly](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
+* [Learnergy](https://github.com/gugarosa/learnergy) - Energy-based machine learning models built upon PyTorch.
 
 <a name="python-nlp"></a>
 #### Natural Language Processing
@@ -912,10 +914,12 @@ be
 * [NeuroNER](https://github.com/Franck-Dernoncourt/NeuroNER) - Named-entity recognition using neural networks providing state-of-the-art-results
 * [DeepPavlov](https://github.com/deepmipt/DeepPavlov/) - conversational AI library with many pre-trained Russian NLP models.
 * [BigARTM](https://github.com/bigartm/bigartm) - topic modelling platform.
+* [NALP](https://github.com/gugarosa/nalp) - A Natural Adversarial Language Processing framework built over Tensorflow.
 
 <a name="python-general-purpose"></a>
 #### General-Purpose Machine Learning
 
+ * [Shapley](https://github.com/benedekrozemberczki/shapley) -> A data-driven framework to quantify the value of classifiers in a machine learning ensemble. 
  * [igel](https://github.com/nidhaloff/igel) -> A delightful machine learning tool that allows you to train/fit, test and use models **without writing code**
  * [ML Model building](https://github.com/Shanky-21/Machine_learning) -> A Repository Containing Classification, Clustering, Regression, Recommender Notebooks with illustration to make them.
  * [ML/DL project template](https://github.com/PyTorchLightning/deep-learning-project-template)
@@ -1039,6 +1043,8 @@ be
 * [PySyft](https://github.com/OpenMined/PySyft) - A Python library for secure and private Deep Learning built on PyTorch and TensorFlow.
 * [PyGrid](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
 * [sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
+* [OPFython](https://github.com/gugarosa/opfython) - A Python-inspired implementation of the Optimum-Path Forest classifier.
+* [Opytimizer](https://github.com/gugarosa/opytimizer) - Python-based meta-heuristic optimization techniques. 
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization

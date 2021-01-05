@@ -11,6 +11,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Cottage Med](https://cottagemed.org/p/26/Download-Cottage-Med) - Electronic Medical Record software designed by physicians.
   * [GNU Health](https://www.gnuhealth.org) - Electronic Medical Record, Hospital Management, and Health Information System.
   * [GNUmed](https://www.gnumed.de/documentation/) - Electronic Medical Record software.
+  * [EHRBase](https://ehrbase.org) OpenEHR Clinical Data Repository 
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer
   * [ERPNext](https://erpnext.com/open-source-healthcare) - ERPNext Healthcare modules helps you manage patients, appointments, consultations and lab tests along with billing
   * [EtherCIS](http://ethercis.org) - Enterprise Clinical Data Repository
@@ -42,6 +43,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [HL7 Version 2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - Specifications for all versions of HL7v2 (free account required).
   * [OHDSI OMOP Common Data Model](https://www.ohdsi.org/data-standardization/the-common-data-model/) - Standardized data model for many healthcare concepts, awesome Github presence including scripts for many major relational databases 
   * [Standard Health Record Collaborative](http://standardhealthrecord.org/shr/) - The Standard Health Record (SHR) provides a high quality, computable source of patient information by establishing a single target for health data standardization.
+  * [DICOM Standards Browser](https://dicom.innolitics.com/ciods) - The Innolitics DICOM Standards Browser provides an effective way to learn the DICOM standard and inspect DICOM attributes.
   
 ### Prescribing
   * [OpenEP](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
@@ -59,7 +61,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Fiji](https://imagej.net/Fiji) - Fiji Is Just ImageJ: an open-source platform for biological-image analysis.
   * [GIMIAS](http://www.gimias.org/) - Extensible image computing and simulation software with an emphasis on specific workflows.
   * [Horos](https://horosproject.org) - Medical image viewer.
-  * [InVesalius](https://www.cti.gov.br/pt-br/invesalius) - 3 dimensional image reconstructor from 2 dimensional samples.
+  * [InVesalius](https://invesalius.github.io) - Open source software for reconstruction of computed tomography and magnetic ressonance images.
   * [ITK](https://itk.org/) - Toolkit used for the development of image segmentation and image registration programs with leading-edge algorithms in 2 and 3 dimensions.
   * [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php) - Interactive software for 3 dimensional image navigation, annotation, and automatic segmentation with an emphasis on user-friendliness.
   * [LibreHealth Radiology](https://librehealth.io/projects/lh-radiology/) - Customized version of LibreHealth Toolkit with additional tools for radiology and imaging professionals.
@@ -97,10 +99,10 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [dicom](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in Go
   * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - A C# DICOM Library
   * [Fellow Oak DICOM](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono and Unity
-  * [FHIR .NET API](https://github.com/FirelyTeam/fhir-net-api) - The official .NET API for HL7 FHIR.
+  * [FHIR .NET API](https://github.com/FirelyTeam/firely-net-sdk) - The official .NET API for HL7 FHIR.
   * [fhir.js](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
   * [FHIR protocol buffers](https://github.com/google/fhir) - a Google implementation of protocol buffers for FHIR.
-  * [HAPI FHIR](https://github.com/jamesagnew/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
+  * [HAPI FHIR](https://github.com/hapifhir/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
   * [Hearth](https://github.com/jembi/hearth) - A fast FHIR-compliant server focused on longitudinal data stores.
   * [Health data standards](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
   * [MITK](https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)) - The Medical Imaging Interaction Toolkit.
@@ -149,6 +151,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [DHIS](https://dhiskp.gov.pk/) - District Health Management Information System and data warehouse.
   * [IHRIS](https://www.ihris.org/toolkit-new/) - Health Information System for management of human resources for health.
   * [Inferno](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface
+  * [OpenSAFELY](https://opensafely.org) - A new secure analytics platform for electronic health records in the NHS
   * [Snow Owl](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features. 
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
@@ -159,15 +162,14 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
   
 ### Machine learning
-  * [Computational Healthcare Library](https://www.computationalhealthcare.com/library) - A platform for analysis & development of machine learning models using large de-identified healthcare datasets. 
   * [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning 
 
 ### Compliance
-* [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.
+  * [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) - Make compliance as easy as possible for companies working with protected health information.
 
 ### Asset Management
-* [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
+  * [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
 
 ### Logistics
-* [ID3C](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
-* [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software purpose-built to manage health commodity supply chains
+  * [ID3C](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
+  * [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software purpose-built to manage health commodity supply chains

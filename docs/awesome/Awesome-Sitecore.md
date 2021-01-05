@@ -141,7 +141,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Forms
 
-- [Sitecore-Forms-Extensions](https://github.com/bartverdonck/Sitecore-Forms-Extensions) - Adds some functionality to this forms creator.
+- [Sitecore-Forms-Extensions](https://github.com/bartverdonck/Sitecore-Forms-Extensions) - Adds some functionality to the forms creator, such as sending mails, timespan validation, subscribing a list, conditions, Azure Blob storage provider and many more.
 
 ## JSS
 
@@ -286,6 +286,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Scriban syntax coloring and auto completion](https://github.com/AdamNaj/SitecoreScriban-vscode) - Scriban syntax coloring and intellisense for known objects extension for Visual Studio Code.
 - [Westco SXA Extensions](https://github.com/michaellwest/westco-sxa-extensions) - Sitecore Experience Accelerator (SXA) extensions.
 - [docker-sxa-node](https://github.com/michaellwest/docker-sxa-node) - Demonstrates using the SXA CLI from within a Docker container with Node installed.
+- [SXA Securty Headers](https://github.com/GuitarRich/SXA.SecurityHeaders) - Shows how to implemenmt response security headers on an exaple of SXA, but they are truly Helix-generic.
 
 ## Testing
 

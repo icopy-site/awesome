@@ -12,6 +12,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
+## Event: ".NET Frontend Day" (January 8, 2021).
+[<img src="https://www.dotnet-frontend.com/logo.jpg" align="center" width="60%">](https://www.dotnet-frontend.com/)
+- A full day online, with focus on building frontend applications using .NET.
+- .NET Frontend Day is a community organized conference.
+
 
 ## Introduction
 
@@ -523,6 +528,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2020](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2020.md#videos), [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [MicroFrontends with Blazor WebAssembly](https://medium.com/@waelkdouh/microfrontends-with-blazor-webassembly-b25e4ba3f325) - December 22, 2020 - MicroFrontends with Blazor WebAssembly. [Source code](https://github.com/waelkdouh/BlazorMicroFrontend) ![stars](https://img.shields.io/github/stars/waelkdouh/BlazorMicroFrontend?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/waelkdouh/BlazorMicroFrontend?style=flat-square&cacheSeconds=86400).
 * [10 Blazor Features You Probably Didn't Know](https://www.telerik.com/blogs/10-blazor-features-you-probably-didnt-know) - December 15, 2020 - As a relatively new framework, there's probably a lot you don't know about Blazor yet. Here are 10 great features about Blazor you should know.
 * [Exploring Blazor Mobile Bindings](https://www.telerik.com/blogs/exploring-blazor-mobile-bindings) - December 13, 2020 - It's time to probe the promise of Blazor Mobile Bindings enticing web developers to come build mobile apps.
 * [Polly and Blazor, Part 1 – Simple Wait and Retry](https://nodogmablog.bryanhogan.net/2020/12/polly-and-blazor-part-1-simple-wait-and-retry/) - December 8, 2020 - Polly and Blazor, Part 1 – Simple Wait and Retry.
@@ -748,6 +754,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2020](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2020.md#articles), [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#articles), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#articles), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#articles).
   
 ## Podcasts
+* [Building a TwitchBot in Blazor with Georgia Nelson](https://www.dotnetrocks.com/default.aspx?ShowNum=1717) - December 10, 2020 - What can you use Blazor for? Carl and Richard talk to Georgia Nelson about GifBot, a Twitch bot Georgia has built using a variety of tools and languages (including Java) and today is C# and Blazor. Georgia talks about evolving the bot from version to version, looking for ways to make it easier for Twitch streamers to use. From WinForms to WPF to Blazor, the UI has taken a few turns, but Blazor works great in the role of user interface. Duration: 55 minutes.
 * [bUnit: A Blazor Testing Lib](https://6figuredev.com/podcast/episode-173-bunit-a-blazor-testing-library-w-egil-hansen) - December 7, 2020 - bUnit: A Blazor Testing Lib; with Egil Hansen in The 6th Figure Developer podcast, episode 173. Duration: 41 minutes.
 * [Blazor in Action with Chris Sainty](https://expect-exception.fail/podcast/3) - November 17, 2020 - In this episode of expect(Exception) we talk with Chris Sainty, author of the book Blazor in Action. We talk about what Blazor actually is, why we like it and of course, how to test it. [Blazor in Action](https://www.manning.com/books/blazor-in-action)'s book.
 * [Merge Conflict: .NET Conf 2020 & Apple M1 Event Recap](https://www.mergeconflict.fm/228) - November 16, 2020 - Episode 228 of Merge Conflict's podcast: .NET Conf 2020 & Apple M1 Event Recap. This last week was crazy! .NET Conf 2020, .NET 5, Visual Studio 16.8, XAML Hot Reload 2.0, Xbox Series S/X launch, Apple M1 Events, and so much more. Duration: 62 minutes.

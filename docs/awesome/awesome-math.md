@@ -97,8 +97,9 @@ A curated list of awesome mathematics resources.
 ## Lecture Notes
 
 ## Foundations of Mathematics
-
+### Transition To Pure Rigour Math
 * [Basic Concepts of Mathematics](http://www.trillia.com/zakon1.html) - Elias Zakon
+* [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/) - Richard Hammak (Virginia Commonwealth University)
 
 ### Set Theory
 
