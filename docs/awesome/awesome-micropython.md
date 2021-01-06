@@ -134,6 +134,10 @@ Other places you can look for MicroPython Libraries:
 
 * [Official OneWire](https://github.com/micropython/micropython/tree/master/drivers/onewire) - For devices using the OneWire bus, eg Dallas ds18x20.
 
+#### Onkyo EISCP
+
+* [eiscp-micropython](https://github.com/cbrand/eiscp-micropython) - Micropython port for the Onkyo-EISCP protocol used amongs others by Pioneer.
+
 #### Radio
 
 * [micropython-radio](https://github.com/peterhinch/micropython-radio) - Protocols for nRF24L01 2.4Ghz radio modules.
@@ -578,6 +582,7 @@ Other places you can look for MicroPython Libraries:
 * [rshell](https://github.com/dhylands/rshell) - Copy or Sync files to Boards, enter REPL from your terminal.
 * [ampy](https://github.com/scientifichackers/ampy) - Adafruit MicroPython Tool - Utility to interact with a MicroPython board over a serial connection.
 * [mpfshell](https://github.com/wendlers/mpfshell) - A simple shell based file explorer for ESP8266 and WiPy.
+* [mpsync](https://github.com/Uhlo/mpsync) - A small tool that synchronizes a folder to a MicroPython board whenever it detects a change.
 
 ## Miscellaneous
 
