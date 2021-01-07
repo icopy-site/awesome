@@ -137,6 +137,8 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - [Surprising Things About Working at Well-Known Tech Unicorns](https://blog.pragmaticengineer.com/surprising-things-about-working-at-tech-unicorns/) - Echoes my own experience on differences between expectations and reality in high growth and visible companies from the point of view of an engineering manager.
 
+- [100+ Lessons Learned for Project Managers](https://llis.nasa.gov/lesson/1956) - 122 aphorisms providind insights into NASA project management success. Covers design, decision-making, managing staff, working with superiors and contractors.
+
 - [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) - Huge list, but need some curation.
 
 - [The Leadership Library for Engineers](https://leadership-library.dev) - A list of books to help engineering leaders level up.
@@ -846,6 +848,8 @@ Here we are, at the intersection of power and influence lies the political game.
 - [The 48 Laws of Power](https://amzn.com/0140280197/?tag=kevideld-20) - By Robert Greene. Can teach you how to cover your ass and be effective in a highly political org.
 
 - [Selectorate theory](https://en.wikipedia.org/wiki/Selectorate_theory) - “In selectorate theory, three groups of people affect leaders. These groups are the nominal selectorate, the real selectorate, and the winning coalition. (…) To remain in power, leaders must maintain their winning coalition.”
+
+- [Circulation of elite](https://en.wikipedia.org/wiki/Circulation_of_elite) - “Changes of regime, revolutions, and so on occur not when rulers are overthrown from below, but when one elite replaces another.”
 
 - “Playing the game well is now front and center” ([source](https://news.ycombinator.com/item?id=21925738)), or why the [Key practices for achieving large professional goals](https://nodramadevops.com/2019/12/key-practices-for-achieving-large-professional-goals/) is missing the parts about office politics.
 
