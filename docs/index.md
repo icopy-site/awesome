@@ -288,6 +288,7 @@
 - [Vapor](awesome/awesome-vapor.md) - Server-side development in Swift.
 - [Dash](awesome/awesome-dash.md) - Python web app framework.
 - [FastAPI](awesome/awesome-fastapi.md) - Python web app framework.
+- [CDK](awesome/awesome-cdk.md) - Open-source software development framework for defining cloud infrastructure in code.
 
 ## Computer Science
 

@@ -111,6 +111,10 @@ Other places you can look for MicroPython Libraries:
 * [uPyLoRaWAN](https://github.com/lemariva/uPyLoRaWAN) - ESP32 using MicroPython meets LoRa and LoRaWAN.
 * [DeLoReAN](https://github.com/buehl/DeLoReAN) - DeLoReAN is a (De)dicated (Lo)RaWAN node (Re)cording (A)ny (N)FC tags.
 
+#### MDNS
+
+* [micropython-mdns](https://github.com/cbrand/micropython-mdns) - A pure python implementation of MDNS with support for Service Discovery.
+
 #### MQTT
 
 * [micropython-mqtt](https://github.com/peterhinch/micropython-mqtt) - A 'resilient' asynchronous MQTT driver. Plus a means of using an ESP8266 to bring MQTT to non-networked targets.
@@ -136,7 +140,7 @@ Other places you can look for MicroPython Libraries:
 
 #### Onkyo EISCP
 
-* [eiscp-micropython](https://github.com/cbrand/eiscp-micropython) - Micropython port for the Onkyo-EISCP protocol used amongs others by Pioneer.
+* [eiscp-micropython](https://github.com/cbrand/eiscp-micropython) - Micropython port for the Onkyo-EISCP protocol used, among others, by Pioneer.
 
 #### Radio
 

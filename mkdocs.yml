@@ -263,6 +263,7 @@ nav:
     - Vapor: awesome/awesome-vapor.md
     - Dash: awesome/awesome-dash.md
     - FastAPI: awesome/awesome-fastapi.md
+    - CDK: awesome/awesome-cdk.md
   - Computer Science:
     - University Courses: awesome/awesome-courses.md
     - Data Science: awesome/awesome-datascience.md
