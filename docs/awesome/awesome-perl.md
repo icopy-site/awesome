@@ -2,9 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Perl5 resources, including frameworks, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
-
-Not Perl6 modules ;-P
+A curated list of awesome Perl resources, including frameworks, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 ### Another module list
 
@@ -91,6 +89,11 @@ We also recommend these lists.
 * [Net::AWS::SES](https://metacpan.org/pod/Net::AWS::SES) - Perl extension that implements Amazon Simple Email Service (SES) client
 * [WebService::DigitalOcean](https://metacpan.org/pod/WebService::DigitalOcean) - Access the DigitalOcean RESTful API (v2)
 * [WebService::Dropbox](https://metacpan.org/pod/WebService::Dropbox) - Interface to Dropbox API
+
+## Cryptography
+
+* [Bitcoin::Crypto](https://metacpan.org/pod/Bitcoin::Crypto) - Bitcoin cryptography in Perl
+* [CryptX](https://metacpan.org/pod/CryptX) - Cryptographic toolkit
 
 ## Commercial WebServices
 
@@ -237,6 +240,7 @@ We also recommend these lists.
 * [Catalyst::Controller::HTML::FormFu](https://metacpan.org/pod/Catalyst::Controller::HTML::FormFu) - Use HTML::FormFu in Catalyst.
 * [CGI::FormBuilder](https://metacpan.org/pod/CGI::FormBuilder) - Easily generate and process stateful forms.
 * [Form::Sensible](https://metacpan.org/pod/Form::Sensible) - A sensible way to handle form based user interface.
+* [Form::Tiny](https://metacpan.org/pod/Form::Tiny) - Forms reusing Type::Tiny type constraints.
 * [Form::Toolkit](https://metacpan.org/pod/Form::Toolkit) - A toolkit to build Data centric Forms.
 * [HTML::FormFu](https://metacpan.org/pod/HTML::FormFu) - HTML Form Creation, Rendering and Validation Framework.
 * [HTML::FormFu::ExtJS](https://metacpan.org/pod/HTML::FormFu::ExtJS) - ExtJS form generation from HTML::FormFu config files.
@@ -453,6 +457,12 @@ We also recommend these lists.
 *Libraries for handling configuration files*
 
 * [Config::Tiny](https://metacpan.org/pod/Config::Tiny) - Read/Write .ini style files with as little code as possible
+
+
+## Type checking
+
+* [MooseX::Types](https://metacpan.org/pod/MooseX::Types) - Moose types management tool
+* [Type::Tiny](https://metacpan.org/pod/Type::Tiny) - Tiny, yet comprehensive type library
 
 ## Video
 

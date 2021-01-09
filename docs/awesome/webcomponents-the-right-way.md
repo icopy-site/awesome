@@ -170,6 +170,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Styling
 
+- [Options for styling web components](https://nolanlawson.com/2021/01/03/options-for-styling-web-components/)
 - [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
 - [Styling in the Shadow DOM With CSS Shadow Parts](https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/)
 - [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
@@ -370,6 +371,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Custom Elements Locator](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
 - [shadow-automation-selenium](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
+- [shadow-dom-utils](https://github.com/43081j/shadow-dom-utils) - Set of useful utilities for dealing with shadow DOM, primarily for test environment.
 - [@storybook/web-components](https://www.npmjs.com/package/@storybook/web-components) - UI development environment for plain web-component snippets.
 - [webcomponents.dev](https://webcomponents.dev) - Component IDE for web platform developers.
 - [web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.

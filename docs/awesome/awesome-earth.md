@@ -325,6 +325,8 @@ Tell NOAA Regional Administrator Barry Thom, WDFW Director Kelly Susewind, and o
 
 - [US Damn Removal](https://www.change.org/t/dam-removal-en-us) - [70 percent of the dams in the United States](https://www.ussdams.org/our-news/americas-aging-dams-in-need-of-repair/) are now more than 50 years old, with almost 2,000 of them rated as "high-hazard". About [1,000 dams have failed](https://apnews.com/75b1cd657f3e4fa3be6adaf968eb7df4) over the past four decades, killing 34 people, and now many are no longer adequate to handle the intense rainfall and floods of a changing climate.
 With dams causing wild salmon populations to go extinct, their only benefit is hydropower, yet dams are woefully inefficient by modern standards. For example, the Tugalo Dam in Georgia destroyed 597 acres of temperate rainforest to produce 45 Megawatts, which is the equivalent of 7,500 homes adding 6kw rooftop solar panels. We should tear down these dams as soon as possible, be that when their contract runs out or sooner, instead of wasting tax-payer money operating them or trying to revive them. [More on Last Week Tonight](https://www.youtube.com/watch?v=Wpzvaqypav8).
+- [Climate Reality](https://climaterealityproject.org) - an initiative of former United States vice president and 2007 Nobel Peace Prize laureate Al Gore to make urgent action a necessity to address climate change issues through activism and cutting greenhouse gas emissions.
+
 
 ## Reforestation
 - [Arbor Day Foundation](https://www.arborday.org/) - The Arbor Day Foundation is a 501(c)(3) nonprofit conservation and education organization. A million members, donors, and partners support our programs to make our world greener and healthier.
@@ -463,6 +465,14 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 - [Too Good To Go](https://toogoodtogo.co.uk/) - Sell your surplus food, easily and sustainably! Save delicious food and fight food waste. Find your favorite food and go rescue it.
 - [Vegware](https://vegware.co.uk/) - Napkins, carrier bags, salad boxes, sushi trays, cutlery, disposable coffee cups, all made from plants using renewable, lower carbon, recycled or reclaimed materials, and designed to be commercially compostable with food waste, where accepted.
 - [What is my lamp worth?](https://www.watismijnlampwaard.nl/) - Find the nearest collection points for discarded electrical appliances and energy-efficient light bulbs. This site helps you responsibly recycle, donate, repair, or sell electrical appliances and lights.
+
+## YouTube Channels
+- [Climate Town](https://www.youtube.com/channel/UCuVLG9pThvBABcYCm7pkNkA) - Rollie Williams and a ragtag team of climate communicators, creatives and comedians are here to examine climate change in a way that doesn’t make you want to eat a cyanide pill.
+- [ClimateAdam](https://www.youtube.com/user/ClimateAdam) - Doctor in climate science from Oxford. Trying to make sense of climate change with fun YouTube vids.
+- [Hot Mess](https://www.youtube.com/channel/UCsaEBhRsI6tmmz12fkSEYdw) - A show about how climate change impacts all of us, and about how we can create a better future for our planet and ourselves. Hosted by Miriam Nielsen, Talia Buford, and Joe Hanson.
+- [Our Changing Climate](https://www.youtube.com/channel/UCNXvxXpDJXp-mZu3pFMzYHQ) - A bi-weekly video essay series that investigates humanity's relationship to the natural world.
+- [Simon Clark](https://www.youtube.com/user/SimonOxfPhys) - PhD in climate physics by day, YouTuber by night. He makes videos about both!
+
 ## Zero Waste
 - [Berkley Water Filters](https://www.berkeyfilters.com/) - 21,000,000 Americans drink water that violates U.S. health standards. Berkey water filter systems are actually water purifiers because they remove bacteria and viruses that conventional filters cannot.<!-- links:end -->
 - [Kent Zero Water Wastage Technology](https://www.kent.co.in/water-purifiers/zero-water-wastage-technology) - KENT RO Purifiers equipped with the ‘Zero Water Wastage’ Technology push back the rejected water to the overhead tank, thereby rendering wastage to zero. As a result, instead of wasting the rejected water, it gets diluted and reused as normal tap water for household purposes.<!-- links:end -->
