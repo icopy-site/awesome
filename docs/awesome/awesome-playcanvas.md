@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [<img src="https://raw.githubusercontent.com/playcanvas/awesome-playcanvas/master/playcanvas-logo.png" align="right" width="100">](https://playcanvas.com)
+> <img src="https://raw.githubusercontent.com/playcanvas/awesome-playcanvas/master/playcanvas-logo.png" align="right" width="100">
 >
 > [PlayCanvas](https://playcanvas.com/) is an open source platform for building interactive web content. It's written in JavaScript, HTML5, CSS3 and WebGL.
 >
@@ -15,8 +15,10 @@
 ## PlayCanvas
 
 - [Editor](https://playcanvas.com/) - Browser-based, real-time collaborative WebGL Editor.
-- [Engine Source](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+- [Engine](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+- [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 - [NPM Package](https://www.npmjs.com/package/playcanvas) - Node.js packages of the PlayCanvas engine run-time.
+- [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 - [Reference](https://developer.playcanvas.com/en/api/) - API reference manual for the engine run-time.
 - [User Manual](https://developer.playcanvas.com/en/user-manual/) - PlayCanvas user guide.
 
@@ -67,7 +69,7 @@
 ## Advertising
 
 - [Adidas ZX Game](https://zx-game.de) - Branded rhythm action game (German).
-- [Ally Racing](https://www.allyracer.com/) - Retro NASCAR racing adver-game.
+- [Ally Racing](https://www.allyracer.com/) - Retro NASCAR racing adver-game for Ally Bank.
 - [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - Promotional 3D experience themed on Call of Duty.
 - [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
 - [eBay Report](https://www.ebay-report.de/) - Stats and facts from eBay Germany.
@@ -118,6 +120,7 @@
 - [BMW i8](http://car.playcanvas.com) - Car visualizer.
 - [DAB Motors](https://dabmotors.com/configurator/) - Motorcycle configurator.
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - Motorcycle configurator.
+- [Infiniti Experience](https://beijing.infiniti-experience.com/) - Explore the 2020 Infiniti range (Chinese).
 - [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - Explore Kia's latest line of cars.
 - [Polaris RZR](https://rzr.polaris.com/en-us/build-model/) - Off-road vehicle configurator.
 
@@ -141,7 +144,3 @@
 ## Contributing
 
 Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

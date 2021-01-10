@@ -470,6 +470,7 @@
 - [CSS Learning](awesome/awesome-css-learning.md) - Mainly about CSS – the language and the modules.
 - [Product Management](awesome/awesome-product-management.md) - Learn how to be a better product manager.
 - [Roadmaps](awesome/awesome-roadmaps.md) - Gives you a clear route to improve your knowledge and skills.
+- [YouTubers](awesome/awesome-youtubers.md) - Watch video tutorials from YouTubers that teach you about technology.
 
 ## Security
 
