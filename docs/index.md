@@ -499,6 +499,7 @@
 - [Drupal](awesome/awesome-drupal.md) - Extensible PHP-based CMS.
 - [Craft CMS](awesome/awesome.md) - Content-first CMS.
 - [Sitecore](awesome/Awesome-Sitecore.md) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
+- [Silverstripe CMS](awesome/awesome-silverstripe-cms.md) - PHP MVC framework that serves as a classic or headless CMS.
 
 ## Hardware
 
@@ -508,6 +509,7 @@
 - [Bluetooth Beacons](awesome/awesome-beacon.md)
 - [Electric Guitar Specifications](awesome/guitarspecs.md) - Checklist for building your own electric guitar.
 - [Plotters](awesome/awesome-plotters.md) - Computer-controlled drawing machines and other visual art robots.
+- [Robotic Tooling](awesome/awesome-robotic-tooling.md) - Free and open tools for professional robotic development.
 - [LIDAR](awesome/awesome-lidar.md) - Sensor for measuring distances by illuminating the target with laser light.
 
 ## Business
@@ -696,6 +698,7 @@
 - [WP-CLI](awesome/awesome-wp-cli.md) - Command-line interface for WordPress.
 - [Credit Modeling](awesome/awesome-credit-modeling.md) - Methods for classifying credit applicants into risk classes.
 - [Ansible](awesome/awesome-ansible.md) - A Python-based, open source IT configuration management and automation platform.
+- [Biological Visualizations](awesome/awesome-biological-visualizations.md) - Interactive visualization of biological data on the web.
 
 ## Related
 

@@ -450,6 +450,7 @@ nav:
     - Drupal: awesome/awesome-drupal.md
     - Craft CMS: awesome/craftcms-awesome.md
     - Sitecore: awesome/Awesome-Sitecore.md
+    - Silverstripe CMS: awesome/awesome-silverstripe-cms.md
   - Hardware:
     - Robotics: awesome/awesome-robotics.md
     - Internet of Things: awesome/awesome-iot.md
@@ -457,6 +458,7 @@ nav:
     - Bluetooth Beacons: awesome/awesome-beacon.md
     - Electric Guitar Specifications: awesome/guitarspecs.md
     - Plotters: awesome/awesome-plotters.md
+    - Robotic Tooling: awesome/awesome-robotic-tooling.md
     - LIDAR: awesome/awesome-lidar.md
   - Business:
     - Open Companies: awesome/awesome-open-company.md
@@ -630,6 +632,7 @@ nav:
     - WP-CLI: awesome/awesome-wp-cli.md
     - Credit Modeling: awesome/awesome-credit-modeling.md
     - Ansible: awesome/awesome-ansible.md
+    - Biological Visualizations: awesome/awesome-biological-visualizations.md
     - All Awesome Lists: awesome/topics-awesome.md
     - StumbleUponAwesome: awesome/StumbleUponAwesome.md
     - Awesome CLI: awesome/awesome-cli.md
