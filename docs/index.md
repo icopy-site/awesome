@@ -3,10 +3,6 @@
 <div align="center">
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
 	<br>
-	<h4>
-		Check out my latest iPhone app <a href="https://apps.apple.com/app/id1532588789">Photo Widget</a> which lets you add photos to your home screen
-	</h4>
-	<br>
 	<br>
 	<br>
 	<p>
@@ -699,6 +695,7 @@
 - [Credit Modeling](awesome/awesome-credit-modeling.md) - Methods for classifying credit applicants into risk classes.
 - [Ansible](awesome/awesome-ansible.md) - A Python-based, open source IT configuration management and automation platform.
 - [Biological Visualizations](awesome/awesome-biological-visualizations.md) - Interactive visualization of biological data on the web.
+- [Veganism](awesome/awesome-veganism.md) - Making the plant-based lifestyle easy and accessible.
 
 ## Related
 

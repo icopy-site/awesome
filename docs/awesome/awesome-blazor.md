@@ -12,7 +12,14 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Event: ".NET Frontend Day" (January 8, 2021).
+## Event: "Meet the Blazor team" (January 12, 2020).
+[<img src="https://pbs.twimg.com/media/Eresw5QUcAANkfh?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/live)
+- ASP.NET Community Standup: Meet the Blazor team.
+- Meet the people behind the code! Join us for a fun livestream with members of the Blazor team.
+- 10:00 AM Pacific | 18:00 UTC 
+- Live: [live.dot.net](https://dotnet.microsoft.com/live), [YouTube](https://www.youtube.com/watch?v=5enEE3BBGJM&feature=emb_title).
+
+## Event: ".NET Frontend Day" (January 28, 2021).
 [<img src="https://www.dotnet-frontend.com/logo.jpg" align="center" width="60%">](https://www.dotnet-frontend.com/)
 - A full day online, with focus on building frontend applications using .NET.
 - .NET Frontend Day is a community organized conference.
@@ -182,8 +189,10 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [BlazorMoonPhase](https://github.com/lohithgn/blazor-moonphase) - ![last commit](https://img.shields.io/github/last-commit/lohithgn/blazor-moonphase?style=flat-square&cacheSeconds=86400) Moon Phase Sighting app using Blazor WebAssembly, by Lohith GN. [Demo](https://blazormoonphase.surge.sh).
 * [BlazorTemplates](https://github.com/blazor-templates/blazor-templates) - ![last commit](https://img.shields.io/github/last-commit/blazor-templates/blazor-templates?style=flat-square&cacheSeconds=86400) A collection of blazor templates, designed for common use cases for new projects.
 * [Pattern Maker](https://github.com/sapsari/website-blazor-demo) - ![last commit](https://img.shields.io/github/last-commit/sapsari/website-blazor-demo?style=flat-square&cacheSeconds=86400) C# code transformation demo that uses Roslyn and Monaco Editor. [Demo](https://patternmaker.netlify.com/), [Demo2](https://enchanter.netlify.app/).
+* [Modulight](https://github.com/StardustDL/delights) - ![last commit](https://img.shields.io/github/last-commit/StardustDL/delights?style=flat-square&cacheSeconds=86400) A light modular framework aimed to be low intrusive based on dependency injection for Blazor. Support lazy loading and prerendering for javascript, css stylesheets, and assemblies. Built with the new features introduced in .NET 5 such as WebAssembly Lazy Loading and Javascript Isolation.
 
 ## Tutorials
+* [Boids in your Browser with Blazor](https://swharden.com/blog/2021-01-08-blazor-boids) - January 8, 2021 - How to model graphics in C# and render them on a HTML Canvas with JavaScript. [Source code](https://github.com/swharden/Csharp-Data-Visualization/tree/master/examples/2021-01-08-blazor-boids/BlazorBoids) ![stars](https://img.shields.io/github/stars/swharden/Csharp-Data-Visualization?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/swharden/Csharp-Data-Visualization?style=flat-square&cacheSeconds=86400).
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800&logo=microsoft) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
 * [Create a Blazor Server app that uses the Microsoft identity platform for authentication](https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-blazor-server) - October 2020 - Tutorial by Microsoft. Blazor Server provides support for hosting Razor components on the server in an ASP.NET Core app. In this tutorial, you learn how to implement authentication and retrieve data from Microsoft Graph in a Blazor Server app with the Microsoft identity platform.
 * [Building a Blazor farm animal soundboard](https://blog.jetbrains.com/dotnet/2020/10/22/building-a-blazor-farm-animal-soundboard/) - October 2020 - Building a Blazor farm animal soundboard, by JetBrains. [Source code](https://github.com/khalidabuhakmeh/Farm) ![stars](https://img.shields.io/github/stars/khalidabuhakmeh/Farm?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/khalidabuhakmeh/Farm?style=flat-square&cacheSeconds=86400).

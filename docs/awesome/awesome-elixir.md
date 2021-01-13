@@ -1619,6 +1619,12 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ffmpex](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
 * [silent_video](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
 
+## WebAssembly
+*Libraries for running WebAssembly (WASM) in Elixir or running Elixir on WebAssembly.*
+
+* [lumen](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly.
+* [wasmex](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
+
 ## XML
 *Libraries and implementations working with XML (for html tools please go to the [HTML](#html) section).*
 

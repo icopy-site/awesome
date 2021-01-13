@@ -240,6 +240,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Security
 
 - [Securty Headers](https://github.com/GuitarRich/SXA.SecurityHeaders) - Shows how to implemenmt response security headers on an exaple of SXA, but they are truly Helix-generic.
+- [SI Snitch](https://github.com/KayeeNL/SI-Snitch) - A debugging tool for reading claims passed to Sitecore from Sitecore Identity, after transformation of those claims from Sitecore Identity. It can be helpful in identifying claims that Sitecore is getting (and in what format) and ensuring group transformations in Sitecore Identity are being processed properly.
 - [MasterKey](https://github.com/islaytitans/MasterKey) - A module for Unlocking Sitecore Items.
 - [Sitecore Delete Access Rights](https://github.com/mikaelnet/sitecore-access-rights) - Enables the "item:removeVersion" access right, allowing authors to remove individual item versions without allowing authors to delete the entire item. It also allows the initial creator of an item to delete his/her own item, unless an explicit deny delete access right is applied to the item.
 

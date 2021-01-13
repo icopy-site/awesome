@@ -13,6 +13,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Dribbble](https://dribbble.com/) - Snaps of icons, doodles, sites, and more from a talented group of people.
 * [Siiimple](https://siiimple.com/) - Another list of sites, but on the much simpler side.
 * [Httpster](http://httpster.net/) - A curated list of the best sites around the Internet.
+* [SaaS Pages](https://saaspages.xyz) - An inspection of Netlify's page made especially to bring you inspiration.
 * [siteInspire](http://www.siteinspire.com/) - Get inspired.
 * [Designer News](https://www.designernews.co/) - The best design / development links from the 'net.
 * [CSS Winner](http://www.csswinner.com/) - Reviewed list of great websites.
@@ -26,6 +27,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 <h5>These sites are good for building a basic framework for the site.</h5>
 
 * Color
+  * [ColorsWall](https://colorswall.com/) - Place to store your color palettes.
   * [Coolors](https://coolors.co/) - Super fast color scheme generator.
   * [Kuler](https://color.adobe.com/) - Easily create or view a custom color swatch for your site.
   * [uiGradients](https://uigradients.com/) - Gorgous gradient generator.
@@ -49,6 +51,7 @@ Designing and building a modern frontend in any web project can be a long and ar
   * [AllTheFreeStock](http://allthefreestock.com/) - All the Free stock mmages, videos, sounds and icons in one location.
   * [TheStocks.im](http://thestocks.im) - A collection of great stock photo websites.
   * [Unsplash](https://unsplash.com) - Free, high quality stock photos.
+* [MinWiz](https://minwiz.com/) - Starter kit for minimal, viable, good looking, production-ready websites.
 
 ## Tools
 <h5>Every painter needs a brush. Well... Most do.</h5>
@@ -59,6 +62,7 @@ Designing and building a modern frontend in any web project can be a long and ar
     * [Predawn](https://github.com/jamiewilson/predawn) - Gorgeous dark interface and syntax theme.
 * [Atom](https://atom.io) - A hackable text editor for the 21st century.
 * [Brackets](http://brackets.io/) - Modern, open source editor with live preview.
+* [VSCode](https://code.visualstudio.com/) - Free text editor
 * [Hyper](https://hyper.is) - Beautiful, extensible command-line interface
 * [FileZilla](https://filezilla-project.org) - For those who fear FTP in the terminal.
 * [WinSCP](http://winscp.net) - Upload files to a MEAN stack or VPS server.

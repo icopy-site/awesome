@@ -34,7 +34,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) - 8 player Bomberman clone for RetroArch/Libretro.
 - [OpenClonk](https://github.com/openclonk/openclonk) - Multiplayer action game where you control small and nimble humanoids.
 - [Open Kick-Off](https://github.com/ssenegas/kickoff) - Rewriting attempt of the cult football game Kick Off 2.
-- [OpenTyrian](https://bitbucket.org/opentyrian/opentyrian/wiki/Home) - An open-source port of Tyrian from Turbo Pascal to C.
+- [OpenTyrian](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C.
 - [Taisei](https://github.com/taisei-project/taisei) - Fan-made, open-source clone of the Touhou series.
 - [The Great Escape in C](https://github.com/dpt/The-Great-Escape-in-C) - Classic ZX Spectrum game The Great Escape in portable C.
 - [Zelda Classic](https://github.com/ArmageddonGames/ZeldaClassic) - A game and editing tool that lets you create custom Legend of Zelda quests.
@@ -72,7 +72,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59.
 - [Opengate](https://sourceforge.net/projects/opengate/) - Remake of Jumpgate.
 - [RuneLite](https://github.com/runelite/runelite) - Open source old school RuneScape client.
-- [Ryzom Core](https://bitbucket.org/ryzom/ryzomcore/src/develop/) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
+- [Ryzom Core](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
 - [Space Station 14](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at an Space Station 13 remake.
 
 ## RPG
@@ -123,7 +123,6 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
 - [FS2Open](https://github.com/scp-fs2open/fs2open.github.com) - FreeSpace2 Source Code Project.
 - [Librelancer](https://github.com/Librelancer/Librelancer) - Reimplementation of the 2003 space game Freelancer.
-- [Open Horizon](https://github.com/undefined-darkness/open-horizon) - Open source implementation of Ace Combat: Assault Horizon's render and physics.
 
 ## Strategy
 - [Antares](https://github.com/arescentral/antares) - Remake of Ares, a tactical space combat game.
