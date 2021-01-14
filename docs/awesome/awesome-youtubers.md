@@ -273,6 +273,12 @@ Featured playlists: `Python - Intermediate and Advanced Features`, `Functional P
 Content about: Python \
 Featured playlists: `Algorithms (Python)`, `Data Structures (Python)`, `Technical Interview Preparation`, `Web Scraping and Automation (Python)`, `many more videos`.
 
+[<img align="left" height="94px" width="94px" alt="Nick Chapsas' channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngu9ixqZQkUBXieYuC38lf2SZd4AphVjuDMhQb8Cg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/ElfocrashDev)
+
+[**Nick Chapsas**](https://www.youtube.com/user/ElfocrashDev) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: C#, .NET, Azure, AWS, General Programming \
+Featured Playlists: `ASP.NET Core REST API Tutorial`, `ASP.NET Core General Tutorials`, `Essential Nuget Packages in .NET`, `Discussion and Advice`, `Software Engineering Fundamentals`.
+
 
 ## Web development
 
@@ -505,6 +511,13 @@ Featured playlists: `Small projects`, `Who Wants To Be A Megabit (Trivia Game)`,
 [**Ben Awad**](https://www.youtube.com/c/BenAwad97/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Web development, JavaScript, TypeScript, React, GraphQL \
 Featured playlists: `GraphQL tutorials`, `React Hooks`, `Practical React`, `Typescript, Next.js, And GraphQL Series`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Ebenezer Don channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjCNjtNKGVhvNY9Thj60vx_mgsd5CvPprH6HWBbIQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ebenezerdon/)
+
+[**Ebenezer Don**](https://www.youtube.com/c/ebenezerdon/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: HTML, CSS, JavaScript, Firebase, FastAPI, TypeScript \
+Featured playlists: `Getting started with Web development`, `Version control`, `Frontend database management`. \
 <br/>
 
 
