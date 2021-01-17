@@ -88,6 +88,7 @@
 
 * [CCU-Jack](https://github.com/mdzio/ccu-jack) - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.
 * [homebridge-homematic](https://github.com/thkl/homebridge-homematic) - [Homebridge](https://github.com/nfarina/homebridge) Plugin zur Einbindung von Homematic Geräten in HomeKit.
+* [homebridge-homematicip](https://github.com/marcsowen/homebridge-homematicip) - [Homebridge](https://github.com/nfarina/homebridge) Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.
 * [hvl - Homematic Virtual Interface](https://github.com/thkl/Homematic-Virtual-Interface) - Bindet Fremdgeräte (z.B. Hue, Harmony, Netatmo, Sonos) über Plugins ein, auch als Addon verfügbar.
 * [node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu) - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
 

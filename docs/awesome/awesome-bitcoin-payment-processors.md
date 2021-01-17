@@ -6,10 +6,12 @@
 
 ## Awesome Bitcoin Payment Processors [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A list of awesome Bitcoin payment processors and stories from merchants using them. Why are they awesome?
+A curated list of awesome Bitcoin payment processors enabling merchants, businesses and nonprofits to accept Bitcoin payments.
 
-1. They are either protected against financial censorship or they don't practice it.
-2. They process native Bitcoin transactions and don't require wallets to use the [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important).
+Why are they awesome?
+
+1. They are either immune to financial censorship or they don't practice it.
+2. They accept Bitcoin via native Bitcoin addresses and don't require wallets to use the [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important).
 3. They don't [block payments by IPs/locations](https://twitter.com/alex_kaul/status/1090211252331208705).
 
 
@@ -66,8 +68,6 @@ Hosted payment processors run on someone else's server. This simplifies the init
 
 ## Backers 💝
 
-[[Become a backer](https://mynode.alexkaul.com/gh-donate)]
-
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/0/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/0/profile)
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/1/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/1/profile)
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/2/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/2/profile)
@@ -79,18 +79,4 @@ Hosted payment processors run on someone else's server. This simplifies the init
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/8/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/8/profile)
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/9/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/9/profile)
 
-## How to Contribute
-
-Please read [CONTRIBUTING](https://github.com/alexk111/awesome-bitcoin-payment-processors/blob/master/CONTRIBUTING.md).
-
-## How to Share
-
-- [Share on Twitter](https://twitter.com/home?status=List%20of%20awesome%20bitcoin%20payment%20processors.%20https%3A%2F%2Fgithub.com%2Falexk111%2Fawesome-bitcoin-payment-processors%20%23bitcoin)
-- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/alexk111/awesome-bitcoin-payment-processors)
-- [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//github.com/alexk111/awesome-bitcoin-payment-processors&title=List%20of%20awesome%20bitcoin%20payment%20processors&summary=&source=)
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Alex Kaul](https://github.com/alexk111) has waived all copyright and related or neighboring rights to this work.
+[[Donate](https://mynode.alexkaul.com/gh-donate)] Thank you for your support! 🙌
