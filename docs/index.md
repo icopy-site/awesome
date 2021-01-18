@@ -255,6 +255,7 @@
 - [Material-UI](awesome/awesome-material-ui.md) - Material Design React components for faster and easier web development.
 - [Building Blocks for Web Apps](awesome/awesome-building-blocks-for-web-apps.md) - Standalone features to be integrated into web apps.
 - [Svelte](awesome/awesome-svelte.md) - App framework.
+- [Design systems](awesome/awesome-design-systems.md) - Collection of reusable components, guided by rules that ensure consistency and speed.
 
 ## Back-End Development
 
