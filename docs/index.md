@@ -386,6 +386,7 @@
 - [Flame](awesome/awesome-flame.md) - Game engine for Flutter.
 - [Discord Communities](awesome/awesome-discord-communities.md) - Chat with friends and communities.
 - [CHIP-8](awesome/awesome-chip-8.md) - Virtual computer game machine from the 70s.
+- [Games of Coding](awesome/awesome-games-of-coding.md) - Learn a programming language by making games.
 
 ## Development Environment
 

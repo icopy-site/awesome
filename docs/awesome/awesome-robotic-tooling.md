@@ -135,6 +135,9 @@ to successfully design systems architecture.
 * [mir_robot](https://github.com/dfki-ric/mir_robot) - This is a community project to use the MiR Robots with ROS.
 * [COMPAS](https://github.com/compas-dev/compas_fab) - Robotic fabrication package for the COMPAS Framework.
 * [JdeRobot Academy](https://github.com/JdeRobot/RoboticsAcademy) - JdeRobot Academy is an open source collection of exercises to learn robotics in a practical way.
+* [clover](https://github.com/CopterExpress/clover) - ROS-based framework and RPi image to control PX4-powered drones.
+
+
 
 
 ## Development Environment
@@ -327,6 +330,7 @@ to successfully design systems architecture.
 * [fields-ignition](https://github.com/azazdeaz/fields-ignition) - Generate random crop fields for Ignition Gazebo.
 * [Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 * [BlueSky](https://github.com/TUDelft-CNS-ATM/bluesky) - The goal of BlueSky is to provide everybody who wants to visualize, analyze or simulate air traffic with a tool to do so without any restrictions, licenses or limitations.
+* [Cloe](https://github.com/eclipse/cloe) - Empowers developers of automated-driving software components by providing a unified interface to closed-loop simulation.
 
 
 ## Electronics and Mechanics
@@ -802,7 +806,6 @@ to successfully design systems architecture.
 * [rosmon](https://github.com/xqms/rosmon) - ROS node launcher & monitoring daemon.
 * [multimaster_fkie](https://github.com/fkie/multimaster_fkie) - GUI-based management environment that is very useful to manage ROS-launch configurations and control running nodes.
 * [collectd](https://github.com/collectd/collectd/) - A small daemon which collects system information periodically and provides mechanisms to store and monitor the values in a variety of ways.
-
 * [lnav](http://lnav.org/) - An enhanced log file viewer that takes advantage of any semantic information that can be gleaned from the files being viewed, such as timestamps and log levels.
 * [htop](https://github.com/hishamhm/htop) - An interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 * [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux with logging and replay function.
