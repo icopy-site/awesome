@@ -287,6 +287,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## CRM
 
 * [Fat Free CRM](https://github.com/fatfreecrm/fat_free_crm) - An open source Ruby on Rails based customer relationship management platform.
+* [Hitobito](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## Cryptocurrencies and Blockchains
 
@@ -1079,6 +1080,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Watir](https://github.com/watir/watir/) - Web application testing in Ruby.
 * Extra
   * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies.
+  * [CQL](https://github.com/enkessler/cql) - CQL is a library for making queries against Cucumber style test suites.
   * [gitarro](https://github.com/openSUSE/gitarro) - Run, retrigger, handle all type and OS-independent tests against your GitHub Pull Requests.
   * [Knapsack](https://github.com/ArturT/knapsack) - Optimal test suite parallelisation across CI nodes for RSpec, Cucumber, Minitest, Spinach and Turnip.
   * [mutant](https://github.com/mbj/mutant) - Mutant is a mutation testing tool for Ruby.

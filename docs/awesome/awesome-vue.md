@@ -1334,6 +1334,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue3-highcharts](https://github.com/smithalan92/vue3-highcharts) - A Highcharts.JS wrapper component for Vue 3
 - [echarts-for-vue](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
 - [vue3-chart-v2](https://github.com/vutran6853/vue3-chart-v2) - Vue wrapper component base on Chart.JS for Vue 3
+- [vue-gauge](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts
 #### Time
 
 _Display time / date / age_
@@ -2817,6 +2818,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-timed-content](https://github.com/dannyfeliz/vue-timed-content) - Shows or hides content based on a given time range and timezone.
 - [vue-live](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live.
 - [vue-safe-html](https://github.com/ecosia/vue-safe-html) - Vue.js directive which renders sanitised HTML dynamically.
+- [v-fetch](https://github.com/shaynekasai/v-fetch) - Vue.js directive to make AJAX requests.
 
 #### Web Workers
 

@@ -97,6 +97,7 @@ A curated list of podcasts we like to listen to.
 * [Iron Sysadmin](https://www.ironsysadmin.com/) - A Podcast by real world sysadmins, for real world sysadmins.
 * [IRL: Because Online Life Is Real Life](https://irlpodcast.org/) - Host Veronica Belmont shares real stories of life online and real talk about the future of the Web. IRL is an original podcast from Mozilla.
 * [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
+* [Javascript Jabber](https://devchat.tv/podcasts/js-jabber/) - Weekly podcast discussion about Javascript on the front and back ends.
 * [JS Party](https://changelog.com/jsparty) – A community celebration of JavaScript and the web
 * [Ladybug Podcast](https://ladybug.dev/) – An all lady-hosted tech podcast for all developers with great discussions around how to start coding, the hot technologies right now, how to get your first developer job, imposter syndrome, how to write CSS and more.
 * [Land of Giants](https://www.vox.com/land-of-the-giants-podcast) - Facebook. Apple. Amazon. Netflix. Google. This podcast examine how it got its power, what it's doing with it, and what might happen to in the future.
@@ -136,6 +137,7 @@ A curated list of podcasts we like to listen to.
 * [Rocket Talk](https://www.tor.com/features/series/rocket-talk-podcast/) - Rocket Talk is Tor.com’s sci-fi/fantasy podcast, blending discussion style talk-radio with audio narrations of Tor.com’s award winning short fiction.
 * [Ruby5](https://www.pluralsight.com/search?q=ruby) - The latest news in the Ruby and Rails community.
 * [RunAs Radio](http://www.runasradio.com/) - A weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.
+* [Second Career Devs](https://secondcareerdevs.com/) - Each episode of the Second Career Devs podcast focuses on a guest who became a software engineer after a previous career.
 * [Security Now!](https://www.grc.com/securitynow.htm) - Security Now! consists of a discussion between Steve Gibson and Leo Laporte of issues of computer security and, conversely, insecurity.
 * [Security Weekly](https://securityweekly.com) - A weekly podcast about security and info sec.
 * [Semaphore Uncut](https://semaphoreci.com/podcast) - Software industry pros discuss problems they’re currently solving with the products they're working on.
@@ -175,6 +177,7 @@ A curated list of podcasts we like to listen to.
 * [The Distributed Data Show](https://www.datastax.com/resources/distributed-data-show) - Weekly source for the latest news and technical expertise to help building large-scale distributed systems. Brought by the DataStax Technical Evangelist team, go in-depth with DataStax engineers and special guests from the broader data community. New episodes each Tuesday.
 * [The Five-Minute Geek Show](http://www.fiveminutegeekshow.com) - Matt Stauffer, unabashedly geeky, 5 minutes, twice a week. Frontend dev, backend dev, audio, design, podcasts--all fair game.
 * [The Food Fight Show](http://foodfightshow.org/) - The Podcast where DevOps chefs do battle
+* [The Hackersploit Podcast](https://www.listennotes.com/podcasts/the-hackersploit-podcast-alexis-rwTafnO1K9c/) - The HackerSploit podcast is aimed at educating anyone interested in Infosec, Hacking or Cybersecurity. 
 * [The Hanselminutes podcast](https://hanselminutes.com/) - Fresh Air for Developers.
 * [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
 * [The Life Scientific](https://www.bbc.co.uk/programmes/b015sqc7) - Professor Jim Al-Khalili talks to leading scientists about their life and work, finding out what inspires and motivates them and asking what their discoveries might do for mankind.
