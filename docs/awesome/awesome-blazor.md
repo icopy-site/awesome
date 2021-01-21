@@ -12,19 +12,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Event: "Meet the Blazor team" (January 12, 2020).
-[<img src="https://pbs.twimg.com/media/Eresw5QUcAANkfh?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/live)
-- ASP.NET Community Standup: Meet the Blazor team.
-- Meet the people behind the code! Join us for a fun livestream with members of the Blazor team.
-- 10:00 AM Pacific | 18:00 UTC 
-- Live: [live.dot.net](https://dotnet.microsoft.com/live), [YouTube](https://www.youtube.com/watch?v=5enEE3BBGJM&feature=emb_title).
-
-## Event: "Blazor Development Sprints" (January 14, 2020).
-[<img src="https://user-images.githubusercontent.com/1857993/89742998-c75b1f80-da53-11ea-86e0-c441f71c0f80.png" align="center" width="100%">](https://raw.githubusercontent.com/dotnet/aspnetcore/wiki/Blazor-Development-Sprints)
-- What's a sprint? A sprint is an in-person or virtual event where community members can contribute to the Blazor project, with the help of Blazor maintainers.
-- Who can participate in the sprint? Participation is open to anyone with experience developing C# and familiarity with Blazor.
-- Documentation: [GitHub](https://github.com/dotnet/aspnetcore/wiki/Blazor-Development-Sprints).
-
 ## Event: ".NET Frontend Day" (January 28, 2021).
 [<img src="https://www.dotnet-frontend.com/logo.jpg" align="center" width="60%">](https://www.dotnet-frontend.com/)
 - A full day online, with focus on building frontend applications using .NET.
@@ -555,6 +542,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Persisting your users preferences using Blazor and Local Storage](https://jonhilton.net/blazor-tailwind-dark-mode-local-storage/) - January 14, 2021 - Persisting your users preferences using Blazor and Local Storage.
 * [Microsoft Teams App With Blazor Made Easy Using Blazorade Teams](https://mikaberglund.com/microsoft-teams-app-with-blazor-made-easy-using-blazorade-teams/) - January 10, 2021 - Microsoft Teams App With Blazor Made Easy Using Blazorade Teams. [Source code](https://github.com/Blazorade/Blazorade-Teams) ![stars](https://img.shields.io/github/stars/Blazorade/Blazorade-Teams?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazorade/Blazorade-Teams?style=flat-square&cacheSeconds=86400).
 * [How to Use Query Strings in Blazor WebAssembly](https://code-maze.com/query-strings-blazor-webassembly/) - January 7, 2021 - In this article, we are going to learn how to use query strings in Blazor WebAssembly. We are going to show you how to send query strings to the Blazor component and also how to read them inside the component. [Source code](https://github.com/CodeMazeBlog/blazor-wasm-query-strings) ![stars](https://img.shields.io/github/stars/CodeMazeBlog/blazor-wasm-query-strings?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeMazeBlog/blazor-wasm-query-strings?style=flat-square&cacheSeconds=86400).
+* [Displaying lists efficiently in Blazor](https://visualstudiomagazine.com/articles/2021/01/06/blazor-lists.aspx) - January 6, 2021 - Blazor's Virtualize component will let you display long lists faster without writing a lot of code. If you want to take full advantage of the component, however, you'll need a relatively smart repository to back it up.
 * [Introducing Online GZIP de/compressor, built with Blazor WebAssembly](https://swimburger.net/blog/dotnet/introducing-online-gzip-decompressor) - January 1, 2021 - Introducing Online GZIP de/compressor, built with Blazor WebAssembly.
 * [Configure Alexa Skill to use Blazor backend](https://www.arjunkrishna.us/blog/alexa-backend-within-blazor/) - December 28, 2020 - Configure Alexa Skill to use Blazor backend. [Source code](https://github.com/arjunkrishna/Blazor-WASM-Identity-gRPC-Alexa/) ![stars](https://img.shields.io/github/stars/arjunkrishna/Blazor-WASM-Identity-gRPC-Alexa?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/arjunkrishna/Blazor-WASM-Identity-gRPC-Alexa?style=flat-square&cacheSeconds=86400).
 * [MicroFrontends with Blazor WebAssembly](https://medium.com/@waelkdouh/microfrontends-with-blazor-webassembly-b25e4ba3f325) - December 22, 2020 - MicroFrontends with Blazor WebAssembly. [Source code](https://github.com/waelkdouh/BlazorMicroFrontend) ![stars](https://img.shields.io/github/stars/waelkdouh/BlazorMicroFrontend?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/waelkdouh/BlazorMicroFrontend?style=flat-square&cacheSeconds=86400).

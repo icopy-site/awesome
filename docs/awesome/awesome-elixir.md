@@ -172,6 +172,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [passwordless_auth](https://github.com/madebymany/passwordless_auth) - Simple passwordless login or 2-factor / multi-factor authentication for Elixir.
 * [phauxth](https://github.com/riverrun/phauxth) - Authentication library for Phoenix 1.3 and other Plug-based apps.
 * [phoenix_client_ssl](https://github.com/jshmrtn/phoenix-client-ssl) - Client SSL Authentication Plugs for Phoenix and other Plug-based apps.
+* [phx_gen_auth](https://github.com/aaronrenner/phx_gen_auth) - An authentication system generator for Phoenix 1.5 applications.
 * [pow](https://github.com/danschultzer/pow) - Robust, modular, and extendable user authentication system ([Website](https://powauth.com) - [Doc](https://hex.pm/packages/pow)).
 * [samly](https://github.com/handnot2/samly) - SAML SP SSO made easy ([Doc](https://hexdocs.pm/samly/readme.html)).
 * [sesamex](https://github.com/khusnetdinov/sesamex) - Another simple and flexible authentication solution in 5 minutes!.
@@ -1246,6 +1247,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [ca](https://github.com/synrc/ca) - Certificate Authority.
 * [clamxir](https://github.com/ramortegui/clamxir) - ClamAV wrapper for elixir.
+* [Ockam](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
 * [pwned](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
 * [safetybox](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
 * [sobelow](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework.

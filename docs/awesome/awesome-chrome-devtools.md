@@ -64,6 +64,7 @@
   - Python port: [pyppeteer](https://github.com/pyppeteer/pyppeteer)
   - Rust port: [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome/)
   - .NET port: [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp)
+  - Ruby port: [Ferrum](https://github.com/route/ferrum)
   - [headless-devtools](https://github.com/cowchimp/headless-devtools) - Puppeteer plugin to get CSS Coverage or JS Heap snapshot.
   - [PuPHPeteer](https://github.com/rialto-php/puphpeteer) - PHP-bridge to control Puppeteer using PHP.
 - [Playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
@@ -75,6 +76,7 @@
 - TypeScript/Node.js: [chrome-debugging-client](https://github.com/krisselden/chrome-debugging-client)
 - Java: [chrome-devtools-java-client](https://github.com/kklisura/chrome-devtools-java-client)
 - Java: [karate](https://intuit.github.io/karate/karate-core/) - Web-service testing framework with a Java API to automate Chrome
+- Java: [jvppeteer](https://github.com/fanyong920/jvppeteer)  - Headless Chrome For Java 
 - Python: [PyCDP](https://github.com/hyperiongray/python-chrome-devtools-protocol) - Pure-Python, sans-IO wrappers. See also the [Trio CDP driver](https://github.com/hyperiongray/trio-chrome-devtools-protocol)
 - Python: [chromewhip](https://github.com/chuckus/chromewhip) - drop-in replacement for the `splash` service
 - Python: [pychrome](https://github.com/fate0/pychrome) - low level CDP transport handler
@@ -83,6 +85,7 @@
 - Go: [cdp](https://github.com/mafredri/cdp)
 - Go: [gcd](https://github.com/wirepair/gcd)
 - Go: [godet](https://github.com/raff/godet)
+- Go: [Rod](https://github.com/go-rod/rod)
 - C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
 - Ruby: [Cuprite](https://github.com/machinio/cuprite) - Capybara driver
 - Ruby: [ChromeRemote](https://github.com/cavalle/chrome_remote/)
@@ -154,11 +157,3 @@
 ### Performance
 - [sloth](https://github.com/denar90/sloth) - Chrome extension allows to enable and save CPU and network throttling for selected tabs.
 - [TracerBench](https://github.com/TracerBench/tracerbench) - TracerBench is a controlled performance benchmarking tool for web applications, providing clear, actionable and usable insights into performance deltas.
-
----
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-This awesome list is licensed into the Public Domain under Creative Commons 0. For more information please see the [license](https://github.com/ChromeDevTools/awesome-chrome-devtools/blob/master/LICENSE) file.

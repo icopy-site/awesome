@@ -80,6 +80,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) - Build your own Docker images for the most recent versions of Sitecore.
 - [Packer for Sitecore](https://github.com/asmagin/sitecore-packer) - Repository contains Packer templates for a local Sitecore hosting environment with IIS and and SQL Server on Windows, SOLR and Sitecore 9.0 building virtual machine images and Vagrant boxes for VirtualBox, provisioned with Chef.
 - [Docker SOLR with SSL](https://github.com/LaubPlusCo/docker-solr-ssl) - A simple setup that set up a Linux container on a host running solr with SSL using a generated certificate.
+- [Sitecore Docker Tools](https://github.com/sitecore/docker-tools) - Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints which can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.
+
 
 
 - [Sitecore Content Hub Importer](https://github.com/vasiliyfomichev/content-hub-importer) - Sitecore Content Hub Asset Importer; allows importing image assets from various data sources into Sitecore Content Hub.
@@ -104,7 +106,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Sitecore Habitat](https://github.com/Sitecore/Habitat) - Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.
 - [Sitecore Helix Examples](https://github.com/Sitecore/Helix.Examples) - Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types / requirements than existing examples.
 - [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform) - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
-- [Sitecore MVP](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 working in containers.
+- [Sitecore MVP](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
 - [Sitecore.HabitatHome.Utilities](https://github.com/Sitecore/Sitecore.HabitatHome.Utilities) - A collection of utilities and script examples to help with installing Sitecore Experience Platform, installing Sitecore Experience Commerce, installing Sitecore Modules, warming up a Sitecore Instance, security Hardening a Sitecore Instance etc.
 - [Sitecore.HabitatHome.Commerce](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) - Demo assets with external contributors and partners.
 - [Sitecore.HabitatHome.Omni](https://github.com/Sitecore/Sitecore.HabitatHome.Omni) - Shares Sitecore JSS PWA demo assets and future "Sitecore Omni" related demo assets.

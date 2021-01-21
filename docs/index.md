@@ -14,7 +14,7 @@
 		<sup>Special thanks to:</sup>
 		<br>
 		<br>
-		<a href="https://standardresume.co">
+		<a href="https://standardresume.co/tech">
 			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
 		</a>
 	</p>
@@ -657,7 +657,7 @@
 - [Prometheus](awesome/awesome-prometheus.md) - Open-source monitoring system.
 - [Homematic](awesome/awesome-homematic.md) - Smart home devices.
 - [Ledger](awesome/awesome-ledger.md) - Double-entry accounting on the command-line.
-- [Web Monetization](awesome/awesome-web-monetization.md) - A free open web standard service that allows you to send money directly in your browser. 
+- [Web Monetization](awesome/awesome-web-monetization.md) - A free open web standard service that allows you to send money directly in your browser.
 - [Uncopyright](awesome/awesome-uncopyright.md) - Public domain works.
 - [Crypto Currency Tools & Algorithms](awesome/awesome-coins.md) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 - [Diversity](awesome/awesome-diversity.md) - Creating a more inclusive and diverse tech community.
