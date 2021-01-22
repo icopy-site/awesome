@@ -276,6 +276,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## SPEAK
 
+- [Speak 3 starter template](https://github.com/Mitya88/SitecoreSpeak3StarterProject) - Speak 3 starter template generated with Angular CLI version 1.2.7.
+- [Sitecore Speak UI Library](https://github.com/Mitya88/SitecoreSpeakUILibrary) - Speak 3 components generated with Angular CLI version 1.2.7.
 - [SitecoreDataImporter](https://github.com/komainu85/SitecoreDataImporter) - SPEAK application to import CSV / JSON / XML into Sitecore Items.
 
 ## SXA (Sitecore Experience Accelerator)
