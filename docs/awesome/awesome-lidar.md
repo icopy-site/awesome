@@ -168,6 +168,23 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
 - [LGSVL](https://www.lgsvlsimulator.com/) - Unity Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS2.
   - [GitHub repository :octocat:](https://github.com/lgsvl/simulator)
   - [YouTube channel :red_circle:](https://www.youtube.com/c/LGSVLSimulator)
+- [AirSim](https://microsoft.github.io/AirSim) - Unreal Engine based simulator for drones and automotive. Compatible with ROS.
+  - [GitHub repository :octocat:](https://github.com/microsoft/AirSim)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=gnz1X3UNM5Y)
+
+## Related awesome
+- [Awesome point cloud analysis :octocat:](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
+- [Awesome robotics :octocat:](https://github.com/Kiloreux/awesome-robotics#readme)
+- [Awesome robotics libraries :octocat:](https://github.com/jslee02/awesome-robotics-libraries#readme)
+- [Awesome ROS2 :octocat:](https://github.com/fkromer/awesome-ros2#readme)
+- [Awesome artificial intelligence :octocat:](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+- [Awesome computer vision :octocat:](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+- [Awesome machine learning :octocat:](https://github.com/josephmisiti/awesome-machine-learning#readme)
+- [Awesome deep learning :octocat:](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
+- [Awesome reinforcement learning :octocat:](https://github.com/aikorea/awesome-rl/#readme)
+- [Awesome SLAM datasets :octocat:](https://github.com/youngguncho/awesome-slam-datasets#readme)
+- [Awesome electronics :octocat:](https://github.com/kitspace/awesome-electronics#readme) 
+- [Awesome vehicle security and car hacking :octocat:](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 ## Others
 - [Pointcloudprinter :octocat:](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.

@@ -46,6 +46,7 @@
 - [htmlemail](https://htmlemail.io/) - Responsive HTML email templates for startups & developers.
 - [Postmark Transactional Email Templates](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
 - [Stripo.email](https://stripo.email/templates/) - Rich set of responsive, interactive beautiful email templates with Stripo.
+- [Postcards](https://designmodo.com/postcards/) - Design responsive email templates online without coding knowledge.
 
 ## Tools
 
@@ -80,6 +81,7 @@
 - [eSputnik](https://esputnik.com/en) - eSputnik is a marketing automation system trusted by more than 30 thousand loyal customers worldwide to send more than a billion emails every month.
 - [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time
 - [ImprovMX](https://improvmx.com/) - Create free email aliases for your domain name.
+- [Reacher](https://reacher.email) - Check if an email exists without sending any email. Written in Rust, 100% open-source.
 
 ## Self-Hosted Services
 
@@ -121,6 +123,7 @@
 - [Stripo.email Blog](http://www.emailmonks.com/blog/) - Email Marketing & Email Design Blog.
 - [HTML Email Blog](https://htmlemail.io/blog/)
 - [Build Better Blog](https://blocksedit.com/content-code/) - Design and content production in email marketing
+- [Email Design Blog](https://designmodo.com/design/email-design/) - Articles, tutorial, inspiration for all email geeks.
 
 ## Copy
 
@@ -142,7 +145,6 @@
 - [Really good emails](http://reallygoodemails.com/) - The Best Email Designs in the Universe.
 - [Milled](http://milled.com/)
 - [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) -The most effective email marketing campaigns from Campaign Monitor.
-- [Mailchimp Inspiration](http://inspiration.mailchimp.com/#all) - Mailchimp beautiful newsletters examples.
 - [Htmlemaildesigns](http://htmlemaildesigns.com/) - Beautiful emails to help inspire your next email design.
 
 ## Statistics
