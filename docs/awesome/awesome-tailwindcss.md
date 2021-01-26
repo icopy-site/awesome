@@ -159,6 +159,7 @@
 - 🌍🔧 [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) - OpenAI GPT-3 powered Tailwind CSS code generator.
 - 🌍🔧 [Stitches](https://stitches.hyperyolo.com/) - Template generator with Tailwind (online).
 - 🌍🔧 [tail-animista](https://tail-animista.vercel.app) - Configurable custom animation utilities generator for Tailwind CSS.
+- 🌍🔧 [brands-tail-color](https://brands-tail-color.vercel.app/) - Configuration generator using various brands' colors.
 - 🌍 [Typography Playground](https://tailwind-typography-playground.vercel.app/) - Tool for trying different Google Fonts combinations with the Tailwind CSS Typography Plugin.
 - 🌍💙 [Play](https://play.tailwindcss.com/) - Advanced online playground for Tailwind CSS.
 - 🌍 [tailwind.run](https://tailwind.run) - Tailwind CSS fiddle with built-time features (online).
@@ -188,6 +189,7 @@
 - 💼🔧 [twin.macro](https://github.com/ben-rogerson/twin.macro) - Use Tailwind classes within any CSS-in-JS library.
 - 💼🔧 [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) - Local UI tool for visualizing your Tailwind CSS configuration file.
 - 💼🔧 [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - Blade form components using Tailwind CSS Custom Forms.
+- 💼 [@ngneat/tailwind](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
 - 🔧 [re-tailwind](https://github.com/phthhieu/re-tailwind) - ReasonML utility that generates Tailwind classes.
 - 🔧 [Protoship Codegen](https://protoship.io) - Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs.
 - 🔧 [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Plugin scaffolder for Tailwind CSS.

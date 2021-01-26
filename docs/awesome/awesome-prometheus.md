@@ -1,9 +1,10 @@
 <div class="github-widget" data-repo="roaldnefs/awesome-prometheus"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Prometheus  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Prometheus  [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Prometheus resources, projects and tools.
 
+<!--lint ignore double-link-->
 [![Prometheus](https://raw.githubusercontent.com/roaldnefs/awesome-prometheus/master/media/prometheus.png)](https://prometheus.io/)
 
 Prometheus is an open-source systems monitoring and alerting toolkit.
@@ -12,6 +13,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Official resources
 
+<!--lint ignore double-link-->
 - [Website](https://prometheus.io/) - Official Prometheus project website.
 - [GitHub repository](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
 - [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
@@ -36,25 +38,25 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Books
 
-- [Monitoring with Prometheus](https://www.prometheusbook.com/) - by James Turnbull.
-- [Prometheus: Up & Running](http://shop.oreilly.com/product/0636920147343.do) - by Brian Brazil.
-- [Hands-On Infrastructure Monitoring with Prometheus](https://www.prombook.info/) - by Joel Bastos & Pedro Araújo, reviewed by Brian Brazil.
+- [Monitoring with Prometheus](https://www.prometheusbook.com/) - Monitoring with Prometheus by James Turnbull.
+- [Prometheus: Up & Running](http://shop.oreilly.com/product/0636920147343.do) - Prometheus: Up & Running by Brian Brazil.
+- [Hands-On Infrastructure Monitoring with Prometheus](https://www.prombook.info/) - Hands-On Infrastructure Monitoring with Prometheus by Joel Bastos & Pedro Araújo, reviewed by Brian Brazil.
 
 ## Videos
-- [PromCon 2019](https://www.youtube.com/playlist?list=PLoz-W_CUquUmIYKS97RBghcWumZIX2kvv) - PromCon Munich - November 7-8, 2019, PromCon EU 2019
+- [PromCon 2019](https://www.youtube.com/playlist?list=PLoz-W_CUquUmIYKS97RBghcWumZIX2kvv) - PromCon Munich - November 7-8, 2019, PromCon EU 2019.
 - [PromCon 2018](https://www.youtube.com/playlist?list=PLoz-W_CUquUlml1wBtQVBKErwoszt5B0h) - PromCon Munich - August 9-10, 2018 - talk recordings from PromCon 2018 in Munich.
 - [PromCon 2017](https://www.youtube.com/playlist\?list\=PLoz-W_CUquUlnvoEBbqChb7A0ZEZsWSXt) - PromCon Munich - August 17-18, 2017 - talk recordings from PromCon 2017 in Berlin.
 - [PromCon 2016](https://www.youtube.com/playlist?list=PLoz-W_CUquUlCq-Q0hy53TolAhaED9vmU) - PromCon Berlin - August 25-26, 2016 - talk recordings from PromCon 2016 in Berlin.
 - [Prometheus Monitoring for Java Developers](https://www.youtube.com/watch?v=jb9j_IYv4cU) - Devoxx Belgium - November 8, 2016 - Fabian Stäber.
 - [Prometheus: A Next Generation Monitoring System](https://www.youtube.com/watch?v=cwRmXqXKGtk) - FOSDEM 2016 - January 31, 2016 - Brian Brazil.
-- [PromCon 2016: So You Want to Write an Exporter](https://www.youtube.com/watch?v=KXq5ibSj2qA) - PromCon 2016 - So You Want to Write an Exporter - Brian Brazil
+- [PromCon 2016: So You Want to Write an Exporter](https://www.youtube.com/watch?v=KXq5ibSj2qA) - PromCon 2016 - So You Want to Write an Exporter - Brian Brazil.
 - [Infrastructure and application monitoring using Prometheus](https://www.youtube.com/watch?v=5GYe_-qqP30) - Devoxx - May 17, 2017 at Devoxx UK - Marco Pas.
 - [Prometheus Monitoring for Java Web Applications w o Modifying Source Code](https://www.youtube.com/watch?v=BjyI93c8ltA) - Devoxx Belgium - November 7, 2017 - Fabian Stäber.
 - [Prometheus: Design and Philosophy - why it is the way it is](https://www.youtube.com/watch?v=QgJbxCWRZ1s) - Docker - October 14, 2016 - Julius Volz.
-- [Explain it Like I’m Five - What I Learned Teaching Observability to My Kids](https://vimeo.com/341142428) - Monitorama PDX, 2019 - Dave Cadwallader.
+- [Explain it Like I'm Five - What I Learned Teaching Observability to My Kids](https://vimeo.com/341142428) - Monitorama PDX, 2019 - Dave Cadwallader.
 - [Best Practices and Beastly Pitfalls](https://www.youtube.com/watch?v=_MNYuTNfTb4) - PromCon 2017: Best Practices and Beastly Pitfalls - Julius Volz.
 - [Counting with Prometheus](https://www.youtube.com/watch?v=67Ulrq6DxwA) - Counting with Prometheus - Brian Brazil, Robust Perception.
-- [Understanding and Extending Prometheus AlertManager](https://www.youtube.com/watch?v=jpb6fLQOgn4) - Understanding and Extending Prometheus AlertManager - Lee Calcote, SolarWinds
+- [Understanding and Extending Prometheus AlertManager](https://www.youtube.com/watch?v=jpb6fLQOgn4) - Understanding and Extending Prometheus AlertManager - Lee Calcote, SolarWinds.
 - [The Prometheus Time Series Database](https://www.youtube.com/watch?v=HbnGSNEjhUc) - PromCon 2016: The Prometheus Time Series Database - Björn Rabenstein.
 - [An Introduction to Systems & Service Monitoring with Prometheus](https://www.youtube.com/watch?v=5O1djJ13gRU) - GOTO 2019: An Introduction to Systems & Service Monitoring with Prometheus - Julius Volz.
 - [Prometheus Deep Dive](https://www.youtube.com/watch?v=Me-kZi4xkEs) - GitLab: Prometheus Deep Dive - Ben Kochie.
@@ -142,10 +144,3 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 - [Prometheus Monitoring subreddit](https://www.reddit.com/r/PrometheusMonitoring/) - Subreddit collecting all Prometheus-related resources on the internet.
 - [PromCon](https://promcon.io/) - The Prometheus conference.
-
-
-## License
-
-[![CC0](https://camo.githubusercontent.com/60561947585c982aee67ed3e3b25388184cc0aa3/687474703a2f2f6d6972726f72732e6372656174697665636f6d6d6f6e732e6f72672f70726573736b69742f627574746f6e732f38387833312f7376672f63632d7a65726f2e737667)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Roald](https://github.com/roaldnefs/) has waived all copyright and related or neighboring rights to this work.

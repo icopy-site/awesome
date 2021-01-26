@@ -397,9 +397,11 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [ND4J](https://github.com/deeplearning4j/nd4j) - A matrix library for the JVM. Numpy for Java. 
 * [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
 * [PredictionIO](http://predictionio.incubator.apache.org/index.html) - machine learning server buit on Hadoop, Mahout and Cascading.
+* [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - a temporal extension library for PyTorch Geometric .
 * [RL4J](https://github.com/deeplearning4j/rl4j) - Reinforcement learning for Java and Scala. Includes Deep-Q learning and A3C algorithms, and integrates with Open AI's Gym. Runs in the Deeplearning4j ecosystem. 
 * [SAMOA](http://samoa.incubator.apache.org/) - distributed streaming machine learning framework.
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python.
+* [Shapley](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble. 
 * [Spark MLlib](http://spark.apache.org/docs/0.9.0/mllib-guide.html) - a Spark implementation of some common machine learning (ML) functionality.
 * [Sibyl](https://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf) - System for Large Scale Machine Learning at Google.
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - Library from Google for machine learning using data flow graphs.
@@ -461,6 +463,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Eclipse BIRT](http://www.eclipse.org/birt/) - Eclipse-based reporting system.
 * [ElastAert](https://github.com/Yelp/elastalert) - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in ElasticSearch.
 * [Eventhub](https://github.com/Codecademy/EventHub) - open source event analytics platform.
+* [HASH](https://hash.ai) - open source simulation and visualization platform.
 * [Hermes](https://github.com/allegro/hermes) - asynchronous message broker built on top of Kafka.
 * [Hunk](https://www.splunk.com/en_us/download/hunk.html) - Splunk analytics for Hadoop.
 * [Imhotep](http://opensource.indeedeng.io/imhotep/) - Large scale analytics platform by indeed.
@@ -691,6 +694,7 @@ for Data Analytics at Twitter.
 * [Kafka in Action](https://www.manning.com/books/kafka-in-action) - Kafka in Action is a fast-paced introduction to every aspect of working with Kafka you need to really reap its benefits.
 * [Fusion in Action](https://www.manning.com/books/fusion-in-action) - Fusion in Action teaches you to build a full-featured data analytics pipeline, including document and data search and distributed data clustering.
 * [Reactive Data Handling](https://www.manning.com/books/reactive-data-handling) - Reactive Data Handling is a collection of five hand-picked chapters, selected by Manuel Bernhardt, that introduce you to building reactive applications capable of handling real-time processing with large data loads--free eBook! 
+* [Azure Data Engineering](https://www.manning.com/books/azure-data-engineering) - A book about data engineering in general and the Azure platform specifically 
 * [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems) - Grokking Streaming Systems helps you unravel what streaming systems are, how they work, and whether they’re right for your business. Written to be tool-agnostic, you’ll be able to apply what you learn no matter which framework you choose.
 
 #### Distributed systems
