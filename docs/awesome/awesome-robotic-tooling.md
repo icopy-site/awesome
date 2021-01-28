@@ -136,6 +136,8 @@ to successfully design systems architecture.
 * [COMPAS](https://github.com/compas-dev/compas_fab) - Robotic fabrication package for the COMPAS Framework.
 * [JdeRobot Academy](https://github.com/JdeRobot/RoboticsAcademy) - JdeRobot Academy is an open source collection of exercises to learn robotics in a practical way.
 * [clover](https://github.com/CopterExpress/clover) - ROS-based framework and RPi image to control PX4-powered drones.
+* [ArduPilot](https://github.com/ArduPilot/ardupilot) - Open source control software for autonomous vehicles - copters/planes/rovers/boats/submersibles.
+
 
 
 
@@ -762,6 +764,7 @@ to successfully design systems architecture.
 * [obs-studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording.
 * [K3D-tools](https://github.com/K3D-tools) - Jupyter notebook extension for 3D visualization.
 * [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
+* [ipygany](https://github.com/QuantStack/ipygany) - 3-D Scientific Visualization in the Jupyter Notebook.
 
 
 ### Annotation

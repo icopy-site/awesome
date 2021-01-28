@@ -302,6 +302,7 @@ Code
 * :tada: [Twine](http://twinery.org/) - Downloadable or browser-based game development platform that allows users to create linked story paths. Not just text-based, Twine supports music, images, and sound effects. Very little coding knowledge required for basic text adventure games.
 * :free: [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
 * :tada: [Urho3D](http://urho3d.github.io/) - Cross-platform rendering and game engine.
+* :tada: [ursina](https://www.ursinaengine.org/) - A game engine powered by python and panda3d.
 * :tada: [Vassal](http://www.vassalengine.org/) - Vassal is a game engine for building and playing online adaptations of board games and card games. Play live on the Internet or by email. Vassal runs on all platforms, and is free, open-source software.
 * :tada: [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
 * :tada: [Wave](http://waveengine.net/) - Cross-platform engine written in C#.
