@@ -10,16 +10,20 @@
 
 <br>
 
-> Useful `R` learning resources meant to help users from all skill levels and backgrounds deepen their understanding of `R`, resulting in a more knowledgeable programming population that benefits everybody involved.
- 
-`R` is a programming language and environment for statistical computing and graphics.
+> The `Awesome R Learning Resources` repository is meant to help users from all skill levels and backgrounds deepen their understanding of `R`, which is a programming language and environment for statistical computing and graphics.
+
+<br>
+
+> The `R` `Discord` server is a friendly and dedicated community for `R` enthusiasts, programmers, statisticians, data scientists, and students. Whether you are looking to connect with fellow useRs, have awesome data viz to share, or just needed help with your stats assignment, you are at the right place! 
 
 <div align="center">
-	
+	To join the R Discord server, please click the discoRd badge below. <br>
 <a href="https://discord.gg/6fcReuUHgg">
 <img alt="Discord" src="https://img.shields.io/discord/676433858782298142?label=discoRd%20server&logo=R&logoColor=blue"></a>
 
 </div>
+
+<br>
 
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiamericfletcher)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fiamericfletcher%2FR-Learning-Resources)
 

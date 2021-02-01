@@ -103,6 +103,7 @@
 - [Actions on Google](awesome/awesome-actions-on-google.md) - Developer platform for Google Assistant.
 - [ESP](awesome/awesome-esp.md) - Low-cost microcontrollers with WiFi and broad IoT applications.
 - [Deno](awesome/awesome-deno.md) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
+- [DOS](awesome/awesome-dos.md) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 
 ## Programming Languages
 
