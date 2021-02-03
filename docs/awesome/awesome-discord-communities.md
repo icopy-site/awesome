@@ -14,8 +14,8 @@ A curated list of awesome Discord communities for developers, game engineers, ha
 
 If you're familiar with other popular [awesome lists](https://github.com/sindresorhus/awesome/blob/main/readme.md), you may find this list a little anomalous. For starters take a look at the available [badges](https://github.com/mhxion/awesome-discord-communities/blob/master/./badges.md). `Notable channels` are exploratory, and can be used for looking up a particular topic. A community may offer channels dedicated to more than one spoken languages that `Language` is there for. You can start contributing from [here](https://github.com/mhxion/awesome-discord-communities/blob/master/./CONTRIBUTING.md). Read this [FAQ](https://github.com/mhxion/awesome-discord-communities/blob/master/./FAQ.md#what-about-discords-poor-privacy-policy) about Discord's __privacy policy__ and answers to other frequent questions.
 
-- A quick lookup from browser `ctrl + f` maybe helpful to find a certain topic
-- Once you've clicked a section from [contents](#contents) below, to go back to previous section press `alt + left arrow` or `⌘ + left arrow`.
+- A quick lookup from browser `ctrl + f` may help to find communities by a topic
+- Click on the [<img height="18px" width="18px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](#) or [<img height="18px" width="18px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](#) icon to visit the community's official website or git repository page
 
 ## Programming in General
 
@@ -173,7 +173,7 @@ Language: English
 Notable Channels: `#astronomy`, `#biology`, `#chemistry` `#engineering`, `#environment`, `#mathematics`, `#geometry`, `#calculus`, `#physics`, `#psychology`, `#technology`, __[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/master/badges.md#so-much-more)__ \
 Language: English
 
-## Electricals
+## Electrical
 
 
 Discussions on bare-bones circuit boards, microprocessors, and bleeding edge hardware.
@@ -461,6 +461,7 @@ Language: English
 
 ### JavaScript
 
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/deno.webp" />
 
 [__Deno__](https://discord.com/invite/deno) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://deno.land/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/denoland) \
@@ -499,7 +500,6 @@ Language: English
 [__SpeakJS__](https://discord.com/invite/dAF4F28) \
 Notable Channels: `#collaboration`, `#code-review`, `#help`, `#react`, `#angular`, `#vue`, `#svelte`, `#jquery`, `#gatsby`, `#node`, `#graphql`, `#electron`, `#threejs`, `#webgl`\
 Language: English
-
 
 ### Lisp
 
@@ -642,20 +642,14 @@ Language: English
 Notable Channels: `#wwdc`, `#general`, `#swift`, `#swiftui`, `#firebase`, `#xcode`, `#general-ios`, `#general-macos`, `#general-watchos`, `#interview`\
 Language: English
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/vapor.webp" />
+### TypeScript
 
-[__VAPOR__](https://discord.com/invite/vapor) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://vapor.codes/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/vapor/vapor) \
-Notable Channels: `#vapor`, `#leaf`, `#fluent`, `#auth`, `#async`, `#security`, `#meetups`, `#showcase`, `#today-i-learned`, `#apple-events`, `#deployment`, `#red`, `#cloud`, `#aws`, `swift`, __[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/master/badges.md#so-much-more)__ \
-Language: English, čeština, español, русский, Deutsch, 中文频道, Nederlands, 日本語, français, italiano, українська-мова, 한국어
-
-### Typescript
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/typescript_community.webp" />
 
 [__TypeScript Community__](https://discord.com/invite/typescript) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.typescriptlang.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/typescript-community) \
 Notable Channels: `#ts-discussion`, `#help`, `#vue`, `#angular`, `#react`, `#language-design`, `#compiler`, `#architecture`, `#tooling`, `#devops`, `#site-localization`, `#deno`, `#meetups`, `#projects` \
 Language: English
-
 
 ### V
 
@@ -666,6 +660,7 @@ Notable Channels: `#v-development`, `#v-chat`, `#help`, `#bugs`, `#syntax`, `#id
 Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한국어, português, polski, русский, tiếng-việt, italiano
 
 ### WebAssembly
+
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/assemblyscript.webp" />
 
@@ -680,13 +675,13 @@ Language: English \
 Notable Channels: `#general`, `#beginners`, `#cg`, `#jobs`, `#events`, `#summit`, `#wasm`, `#wasi`, `#web`, `#standalone`, `#generic`, `#emscripten`, `#javascript`, `#rust`, `#go` \
 Language: English
 
-
 ## Web Development
 
 
 The back-end of web, from single static page to complex web applications; usage of diverse frameworks, modules, linters, components, package managers, builders, Progressive Web Apps (PWA), everything that fuels the modern web.
 
 ### Web Frameworks
+
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/docusaurus.webp" />
 
@@ -704,7 +699,7 @@ Language: English, français, Deutsch, português, pусский, español
 
 [__FastAPI__](https://discord.com/invite/VQjSZaeJmf) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://fastapi.tiangolo.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/tiangolo/fastapi) \
 Notable Channels: `#discussion`, `#documentation`, `#advanced-questions`, `#articles-videos-podcasts`, `#showcase` \
-Language: English, español, 中文, русский, português, italiano, Türkçe, українська мова \
+Language: English, español, 中文, русский, português, italiano, Türkçe, Українська \
 <br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/fomantic-ui.webp" />
@@ -731,6 +726,12 @@ Language: English
 [__UIkit__](https://discord.com/invite/NEt4Pv7) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://getuikit.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/uikit) \
 Notable Channels: `#general`, `#i-made-this`, `#ideas`, `#uikit-4`, `#development`, `#html-css`, `#less`, `#js`, `#documentation` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/vapor.webp" />
+
+[__VAPOR__](https://discord.com/invite/vapor) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://vapor.codes/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/vapor/vapor) \
+Notable Channels: `#vapor`, `#leaf`, `#fluent`, `#auth`, `#async`, `#security`, `#meetups`, `#showcase`, `#today-i-learned`, `#apple-events`, `#deployment`, `#red`, `#cloud`, `#aws`, `swift`, __[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/master/badges.md#so-much-more)__ \
+Language: English, čeština, español, русский, Deutsch, 中文频道, Nederlands, 日本語, français, italiano, українська, 한국어
 
 ### Node.js
 
@@ -846,6 +847,7 @@ Language: English, Deutsch, français, español, 日本語, 한국어, portuguê
 
 ### WebAssembly Frameworks
 
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/seed_rs.webp" />
 
 [__seed-rs__](https://discord.com/invite/JHHcHp5) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://seed-rs.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/seed-rs) \
@@ -915,7 +917,6 @@ Language: English
 [__WordPress Chat__](https://discord.com/invite/3gQGJQA) \
 Notable Channels: `#security`, `#general`, `#devops`, `#plugin-development`, `#theme-development`, `#coding-questions`, `#css`, `#wp-cli`, `#seo`, `#beginner-help`, __[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/master/badges.md#so-much-more)__ \
 Language: English
-
 
 ## Development Environments
 
@@ -1143,6 +1144,7 @@ Language: English \
 
 ### Linux Distributions
 
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/arch_linux_unofficial.webp" />
 
 [__Arch Linux [unofficial]__](https://discord.com/invite/MrhPdhn) \
@@ -1187,7 +1189,6 @@ Language: English, français, Deutsch, italiano, polski, español, Nederlands \
 [__Ubuntu Hideout__](https://discord.com/invite/jcwJEJH) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://ubuntuhideout.com/) \
 Notable Channels: `#tech-talk`, `#coding-cave`, `#system-installation`, `#software-installation,` `#desktop-environment`, `#hardware-drivers`, `#networking`, `#programming` \
 Language: English
-
 
 ### Other OS
 
@@ -1667,6 +1668,12 @@ Notable Channels: `#linuxgsm`, `#linux`, `#game-server`, `#general`, `#battlesta
 Language: English \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/raylib.webp" />
+
+[__raylib__](https://discord.com/invite/VkzNHUE) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.raylib.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/raysan5/raylib) \
+Notable Channels: `#general`, `#madewithraylib`, `#help`, `#game-design`, `#raspberry-pi`, `#raylibtech`, `#rayfork`, `#raylib`, `#raygui`, `#rres`, `#challenges`, `#raylib-bindings` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/rpcs3.webp" />
 
 [__RPCS3__](https://discord.com/invite/a6zm2T8) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://rpcs3.net/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/rpcs3) \
@@ -1695,6 +1702,7 @@ Language: English
 
 ### Gaming on Linux
 
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/gamingonlinux.webp" />
 
 [__GamingOnLinux__](https://discord.gg/0rxBtcSOonvGzXr4) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.gamingonlinux.com/) \
@@ -1718,7 +1726,6 @@ Language: English
 [__ProtonDB Official Server__](https://discord.com/invite/uuwK9EV) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.protondb.com/)  \
 Notable Channels: `#protondb-website`, `#proton-game-support`, `#proton`, `#linux`, `#linux-support`, `#general-game-support` \
 Language: English
-
 
 ## Virtual Reality
 

@@ -17,7 +17,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [IQM](https://github.com/excessive/iqm-exm) - Inter-Quake Model loader (binary)
 * [love-gltf](https://gitlab.com/Alloyed/love-gltf) - gltf asset loader and test renderer; Supports skeletal animations and morph targets 
 * [Lovox](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels
-* [ss3d](https://github.com/groverburger/ss3d) - a simple and easy 3d engine for love2d
+* [g3d](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
 * [model_renderer](https://github.com/xiejiangzhi/model_renderer) - a simple 3d model renderer for love2d
 
 
@@ -121,6 +121,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [baton](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls
 * [boipushy](https://github.com/adnzzzzZ/boipushy) - A simple and easy to use input handler
+* [input](https://github.com/xiejiangzhi/input) -  Simple and powerful input library. support check operation time, sequence.
 * [love-microphone](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE
 * [LoveKeys](https://github.com/SpaceCat-Chan/LoveKeys) - A simple input handeling library that keeps track of things for you
 * [tactile](https://github.com/tesselode/tactile) - A straightforward and flexible input library
@@ -199,7 +200,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LoveDos](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API
 * [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1
 * [LovePotion](https://github.com/TurtleP/LovePotion) - Unofficial work-in-progress implementation of the LÖVE API for Nintendo 3DS and Nintendo Switch Homebrew
-* [Love.js](https://github.com/TannerRogalsky/love.js) - LÖVE ported to the web using Emscripten
+* [LOVE-WrapLua](https://github.com/LukeZGD/LOVE-WrapLua) - A small and simple wrapper for OneLua, lpp-vita, and Lua Player PS3
+* [Love.js](https://github.com/Davidobot/love.js) - LÖVE ported to the web using Emscripten
 * [LÖVR](https://github.com/bjornbytes/lovr) - LÖVE for virtual reality devices
 
 ## Publishing
