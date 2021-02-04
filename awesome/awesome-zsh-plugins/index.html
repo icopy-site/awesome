@@ -4975,6 +4975,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#mzpm" class="md-nav__link">
+    mzpm
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#oh-my-zsh" class="md-nav__link">
     oh-my-zsh
   </a>
@@ -9038,6 +9045,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#mzpm" class="md-nav__link">
+    mzpm
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#oh-my-zsh" class="md-nav__link">
     oh-my-zsh
   </a>
@@ -9534,6 +9548,8 @@
 <li>Unlike other frameworks, Miniplug does not pollute your $PATH</li>
 <li>Only does the bare minimum for managing plugins</li>
 </ul>
+<h3 id="mzpm"><a href="https://github.com/Insert-Creative-Name-Here/mzpm">mzpm</a><a class="headerlink" href="#mzpm" title="Permanent link">&para;</a></h3>
+<p><strong>mzpm</strong> is a minimalist plugin manager for ZSH.</p>
 <h3 id="oh-my-zsh"><a href="https://ohmyz.sh/">oh-my-zsh</a><a class="headerlink" href="#oh-my-zsh" title="Permanent link">&para;</a></h3>
 <p><strong>oh-my-zsh</strong> is a community-driven framework for managing your ZSH configuration. Includes 120+ optional plugins (rails, git, macOS, hub, capistrano, brew, ant, macports, etc), over 120 themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.</p>
 <h3 id="pms"><a href="https://github.com/JoshuaEstes/pms">PMS</a><a class="headerlink" href="#pms" title="Permanent link">&para;</a></h3>
@@ -9601,8 +9617,8 @@
 <h3 id="zit"><a href="https://github.com/thiagokokada/zit">zit</a><a class="headerlink" href="#zit" title="Permanent link">&para;</a></h3>
 <p><strong>zit</strong> is a plugin manager for ZSH. It is minimal because it implements the bare minimum to be qualified as a plugin manager: it allows the user to install plugins from Git repositories (and Git repositories only, them why the name), source plugins and update them. It does not implement fancy functions like cleanup of removed plugins, automatic compilation of installed plugins, alias for oh-my-zsh/prezto/other ZSH frameworks, building binaries, PATH manipulation and others.</p>
 <h3 id="znap"><a href="https://github.com/marlonrichert/zsh-snap">znap</a><a class="headerlink" href="#znap" title="Permanent link">&para;</a></h3>
-<p><strong><img alt="⚡️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a1.svg" title=":zap:" />Znap</strong> is a light-weight plugin manager for Zsh that's easy to grok.</p>
-<p>Consisting of just ~16 kilobytes of source code (9 KB zipped), Znap does everything you need from a plugin manager, but without any bloat.</p>
+<p><strong><img alt="⚡️" class="emojione" src="https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.7/assets/svg/26a1.svg" title=":zap:" />Znap</strong> is a light-weight plugin manager &amp; Git repo manager for ZSH that's easy to grok. While tailored for ZSH plugins specifically, Znap also functions as a general-pupose utility for managing Git repos.</p>
+<p>Znap</p>
 <p>Znap can:</p>
 <ul>
 <li>Make any prompt appear instantly. Reduce your startup time from ~200ms to ~40ms with just one command.</li>
@@ -9610,6 +9626,8 @@
 <li>Cache those expensive <code>eval $(commands)</code>.</li>
 <li>Clone or pull multiple repos in parallel.</li>
 <li>Re-clone all your repos without you having to re-enter them.</li>
+<li>Multi-repo management</li>
+<li>Automatic <code>compinit</code> and <code>bashinit</code> - you no longer need them in your <code>.zshrc</code>, znap will do them automatically as needed.</li>
 </ul>
 <h3 id="zoppo"><a href="https://github.com/zoppo/zoppo">zoppo</a><a class="headerlink" href="#zoppo" title="Permanent link">&para;</a></h3>
 <p><strong>Zoppo</strong> is the crippled configuration framework for ZSH. As an Italian saying goes: "chi va con lo zoppo, impara a zoppicare", we realized we were walking with a cripple and are now going to become crippled ourselves.</p>
@@ -9846,6 +9864,7 @@
 <li><a href="https://github.com/wwilsman/zsh-clean-project">clean-project</a> - Remove files from projects (automatically by default). Useful for keeping <code>.DS_Store</code> and <code>Thumbs.db</code> files from cluttering your directories.</li>
 <li><a href="https://github.com/zpm-zsh/clipboard">clipboard</a> - Adds a cross-platform helper function to access the system clipboard. Works on macOS, X11 (and Wayland) and Cygwin.</li>
 <li><a href="https://github.com/psprint/zsh-cmd-architect">cmd-architect</a> - Build commands from what's in history and at prompt, move, delete, add command segments and search history with multi-word queries.</li>
+<li><a href="https://github.com/BlaineEXE/zsh-cmd-status">cmd-status</a> - Reports the status of commands including return code and duration.</li>
 <li><a href="https://github.com/xorkevin/code-review-zsh">code-review</a> - Launches <code>git difftool</code> on <code>git merge-base target_branch base_branch</code> and <code>target_branch</code>.</li>
 <li><a href="https://gitlab.com/code-stats/code-stats-zsh">code-stats</a> - Counts keypresses and logs stats to <a href="https://codestats.net/">Code::Stats</a>.</li>
 <li><a href="https://github.com/zuxfoucault/colored-man-pages_mod">colored-man-pages-mod</a> - Forked from <a href="https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/colored-man-pages/colored-man-pages.plugin.zsh">ohmyzsh/ohmyzsh/plugins/colored-man-pages</a>. Colorizes <code>man</code> output.</li>
@@ -10367,6 +10386,7 @@
 <li><a href="https://github.com/ehamberg/zsh-cabal-completion">cabal-completion</a> - Add tab completion for cabal.</li>
 <li><a href="https://github.com/d12frosted/cabal.plugin.zsh">cabal</a> - Adds autocompletion for cabal.</li>
 <li><a href="https://github.com/rsteube/carapace">carapace</a> - Completion generator for Bash, Elvish, Fish, Oil, Powershell, Xonsh and ZSH. Note - not dynamic, you have to explicitly run it to generate completions for a command.</li>
+<li><a href="https://github.com/MenkeTechnologies/zsh-cargo-completion">cargo</a> - All the functionality of the original OMZ cargo completion, with additional support for remote crates via <code>cargo search</code> in <code>cargo add</code>.</li>
 <li><a href="https://github.com/squarefrog/zsh-carthage">carthage</a> - Provides completions and aliases for use with <a href="https://github.com/Carthage/Carthage">Carthage</a>.</li>
 <li><a href="https://github.com/norman-abramovitz/cf-zsh-autocomplete-plugin">cf-zsh-autocomplete</a> - Adds autocomplete for all <a href="https://docs.cloudfoundry.org/cf-cli/">Cloud Foundry CLI</a> commands.</li>
 <li><a href="https://github.com/shengyou/codeception-zsh-plugin">codeception</a> - Adds command completion for the Codeception Testing Framework.</li>
@@ -10392,6 +10412,7 @@
 <li><a href="https://github.com/gentoo/gentoo-zsh-completions">gentoo</a> - providing ZSH completion support to various Gentoo tools that lack completion scripts upstream.</li>
 <li><a href="https://github.com/Schnouki/git-annex-zsh-completion">git-annex-completion</a> - Allows tab completion for most git-annex commands.</li>
 <li><a href="https://github.com/bobthecow/git-flow-completion">git-flow-completion</a> - ZSH completion support for git-flow.</li>
+<li><a href="https://github.com/pseyfert/zsh-gitlab-runner-completion">gitlab-runner</a> - ZSH completions for gitlab-ci-multi-runner.</li>
 <li><a href="https://github.com/gradle/gradle-completion">gradle-completion (gradle)</a> - Bash and ZSH completion support for gradle.</li>
 <li><a href="https://github.com/ninrod/gradle-zsh-completion">gradle-completion (ninrod)</a> - ZSH completion support for gradle.</li>
 <li><a href="https://github.com/pmorillon/grid5000-zsh-plugin">grid5000-zsh-plugin</a> - Grid 5000 plugin - adds theme, autocompletions.</li>
@@ -10512,6 +10533,7 @@
 <li><a href="https://github.com/eli-oat/bashi">bashi</a> - Optimized for Ahmet Sülek's <a href="https://github.com/ahmetsulek/flat-terminal">Flat UI Terminal</a> theme and Pasquale D'Silva's <a href="https://github.com/psql/saturn-colors">Saturn Terminal</a> theme.</li>
 <li><a href="https://github.com/jsundqvist/bastard.zsh-theme">bastard</a> - Modified version of <a href="https://github.com/zimfw/gitster">gitster</a> theme for <a href="https://github.com/zimfw/zimfw">ZIM</a>.</li>
 <li><a href="https://github.com/JanmanX/bearable-zsh">bearable</a> - Works well with dark terminal backgrounds.</li>
+<li><a href="https://github.com/justino/zsh-theme-bedbugs">bedbugs</a> - Inspired by <a href="https://gist.github.com/agnoster/3712874">Agnoster</a>, this multiline prompt includes <code>git</code> status information, background job count, working directory, user and hostname, Python virtualenv when present, colored return value of last command and root/user sigil.</li>
 <li><a href="https://github.com/tcnksm/oh-my-zsh-beer-theme">beer</a> - Inspired by <a href="https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/cloud.zsh-theme">cloud</a>, but with beer icons.</li>
 <li><a href="https://github.com/specious/bender">bender</a> - Fancy two-line prompt with git integration.</li>
 <li><a href="https://github.com/vvvvv/bgnoster.zsh-theme">bgnoster</a> - <a href="https://gist.github.com/agnoster/3712874">Agnoster</a> variant with unicode symbols baked in.</li>
