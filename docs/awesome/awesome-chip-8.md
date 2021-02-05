@@ -51,6 +51,7 @@ To add something to this list, please see the [contribution guidelines](https://
 * [Super-Chip8x](https://github.com/Ersanio/Super-Chip8x) - CHIP-8 emulator for the SNES.
 * [CHIP-8 console on FPGA](https://github.com/pwmarcz/fpga-chip8) - A CHIP-8 emulator for the TinyFPGA BX chip.
 * [Vinegar](http://benryves.com/bin/vinegar/) - CHIP-8/Super-CHIP interpreter for TI-83 (Plus) calculators.
+* [LowResNX](https://lowresnx.inutilis.com/topic.php?id=1648) - CHIP-8 interpreter and debugger programmed in BASIC inside another retro fantasy console.
 
 ## Software development
 

@@ -46,7 +46,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 |---|:---:|---|
 | **[1024 Architecture](https://www.1024architecture.net/)** | \[Paris] | _architectural and digital works, orchestrated sound and light scores_ |
 | **[Art + Com](https://artcom.de/en/)** | \[Berlin] | _media sculptures, data installations, new media_ |
-| **[Augmented Magic](https://www.augmented-magic.com/en/home)** | \[Paris] | _augmented magic shows, digital installations_ |
+| **[Augmented Magic](https://www.augmented-magic.com/)** | \[Paris] | _augmented magic shows, digital installations_ |
 | **[AV Controls](https://www.av-controls.com/)** | \[NYC] | _site-specific technology installations, digital landmarks_ |
 | **[BREAKFAST](https://breakfastny.com/)** | \[NYC] | _software-/hardware-driven artworks, flip discs_ |
 | **[BRDG Studios](https://www.brdg.co/)** | \[Philadelphia] | _digital moments in physical spaces, retail environments, art galleries, events_ |
@@ -57,7 +57,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[fuse*](https://www.fuseworks.it/en/)** | \[Modena, Italy] | _live-media performances, experimentation, electronic music, digital arts_ |
 | **[Future Colossal](https://www.futurecolossal.com/)** | \[NYC] | _experiential technologies in advertising and entertainment and art_ |
 | **[Game Seven](https://www.gamesevenmktg.com/)** | \[NYC] \[LA] | _intersection of sport and culture, brand stories_ |
-| **[Giant Spoon](https://www.giantspoon.com/)** | \[NYC] \[LA] | _translate cultural trends into big ideas, experiential, gaming_ |
+| **[Giant Spoon](https://giantspoon.com/)** | \[NYC] \[LA] | _translate cultural trends into big ideas, experiential, gaming_ |
 | **[Hotel Creative](https://hotelcreative.com/)** | \[London] | _retail, branding, exhibitions, events_ |
 | **[Hovercraft](https://www.hovercraftstudio.com/)** | \[Denver] \[Portland] | _interactive installations, site-specific content, retail, sports_ |
 | **[Hush Studios](https://heyhush.com/)** | \[NYC] | _marketing and advertising, retail and DTC, archtecture_ |
