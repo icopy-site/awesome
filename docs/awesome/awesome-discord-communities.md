@@ -192,6 +192,12 @@ Language: English
 Notable Channels: `#general-engineering`, `#events`, `#questions`, `#astronautics-aeronautics` `#thermo-fluids`, `#mechanics`, `#structural-analysis`, `#mechatronics`, `#design` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/amulius___engineering____chill__.webp">
+
+[__Amulius - Engineering  & Chill__](https://discord.com/invite/5vkPupa) \
+Notable Channels: `#general`, `#electrical`, `#civil`, `#mechanical`, `#software`, `#chemical`, `#aerospace`, `#industrial`, `#engineering-lobby`, `#student-lobby`, `#careeer-advice`, `#projects-showcase` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/electrical_engineering.webp">
 
 [__Electrical Engineering__](https://discord.com/invite/W8v5EK2) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.discordnetwork.com/)\
@@ -205,6 +211,12 @@ Notable Channels: `#the-library-discussions`, `#study-and-career-help`, `#sustai
 Language: English
 
 ### Microprocessors and Microcontrollers
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/amulius___embedded_engineering__.webp">
+
+[__Amulius - Embedded Engineering__](https://discord.com/invite/SrJEYjq) \
+Notable Channels: `#general`, `#arm`, `#arduino-avr`, `#c-cpp`, `#esp32-espressif`, `#linux`, `#pic`, `#rust`, `#risc-v`, `#rtos-gpos`, `#projects-advice`, `#careeer-advice`, `#projects-showcase` \
+Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/arduino.webp">
 
@@ -348,7 +360,7 @@ Language: English \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/r_iphone.webp" />
 
-[__r/iPhone__](https://discord.com/invite/iphone) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.reddit.com/r/iphone/) \
+[__r/iPhone__](https://discord.com/invite/iphone) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://iphonediscord.info) \
 Notable Channels: `#ios-beta`, `#what-should-i-buy`, `#jailbreak`, `#dev`, `#software-support`, `#hardware-support`, `#homescreen` \
 Language: English
 
@@ -364,6 +376,35 @@ Language: English
 Notable Channels: `#samsung`, `#purchase-advice`, `#accessories`, `#roms`, `#support` \
 Language: English \
 <br>
+
+### Smartwatches
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/fitbit.webp">
+
+[__Fitbit__](https://discord.com/invite/4ujeheG) \
+Notable Channels: `#fitbit`, `#fitbit-coding`, `#fitbit-design`, `#fitbit-animation`, `#fitbit-widgets`, `#fitbit-typescript` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/the_rebble_alliance.webp">
+
+[__The Rebble Alliance__](https://discord.com/invite/aRUAYFN) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://rebble.io/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/pebble-dev) \
+Notable Channels: `#pebble`, `#rebble-help`, `#app-dev`, `#rockyjs`, `#smartstraps`, `#rebble-grants`, `#firmware`, `#hardware`, `#mobile-apps`, `#appstore`, `#web-services`, `#bipdev` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/smartwatch.webp">
+
+[__Smartwatch__](https://discord.com/invite/nPEHdsyjDg) \
+Notable Channels: `#general`, `#support`, `#purchase-advice`, `#showcase`, `#activity`, `#smartwatch-by-brands` \
+Language: English \
+<br>
+
+### Keyboards
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/qmk.webp">
+
+[__QMK__](https://discord.com/invite/Uq7gcHh) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://qmk.fm/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/qmk) \
+Notable Channels: `#help`, `#firmware`, `#cli`, `#configurator`, `#via`, `#toolbox`, `#webhooks`, `#configurator_log`, `#hardware`, `#ergonomics`, `#programming` \
+Language: English
 
 ## Programming Languages
 
@@ -1398,7 +1439,7 @@ Everything red and blue teams are leaglly allowed to do; securty asssessment, re
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/the_many_hats_club.webp">
 
-[__Շђє ๓คภץ ђคՇร Ċ̵͕l̶̀͘u̸̍͝b̵͌͐__](https://discord.gg/infosec) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://themanyhats.club/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/xdfcfc0xa/TMHC-Challenge-Platform) \
+[__Շђє ๓คภץ ђคՇร Ċ̵͕l̶̀͘u̸̍͝b̵͌͐__](https://discord.gg/infosec) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://themanyhats.club/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/xdfcfc0xa/TMHC-Challenge-Platform) \
 Notable Channels: `#infosec-general`, `#technical-chat`, `#student-zone`, `#blue-team-zone`, `#ctf`, `#malware-phishing`, `#cyber-threat-intel`, `#digital-forensics` \
 Language: English
 
