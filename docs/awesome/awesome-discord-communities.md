@@ -215,7 +215,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/amulius___embedded_engineering__.webp">
 
 [__Amulius - Embedded Engineering__](https://discord.com/invite/SrJEYjq) \
-Notable Channels: `#general`, `#arm`, `#arduino-avr`, `#c-cpp`, `#esp32-espressif`, `#linux`, `#pic`, `#rust`, `#risc-v`, `#rtos-gpos`, `#projects-advice`, `#careeer-advice`, `#projects-showcase` \
+Notable Channels: `#general`, `#arm`, `#c-cpp`, `#esp32-espressif`, `#linux`, `#pic`, `#rust`, `#risc-v`, `#rtos-gpos`, `#projects-advice`, `#career`, `#dsp-machine-learning`, `#fpga`, `#pcb`, `#protocols-rf` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/arduino.webp">
@@ -1582,6 +1582,20 @@ Language: English, español, português, français, Deutsch, русский \
 Notable Channels: `#rapier`, `#bevy_rapier`, `#rapier-js`, `#parry`, `#salva`, `#nalgebra`, `#simba`, `#nphysics`, `#simba` \
 Language: English \
 <br>
+
+### Flight Simulation
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/coders_craft.webp">
+
+[__Coders Craft__](https://discord.com/invite/DA9qDXF) \
+Notable Channels: `#general`, `#xpl-res`, `#dev-chat`, `#lua`, `#c-cpp`, `#microsoft-flight-simulation-dev-chat`, `#modeling-texture` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/flybywire_simulations.webp">
+
+[__FlyByWire Simulations__](https://discord.com/invite/UjzuHMU) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/flybywiresim/a32nx) \
+Notable Channels: `#help`, `#aviation-chat`, `#hardware-chat`, `#a32nx-chat`, `#a380x-chat`, `#dev-support`, `#atsu-api`, `#lighting`, `#modeling`, `#sound`, `#your-controls` \
+Language: English
 
 ## Game Development
 
