@@ -486,6 +486,7 @@ to successfully design systems architecture.
 * [AliceVision](https://github.com/alicevision/AliceVision) - A Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms. 
 * [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
 * [eo-learn](https://github.com/sentinel-hub/eo-learn) - A collection of open source Python packages that have been developed to seamlessly access and process spatio-temporal image sequences acquired by any satellite fleet in a timely and automatic manner.
+* [libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 
 
 ### Radar Processing
@@ -1023,6 +1024,7 @@ to successfully design systems architecture.
 
 
 ## Datasets
+* [Papers With Code](https://www.paperswithcode.com/datasets) - Thousands of machine learning datasets provided by Papers With Code.
 * [KITTI-360](https://github.com/autonomousvision/kitti360Scripts) -  This large-scale dataset contains 320k images and 100k laser scans in a driving distance of 73.7km.
 * [waymo_ros](https://github.com/YonoHub/waymo_ros) - This is a ROS package to connect Waymo open dataset to ROS.
 * [waymo-open-dataset](https://github.com/waymo-research/waymo-open-dataset) - The Waymo Open Dataset is comprised of high-resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions.
