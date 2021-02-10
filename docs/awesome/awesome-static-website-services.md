@@ -101,6 +101,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Brisk Forms](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
 - [99 Inbound](https://www.99inbound.com) - Form endpoint service with email/Slack notifications and third party app integrations (e.g. MailChimp)
 - [Getform](http://getform.io/) - Form backend platform for designers and developers, with email and integrations.
+- [Form.taxi](https://form.taxi/) - Backend to handle form submissions easily and reliably, with email notifications, file uploads and GDPR-compliant data processing.
 
 #### Normal Forms
 
@@ -206,6 +207,10 @@ Third party integration:
 
 - [Google Analytics](http://www.google.com/analytics/) - Freemium web analytics service offered by Google.
 - [Simple Analytics](https://simpleanalytics.io/) - 💲 - Simple, clean, and friendly analytics.
+
+## Authentication
+
+- [Uthentic](https://uthentic.net) - Serverless, passwordless login for static sites in 2 lines of code.
 
 ## Other
 

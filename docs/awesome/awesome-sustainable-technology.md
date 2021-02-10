@@ -192,7 +192,6 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [pymgrid](https://github.com/Total-RD/pymgrid) - A Python library to generate and simulate a large number of microgrids.
 - [SciGRID](https://power.scigrid.de/) - The focus will be on the European transmission grids, but the methods will be applicable more generally.
 
-
 ## Energy Consumption and Efficiency
 
 ### Buildings and Cities

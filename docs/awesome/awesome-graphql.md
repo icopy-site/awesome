@@ -38,6 +38,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL World](https://graphql-world.com) - The fastest growing community of GraphQL developers
 * [GraphQL Jobs](https://graphql.jobs) - A list of GraphQL-based jobs in startups all over the world.
 * [Bookmarks.dev](https://www.bookmarks.dev/search?q=graphql) - Dev bookmarks. Use the tag [graphql](https://www.bookmarks.dev/tagged/graphql)
+* [GraphQL Weekly](https://www.graphqlweekly.com/) - A weekly newsletter highlighting resources and news from the GraphQL community
 
 <a name="meetups" />
 
@@ -47,7 +48,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Bangalore](https://www.meetup.com/graphql-bangalore/)
 * [Berlin](https://www.meetup.com/graphql-berlin/)
 * [Buenos Aires](https://www.meetup.com/es-ES/GraphQL-BA/)
-* [Copenhagen] (https://www.meetup.com/Copenhagen-GraphQL-Meetup-Group/)
+* [Copenhagen](https://www.meetup.com/Copenhagen-GraphQL-Meetup-Group/)
 * [Dallas-Fort Worth](https://www.meetup.com/DFW-GraphQL-Meetup/)
 * [London](https://www.meetup.com/GraphQL-London/)
 * [Manchester](https://www.meetup.com/GraphQL-Manchester/)
@@ -75,6 +76,7 @@ If you want to contribute to this list (please do), send me a pull request.
 #### Clients
 * [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 * [Apollo Client](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
+* [Apollo Elements](https://apolloelements.dev) - GraphQL web components that work in any frontend framework.
 * [aws-amplify](https://github.com/aws-amplify/amplify-js) - A client library developed by Amazon for caching, analytics and more that includes a way to fetch GraphQL queries.
 * [graphql-hooks](https://github.com/nearform/graphql-hooks) - Minimal hooks-first GraphQL client with caching and server-side rendering support.
 * [graphql-request](https://github.com/prisma/graphql-request) - A minimal GraphQL client for Node and browsers.
@@ -135,6 +137,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [reactive-graphql](https://github.com/mesosphere/reactive-graphql) - Implementation of GraphQL based on RxJS and that supports live queries.
 * [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - Preact integration for urql.
 * [graphql-let](https://github.com/piglovesyou/graphql-let) - A webpack loader to import type-protected codegen results directly from GraphQL documents
+* [graphql-ably-pubsub](https://www.npmjs.com/package/graphql-ably-pubsub) - Ably PubSub implementation for GraphQL to publish mutation updates and subscribe to the result through a subscription query.
 
 #### Relay Related
 
@@ -163,6 +166,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of Facebook's GraphQL.
 * [graphql-client](https://github.com/github/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries.
 * [graphql-batch](https://github.com/Shopify/graphql-batch) - A query batching executor for the graphql gem.
+* [graphql-auth](https://github.com/o2web/graphql-auth) - A JWT auth wrapper working with devise.
 * [agoo](https://github.com/ohler55/agoo) - Ruby web server that implements Facebook's GraphQL.
 
 <a name="lib-php" />
@@ -187,6 +191,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Zend Expressive GraphiQL Extension](https://github.com/stefanorg/zend-expressive-graphiql) - GraphiQL extension for zend expressive
 * [GraphQLite](https://github.com/thecodingmachine/graphqlite) - Framework agnostic library that allows you to write GraphQL server by annotating your PHP classes.
 * [Siler](https://github.com/leocavalcante/siler) - Plain-old functions providing a declarative API for GraphQL servers with Subscriptions support.
+* [GraPHPinator](https://github.com/infinityloop-dev/graphpinator) - Easy-to-use GraphQL server implementation for modern PHP.
 
 <a name="lib-py" />
 
@@ -394,6 +399,15 @@ for the Angel framework.
 
  * [Diana.jl](https://github.com/codeneomatrix/Diana.jl) -  A Julia GraphQL client/server implementation.
 
+<a name="lib-crystal" />
+
+* [graphql](https://github.com/graphql-crystal/graphql) - GraphQL server library
+* [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - library inspired by [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) & [go-graphql](https://github.com/playlyfe/go-graphql) & [graphql-parser](https://github.com/graphql-dotnet/parser)
+* [crystal-gql](https://github.com/itsezc/crystal-gql) - GraphQL client shard inspired by Apollo client
+* [graphql.cr](https://github.com/garymardell/graphql.cr) - GraphQL shard
+
+### Crystal Libraries
+
 <a name="tools" />
 
 ## Tools
@@ -450,7 +464,9 @@ for the Angel framework.
 * [StackHawk - GraphQL Vulnerability Scanner](https://www.stackhawk.com/blog/automated-graphql-security-testing) - [StackHawk](https://www.stackhawk.com)
 * [Tinfoil Security - GraphQL Security Scanner ](https://www.tinfoilsecurity.com/blog/graphql-security-scanning) - [Tinfoil Security](https://www.tinfoilsecurity.com/solutions/api-scanner)
 * [InQL Scanner](https://blog.graphqleditor.com/inql-graphql-security-scanner/) [inql](https://github.com/doyensec/inql)
-* [GraphQL Raider](https://portswigger.net/bappstore/4841f0d78a554ca381c65b26d48207e6) [BurpSuite](https://portswigger.net/burp)
+* [GraphQL Raider](https://portswigger.net/bappstore/4841f0d78a554ca381c65b26d48207e6) [BurpSuite](https://portswigger.net/burp
+* [WAF for graphQL](https://lab.wallarm.com/api-security-solution/) - Web Application Firewall for graphQL APIs
+* [GraphQL Intruder](https://github.com/davinerd/gql_intruder) - Plugin based python script to perform GraphQL vulnerability assessment.
 
 <a name="databases" />
 
@@ -458,8 +474,9 @@ for the Angel framework.
 
 * [Dgraph](https://dgraph.io/) - Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language
 * [EdgeDB](https://edgedb.com/) - The next generation object-relational database with native GraphQL support.
-* [FaunaDB](https://fauna.com) - Relational NoSQL database with [GraphQL schema import.](https://fauna.com/blog/getting-started-with-graphql-part-1-importing-and-querying-your-schema) Supports joins, indexes, and multi-region ACID transactions with serverless per-per-use pricing.
+* [FaunaDB](https://fauna.com) - Relational NoSQL database with [GraphQL schema import.](https://fauna.com/blog/getting-started-with-graphql-part-1-importing-and-querying-your-schema) Supports joins, indexes, and multi-region ACID transactions with serverless pay-per-use pricing.
 * [ArangoDB](https://arangodb.com/) - Native multi-model database with [GraphQL integration](https://www.arangodb.com/docs/3.4/foxx-reference-modules-graph-ql.html) via the built-in [Foxx Microservices Framework](https://www.arangodb.com/docs/stable/foxx.html).
+* [Weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine with a [GraphQL interface](https://www.semi.technology/developers/weaviate/current/graphql-references/) built to scale your machine learning models.
 
 <a name="services" />
 
@@ -469,7 +486,9 @@ for the Angel framework.
 * [FastQL](https://fastql.io/) - CDN specifically for GraphQL applications
 * [Graphcool](https://www.graph.cool/) - Your own GraphQL backend in under 5 minutes. Works with every GraphQL client such as Relay and Apollo.
 * [FakeQL](https://fakeql.com/) - GraphQL API mocking as a service ... because GraphQL API mocking should be easy!
-* [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - A GraphQL analaytics and monitoring service to find functional and performance issues.  
+* [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - A GraphQL analaytics and monitoring service to find functional and performance issues.
+* [Booster framework](https://booster.cloud/) - An open-source framework that makes you _completely_ forget about infrastructure and allows you to focus exclusively on your business logic. It autogenerates a GraphQL API for your models, supporting mutations, queries, and subscriptions.
+* [Hypi](https://hypi.io/) - Low-code, scalable, serverless backend as a service. Your GraphQL & REST over GraphQL backend in minutes.
 
 <a name="example" />
 
@@ -524,6 +543,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 * [Basic Apollo Server](https://github.com/DxCx/webpack-graphql-server) - Basic Starter for Apollo Server, Using typescript and Webpack.
 * [Next.js Apollo TypeScript Starter](https://github.com/borisowsky/nextjs-apollo-ts-starter) - Next.js starter project focused on developer experience.
+* [GraphQL Starter](https://github.com/cerino-ligutom/GraphQL-Starter) - A boilerplate for TypeScript + Node Express + Apollo GraphQL APIs.
 
 <a name="example-rb" />
 
@@ -535,6 +555,8 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - A graphql, relay and standard rails application powered demo weblog.
 * [to_eat_app] (https://github.com/jcdavison/to_eat_app) - A sample graphql/rails/relay application with a related 3-part article series.
 * [agoo-demo](https://github.com/ohler55/agoo/tree/develop/example/graphql) - Use of the Agoo server to demonstrate a simple GraphQL application.
+* [rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql) - A rails 6 boilerplate with devise, graphql & JWT auth.
+
 
 <a name="example-go" />
 
@@ -605,6 +627,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Fullstack GraphQL](https://www.graphql.college/fullstack-graphql) by Julian Mayorga
 * [Learning GraphQL and Relay](https://www.packtpub.com/web-development/learning-graphql-and-relay) by Samer Buna
 * [Practical GraphQL](https://leanpub.com/book-graphql) by Daniel Schmitz
+* [Production Ready GraphQL](https://book.productionreadygraphql.com) by Marc-André Giroux
 
 <a name="video" />
 
