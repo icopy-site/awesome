@@ -312,7 +312,8 @@ Here are some notable ones:
 * [elm-live](https://github.com/wking-io/elm-live) - A flexible dev server for Elm. Live reload included.
 * [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) - Elm webpack 4 starter template.
 * [example-elm-hot-webpack](https://github.com/klazuka/example-elm-hot-webpack) - Example showing hot module reloading for Elm 0.19 and Webpack
-* [Elm Batteries](https://github.com/cedricss/elm-batteries) - A project template and generator for Elm, Parcel, Cypress and Netlify  
+* [Elm Batteries](https://github.com/cedricss/elm-batteries) - A project template and generator for Elm, Parcel, Cypress and Netlify
+* [IHP + Elm](https://www.youtube.com/watch?v=b9ULHutH6ag) - The IHP Haskell Framework provides a built-in Elm boilerplate, useful when working with elm in the frontend and haskell in the backend
 
 ### Outdated Boilerplates
 
@@ -410,6 +411,7 @@ Here are some notable ones:
 * [Iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
 * [Redux](https://redux.js.org/introduction/prior-art) - A predictable state container for JavaScript apps.
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+* [MAUI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) - .NET Multi-platform App UI
 
 
 ---
