@@ -152,7 +152,7 @@ _Games and game-related projects._
 - [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 emulator.
 - [yuzu](https://www.patreon.com/yuzuteam) - Nintendo Switch emulator.
 - [vvctre](https://www.patreon.com/vvctre) - Nintendo 3DS emulator.
-
+- [Interstellar Despot Sim](https://www.patreon.com/BaileyBurnsed) - Space Roughlike/4x Hybrid
 
 ## People Doing Open Source Work
 _Developers contributing to multiple projects that ask to support their work._
@@ -166,6 +166,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Andreas Pardeike](https://www.patreon.com/pardeike) - Programming tutorials, games and mods.
 - [Andrius Štikonas](https://liberapay.com/stikonas) - KDE contributor, mainly KDE Partition Manager.
 - [Attogram Project](https://www.patreon.com/attogram) - Shared Media Tagger, Open Translation Engine, and many more projects.
+- [Bailey Burnsed](https://www.patreon.com/BaileyBurnsed) - FOSS Nerd developing open source games in Godot and Rust
 - [byuu](https://www.patreon.com/byuu) - Emulators & game preservation.
 - [Daniel Gultsch](https://github.com/users/iNPUTmice/sponsorship) - Conversations Jabber client.
 - [Daniël Klabbers](https://www.patreon.com/luceos) - Contributor to Flarum and other PHP projects.

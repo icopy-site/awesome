@@ -2,12 +2,12 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Construct [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://s1.construct.net/images/v347/uploads/product/2/defaulticon/1/icon.png" align="right" width="100">](https://www.construct.net/)
+[<img src="https://construct-static.com/images/v861/r/global/construct-3-logo_v130.png" align="right" width="100">](https://www.construct.net/)
 
 > You can create the game of your dreams. Build brain tickling puzzles, stunning platformers and immersive RPGs - or break the mould and make something new.
 > Create what you want, how you want with [Construct](https://www.construct.net).
 >
-> -- <cite>Ashley (Scirra Founder)</cite>
+> — <cite>Ashley (Scirra Founder)</cite>
 
 This list includes all the best tools, tutorials and examples related to the awesome game development engines [Construct 2](https://www.scirra.com/construct2) and [Construct](https://www.construct.net).
 
@@ -32,6 +32,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 ## Games Showcase
 - [Games on Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=103535227) - List of Steam games made with the engine.
 - [Games on itch.io](https://itch.io/games/tag-construct-2) - List of itch.io games made with the engine.
+- [Games made with Construct](https://www.madewithconstruct.com/) - A website that list all the games made with the engine.
 
 ## Hosting
 - [itch.io](http://www.itch.io) - Platform where to host, showcase, promote or sell your games - **Free**.
@@ -79,7 +80,6 @@ This list includes all the best tools, tutorials and examples related to the awe
 
 - [[MVA] Game Development with Construct 2 (Basic)](https://mva.microsoft.com/en-US/training-courses/game-development-with-construct-2-8355) - Basic course about making games.
 - [[MVA] Developing Windows 10 Games with Construct 2 (Advanced)](https://mva.microsoft.com/en-US/training-courses/developing-windows-10-games-with-construct-2-16335) - Advanced course about making games.
-- [Programming Logic MADE EASY with Construct 2!](https://www.jerementor.com/programming-logic-made-easy-with-construct-2.html) - General course about making games.
 - [[Udemy FREE!] Learn Construct 2](https://www.udemy.com/learn-construct-2-creating-a-pixel-platformer-in-html5/) - Creating a Pixel Platformer in HTML5.
 - [[TutPlus] Construct 2 Tutorials](https://gamedevelopment.tutsplus.com/categories/construct-2) - General tutorials.
 
