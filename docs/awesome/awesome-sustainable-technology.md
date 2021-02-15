@@ -4,7 +4,7 @@
 ## Open Sustainable Technology
 [<img src="https://raw.githubusercontent.com/protontypes/awesome-sustainable-technology/master/earth.gif" align="right" width="350">](https://tabletopwhale.com/)
 __A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.__ <br> <br>
-_"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <br> Our ambition to list all high quality and actively maintained projects worldwide. Your contribution is necessary to keep this list alive, increase the quality and to expand it. Read more about it's origin and how you can participate in the [contribution guide](https://github.com/protontypes/awesome-sustainable-technology/blob/master/CONTRIBUTING.md), <!--lint ignore double-link-->[community chat](https://gitter.im/protontypes/), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [contact us](https://protontypes.eu/contact/) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or create a issue on GitHub. <br><br> [![](https://badgen.net/badge/icon/Community%20Chat/009485?icon=gitter&label&scale=1.5)](https://gitter.im/protontypes/community)
+_"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <br> Our ambition is to list all high quality and actively maintained projects worldwide. Your contribution is necessary to keep this list alive, increase the quality and to expand it. Read more about it's origin and how you can participate in the [contribution guide](https://github.com/protontypes/awesome-sustainable-technology/blob/master/CONTRIBUTING.md), <!--lint ignore double-link-->[community chat](https://gitter.im/protontypes/), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [contact us](https://protontypes.eu/contact/) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new). <br><br> [![](https://badgen.net/badge/icon/Community%20Chat/009485?icon=gitter&label&scale=1.5)](https://gitter.im/protontypes/community)
 
 
 <!--toc-->
@@ -191,6 +191,8 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [APIS](https://github.com/SonyCSL/APIS) - Build a microgrid that utilizes variable renewable energy as the main power source and enhances the resilience of the power system.
 - [pymgrid](https://github.com/Total-RD/pymgrid) - A Python library to generate and simulate a large number of microgrids.
 - [SciGRID](https://power.scigrid.de/) - The focus will be on the European transmission grids, but the methods will be applicable more generally.
+- [mosaik](https://gitlab.com/mosaik/mosaik) - A flexible Smart Grid co-simulation framework.
+- [SmartGridToolbox](https://gitlab.com/SmartGridToolbox/SmartGridToolbox) - Designed to provide an extensible and flexible starting point for developing a wide variety of smart grid simulations and other applications. 
 
 ## Energy Consumption and Efficiency
 
@@ -304,6 +306,11 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [Vehicle Energy Dataset](https://github.com/gsoh/VED) - A large-scale dataset for vehicle energy consumption research.
 - [gbfs](https://github.com/NABSA/gbfs) - Documentation for the General Bikeshare Feed Specification, a standardized data feed for shared mobility system availability.
 - [Bike Index](https://github.com/bikeindex/bike_index) - Bike registration that works: online, powerful, free.
+- [go-ocpp](https://github.com/voltbras/go-ocpp) - v1.5 and v1.6 Open Charge Point Protocol implementation in Golang.
+- [EVMap](https://github.com/johan12345/EVMap) - Android app to access the goingelectric.de electric vehicle charging station directory.
+- [emobility-smart-charging](https://github.com/SAP/emobility-smart-charging) - Smart charging algorithms with REST API for electric vehicle fleets.
+- [open-ev-data](https://github.com/chargeprice/open-ev-data) - Open Dataset of Electric Vehicle specs.
+- [SmartEVSE](https://github.com/SmartEVSE/smartevse) - Smart EVSE Electric Vehicle Charging Station.
 
 ### Production and Industry
 
