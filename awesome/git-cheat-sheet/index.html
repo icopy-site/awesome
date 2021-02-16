@@ -8446,6 +8446,7 @@ Git and Git Flow Cheat Sheet <a href="https://github.com/sindresorhus/awesome"><
 <li><a href="https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-tr.md">Turkish Git Cheat Sheet</a></li>
 <li><a href="https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-es.md">Spanish Git Cheat Sheet</a></li>
 <li><a href="https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-el.md">Greek Git Cheat Sheet</a></li>
+<li><a href="https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-pt_BR.md">Brazilian Portuguese Git Cheat Sheet</a></li>
 </ol>
 <p>Git cheat sheet saves you from learning all the commands by heart.</p>
 <p>Be free to contribute, update the grammar mistakes. You are also free to add your language file.</p>
@@ -8619,6 +8620,14 @@ $ git stash pop
 
 <h5 id="in-any-version-of-a-text-search">In any version of a text search:<a class="headerlink" href="#in-any-version-of-a-text-search" title="Permanent link">&para;</a></h5>
 <div class="codehilite"><pre><span></span>$ git grep &quot;Hello&quot; v2.5
+</pre></div>
+
+<h5 id="show-commits-that-introduced-a-specific-keyword">Show commits that introduced a specific keyword<a class="headerlink" href="#show-commits-that-introduced-a-specific-keyword" title="Permanent link">&para;</a></h5>
+<div class="codehilite"><pre><span></span>$ git log -S &#39;keyword&#39;
+</pre></div>
+
+<h5 id="show-commits-that-introduced-a-specific-keyword-using-a-regular-expression">Show commits that introduced a specific keyword (using a regular expression)<a class="headerlink" href="#show-commits-that-introduced-a-specific-keyword-using-a-regular-expression" title="Permanent link">&para;</a></h5>
+<div class="codehilite"><pre><span></span>$ git log -S &#39;keyword&#39; --pickaxe-regex
 </pre></div>
 
 <hr>
