@@ -16,6 +16,7 @@ Git and Git Flow Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awe
 4. [Turkish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-tr.md)
 5. [Spanish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-es.md)
 6. [Greek Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-el.md)
+7. [Brazilian Portuguese Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-pt_BR.md)
 
 Git cheat sheet saves you from learning all the commands by heart.
 
@@ -239,6 +240,16 @@ $ git grep "Hello"
 ##### In any version of a text search:
 ```
 $ git grep "Hello" v2.5
+```
+
+##### Show commits that introduced a specific keyword
+```
+$ git log -S 'keyword'
+```
+
+##### Show commits that introduced a specific keyword (using a regular expression)
+```
+$ git log -S 'keyword' --pickaxe-regex
 ```
 
 <hr>

@@ -55,14 +55,14 @@ Open source software packages for image-based profiling of biological phenotypes
 Publications related to image-based profiling.
 
 ### Reviews
-
+- [Image-based profiling for drug discovery: due for a machine-learning upgrade?](https://www.nature.com/articles/s41573-020-00117-w) - 2020 review of applications in image-based profiling from a Carpenter lab/pharma perspective.
 - [Data-analysis strategies for image-based cell profiling](https://doi.org/10.1038/nmeth.4397) - Introduce the steps required to create high-quality image-based (i.e., morphological) profiles from a collection of microscopy images.
 - [High-content screening for quantitative cell biology](https://doi.org/10.1016/j.tcb.2016.03.008) - Describe some recent applications of HCS, ranging from the identification of genes required for specific biological processes to the characterization of genetic interactions.
 - [Microscopy-based high-content screening](https://doi.org/10.1016/j.cell.2015.11.007) - Describe the state of the art for image-based screening experiments and delineate experimental approaches and image-analysis approaches as well as discussing challenges and future directions, including leveraging CRISPR/Cas9-mediated genome engineering.
 - [Applications in image-based profiling of perturbations](https://doi.org/10.1016/j.copbio.2016.04.003) - Describes applications of image-based profiling including target and MOA identification, lead hopping, library enrichment, gene annotation and identification of disease-specific phenotypes
 
 ### Applications
-
+- [Expanding the antibacterial selectivity of polyether ionophore antibiotics through diversity-focused semisynthesis](https://rdcu.be/ccBFH) - Poulsen lab paper from 2020 where antibiotics are tested for their ability to leave mammalian cells as intact as possible, per the Cell Painting assay.
 - [Image-based multivariate profiling of drug responses from single cells](https://doi.org/10.1038/nmeth1032) - A multivariate method for classifying untreated and treated human cancer cells based on ∼300 single-cell phenotypic measurements.
 - [Discovering metabolic disease gene interactions by correlated effects on cellular morphology](https://doi.org/10.1016/j.molmet.2019.03.001) - Profiling disease-gene interaction during adipocyte differentiation.
 - [Phenotypic profiling of the human genome by time-lapse microscopy reveals cell division genes](https://doi.org/10.1038/nature08869) - This study provides an in-depth analysis of cell division phenotypes and makes the entire high-content data set available as a resource to the community.

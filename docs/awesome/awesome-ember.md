@@ -37,7 +37,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ---
 
-- [Awesome Ember.js ![Awesome](https://github.com/sindresorhus/awesome)]
+- Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 ## Packages
@@ -774,6 +774,8 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Ember.js: Our Secret Weapon](https://www.prototypal.io/blog/)
 - [How Ember.js Enables Us to Focus on Shipping Features](http://blog.nightwatch.io/ember-js-shipping-features)
 - [When you should not pick Ember.js as your next front-end tool](https://medium.com/selleo/when-you-should-not-pick-emberjs-as-your-next-front-end-tool-203697c2e0f0)
+- [Moving from React to Ember 2020](http://medium.com/@nowims/moving-from-react-to-ember-2020-86e082477d45)
+- [Essential Ember Addons: The State of the Ember Addon Ecosystem in 2019](https://0xadada.pub/2019/06/17/essential-ember-addons/)
 
 ### Jump-Start Articles
 - [The simplest possible Ember Data CRUD Tutorial](https://medium.com/ember-ish/the-simplest-possible-ember-data-crud-16eacee33ae6)
@@ -840,6 +842,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Write Tests Like a Mathematician: Part 1](https://crunchingnumbers.live/2019/08/04/write-tests-like-a-mathematician-part-1/)
 - [Write Tests Like a Mathematician: Part 2](https://crunchingnumbers.live/2019/08/06/write-tests-like-a-mathematician-part-2/)
 - [Write Tests Like a Mathematician: Part 3](https://crunchingnumbers.live/2019/10/11/write-tests-like-a-mathematician-part-3/)
+- [Setting up Coveralls for your Ember Addons](http://hangaroundtheweb.com/2020/05/setting-up-coveralls-for-your-ember-addons/)
 
 ### Articles FastBoot
 - [How to integrate Ember FastBoot in Cloud Functions for Firebase](https://cenchat.com/blog/2019/06/06/how-to-setup-ember-fastboot-in-cloud-functions-for-firebase.html)
@@ -872,9 +875,12 @@ to build any web application. It is focused on making you, the developer, as pro
 
 - [ember-best-practices](https://github.com/ember-best-practices)
 - [An Ember.js Debugging Flowchart](https://www.mutuallyhuman.com/blog/2016/08/12/an-ember-debugging-flowchart)
+- [Built-in input helpers in Ember.js: when should they be used?](https://balinterdi.com/blog/built-in-input-helpers-in-ember-js-when-and-whether-they-should-be-used/)
 
 ### Nice to know
+
 - [Codemods](https://caseywatts.com/2018/08/23/codemods.html)
+- [Creating runtime assisted Codemods using Telemetry helpers](http://hangaroundtheweb.com/2019/10/creating-runtime-assisted-codemods-using-telemetry-helpers/)
 
 ### Blogs
 
