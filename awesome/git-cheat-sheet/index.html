@@ -8698,6 +8698,10 @@ $ git stash pop
 <div class="codehilite"><pre><span></span>$ git checkout -b &lt;branch&gt;
 </pre></div>
 
+<h5 id="switch-to-the-previous-branch-without-saying-the-name-explicitly">Switch to the previous branch, without saying the name explicitly:<a class="headerlink" href="#switch-to-the-previous-branch-without-saying-the-name-explicitly" title="Permanent link">&para;</a></h5>
+<div class="codehilite"><pre><span></span>$ git checkout -
+</pre></div>
+
 <h5 id="create-a-new-branch-from-an-exiting-branch-and-switch-to-new-branch">Create a new branch from an exiting branch and switch to new branch:<a class="headerlink" href="#create-a-new-branch-from-an-exiting-branch-and-switch-to-new-branch" title="Permanent link">&para;</a></h5>
 <div class="codehilite"><pre><span></span>$ git checkout -b &lt;new_branch&gt; &lt;existing_branch&gt;
 </pre></div>
@@ -8812,6 +8816,10 @@ OR
 <h2 id="merge-rebase">Merge &amp; Rebase<a class="headerlink" href="#merge-rebase" title="Permanent link">&para;</a></h2>
 <h5 id="merge-branch-into-your-current-head">Merge branch into your current HEAD:<a class="headerlink" href="#merge-branch-into-your-current-head" title="Permanent link">&para;</a></h5>
 <div class="codehilite"><pre><span></span>$ git merge &lt;branch&gt;
+</pre></div>
+
+<h4 id="list-merged-branches">List merged branches<a class="headerlink" href="#list-merged-branches" title="Permanent link">&para;</a></h4>
+<div class="codehilite"><pre><span></span>$ git branch --merged
 </pre></div>
 
 <h5 id="rebase-your-current-head-onto-branch">Rebase your current HEAD onto &lt;branch&gt;:<br><a class="headerlink" href="#rebase-your-current-head-onto-branch" title="Permanent link">&para;</a></h5>
