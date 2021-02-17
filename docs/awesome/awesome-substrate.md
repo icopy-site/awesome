@@ -71,6 +71,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Reddit](https://www.reddit.com/r/substrate/) - Official subreddit.
 - [Polkadot Stack](https://github.com/w3f/General-Grants-Program/blob/master/grants/polkadot_stack.md) - Another
   awesome list maintained by our friends at [Web3 Foundation](https://web3.foundation/).
+- [PolkaView](https://polkaview.network/dot) - Historical data on minimum staked to be rewarded.
 - [Subsocial](https://subsocial.network/) - Decentralized social network for the Polkadot / Kusama
   ecosystem. Built on Substrate + IPFS.
 - [DOTspot](https://www.dotspot.io/) - An open-place for Substrate ecosystem projects to share their
@@ -145,6 +146,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Substrate .Net API](https://github.com/usetech-llc/polkadot_api_dotnet) - Maintained by Usetech.
 - [SubstrateNetApi](https://github.com/darkfriend77/SubstrateNetApi) - Maintained by Substrate community member Cedric
   Decoster ([@darkfriend77 on GitHub](https://github.com/darkfriend77)).
+- [Kotlin Substrate Client](https://github.com/NodleCode/substrate-client-kotlin) - Maintained by [Nodle.io](https://github.com/NodleCode)
 
 ## Ecosystem Tools
 
@@ -152,6 +154,10 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   for Substrate-based chains.
 - [Polkadot-JS Extension](https://github.com/polkadot-js/extension) - Browser extension for
   interacting with Substrate-based chains.
+- [Polkadot Tool Index](https://wiki.polkadot.network/docs/en/build-tools-index#tools) - Here is
+  **a very useful** list of tools available for your development w/ Polkadot and
+  any substrate chain including Block Explorers, Wallets, Network Monitoring & Reporting,
+  Clients, Benchmarking, Fuzzing, Forking, SCALE Codec, CLI Tools and much more.
 - [Sidecar](https://github.com/paritytech/substrate-api-sidecar) - REST service that runs alongside
   Substrate nodes.
 - [Archive](https://github.com/paritytech/substrate-archive) - Indexing engine for Substrate chains.
@@ -222,6 +228,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   the FRAME Society pallet.
 - [Aleph.im](https://aleph.im) - Scalable, decentralized database, file storage, and computation
   services for Substrate chains and more.
+- [`subsee`](https://github.com/ascjones/subsee) - CLI to inspect metadata of a substrate node as JSON.
 
 ## Alternative Implementations
 
