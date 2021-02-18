@@ -146,6 +146,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Forms
 
 - [Sitecore-Forms-Extensions](https://github.com/bartverdonck/Sitecore-Forms-Extensions) - Adds some functionality to the forms creator, such as sending mails, timespan validation, subscribing a list, conditions, Azure Blob storage provider and many more.
+- [WFFM Conversion Tool](https://github.com/afaniuolo/WFFM-Conversion-Tool) - A console application that provides an automated solution to convert and migrate Web Forms For Marketers (WFFM) items and their data to Sitecore Forms.
 
 ## JSS
 

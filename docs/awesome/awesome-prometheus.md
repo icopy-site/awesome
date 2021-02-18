@@ -19,6 +19,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Official Prometheus demo](https://demo.do.prometheus.io) - Official Prometheus demo site managed by Cloud Alchemy Ansible roles updating daily using configuration from [Prometheus repository](https://github.com/prometheus/demo-site).
 
 ## Tutorials
+- [Kubernetes monitoring with Prometheus, the ultimate guide](https://sysdig.com/blog/kubernetes-monitoring-prometheus/) - Kubernetes monitoring with Prometheus, the ultimate guide by Mateo Burillo.
 - [How To Install Prometheus using Docker on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-centos-7) - Walkthough on how to install Prometheus on CentOS 7.
 - [How to Use Prometheus to Monitor Your CentOS 7 Server](https://www.digitalocean.com/community/tutorials/how-to-use-prometheus-to-monitor-your-centos-7-server) - Walkthough on how to monitor a CentOS 7 server using Prometheus.
 - [How To Add a Prometheus Dashboard to Grafana](https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana) - Walkthrough on how to add a Prometheus dashboard to Grafana.

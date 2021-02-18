@@ -1028,6 +1028,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 * [bayesian](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 * [CloudForest](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
+* [ddt](https://github.com/sgrodriguez/ddt) - Dynamic decision tree, create trees defining customizable rules.
 * [eaopt](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 * [evoli](https://github.com/khezen/evoli) - Genetic Algorithm and Particle Swarm Optimization library.
 * [fonet](https://github.com/Fontinalis/fonet) - A Deep Neural Network library written in Go.
@@ -1428,6 +1429,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [api-fu](https://github.com/ccbrown/api-fu) - Comprehensive GraphQL implementation.
 * [dasel](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 * [gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON Data.
+* [gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library.
 * [graphql](https://github.com/tmc/graphql) - graphql parser + utilities.
 * [graphql](https://github.com/neelance/graphql-go) - GraphQL server with a focus on ease of use.
 * [graphql-go](https://github.com/graphql-go/graphql) - Implementation of GraphQL for Go.
