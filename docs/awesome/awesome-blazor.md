@@ -12,13 +12,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Event: "A conversation with Chris Sainty" (February 9, 2021).
-[<img src="https://pbs.twimg.com/media/EtvGnCnU0AM3Gha?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/live)
-- ASP.NET Community Standup: A conversation with Chris Sainty.
-- In this standup, we chat with Blazor aficionado and open source community member Chris Sainty about Blazor, his open source work, and more.
-- 10:00 AM Pacific | 18:00 UTC 
-- Live: [live.dot.net](https://dotnet.microsoft.com/live), [YouTube](https://youtu.be/v8UWYwAhKZA).
-
 
 ## Introduction
 
@@ -49,6 +42,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Introduction to ASP.NET Core](https://docs.microsoft.com/aspnet/core/) - Introduction to ASP.NET Core.
 * [Workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/aspnet/Blazor?style=flat-square&cacheSeconds=86400) Build a complete Blazor app and learn about the various Blazor framework features along the way.
 * [Blazor WebAssembly performance best practices](https://docs.microsoft.com/aspnet/core/blazor/webassembly-performance-best-practices) - ASP.NET Core Blazor WebAssembly performance best practices, by Pranav Krishnamoorthy and Steve Sanderson. 
+* [themesof.net](https://themesof.net/) - .NET 6 planning process.
 
 ## Sample Projects
 ### Authentication
@@ -191,6 +185,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800&logo=microsoft) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
+* [Blazor on Desktop](https://www.telerik.com/blogs/blazor-on-desktop) - February 17, 2021 - This post explores how to make Blazor web apps run on Desktop.
 * [Using source generators to generate a menu component in a Blazor app](https://andrewlock.net/using-source-generators-to-generate-a-nav-component-in-a-blazor-app) - February 16, 2021 - Using source generators to generate a menu component in a Blazor app.
 * [The tablet app – part 1](https://mac-digital.blog/2021/02/12/the-tablet-app-part-1/) - February 12, 2021 - Making an espresso machine smart, with .NET and Mobile Blazor Bindings.
 * [Download Files from Azure with .NET Core Web API and Blazor WebAssembly](https://code-maze.com/download-files-from-azure-with-net-core-web-api-and-blazor-webassembly/) - February 9, 2021 - In this article, we are going to learn how to download files from Azure using ASP.NET Core Web API as the server-side project and Blazor WebAssembly as the client-side. This article is a continuation of a previous one where we learned about uploading files to Azure. In that article, we also created Azure storage, so if you don’t have one created, you can do it following the instructions from the mentioned article. [Source code](https://github.com/CodeMazeBlog/download-files-azure-netcore-blazor-wasm) ![stars](https://img.shields.io/github/stars/CodeMazeBlog/download-files-azure-netcore-blazor-wasm?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeMazeBlog/download-files-azure-netcore-blazor-wasm?style=flat-square&cacheSeconds=86400).
@@ -560,6 +555,8 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2020](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2020.md#videos), [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [ASP.NET Core updates in .NET 6 Preview 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-1/) - February 17, 2021 - ASP.NET Core updates in .NET 6 Preview 1.
+* [Announcing .NET 6 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/) - February 17, 2021 - Announcing .NET 6 Preview 1.
 * [Blazor Component Testing](https://edcharbeneau.com/Blazor-Component-Testing/) - February 16, 2021 - Blazor Component Testing, by Ed Charbeneau.
 * [Blash: Twitter Dashboard Using Blazor Wasm, Web API, SignalR & Twitter API (Part 1)](https://www.roundthecode.com/dotnet/blazor/blash-twitter-dashboard-using-blazor-web-api-signalr-twitter-api) - February 5, 2021 - Blash: Twitter Dashboard Using Blazor Wasm, Web API, SignalR & Twitter API (Part 1), by Round The Code.
 * [.NET 6 Desktop Dev Options: WPF, WinForms, UWP, .NET MAUI, Blazor ...](https://visualstudiomagazine.com/articles/2021/02/03/net-6-desktop.aspx) - February 3, 2021 - .NET 6 Desktop Dev Options: WPF, WinForms, UWP, .NET MAUI, Blazor ...

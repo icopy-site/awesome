@@ -20,6 +20,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [API Docs](https://docs.rs/yew) - Docs on docs.rs.
 - [Website](https://yew.rs/) - Official website.
 - [Chatroom](https://discord.gg/VQck8X4) - It is pretty active and is a great place to ask questions.
+- [Reddit](https://www.reddit.com/r/yew_web/) - Dedicated Sub Reddit.
 - [Financial Contribute](https://opencollective.com/yew) - Become a financial contributor and help us sustain our community.
 - [Yewtify](https://github.com/yewstack/yewtify) - Vuetify components for Yew Framework.
 
@@ -55,6 +56,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [dotdotyew](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) using Yew, with Rust powering the backend API.
 - [wasm-2048](https://github.com/dev-family/wasm-2048) - 2048 game implemented with Rust and Yew and compiled to Wasm.
 - [website-wasm](https://github.com/kamiyaa/website-wasm) - My personal website written in Rust via Yew/Wasm.
+- [KeyPress](https://github.com/rayylee/keypress) - A Rust WebAssembly Website example for practising english for chinese.
 
 ## Templates
 
