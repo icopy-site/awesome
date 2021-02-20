@@ -126,6 +126,10 @@ A fast, configurable, shell plugin manager.
 
 A ZSH micro plugin manager.
 
+### [yazt](https://github.com/bashelled/yazt)
+
+Yazt is a simple zsh theme manager in maintence that is compatible with nearly everything. You can use prompts in plugins, mix 'n' match two themes, with a few modifications, you can even use it in bash.
+
 ### [zapack](https://github.com/aiya000/zsh-zapack)
 
 zapack is a basic fast minimal ZSH plugin loader.
@@ -1331,6 +1335,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [judgedim](https://github.com/judgedim/oh-my-zsh-judgedim-theme) - Minimalist prompt.
 * [just-another](https://github.com/supertassu/another-theme) - Just another theme, with hostname when you're sshed to another machine.
 * [jwalter](https://github.com/jeffwalter/zsh-jwalter) - Powerline-style theme with `git`, `svn`, `npm`, `rvm` and network awareness. Requires Powerline-compatible terminal font.
+* [jyumpp](https://github.com/Jyumpp/jyumpp-zsh-theme) - Configuration file and installer for Powerlevel 10K.
 * [karu](https://github.com/zaari/karu) - Minimalist single line ZSH prompt.
 * [keloran](https://github.com/Keloran/keloran.zsh-theme) - Theme that includes a few features from other themes.
 * [kenton](https://github.com/notnek/zsh-theme) - Optimized for dark backgrounds, includes `git` status information.
