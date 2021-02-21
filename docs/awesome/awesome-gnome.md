@@ -286,7 +286,7 @@
 
 ### Examples
 
-- [Hello](https://github.com/chergert/hello) - Set of Hello World examples for GNOME/GTK in different languages.
+- [Hello](https://gitlab.gnome.org/chergert/hello) - Set of Hello World examples for GNOME/GTK in different languages.
 
 ### Documentations
 
