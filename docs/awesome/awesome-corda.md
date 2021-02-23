@@ -31,6 +31,7 @@ Pull requests are welcome!
 ## Tools
 
 - [Braid Corda](https://gitlab.com/bluebank/braid/tree/master/braid-corda) - Create Braid endpoints and streams from your Corda node.
+- [Codaptor](https://github.com/180Protocol/codaptor) - Create REST API for any CorDapp running on a Corda node automatically.
 - [Corbeans](https://manosbatsis.github.io/corbeans) - Corda integration for Spring Boot.
 - [Cordage](https://github.com/LayerXcom/cordage) - Provide modules that make the interoperability possible between Corda and other blockchains without further trusted third party.
 - [Cordalo](https://github.com/cordalo-ch) - Provide Corda frameworks to speed up your development in the decentralized space.
