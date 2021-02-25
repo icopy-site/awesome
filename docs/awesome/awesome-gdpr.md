@@ -10,7 +10,6 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 ## Legal text
 * [GDPR-info](https://gdpr-info.eu/) - GDPR linked to relevant articles and section in the preamble (Non-official site).
 * [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5) - Compare the Regulation, Directive and National legislation. Linked to relevant section in preamble (Non-official site).
-* [Searchable GDPR](https://gdpr.algolia.com/)
 * [GDPRhub -> GDPR Articles](https://gdprhub.eu/index.php?title=Category:GDPR_Articles) - GDPR articles included commentary.
   
 ## Guidelines
@@ -18,40 +17,32 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [ICO: Guide to GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 * [Handbook on European data protection law ](https://publications.europa.eu/en/publication-detail/-/publication/5b0cfa83-63f3-11e8-ab9c-01aa75ed71a1) - Handbook issued by EU.
 * EDPS: [Factsheets](https://edps.europa.eu/data-protection/our-work/our-work-by-type/factsheets_en) - Factsheets from EU Data Protection Supervisor.
-* [The Ethical Design Handbook](http://provide.smashingmagazine.com/eBooks/ethical-design-handbook-sample-chapter.pdf)
   
-## Blogs
-* [GDPR Today](https://www.gdprtoday.org/) - Privacy news from the Open Rights Group.
-* [Spread Privacy](https://spreadprivacy.com/) - DuckDuckGo Blog.
-* [Freedom To Tinker](https://freedom-to-tinker.com/) - Blog from Princeton's CITP, a research center that studies digital technologies in public life.
-* [pdpEcho](https://pdpecho.com/) - All about personal data protection and privacy, by Gabriela Zanfir-Fortuna.
-* [GDPRhub](https://gdprhub.eu/) - Free and open wiki that allows anyone to find and share GDPR insights across Europe.
-  
-## Data Protection Impact Assessments (DPIA)
+## Privacy by Design - Guides for developers (art. 15)
+* [CNIL - GDPR Developer Guide](https://github.com/LINCnil/GDPR-Developer-Guide)
+* [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/innebygd-personvern/data-protection-by-design-and-by-default/)
+
+## Data Protection Impact Assessments (DPIA, art. 25)
 * [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
 * [Guidelines on Data Protection Impact Assessment (WP29)](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236)
 * [ISO-standard: Guidelines for privacy impact assessment](https://www.iso.org/standard/62289.html)
 * [DPIA template from ICO](https://iapp.org/resources/article/sample-dpia-template/)
 
-## Tools
-* [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
-* [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - Map of the level of data protection in each country.
-
-## Privacy by Design - Guides for developers (art. 15)
-* [CNIL - GDPR Developer Guide](https://github.com/LINCnil/GDPR-Developer-Guide)
-* [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/innebygd-personvern/data-protection-by-design-and-by-default/)
-
-## Security (art. 32)
-* [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks.
-* [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - Concise collection of high value information on specific application security topics.
-* [ARX - Data Anonymization Tool](https://arx.deidentifier.org/) - Open source software for anonymizing sensitive personal data.
-  
-## Incident management
+## Incident management (art. 33 and 34)
 * [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
 * [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
 * [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
 * [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 * [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - Overview of fines and penalties.
+
+## Security (art. 32)
+* [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks.
+* [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - Concise collection of high value information on specific application security topics.
+* [ARX - Data Anonymization Tool](https://arx.deidentifier.org/) - Open source software for anonymizing sensitive personal data.
+
+## Tools
+* [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
+* [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - Map of the level of data protection in each country.
  
 ## Data Protection Authorities 
 * [European Data Protection Board](https://edpb.europa.eu/) - EDPB.
@@ -69,14 +60,13 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [EPIC](https://epic.org/) - Electronic Privacy Information Center.
 * [Future of Privacy Forum](https://fpf.org/) - Catalyst for privacy leadership and scholarship, advancing principled data practices in support of emerging technologies.
 * [W3C Privacy Interest Group](https://www.w3.org/Privacy/) - Leading the web to its full potential.
-  
-## Solutions providers
-* [OneTrust](https://www.onetrust.com/)
-* [TrustArc](https://www.trustarc.com/)
-* [Privitar](https://www.privitar.com/)
-* [BigID](https://bigid.com/)
-* [Wirewheel](https://wirewheel.io)
-* [Collibra](https://www.collibra.com)
+
+## Publications
+* [GDPR Today](https://www.gdprtoday.org/) - Privacy news from the Open Rights Group.
+* [Spread Privacy](https://spreadprivacy.com/) - DuckDuckGo Blog.
+* [Freedom To Tinker](https://freedom-to-tinker.com/) - Blog from Princeton's CITP, a research center that studies digital technologies in public life.
+* [pdpEcho](https://pdpecho.com/) - All about personal data protection and privacy, by Gabriela Zanfir-Fortuna.
+* [GDPRhub](https://gdprhub.eu/) - Free and open wiki that allows anyone to find and share GDPR insights across Europe.
     
 ## Related
 * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)

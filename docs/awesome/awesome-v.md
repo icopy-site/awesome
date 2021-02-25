@@ -128,6 +128,11 @@
 
 - [vgram](https://github.com/dariotarantini/vgram) - Telegram bot library.
 
+### Discord
+
+- [viscord](https://github.com/vlang/viscord) - Pretty basic library for connecting to the Discord gateway.
+- [discord.v](https://github.com/Terisback/discord.v) - User-friendly Discord bot library.
+
 ### IRC
 
 - [vitric](https://github.com/m-242/vitric) - A transparent IRC library.
@@ -156,6 +161,7 @@
 
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 - [random](https://github.com/Delta456/random) - An all purpose random library written in V.
+- [vdotenv](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
 
 ## Other
 
