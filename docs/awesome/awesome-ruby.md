@@ -834,6 +834,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [Instrumental](https://github.com/expectedbehavior/instrumental_agent) - Measure your application in real time with [Instrumental](http://instrumentalapp.com).
 * [New Relic](https://github.com/newrelic/rpm) - Find and fix Ruby errors with New Relic application monitoring and troubleshooting.
+* [RoRvsWild](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
 * [Scout](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
 * [Skylight](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
 
@@ -1070,6 +1071,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Forgery](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
 * Mock
   * [ActiveMocker](https://github.com/zeisler/active_mocker) - Generate mocks from ActiveRecord models for unit tests that run fast because they don’t need to load Rails or a database.
+  * [DnsMock](https://github.com/mocktools/ruby-dns-mock) - Ruby DNS mock. Mimic any DNS records for your test environment and even more.
   * [DuckRails](https://github.com/iridakos/duckrails) - Tool for mocking API endpoints quickly & dynamically.
   * [TestXml](https://github.com/alovak/test_xml) - TestXml is a small extension for testing XML/HTML.
   * [WebMock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests.

@@ -12,6 +12,13 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
+## Event: ".NET Conf 2021 - Focus on Windows" (February 25, 2021).
+[<img src="https://pbs.twimg.com/media/Et5WaeSXEAYNoZU?format=jpg&name=medium" align="center" width="100%">](https://focus.dotnetconf.net/)
+- .NET Conf 2021 - Focus on Windows.
+- Join us for a day of live stream sessions as we focus on Windows: upgrading WPF & Windows Forms apps, leveraging cloud services from client apps,the future of native device dev in .NET 6 and more.
+- Live: [dotnetconf.net](https://focus.dotnetconf.net/).
+- Replay: [YouTube](https://www.youtube.com/watch?v=mZRNjixZEMg).
+
 
 ## Introduction
 
@@ -397,6 +404,9 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Generators.Blazor](https://github.com/excubo-ag/Generators.Blazor) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Generators.Blazor?style=flat-square&cacheSeconds=86400) Generators.Blazor is a source generator for improving performance in Blazor. The project also contains analyzers to detect common issues in Blazor apps.
 
 ## Videos
+* [.NET Conf 2021 - Focus on Windows: Building .NET Hybrid Apps with Blazor](https://www.youtube.com/watch?v=mZRNjixZEMg&t=28886s) - February 25, 2021 - .NET Conf: Focus on Windows, session "Building .NET Hybrid Apps with Blazor", by Daniel Roth.
+* [.NET Conf 2021 - Focus on Windows: Real-Time Desktop Apps with Azure SignalR Service](https://www.youtube.com/watch?v=mZRNjixZEMg&t=9040s) - February 25, 2021 - .NET Conf: Focus on Windows, session "Real-Time Desktop Apps with Azure SignalR Service".
+* [.NET Conf 2021 - Focus on Windows](https://www.youtube.com/watch?v=mZRNjixZEMg) - ![duration](https://img.shields.io/badge/Duration:%20-584%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) February 25, 2021 - .NET Conf: Focus on Windows is a free, one-day livestream event that features speakers from the community and Microsoft teams working on Windows desktop apps and making them fantastic on the latest .NET 5. Learn why and how to upgrade WPF and Windows Forms apps to .NET 5, see Visual Studio tooling improvements, learn how to leverage cloud services from your client apps, and a whole lot more. You'll also see what the future of native device development with .NET will look like in .NET 6. Full schedule: [dotnetconf.net](https://focus.dotnetconf.net).
 * [Blazor WebAssembly : Virtualize Component](https://www.youtube.com/watch?v=UtmAlX6U29k&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-16%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) February 22, 2021 - Blazor WebAssembly : Virtualize Component, by Curious Drive. This video shows how you can use Virtualize component and load thousands of records in efficient way. We will first check how it actually works then we will map to a web API which gets records which are visible to the users.
 * [Blazor Train: Options for Mobile Apps](https://www.youtube.com/watch?v=0QgIZLJgfVg&feature=youtu.be) -  ![duration](https://img.shields.io/badge/Duration:%20-36%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) February 19, 2021 - Carl Franklin welcomes back Microsoft’s Dan Roth to discuss options for building mobile apps with Blazor.
 * [Test Driving the Blazing Pizza Workshop](https://www.twitch.tv/videos/908426839) - ![duration](https://img.shields.io/badge/Duration:%20-140%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=twitch) February 10, 2021 - Test Driving the Blazing Pizza Workshop, episode 3, by Egil Hansen.

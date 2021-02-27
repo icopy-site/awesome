@@ -702,6 +702,7 @@
 - [Credit Modeling](awesome/awesome-credit-modeling.md) - Methods for classifying credit applicants into risk classes.
 - [Ansible](awesome/awesome-ansible.md) - A Python-based, open source IT configuration management and automation platform.
 - [Biological Visualizations](awesome/awesome-biological-visualizations.md) - Interactive visualization of biological data on the web.
+- [QR Code](awesome/awesome-qr-code.md) - A type of matrix barcode that can be used to store and share a small amount of information.
 - [Veganism](awesome/awesome-veganism.md) - Making the plant-based lifestyle easy and accessible.
 
 ## Related

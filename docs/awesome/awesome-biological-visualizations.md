@@ -34,6 +34,7 @@ Web-based biology-related visualization tools are often scattered across the int
 
 ## 3D Genomics
 - [HiGlass](http://higlass.io/) - A tool for exploring genomic contact matrices and tracks.
+- [HiPiler](http://hipiler.higlass.io/) - A tool for visually exploring and aggregating reoccurring patterns (like loops, TADs, etc.) in Hi-C maps.
 - [Delta](http://delta.big.ac.cn/) - An integrative analysis and visualization platform for 3D genome.
 - [Juicebox](http://aidenlab.org/juicebox/) - Visualization for Hi-C data.
 - [TADkit](http://sgt.cnag.cat/3dg/tadkit/demo.h/index.html#!/project/dataset?conf=assets%2Fexamples%2Fconf.json) - 3D genome browser and TADbit front-end.
@@ -42,12 +43,12 @@ Web-based biology-related visualization tools are often scattered across the int
 - [Metaviz](http://metaviz.cbcb.umd.edu/) - Interactive statistical and visual analysis of metagenomic data.
 - [Malaria Cell Atlas](https://www.sanger.ac.uk/science/tools/mca/mca/) - Explore how genes are expressed across more than 500 individual Plasmodium parasites.
 
-
 ## Epigenomics
 - [Epiviz](http://epiviz.cbcb.umd.edu/4/) - Interactive visual analytics for functional genomics data.
 - [GIVe](https://mcf7.givengine.org/) - Epigenome and genome interaction.
 - [WashU Epigenome Browser](http://epigenomegateway.wustl.edu/) - Displays many sequencing-based data sets across all or part of the genome, on specific gene sets or pathways, and in the context of their metadata.
 - [Clustergrammer CCLE Explorer](https://maayanlab.github.io/CCLE_Clustergrammer/) - Browse relative mRNA expression data for cancer cell lines from the Cancer Cell Line Encyclopedia (CCLE) by tissue of origin using Clustergrammer.
+- [Peax](https://github.com/Novartis/peax) - Interactive visual pattern exploration in epigenomic data using unsupervised deep representation learning.
 
 ## Proteomics
 - [COSMIC-3D](https://cancer.sanger.ac.uk/cosmic3d/protein/EGFR) - A platform for understanding cancer mutations in the context of 3D protein structure.
@@ -97,6 +98,10 @@ macromolecular structure data.
 
 ## Metabolomics
 - [Metaspace](https://metaspace2020.eu/) - A platform for metabolite annotation of imaging mass spectrometry data.
+
+
+## Mass Spectrometry
+- [Cytosplore](https://www.cytosplore.org/) - Cytosplore is an interactive visual analysis system for the analysis of mass cytometry data.
 
 
 ## Populations
