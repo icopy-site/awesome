@@ -58,6 +58,7 @@
 ## No-Code Platforms
 - [Jamstack.new](https://jamstack.new) - Create a new Jamstack website with 1 click, brought to you by Stackbit
 - [Draftbox](https://draftbox.co) - Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.
+- [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
 
 ## Jamstack Sites Showcase
 
@@ -70,6 +71,7 @@
 - [Jarod Peachey](https://jarodpeachey.netlify.com) - Built with Gatsby + MaterialUI and hosted on Netlify
 - [ProtonDB](https://www.protondb.com) - React/MaterialUI/Firebase hosted on Netlify since August 2018. Prominent in Linux gaming community.
 - [Creative Designs Guru](https://creativedesignsguru.com) - Built on Eleventy.js hosted on Netlify and styled with Tailwind CSS
+- [HandleDroid](https://handledroid.com/) - Built with Next.js, MongoDB, Auth0, AWS CloudWatch, SendGrid, Stripe and hosted on Netlify.
 
 ## Static Site Generators
 
@@ -131,6 +133,7 @@
 - [Netlify Forms](https://www.netlify.com/docs/form-handling/) - Built-in form handling on building time by parsing HTML files directly at deploy time.
 - [StaticKit](https://statickit.com) - Modern forms for static sites, with client libraries for React and HTML.
 - [Arengu](https://www.arengu.com) - Build signup and login forms with Arengu, enable social login, add 2FA or use passwordless flows to authenticate users with your API or identity provider.
+- [Static Forms](https://www.staticforms.xyz/) - Integrate HTML forms easily without any server side code. After user submits the form we'll send you content of the form to your registered email.
 
 ### E-commerce
 

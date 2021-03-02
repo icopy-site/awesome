@@ -156,6 +156,7 @@ _Libraries that help with implementing optimization and satisfiability problems.
 
 _Frameworks and libraries that simplify reading/writing CSV data._
 
+- [FastCSV](https://github.com/osiegmar/FastCSV) - Performance-optimized, dependency-free and RFC 4180 compliant.
 - [jackson-dataformat-csv](https://github.com/FasterXML/jackson-dataformat-csv) - Jackson extension for reading and writing CSV.
 - [opencsv](http://opencsv.sourceforge.net) - Simple CSV parser.
 - [Super CSV](https://super-csv.github.io/super-csv/) - Powerful CSV parser with support for Dozer, Joda-Time and Java 8.
@@ -314,6 +315,7 @@ _Libraries related to the financial domain._
 - [Philadelphia](https://github.com/paritytrading/philadelphia) - Low-latency financial information exchange.
 - [Square](https://github.com/square/connect-java-sdk) - Integration with the Square API.
 - [Stripe](https://github.com/stripe/stripe-java) - Integration with the Stripe API.
+- [ta4j](https://github.com/ta4j/ta4j) - Library for technical analysis.
 
 ### Formal Verification
 
@@ -855,6 +857,7 @@ _Libraries that handle security, authentication, authorization or session manage
 - [Keywhiz](https://github.com/square/keywhiz) - System for distributing and managing secrets.
 - [Nbvcxz](https://github.com/GoSimpleLLC/nbvcxz) - Advanced password strength estimation.
 - [OACC](http://oaccframework.org) - Provides permission-based authorization services.
+- [OTP-Java](https://github.com/BastiaanJansen/OTP-Java) - One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
 - [pac4j](https://github.com/pac4j/pac4j) - Security engine.
 - [Password4j](https://github.com/Password4j/password4j) - User-friendly cryptographic library that supports Argon2, Bcrypt, Scrypt, PBKDF2 and various other cryptographic hash functions.
 - [SecurityBuilder](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA and JSSE classes and especially X.509 certificates.

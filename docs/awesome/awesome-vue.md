@@ -699,6 +699,7 @@
 - [LogChimp](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
 - [Trooveo](https://github.com/joek85/trooveo) - Search, listen to YouTube videos (Audio Only), No YouTube Api.
 - [Yacht](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
+- [Antares SQL](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
 ### Commercial Products
 
 - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -1118,6 +1119,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [vue-splash](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
 - [vue-ultimate-skeleton-cards](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
 - [vue-wait-for](https://github.com/MeForma/vue-wait-for) - A loader manager for Vue.js 3 with reactive method
+- [vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
 
 ##### Progress Bar
 
@@ -1513,6 +1515,7 @@ _Display non-editable events in a Calendar_
 - [vue-share-buttons](https://github.com/Alexandrshy/vue-share-buttons) - Vue.js component for placing buttons in your project using which you can share anything
 - [vue-share-it](https://github.com/thisDOTname/vue-share-it) - A Vue.js component for sharing links to social networks
 - [vuesocial](https://github.com/growthbunker/vuesocial) - 🧞‍♀️🧞‍♂️ One easy-to-use button component for Vue.js with 65+ social networks.
+- [vue-socials](https://github.com/webistomin/vue-socials) - 💬 Social media share buttons and counts for Vue.js.
 
 #### QR Code
 
@@ -1650,6 +1653,7 @@ _Display non-editable events in a Calendar_
 - [vue-image-zoomer](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2, that also works on touch devices.
 - [vue-show-more-text](https://github.com/limlt/vue-show-more-text) - Vue multiline sentence ellipsis component. The text in the component will be truncated.
 - [vue-copy-to-clipboard](https://github.com/meforma/vue-copy-to-clipboard) - Vue.js 3 plugin to copy text to clipboard (Vue 3)
+- [vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customisable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
 
 #### Tabs
 
