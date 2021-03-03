@@ -180,6 +180,9 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Foundations and Trends® in Computer Graphics and Vision](http://www.nowpublishers.com/CGV)
  * [Computer Vision: A Reference Guide](http://link.springer.com/book/10.1007/978-0-387-31439-6)
 
+ ## Pre-trained Computer Vision Models
+ * [List of Computer Vision models](https://github.com/shubham-shahh/Open-Source-Models) These models are trained on custom objects
+
 ## Tutorials and talks
 
 #### Computer Vision
