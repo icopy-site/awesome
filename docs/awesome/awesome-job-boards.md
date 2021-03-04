@@ -17,6 +17,7 @@ A curated list of awesome niche job boards.
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
 * [Crypto Job](https://crypto-job.com/) - Crypto Job is the place where talent meets opportunity. Our goal is to connect passionate blockchain and cryptocurrency developers with companies that value their talent and expertise.
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
+* [Blockchain Works](https://blockchain.works-hub.com/) - Discover **the best** Blockchain opportunities and articles with **Blockchain Works**
 
 ## Cloud
 
@@ -42,6 +43,7 @@ A curated list of awesome niche job boards.
 
 * [Jobs For DevOps](https://jobsfordevops.com)
 * [Kube Jobs](https://kubejobs.io) - Hand-picked and curated Kubernetes jobs.
+* [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies.
 
 ## Gaming
 
@@ -108,6 +110,9 @@ A curated list of awesome niche job boards.
 ### Rust
 
 * [Rust Programming Language Jobs](http://rust-jobs.com/)
+
+### Scala
+* [Scala Jobs](https://ScalaJobs.dev)
 
 ### WebAssembly
 

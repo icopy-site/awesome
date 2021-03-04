@@ -414,7 +414,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Apipie](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
 * [Asciidoctor](https://asciidoctor.org) - A fast, Ruby-based text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook, EPUB3, PDF & more.
 * [Documentation](https://github.com/adamcooke/documentation) - A Rails engine to provide the ability to add documentation to a Rails application.
-* [GitHub Changelog Generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+* [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 * [grape-swagger](https://github.com/ruby-grape/grape-swagger) - Add swagger compliant documentation to your Grape API.
 * [Hanna](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
@@ -753,6 +753,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## ORM/ODM Extensions
 
 * Auditing and Versioning
+  * [acts_as_archival](https://github.com/expectedbehavior/acts_as_archival) - ActiveRecord plugin for atomic object tree archiving.
   * [ActsAsParanoid](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
   * [Audited](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
   * [Destroyed At](https://github.com/dockyard/ruby-destroyed_at) - Allows you to "destroy" an object without deleting the record or associated records.

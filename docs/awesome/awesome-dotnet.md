@@ -103,6 +103,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [OAuth](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 * [Stuntman](https://rimdev.io/stuntman/) - Stuntman is a library for impersonating users during development leveraging .NET Claims Identity.
 
+## Blazor
+
+* [BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor.
+
 ## Blockchain
 
 * [Nethermind](https://github.com/NethermindEth/nethermind) - full Ethereum client in .NET Core
@@ -324,7 +328,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Documentation
 
 * [Sandcastle](https://github.com/EWSoftware/SHFB) - Sandcastle Help File Builder similar to NDoc
-* [SharpDox](https://github.com/Geaz/sharpDox) - A C# documentation tool
 * [SourceBrowser](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers https://referencesource.microsoft.com
 * [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.WebApi) - Seamlessly adds a Swagger to Web API projects.
 * [F# Formatting](https://fsprojects.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects from F# script files, Markdown documents and inline XML or Markdown comments
@@ -658,6 +661,7 @@ metadata in media files, including video, audio, and photo formats
 * [FormHelper](https://github.com/SinanBozkus/FormHelper) - Form & Validation Helper for ASP.NET Core. Form Helper helps you to create ajax forms and validations without writing any javascript code. (Compatible with Fluent Validation)
 * [Guard](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
 * [Valit](https://github.com/valit-stack/Valit) - Valit is dead simple, fluent validation for .NET Core.
+* [Validot](https://github.com/bartoszlenar/Validot) - Validot is a performance-first, compact library for advanced model validation. Using a simple declarative fluent interface, it efficiently handles classes, structs, nested members, collections, nullables, plus any relation or combination of them. It also supports translations, custom logic extensions with tests, and DI containers.
 * [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 * [LINQPad](https://www.linqpad.net) - a C#/VB/F# scratchpad that instantly executes any expression, statement block or program with rich output formatting and a wealth of features. Also lets you interactively query databases in LINQ. [$]
 * [Polly](https://github.com/App-vNext/Polly) - Express transient-exception-handling and resilience policies such as Retry, Wait-and-Retry, Circuit Breaker, and Bulkhead Isolation in a fluent manner. Fully thread-safe and full async support.  (4.0 / 4.5 / .NET Core / .NET Standard / Xamarin).
@@ -1056,6 +1060,7 @@ metadata in media files, including video, audio, and photo formats
 * [Awesome Xamarin](https://github.com/XamSome/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
 * [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 * [.NET Open Source Developer Projects](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - This community maintained list showcases .NET open source projects that are useful for any aspect of the development process.
+* [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
 
 ## Resources
 
