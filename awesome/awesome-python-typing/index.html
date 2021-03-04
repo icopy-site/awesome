@@ -1428,6 +1428,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#helper-tools-to-add-annotations-to-existing-code" class="md-nav__link">
+    Helper tools to add annotations to existing code
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#mypy-plugins" class="md-nav__link">
     Mypy plugins
   </a>
@@ -8649,6 +8656,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#helper-tools-to-add-annotations-to-existing-code" class="md-nav__link">
+    Helper tools to add annotations to existing code
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#mypy-plugins" class="md-nav__link">
     Mypy plugins
   </a>
@@ -8762,7 +8776,7 @@
 </ul>
 <h2 id="dynamic-type-checkers">Dynamic type checkers<a class="headerlink" href="#dynamic-type-checkers" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="https://github.com/beartype/beartype">beartype</a> - Unbearably fast <code>O(1)</code> runtime type-checking in pure Python. </li>
+<li><a href="https://github.com/beartype/beartype">beartype</a> - Unbearably fast <code>O(1)</code> runtime type-checking in pure Python.</li>
 <li><a href="https://github.com/Stewori/pytypes">pytypes</a> - Provides a rich set of utilities for runtime typechecking.</li>
 <li><a href="https://github.com/samuelcolvin/pydantic">pydantic</a> - Data parsing using Python type hinting. Supports dataclasses.</li>
 <li><a href="https://github.com/agronholm/typeguard">typeguard</a> - Another one runtime type checker.</li>
@@ -8810,15 +8824,25 @@
 </ul>
 <h3 id="working-with-types">Working with types<a class="headerlink" href="#working-with-types" title="Permanent link">&para;</a></h3>
 <ul>
-<li><a href="https://github.com/instagram/MonkeyType">MonkeyType</a> - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your Python code based on the types collected at runtime.</li>
 <li><a href="https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi">merge_pyi</a> - Part of pytype toolchain, applies stub files onto source code.</li>
-<li><a href="https://github.com/dropbox/pyannotate">pyannotate</a> - Insert annotations into your source code based on call arguments and return types observed at runtime.</li>
-<li><a href="https://github.com/kensho-technologies/pytest-annotate">pytest-annotate</a> - Pyannotate plugin for pytest.</li>
 <li><a href="https://github.com/ambv/retype">retype</a> - Another tool to apply stubs to code.</li>
 <li><a href="https://github.com/dropbox/mypy-protobuf">mypy-protobuf</a> - Tool to generate mypy stubs from protobufs.</li>
 <li><a href="https://github.com/python/mypy/tree/master/mypyc">mypyc</a> - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.</li>
 <li><a href="https://github.com/ilevkivskyi/typing_inspect">typing_inspect</a> - The typing_inspect module defines experimental API for runtime inspection of types defined in the Python standard typing module.</li>
 <li><a href="https://pypi.org/project/typing-json/">typing-json</a> - Lib for working with typed objects and JSON.</li>
+</ul>
+<h3 id="helper-tools-to-add-annotations-to-existing-code">Helper tools to add annotations to existing code<a class="headerlink" href="#helper-tools-to-add-annotations-to-existing-code" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="https://github.com/instagram/MonkeyType">MonkeyType</a> - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your Python code based on the types collected at runtime.</li>
+<li><a href="https://github.com/mariusvniekerk/pytest-monkeytype">pytest-monkeytype</a> - MonkeyType plugin for pytest.</li>
+<li><a href="https://github.com/dropbox/pyannotate">pyannotate</a> - Insert annotations into your source code based on call arguments and return types observed at runtime.</li>
+<li><a href="https://github.com/kensho-technologies/pytest-annotate">pytest-annotate</a> - Pyannotate plugin for pytest.
+<!--lint disable double-link--></li>
+<li><a href="https://github.com/facebook/pyre-check">pyre infer</a> - Pyre has a powerful feature for migrating codebases to a typed format. The <a href="https://pyre-check.org/docs/pysa-coverage/">infer</a> command-line option ingests a file or directory, makes educated guesses about the types used, and applies the annotations to the files.
+<!--lint enable double-link--></li>
+<li><a href="https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast">pytype annotate-ast</a> - A work-in-progress tool to annotate the nodes of an AST with their Python types.</li>
+<li><a href="https://github.com/typilus/typilus">Typilus</a> - A deep learning algorithm for predicting types in Python. Also available as a <a href="https://github.com/typilus/typilus-action">GitHub action</a></li>
+<li><a href="https://github.com/saltudelft/type4py">Type4Py</a> - Deep Similarity Learning-Based Type Inference for Python.</li>
 </ul>
 <h3 id="mypy-plugins">Mypy plugins<a class="headerlink" href="#mypy-plugins" title="Permanent link">&para;</a></h3>
 <ul>
