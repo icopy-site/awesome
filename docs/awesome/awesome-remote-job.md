@@ -319,6 +319,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Continu](https://www.continu.co/) - Continuous learning software for modern teams.
   1. [Countly](https://count.ly/full-stack-node-js-developer) - Open source, enterprise mobile / web analytics and marketing platform.
   1. [CRO Metrics](https://crometrics.com/careers/) - Data-driven expirementation and growth programs.
+  1. [Crosscan](https://crosscan.com/jobs/) - Retail Analytics, IoT (PHP, React, Web, Mobile, Rust)
   1. [Crossover](https://app.crossover.com/x/marketplace/available-jobs) - Project-based Java, .Net and DevOps positions.
   1. [DareCode](https://www.darecode.com) - Big-data, fast-data, micro-services. Projects with real DevOps and OpenSource orientation.
   1. [Datadog](https://www.datadoghq.com/careers/) - Easy to use and scalable monitoring systems for modern and dynamic infrastructure.  Distributed team with offices in New York, Boston and Paris.  Engineers based all around the world.
@@ -403,6 +404,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Mixmax](https://careers.mixmax.com/) - Email with superpowers.
   1. [Mobile Jazz](https://mobilejazz.com/) - We are a dedicated team of highly-skilled engineers, designers and marketing experts on a mission to build a more beautiful digital world. We are a remote friendly company with headquarters in Barcelona.
   1. [Modern Tribe](https://tri.be/careers) - A digital agency with a modern twist. All freelancers. All experts.
+  1. [MODLR](https://modlr.co) - MODLR is business modelling and collaborative planning tool for connected financial planning process
   1. [Modus Create](https://moduscreate.com/) - Modus is a digital design-build agency driven by world-class talent. PHP, JavaScript.
   1. [Mosalingua](https://www.mosalingua.com/en/jobs/) - Learn words, enjoy the world.
   1. [MVP Space](https://mvp-space.com/) - Test a business idea with your target audience or show its potential to your investors.

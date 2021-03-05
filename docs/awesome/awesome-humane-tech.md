@@ -211,6 +211,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Teddit](https://teddit.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teddit/teddit) - Alternative Reddit front-end focused on privacy.
 - [Libreddit](https://libredd.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/spikecodes/libreddit) - Private Reddit front-end written in Rust.
 - [YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube) - A bot that automatically mirrors YouTube channels to PeerTube channels.
+- [Watomatic](https://github.com/adeekshith/watomatic) - Auto reply for WhatsApp so you can stop using it.
 
 ## Freedom
 
@@ -224,7 +225,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 
 ## Geolocation
 
-- [OpenStreetMap](https://www.openstreetmap.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/openstreetmap/openstreetmap-website) - A map of the world, created by people like you and free to use under an open licence.
+- [OpenStreetMap](https://www.openstreetmap.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/openstreetmap/openstreetmap-website) - A crowdsourced map of the world with many layers, free to use under an open licence.
 - [OSM StreetComplete](https://github.com/westnordost/StreetComplete) - Surveyor app for Android to allow users to contribute to OpenStreetMap with ease.
 - [Mozilla Ichnaea](https://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/ichnaea) - API to get geolocation coordinates from other sources (Bluetooth, cell or WiFi, GeoIP, etc).
 - [Qwant Maps](https://www.qwant.com/maps/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/QwantResearch/qwantmaps/) - A map application, based on OpenStreetMap, that respects your privacy.

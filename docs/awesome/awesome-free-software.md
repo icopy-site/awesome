@@ -25,6 +25,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) - Remote terminal emulator that connects over SSH, Telnet, SCP, and rlogin protocols as well as raw socket connections. ([MIT](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html))
 - [ranger](https://ranger.github.io/) - Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. ([GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
 - [GNU stow](https://www.gnu.org/software/stow/) - GNU Stow is a symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place. ([GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
+- [SimpleLocalize](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects.
 
 ### Communication
 
@@ -83,6 +84,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. ([BSD](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md))
 - [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
 - [Simple Mobile Tools](https://simplemobiletools.github.io/) - Android apps with customizable widgets, without annoying ads and unnecessary permissions.
+- [IP2Trace](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database. ([MIT](https://github.com/ip2location/ip2location-traceroute/blob/master/LICENSE))
 
 ### Payments
 

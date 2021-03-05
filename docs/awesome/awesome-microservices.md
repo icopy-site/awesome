@@ -78,7 +78,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Poco](http://pocoproject.org/) - C++ class libraries for building network-based applications and servers.
 - [Restbed](https://github.com/Corvusoft/restbed) - Brings asynchronous RESTful functionality to C++11 applications.
 - [Served](https://github.com/datasift/served) - C++ library for building high-performance RESTful web servers.
-- [Sogou Workflow](https://github.com/sogou/workflow/blob/master/README_en.md) - Enterprise-grade programming engine aimed to satisfy most of the backend development requirements.
+- [Sogou Workflow](https://github.com/sogou/workflow) - Enterprise-grade programming engine aimed to satisfy most of the backend development requirements.
 - [ULib](https://github.com/stefanocasazza/ULib) - Highly optimized class framework for writing C++ applications.
 
 ### CSharp
@@ -328,6 +328,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Cadence](https://cadenceworkflow.io/) - Fault-oblivious stateful code platform.
 - [Conductor](https://github.com/Netflix/conductor) - A microservices orchestration engine.
 - [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based, reliable function composition for serverless functions.
+- [Temporal](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
 - [Zeebe](https://zeebe.io/) - Define, orchestrate, and monitor business processes across microservices.
 
 ### Elasticity
@@ -485,7 +486,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [InfluxDB](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 - [MemSQL ![c]](http://www.memsql.com/) - High-performance, in-memory database that combines the horizontal scalability of distributed systems with the familiarity of SQL.
 - [OpenTSDB](http://opentsdb.net) - Scalable and distributed time series database written on top of Apache HBase.
-- [Parquet](https://parquet.apache.org/) - Columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
+- [Parquet](https://github.com/apache/parquet-format) - Columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
 - [Reborn](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
 - [RethinkDB](http://rethinkdb.com/) - Open source, scalable database that makes building realtime apps easier.
 - [Secure Scuttlebutt](https://github.com/ssbc/docs) - P2P database of message-feeds.
@@ -672,6 +673,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Ops](https://ops.city/) - Free open source tool to build, run and deploy existing linux applications as unikernels.
 - [SAFE Network](https://safenetwork.tech/) - Powered by the spare capacity of everyday computers, SAFE replaces the vulnerable structure of the existing Web with a decentralised, autonomous network. One that is secure, and accessible to everyone.
 - [Solid](https://solid.inrupt.com/) - Empowers users and organizations to separate their data from the applications that use it. It allows people to look at the same data with different apps at the same time. It opens brand new avenues for creativity, problem-solving, and commerce.
+- [Unison](https://www.unisonweb.org/) - Open source functional programming language based on a simple idea with big implications: code is content-addressed and immutable.
 
 ## License
 
