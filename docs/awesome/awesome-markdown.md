@@ -47,6 +47,7 @@ _Please read the [contribution guidelines](https://github.com/BubuAnabelas/aweso
 - [Pelican](https://blog.getpelican.com/) - Static site generator that requires no database or server-side logic.
 - [Svbtle](https://svbtle.com/) - Blogging platform designed to help you think.
 - [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator.
+- [Laravel CommonMark Blog](https://github.com/spekulatius/laravel-commonmark-blog) - Static-generator to use with Laravel. Utilizes CommonMark and FrontMatter and publishes directly into the `public`-folder.
 
 ## Libraries
 
@@ -112,6 +113,7 @@ _Please read the [contribution guidelines](https://github.com/BubuAnabelas/aweso
 - [Torsimany](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [turndown](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript.
 - [yamp](https://github.com/angrykoala/yamp) - Easy-to-use cli toolbox for markdown-related task. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [clipboard2markdown](https://euangoddard.github.io/clipboard2markdown/) - Website to paste content and get a markdown version. Works on any modern browser with JavaScript.
 
 ### Editors
 
@@ -134,6 +136,7 @@ _Please read the [contribution guidelines](https://github.com/BubuAnabelas/aweso
 - [Visual Studio Code](https://code.visualstudio.com/) - An open source code editor with built-in markdown preview and many markdown extensions. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Quiver](http://happenapps.com/) - A notebook built for programmers. ![Mac OS X][macosx] ![iOS Logo][ios-logo]
 - [Bear](https://bear.app/) - A beautiful, flexible writing app for crafting notes and prose. ![Mac OS X][macosx] ![iOS Logo][ios-logo]
+- [Obsidian](https://obsidian.md/) - Notebook editor with Mermaid support ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 
 ### Linters
 

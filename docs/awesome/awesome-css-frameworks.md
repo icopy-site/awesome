@@ -51,6 +51,10 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
 
+- [**Natural Selection**](https://github.com/frontaid/natural-selection) - Collection of best-practice CSS selectors.  
+  ![](https://img.shields.io/github/stars/frontaid/natural-selection.svg?style=social&label=Star)
+  | #CSS
+
 
 ## Class-less
 
@@ -59,6 +63,12 @@ Frameworks that use semantic HTML and do not rely on classes.
 - [**Water.css**](https://watercss.netlify.com/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
   ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
   [Repo](https://github.com/kognise/water.css)
+  | #CSS
+
+- [**MVP.css**](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements.  
+  ![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social&label=Star)
+  [Docs](https://andybrewer.github.io/mvp/#docs),
+  [Repo](https://github.com/andybrewer/mvp/)
   | #CSS
 
 - [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme.  
@@ -164,13 +174,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/picturepan2/spectre)
   | #SCSS
 
-- [**Tachyons**](http://tachyons.io) - Quickly build and design new UI without writing CSS.  
-  ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social&label=Star)
-  [Demo](http://tachyons.io/gallery/),
-  [Docs](http://tachyons.io/docs/),
-  [Repo](https://github.com/tachyons-css/tachyons/)
-  | #CSS
-
 - [**Primer**](https://primer.style/) - CSS framework that powers GitHub's front-end design.  
   ![](https://img.shields.io/github/stars/primer/css.svg?style=social&label=Star)
   [Docs](https://styleguide.github.com/primer/),
@@ -252,13 +255,23 @@ Frameworks that are smaller than ~5KB.
   | #SCSS
 
 
-## Specialized
+## Utility-based
 
 - [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.  
   ![](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=social&label=Star)
   [Docs](https://tailwindcss.com/docs/what-is-tailwind/),
   [Repo](https://github.com/tailwindcss/tailwindcss)
   | #CSS
+
+- [**Tachyons**](http://tachyons.io) - Quickly build and design new UI without writing CSS.  
+  ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social&label=Star)
+  [Demo](http://tachyons.io/gallery/),
+  [Docs](http://tachyons.io/docs/),
+  [Repo](https://github.com/tachyons-css/tachyons/)
+  | #CSS
+
+
+## Specialized
 
 - [**NES.css**](https://nostalgic-css.github.io/NES.css/) - NES-style CSS Framework.  
   ![](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=social&label=Star)
@@ -286,6 +299,12 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social&label=Star)
   [Docs](http://bojler.slicejack.com/getting-started/),
   [Repo](https://github.com/Slicejack/bojler)
+  | #SCSS
+
+- [**TuiCss**](https://github.com/vinibiavatti1/TuiCss) - Library to create MS-DOS interfaces.  
+  ![](https://img.shields.io/github/stars/vinibiavatti1/TuiCss.svg?style=social&label=Star)
+  [Demo](https://github.com/vinibiavatti1/TuiCss/wiki/Examples),
+  [Docs](https://github.com/vinibiavatti1/TuiCss/wiki)
   | #SCSS
 
 

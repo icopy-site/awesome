@@ -130,7 +130,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ## MVC Frameworks and Libraries
 
-* [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps.
+* [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps. (deprecated)
+* [angular](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
 * [aurelia](http://aurelia.io) - A JavaScript client framework for mobile, desktop and web.
 * [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
 * [ember.js](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
@@ -166,6 +167,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Alpine.js](https://github.com/alpinejs/alpine) - offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
 * [inferno](https://github.com/infernojs/inferno) - 🔥 An extremely fast, React-like JavaScript library for building modern user interfaces.
 * [FoalTS](https://foalts.org) - Elegant and all-inclusive Node.JS framework for building web applications (TypeScript).
+* [Lucia](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
 
 ## Node-Powered CMS Frameworks
 
@@ -372,6 +374,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
 * [map-countdown](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps.
 * [dayjs](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
+* [luxon](https://github.com/moment/luxon) - Luxon is a library for working with dates and times in JavaScript.
 
 ## String
 *String Libraries.*
