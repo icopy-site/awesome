@@ -97,6 +97,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [margelet](https://github.com/zhulik/margelet) - Framework for building Telegram bots.
 * [micha](https://github.com/onrik/micha) - Go Library for Telegram bot api.
 * [olivia](https://github.com/olivia-ai/olivia) - A chatbot built with an artificial neural network.
+* [slack-bot](https://github.com/innogames/slack-bot) - Ready to use Slack Bot for lazy developers: Custom commands, Jenkins, Jira, Bitbucket, Github...
 * [slacker](https://github.com/shomali11/slacker) - Easy to use framework to create Slack bots.
 * [slackscot](https://github.com/alexandre-normand/slackscot) - Another framework for building Slack bots.
 * [tbot](https://github.com/yanzay/tbot) - Telegram bot server with API similar to net/http.
@@ -282,6 +283,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [conjungo](https://github.com/InVisionApp/conjungo) - A small, powerful and flexible merge library.
 * [count-min-log](https://github.com/seiflotfy/count-min-log) - Go implementation Count-Min-Log sketch: Approximately counting with approximate counters (Like Count-Min sketch but using less memory).
 * [crunch](https://github.com/superwhiskers/crunch) - Go package implementing buffers for handling various datatypes easily.
+* [cuckoo-filter](https://github.com/linvon/cuckoo-filter) - Cuckoo filter: a comprehensive cuckoo filter, which is configurable and space optimized compared with other implements, and all features mentioned in original paper is available.
 * [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - Cuckoo filter: a good alternative to a counting bloom filter implemented in Go.
 * [deque](https://github.com/edwingeng/deque) - A highly optimized double-ended queue.
 * [deque](https://github.com/gammazero/deque) - Fast ring-buffer deque (double-ended queue).
@@ -313,6 +315,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [mspm](https://github.com/BlackRabbitt/mspm) - Multi-String Pattern Matching Algorithm for information retrieval.
 * [nan](https://github.com/kak-tus/nan) - Zero allocation Nullable structures in one library with handy conversion functions, marshallers and unmarshallers.
 * [null](https://github.com/emvi/null) - Nullable Go types that can be marshalled/unmarshalled to/from JSON.
+* [ordered-concurrently](https://github.com/tejzpr/ordered-concurrently) - Go module that processes work concurrently and returns output in a channel in the order of input.
 * [parsefields](https://github.com/MonaxGT/parsefields) - Tools for parse JSON-like logs for collecting unique fields and events.
 * [pipeline](https://github.com/hyfather/pipeline) - An implementation of pipelines with fan-in and fan-out.
 * [ptrie](https://github.com/viant/ptrie) - An implementation of prefix tree.
@@ -356,6 +359,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [go-cache](https://github.com/pmylund/go-cache) - In-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 * [goleveldb](https://github.com/syndtr/goleveldb) - Implementation of the [LevelDB](https://github.com/google/leveldb) key/value database in Go.
 * [groupcache](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
+* [hare](https://github.com/jameycribbs/hare) - A simple database management system that stores each table as a text file of line-delimited JSON.
 * [immudb](https://github.com/codenotary/immudb) - immudb is a lightweight, high-speed immutable database for systems and applications written in Go.
 * [influxdb](https://github.com/influxdb/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 * [Kivik](https://github.com/go-kivik/kivik) - Kivik provides a common Go and GopherJS client library for CouchDB, PouchDB, and similar databases.
@@ -552,6 +556,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [go-mysql-lock](https://github.com/sanketplus/go-mysql-lock) - MySQL based distributed lock.
 * [go-pdu](https://github.com/pdupub/go-pdu) - A decentralized identity-based social network.
 * [go-sundheit](https://github.com/AppsFlyer/go-sundheit) - A library built to provide support for defining async service health checks for golang services.
+* [go-zero](https://github.com/tal-tech/go-zero) - A web and rpc framework. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 * [gorpc](https://github.com/valyala/gorpc) - Simple, fast and scalable RPC library for high load.
 * [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC.
 * [hprose](https://github.com/hprose/hprose-golang) - Very newbility RPC Library, support 25+ languages now.
@@ -1320,6 +1325,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [llb](https://github.com/kirillDanshin/llb) - It's a very simple but quick backend for proxy servers. Can be useful for fast redirection to predefined domain with zero memory allocation and fast response.
 * [mdns](https://github.com/hashicorp/mdns) - Simple mDNS (Multicast DNS) client/server library in Golang.
 * [mqttPaho](https://eclipse.org/paho/clients/golang/) - The Paho Go Client provides an MQTT client library for connection to MQTT brokers via TCP, TLS or WebSockets.
+* [nbio](https://github.com/lesismal/nbio) - High-performance, non-blocking, event-driven, easy-to-use, least-dependency networking framework written in Go.
 * [NFF-Go](https://github.com/intel-go/nff-go) - Framework for rapid development of performant network functions for cloud and bare-metal (former YANFF).
 * [packet](https://github.com/aerogo/packet) - Send packets over TCP and UDP. It can buffer messages and hot-swap connections if needed.
 * [panoptes-stream](https://github.com/yahoo/panoptes-stream) - A cloud native distributed streaming network telemetry (gNMI, Juniper JTI and Cisco MDT).
@@ -2099,7 +2105,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Gondola](https://github.com/rainycape/gondola) - The web framework for writing faster sites, faster.
 * [gongular](https://github.com/mustafaakin/gongular) - Fast Go web framework with input mapping/validation and (DI) Dependency Injection.
 * [goweb](https://github.com/twharmon/goweb) - Web framework with routing, websockets, logging, middleware, static file server (optional gzip), and automatic TLS.
-* [Goyave](https://github.com/System-Glitch/goyave) - Feature-complete web framework aimed at clean code and fast development, with powerful built-in functionalities.
+* [Goyave](https://github.com/go-goyave/goyave) - Feature-complete REST API framework aimed at clean code and fast development, with powerful built-in functionalities.
 * [hiboot](https://github.com/hidevopsio/hiboot) - hiboot is a high performance web application framework with auto configuration and dependency injection support.
 * [Macaron](https://github.com/go-macaron/macaron) - Macaron is a high productive and modular design web framework in Go.
 * [mango](https://github.com/paulbellamy/mango) - Mango is a modular web-application framework for Go, inspired by Rack, and PEP333.
@@ -2356,6 +2362,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 ### Other Software
 
 * [Better Go Playground](https://goplay.tools) - Go playground with syntax highlight, code completion and other features.
+* [blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features.
 * [borg](https://github.com/crufter/borg) - Terminal based search engine for bash snippets.
 * [boxed](https://github.com/tejo/boxed) - Dropbox based blog engine.
 * [Cherry](https://github.com/rafael-santiago/cherry) - Tiny webchat server in Go.
@@ -2422,6 +2429,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-benchmarks](https://github.com/tylertreat/go-benchmarks) - Few miscellaneous Go microbenchmarks. Compare some language features to alternative approaches.
 * [go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) - Go HTTP request router benchmark and comparison.
 * [go-json-benchmark](https://github.com/zerosnake0/go-json-benchmark) - Go JSON benchmark.
+* [go-ml-benchmarks](https://github.com/nikolaydubina/go-ml-benchmarks) - benchmarks for machine learning inference in Go.
 * [go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) - Go web framework benchmark.
 * [go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) - Benchmarks of Go serialization methods.
 * [gocostmodel](https://github.com/PuerkitoBio/gocostmodel) - Benchmarks of common basic operations for the Go language.

@@ -627,7 +627,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [Tree Mapper App](https://github.com/Plant-for-the-Planet-org/treemapper) - Tree Mapper extends the Plant-for-the-Planet App and allows on site coordinate submission during plantation.
 - [Sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
 - [Awesome Vegetation Index](https://github.com/px39n/Awesome-Vegetation-Index) - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
-
+- [biodivMapR](https://github.com/jbferet/biodivMapR) - An R package for α- and β-diversity mapping using remotely-sensed images.
 
 ### Ice and Poles
 
@@ -922,7 +922,8 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [Soil-Water-Balance](https://github.com/smwesten-usgs/swb) - A Modified Thornthwaite-Mather Soil-Water-Balance Code for Estimating Groundwater Recharge.
 - [Long-term Trends in Groundwater Levels in B.C.](https://github.com/bcgov/groundwater-levels-indicator) - R scripts for an indicator on long-term trends in groundwater levels in British Columbia published on Environmental Reporting British Columbia.
 - [GSFLOW](https://www.usgs.gov/software/coupled-ground-water-and-surface-water-flow-model-gsflow) - A coupled Groundwater and Surface-water FLOW model based on the integration of the USGS Precipitation-Runoff Modeling System and the USGS Modular Groundwater Flow Model.
-- [canwqdata](https://github.com/bcgov/canwqdata) - An R package to download open water quality data from Environment and Climate Change Canada’s National Long-term Water Quality Monitoring Data.
+- [canwqdata](https://github.com/bcgov/canwqdata) - An R package to download open water quality data from Environment and Climate Change Canada's National Long-term Water Quality Monitoring Data.
+- [HASP](https://github.com/USGS-R/HASP/issues) - Hydrologic AnalySis Package.
 
 ### Soil and Land
 
@@ -960,6 +961,8 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [STEP](http://step.esa.int/main/) - ESA is developing free open source toolboxes for the scientific exploitation of Earth Observation missions under the Scientific Exploitation of Operational Missions programme element.
 - [globsim](https://github.com/geocryology/globsim) - Using global reanalyses for permafrost simulation.
 - [rSFSW2](https://github.com/DrylandEcology/rSFSW2) - A R package to create soil water balance simulation experiment.
+- [landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) - Landscape Metrics for Categorical Map Patterns world_map in R.
+
 
 ## Agriculture and Nutrition
 
