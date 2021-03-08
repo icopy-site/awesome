@@ -291,6 +291,7 @@
 - [Dash](awesome/awesome-dash.md) - Python web app framework.
 - [FastAPI](awesome/awesome-fastapi.md) - Python web app framework.
 - [CDK](awesome/awesome-cdk.md) - Open-source software development framework for defining cloud infrastructure in code.
+- [IAM](awesome/awesome-iam.md) - User accounts, authentication and authorization.
 
 ## Computer Science
 
@@ -304,6 +305,7 @@
 	- [H2O](awesome/awesome-h2o.md) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
 	- [Software Engineering for Machine Learning](awesome/awesome-seml.md) - From experiment to production-level machine learning.
 	- [AI in Finance](awesome/awesome-ai-in-finance.md) - Solving problems in finance with machine learning.
+	- [JAX](awesome/awesome-jax.md) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
 - [Speech and Natural Language Processing](awesome/speech-language-processing.md)
 	- [Spanish](awesome/awesome-spanish-nlp.md)
 	- [NLP with Ruby](awesome/nlp-with-ruby.md)
@@ -527,6 +529,7 @@
 - [Wardley Maps](awesome/awesome-wardley-maps.md) - Provides high situational awareness to help improve strategic planning and decision making.
 - [Social Enterprise](awesome/awesome-social-enterprise.md) - Building an organization primarily focused on social impact that is at least partially self-funded.
 - [Engineering Team Management](awesome/awesome-engineering-team-management.md) - How to transition from software development to engineering management.
+- [Developer-First Products](awesome/awesome-developer-first.md) - Products that target developers as the user. 
 
 ## Work
 

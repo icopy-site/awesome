@@ -266,6 +266,7 @@ nav:
     - Dash: awesome/awesome-dash.md
     - FastAPI: awesome/awesome-fastapi.md
     - CDK: awesome/awesome-cdk.md
+    - IAM: awesome/awesome-iam.md
   - Computer Science:
     - University Courses: awesome/awesome-courses.md
     - Data Science: awesome/awesome-datascience.md
@@ -279,6 +280,7 @@ nav:
       - H2O: awesome/awesome-h2o.md
       - Software Engineering for Machine Learning: awesome/awesome-seml.md
       - AI in Finance: awesome/awesome-ai-in-finance.md
+      - JAX: awesome/awesome-jax.md
     - Speech and Natural Language Processing_sub: 
       - Spanish: awesome/awesome-spanish-nlp.md
       - NLP with Ruby: awesome/nlp-with-ruby.md
@@ -474,6 +476,7 @@ nav:
     - Wardley Maps: awesome/awesome-wardley-maps.md
     - Social Enterprise: awesome/awesome-social-enterprise.md
     - Engineering Team Management: awesome/awesome-engineering-team-management.md
+    - Developer-First Products: awesome/awesome-developer-first.md
   - Work:
     - Slack: awesome/awesome-slack.md
     - Slack_sub: 

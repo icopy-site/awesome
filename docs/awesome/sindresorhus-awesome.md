@@ -291,6 +291,7 @@
 - [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
 - [CDK](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
+- [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 
 ## Computer Science
 
@@ -304,6 +305,7 @@
 	- [H2O](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
 	- [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) - From experiment to production-level machine learning.
 	- [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
+	- [JAX](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
@@ -527,6 +529,7 @@
 - [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
 - [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - How to transition from software development to engineering management.
+- [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user. 
 
 ## Work
 
