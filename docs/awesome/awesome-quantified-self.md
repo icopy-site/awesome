@@ -44,6 +44,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 -  [Your life, uploaded: The digital way to better memory, health, and productivity](https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity-ebook/dp/B0043EV52G/) (2010) - Gordon Bell & Jim Gemmell
 - [The Quantified Self](https://www.amazon.com/Quantified-Self-Deborah-Lupton-ebook/dp/B01M0QCSF7/) (2016) - Deborah Lupton
 - [Self-Tracking](https://www.amazon.com/Self-Tracking-MIT-Press-Essential-Knowledge-ebook/dp/B01HNIVBZ4/) (2016) - Gina Neff & Dawn Nafus
+- [Everyday Data Science](https://www.amazon.com/dp/B08TZ1MT3W/ref=cm_sw_r_cp_apa_fabc_a0ceGbWECF9A8) (2021) - Andrew N Carr [(cheaper PDF version)](http://gum.co/everydaydata)
 
 ## Talks
 
@@ -81,7 +82,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 
 ### Automation
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and event triggering app (Android).
-- [Workflow](http://workflow.is/) - Powerful automation app (iOS).
+- [Apple Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) - Powerful automation app (iOS).
 - [If This Then That (IFTTT)](https://ifttt.com/) - Awesome conditional automation platform.
 - [Zapier](https://zapier.com/) - Automate tasks between apps.
 
@@ -211,6 +212,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Aidlab](https://www.aidlab.com/) - Smart and hackable wearable, compatible with special T-shirts and chest straps.
 - [Gadgetbridge](https://gadgetbridge.org/) - FOSS fitness tracker app for use with a wide variety of wearables.
 - [Dreem](https://dreem.com/) - Consumer-grade EEG used to monitor and optimize sleep; it also has pulse oxymeter, bone conduction audio, accelerometer and sonometer.
+- [Foci](https://fociai.com/) - Wearable (clip) that is automatically tracking focus, flow, relaxation, fatigue and stress.
 
 ## Research and Analysis
 

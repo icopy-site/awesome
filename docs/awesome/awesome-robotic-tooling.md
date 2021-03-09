@@ -920,6 +920,7 @@ to successfully design systems architecture.
 * [AUTOSAR-Adaptive](https://github.com/UmlautSoftwareDevelopmentAccount/AUTOSAR-Adaptive) - The implementation of AUTOSAR Adaptive Platform based on the R19-11.
 * [ocpp](https://github.com/NewMotion/ocpp) - The Open Charge Point Protocol (OCPP) is a network protocol for communication between electric vehicle chargers and a central backoffice system.
 * [micro-ROS for Arduino](https://github.com/micro-ROS/micro_ros_arduino) - A experimental micro-ROS library for baremetal projects based on Arduino IDE or Arduino CLI.
+* [mqtt_bridge](https://github.com/groove-x/mqtt_bridge) - Provides a functionality to bridge between ROS and MQTT in bidirectional.
 
 
 ### Ethernet and Wireless Networking
@@ -941,6 +942,7 @@ to successfully design systems architecture.
 * [openwifi](https://github.com/open-sdr/openwifi) - Linux mac80211 compatible full-stack IEEE802.11/Wi-Fi design based on Software Defined Radio.
 
 ### Controller Area Network
+* [awesome CAN](https://github.com/iDoka/awesome-canbus) -  A curated list of awesome CAN bus tools, hardware and resources.
 * [AndrOBD](https://github.com/fr3ts0n/AndrOBD) - Android OBD diagnostics with any ELM327 adapter.
 * [ddt4all](https://github.com/cedricp/ddt4all) - DDT4All is a tool to create your own ECU parameters screens and connect to a CAN network with a cheap ELM327 interface.
 * [cabana](https://github.com/commaai/cabana) - CAN visualizer and DBC maker.
