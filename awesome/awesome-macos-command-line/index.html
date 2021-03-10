@@ -11313,6 +11313,18 @@
 
 
   <li class="md-nav__item">
+    <a href="../awesome-translations/" title="Translations" class="md-nav__link">
+      Translations
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
     <a href="../topics-awesome.md" title="All Awesome Lists" class="md-nav__link">
       All Awesome Lists
     </a>
@@ -14448,6 +14460,8 @@ this can provide significant improvements in responsiveness and speed.
     <span class="k">if</span> <span class="s2">&quot;10.12&quot;</span> <span class="o">&lt;=</span> <span class="nv">os_version</span> <span class="k">then</span> <span class="k">set</span> <span class="nv">mail_version</span> <span class="k">to</span> <span class="s2">&quot;V4&quot;</span>
     <span class="k">if</span> <span class="s2">&quot;10.13&quot;</span> <span class="o">&lt;=</span> <span class="nv">os_version</span> <span class="k">then</span> <span class="k">set</span> <span class="nv">mail_version</span> <span class="k">to</span> <span class="s2">&quot;V5&quot;</span>
     <span class="k">if</span> <span class="s2">&quot;10.14&quot;</span> <span class="o">&lt;=</span> <span class="nv">os_version</span> <span class="k">then</span> <span class="k">set</span> <span class="nv">mail_version</span> <span class="k">to</span> <span class="s2">&quot;V6&quot;</span>
+    <span class="k">if</span> <span class="s2">&quot;10.15&quot;</span> <span class="o">&lt;=</span> <span class="nv">os_version</span> <span class="k">then</span> <span class="k">set</span> <span class="nv">mail_version</span> <span class="k">to</span> <span class="s2">&quot;V7&quot;</span>
+    <span class="k">if</span> <span class="s2">&quot;11&quot;</span> <span class="o">&lt;=</span> <span class="nv">os_version</span> <span class="k">then</span> <span class="k">set</span> <span class="nv">mail_version</span> <span class="k">to</span> <span class="s2">&quot;V8&quot;</span>
 <span class="k">end</span> <span class="k">considering</span>
 
 <span class="k">set</span> <span class="nv">sizeBefore</span> <span class="k">to</span> <span class="nb">do shell script</span> <span class="s2">&quot;ls -lnah ~/Library/Mail/&quot;</span> <span class="o">&amp;</span> <span class="nv">mail_version</span> <span class="o">&amp;</span> <span class="s2">&quot;/MailData | grep -E &#39;Envelope Index$&#39; | awk {&#39;print $5&#39;}&quot;</span>
@@ -15680,7 +15694,10 @@ sudo fdesetup disable
 
 <h3 id="installation">Installation<a class="headerlink" href="#installation" title="Permanent link">&para;</a></h3>
 <h4 id="create-bootable-installer">Create Bootable Installer<a class="headerlink" href="#create-bootable-installer" title="Permanent link">&para;</a></h4>
-<div class="codehilite"><pre><span></span><span class="c1">## macOS 10.15 (Catalina)</span>
+<div class="codehilite"><pre><span></span><span class="c1">## macOS 11 (Big Sur)</span>
+sudo /Applications/Install<span class="se">\ </span>macOS<span class="se">\ </span>Big<span class="se">\ </span>Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets
+
+<span class="c1">## macOS 10.15 (Catalina)</span>
 sudo /Applications/Install<span class="se">\ </span>macOS<span class="se">\ </span>Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets
 
 <span class="c1">## macOS 10.14 (Mojave)</span>
