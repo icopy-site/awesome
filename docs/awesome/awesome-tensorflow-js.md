@@ -62,6 +62,8 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 
 - [Hands-On Machine Learning with TensorFlow.js](https://www.amazon.com/Hands-Machine-Learning-TensorFlow-js-applications/dp/1838821732) - A guide to building ML applications integrated with web technology using the TensorFlow.js library by Kai Sasaki.
 
+- [Learning Tensorflow.js: Powerful Machine Learning in JavaScript](https://amzn.to/3dR3vpY) - In this guide, author [Gant Laborde](https://github.com/gantman) provides a hands-on, end-to-end approach to TensorFlow.js fundamentals for a broad technical audience that includes data scientists, engineers, web developers, students, and researchers.
+
 
 ### Blog & Posts
 
