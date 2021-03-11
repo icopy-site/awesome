@@ -444,6 +444,7 @@
 - [NoSQL Guides](awesome/awesome-nosql-guides.md) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 - [Contexture](awesome/awesome-contexture.md) - Abstracts queries/filters and results/aggregations from different backing data stores like ElasticSearch and MongoDB.
 - [Database Tools](awesome/awesome-db-tools.md) - Everything that makes working with databases easier.
+- [Grakn](awesome/awesome.md) - Logical database to organize large and complex networks of data as one body of knowledge.
 
 ## Media
 
@@ -586,6 +587,7 @@
 - [JMeter](awesome/awesome-jmeter.md) - Load testing and performance measurement tool.
 - [k6](awesome/awesome-k6.md) - Open-source, developer-centric performance monitoring and load testing solution.
 - [Playwright](awesome/awesome-playwright.md) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+- [Quality Assurance Roadmap](awesome/awesome-quality-assurance-roadmap.md) - How to start & build a career in software testing.
 
 ## Miscellaneous
 

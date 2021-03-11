@@ -404,6 +404,7 @@ nav:
     - NoSQL Guides: awesome/awesome-nosql-guides.md
     - Contexture: awesome/awesome-contexture.md
     - Database Tools: awesome/awesome-db-tools.md
+    - Grakn: awesome/graknlabs-awesome.md
   - Media:
     - Creative Commons Media: awesome/creative-commons-media.md
     - Fonts: awesome/awesome-fonts.md
@@ -521,6 +522,7 @@ nav:
     - JMeter: awesome/awesome-jmeter.md
     - k6: awesome/awesome-k6.md
     - Playwright: awesome/awesome-playwright.md
+    - Quality Assurance Roadmap: awesome/awesome-quality-assurance-roadmap.md
   - Miscellaneous:
     - JSON: awesome/awesome-json.md
     - JSON_sub: 
