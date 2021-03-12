@@ -218,7 +218,6 @@ nav:
     - Preact: awesome/awesome-preact.md
     - Progressive Enhancement: awesome/progressive-enhancement-resources.md
     - Next.js: awesome/awesome-nextjs.md
-    - Hyperapp: awesome/awesome-hyperapp.md
     - lit-html: awesome/awesome-lit-html.md
     - JAMstack: awesome/awesome-jamstack.md
     - WordPress-Gatsby: awesome/awesome-wordpress-gatsby.md
@@ -327,7 +326,6 @@ nav:
     - Recursion Schemes: awesome/awesome-recursion-schemes.md
   - Books:
     - Free Programming Books: awesome/free-programming-books.md
-    - Free Software Testing Books: awesome/awesome-software-quality.md
     - Go Books: awesome/GoBooks.md
     - R Books: awesome/rbooks.md
     - Mind Expanding Books: awesome/Mind-Expanding-Books.md
@@ -365,7 +363,7 @@ nav:
     - Dev Env: awesome/awesome-devenv.md
     - Dotfiles: awesome/awesome-dotfiles.md
     - Shell: awesome/awesome-shell.md
-    - Fish: awesome/awesome-fish.md
+    - Fish: awesome/awsm.fish.md
     - Command-Line Apps: awesome/awesome-cli-apps.md
     - ZSH Plugins: awesome/awesome-zsh-plugins.md
     - GitHub: awesome/awesome-github.md
@@ -508,7 +506,6 @@ nav:
     - Computational Neuroscience: awesome/awesome-computational-neuroscience.md
     - Digital History: awesome/awesome-digital-history.md
     - Scientific Writing: awesome/awesome-scientific-writing.md
-    - Sustainable Technology: awesome/awesome-sustainable-technology.md
   - Events:
     - Creative Tech Events: awesome/awesome-creative-tech-events.md
     - Events in Italy: awesome/awesome-italy-events.md

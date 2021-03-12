@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="teoga/awesome-product-design"></div>
+<div class="github-widget" data-repo="matttga/awesome-product-design"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Product Design [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
@@ -10,7 +10,7 @@
 
 [Digital product design](https://en.wikipedia.org/wiki/Digital_product_design) is an iterative design process to solve a functional problem with a formal solution. A digital product designer identifies a real problem, offers the best possible solution, and launch it to a market that is showing demand for that particular solution.
 
-Feel free to [add something interesting](https://github.com/teoga/awesome-product-design/blob/master/contributing.md) by pull request.
+Feel free to [add something interesting](https://github.com/matttga/awesome-product-design/blob/master/contributing.md) by pull request.
 
 
 ## Research

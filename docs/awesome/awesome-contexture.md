@@ -1,10 +1,10 @@
-<div class="github-widget" data-repo="ltchris/awesome-contexture"></div>
+<div class="github-widget" data-repo="chrislatorres/awesome-contexture"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Contexture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > [Contexture](https://github.com/smartprocure/contexture) abstracts queries/filters and results/aggregations from different backing data stores like ElasticSearch and MongoDB.
 
-[<img src="https://raw.githubusercontent.com/ltchris/awesome-contexture/master/contexture.png" align="center" width="1000">](https://github.com/smartprocure/contexture)
+[<img src="https://raw.githubusercontent.com/chrislatorres/awesome-contexture/master/contexture.png" align="center" width="1000">](https://github.com/smartprocure/contexture)
 
 Contexture is a tool for running the Contexture DSL, which is primarily about **abstracting queries/filters** and **results/aggregrations**. Each leaf node in a Contexture Tree can affect other leaf nodes (e.g., acting as a filter) and has results of it's own which are affected by the other nodes. Non leaf nodes describe how leaves relate to each other, e.g. as a boolean join of and/or. Contexture can use different backing data stores such as MongoDB and ElasticSearch.
 
@@ -53,4 +53,4 @@ This page represents a curated list of Contexture websites, libraries, and resou
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/ltchris/awesome-contexture/blob/master/contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/chrislatorres/awesome-contexture/blob/master/contributing.md) first.

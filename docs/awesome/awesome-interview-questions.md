@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="MaximAbramchuck/awesome-interview-questions"></div>
+<div class="github-widget" data-repo="DopplerHQ/awesome-interview-questions"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">	
 	<p>	
@@ -7,8 +7,8 @@
 				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="260"  alt="Doppler">	
 			</div>	
       <br>
-			<b>Secrets management, for developers</b>	
-			<div>Stop struggling with scattered environment variables, hacking together home-brewed tools,</div>
+			<b>All your environment variables, in one place</b>	
+			<div>Stop struggling with scattered API keys, hacking together home-brewed tools,</div>
 			<div>and avoiding access controls. Keep your team and servers in sync with Doppler.</div>
 			</br>
 		</a>	
@@ -19,9 +19,9 @@
 
 > A curated list of lists of technical interview questions.
 
-[What makes for an awesome list?](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/awesome.md)
+[What makes for an awesome list?](https://github.com/DopplerHQ/awesome-interview-questions/blob/master/awesome.md)
 
-Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/contributing.md) or the [creating a list guide](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/create-list.md) if you want to contribute.
+Please read the [contribution guidelines](https://github.com/DopplerHQ/awesome-interview-questions/blob/master/contributing.md) or the [creating a list guide](https://github.com/DopplerHQ/awesome-interview-questions/blob/master/create-list.md) if you want to contribute.
 
 
 

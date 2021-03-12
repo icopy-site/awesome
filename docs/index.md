@@ -244,7 +244,6 @@
 - [Preact](awesome/awesome-preact.md) - App framework.
 - [Progressive Enhancement](awesome/progressive-enhancement-resources.md)
 - [Next.js](awesome/awesome-nextjs.md) - Framework for server-rendered React apps.
-- [Hyperapp](awesome/awesome-hyperapp.md) - Tiny JavaScript library for building web apps.
 - [lit-html](awesome/awesome-lit-html.md) - HTML templating library for JavaScript.
 - [JAMstack](awesome/awesome-jamstack.md) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
 - [WordPress-Gatsby](awesome/awesome-wordpress-gatsby.md) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
@@ -356,7 +355,6 @@
 ## Books
 
 - [Free Programming Books](awesome/free-programming-books.md)
-- [Free Software Testing Books](awesome/awesome-software-quality.md)
 - [Go Books](awesome/GoBooks.md)
 - [R Books](awesome/rbooks.md)
 - [Mind Expanding Books](awesome/Mind-Expanding-Books.md)
@@ -401,7 +399,7 @@
 - [Dev Env](awesome/awesome-devenv.md)
 - [Dotfiles](awesome/awesome-dotfiles.md)
 - [Shell](awesome/awesome-shell.md)
-- [Fish](awesome/awesome-fish.md) - User-friendly shell.
+- [Fish](awesome/awsm.fish.md) - User-friendly shell.
 - [Command-Line Apps](awesome/awesome-cli-apps.md)
 - [ZSH Plugins](awesome/awesome-zsh-plugins.md)
 - [GitHub](awesome/awesome-github.md) - Hosting service for Git repositories.
@@ -530,7 +528,7 @@
 - [Wardley Maps](awesome/awesome-wardley-maps.md) - Provides high situational awareness to help improve strategic planning and decision making.
 - [Social Enterprise](awesome/awesome-social-enterprise.md) - Building an organization primarily focused on social impact that is at least partially self-funded.
 - [Engineering Team Management](awesome/awesome-engineering-team-management.md) - How to transition from software development to engineering management.
-- [Developer-First Products](awesome/awesome-developer-first.md) - Products that target developers as the user. 
+- [Developer-First Products](awesome/awesome-developer-first.md) - Products that target developers as the user.
 
 ## Work
 
@@ -542,7 +540,6 @@
 - [Programming Interviews](awesome/awesome-interview-questions.md)
 - [Code Review](awesome/awesome-code-review.md) - Reviewing code.
 - [Creative Technology](awesome/awesome-creative-technology.md) - Businesses & groups that specialize in combining computing, design, art, and user experience.
-
 
 ## Networking
 
@@ -569,7 +566,6 @@
 - [Computational Neuroscience](awesome/awesome-computational-neuroscience.md) - A multidisciplinary science which uses computational approaches to study the nervous system.
 - [Digital History](awesome/awesome-digital-history.md) - Computer-aided scientific investigation of history.
 - [Scientific Writing](awesome/awesome-scientific-writing.md) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
-- [Sustainable Technology](awesome/awesome-sustainable-technology.md) - Open technology sustaining stable climate, energy supply, and vital natural resources.
 
 ## Events
 
