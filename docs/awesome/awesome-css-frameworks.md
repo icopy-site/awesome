@@ -119,12 +119,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/franciscop/picnic)
   | #SCSS
 
-- [**Wing**](https://kbrsh.github.io/wing/) - Beautiful CSS framework designed for minimalists.  
-  ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
-  [Docs](https://kbrsh.github.io/wing/#installation),
-  [Repo](https://github.com/kbrsh/wing)
-  | #Stylus
-
 - [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.  
   ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
   [Repo](https://github.com/jenil/chota)
@@ -245,12 +239,6 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social&label=Star)
   [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
   [Repo](https://github.com/muicss/mui)
-  | #SCSS
-
-- [**Propeller**](https://propeller.in) - Front-end responsive framework based on Google's Material Design standards & Bootstrap.  
-  ![](https://img.shields.io/github/stars/digicorp/propeller.svg?style=social&label=Star)
-  [Docs](https://propeller.in/get-started/),
-  [Repo](https://github.com/digicorp/propeller)
   | #SCSS
 
 
@@ -378,9 +366,11 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo](https://github.com/mobi-css/mobi.css)
   | #CSS
 
-- [**Pills**](http://arkpod.in/pills/) - Simple responsive CSS Grid for humans.  
-  ![](https://img.shields.io/github/stars/rohitkrai03/pills.svg?style=social&label=Star)
-  [Repo](https://github.com/rohitkrai03/pills)
+- [**Wing**](https://kbrsh.github.io/wing/) - Beautiful CSS framework designed for minimalists.  
+  ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
+  [Docs](https://kbrsh.github.io/wing/#installation),
+  [Repo](https://github.com/kbrsh/wing)
+  | #Stylus
 
 - [**Cutestrap**](https://www.cutestrap.com) - Sassy, opinionated CSS framework, a tiny alternative to Bootstrap.  
   ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social&label=Star)
@@ -392,10 +382,10 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://unsemantic.com/css-documentation),
   [Repo](https://github.com/nathansmith/unsemantic)
 
-- [**Kube**](https://imperavi.com/kube/) - Web framework for professional developers and designers.  
-  ![](https://img.shields.io/github/stars/imperavi/kube.svg?style=social&label=Star)
-  [Docs](https://imperavi.com/kube/docs/),
-  [Repo](https://github.com/imperavi/kube)
+- [**Propeller**](https://propeller.in) - Front-end responsive framework based on Google's Material Design standards & Bootstrap.  
+  ![](https://img.shields.io/github/stars/digicorp/propeller.svg?style=social&label=Star)
+  [Docs](https://propeller.in/get-started/),
+  [Repo](https://github.com/digicorp/propeller)
   | #SCSS
 
 - [**Concise CSS**](http://concisecss.com) - Give up the bloat. Stop tripping over your classes. Be concise.  
@@ -403,10 +393,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](http://concisecss.com/documentation/),
   [Repo](https://github.com/ConciseCSS/concise.css)
   | #SCSS
-
-- [**Scooter**](http://dropbox.github.io/scooter/) - SCSS framework & UI library for Dropbox web.  
-  ![](https://img.shields.io/github/stars/dropbox/scooter.svg?style=social&label=Star)
-  [Repo](https://github.com/dropbox/scooter)
 
 - [**Responsive Boilerplate**](http://responsivebp.com) - Powerful, accessible, developer friendly framework for building responsive websites.  
   ![](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=social&label=Star)
