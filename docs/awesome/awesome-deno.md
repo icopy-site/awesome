@@ -107,6 +107,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [evt](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 - [expect](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
+- [forwarded](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
 - [fossil](https://github.com/matteocrippa/fossil) - A value-type validation suite.
 - [gardens](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
 - [garn-yaml](https://github.com/jupegarnica/garn-yaml) - Read or write yaml interpolating env variables.
@@ -117,7 +118,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [lazy](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
 - [log](https://github.com/denoland/deno_std/tree/master/log) - Logging module for Deno.
 - [marked](https://github.com/denolib/marked/) - Markdown-to-HTML converter.
-- [maze_generator](https://github.com/thewizardbear/maze_generator) - Javascript module for generating, solving, analyzing and displaying mazes.
+- [maze_generator](https://github.com/mjrlowe/maze_generator) - Javascript module for generating, solving, analyzing and displaying mazes.
 - [merlin](https://github.com/crewdevio/merlin) - Testing and Benchmarking framework for deno 🧙‍♂️
 - [microraptor](https://github.com/matteocrippa/microraptor) - Lightweight framework for easy network routing with validation.
 - [ms](https://github.com/denolib/ms) - Easily convert various time formats to milliseconds.
@@ -146,6 +147,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [status](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
 - [superdeno](https://github.com/asos-craigmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
 - [superoak](https://github.com/asos-craigmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
+- [terminal_images)(https://github.com/mjrlowe/terminal_images) -  A Deno module and CLI tool for displaying images in the terminal. 
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
 - [time.ts](https://github.com/burhanahmeed/time.ts) - Time.ts - A straightforward Deno timezone manipulation
 - [ts-prometheus](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
@@ -238,6 +240,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Creating a Web Application using Deno](https://www.loginradius.com/engineering/blog/a-webapp-in-deno/)
 - [Read and Write in a local file with Deno](https://www.loginradius.com/engineering/blog/read-and-write-in-a-local-file-with-deno/)
 - [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
+- [Test coverage in Deno with Codecov and GitHub Actions](https://v1rtl.site/blog/coverage-in-deno)
 
 ## Presentations
 
