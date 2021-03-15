@@ -164,21 +164,21 @@ A lightweight plugin manager for ZSH based on zgen. It is a superset of the bril
 
 **Zinit** is an innovative and probably (because of the Turbo) the [fastest](https://github.com/zdharma/pm-perf-test) plugin manager with support for:
 
-- [Turbo mode](http://zdharma.org/zinit/wiki/INTRODUCTION/#turbo_mode_zsh_62_53) – 80% faster Zsh startup! for example: instead of 200 ms, it'll be 40 ms,
+- Turbo mode – 80% faster Zsh startup! for example: instead of 200 ms, it'll be 40 ms,
 - completion management (selectively disable and enable completions),
 - snippets (↔ regular files downloaded via-URL, e.g.: scripts) and through them Oh My Zsh and Prezto plugins support (→ low overhead),
-- annexes (↔ Zinit [extensions](https://github.com/zinit-zsh)),
+- annexes (↔ Zinit extensions),
 - reports (from the plugin loads – plugins are no longer black boxes),
 - plugin unloading (allows e.g.: dynamic theme switching),
-- `bindkey` [capturing and remapping](https://zdharma.org/zinit/wiki/Bindkeys/#using_the_upar_etc_shorthands),
+- `bindkey` capturing and remapping,
 - [packages](https://github.com/Zsh-Packages),
-- clean fpath (the array `$fpath` is not being used to add completions and autoload functions, hence it stays concise, not bloated),
+- clean `fpath` (the array `$fpath` is not being used to add completions and autoload functions, hence it stays concise, not bloated),
 - [services](https://github.com/zservices) ↔ a single-instance, background plugins,
-- also, in general: all the mechanisms from the [Zsh Plugin Standard](http://zdharma.org/Zsh-100-Commits-Club/Zsh-Plugin-Standard.html) – Zinit is a reference implementation of the standard.
+- also, in general: all the mechanisms from the Zsh Plugin Standard – Zinit is a reference implementation of the standard.
 
 Bonus: you can use [zinit-console](https://github.com/zinit-zsh/zinit-console) to view and change the state of the ZSH session (e.g.: list and unload plugins) and to delete the plugins and snippets from the disk.
 
-The project is very active – currently > 3000 commits.
+The project is very active – currently > 3100 commits.
 
 ### [zit](https://github.com/thiagokokada/zit)
 
@@ -427,6 +427,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 * [bitbucket-git-helpers](https://github.com/unixorn/bitbucket-git-helpers.plugin.zsh) - Adds helper scripts to allow you to create bitbucket PRs or open a directory in the current branch.
 * [blackbox](https://github.com/StackExchange/blackbox) - [Stack Exchange](https://stackexchange.com)'s toolkit for storing keys/credentials securely in a `git` repository.
 * [bofh](https://github.com/fundor333/bofh) - Adds functions to display random bofh fortunes.
+* [bol](https://github.com/ikhurramraza/bol) - Prints a random quote when you open a terminal window.
 * [boss-docker](https://github.com/bossjones/boss-docker-zsh-plugin) - Manages `docker` on OSX.
 * [boss-git](https://github.com/bossjones/boss-git-zsh-plugin) - Adds some convenience aliases for `git`.
 * [branch-manager](https://github.com/elstgav/branch-manager) - A plugin for managing `git` branches.

@@ -133,6 +133,12 @@ This book is designed to introduce you to writing programs with the Go programmi
 
 This downloadable ebook is an interactive introduction to the Go programming language, suitable for complete beginners. It introduces the Test-Driven Development (TDD) workflow in Go and guides you through implementing a complete Go package, test-first. You'll learn about testing with multiple cases, and how to test functions which can return errors.
 
+### [The Go Workshop](https://www.packtpub.com/product/the-go-workshop/9781838647940)
+
+<a href="https://www.packtpub.com/product/the-go-workshop/9781838647940"><img src="https://images-na.ssl-images-amazon.com/images/I/61ibSG7yEXL.jpg" width="120px"/></a>
+
+The Go Workshop will take the pain out of learning the Go programming language (also known as Golang). It is designed to teach you to be productive in building real-world software. Presented in an engaging, hands-on way, this book focuses on the features of Go that are used by professionals in their everyday work.
+
 **Advanced Books**
 ---
 
@@ -160,7 +166,7 @@ This book will take you through the history of concurrency, how Go utilizes it, 
 
 ### [Go in Practice](http://www.manning.com/butcher/)
 
-<img src="http://www.manning.com/butcher/butcher_cover150.jpg" width="120px"/>
+<img src="https://images.manning.com/360/480/resize/book/4/cd81ad9-b07a-4f57-8aa2-9b4c8cede836/Butcher-GoinP-HI.png" width="120px"/>
 
 Go in Practice guides you through dozens of real-world techniques in key areas like package management, microservice communication, and more. Following a cookbook-style Problem/Solution/Discussion format, this practical handbook builds on the foundational concepts of the Go language and introduces specific strategies you can use in your day-to-day applications. You'll learn techniques for building web services, using Go in the cloud, testing and debugging, routing, network applications, and much more.
 
@@ -253,7 +259,7 @@ At each step, you’ll get advice for better coding in Go. You’ll see how to s
 
 ### [Go Web Programming](http://www.manning.com/chang/)
 
-<img src="http://www.manning.com/chang/chang_cover150.jpg" width="120px"/>
+<img src="https://images.manning.com/360/480/resize/book/9/908c77b-4a21-488b-b992-cf2ddeb678f0/Chang-GWP-HI.png" width="120px"/>
 
 Go Web Programming teaches you how to build web applications in Go using modern design principles. You'll work through numerous examples that introduce core concepts like processing requests and sending responses, template engines, and data persistence. You'll also dive into more advanced topics, such as concurrency, web application testing and deployment both to barebones servers and PaaS providers.
 
@@ -309,6 +315,15 @@ The Go programming language is a simple one, but like all other languages it has
 
 This book contains 25 mind bending quizzes and answers. You can view a sample chapter [here](https://www.353solutions.com/go-brain-teasers).
 
+### [Creative DIY Microcontroller Projects with TinyGo and WebAssembly](https://www.packtpub.com/product/creative-diy-microcontroller-projects-with-tinygo-and-webassembly/9781800560208)
+
+<img src="https://static.packt-cdn.com/products/9781800560208/cover/smaller" width="120px"/>
+
+While often considered a fast and compact programming language, Go usually creates large executables that are difficult to run on low-memory or low-powered devices such as microcontrollers or IoT. TinyGo is a new compiler that allows developers to compile their programs for such low-powered devices. As TinyGo supports all the standard features of the Go programming language, you won't have to tweak the code to fit on the microcontroller.
+
+This book is a hands-on guide packed full of interesting DIY projects that will show you how to build embedded applications. You will learn how to program sensors and work with microcontrollers such as Arduino UNO and Arduino Nano IoT 33. The chapters that follow will show you how to develop multiple real-world embedded projects using a variety of popular devices such as LEDs, 7-segment displays, and timers. Next, you will progress to build interactive prototypes such as a traffic lights system, touchless hand wash timer, and more. As you advance, you’ll create an IoT prototype of a weather alert system and display those alerts on the TinyGo WASM dashboard. Finally, you will build a home automation project that displays stats on the TinyGo WASM dashboard.
+
+By the end of this microcontroller book, you will be equipped with the skills you need to build real-world embedded projects using the power of TinyGo.
 
 Resources
 ====
