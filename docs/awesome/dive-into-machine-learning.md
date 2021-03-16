@@ -9,16 +9,6 @@
 
 I learned Python by hacking first, and getting serious *later.* I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself.
 
-<br/>
-
-## Does your employer support your growth?
-
-If you're reading this guide, you like to learn by doing. Your employer should give you projects in line with your strengths and interests. If not, you owe it to yourself to move on!
-
-<a href="https://triplebyte.com/a/POPZ5Di/diveintomachinelearning"><img align="right" src="https://user-images.githubusercontent.com/2420688/67127456-3f4b1700-f1ae-11e9-8cad-371212258d5c.png" width="300"  alt="Triplebyte"></a> <a href="https://triplebyte.com/a/POPZ5Di/diveintomachinelearning">Take the Triplebyte coding quiz and **let the jobs come to you. Remote OK!** You can support <i>Dive Into Machine Learning</i> by using my link.</a>
-
-<br/>
-
 ## Let's get started
 
 I suggest you get your feet wet to start. You'll boost your confidence.
@@ -238,6 +228,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 You can learn more by studying one of the following resources. Both resources use Python, [PyMC](https://github.com/pymc-devs/pymc), and Jupyter Notebooks.
 * The **free book,** _[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)._ Made with a "computation/understanding-first, mathematics-second point of view." It's available in print too!
 * [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
+* Like learning by playing? Me too. Try [19 Questions](https://github.com/fulldecent/19-questions), "a machine learning game which asks you questions and guesses an object you are thinking about," and **explains which Bayesian statistics techniques are being used.**
 
 ## Risks
 

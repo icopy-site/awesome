@@ -60,10 +60,10 @@ Wikipedia is a great place to explore and find related topics.
   * A history of social enterprises from a UK perspective.
 
 ### Books 📚
+
 | Title | Author | Year | Notes |
 |-------|--------|------|-------|
 | Social Entrepreneurship: What Everyone Needs To Know | David Bornstein | 2010 | Great introduction to social entrepreneurship. Short and sweet with lots of great answers to common questions. |
-|       |        |      |       |
 
 ## Podcasts 🎧
 * [The Tech Matters Podcast](https://techmatters.org/introducing-the-tech-matters-podcast/) - Talking about social enterprise structure and interviewing folks running them. Hosted by social entreprenur and engineer [Jim Fruchterman](https://en.wikipedia.org/wiki/Jim_Fruchterman).
@@ -117,6 +117,7 @@ Academic institutions researching social enterprise:
 * [How social entrepreneurship will change the world](https://www.youtube.com/watch?v=KrQuGTvwl0s) - Inspiring TEDx talk by Erica Wenger about social enterprises.
 
 ### Movies 🎥
+
 | Title | Year | Notes |
 |-------|------|-------|
 | The Social Shift | 2018 | Four young adults travel across Canada interviewing social entrepreneurs. |
@@ -220,3 +221,5 @@ A: Wikipedia is meant to contain information that's encyclopedic in nature. Mean
   * An Army of Problem Solvers by Shaun Loney
   * Introduction to Social Entrepreneurship by Teresa Chahine
   * Educating at Scale for Sustainable Development and Social Enterprise Growth by Sara Calvo 
+
+<script async data-id="1fc566b4-8dda-4926-ad18-22bb88e42ecc" src="https://tinyads.io/e"></script>
