@@ -393,6 +393,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [block_timer](https://github.com/adamkittelson/block_timer) - Macros to use :timer.apply_after and :timer.apply_interval with a block.
 * [calendar](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
+* [calendarific](https://github.com/Bounceapp/elixir-calendarific) - Calendarific is a wrapper for the holiday API Calendarific.
 * [calixir](https://github.com/rengel-de/calixir) - Calixir is a port of the Lisp calendar software calendrica-4.0 to Elixir.
 * [chronos](https://github.com/nurugger07/chronos) - An Elixir date/time library.
 * [cocktail](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
@@ -1404,6 +1405,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ltsvex](https://github.com/ma2gedev/ltsvex) - LTSV parser implementation in Elixir.
 * [mbcs](https://github.com/woxtu/elixir-mbcs) - Wrapper for erlang-mbcs. This module provides functions for character encoding conversion.
 * [mimetype_parser](https://github.com/camshaft/mimetype_parser) - parse mimetypes.
+* [minigen](https://github.com/mrdimosthenis/minigen) - Random data generators for the Erlang ecosystem.
 * [monetized](https://github.com/theocodes/monetized) - A lightweight solution for handling and storing money.
 * [money](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 * [mt940](https://github.com/my-flow/mt940) - MT940 (standard structured SWIFT Customer Statement message) parser for Elixir.

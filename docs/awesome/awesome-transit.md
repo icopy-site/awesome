@@ -262,6 +262,7 @@ Converters from various static schedule formats to and from GTFS.
 - [tidytransit](https://github.com/r-transit/tidytransit) (formerly [bustt](https://github.com/r-transit/bustt)) - Reads GTFS data into tidyverse and simple features dataframes to map transit stops and routes, calculate transit frequencies, and validate transit feeds.  tidytransit is a [fork](https://en.wikipedia.org/wiki/Fork_\(software_development\)) of [gtfsr](https://github.com/ropensci/gtfsr), published to [CRAN](https://cran.r-project.org/), with frequency/headway calculation functions. 
 - [transitr](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
 - [Busbuzzard](https://github.com/bmander/busbuzzard) - Inference of probabilistic schedules from empirical data about transit vehicles.
+- [ESRI ArcGIS Public Transit Tools (GTFS)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS
 
 #### GTFS Timetable Publishing Tools
 
@@ -335,6 +336,8 @@ Converters from various static schedule formats to and from GTFS.
 - [gtfs-rt-differential-to-full-dataset](https://github.com/derhuerst/gtfs-rt-differential-to-full-dataset) – Javascript tool to transform a continuous GTFS Realtime stream of `DIFFERENTIAL` incrementality data into a `FULL_DATASET` dump.
 - [gtfs-rt-admin](https://github.com/conveyal/gtfs-rt-admin) - An admin tool for managing GTFS-RT service alerts (JavaScript and Java).
 - [manual-gtfsrt](https://github.com/pailakka/manual-gtfsrt) - A Go-based tool that serves a GTFS-RT feed created from editable JSON.
+- [Transit Network Model](https://github.com/tmelliott/TransitNetworkModel) - A tool to generate predictions using GTFS-realtime VehiclePositions, a particle filter, and a Kalman Filter.
+- [bus_kalman](https://github.com/cmoscardi/bus_kalman) - A Kalman Filter used to interpolate bus travel times using NYC MTA real-time data.
 
 ### SIRI
 
