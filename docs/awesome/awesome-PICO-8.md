@@ -26,14 +26,14 @@
 - [#pico8 on Twitter](https://twitter.com/hashtag/pico8)
 - [#pico8 on Freenode](https://webchat.freenode.net/?randomnick=1&channels=#pico8&prompt=1)
 - [Pico-8 Console News](https://twitter.com/pico8console)
-- [Pico-8 Wiki](http://pico-8.wikia.com/wiki/Pico-8_Wikia)
+- [Pico-8 Wiki](https://pico-8.wikia.com/wiki/Pico-8_Wikia)
 - [Slack Team](https://slofile.com/slack/pico-8) - PICO-8 Slack chat.
 - [Discord Server](https://discord.gg/EwQ86eq) - PICO-8 Discord chat.
 
 ## DemoScene
 
 - [Pico-8 demos on Demozoo](https://demozoo.org/platforms/81/) 
-- [Pico-8 demos on Pouet](http://www.pouet.net/prodlist.php?platform%5B%5D=PICO-8) 
+- [Pico-8 demos on Pouet](https://www.pouet.net/prodlist.php?platform%5B%5D=PICO-8) 
 - [Article with demoscene effects code](https://medium.com/swlh/creativity-through-limitation-pico-8-fantasy-console-175294e13332) 
 - [Pico-8 demos on Youtube](https://www.youtube.com/results?search_query=pico+8+demoscene) 
 
@@ -84,7 +84,8 @@
 - [midi2pico](https://github.com/gamax92/midi2pico) - A MIDI to PICO-8 converter.
 - [Custom template](https://www.lexaloffle.com/bbs/?tid=31000) - A simple and clean template, that fixes issues with fullscreen, mouse and just looks nice.
 - [Fillp Tool](https://seansleblanc.itch.io/pico-8-fillp-tool) - A simple helper tool for generating fillp patterns.
-- [Depict](https://bikibird.itch.io/depict) - Converts image into a dithered image using PICO-8 colors and reduces it to a maximum size of 128 x 128. 
+- [Depict](https://bikibird.itch.io/depict) - Converts image into a dithered image using PICO-8 colors and reduces it to a maximum size of 128 x 128.
+- [picoCAD](https://johanpeitz.itch.io/picocad) - A PICO-8 program to build and texture lowpoly 3D models.
 
 ## Text Editors Language Support
 
@@ -117,11 +118,6 @@ How to install the font(s):
 ## Articles & Posts
 
 - [Indie Retro News](https://www.indieretronews.com/2015/10/pico-8-8-bit-fantasy-console-from.html) - A great introduction to PICO-8 by [@ABrugsch](https://twitter.com/ABrugsch).
-- [Clear Code](http://blog.jvscott.net/post/128051478244/clear-code) - 3 part series on how to write better pico-8 code.
-
-## Podcasts
-
-- [pico chat](http://pico.electrobureau.com/) - A bite-sized podcast about Pico-8 and other tiny games.
 
 ## Talks
 
