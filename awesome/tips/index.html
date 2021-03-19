@@ -5447,8 +5447,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#prunes-references-to-remote-branches-that-have-been-deleted-in-the-remote" class="md-nav__link">
-    Prunes references to remote branches that have been deleted in the remote.
+  <a href="#prunes-references-to-remove-branches-that-have-been-deleted-in-the-remote" class="md-nav__link">
+    Prunes references to remove branches that have been deleted in the remote.
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#delete-local-branches-that-has-been-squash-and-merged-in-the-remote" class="md-nav__link">
+    Delete local branches that has been squash and merged in the remote.
   </a>
   
 </li>
@@ -6014,15 +6021,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#list-all-git-variable" class="md-nav__link">
-    List all Git variable.
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#show-a-git-specific-variable" class="md-nav__link">
-    Show a Git specific variable.
+  <a href="#show-a-git-logical-variable" class="md-nav__link">
+    Show a Git logical variable.
   </a>
   
 </li>
@@ -10103,8 +10103,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#prunes-references-to-remote-branches-that-have-been-deleted-in-the-remote" class="md-nav__link">
-    Prunes references to remote branches that have been deleted in the remote.
+  <a href="#prunes-references-to-remove-branches-that-have-been-deleted-in-the-remote" class="md-nav__link">
+    Prunes references to remove branches that have been deleted in the remote.
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#delete-local-branches-that-has-been-squash-and-merged-in-the-remote" class="md-nav__link">
+    Delete local branches that has been squash and merged in the remote.
   </a>
   
 </li>
@@ -10670,15 +10677,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#list-all-git-variable" class="md-nav__link">
-    List all Git variable.
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#show-a-git-specific-variable" class="md-nav__link">
-    Show a Git specific variable.
+  <a href="#show-a-git-logical-variable" class="md-nav__link">
+    Show a Git logical variable.
   </a>
   
 </li>
@@ -11031,7 +11031,7 @@ git config --global alias.st status
 </pre></div>
 
 <p><strong>Alternatives:</strong>
-<div class="codehilite"><pre><span></span>git stash save
+<div class="codehilite"><pre><span></span>git stash push
 </pre></div></p>
 <h2 id="saving-current-state-of-unstaged-changes-to-tracked-files">Saving current state of unstaged changes to tracked files<a class="headerlink" href="#saving-current-state-of-unstaged-changes-to-tracked-files" title="Permanent link">&para;</a></h2>
 <div class="codehilite"><pre><span></span>git stash -k
@@ -11040,7 +11040,7 @@ git config --global alias.st status
 <p><strong>Alternatives:</strong>
 <div class="codehilite"><pre><span></span>git stash --keep-index
 </pre></div></p>
-<div class="codehilite"><pre><span></span>git stash save --keep-index
+<div class="codehilite"><pre><span></span>git stash push --keep-index
 </pre></div>
 
 <h2 id="saving-current-state-including-untracked-files">Saving current state including untracked files<a class="headerlink" href="#saving-current-state-including-untracked-files" title="Permanent link">&para;</a></h2>
@@ -11048,15 +11048,18 @@ git config --global alias.st status
 </pre></div>
 
 <p><strong>Alternatives:</strong>
-<div class="codehilite"><pre><span></span>git stash save -u
+<div class="codehilite"><pre><span></span>git stash push -u
 </pre></div></p>
-<div class="codehilite"><pre><span></span>git stash save --include-untracked
+<div class="codehilite"><pre><span></span>git stash push --include-untracked
 </pre></div>
 
 <h2 id="saving-current-state-with-message">Saving current state with message<a class="headerlink" href="#saving-current-state-with-message" title="Permanent link">&para;</a></h2>
-<div class="codehilite"><pre><span></span>git stash save &lt;message&gt;
+<div class="codehilite"><pre><span></span>git stash push -m &lt;message&gt;
 </pre></div>
 
+<p><strong>Alternatives:</strong>
+<div class="codehilite"><pre><span></span>git stash push --message &lt;message&gt;
+</pre></div></p>
 <h2 id="saving-current-state-of-all-files-ignored-untracked-and-tracked">Saving current state of all files (ignored, untracked, and tracked)<a class="headerlink" href="#saving-current-state-of-all-files-ignored-untracked-and-tracked" title="Permanent link">&para;</a></h2>
 <div class="codehilite"><pre><span></span>git stash -a
 </pre></div>
@@ -11064,7 +11067,7 @@ git config --global alias.st status
 <p><strong>Alternatives:</strong>
 <div class="codehilite"><pre><span></span>git stash --all
 </pre></div></p>
-<div class="codehilite"><pre><span></span>git stash save --all
+<div class="codehilite"><pre><span></span>git stash push --all
 </pre></div>
 
 <h2 id="show-list-of-all-saved-stashes">Show list of all saved stashes<a class="headerlink" href="#show-list-of-all-saved-stashes" title="Permanent link">&para;</a></h2>
@@ -11171,13 +11174,17 @@ git config --global alias.st status
 <div class="codehilite"><pre><span></span>git add --all <span class="o">&amp;&amp;</span> git commit --amend --no-edit
 </pre></div>
 
-<h2 id="prunes-references-to-remote-branches-that-have-been-deleted-in-the-remote">Prunes references to remote branches that have been deleted in the remote.<a class="headerlink" href="#prunes-references-to-remote-branches-that-have-been-deleted-in-the-remote" title="Permanent link">&para;</a></h2>
+<h2 id="prunes-references-to-remove-branches-that-have-been-deleted-in-the-remote">Prunes references to remove branches that have been deleted in the remote.<a class="headerlink" href="#prunes-references-to-remove-branches-that-have-been-deleted-in-the-remote" title="Permanent link">&para;</a></h2>
 <div class="codehilite"><pre><span></span>git fetch -p
 </pre></div>
 
 <p><strong>Alternatives:</strong>
 <div class="codehilite"><pre><span></span>git remote prune origin
 </pre></div></p>
+<h2 id="delete-local-branches-that-has-been-squash-and-merged-in-the-remote">Delete local branches that has been squash and merged in the remote.<a class="headerlink" href="#delete-local-branches-that-has-been-squash-and-merged-in-the-remote" title="Permanent link">&para;</a></h2>
+<div class="codehilite"><pre><span></span>git branch -vv <span class="p">|</span> grep <span class="s1">&#39;: gone]&#39;</span> <span class="p">|</span> awk <span class="s1">&#39;{print &lt;!-- @doxie.inject start --&gt;}&#39;</span> <span class="p">|</span> xargs git branch -D
+</pre></div>
+
 <h2 id="retrieve-the-commit-hash-of-the-initial-revision">Retrieve the commit hash of the initial revision.<a class="headerlink" href="#retrieve-the-commit-hash-of-the-initial-revision" title="Permanent link">&para;</a></h2>
 <div class="codehilite"><pre><span></span> git rev-list --reverse HEAD <span class="p">|</span> head -1
 </pre></div>
@@ -11545,12 +11552,8 @@ git bisect reset                    <span class="c1"># Finish search </span>
 <div class="codehilite"><pre><span></span>git blame -L &lt;start&gt;,&lt;end&gt;
 </pre></div>
 
-<h2 id="list-all-git-variable">List all Git variable.<a class="headerlink" href="#list-all-git-variable" title="Permanent link">&para;</a></h2>
-<div class="codehilite"><pre><span></span>git var -l
-</pre></div>
-
-<h2 id="show-a-git-specific-variable">Show a Git specific variable.<a class="headerlink" href="#show-a-git-specific-variable" title="Permanent link">&para;</a></h2>
-<div class="codehilite"><pre><span></span>git var &lt;variable&gt;
+<h2 id="show-a-git-logical-variable">Show a Git logical variable.<a class="headerlink" href="#show-a-git-logical-variable" title="Permanent link">&para;</a></h2>
+<div class="codehilite"><pre><span></span>git var -l <span class="p">|</span> &lt;variable&gt;
 </pre></div>
 
 <h2 id="preformatted-patch-file">Preformatted patch file.<a class="headerlink" href="#preformatted-patch-file" title="Permanent link">&para;</a></h2>
