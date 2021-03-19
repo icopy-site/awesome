@@ -9,6 +9,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
     
 
 ## General analytics
+* [userTrack](https://www.usertrack.net/) - Self-hosted web analytics with heatmaps, session-recordings, A/B tests and more. `©` `Self-Hosted` `PHP`
 * [Panelbear](https://panelbear.com/) - free real-time website analytics. Supports custom event tracking, email digests, and site speed metrics. `©` `SaaS`
 * [PostHog](https://posthog.com) - Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. ([Source Code](https://github.com/posthog/posthog)) `MIT` `Python`
 * [Hotjar](https://www.hotjar.com/) - new and easy way to truly understand your web and mobile site visitors. `©` `SaaS`
@@ -37,27 +38,6 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Sitemeter](http://sitemeter.com/) - old analytics tool. `©` `SaaS`
 * [Crawl Track](http://www.crawltrack.net/) - another old analytics tool. `©` `SaaS`
 * [Sitespect](https://www.sitespect.com/) - full-suite web app analytics tool including A/B testing. `©` `SaaS`
-* [Heap](https://heapanalytics.com/) - tracks your app users, clicks, form submissions, and anything else. `©` `SaaS`
-* [FoxMetrics](http://foxmetrics.com/) - analytics to track your user’s actions and activities. `©` `SaaS`
-* [Adobe Analytics](https://www.adobe.com/analytics/web-analytics.html) - web data into insights that everyone can act on. `©` `SaaS`
-* [Google Analytics](https://www.google.com/analytics/) - de facto standard for analytics in the web analytics space. `©` `SaaS`
-* [Screpy](https://screpy.com) - Screpy is a web analyzer and monitoring tool. Its powered by Google Lighthouse. `©` `SaaS`
-* [Clicktale](https://www.clicktale.com) - record and watch exactly how a visitor used your website. `©` `SaaS`
-* [GoSquared](https://www.gosquared.com/) - analytics with visitor tagging to help you dig deeper into one user’s visit. `©` `SaaS`
-* [Clicky](http://clicky.com/) - track visits and conversions, you can also track your video and audio analytics. `©` `SaaS`
-* [Woopra](https://www.woopra.com/) - track where your users are coming from. `©` `SaaS`
-* [Mint](https://haveamint.com/) - self-hosted analytics solution (no longer on sale).  `©` `SaaS`
-* [Going Up](https://www.goingup.com/) - manage SEO analytics and web app analytics with one tool. `©` `SaaS`
-* [Gauges](http://get.gaug.es/) - real-time web analytics tool. `©` `SaaS`
-* [Indicative](https://www.indicative.com/) - Web & mobile analytics tool, with heavy emphasis on segmentation and funnel visualization.
-* [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Matomo alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics)) `GPL-2.0` `PHP`
-* [Statcounter](https://statcounter.com/) - one of the ORIGINAL web analytics tools available. `©` `SaaS`
-* [Adobe Digital Analytics](http://www.adobe.com/data-analytics-cloud/analytics/capabilities.html) - standard analytics tools plus some that large organizations can use. `©` `SaaS`
-* [Hitslink.com](https://www.hitslink.com/) - real-time analytics, social media traffic reporting, and real-time dynamic segmentation. `©` `SaaS`
-* [Loggr](http://loggr.net/) -  track your user events and monitor your web app. `©` `SaaS`
-* [Kissmetrics](https://www.kissmetrics.com/) - real-time standard cohort analysis tool. `©` `SaaS`
-* [Crawl Track](http://www.crawltrack.net/) - another old analytics tool. `©` `SaaS`
-* [Sitespect](https://www.sitespect.com/) - full-suite web app analytics tool including A/B testing. `©` `SaaS`
 * [Rakam](https://rakam.io/) - Custom analytics platform that lets you to create your own analytics service. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code](https://github.com/rakam-io/rakam)) `Apache-2.0` `Java`
 * [Metabase](https://www.metabase.com) - opensource analytics/BI tool  `©` `SaaS`
 * [LiveSession](https://livesession.io) - session replay user analytics. `©` `SaaS`
@@ -68,6 +48,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid)) `Apache-2.0` `Java`
 * [Hastic](https://hastic.io) - Hackable time series pattern recognition tool with UI for Grafana. ([Source Code](https://github.com/hastic)) `Apache-2.0` `Python/Nodejs`
 * [EDA](https://eda.jortilles.com/en/jortilles-english/) - Open source analytics/BI tool.  ([Source Code](https://github.com/jortilles/EDA)) `Apache-2.0` `Angular/Nodejs`
+* [Count](https://count.co/) - notebook-based analytics platform, use SQL or drag-and-drop to build queries. `©` `SaaS`
 
 ## Real-time
 
@@ -79,19 +60,12 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 ## Endpoints
 * [Rudder](https://rudderlabs.com/) - Customer Data Infrastructure software for collecting, storing, processing and routing event data from apps and websites to dozens of marketing tools & analytics platforms (open-source alternative to Segment et al.). ([Source Code](https://github.com/rudderlabs/rudder-server/)) `SSPL-1.0` `Go`
-* [RudderStack](https://rudderstack.com/) - The warehouse-first customer data platform (CDP) that builds your CDP on your data warehouse for you. RudderStack makes it easy to collect, unify, transform, and store your customer data as well as route it securely to a wide range of common, popular marketing, sales, and product tools (open-source alternative to Segment et al.). ([Source Code](https://github.com/rudderlabs/rudder-server/)) `AGPL-3.0` `Go`
-
-## SEO
-* [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
-
-## Endpoints
+* [Census](https://getcensus.com/) - The easiest way to sync your customer data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. Census is the operational analytics platform that syncs your data warehouse with all your favorite apps. Get your customer success, sales & marketing teams on the same page by keeping customer data in sync. No engineering favors required—just SQL. `SaaS`
 * [RudderStack](https://rudderstack.com/) - The warehouse-first customer data platform (CDP) that builds your CDP on your data warehouse for you. RudderStack makes it easy to collect, unify, transform, and store your customer data as well as route it securely to a wide range of common, popular marketing, sales, and product tools (open-source alternative to Segment et al.). ([Source Code](https://github.com/rudderlabs/rudder-server/)) `AGPL-3.0` `Go`
 * [Snowplow](http://snowplowanalytics.com/) - Analytics tool for web apps with a lot of data. Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache-2.0` `Scala` `real-time`
 
-
 ## SEO
 * [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code](https://github.com/serphacker/serposcope)) `MIT` `Java`
-
 
 ## Privacy focused analytics
 
@@ -100,7 +74,6 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [GoatCounter](https://www.goatcounter.com) - Easy web statistics without tracking of personal data; `SaaS` `Self-Hosted` ([Source Code](https://github.com/zgoat/goatcounter)) `EUPL-1.2` `Go`
 * [Simple Analytics](https://simpleanalytics.io/) - Simple, clean, and friendly analytics for developers `©` `SaaS`
 * [Nibspace](https://nibspace.com/) - Affordable, lightweight, privacy-friendly website analytics `©` `SaaS`
-* [Fathom](https://usefathom.com/) - Fathom Analytics provides simple, useful websites stats without tracking or storing personal data of your users.
 * [GoatCounter](https://www.goatcounter.com) - Web analytics without tracking of personal data; can be [self-hosted](https://github.com/zgoat/goatcounter), or use the SaaS.
 * [Kindmetrics](https://kindmetrics.io) - Clean and simple analytics that is privacy-focused, open source and can be self-hosted. Doesn't track personal data.
 * [Plausible Analytics](https://plausible.io/) - Lightweight and [open source](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Source Code](https://github.com/plausible/analytics/)) `MIT` `Elixir`
@@ -116,6 +89,7 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Kindmetrics](https://kindmetrics.io/) - Clean privacy-focused website analytics. ([Source Code](https://github.com/kindmetrics/kindmetrics)) `MIT` `Crystal`
 * [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)) `MIT` `Nodejs`
 * [piratepx](https://www.piratepx.com/) - Just a little analytics insight for your personal or indie project. 100% free and open source. ([Demo](https://app.piratepx.com/shared/bGQbUJ-YADC_xIGZaYmyqp-J_PD6O1pkCdHmYdIjUvs53ExsImlzFeou4MCuZRbH), [Source](https://github.com/piratepx/app)) `MIT` `Nodejs`
+* [Piwik PRO](https://piwik.pro/) - A privacy-friendly alternative to Google Analytics with built-in consent management. Hosted in EU, in your private cloud or on-premises. `©` `SaaS` `self-hosted`
 
 ## Heatmap analytics
 
