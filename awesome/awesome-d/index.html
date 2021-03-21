@@ -1898,6 +1898,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#internationalization" class="md-nav__link">
+    Internationalization
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#video-applications" class="md-nav__link">
     Video applications
   </a>
@@ -1936,6 +1943,19 @@
   <a href="#scientific" class="md-nav__link">
     Scientific
   </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#language-processing" class="md-nav__link">
+    Language Processing
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -9051,6 +9071,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#internationalization" class="md-nav__link">
+    Internationalization
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#video-applications" class="md-nav__link">
     Video applications
   </a>
@@ -9089,6 +9116,19 @@
   <a href="#scientific" class="md-nav__link">
     Scientific
   </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#language-processing" class="md-nav__link">
+    Language Processing
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -9175,6 +9215,7 @@
 - GUI
 - OS
 - Gaming
+- Internationalization (i18n) / Globalization
 - Video
 - Image Processing
 - End-user applications (AppImages, Flatpaks, Snaps...)
@@ -9372,8 +9413,7 @@
 * <a href="https://github.com/huntlabs/hunt-framework/">Hunt Framework</a> - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
 * <a href="https://vibed.org/">vibe.d</a> - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
 * <a href="https://github.com/adamdruppe/arsd">arsd</a> - Adam D. Ruppe's web framework.
-* <a href="https://github.com/rikkimax/Cmsed">cmsed</a> - A component library for Vibe that functions as a CMS.
-* <a href="https://diamondmvc.org/">Diamond</a> - Full-stack web-framework based on vibe.d, targetting enterprise development and high-performance web solutions for both small and big projects.</p>
+* <a href="https://github.com/rikkimax/Cmsed">cmsed</a> - A component library for Vibe that functions as a CMS.</p>
 <p><em>RPC library</em>
 * <a href="https://github.com/huntlabs/grpc-dlang">grpc</a> - Grpc for D programming language, hunt-http library based.
 * <a href="https://github.com/huntlabs/kissrpc">kissrpc</a> - Fast and light, flatbuffers based rpc framework.
@@ -9408,7 +9448,7 @@
 <ul>
 <li><a href="https://github.com/jacob-carlborg/orange">orange</a> - General purpose serializer (currently only supports XML)</li>
 <li><a href="https://github.com/lodo1995/experimental.xml">std.experimental.xml</a> - Phobos candidate for a XML serialization</li>
-<li>[dom.d] - an xml/html DOM based on what Javascript provides in browsers</li>
+<li>arsd <a href="https://github.com/adamdruppe/arsd/blob/master/dom.d">dom.d</a> - an xml/html DOM based on what Javascript provides in browsers</li>
 </ul>
 <h2 id="database-clients">Database clients<a class="headerlink" href="#database-clients" title="Permanent link">&para;</a></h2>
 <p><em>Clients and bindings to C bliencts for relational and nosql databases.</em></p>
@@ -9461,6 +9501,33 @@
 <h2 id="game-bindings">Game Bindings<a class="headerlink" href="#game-bindings" title="Permanent link">&para;</a></h2>
 <p><em>Bindings to game development related C libraries.</em></p>
 <ul>
+<li>BindBC libraries - <code>-betterC</code> compatible, <code>@nogc</code> bindings using <a href="https://github.com/BindBC/bindbc-loader">bindbc-loader</a>:<ul>
+<li>OpenGL - <a href="https://github.com/BindBC/bindbc-opengl">bindbc-opengl</a></li>
+<li>GLFW 3 - <a href="https://github.com/BindBC/bindbc-glfw">bindbc-glfw</a></li>
+<li>SDL 2 - <a href="https://github.com/BindBC/bindbc-sdl">bindbc-sdl</a></li>
+<li>SDL2_gfx - <a href="https://github.com/aferust/bindbc-sdlgfx">bindbc-sdlgfx</a></li>
+<li>SFML 2 - <a href="https://github.com/BindBC/bindbc-sfml">bindbc-sfml</a></li>
+<li>Imgui - immediate UI - <a href="https://github.com/Inochi2D/bindbc-imgui">bindbc-imgui</a></li>
+<li>Nuklear - immediate UI - <a href="https://github.com/Timu5/bindbc-nuklear">bindbc-nuklear</a></li>
+<li>raylib - <a href="https://github.com/o3o/bindbc-raylib">bindbc-raylib</a></li>
+<li>bgfx - <a href="https://github.com/GoaLitiuM/bindbc-bgfx">bindbc-bgfx</a></li>
+<li>WegGPU - <a href="https://github.com/gecko0307/bindbc-wgpu">bindbc-wgpu</a></li>
+<li>Zstandard - compression - <a href="https://github.com/ZILtoid1991/bindbc-zstandard">bindbc-zstandard</a></li>
+<li>nanomsg-next-gen - <a href="https://github.com/darkridder/bindbc-nng">bindbc-nng</a></li>
+<li>OpenAL - audio engine - <a href="https://github.com/BindBC/bindbc-openal">bindbc-openal</a></li>
+<li>SoLoud - audio engine - <a href="https://github.com/gecko0307/bindbc-soloud">bindbc-soloud</a></li>
+<li>KiWi - widget library - <a href="https://github.com/aferust/bindbc-kiwi">bindbc-kiwi</a></li>
+<li>NanoVG - vector drawing engine - <a href="https://github.com/aferust/bindbc-nanovg">bindbc-nanovg</a></li>
+<li>Blend2D - 2D Vector Graphics Powered by a JIT Compiler - <a href="https://github.com/kdmult/bindbc-blend2d">bindbc-blend2d</a></li>
+<li>Lua - <a href="https://github.com/BindBC/bindbc-lua">bindbc-lua</a></li>
+<li>JoyShockLibrary - <a href="https://github.com/ZILtoid1991/bindbc-JSL">bindbc-jsl</a></li>
+<li>Newton Dynamics - physics engine - <a href="https://github.com/gecko0307/bindbc-newton">bindbc-newton</a></li>
+<li>FreeImage - <a href="https://github.com/BindBC/bindbc-freeimage">bindbc-freeimage</a></li>
+<li>Assimp5 - <a href="https://github.com/Sobaya007/bindbc-assimp">bindbc-assimp</a></li>
+<li>Freetype - <a href="https://github.com/BindBC/bindbc-freetype">bindbc-freetype</a></li>
+<li>Harfbuzz - text shaping engine - <a href="https://github.com/DlangGraphicsWG/bindbc-harfbuzz">bindbc-harfbuzz</a></li>
+</ul>
+</li>
 <li><a href="https://github.com/DerelictOrg">DerelictOrg</a> - A GitHub organization hosting all Derelict bindings including:<ul>
 <li>OpenGL 3 (DerelictGL3), </li>
 <li>Bgfx (DerelictBgfx), </li>
@@ -9502,6 +9569,10 @@
 <li><a href="https://github.com/gecko0307/atrium">Atrium</a> - FPS game with physics based puzzles using OpenGL.</li>
 <li><a href="https://github.com/jonathanballs/backgammony">Backgammony</a> - A Backgammon GUI for Linux built with Gtk.</li>
 </ul>
+<h2 id="internationalization">Internationalization<a class="headerlink" href="#internationalization" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://github.com/shoo/bindbc-icu">bindbc-icu</a> - bindbc bindings for the unicode ICU library.</li>
+</ul>
 <h2 id="video-applications">Video applications<a class="headerlink" href="#video-applications" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="https://github.com/DerelictOrg/DerelictGL3">DerelictGL3</a> - A dynamic binding to OpenGL for the D Programming Language.</li>
@@ -9521,6 +9592,7 @@
 <h2 id="machine-learning">Machine Learning<a class="headerlink" href="#machine-learning" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="https://github.com/Netflix/vectorflow">vectorflow</a> - Nexflix's opensource deep learning framework.</li>
+<li><a href="https://github.com/lempiji/bindbc-onnxruntime">bindbc-onnxruntime</a> - bindbc bindings to Microsoft's cross-platform, high performance ML inferencing and training accelerator</li>
 </ul>
 <h2 id="parallel-computing">Parallel computing<a class="headerlink" href="#parallel-computing" title="Permanent link">&para;</a></h2>
 <ul>
@@ -9537,6 +9609,10 @@
 <li><a href="https://github.com/libmir/mir">mir-algorithm</a> - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.</li>
 <li><a href="https://github.com/libmir/mir-random">mir-random</a> -  Advanced Random Number Generators.</li>
 <li><a href="https://github.com/rumbu13/decimal">decimals</a> - Decimal library for D.</li>
+</ul>
+<h3 id="language-processing">Language Processing<a class="headerlink" href="#language-processing" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="https://github.com/lempiji/bindbc-mecab">bindbc-mecab</a> - bindbc MeCab binding (Part-of-Speech and Morphological Analyzer for Japanese)</li>
 </ul>
 <h2 id="text-processing">Text Processing<a class="headerlink" href="#text-processing" title="Permanent link">&para;</a></h2>
 <ul>
