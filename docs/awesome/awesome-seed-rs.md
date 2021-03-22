@@ -60,6 +60,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [WeightRS](https://gitlab.com/mkroehnert/weightrs) - Minimalistic and privacy friendly progressive web app for tracking your weight.
 - [Music composer](https://github.com/ethanboxx/planters-rdconf-hackathon-project) - A basic music composition app.
 - [Play Seed](https://play-seed.dev) - Website about Play Seed, playground to demo Seed apps.
+- [Typesync](https://typesync.rutrum.net) - Test your typing speed on song lyrics.  Uses [`Seed`](https://seed-rs.org/), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
 
 ## Libraries
 

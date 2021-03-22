@@ -22,7 +22,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Learn what this awesome thing is.*
 
 * [Official tutorial](http://elm-lang.org/docs) — General information and in-depth guide with examples.
-* [Elm in Action](https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c) — In-depth book for Elm beginners, from Manning Publications.
+* [Elm in Action](https://www.manning.com/books/elm-in-action) — In-depth book for Elm beginners, from Manning Publications.
 * [Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app.
 * [Exercism Elm Track](http://exercism.io/languages/elm) - Collection of Elm exercises.
 * [Learn you an Elm](http://learnyouanelm.github.io/) - Elm tutorial with exhaustive examples and descriptions.
@@ -123,7 +123,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 ### Video tutorials
 
-* [Egghead.io: Elm videos](https://egghead.io/technologies/elm) - Egghead's Elm video training, many of which are free.
+* [Egghead.io: Elm videos](https://egghead.io/q?q=elm) - Egghead's Elm video training, many of which are free.
 * [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
 * [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - Live coding videos on youtube.
 
@@ -151,10 +151,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 ### Individual Podcast episodes
 
-* [Elixir Fountain Evan Czaplicki 2016-07-11](https://soundcloud.com/elixirfountain/elixir-fountain-evan-czaplicki-2016-07-11) - Elm with Evan Czaplicki.
 * [Functional Geekery 33](https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/) - Richard Feldman and Tessa Kelly.
-* [The Changelog 218](https://changelog.com/218/) - Elm with Evan Czaplicki and Richard Feldman
-* [The Changelog 191](https://changelog.com/191/) - Elm and Functional Programming with Richard Feldman.
+* [The Changelog 218](https://changelog.com/podcast/218) - Elm with Evan Czaplicki and Richard Feldman
+* [The Changelog 191](https://changelog.com/podcast/191/) - Elm and Functional Programming with Richard Feldman.
 * [Software Engineering Daily](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/) - Elm with Richard Feldman and Srinivas Rao.
 * [JavaScript Jabber 175](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman) - Elm with Evan Czaplicki and Richard Feldman.
 * [Ruby Rogues 212](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki) - Elm with Richard Feldman and Evan Czaplicki.
@@ -194,12 +193,14 @@ Tools and libraries to test your Elm applications
 * [Elm Review](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
 * [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
+* [Html to Elm](https://html-to-elm.com/) - Convert HTML to Elm.
 
 ### Code Generators
 
 * [HTML to Elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
 * [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) - Generate OpenApi types for Elm.
-* [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate TypeScript definitions from Elm.
+* [Elm TS Interop](https://github.com/dillonkearns/elm-ts-json) - Build up Encoders/Decoders between Elm and TypeScript.
+* [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate TypeScript definitions from Elm (`Elm TS Interop` is an improved version of this).
 * [Elm JSON Interop](https://github.com/pravdomil/elm-json-interop) - Generate JSON encoders/decoders and TypeScript definitions from Elm files.
 * [Quicktype](https://github.com/quicktype/quicktype) - Generate JSON decoders and encoders from JSON
 * [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) - Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications
@@ -210,6 +211,7 @@ Tools and libraries to test your Elm applications
 ### Run Elm
 
 * [Ellie](https://ellie-app.com/) - The Elm Live Editor
+* [Elm Editor](https://elm-editor.com/) - Advanced Elm Live Editor
 * [Online REPL](http://elmrepl.cuberoot.in) - The ELM Online REPL
 * [run-elm](https://github.com/jfairbank/run-elm) — Run Elm code from the command line
 * [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
