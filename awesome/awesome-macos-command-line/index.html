@@ -15195,12 +15195,24 @@ defaults write /Library/Preferences/com.apple.driver.AppleIRController DeviceEna
 
 <h4 id="chime-when-charging">Chime When Charging<a class="headerlink" href="#chime-when-charging" title="Permanent link">&para;</a></h4>
 <p>Play iOS charging sound when MagSafe is connected.
-<div class="codehilite"><pre><span></span><span class="c1">## Enable</span>
+<div class="codehilite"><pre><span></span><span class="c1">## Up to macOS 10.12 (Sierra)</span>
+
+<span class="c1">## Enable</span>
 defaults write com.apple.PowerChime ChimeOnAllHardware -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 open /System/Library/CoreServices/PowerChime.app
 
 <span class="c1">## Disable (Default)</span>
 defaults write com.apple.PowerChime ChimeOnAllHardware -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
+killall PowerChime
+</pre></div>
+<div class="codehilite"><pre><span></span><span class="c1">## From macOS 10.13 (High Sierra) on</span>
+
+<span class="c1">## Enable (Default)</span>
+defaults write com.apple.PowerChime ChimeOnNoHardware -bool <span class="nb">false</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
+open /System/Library/CoreServices/PowerChime.app
+
+<span class="c1">## Disable</span>
+defaults write com.apple.PowerChime ChimeOnNoHardware -bool <span class="nb">true</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
 killall PowerChime
 </pre></div></p>
 <h2 id="input-devices">Input Devices<a class="headerlink" href="#input-devices" title="Permanent link">&para;</a></h2>
