@@ -546,8 +546,6 @@
 - [Distrochooser.de](https://github.com/cmllr/distrochooser) - An orientation guide for Linux beginners
 - [Buka](https://github.com/oguzhaninan/Buka) - EBook Management
 - [Docute](https://github.com/egoist/docute) - A framework for writing documentation without build process
-- [pm86](https://github.com/ericjjj/pm86) - Production process manager for Node.js apps Websites
-- [vms](https://github.com/ericjjj/vms) - A Vue.js 2.0 Management System
 - [nativescript-vue](https://github.com/rigor789/nativescript-vue) - A Vue.js implementation of the NativeScript renderer.
 - [piper](https://github.com/fireyy/piper) - A drag-and-drop mobile website builder base on Vue.
 - [mmf-blog-vue2](https://github.com/lincenying/mmf-blog-vue2) - A blog based on Vue2(Vue-router, Vuex) and Webpack2.
@@ -2712,6 +2710,7 @@ _LocalStorage etc._
 - [vue-facebook-signin-button](https://github.com/phanan/vue-facebook-signin-button) - A simple plugin to include a custom Facebook sign-in button into your web app
 - [vue-auth-href](https://github.com/nachodd/vue-auth-href) - A VueJS directive for downloading files that are under a protected route schema
 - [vue-msal](https://github.com/mvertopoulos/vue-msal) - Vue plugin for using Microsoft Authentication Library (MSAL)
+- [vue-simple-acl](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
 
 ##### Vuex Utilities
 

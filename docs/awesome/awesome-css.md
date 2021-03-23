@@ -4,10 +4,8 @@
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [travis-link]:   https://travis-ci.org/awesome-css-group/awesome-css
 [travis-badge]:  https://travis-ci.org/awesome-css-group/awesome-css.svg?branch=master
-[HitCounter-link]: http://hits.dwyl.io/awesome-css-group/awesome-css
-[HitCounter-badge]: http://hits.dwyl.io/awesome-css-group/awesome-css.svg
 
-## Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] [![HitCount][HitCounter-badge]][HitCounter-link]
+## Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] 
 
 > /* A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS. */
 
@@ -82,7 +80,6 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Charts.css](https://chartscss.org/) - CSS data visualization framework.
 * [Chota](https://jenil.github.io/chota/) - A responsive, customizable micro-framework (3kb) with helpful utilities and a grid system.
 * [Cirrus](https://spiderpig86.github.io/Cirrus/) - A fully responsive and comprehensive CSS framework with beautiful controls and simplistic structure.
-* [eFrolic](https://efraa.github.io/eFrolic/) - CSS framework which without using JavaScript is interactive and animated.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
 * [Gralig](http://gralig.com/) - A modest, grayish CSS library.
 * [Halfmoon](https://www.gethalfmoon.com/) - A responsive front-end framework with a built-in dark mode.

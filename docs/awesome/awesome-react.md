@@ -83,6 +83,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [13 Essential React Interview Questions](https://www.toptal.com/react/interview-questions)
 - [List of React interview Questions and Answers](https://github.com/sudheerj/reactjs-interview-questions)
+- [React Coding Challenges](https://github.com/alexgurr/react-coding-challenges/)
 
 #### React Tools
 
@@ -121,6 +122,7 @@ A collection of awesome things regarding the React ecosystem.
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
 - [react-admin](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
 - [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
+- [Blits](https://blitzjs.com) - The Fullstack React Framework
 - [aleph.js](https://github.com/alephjs/aleph.js) - The React Framework in Deno
 
 ##### React Styling
