@@ -755,10 +755,15 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 
 
 
+<h2 id="ansible">Ansible</h2>
+
+- [kics](https://kics.io/) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
+
+
 <h2 id="binary">Binaries</h2>
 
 - [angr](https://github.com/angr/angr) - Binary code analysis tool that also supports symbolic execution.
-- [binbloom](https://github.com/quarkslab/binbloom) - The purpose of this project is to analyse a raw binary firmware  and determine automatically some of its features.  This tool is compatible with all architectures as basically,  it just does simple statistics on it.
+- [binbloom](https://github.com/quarkslab/binbloom) - Analyzes a raw binary firmware and determines features like endianness or the loading address.  The tool is compatible with all architectures.
 Loading address: binbloom can parse a raw binary firmware and determine its loading address. Endianness: binbloom can use heuristics to determine the endianness of a firmware. UDS Database: binbloom can parse a raw binary firmware and check if it contains an array containing UDS command IDs.
 - [BinSkim](https://github.com/Microsoft/binskim) - A binary static analysis tool that provides security and correctness results for Windows portable executables.
 - [Black Duck](https://www.blackducksoftware.com) :copyright: - Tool to analyze source code and binaries for reusable code, necessary licenses and potential security aspects.
@@ -812,6 +817,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 - [checkov](https://www.checkov.io) - Static analysis tool for Terraform files (tf>=v0.12), preventing cloud misconfigs at build time.
 - [cookstyle](https://docs.chef.io/cookstyle.html) - Cookstyle is a linting tool based on the RuboCop Ruby linting tool for Chef cookbooks.
 - [foodcritic](http://www.foodcritic.io) - A lint tool that checks Chef cookbooks for common problems.
+- [kics](https://kics.io/) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
 - [Puppet Lint](https://github.com/rodjek/puppet-lint) - Check that your Puppet manifests conform to the style guide.
 - [terraform-compliance](https://terraform-compliance.com) - A lightweight, compliance- and security focused, BDD test framework against Terraform.
 - [terrascan](https://github.com/cesar-rodriguez/terrascan) - Collection of security and best practice tests for static code analysis of Terraform templates.
@@ -827,6 +833,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 - [dagda](https://github.com/eliasgranderubio/dagda) - Perform static analysis of known vulnerabilities in docker images/containers.
 - [Docker Label Inspector](https://github.com/garethr/docker-label-inspector) :warning: - Lint and validate Dockerfile labels.
 - [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) - A smarter Dockerfile linter that helps you build best practice Docker images.
+- [kics](https://kics.io/) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
 - [kube-score](https://kube-score.com) - Static code analysis of your Kubernetes object definitions.
 - [KubeLinter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [kubeval](https://kubeval.instrumenta.dev) - Validates your Kubernetes configuration files and supports multiple Kubernetes versions.
@@ -863,6 +870,11 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 <h2 id="json">JSON</h2>
 
 - [Spectral](https://stoplight.io/open-source/spectral) - A flexible JSON/YAML linter, without of the box support for OpenAPI v2/v3 and AsyncAPI v2.
+
+
+<h2 id="kubernetes">Kubernetes</h2>
+
+- [kics](https://kics.io/) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
 
 
 <h2 id="latex">LaTeX</h2>
@@ -919,6 +931,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 - [Attackflow Extension](https://www.attackflow.com/Extension) :copyright: - Attackflow plugin for Visual Studio, which enables developers to find critical security bugs at real time in the source code without any prior knowledge.
 - [Gitleaks](https://github.com/zricethezav/gitleaks) - A SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repos.
 - [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html) - iblessing is an iOS security exploiting toolkit. It can be used for reverse engineering, binary analysis and vulnerability mining.
+- [kics](https://kics.io/) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) - Lint an npm or yarn lockfile to analyze and detect security issues
 - [njsscan](https://opensecurity.in) - A static application testing (SAST) tool that can find insecure code patterns in your node.js applications using simple pattern matcher from libsast and syntax-aware semantic code pattern search tool semgrep.
 - [Oversecured](https://oversecured.com) :copyright: - A mobile app vulnerability scanner, designed for security researchers and bug bounty hackers. It also allows integrations into the DevOps process for businesses.
@@ -947,6 +960,11 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 - [haml-lint](https://github.com/sds/haml-lint) - Tool for writing clean and consistent HAML.
 - [slim-lint](https://github.com/sds/slim-lint) - Configurable tool for analyzing Slim templates.
 - [yamllint](https://yamllint.readthedocs.io) - Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.
+
+
+<h2 id="terraform">Terraform</h2>
+
+- [kics](https://kics.io/) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
 
 
 <h2 id="translation">Translation</h2>

@@ -104,6 +104,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [I18NPortable ★49](https://github.com/xleon/I18N-Portable) - Simple and cross platform internationalization/translations for Xamarin and .NET.
 - [Resxible ★9](https://github.com/apcurium/resxible) - Tool to generate automatically several platform-dependent resource files from a single RESX file.
 - [Vernacular ★167](https://github.com/rdio/vernacular) - Cross Platform Localisation, tools to convert standard strings formats.
+- [SimpleLocalize ★19](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in Xmarin projects.
 
 
 ## Layout
@@ -147,6 +148,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 ## Network
 
+- [Apizr ★4](https://github.com/Respawnsive/Apizr) - Refit based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 - [Connectivity ★200](https://github.com/jamesmontemagno/ConnectivityPlugin) - Cross-platform network/connection status.
 - [CrossDownloadManager ★67](https://github.com/SimonSimCity/Xamarin-CrossDownloadManager) - A cross platform download manager for Xamarin.
 - [Flurl ★1,295](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
@@ -230,6 +232,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [SimpleAppIntro](https://github.com/galadril/Xam.Plugin.SimpleAppIntro) - Just a nice and simple AppIntro for your Xamarin Forms project
 - [SimpleStaticMap](https://github.com/galadril/Xam.Plugin.SimpleStaticMap) - Just a simple static map control based on the Static API of Google Maps for your Xamarin Forms project
 - [TEdito2](https://github.com/bulubuloa/TEditor2) - TEditor2 is a HTML editor for Xamarin, it has so many build-in features and easy to use.
+- [IridescentView](https://github.com/alexandrehtrb/IridescentView) - A custom Xamarin.Android ImageView with iridescence effect.
 
 
 ## Wearable
@@ -306,10 +309,10 @@ Most of them support Android and iOS, some do Windows Phone 8
 
 ## Websites
 
-- [Planet Xamarin](https://www.planetxamarin.com) - An aggregator of content from Xamarin Community members. Why subscribe individually when you can subscribe to one convenient RSS feed? If RSS isn't your thing, follow the [Twitter](https://twitter.com/PlanetXamarin) or [Facebook](https://www.facebook.com/planetxamarin/) accounts which are automatically updated with the latest content from the community.
+- [Planet Xamarin](https://www.planetxamarin.com) - An aggregator of content from Xamarin Community members. Why subscribe individually when you can subscribe to one convenient RSS feed? If RSS isn't your thing, follow the [Twitter](https://twitter.com/PlanetXamarin) or [Facebook](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fplanetxamarin%2F) accounts which are automatically updated with the latest content from the community.
 - [Programming Community Curated Resources For Learning Xamarin](https://hackr.io/tutorials/learn-xamarin) - A curated list of resources for learning Xamarin.
 - [Weekly Xamarin](http://weeklyxamarin.com) - Hand-picked round up of the best Xamarin development links every week. Curated by Geoffrey Huntley and published every Friday. Free.
-- [Xamarin Online Courses](https://classpert.com/it-computer-science/mobile-development/xamarin) - A list of over 60 Online Courses (free and paid) from Classpert Online Course Search.
+- [Xamarin Online Courses](https://classpert.com/topics/xamarin) - A list of over 60 Online Courses (free and paid) from Classpert Online Course Search.
 
 
 ## License
