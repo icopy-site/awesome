@@ -120,6 +120,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ActiveWorkflow](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
 * [Danger](https://github.com/danger/danger) - Automate your team's conventions surrounding code review.
 * [Huginn](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
+* [Runbook](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
 
 ## Caching
 
@@ -273,6 +274,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [AttrExtras](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr_initialize.
 * Hash
   * [Hashie](https://github.com/intridea/hashie) - A collection of tools that extend Hashes and make them more useful.
+* [Trick Bag](https://github.com/keithrbennett/trick_bag) - Assorted Ruby classes and methods to simplify and enhance your code.
 
 ## Country Data
 
@@ -533,9 +535,10 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Reform](https://github.com/apotonick/reform) - Gives you a form object with validations and nested setup of models. It is completely framework-agnostic and doesn't care about your database.
 * [Simple Form](https://github.com/plataformatec/simple_form) - Rails forms made easy.
 
-## Game Development
+## Game Development and Graphics
 
 * [Gosu](http://www.libgosu.org) - A 2D game development library for the Ruby and C++ programming languages.
+* [Mittsu](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
 * [Ruby 2D](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 
 ## Gem Generators
@@ -664,6 +667,8 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [rb-libsvm](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM. SVM is a machine learning and classification algorithm.
 * [ruby-fann](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 * [rumale](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
+* [TensorFlow](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
+* [Torch.rb](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
 * [weka](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
 
 ## Markdown Processors
