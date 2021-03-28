@@ -412,6 +412,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 
 ## Videos
 * [Testing Blazor Apps & Components](https://www.youtube.com/watch?v=8So3TXW2QKU) - March 26, 2021 - Blazor Train, episode 43: Testing Blazor Apps & Components.
+* [Steve Sanderson at the NDC Manchester 2021](https://www.youtube.com/watch?v=5NqXBFn9v20&t=15636s) - March 25, 2021 - Blazor in 2021: .NET 5, .NET 6 and beyond.
 * [Blazor WebAssembly : Creating Chat Application Using SignalR](https://www.youtube.com/watch?v=5VSUX6w5P8g) - ![duration](https://img.shields.io/badge/Duration:%20-20%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) March 25, 2021 - Blazor WebAssembly : Creating Chat Application Using SignalR.
 * [Building a Blazor WebAssembly chat using SignalR](https://www.youtube.com/watch?v=NFXdSvFQgtg) - March 8, 2021 - ![duration](https://img.shields.io/badge/Duration:%20-34%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) Building a Blazor WebAssembly chat using SignalR, by Coding After Work.
 * [Multiple Panels with Sliding Splitters](https://www.youtube.com/watch?v=fNDd7moZJ4c) - March 5, 2021 - Blazor Train, episode 40: Multiple Panels with Sliding Splitters.

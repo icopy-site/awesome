@@ -108,6 +108,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 *Libraries and tools helping with build automation.*
 
 * [1build](https://github.com/gopinath-langote/1build) - Command line tool to frictionlessly manage project-specific commands.
+* [anko](https://github.com/GuilhermeCaruso/anko) - Simple application watcher for multiple programming languages.
 * [gaper](https://github.com/maxcnunes/gaper) - Builds and restarts a Go project when it crashes or some watched file changes.
 * [gilbert](https://go-gilbert.github.io) - Build system and task runner for Go projects.
 * [mmake](https://github.com/tj/mmake) - Modern Make.
@@ -124,7 +125,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 * [argparse](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 * [argv](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
-* [box-cli-maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for your CLI.
 * [cli](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 * [cli](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
 * [climax](http://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command.
@@ -167,6 +167,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 * [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 * [aurora](https://github.com/logrusorgru/aurora) - ANSI terminal colors that supports fmt.Printf/Sprintf.
+* [box-cli-maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for your CLI.
 * [cfmt](https://github.com/mingrammer/cfmt) - Contextual fmt inspired by bootstrap color classes.
 * [cfmt](https://github.com/i582/cfmt) - Simple and convenient formatted stylized output fully compatible with fmt library.
 * [chalk](https://github.com/ttacon/chalk) - Intuitive package for prettifying terminal/console output.
@@ -275,6 +276,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [bitset](https://github.com/willf/bitset) - Go package implementing bitsets.
 * [bloom](https://github.com/zhenjl/bloom) - Bloom filters implemented in Go.
 * [bloom](https://github.com/yourbasic/bloom) - Golang Bloom filter implementation.
+* [bloomfilter](https://github.com/OldPanda/bloomfilter) - Yet another Bloomfilter implementation in Go, compatible with Java's Guava library.
 * [boomfilters](https://github.com/tylertreat/BoomFilters) - Probabilistic data structures for processing continuous, unbounded streams.
 * [cmap](https://github.com/lrita/cmap) - a thread-safe concurrent map for go, support using `interface{}` as key and auto scale up shards.
 * [concurrent-writer](https://github.com/free/concurrent-writer) - Highly concurrent drop-in replacement for `bufio.Writer`.
@@ -517,6 +519,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [go-str2duration](https://github.com/xhit/go-str2duration) - Convert string to duration. Support time.Duration returned string and more.
 * [go-sunrise](https://github.com/nathan-osman/go-sunrise) - Calculate the sunrise and sunset times for a given location.
 * [go-week](https://github.com/stoewer/go-week) - An efficient package to work with ISO8601 week dates.
+* [gostradamus](https://github.com/bykof/gostradamus) - A Go package for working with dates.
 * [iso8601](https://github.com/relvacode/iso8601) - Efficiently parse ISO8601 date-times without regex.
 * [kair](https://github.com/GuilhermeCaruso/kair) - Date and Time - Golang Formatting Library.
 * [now](https://github.com/jinzhu/now) - Now is a time toolkit for golang.
@@ -1166,6 +1169,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [gobase](https://github.com/wajox/gobase) - A simple skeleton for golang application with basic setup for real golang application.
 * [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Set of common historical and emerging project layout patterns in the Go ecosystem.
 * [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
+* [insidieux/inizio](https://github.com/insidieux/inizio) - Golang project layout generator with plugins.
 * [modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Go application boilerplate and example applying modern practices.
 * [scaffold](https://github.com/catchplay/scaffold) - Scaffold generates a starter Go project layout. Lets you focus on business logic implemented.
 
@@ -2086,6 +2090,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Banjo](https://github.com/nsheremet/banjo) - Very simple and fast web framework for Go.
 * [Beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 * [Buffalo](http://gobuffalo.io) - Bringing the productivity of Rails to Go!
+* [Confetti Framework](https://www.confetti-framework.com) - Confetti is a Go web application framework with an expressive, elegant syntax. Confetti combines the elegance of Laravel and the simplicity of Go.
 * [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
 * [Fiber](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
 * [Fireball](https://github.com/zpatrick/fireball) - More "natural" feeling web framework.
@@ -2304,6 +2309,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework.
 * [cassowary](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load-testing tool written in Go.
 * [DepCharge](https://github.com/centerorbit/depcharge) - Helps orchestrating the execution of commands across the many dependencies in larger projects.
+* [docker-go-mingw](https://github.com/x1unix/docker-go-mingw) - Docker image for building Go binaries for Windows with MinGW toolchain.
 * [Dockerfile-Generator](https://github.com/ozankasikci/dockerfile-generator) - A go library and an executable that produces valid Dockerfiles using various input channels.
 * [dogo](https://github.com/liudng/dogo) - Monitoring changes in the source file and automatically compile and run (restart).
 * [drone-jenkins](https://github.com/appleboy/drone-jenkins) - Trigger downstream Jenkins jobs using a binary, docker or Drone CI.
@@ -2473,6 +2479,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [How To Code in Go eBook](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - A 600 page introduction to Go aimed at first time developers.
 * [Learning Go](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf)
 * [Network Programming With Go](https://jan.newmarch.name/go/)
+* [Practical Go Lessons](https://www.practical-go-lessons.com/)
 * [Spaceship Go A Journey to the Standard Library](https://blasrodri.github.io/spaceship-go-gh-pages/)
 * [The Go Programming Language](http://www.gopl.io/)
 * [The Golang Standard Library by Example (Chinese)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
@@ -2527,6 +2534,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Golang Hamburg - Germany](https://www.meetup.com/Go-User-Group-Hamburg/)
 * [Golang Israel](https://www.meetup.com/Go-Israel/)
 * [Golang Joinville - Brazil](https://www.meetup.com/Joinville-Go-Meetup/)
+* [Golang Kathmandu](https://www.meetup.com/Golang-Kathmandu/)
 * [Golang Korea](https://www.meetup.com/GDG-Golang-Korea/)
 * [Golang Lima - Peru](https://www.meetup.com/Golang-Peru/)
 * [Golang Lyon](https://www.meetup.com/Golang-Lyon/)
@@ -2627,6 +2635,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin) - Get familiar with Gin and find out how it can help you reduce boilerplate code and build a request handling pipeline.
 * [Caching Slow Database Queries](https://medium.com/@rocketlaunchr.cloud/caching-slow-database-queries-1085d308a0c9) - How to cache slow database queries.
 * [Canceling MySQL](https://medium.com/@rocketlaunchr.cloud/canceling-mysql-in-go-827ed8f83b30) - How to cancel MySQL queries.
+* [Debugged.it Go patterns](https://github.com/haveyoudebuggedit/go-patterns) - Advanced Go patterns with ready-to-run examples.
 * [Design Patterns in Go](https://github.com/shubhamzanwar/design-patterns) - Collection of programming design patterns implemented in Go.
 * [Ethereum Development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) - A little e-book on Ethereum Development with Go.
 * [Games With Go](http://gameswithgo.org/) - A video series teaching programming and game development.

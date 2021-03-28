@@ -36,7 +36,27 @@ It's on GitHub for a reason! Please submit pull requests.
 > Mobile teams accelerate their workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk and much more. [Instabug is offering Tools of the Trade community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/android/sdk/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=get-started)
 >[![](https://instabug-ga.appspot.com/UA-41982088-6/github/ToolsOfTheTrade?pixel)](https://instabug.com)
 
+* Business
+  * Payments
+  * Marketing
+  * Productivity
+  * For Founders
+  * Business Tracking & Analytics
+  * Design
+  * UX
+    * [Customer Feedback](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/customer-feedback)
+  * Others
 
+* Tech
+  * Data
+  * Programming Productivity
+  * API
+  * Testing & Monitoring
+  * As a Service
+  * DevSecOps
+  * Simple
+  * Hosting
+  * Others
 
 ### Identity Verification
 
