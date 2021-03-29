@@ -41,6 +41,7 @@ Curated list of awesome esoteric programming languages, resources and related pr
 * [INTERCAL](http://www.catb.org/~esr/intercal) - Parody language intended to be completely different from other languages.
 * [Japt](https://github.com/ETHproductions/japt) - Reduced JavaScript for golfing.
 * [Jelly](https://github.com/DennisMitchell/jellylanguage) - Golfing language based on J.
+* [JellyScript](https://github.com/nguyenphuminh/Jellyscript) - Brainfuck-based with delicious jelly.
 * [JSFuck](https://github.com/aemkei/jsfuck) - Esoteric programming style based on the atomic parts of JavaScript.
 * [Lazy K](https://tromp.github.io/cl/lazy-k.html) - Minimal, turing-complete pure functional language without extra features.
 * [LolCode](http://lolcode.org) - Language with keywords based on the lolcat meme expressions.
