@@ -13,7 +13,7 @@ A curated list of awesome ESP8266/32 projects and code.
 > <br/>
 > See [Contributing](https://github.com/agucova/awesome-esp/blob/master/contributing.md) for information on how to contribute to this list.
 > <br/><br/>
-
+---
 <!--lint disable no-repeat-punctuation-->
 <!--lint disable remark-lint-double-link-->
 

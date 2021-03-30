@@ -2892,6 +2892,7 @@ Payment utilities.
 
 - [vue-stripe-checkout](https://github.com/jofftiquez/vue-stripe-checkout) - A simple vue plugin for Stripe checkout.
 - [vue-stripe-payment](https://github.com/samturrell/vue-stripe-payment) - Vue wrapper for jquery.payment by Stripe.
+- [vue-stripe-elements](https://github.com/ectoflow/vue-stripe-elements) - Vue component collection for Stripe.js
 
 ##### Paypal
 
@@ -3079,6 +3080,7 @@ _Text editor plugins_
 - [Vetur](https://github.com/octref/vetur) - Vue tooling for VSCode.
 - [Vue VSCode Snippets](https://github.com/sdras/vue-vscode-snippets) - Snippets that will supercharge your Vue workflow.
 - [Ionic Snippets](https://github.com/moduslabs/ionic/tree/master/packages/ionic-vetur) - Vetur support for Ionic Components
+- [Volar](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
 
 ##### Visual Studio
 

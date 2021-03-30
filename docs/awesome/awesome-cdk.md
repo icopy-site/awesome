@@ -95,6 +95,10 @@ This section includes code libraries in various programming languages which vend
 * [GitHub Action](https://github.com/marketplace/actions/aws-cdk-action) - GitHub Action for AWS CDK.
 * [jsii-publish](https://github.com/udondan/jsii-publish) - A [Docker image](https://hub.docker.com/r/udondan/jsii-publish) and [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build and publish CDK constructs created via [JSII](https://github.com/aws/jsii).
 
+## Tools
+
+* [CDK-Dia](https://github.com/pistazie/cdk-dia) - Automatic infrastructure diagrams for AWS CDK.
+
 ## Training Materials and Sample Code
 
 * [Official CDK Examples](https://github.com/aws-samples/aws-cdk-examples) - A set of example projects for the AWS CDK.

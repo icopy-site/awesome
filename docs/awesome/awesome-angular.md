@@ -370,6 +370,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### Decorators
 
 * [segal-decorators](https://github.com/danrevah/segal-decorators) Bunch of useful decorators for the web!
+* [ng-portal](https://github.com/nigrosimone/ng-portal) Component property connection in Angular application.
 
 #### Site Templates
 
@@ -383,6 +384,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-pipes](https://github.com/danrevah/ngx-pipes) Bunch of useful pipes for Angular and beyond!
 * [ngx-order-pipe](https://github.com/VadimDez/ngx-order-pipe) OrderBy pipe for Angular4+ - sort collection by a field
 * [angular2-camelcase](https://github.com/previousdeveloper/angular2-camelcase) Angular2 pipe to convert camelCase strings to human readable strings Edit
+* [ng-generic-pipe](https://github.com/nigrosimone/ng-generic-pipe) Generic pipe for Angular application.
 
 #### Generators
 
@@ -583,6 +585,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ng-http-cache](https://github.com/davguij/angular-http-cache) - Speed up your remote requests by automatically caching them on client.
 * [ngx-cache](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
 * [universal-model-angular](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular
+* [ng-http-caching](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
 
 #### Tables
 
