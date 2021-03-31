@@ -82,7 +82,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Packer for Sitecore](https://github.com/asmagin/sitecore-packer) - Repository contains Packer templates for a local Sitecore hosting environment with IIS and and SQL Server on Windows, SOLR and Sitecore 9.0 building virtual machine images and Vagrant boxes for VirtualBox, provisioned with Chef.
 - [Docker SOLR with SSL](https://github.com/LaubPlusCo/docker-solr-ssl) - A simple setup that set up a Linux container on a host running solr with SSL using a generated certificate.
 - [Sitecore Docker Tools](https://github.com/sitecore/docker-tools) - Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints which can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.
-
+- [Konabos Docker Examples](https://github.com/konabos/konabos-docker-examples) - Sample compose files and associated configuration beyond those officially provided by Sitecore.
 
 
 - [Sitecore Content Hub Importer](https://github.com/vasiliyfomichev/content-hub-importer) - Sitecore Content Hub Asset Importer; allows importing image assets from various data sources into Sitecore Content Hub.
@@ -102,6 +102,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [SitecoreDataImporter](https://github.com/markstiles/SitecoreDataImporter) - Used to import Database data and Sitecore content into Sitecore.
 - [SitecoreEzImporter](https://github.com/dresser/SitecoreEzImporter) - Data Import tool for Sitecore CMS using SPEAK UI.
+
+## Data Exchange Framework
+
+- [Gutters for Sitecore Data Exchange Framework](https://github.com/KayeeNL/Sitecore.DataExchange.Gutters) - Collection of 3 gutters for DEF to provide a quick solution for context item of an item within the tree: `ItemDisabled`, `PipelineBatch` and `PipelineStep`.
 
 ## Demo
 - [Sitecore Habitat](https://github.com/Sitecore/Habitat) - Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.
@@ -159,6 +163,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [JavaScript Services Anti-Forgery Tokens](https://github.com/coreyasmith/jss-anti-forgery-tokens) - A sample repository to demonstrate how to use .NET anti-forgery tokens in Sitecore JavaScript Services with both MVC and Web API controllers using out-of-the-box anti-forgery token validators. The demo API is also completely mocked in disconnected mode to show how this functionality can work in both disconnected and connected modes.
 - [How to GraphQL](https://github.com/kamsar/howtographql) - A fullstack tutorial website to learn all about GraphQL.
 
+## JAMstack
+
+- [Next.js Starter kit using GraphQL and Sitecore Experience Edge for Content Hub](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - This is a great example of Sitecore Experience Edge Content as-a-Service approach using NextJS upon React, using a demo instance of the latest Content Hub.
+
 ## Helix
 
 - [Sitecore Helix Documentation](https://github.com/Sitecore/Helix.Docs) - The official guidelines and recommended practises for developing in Sitecore for Sitecore Helix.
@@ -170,6 +178,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Helix Publishing Pipeline](https://github.com/richardszalay/helix-publishing-pipeline) - Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimisations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line.
 - [CustomLinkProvider](https://github.com/TwentyGotoTen/CustomLinkProvider) - A demonstration of Converting a custom Sitecore link provider from non-Helix to Helix.
 - [Elision](https://github.com/sitecore-elision) - An open source Sitecore accelerator implementing Helix principles.
+- [Helixify](https://github.com/konabos/Konabos.Helixify) - The module designed to add instant Helix compatilbility to any Sitecore project.
 
 ## Icons
 
@@ -296,6 +305,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Westco SXA Extensions](https://github.com/michaellwest/westco-sxa-extensions) - Sitecore Experience Accelerator (SXA) extensions.
 - [docker-sxa-node](https://github.com/michaellwest/docker-sxa-node) - Demonstrates using the SXA CLI from within a Docker container with Node installed.
 - [SXA Securty Headers](https://github.com/GuitarRich/SXA.SecurityHeaders) - Shows how to implemenmt response security headers on an exaple of SXA, but they are truly Helix-generic.
+- [SXA.Platform.Assemblies](https://github.com/konabos/SXA.Platform.Assemblies) - the lists of assemblies for SXA back to v1.6 and Powershell script to generate your own.
 
 ## Testing
 

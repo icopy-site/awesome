@@ -21,9 +21,9 @@ For actual NoSQL databases, you can go
 
 ## Overview of NoSQL
 
-- [Introduction To NoSQL - Martin Fowler (54:52)](https://youtube.com/watch?v=qI_g07C_Q5I) - Talk given at GOTO 2012 as a great introduction to NoSQL databases, the types of NoSQL databases, their history, pros and cons, and how and when to use them.
+- [Introduction To NoSQL - Martin Fowler (54:52)](https://www.youtube.com/watch?v=qI_g07C_Q5I) - Talk given at GOTO 2012 as a great introduction to NoSQL databases, the types of NoSQL databases, their history, pros and cons, and how and when to use them.
 - [NoSQL Distilled](https://martinfowler.com/books/nosql.html) - Very digestable and affordable book describing the different NoSQL databases and help you make the decision on whether using a NoSQL database is appropriate for your project.
-- [Seven Databases in Song (1:43)](https://youtube.com/watch?v=jyx8iP5tfCI) - Fun song from 2012 about seven (six are NoSQL) databases with a very condensed overview of how they each work.
+- [Seven Databases in Song (1:43)](https://www.youtube.com/watch?v=jyx8iP5tfCI) - Fun song from 2012 about seven (six are NoSQL) databases with a very condensed overview of how they each work.
 - [NoSQL Databases: a Survey and Decision Guidance (2016)](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d) - "This NoSQL Toolbox allows us to derive a simple decision tree to help practitioners and researchers filter potential system candidates based on central application requirements".
 - [Data Management in the Cloud: Limitations and Opportunities (PDF)](http://www.cs.umd.edu/~abadi/papers/abadi-cloud-ieee09.pdf) - Abadi (2009) discusses limitations and opportunities of data management and data analysis in the cloud.
 - [10 NoSQL Misconceptions](https://www.dummies.com/programming/big-data/10-nosql-misconceptions/) - Some misconceptions about NoSQL databases relating to topics such as what they are, ACID-compliance, and security.
@@ -37,6 +37,7 @@ For actual NoSQL databases, you can go
 - [NoSQL vs SQL: Demystifying NoSQL Databases (2019)](https://build5nines.com/nosql-vs-sql-demystifying-nosql-databases/) - General overview and examples of NoSQL database schema types, while covering CAP theorem tradeoffs.
 - [Comparing Database Types: How Database Types Evolved to Meet Different Needs](https://www.prisma.io/dataguide/intro/comparing-database-types) - Good overview of databases in general and how NoSQL database types differ and can be useful.
 - [The NoSQL Ecosystem](https://www.aosabook.org/en/nosql.html) - A chapter written by Adam Marcus from "The Architecture of Open Source Applications" book, this chapter is geared more towards systems architects needing to learn more in-depth understanding of how these systems are built.
+- [What is NoSQL - Amazon AWS](https://aws.amazon.com/nosql/) - Great high-level overview of NoSQL databases and how they compare to SQL database technologies and terminologies.  Serves as landing page for Amazon's AWS services for NoSQL options of key-value (Amazon DynamoDB), document (Amazon DocumentDB), graph (Amazon Neptune), in-memory (Amazon ElastiCache), and search-engine (Amazon Elasticsearch) database.
 
 
 ## Data Structures and Modeling
@@ -68,7 +69,7 @@ For actual NoSQL databases, you can go
 ## Graph Databases
 
 - [Graph Databases Use Cases](https://neo4j.com/use-cases/) - Although documents geared towards Neo4j, concepts are applicable to all graph databases.
-- [How the ICIJ Used Neo4j to Unravel the Panama Papers - Mar Cabra (32:02)](https://youtube.com/watch?v=S20XMQyvANY) - Learn how graph databases were key to explore who were the main names connected to companies in tax havens, including 140 politicians in more than 50 countries.
+- [How the ICIJ Used Neo4j to Unravel the Panama Papers - Mar Cabra (32:02)](https://www.youtube.com/watch?v=S20XMQyvANY) - Learn how graph databases were key to explore who were the main names connected to companies in tax havens, including 140 politicians in more than 50 countries.
 - [Graph Databases for Beginners: The Basics of Data Modeling](https://neo4j.com/blog/data-modeling-basics/) - Discusses the basics of modeling your data and which approach you should take.
 - [Graph Data Modeling Guidelines](https://neo4j.com/developer/guide-data-modeling/) - Directly related to Neo4j, but possibly applicable to any graph database.
 - [Graph Data Modeling Visualize Structure and Meaning](http://www.graphdatamodeling.com) - Brief introduction to graph data modeling and is an introduction to the book "Graph Data Modeling for NoSQL and SQL" by Thomas Frisendal.
@@ -84,6 +85,6 @@ For actual NoSQL databases, you can go
 
 ## Miscellaneous
 
-- [What is a NoSQL Database? Learn By Writing One In Python](https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/) - Excellent tutorial in learning NoSQL vs RDBMS through building a toy database using Python.
+- [What is a NoSQL Database? Learn By Writing One In Python](https://web.archive.org/web/20201109032031/https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/) - Excellent tutorial in learning NoSQL vs RDBMS through building a toy database using Python.
 - [Dynamo vs Cassandra : Systems Design of NoSQL Databases](https://sujithjay.com/data-systems/dynamo-cassandra/) - Blog post comparing and constrating system designs of two well known NoSQL databases.
 - [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) - Brief overview of NoSQL databases and the spectrum of schema, along with a very basic implementation of a NoSQL database using the Crystal programming language.

@@ -387,6 +387,8 @@ the underlying language.
   hight-speed Regular Expression library for Text Mining and Text Extraction.
 - [regex_sample](https://github.com/mochizukikotaro/regex_sample) -
   sample string generation from a given Regular Expression.
+- [iuliia](https://github.com/adnikiforov/iuliia-rb) &mdash;
+  transliteration Cyrillic to Latin in many possible ways (defined by the [reference implementation](https://github.com/nalgeon/iuliia)).
 
 ## Articles, Posts, Talks, and Presentations
 

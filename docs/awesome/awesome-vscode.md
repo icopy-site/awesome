@@ -561,6 +561,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Paste JSON as Code](https://raw.githubusercontent.com/quicktype/quicktype-vscode/master/media/demo.gif)
 
+## [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
+
+> Provides path completion for visual studio code.
+
+![Path Autocomplete](https://raw.githubusercontent.com/ionutvmi/path-autocomplete/master/demo/path-autocomplete.gif)
+
 ## [Path IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
 > Visual Studio Code plugin that autocompletes filenames

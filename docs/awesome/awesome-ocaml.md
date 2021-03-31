@@ -103,6 +103,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 ## Compilers and Compiler Tools
 
 - **Languages and Compilers**:
+  - [Caramel](https://caramel.run/) - Caramel is a functional language for building type-safe, scalable, and maintainable applications.
   - [cDuce](http://www.cduce.org/) - cDuce is a modern XML-oriented functional language with innovative features.
   - [Compcert C Compiler](http://compcert.inria.fr/) - It is a C Compiler supporting most of the ISO C90 and C99 / ANSI C  features.
   - [Eff Programming Language](http://www.eff-lang.org/) - Eff is a functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O.
@@ -190,6 +191,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 - [Try OCaml](https://try.ocamlpro.com/) – Try OCaml in your web browser.
 - [codingground](https://www.tutorialspoint.com/compile_ocaml_online.php) – Compile and execute OCaml code online.
+- [OCaml: Learn & Code iOS app](https://apps.apple.com/app/ocaml-learn-code/id1547506826) - Learn and execute OCaml code from your iPhone/iPad/Mac.
 - [Jupyter](https://github.com/akabe/ocaml-jupyter) – An OCaml kernel for the Jupyter notebook.
 - [utop](https://github.com/ocaml-community/utop) – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
 - [ocamlformat](https://github.com/ocaml-ppx/ocamlformat) - A command-line tool to format OCaml code.
