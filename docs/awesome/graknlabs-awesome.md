@@ -49,6 +49,11 @@ List of officially supported drivers to connect with Grakn Server.
 - [`Documentation for mainline version`](https://docs.grakn.ai/)
 - [`Documentation for alpha version`](https://https://dev.docs.grakn.ai/)
 
+## Example projects
+
+- [`Grakn Examples`](https://github.com/graknlabs/examples)
+- [`classbasics/graknDemo`](https://github.com/classbasics/graknDemo)
+
 ## Blog posts
 
 - [A day described in Grakn](https://towardsdatascience.com/a-day-described-in-grakn-part-i-46bb7e3cd82a)
