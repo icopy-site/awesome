@@ -31,6 +31,7 @@ Web-based biology-related visualization tools are often scattered across the int
 - [GeneMANIA](http://genemania.org/) - Helps predict the function of genes and gene sets.
 - [Mutaframe](http://deogen2.mutaframe.com/) - Visualize variants of the human genome.
 - [Coessentiality](http://coessentiality.net) - A genome-wide almanac of co-essential modules assigns function to uncharacterized genes.
+- [Gosling](https://gosling.js.org) - A grammar-based toolkit for scalable and interactive genomics data visualization.
 
 ## 3D Genomics
 - [HiGlass](http://higlass.io/) - A tool for exploring genomic contact matrices and tracks.

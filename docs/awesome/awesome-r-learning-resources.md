@@ -104,6 +104,10 @@ Please consider making a [donation in support of Asian communites](https://nymag
 - [Time Based Heatmaps in R](https://www.littlemissdata.com/blog/heatmaps) - Author: Laura Ellis.
 - [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html) - This tutorial helps you choose the right type of chart for your specific objectives and how to implement it in R using ggplot2. Author: Selva Prabhakaran.
 
+### Web Scraping
+
+- [Web Scraping Reference: Cheat Sheet for Web Scraping using R](https://github.com/yusuzech/r-web-scraping-cheat-sheet) - Guide, reference and cheatsheet on web scraping using rvest, httr and Rselenium. Author: [yifyan et al.](https://github.com/yusuzech)
+
 ### Wrangling
 
 - [Data manipulation in r using data frames - an extensive article of basics](https://www.dataenq.com/2020/08/data-manipulation-in-r-using-data-frame.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dataenqfeed+%28dataENQ%29) - Author: dataENQ.
@@ -117,6 +121,7 @@ Please consider making a [donation in support of Asian communites](https://nymag
 - [Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) - A detailed comparison of R packages data.table and dplyr. Author: Atrebas.
 - [data.table: A gentle introduction](https://atrebas.github.io/post/2020-06-17-datatable-introduction/) - A quick introduction to data.table. The main objective is to present the data.table syntax, showing how to perform basic, but essential, data wrangling tasks. Author: Atrebas.
 - [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) - Author: Colin Fay.
+- [From base R to stringr](https://stringr.tidyverse.org/articles/from-base.html) - This vignette compares stringr functions to their base R equivalents to help users transitioning from using base R to stringr. Author: Sara Stoudt.
 - [R - discoRd server](https://discord.gg/88uG5UVyE2) - Dedicated discoRd server with the following topic-based channels: `R-Main` for more general discussions, `R-Share` for showing off your data visuals, `General R Help` for asking questions and sharing learning resources, and `Topical Help/Discussion` for issues dealing with statistics, dbi, tidymodels, shiny, natural-science, social-science, bayesians, gis, and finance. 
 - [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/) - A Reddit subreddit focused on implementing the R programming language for statistics and data science.
 - [Subreddit - r/programming - The R Project for Statistical Computing](https://www.reddit.com/r/rprogramming/) - A Reddit subreddit focused on using R for statistical computing.
