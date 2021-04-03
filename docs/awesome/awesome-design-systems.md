@@ -54,6 +54,9 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 - [Figma](https://www.figma.com/) - Helps teams create, test, and ship better designs from start to finish (cross-platform).
 - [InVision](https://www.invisionapp.com/) - The digital product design platform powering the world's best user experiences.
 - [Sketch](https://www.sketch.com/) - A design toolkit built to help you create your best work from your earliest ideas, through to final artwork (for macOS).
+- [AdobeXD](https://www.adobe.com/products/xd.html) - Share your story with designs that look and feel like the real thing. Wireframe, animate, prototype, collaborate, and more — it’s all right here, all in one UI/UX design tool.
+- [Marvel](https://marvelapp.com/) - Marvel has everything you need to bring ideas to life and transform how you create digital products with your team. Placing the power of design in everyone’s hands.
+- [UXPin](https://www.uxpin.com/) - Design and manage your entire UX/UI project in one tool.
 
 See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)!
 
@@ -158,6 +161,7 @@ More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 - [Design systems](https://www.smashingmagazine.com/design-systems-book/) - A practical guide to creating design languages for digital products by Alla Kholmatova (Smashing Magazine).
 - [Front-End Style Guides](https://www.maban.co.uk/projects/front-end-style-guides/) - Creating and maintaining style guides for websites by Anna Debenham.
 - [Frontend Architecture for Design Systems](http://shop.oreilly.com/product/0636920040156.do) - A modern blueprint for scalable and sustainable websites by Micah Godbolt.
+- [Introduction to Design Systems](https://fem-design-systems.netlify.app/) - A practical introduction to design systems by using React, Figma and Storybook by Emma Bostian
 - [Modular Web Design](https://www.amazon.com/Modular-Web-Design-Components-Documentation/dp/0321601351/) - Creating Reusable Components for user experience design and documentation by Nathan Curtis.
 
 ## Talks
