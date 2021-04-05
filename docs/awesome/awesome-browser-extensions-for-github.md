@@ -78,11 +78,6 @@ Set custom tab size for code view on GitHub.com
 Installs: 727 | Stars: 59 | Last update: 6 May 2019
 
 
-The Dark Mode for GitHub.com
-
-Installs: 29 | Stars: 16 | Last update: 5 Dec 2020
-
-
 Easily navigate through the changes in a file that has been edited on GitHub.
 
 Installs: 202 | Stars: 13 | Last update: 7 Sep 2018
