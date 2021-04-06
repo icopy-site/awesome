@@ -215,6 +215,11 @@ Useful for developers who frequently read source in GitHub and do not want to do
 Installs: 332968 | Stars: 21154 | Last update: 30 Mar 2021
 
 
+Revert GitHub's UI back to its classic look (before the June 23, 2020 update that has a flat, rounded and more whitespaced design).
+
+Installs: n/a | Stars: n/a | Last update: n/a
+
+
 This browser extension allows you to open files in your IDE directly from GitHub, assuming the repository you are working on is cloned on your computer. When a fragment of a file is displayed, your IDE opens the file and puts the cursor at the desired line.
 
 Installs: 228 | Stars: 13 | Last update: 20 Mar 2021

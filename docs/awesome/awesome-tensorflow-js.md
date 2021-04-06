@@ -64,6 +64,10 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 
 - [Learning Tensorflow.js: Powerful Machine Learning in JavaScript](https://amzn.to/3dR3vpY) - In this guide, author [Gant Laborde](https://github.com/gantman) provides a hands-on, end-to-end approach to TensorFlow.js fundamentals for a broad technical audience that includes data scientists, engineers, web developers, students, and researchers.
 
+- [Practical TensorFlow.js](https://www.apress.com/gp/book/9781484262726) - Deep Learning in Web App Development by Juan De Dios Santos Rivera.
+
+- [Practical Machine Learning in JavaScript](https://www.apress.com/gp/book/9781484264171) - TensorFlow.js for Web Developers by Charlie Gerard.
+
 
 ### Blog & Posts
 
