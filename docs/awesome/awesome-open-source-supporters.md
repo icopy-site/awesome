@@ -29,6 +29,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [SensioLabsInsight](https://insight.sensiolabs.com/) - Automated code review for PHP.
 - [Scrutinizer](https://scrutinizer-ci.com/) - Continuous code quality analysis.
 - [Sider](https://sider.review/) - Automated code review.
+- [SonarCloud](https://sonarcloud.io/) - Continuous code inspection.
 - [StyleCI](https://styleci.io/) - PHP code style review.
 
 ## Continuous Integration
@@ -101,11 +102,12 @@ A curated list of awesome companies that offer their tools and services for free
 
 ## Miscellaneous
 
-- [Algolia](https://www.algolia.com) - `requires-approval` Search as a service API.
+- [Algolia](https://www.algolia.com/for-open-source/) - `requires-approval` Search as a service API.
 - [Apiary](https://apiary.io/) `requires-approval` - API design, development, and documentation platform.
 - [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) `requires-approval` - Productivity tools for teams (Jira, Confluence, Bamboo, HipChat).
 - [Auth0](https://auth0.com/) `requires-approval` - SSO & token-based authentication.
 - [BackHub](https://backhub.co/) - Automated GitHub repository backups.
+- [Beamdock](https://beamdock.com) - `requires-approval` - Helps you gather user feedback, features requests, schedule interview session with users and notify customers about feature rollouts.
 - [BrowserStack](https://www.browserstack.com/) `requires-approval` - Cross-browser testing tool.
 - [Cloud9](https://c9.io/) - Cloud-based development environments.
 - [Codota](https://www.codota.com/) - AI pair programming assistant.
@@ -113,6 +115,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Helpmonks](https://helpmonks.com/) `requires-approval` - Collaborative team email inboxes.
 - [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval` `non-commercial` - Software vendor specializing in the creation of intelligent development tools.
 - [Libraries.io](https://libraries.io/) - Open source discovery service.
+- [LoginRadius](https://www.loginradius.com/)  `requires-approval`  - Authentication and SSO Made Simple.
 - [Mailman 3](https://mailman3.com/) `requires-approval` - Mailing lists for distributed teams.
 - [Mailtrap](https://mailtrap.io/) `requires-approval` - Fake SMTP testing server.
 - [Netlify](https://www.netlify.com) `requires-approval` - Hosting for static sites.

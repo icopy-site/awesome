@@ -12,6 +12,13 @@ All numbers are updated daily and include the overall  usage of an extension acr
 
 <br>
 <br>
+
+## Supporters
+
+Thanks for those who are supporting my work via [GitHub Sponsors](https://github.com/sponsors/stefanbuck).
+
+[Your logo here?](https://github.com/sponsors/stefanbuck?frequency=one-time&sponsor=stefanbuck)
+
 <br>
 <br>
 
