@@ -76,11 +76,8 @@
 - 💼 [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) - Adds `box-shadow` utilities based on configured colors.
 - 💼 [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - Adds `text-indent` utilities.
 - 💼 [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Adds `image-rendering` utilities.
-- 💼 [Filters](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
 - 💼 [Elevation](https://github.com/jonaskay/tailwindcss-elevation) - Adds [Material UI `elevation`](https://material.io/design/environment/elevation.html) utilities.
 - 💼 [Caret Color](https://github.com/GraxMonzo/tailwind-caret-color) - Adds `caret` color utilities.
-- 💼 [Blend Mode](https://github.com/hacknug/tailwindcss-blend-mode) - Adds `blend-mode` utilities.
-- 💼 [Colorize](https://github.com/philippbosch/tailwindcss-colorize) - Adds `filter` utilities.
 - 💼 [Writing Mode](https://github.com/magicspon/tailwindcss-writing-mode) - Adds `writing-mode` utilities.
 - 💼 [Hyphens](https://github.com/philippbosch/tailwindcss-hyphens) - Adds `hyphens` utilities.
 - 💼 [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) - Adds `border-image` gradient utilities.
@@ -98,7 +95,6 @@
 - 💼 [Background SVG](https://github.com/AndersNielsen85/tailwindcss-bg-svg) - Inject SVGs as background images with color variants.
 - 💼 [Brand Colors](https://github.com/praveenjuge/tailwindcss-brand-colors) - Adds various brand colors for background, border and text.
 - 💼 [Bootstrap Grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
-- 💼 [CSS Filters](https://github.com/Larsklopstra/tailwindcss-css-filters) - Adds `filter` and `backdrop-filter` utilities with defaults.
 - 💼 [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize](https://github.com/seek-oss/capsize).
 - 💼 [Text Decoration Color](https://github.com/ahmadawais/tailwind-text-decoration-color) - Adds `text-decoration-color` utilities.
 - 💼 [Scrollbar Hide](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
@@ -123,6 +119,7 @@
 - 🧩 [Skip link](https://github.com/opdavies/tailwindcss-skip-link) - Adds a _Skip to main content_ accessible component.
 - 🧩 [Colors to CSS Variables](https://github.com/n1kk/tailwind-color-vars) - Exports color configuration to CSS Custom Properties.
 - 🧩 [CSS Variables](https://github.com/omarkhatibco/tailwind-css-variables) - Exports configuration to CSS Custom Properties.
+- 🧩 [CSS Variables](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables (Dark Mode supported).
 
 > 🛑 - _The plugins below offer functionalities that are now fully or partially implemented in Tailwind CSS._
 
@@ -141,6 +138,10 @@
 - 🛑💼 [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) - Adds basic transition utilities.
 - 🛑💼 [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) - Extends `cursor` utilities.
 - 🛑💼 [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) - Adds `font-variant-numeric` utilities.
+- 🛑💼 [Filters](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
+- 🛑💼 [CSS Filters](https://github.com/Larsklopstra/tailwindcss-css-filters) - Adds `filter` and `backdrop-filter` utilities with defaults.
+- 🛑💼 [Blend Mode](https://github.com/hacknug/tailwindcss-blend-mode) - Adds `blend-mode` utilities.
+- 🛑💼 [Colorize](https://github.com/philippbosch/tailwindcss-colorize) - Adds `filter` utilities.
 - 🛑🧬 [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - Adds opacity variants to existing colors.
 - 🛑🧩 [Spinner](https://github.com/aniftyco/tailwindcss-spinner) - Adds a spinner component.
 - 🛑🧩 [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) - Adds `spaced` components that add fixed margins to all container items.
@@ -329,6 +330,7 @@
 - 🎬 [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) - Building a movie production landing page with Tailwind CSS.
 - 🎬 [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - Building a responsive navbar with Tailwind CSS.
 - 🎬 [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - Dribbble shot with Tailwind CSS.
+- 💙🎬 [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Complete walkthrough of Tailwind CSS, from installation to optimization for deployment.
 - 🎬 [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
 - 🎓 [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) - Creating a modal dialog with Tailwind CSS.
 - 🎓 [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Building UIs of Shopify, Spotify, Netlify and Atlassian.

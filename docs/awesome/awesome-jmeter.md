@@ -103,7 +103,6 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Tutorials & Demo
 
 - Jenkins
-  - [Automated performance testing using JMeter and Maven](https://www.atlassian.com/blog/archives/automated_performance_testing_using_jmeter_and_maven)
   - [Performance Tests with JMeter, Maven and Hudson](https://medium.com/the-server-labs/performance-tests-with-jmeter-maven-and-hudson-d1cbdb3ffad8)
   - [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
   - [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
@@ -278,7 +277,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 *Alternative editors for JMX files, in addition to standard JMeter GUI and XML editors.*
 
 <!--lint ignore double-link-->
-- [BlocklyJMX Editor](https://jmeter-plugins.org/editor/) - A Web-based viewer and editor for JMeter test plan files (part of [JMeter Plugins](#plugins) project).
+- [BlocklyJMX Editor](https://jmeter-plugins.org/editor/) - A web-based viewer and editor for JMeter test plan files (part of [JMeter Plugins](#plugins) project).
+- [JEval](https://github.com/QAInsights/JEval) - A Python-based utility which evaluates JMeter test plan and provides recommendations and best practices by analyzing each element.
 - [JMX Enhancer](https://www.jmxenhancer.com/) - A solution to expedite preparation of JMeter test plans.
 - [jmx.js](http://www.vinodkd.org/jmx.js/) - Web-based editor for JMeter JMX files 💀.
 

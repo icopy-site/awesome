@@ -204,6 +204,7 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 * [Comparative Toxicogenomics Database](https://ctdbase.org/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323936/) - A database of manually curated associations between chemicals, gene products, phenotypes, diseases, and environmental exposures. Useful for assembling ontologies of the related concepts, such as types of chemicals.
 * [MIMIC-III](https://mimic.physionet.org/) - [paper](https://www.nature.com/articles/sdata201635) - Deidentified health data from ~60,000 intensive care unit admissions. Requires completion of an online training course (CITI training) and acceptance of a data use agreement prior to use.
 * [MIMIC-IV](https://mimic-iv.mit.edu/) - An update to MIMIC-III's multimodal patient data, now covering more recent years of admissions, plus a new data structure, emergency department records, and links to MIMIC-CXR images.
+* [eICU Collaborative Research Database](https://eicu-crd.mit.edu/) - [paper](https://www.nature.com/articles/sdata2018178) - a database of observations from more than 200 thousand intensive care unit admissions, with consistent structure. Requires registration, training course completion, and data use agreement.
 
 
 ## Ontologies and Controlled Vocabularies

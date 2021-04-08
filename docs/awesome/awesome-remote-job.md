@@ -143,6 +143,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Crypto Jobs List](https://cryptojobslist.com/remote) - #1 job board to find and post crypto, bitcoin and blockchain jobs.
   1. [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/remote/) - Location filter -> *Remote*
   1. [Daily Remote](https://dailyremote.com) Filter and find remote jobs for every role!
+  1. [Diversify Tech](https://www.diversifytech.co/job-board) - Companies are transparent about their Diversity & Inclusion efforts 
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
   1. [Find Bacon](https://findbacon.com) - Design and Dev jobs
@@ -165,7 +166,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Larajobs](https://larajobs.com/?location=&remote=1) – The artisan employment connection
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
   1. [NODESK](https://nodesk.co/remote-jobs/)
-  1. [Nonprofit Remote](https://nonprofitremote.com/) - A place where remote workers, volunteers, and nonprofits connect.
   1. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
   1. [Remote Game Jobs](https://remotegamejobs.com/) - Find remote work and talent in the game industry.
   1. [remote-es/remotes](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts

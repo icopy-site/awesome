@@ -82,7 +82,7 @@ A list of mature apps built with Material-UI Design.
 - [bethesda.net](https://bethesda.net/) - The official site for Bethesda, publisher of Fallout, DOOM, Dishonored, Skyrim, Wolfenstein, The Elder Scrolls, more.
 - [NEO Tracker](https://neotracker.io/) - NEO blockchain explorer and wallet.
 - [TagSpaces](https://www.tagspaces.org/) - An offline, open source, file manager.
-- [Builder Book](https://builderbook.org/) - An open source web app to write and host documentation or sell books.
+- [Builder Book](https://builderbook.org/) - Books that teach you how to build full stack, production-ready web apps.
 - [NPM registry browser](https://topheman.github.io/npm-registry-browser/) - An open source web app that lets you search the npm registry and browse packages details.
 - [Serverless Permission Policy Generator](https://github.com/Open-SL/serverless-permission-generator) - An Online Application to generate AWS IAM permissions required for deploying a Serverless stack.
 
@@ -94,6 +94,7 @@ A list of starter projects and boilerplates built with Material-UI Design.
 - [create-react-app-material-ui](https://github.com/katopz/create-react-app-material-ui) - Simple Create React App with Material-UI form submit example.
 - [react-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) - A starter kit for react and Material-UI.
 - [gatsby-starter-material-ui](https://github.com/nareshbhatia/gatsby-starter-material-ui) - A starter template for Gatsby using Material-UI.
+- [saas](https://github.com/async-labs/saas) - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
 
 ## Contributing
 
