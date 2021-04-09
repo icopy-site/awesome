@@ -268,6 +268,7 @@ Table of Contents
   * [shtab.app](https://shtab.app/) - Project management service that makes collaboration in the office and remotely transparent with tracker based on AI.
   * [Zulip](https://zulip.com/) — Real-time chat with unique email-like threading model. Free plan includes 10,000 messages of search history and File storage up to 5 GB. also it provides self-hostable open-source version.
   * [Automate.io](https://automate.io) - Simple and complex automation workflow tool with over 200+ app integrations. 300 monthly actions and 5 bots are free
+  * [robocorp.com](https://robocorp.com) - Open-source stack for powering Automation Ops. Try out Cloud features and implement simple automations for free. Robot work 240 min/month, 10 Assistant runs, Storage of 100 MB. 
 
 ## CMS
 
@@ -502,7 +503,6 @@ Table of Contents
   * [elastic.co](https://www.elastic.co/solutions/apm) — Instant performance insights for JS developers. Free with 24 hours data retention
   * [freeboard.io](https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things (IoT) projects
   * [freshworks.com](https://www.freshworks.com/website-monitoring/) — Monitor 50 URLs at 1-minute interval with 10 Global locations and 5 Public status pages for Free
-  * [ghostinspector.com](https://ghostinspector.com/) — Free website and web application monitoring. Single user, 100 test runs/month
   * [gitential.com](https://gitential.com) — Software Development Analytics platform. Free: unlimited public repositories, unlimited users, free trial for private repos. On-prem version available for enterprise.
   * [Grafana Cloud](https://grafana.com/products/cloud/) - Grafana Cloud is a composable observability platform, integrating metrics and logs with Grafana. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)
   * [healthchecks.io](https://healthchecks.io) — Monitor your cron jobs and background tasks. Free for up to 20 checks.
@@ -839,7 +839,6 @@ Table of Contents
    * [InfluxDB](https://www.influxdata.com/) — Timeseries database, free up to 3MB/5 minutes writes, 30MB/5 minutes reads and 10,000 cardinalities series
    * [Quickmetrics](https://www.quickmetrics.io/) — Timeseries database with dashboard included, free up to 10,000 events/day and total of 5 metrics.
    * [restdb.io](https://restdb.io/) - a fast and simple NoSQL cloud database service. With restdb.io you get schema, relations, automatic REST API (with MongoDB-like queries) and an efficient multi-user admin UI for working with data. Free plan allows 3 users, 2500 records and 1 API requests per second.
-   * [Unbounded](https://www.unbounded.cloud/) - a NoSQL DBaaS which uses Javascript as a query language. Free tier allows 50,000 reads and writes per month, forever.
    * [Freedb](https://freedb.tech) - Free MySQL cloud database with remote access with PhpMyAdmin available. Free tier allows a database up to 100Mb in Database Storage. **If the database exceeding 100Mb will be deleted without any warning.**
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
