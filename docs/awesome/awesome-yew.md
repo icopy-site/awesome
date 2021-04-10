@@ -78,6 +78,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [patternfly-yew](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
 - [yew-feather](https://github.com/pedrodesu/yew-feather) - Feather Icons components for Yew.
 - [tailwind-yew-builder](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
+- [yew-components](https://github.com/angular-rust/yew-components) - Material Design Components for the Yew framework.
 
 ### Components
 
