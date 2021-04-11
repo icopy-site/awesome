@@ -1,5 +1,7 @@
 <div class="github-widget" data-repo="sfischer13/awesome-ledger"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<!--lint disable double-link-->
+
 ## Awesome Ledger [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Useful resources for the [Ledger](http://ledger-cli.org/) command-line accounting system
@@ -11,7 +13,6 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
 
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -62,9 +63,3 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 - [Code](https://github.com/ledger/ledger) - Code on GitHub.
 - [Ports](https://github.com/ledger/ledger/wiki/Ports) - List of alternative implementations.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Stefan Fischer](https://github.com/sfischer13) has waived all copyright and related or neighboring rights to this work.

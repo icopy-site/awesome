@@ -1,5 +1,7 @@
 <div class="github-widget" data-repo="sfischer13/awesome-eta"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<!--lint disable double-link-->
+
 ## Awesome Eta [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Useful resources for the [Eta](https://eta-lang.org/) programming language
@@ -11,7 +13,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
 
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -27,7 +28,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### First Steps
 
 - [Getting Started](https://eta-lang.org/docs/user-guides/eta-user-guide/introduction/what-is-eta) - First steps with Eta.
-- [Tour of Eta](https://tour.eta-lang.org) - Learn Functional Programming the Easy Way.
 - [Prelude](https://github.com/eta-lang/eta-prelude) - Default modules for an easier start.
 
 ### Comparisons
@@ -43,10 +43,8 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Official Resources
 
-- [Documentation](https://eta-lang.org/docs/) - Eta documentation.
 - [Tutorials](https://eta-lang.org/docs/tutorials) - Eta tutorials.
 - [FAQ](https://eta-lang.org/docs/faq) - Frequently asked questions.
-- [Tour of Eta](https://tour.eta-lang.org/) - Introduction to Eta.
 - [Eta Cheatsheets](https://eta-lang.org/docs/cheatsheets) - Eta reference.
 - [Eta Blog: Java I](https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d) - Using Eta with Java, part I.
 - [Eta Blog: Java II](https://blog.eta-lang.org/the-best-of-both-the-worlds-eta-and-java-part-2-d7cf27acdef7) - Using Eta with Java, part II.
@@ -58,7 +56,6 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [Google Group](https://groups.google.com/forum/#!forum/eta-discuss) - Eta Google Group.
 - [Gitter](https://gitter.im/typelead/eta) - Gitter channel.
-- [Slack](https://slack.eta-lang.org/) - Slack channel.
 - [IRC](https://kiwiirc.com/client/irc.freenode.net/#eta-lang) - IRC channel.
 
 ## Twitter
@@ -119,9 +116,3 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 - [eta-examples](https://github.com/typelead/eta-examples) - Examples of Eta code.
 - [eta-2048](https://github.com/rahulmutt/eta-2048) - The 2048 game written in Eta.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Stefan Fischer](https://github.com/sfischer13) has waived all copyright and related or neighboring rights to this work.
