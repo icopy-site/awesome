@@ -72,6 +72,10 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Vue.js Developers Newsletter](https://www.getrevue.co/profile/vuejs-developers). A weekly curated publication of the best articles, latest news and coolest Vue projects.
 - [VueDose](https://vuedose.tips). Tips & tricks about the Vue ecosystem, for busy devs. Published weekly.
 
+#### Svelte
+
+- [Svelte News Weekly](https://svelte.news/weekly). A curated newsletter for Svelte enthusiasts with a weekly dose of handpicked news.
+
 ### Data Visualization
 
 - [Data Visualization & D3.js Weekly Newsletter](https://www.dashingd3js.com/data-visualization-and-d3-newsletter). Get D3.js and Data Visualization news, articles, jobs and more delivered to your inbox every Tuesday.

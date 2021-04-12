@@ -371,6 +371,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [segal-decorators](https://github.com/danrevah/segal-decorators) Bunch of useful decorators for the web!
 * [ng-portal](https://github.com/nigrosimone/ng-portal) Component property connection in Angular application.
+* [ng-lock](https://www.npmjs.com/package/ng-lock) Angular decorator for lock a function and user interface while a task running.
 
 #### Site Templates
 
@@ -651,7 +652,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### Viewers
 
 * [egjs-flicking](https://github.com/naver/egjs-flicking/tree/master/packages/ngx-flicking) - It's reliable, flexible and extendable carousel for Angular.
-* [ng2-markdown](https://github.com/evanplaice/ng2-markdown) Angular2 Markdown Web Component
 * [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) PDF viewer component
 * [ng2-safe-img](https://github.com/hyzhak/ng2-safe-img) Very tiny and safe img for Angular 2
 * [ngu-carousel](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel.

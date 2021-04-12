@@ -48,6 +48,7 @@
 * [Nixery](https://github.com/google/nixery) - A Docker-compatible container registry which builds images ad-hoc via Nix.
 * [NixOps](https://github.com/NixOS/nixops) - The official Nix deployment tool, compatible with AWS, Hetzner, and more.
 * [nixos-shell](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
+* [pushnix](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
 * [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
 * [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
 
@@ -55,6 +56,7 @@
 
 * [comma](https://github.com/Shopify/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
 * [nixfmt](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
+* [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
 * [nix-diff](https://github.com/Gabriel439/nix-diff) - A tool to explain why two Nix derivations differ.
 * [nix-index](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
