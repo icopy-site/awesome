@@ -152,6 +152,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Main](https://github.com/ahoward/main) - A class factory and DSL for generating command line programs real quick.
 * [Optimist](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
 * [Rake](https://github.com/ruby/rake) - A make-like build utility for Ruby.
+* [Runfile](https://github.com/DannyBen/runfile) - Build command line applications per project with ease. Rake-inspired, Docopt inside.
 * [Slop](https://github.com/leejarvis/slop) - Simple Lightweight Option Parsing.
 * [Terrapin](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 * [Thor](http://whatisthor.com) - A toolkit for building powerful command-line interfaces.
@@ -274,6 +275,8 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [AttrExtras](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr_initialize.
 * Hash
   * [Hashie](https://github.com/intridea/hashie) - A collection of tools that extend Hashes and make them more useful.
+* String
+  * [string_pattern](https://github.com/MarioRuiz/string_pattern) - Generate strings supplying a simple pattern.
 * [Trick Bag](https://github.com/keithrbennett/trick_bag) - Assorted Ruby classes and methods to simplify and enhance your code.
 
 ## Country Data
@@ -294,6 +297,8 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Cryptocurrencies and Blockchains
 
 * [Blockchain Lite](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
+* [Ciri](https://github.com/ciri-ethereum/ciri) - Ruby implementation of Ethereum.
+* [MoneyTree](https://github.com/GemHQ/money-tree) - A Ruby implementation of Bitcoin HD Wallets (Hierarchical Deterministic) BIP32.
 * [Peatio](https://github.com/rubykube/peatio) - Most Advanced Cryptocurrency open-source assets exchange.
 
 ## Dashboards
@@ -857,6 +862,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [God](https://github.com/mojombo/god) - An easy to configure, easy to extend monitoring framework written in Ruby.
 * [Health Monitor Rails](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
 * [Procodile](https://github.com/adamcooke/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile.
+* [RedisWebManager](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance (see keys, memory used, connected client, etc...).
 
 ## Processes
 
@@ -1062,6 +1068,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications.
   * [Cucumber](https://github.com/cucumber/cucumber) - BDD that talks to domain experts first and code second.
   * [Cutest](https://github.com/djanowski/cutest) - Isolated tests in Ruby.
+  * [Fix](https://github.com/fixrb/fix) - Specing framework for Ruby.
   * [Howitzer](https://github.com/strongqa/howitzer) - Ruby based framework for acceptance testing
   * [minitest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
   * [Mocha](https://github.com/freerange/mocha) - Mocha is a mocking and stubbing library for Ruby.
@@ -1090,6 +1097,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * Extra
   * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies.
   * [CQL](https://github.com/enkessler/cql) - CQL is a library for making queries against Cucumber style test suites.
+  * [cuke_modeler](https://github.com/enkessler/cuke_modeler) - An modeling library for `.feature` files that is an abstration layer on top of the `gherkin` gem, providing a stable base upon which to build other Gherkin related tools.
   * [gitarro](https://github.com/openSUSE/gitarro) - Run, retrigger, handle all type and OS-independent tests against your GitHub Pull Requests.
   * [Knapsack](https://github.com/ArturT/knapsack) - Optimal test suite parallelisation across CI nodes for RSpec, Cucumber, Minitest, Spinach and Turnip.
   * [mutant](https://github.com/mbj/mutant) - Mutant is a mutation testing tool for Ruby.

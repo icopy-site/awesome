@@ -66,6 +66,8 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Atom](https://github.com/ivangabriele/atom-qsharp)
 - [Vim](https://github.com/gootorov/q-sharp.vim)
 
+## Planets
+
 ## Demos, Samples, and Additional Libraries
 - [Quantum Computing Q# Introduction 2018](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
 - [A implementation of Shor's algorithm written in Python calling Q# for the quantum part](https://github.com/Michaelvll/myQShor)
@@ -81,6 +83,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Q# Advent Calendar 2019](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2019/) - Collection of Q#-related blog posts.
 - [The Hitchhiker's Guide to the Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)
 - [El Bruno's blog posts](https://elbruno.com/tag/q/)
+- [Q# Community](https://qsharp.community)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
