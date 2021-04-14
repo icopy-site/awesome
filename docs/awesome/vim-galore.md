@@ -690,7 +690,7 @@ au BufNewFile,BufRead *.rb,*.rbw  setf ruby
 ```
 
 The `BufNewFile` and `BufRead` events in this case are hardcoded in the C
-sources of Vim and get emitted everytime you open a file via `:e` and similar
+sources of Vim and get emitted every time you open a file via `:e` and similar
 commands. Afterwards all the hundreds of filetypes from `filetype.vim` are
 tested for.
 
@@ -1925,12 +1925,15 @@ So far, so good. But `<up>` and `<down>` are even smarter! They recall the
 command-line whose beginning matches the current command-line. E.g. `:echo <up>`
 may change to `:echo "Vim rocks!"`.
 
-Of course, I don't want you to reach to the arrow keys, just map it instead:
+Of course, I don't want you to reach for the arrow keys:
 
 ```vim
-cnoremap <c-n>  <down>
-cnoremap <c-p>  <up>
+cnoremap <expr> <c-n> wildmenumode() ? "\<c-n>" : "\<down>"
+cnoremap <expr> <c-p> wildmenumode() ? "\<c-p>" : "\<up>"
 ```
+
+Here we also distinguish between command-line history and the wildmenu. See `:h
+'wildmenu'`.
 
 I depend on this behaviour several times a day.
 
@@ -2401,7 +2404,7 @@ See `:h :syntime`.
 | [Seven habits of effective text editing 2.0 (PDF)](http://www.moolenaar.net/habits_2007.pdf) | See above. |
 | [IBM DeveloperWorks: Scripting the Vim editor](http://www.ibm.com/developerworks/views/linux/libraryview.jsp?sort_order=asc&sort_by=Title&search_by=scripting+the+vim+editor) | Five-part series on Vim scripting. |
 | [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com) | Develop a Vim plugin from scratch. |
-| [Practical Vim (2nd Edition)](http://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275/) | Hands down the best book about Vim. |
+| [Practical Vim (2nd Edition)](https://pragprog.com/titles/dnvim2/practical-vim-second-edition) | Hands down the best book about Vim. |
 | [Why, oh WHY, do those #?@! nutheads use vi?](http://www.viemu.com/a-why-vi-vim.html) | Common misconceptions explained. |
 | [Your problem with Vim is that you don't grok vi](http://stackoverflow.com/a/1220118) | Concise, informative and correct. A real gem. |
 
@@ -2522,6 +2525,7 @@ See `:h :TOhtml`.
 | `:h map-modes` | `:nunmap can also be used outside of a monastery.` |
 | `:help!` | `E478: Don't panic!` (Glitch? When used in a help buffer (`buftype=help`) this works like `:h help.txt` instead.) |
 | `:smile` | Try it out yourself. ;-) Added in 7.4.1005. |
+| `:hi!` | `Greetings, Vim user!` |
 
 ## Why hjkl for navigation?
 
@@ -2702,7 +2706,7 @@ See `man 7 ascii` and `:h NL-used-for-Nul` for more information.
 `Vim script`, `Vimscript`, and `VimL` all refer to the same thing: The
 programming language used for scripting Vim. Even though
 [8.0.360](https://github.com/vim/vim/commit/b544f3c81f1e6a50322855681ac266ffaa8e313c)
-changed all references to `VimL` to `Vim script`, which can now be considered
+changed all references from `VimL` to `Vim script`, which can now be considered
 the official term, `VimL` is still widespread all over the internet.
 
 No matter which term you use, everyone will understand it.
