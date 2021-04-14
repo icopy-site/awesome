@@ -10875,7 +10875,7 @@ created. <code>:au</code> shows them in the correct order.</p>
 </pre></div>
 
 <p>The <code>BufNewFile</code> and <code>BufRead</code> events in this case are hardcoded in the C
-sources of Vim and get emitted everytime you open a file via <code>:e</code> and similar
+sources of Vim and get emitted every time you open a file via <code>:e</code> and similar
 commands. Afterwards all the hundreds of filetypes from <code>filetype.vim</code> are
 tested for.</p>
 <p>Putting it in a nutshell, Vim makes heavy use of events and autocmds but also
@@ -12062,11 +12062,13 @@ command-line and recalls older or more recent command-lines from history.</p>
 <p>So far, so good. But <code>&lt;up&gt;</code> and <code>&lt;down&gt;</code> are even smarter! They recall the
 command-line whose beginning matches the current command-line. E.g. <code>:echo &lt;up&gt;</code>
 may change to <code>:echo "Vim rocks!"</code>.</p>
-<p>Of course, I don't want you to reach to the arrow keys, just map it instead:</p>
-<div class="codehilite"><pre><span></span>cnoremap <span class="p">&lt;</span><span class="k">c</span><span class="p">-</span><span class="k">n</span><span class="p">&gt;</span>  <span class="p">&lt;</span>down<span class="p">&gt;</span>
-cnoremap <span class="p">&lt;</span><span class="k">c</span><span class="p">-</span><span class="k">p</span><span class="p">&gt;</span>  <span class="p">&lt;</span><span class="k">up</span><span class="p">&gt;</span>
+<p>Of course, I don't want you to reach for the arrow keys:</p>
+<div class="codehilite"><pre><span></span>cnoremap <span class="p">&lt;</span>expr<span class="p">&gt;</span> <span class="p">&lt;</span><span class="k">c</span><span class="p">-</span><span class="k">n</span><span class="p">&gt;</span> wildmenumode<span class="p">()</span> ? <span class="s2">&quot;\&lt;c-n&gt;&quot;</span> : <span class="s2">&quot;\&lt;down&gt;&quot;</span>
+cnoremap <span class="p">&lt;</span>expr<span class="p">&gt;</span> <span class="p">&lt;</span><span class="k">c</span><span class="p">-</span><span class="k">p</span><span class="p">&gt;</span> wildmenumode<span class="p">()</span> ? <span class="s2">&quot;\&lt;c-p&gt;&quot;</span> : <span class="s2">&quot;\&lt;up&gt;&quot;</span>
 </pre></div>
 
+<p>Here we also distinguish between command-line history and the wildmenu. See <code>:h
+'wildmenu'</code>.</p>
 <p>I depend on this behaviour several times a day.</p>
 <h2 id="saner-ctrl-l">Saner CTRL-L<a class="headerlink" href="#saner-ctrl-l" title="Permanent link">&para;</a></h2>
 <p>By default, <code>&lt;c-l&gt;</code> clears and redraws the screen (like <code>:redraw!</code>). The
@@ -12429,7 +12431,7 @@ even match.</p>
 <td>Develop a Vim plugin from scratch.</td>
 </tr>
 <tr>
-<td><a href="http://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275/">Practical Vim (2<sup>nd</sup> Edition)</a></td>
+<td><a href="https://pragprog.com/titles/dnvim2/practical-vim-second-edition">Practical Vim (2<sup>nd</sup> Edition)</a></td>
 <td>Hands down the best book about Vim.</td>
 </tr>
 <tr>
@@ -12621,6 +12623,10 @@ encoding and font.</p>
 <td><code>:smile</code></td>
 <td>Try it out yourself. ;-) Added in 7.4.1005.</td>
 </tr>
+<tr>
+<td><code>:hi!</code></td>
+<td><code>Greetings, Vim user!</code></td>
+</tr>
 </tbody>
 </table>
 <h2 id="why-hjkl-for-navigation">Why hjkl for navigation?<a class="headerlink" href="#why-hjkl-for-navigation" title="Permanent link">&para;</a></h2>
@@ -12789,7 +12795,7 @@ displayed in a buffer as <code>^@</code>.</p>
 <p><code>Vim script</code>, <code>Vimscript</code>, and <code>VimL</code> all refer to the same thing: The
 programming language used for scripting Vim. Even though
 <a href="https://github.com/vim/vim/commit/b544f3c81f1e6a50322855681ac266ffaa8e313c">8.0.360</a>
-changed all references to <code>VimL</code> to <code>Vim script</code>, which can now be considered
+changed all references from <code>VimL</code> to <code>Vim script</code>, which can now be considered
 the official term, <code>VimL</code> is still widespread all over the internet.</p>
 <p>No matter which term you use, everyone will understand it.</p>
                 
