@@ -41,6 +41,7 @@ Software, libraries and frameworks for development purposes.
 
 ### JavaScript
 - [Brainbrowser](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
+- [jsPsych](https://www.jspsych.org/) - Library for creating and running behavioural experiments in a web browser.
 
 ### R
 - [nat: NeuroAnatomy Toolbox](https://github.com/jefferis/nat) - Package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
@@ -79,6 +80,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 ### Newsletters
 - [On The Brain](http://neuro.hms.harvard.edu/harvard-mahoney-neuroscience-institute/hmni-newsletter) - Harvard Mahoney Neuroscience Institute's quarterly e-newsletter.
 - [Comp-neuro](http://www.tnb.ua.ac.be/mailman/listinfo/comp-neuro) - A mailing list that is is intended to address the broad range of research approaches and issues involved in the general field of computational neuroscience. 
+- [BrainPost](https://www.brainpost.co/) - A mailing list that delivers weekly easy-to-read summaries of the latest neuroscience publications.
 
 ### Miscellaneous
 - [Awesome Public Datasets - Neuroscience](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.

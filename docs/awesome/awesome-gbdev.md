@@ -314,7 +314,7 @@ Guides, tutorials and tools to develop software for Game Boy using the developme
 - **[gb asm tutorial](https://eldred.fr/gb-asm-tutorial)** - Step by step tutorial, building several ROMs to accompany its explanations.
 - [ASMSchool](http://gameboy.mongenel.com/asmschool.html) - A set of lessons by Duo about coding in Assembly for GB/GBC and disassembling.
 - [hardware.inc](https://github.com/tobiasvl/hardware.inc) - Standard include file containing Game Boy hardware definitions for use in RGBDS projects.
-- [Assembly tutorial by David Pello](https://gb-archive.github.io/salvage/tutorial_de_ensamblador/tutorial_de_ensamblador%20[La%20decadence].html) - Good document to learn to produce working asm code for gb. Brief explanations of many important topics. Many examples with commented source code.
+- [Assembly tutorial by David Pello](https://gb-archive.github.io/salvage/tutorial_de_ensamblador/tutorial_de_ensamblador_la_decadence.html) - Good document to learn to produce working asm code for gb. Brief explanations of many important topics. Many examples with commented source code.
 - [assemblydigest](https://github.com/assemblydigest/gameboy) - Exploring Game Boy programming techniques:
   - [Making an Empty Game Boy ROM (in Wiz)](http://assemblydigest.tumblr.com/post/77203696711/tutorial-making-an-empty-game-boy-rom-in-wiz)
   - [Making Art for the Game Boy](http://assemblydigest.tumblr.com/post/77404621743/tutorial-making-art-for-the-game-boy)
@@ -367,7 +367,7 @@ Fragments of code, effects, proof of concepts and generally non complete games.
 
 ### C
 
-- [8-Bit Wonderland](https://web.archive.org/web/20191106010059/http://belial.blarzwurst.de/gbpaper/paper.pdf) - Well-written introductory document about how the Game Boy works and how to start developing working code for it.
+- [8-Bit Wonderland](https://github.com/gb-archive/salvage/blob/master/misc/8bit_wonderland.pdf) - Well-written introductory document about how the Game Boy works and how to start developing working code for it.
 - [Grooves Game Boy Programming](https://github.com/gbdk-salvage/grooves-game-boy-programming) - A complete set of lessons about implementing various game mechanics in a Game Boy game.
 - [How to Write a Simple Side Scrolling Game](http://pastebin.com/F3tHLj68) - Old (but still relevant) tutorial.
 - [Just another simple tutorial](http://pastebin.com/gzT47MPJ)
@@ -385,7 +385,6 @@ Fragments of code, effects, proof of concepts and generally non complete games.
 Complete and open source games.
 
 - [Homebrew Hub](https://gbhh.avivace.com) - Every unofficial homebrew ever produced for Game Boy playable online (mobile/touch too): a community-lead attempt to collect, archive and save every unofficial game, homebrew, demo, patch, hackrom for Game Boy (Color) produced by the community through years of passionate work.
-- [Infinity](https://github.com/infinity-gbc/infinity) - RPG developed by Affinix Software primarily between the years 1999 and 2001. The game never found a publisher and was eventually canceled. Got recently released with the full source, development tools and workflows.
 
 ### ASM
 
@@ -444,6 +443,7 @@ Complete and open source games.
 - [dino-gb](https://github.com/rnegron/dino-gb) - Another clone of the Chrome game.
 - [Evoland.gb](https://github.com/flozz/evoland.gb) - A port of the first level of Evoland.
 - [Petris](https://github.com/bbbbbr/Petris) - A puzzle game of shapely pets for the Game Boy Color ([itch.io](https://bbbbbr.itch.io/petris)).
+- [Infinity](https://github.com/gb-archive/infinity-gbc) - RPG developed by Affinix Software primarily between the years 1999 and 2001. The game never found a publisher and was eventually canceled. Got recently released with the full source, development tools and workflows.
 
 ### Demos
 
