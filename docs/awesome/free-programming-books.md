@@ -98,6 +98,7 @@ Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-b
 
 ### Interactive Programming Resources
 
++ [Chinese / 中文](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-zh.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md)
 + [Russian / Русский язык](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-ru.md)
 

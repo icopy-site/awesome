@@ -41,6 +41,7 @@ A curated list of awesome Dash (plotly) resources
 - [Dash Cytoscape Component](https://dash.plot.ly/cytoscape) - Graph visualization component for creating easily customizable, high-performance, interactive, and web-based networks.
 - [Dash DataTable Component](https://dash.plot.ly/datatable) - Interactive table that supports rich styling, conditional formatting, editing, sorting, filtering, and more.
 - [Dash DAQ Components](https://dash.plot.ly/dash-daq) - Set of controls that make it simpler to integrate data acquisition and controls into your Dash applications.
+- [Dash ECharts Components](https://github.com/mergeforward/dash_echarts) - ECharts(V5) Components for Dash.
 - [Dash HTML Components](https://github.com/plotly/dash-html-components)
 - [mydcc](https://github.com/jimmybow/mydcc) - Extension of Dash Core Components.
 - [sd-material-ui](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash.
@@ -98,6 +99,7 @@ A curated list of awesome Dash (plotly) resources
 - [Florian Kromer](https://github.com/fkromer)
 - [Elias Dabbas](https://www.dashboardom.com)
 - [vaexio](https://github.com/vaexio)
+- [Fanchao MENG](https://github.com/pingf)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
