@@ -88,7 +88,7 @@ It has everything on board to build AOSP or AOSP-based distributions like Lineag
 
 > Installers created specifically to facilitate the installation of Linux Arch.
 
-- [Anarchy](https://anarchyinstaller.org/) - A simple and intuitive Arch Linux installer.
+- [Anarchy](https://anarchyinstaller.gitlab.io) - A simple and intuitive Arch Linux installer.
 - [Archfi](https://github.com/MatMoul/archfi) - Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
 
 ## AUR Helpers
@@ -163,6 +163,30 @@ You can also contribute to the maintenance of the list by making a small donatio
 <noscript><a href="https://liberapay.com/PandaFoss/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 I need your support! ❤️
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://raw.githubusercontent.com/klorophatu"><img src="https://avatars.githubusercontent.com/u/52282861?v=4?s=100" width="100px;" alt=""/><br /><sub><b>klorophatu</b></sub></a><br /><a href="#content-klorophatu" title="Content">🖋</a></td>
+    <td align="center"><a href="https://telesto.ai"><img src="https://avatars.githubusercontent.com/u/28736871?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nandor Magyar</b></sub></a><br /><a href="#content-nandor-magyar" title="Content">🖋</a></td>
+    <td align="center"><a href="https://pandafoss.github.io/"><img src="https://avatars.githubusercontent.com/u/6508835?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Max Ferrer</b></sub></a><br /><a href="https://raw.githubusercontent.com/PandaFoss/Awesome-Arch/commits?author=PandaFoss" title="Code">💻</a> <a href="#ideas-PandaFoss" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-PandaFoss" title="Maintenance">🚧</a> <a href="#design-PandaFoss" title="Design">🎨</a> <a href="#content-PandaFoss" title="Content">🖋</a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/JackNapier151"><img src="https://avatars.githubusercontent.com/u/23581810?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jack Napier</b></sub></a><br /><a href="#ideas-JackNapier151" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://sheepdev.xyz"><img src="https://avatars.githubusercontent.com/u/68562536?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sheepdev</b></sub></a><br /><a href="#content-sheeepdev" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## License
 
