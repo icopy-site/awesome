@@ -33,7 +33,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React General Tutorials
 
-- [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+- [React Official Tutorial](https://reactjs.org/tutorial/tutorial.html)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
 - [FreeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
@@ -44,13 +44,13 @@ A collection of awesome things regarding the React ecosystem.
 ##### React Hooks
 
 - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
+- [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
 - [Replacing Redux with React Hooks and Context](https://medium.com/octopus-labs-london/replacing-redux-with-react-hooks-and-context-part-1-11b72ffdb533)
 - [React Hooks cheat sheet: Unlock solutions to common problems](https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/)
 - [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data/)
 - [Easy to understand React Hook recipes](https://usehooks.com/)
-- [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
-- [Build a React chat app with Hooks, a pragmatic example](https://www.cometchat.com/tutorials/building-a-chat-app-with-react-hooks-a-pragmatic-example/)
-- [React Hooks Youtube Playlist](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)
+- [React Hooks Video Tutorial](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)
 
 ##### React and TypeScript
 
@@ -354,31 +354,16 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### Forms
 
-- [React Forms](http://facebook.github.io/react/docs/forms.html)
-- [react-formal](https://github.com/jquense/react-formal) - Better form validation and value management for React, Provides minimal wiring
-- [react-forms](https://github.com/prometheusresearch/react-forms) - Forms library for React
-- [valuelink](https://github.com/Volicon/valuelink) - Full-featured two-way data binding with extended React links
-- [wingspan-forms](https://github.com/wingspan/wingspan-forms) - A dynamic form library for Facebook React
-- [newforms](https://github.com/insin/newforms) - Isomorphic form-handling for React
-- [formjs](https://github.com/zackify/formjs) - A form generator for Reactjs
-- [react-form-builder](https://github.com/quri/react-form-builder) - A Form Builder for React.js
-- [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) - A dynamic form component for react using JSON-Schema
-- [tcomb-form](https://github.com/gcanti/tcomb-form) - UI library for developing forms writing less code
-- [formsy-react](https://github.com/christianalfoni/formsy-react) - A form input builder and validator for React JS
-- [Learn Raw React](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/) - Ridiculously Simple Forms
-- [Winterfell](https://github.com/andrewhathaway/Winterfell) - Generate complex, validated and extendable JSON-based forms in React
-- [Redux-Autoform](https://github.com/redux-autoform/redux-autoform) - Create Redux-Forms dynamically out of metadata
-- [uniforms](https://github.com/vazco/uniforms) - Bunch of React components and helpers to easily generate and validate forms
-- [formik](https://github.com/jaredpalmer/formik) - Forms in React, without tears
-- [NeoForm](https://github.com/zero-plus-x/neoform) - Modular HOCs for form state management and validation
+- [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React Hooks for forms validation
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema
-- [List View Select](https://github.com/JamesWatling/react-native-list-view-select) - A Toggleable select box for React Native with native components
-- [Final Form 🏁](https://github.com/final-form/react-final-form) -
-- [formland](https://github.com/indix/formland) - A simple, super-flexible, extensible config based form generator
-- [react-reactive-form](https://github.com/bietkul/react-reactive-form) - Angular like reactive forms in React
-- [unform](https://github.com/Rocketseat/unform) - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form) - Performant, flexible and extensible forms with easy to use validation
-- [Formily](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
+- [react-final-form](https://github.com/final-form/react-final-form) - High performance subscription-based form state management for React
+- [unform](https://github.com/Rocketseat/unform) - Performance-focused API for React forms
+- [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
+- [uniforms](https://github.com/vazco/uniforms) - A React library for building forms from any schema
+- [formsy-react](https://github.com/formsy/formsy-react/) - A form input builder and validator for React
+- [react-formal](https://github.com/jquense/react-formal) - Sophisticated HTML form management for React
+
 
 ##### Autocomplete
 
@@ -754,7 +739,11 @@ A collection of awesome things regarding the React ecosystem.
 
 #### [ReactRally Conf 2016 Playlist](https://www.youtube.com/playlist?list=PLUD4kD-wL_zYSfU3tIYsb4WqfFQzO_EjQ)
 
+#### [React Conf 2017 Playlist](https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0)
+
 #### [React.js Amsterdam 2018 Playlist](https://www.youtube.com/playlist?list=PLNBNS7NRGKMFi_glL49hsoyqu7dHTMnNm)
+
+#### [React Amsterdam 2019 Playlist](https://www.youtube.com/playlist?list=PLNBNS7NRGKMHLTeH4qfD3F320GXfj97kc)
 
 #### Video Tutorials
 
@@ -785,6 +774,6 @@ A collection of awesome things regarding the React ecosystem.
 
 ### Contribution
 
-This list started as personal collection of interesting things about React. At the time it started React was in beta, there was special script to transform JSX to JS and even Flux was not yet published. React is mainstream now, lots of things happened. Please, do not try to use this list as advertisement board or place for public push of your experiments. Only fully free resources here, please. Your contributions and suggestions are heartily♡ welcome, though. (✿◠‿◠)
+This list started as personal collection of interesting things about React. At the time it started React was in beta, there was special script to transform JSX to JS and even Flux was not yet published. React is mainstream now, lots of things happened. Please, do not try to use this list as advertisement board or place for public push of your experiments. Only fully free resources here, please. Do not hesitate to suggest cleaning PRs for outdated projects and articles along with new contributions. Your contributions and suggestions are heartily♡ welcome, though. (✿◠‿◠)
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

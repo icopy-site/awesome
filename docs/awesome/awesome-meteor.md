@@ -6,6 +6,7 @@ A curated list of awesome Meteor Packages, libraries and software.
 
 The official Meteor resources page can be found [here](https://www.meteor.com/tools/resources)
 
+  - [Community Newsletters](#community-newsletters)	
 
 ---
 
@@ -329,6 +330,11 @@ _Where to discover new Meteor things_
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/meteor?sort=newest&pagesize=15)
 - [Meteor forums](https://forums.meteor.com/)
 - [Meteor Community Organization Slack Channel](https://github.com/Meteor-Community-Packages/organization#slack)
+
+### Community Newsletters
+
+- [zodern](https://zodern.me/newsletter.html)
+- [StorytellerCZ](https://forums.meteor.com/t/meteor-community-newsletter/50598)
 
 ## Twitter
 
