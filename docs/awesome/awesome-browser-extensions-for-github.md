@@ -75,6 +75,11 @@ Simple and discreet extension that enhances GitHub's search, letting you search 
 Installs: 10000 | Stars: 1019 | Last update: 22 Feb 2018
 
 
+GitHub provides a page that only shows diffs with a .diff at the end of the URL of the pull request. This browser extension makes it easier to view csv diffs by using daff on that page.
+
+Installs: n/a | Stars: n/a | Last update: n/a
+
+
 Code folding - the ability to selectively hide and display sections of a code - is an invaluable feature in many text editors and IDEs. Now, developers can utilize that same style code-folding while poring over source code on the web in GitHub. Works for any type of indentation- spaces or tabs.
 
 Installs: 2173 | Stars: 227 | Last update: 10 Apr 2019

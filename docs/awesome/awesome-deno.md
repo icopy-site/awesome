@@ -174,6 +174,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ## Showcases
 
+- [AuthCompanion] (https://github.com/pmprosociety/authcompanion) - A token-based user management server.
 - [Deno Rest](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
 - [Deno Seed](https://github.com/tamasszoke/deno-seed) - Complete boilerplate for development. :seedling:
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
@@ -323,6 +324,4 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ### Uzbek
 
-- [Telegram Channel](https://t.me/denoland_uz)
-- [Telegram Group](https://t.me/chisel_deno)
-- [Deno Translated Website](https://deno.uz)
+- [Telegram](https://t.me/denolanduz)
