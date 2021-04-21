@@ -63,6 +63,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Typesync](https://typesync.rutrum.net) - Test your typing speed on song lyrics.  Uses [`Seed`](https://seed-rs.org/), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
 - [CalcuPi](https://divykj.github.io/CalcuPi) - A beautiful Monte Carlo simulation for approximating the value of pi.
 - [Love Letter Tracker](https://www.fosskers.ca/en/tools/love-letter) - A knowledge tracker for the card game _Love Letter_.
+- [Whatlang.org](https://whatlang.org/) - An interactive demo for whatlang (language recognition library).
 
 ## Libraries
 
