@@ -21,15 +21,16 @@
 Supercharge your app.
 
 - [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) - Integrate Pandas with every major AWS data backend.
-- [AWS Lambda PowerTools](https://github.com/awslabs/aws-lambda-powertools-python) - Middleware for AWS Lambda.
-- [AWS SDK for JavaScript](https://aws.amazon.com/sdk-for-javascript/) - `<script src="https://sdk.amazonaws.com/js/aws-sdk-2.879.0.min.js"></script>`.
-- [AWS Cloud Development Kit (CDK)](https://aws.amazon.com/cdk/) - The CDK can author and deploy Chalice applications, or Chalice can deploy CDK applications.
+- [AWS AutoGluon](https://github.com/awslabs/autogluon) - Automate machine learning training and deployment.
+- [AWS Lambda Powertools](https://github.com/awslabs/aws-lambda-powertools-python) - A suite of utilities for AWS Lambda functions to ease adopting best practices such as tracing, structured logging, custom metrics async, parameters and secrets management, idempotency, and more.
+- [AWS Cloud Development Kit (CDK)](https://aws.amazon.com/cdk/) - The CDK can deploy Chalice apps, or Chalice can deploy CDK apps.
 - [AWS Solutions Constructs Patterns](https://aws.amazon.com/solutions/constructs/patterns/) - Architectural patterns for the CDK that can be chained together.
 - [AWS Serverless Application Repository](https://serverlessrepo.aws.amazon.com/applications) - Serverless AWS applications. 
 - [DynamoDB Global Tables](https://aws.amazon.com/dynamodb/global-tables/) - NoSQL database.
 - [Aurora Serverless Global Database 2](https://aws.amazon.com/rds/aurora/serverless/) - OLTP database.
 - [AWS Amplify](https://docs.amplify.aws/) - Front-end toolkit.
 - [Amazon Athena Federated Query](https://docs.aws.amazon.com/athena/latest/ug/connect-to-a-data-source.html) - Author pure lambda functions for ad-hoc datalakes.
+- [AWS SDK for JavaScript](https://aws.amazon.com/sdk-for-javascript/) - Combine with Brython or Pyodide for front-end Python development.
 
 ## AWS Python SDKs
 Every SDK in one place.
@@ -43,6 +44,8 @@ Every SDK in one place.
 - [AWS Step Functions Data Science SDK for Python](https://github.com/aws/aws-step-functions-data-science-sdk-python) - Managed AI/ML infrastructure.
 - [AWS Braket SDK for Python](https://github.com/aws/amazon-braket-sdk-python) - Leverage D-Wave quantum computing devices.
 - [AWS DynamoDB Encryption SDK for Python](https://github.com/aws/aws-dynamodb-encryption-python) - Encrypt data before sending it to DynamoDB.
+- [AWS Transcribe Streaming SDK](https://github.com/awslabs/amazon-transcribe-streaming-sdk) - Convert audio into text.
+- [AWS Data API SDK](https://github.com/awslabs/aws-data-api-python-sdk) - HTTP interface to your non-transactional data lake, made with Chalice.
 
 ## 3rd-party Python
 Only the best.
@@ -55,7 +58,10 @@ Only the best.
 - [AWS Limit Checker](https://github.com/jantman/awslimitchecker) - Detect when you are about to run up against AWS limits.
 - [Click](https://click.palletsprojects.com/en/7.x/) - Create a CLI.
 - [Netflix Metaflow S3](https://github.com/Netflix/metaflow/blob/master/metaflow/datatools/s3.py) - Achieve 20 gigabit S3 throughput.
-- [Slack Bolt](https://github.com/slackapi/bolt-python) Slack Bolt supports Chalice, enabling ChatOps on AWS.
+- [Slack Bolt](https://github.com/slackapi/bolt-python) - Enable AWS ChatOps with Slack's built-in Chalice support.
+- [Troposphere](https://github.com/cloudtools/troposphere) - Write CloudFormation using Python.
+- [PyCognito](https://github.com/pvizeli/pycognito) - Manage and use Cognito user pools.
+- [mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on your EMR cluster.
 
 ## Tooling
 Create diagrams, write code.
@@ -113,6 +119,7 @@ Critical background reading.
 ## AWS Serverless Architectures
 Inspiration for your app. [Complete list of 500+ sample architectures](https://github.com/aws-samples?q=&type=&language=python&sort=). 
 
+- [AWS Glue ETL Code Samples](https://github.com/aws-samples/aws-glue-samples)
 - [AWS Control Tower Account Creation Automation](https://github.com/aws-samples/aws-control-tower-automate-account-creation) 
 - [AWS Serverless Ecommerce Platform](https://github.com/aws-samples/aws-serverless-ecommerce-platform)
 - [Recurring Security Hub Summary Email](https://github.com/aws-samples/aws-security-hub-summary-email)
@@ -129,8 +136,9 @@ Inspiration for your app. [Complete list of 500+ sample architectures](https://g
 - [AWS X-Ray Serverless Samples](https://github.com/aws-samples/aws-xray-serverless-samples)
 
 ## AWS Labs
-More inspiration from AWS Labs, closer to production-ready.
+More inspiration from AWS Labs, closer to production-ready. [Complete list of 100+ Labs solutions](https://github.com/awslabs?q=&type=&language=python&sort=stargazers).
 
+- [AWS Control Tower Customizations](https://github.com/awslabs/aws-control-tower-customizations)
 - [Serverless Data Lake Framework (SDLF)](https://github.com/awslabs/aws-serverless-data-lake-framework)
 - [Media Insights Engine](https://github.com/awslabs/aws-media-insights-engine)
 - [Serverless Transit Network Orchestrator](https://github.com/awslabs/serverless-transit-network-orchestrator)
@@ -144,6 +152,12 @@ More inspiration from AWS Labs, closer to production-ready.
 - [Awesome CDK](https://github.com/kolomied/awesome-cdk#readme)
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws#readme)
 - [Awesome Cloud Security](https://github.com/RyanJarv/awesome-cloud-sec#readme)
-- [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-amplify)
+- [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-amplify#readme)
+- [Awesome Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme)
+- [Awesome EKS](https://github.com/realvz/awesome-eks#readme)
+- [Awesome AWS Research](https://github.com/randyridgley/awesome-aws-research#readme)
+- [AWSome Websites](https://github.com/StanForever/AWSome-websites)
+- [Awesome ECS](https://github.com/nathanpeck/awesome-ecs)
+- [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 
 <img src="https://ga-beacon.appspot.com/UA-191636151-1/awesome-chalice?useReferer&pixel">
