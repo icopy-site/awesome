@@ -1184,3 +1184,17 @@ All tutorials and videos of every single old as well as new electronic component
 Content about: Electronics and Communication \
 Featured playlists: `BJT`, `Analog Electronics`, `Network Analysis`. \
 <br/>
+
+
+<details>
+	<summary>Credits</summary>
+	
+The awesome-youtubers logo and the corresponding badges icons were made by [José De Freitas](https://github.com/JoseDeFreitas/).
+
+The badges were created without following any design structure, though the [awesome-youtubers logo](https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master//media/logo.svg?sanitize=true) is inspired by the [awesome logo](https://github.com/sindresorhus/awesome/blob/mainhttps://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master//media/logo.svg?sanitize=true) and the [awesome-nodejs logo](https://github.com/sindresorhus/awesome-nodejs/blob/masterhttps://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master//media/logo.svg?sanitize=true). The two play icons were created following the play button of the [YouTube logo](https://lh3.googleusercontent.com/z6Sl4j9zQ88oUKNy0G3PAMiVwy8DzQLh_ygyvBXv0zVNUZ_wQPN_n7EAR2By3dhoUpX7kTpaHjRPni1MHwKpaBJbpNqdEsHZsH4q). It's just a representation, I'm not using the YouTube logo itself.
+
+The upvote and downvote icons located at the right-most part of every YouTuber's name line were taken from [flaticon.com](https://www.flaticon.com); more specifically, they were made by the [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect) team (all credits of this icons to them. Thank you!). I modified them by changing just the color (green for upvote and red for downvote. Did this manually in the .svg files).
+
+The list style is heavily inspired by [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities), created by [mhxion](https://github.com/mhxion). This repository was my inspiration as I consider [this list](https://github.com/JoseDeFreitas/awesome-youtubers) also looks good with the same table-style in this file, as well as the useful [badges](https://github.com/JoseDeFreitas/awesome-youtubers/blob/master//badges.md).
+
+</details>
