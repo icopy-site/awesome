@@ -23,9 +23,9 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 **[`^        back to top        ^`](#)**
 
 - [ITU Measuring digital development: Facts and figures](https://www.itu.int/en/ITU-D/Statistics/Pages/facts/default.aspx) - (2020) Measuring digital development contains a snapshot of the most important ICT indicators, including estimates for the current year. 
-- [Network Readiness Index](https://networkreadinessindex.org/) - (2019) Network Readiness Index covering 121 economies from Portulans Institute
-- [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - (2018) Measures countries against four enablers of mobile internet adoption: Infrastructure, Affordability, Consumer Readiness and Content.
-- [A4AI Affordability Drivers Index](http://a4ai.org/affordability-report/data/) - (2017) Index of internet affordability by the Alliance for Affordable Internet Access ([A4AI](https://a4ai.org)).
+- Network Readiness Index - ([2020](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf)) ([2019](https://networkreadinessindex.org/2019/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf)) Network Readiness Index covering 121 economies from Portulans Institute
+- [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - (2019) Measures countries against four enablers of mobile internet adoption: Infrastructure, Affordability, Consumer Readiness and Content.
+- [A4AI Affordability Drivers Index](https://a4ai.org/affordability-report/data/?_year=2020&indicator=INDEX) - (2020) Index of internet affordability by the Alliance for Affordable Internet Access ([A4AI](https://a4ai.org)).
 - A4AI Mobile Broadband Data Costs - ([Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)) Price of Broadband Data (1GB mobile prepaid) as % of GNI per capita.
 - [Facebook/EIU Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) - (2020) Index measuring internet connectivity against Availability, Affordability, Relevance and Readiness.
 - [Huawei Global Connectivity Index](http://www.huawei.com/minisite/gci/en/) - (2017) Snapshot of 50 nations’ "Digital Transformation" status measured against Supply, Demand, Experience and Potential.
@@ -61,7 +61,7 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 **[`^        back to top        ^`](#)**
 
 - Mobile Gender Gap Report from GSMA - ([2020](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/02/GSMA-The-Mobile-Gender-Gap-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/03/GSMA-Connected-Women-The-Mobile-Gender-Gap-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf))
-- Mozilla Internet Health Report - ([2019](https://internethealthreport.org/2019/)) ([2018](https://internethealthreport.org/2018/)).
+- Mozilla Internet Health Report - ([2020](https://2020.internethealthreport.org/)) ([2019](https://internethealthreport.org/2019/)) ([2018](https://internethealthreport.org/2018/)).
 - [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - [2019 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf) [2018 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf).
 - Broadband Commission: The State of Broadband - ([2020](https://www.itu.int/dms_pub/itu-s/opb/pol/S-POL-BROADBAND.21-2020-PDF-E.pdf)) ([2019](https://www.broadbandcommission.org/Documents/StateofBroadband19.pdf))([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
 - ITU Measuring the Information Society - ([2018](https://www.itu.int/en/ITU-D/Statistics/Documents/events/wtis2018/MISR-2018-Vol-1-E.PDF))  ([2017](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx))
@@ -82,7 +82,8 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 
 **[`^        back to top        ^`](#)**
 
-- GSMA Mobile Economy - West Africa] ([2019](https://www.gsma.com/r/mobileeconomy/west-africa/)) ([2018](https://www.gsma.com/subsaharanafrica/wp-content/uploads/2018/11/2018-04-11-e568fe9e710ec776d82c04e9f6760adb.pdf))
+- [e-Conomy Africa 2020](https://www.ifc.org/wps/wcm/connect/publications_ext_content/ifc_external_publication_site/publications_listing_page/google-e-conomy): Africa’s $180 Billion Internet Economy Future - IFC/Google sponsored report on Africa's internet economy
+- GSMA Mobile Economy - West Africa ([2019](https://www.gsma.com/r/mobileeconomy/west-africa/)) ([2018](https://www.gsma.com/subsaharanafrica/wp-content/uploads/2018/11/2018-04-11-e568fe9e710ec776d82c04e9f6760adb.pdf))
 - GSMA Mobile Economy - Sub-Saharan Africa ([2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/09/GSMA_MobileEconomy2020_SSA_Eng.pdf)) ([2018](https://policy.communitynetworks.group/_media/gsma_mobile_economy-ssa_2018.pdf))
 - [GSMA Mobile Economy - Latin America](https://www.gsma.com/r/mobileeconomy/latam/) (2018)
 - [GSMA Mobile Economy - Asia Pacific](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/06/GSMA_MobileEconomy_2020_AsiaPacific.pdf) (2020)

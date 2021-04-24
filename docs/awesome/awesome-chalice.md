@@ -60,6 +60,8 @@ Only the best.
 - [Netflix Metaflow S3](https://github.com/Netflix/metaflow/blob/master/metaflow/datatools/s3.py) - Achieve 20 gigabit S3 throughput.
 - [Slack Bolt](https://github.com/slackapi/bolt-python) - Enable AWS ChatOps with Slack's built-in Chalice support.
 - [Troposphere](https://github.com/cloudtools/troposphere) - Write CloudFormation using Python.
+- [Scepter](https://github.com/Sceptre/sceptre) - CloudFormation deployment library.
+- [taskcat](https://github.com/aws-quickstart/taskcat) - CloudFormation testing library from AWS.
 - [PyCognito](https://github.com/pvizeli/pycognito) - Manage and use Cognito user pools.
 - [mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on your EMR cluster.
 
@@ -148,16 +150,21 @@ More inspiration from AWS Labs, closer to production-ready. [Complete list of 10
 - [AWS Serverless Financial Functions](https://github.com/awslabs/aws-serverless-financial-functions)
 
 ## Related Awesome Lists
+- [Awesome AWS](https://github.com/donnemartin/awesome-aws#readme)
+- [Awesome Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme)
+- [Awesome Amplify](https://github.com/dabit3/awesome-aws-amplify#readme)
+- [Awesome AppSync](https://github.com/aws/aws-appsync-community#readme)
 - [Awesome IAM](https://github.com/kdeldycke/awesome-iam#readme)
 - [Awesome CDK](https://github.com/kolomied/awesome-cdk#readme)
-- [Awesome AWS](https://github.com/donnemartin/awesome-aws#readme)
-- [Awesome Cloud Security](https://github.com/RyanJarv/awesome-cloud-sec#readme)
-- [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-amplify#readme)
-- [Awesome Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme)
+- [Awesome CloudFormation](https://github.com/aws-cloudformation/awesome-cloudformation#readme)
+- [Awesome EC2 Spot](https://github.com/nadaahm/awesome-ec2-spot)
+- [Awesome ECS](https://github.com/nathanpeck/awesome-ecs#readme)
 - [Awesome EKS](https://github.com/realvz/awesome-eks#readme)
+- [Awesome Lambda Layers](https://github.com/mthenw/awesome-layers)
 - [Awesome AWS Research](https://github.com/randyridgley/awesome-aws-research#readme)
+- [Awesome AWS Security](https://github.com/jassics/awesome-aws-security)
+- [Awesome Cloud Security](https://github.com/RyanJarv/awesome-cloud-sec#readme)
 - [AWSome Websites](https://github.com/StanForever/AWSome-websites)
-- [Awesome ECS](https://github.com/nathanpeck/awesome-ecs)
 - [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 
 <img src="https://ga-beacon.appspot.com/UA-191636151-1/awesome-chalice?useReferer&pixel">
