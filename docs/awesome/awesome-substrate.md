@@ -80,6 +80,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   [Stateless.Money](https://www.stateless.money/).
 - [Substrate Migrations](https://github.com/apopiak/substrate-migrations) - A list of past runtime
   storage migrations with notes and examples.
+- [OnFinality](https://onfinality.io) - Free and public API services to shared Substrate based archival nodes.
 
 ### Community Resources - Guides
 
@@ -129,7 +130,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   resources for a development chain.
 - [Commodities](https://github.com/danforbes/pallet-nft) - Defines and implements a non-fungible
   token interface.
-- [Chainlink Feed Pallet](https://github.com/smartcontractkit/chainlink-polkadot) - Chainlink feed pallet and example node showing how to integrate to Substrate chains.
+- [Chainlink Feed Pallet](https://github.com/smartcontractkit/chainlink-polkadot) - Chainlink feed pallet and example node
+  showing how to integrate to Substrate chains.
 
 ## Client Libraries
 
@@ -205,6 +207,8 @@ is maintained by [Parity Technologies](https://www.parity.io/).
   [docs](https://github.com/Joystream/hydra/tree/master/docs).
 - [Substrate Graph](https://github.com/playzero/substrate-graph) - GraphQL indexer for
   Substrate-based chains.
+- [SubQuery](https://subquery.network) - A GraphQL indexer and query service that allows users to
+   easily create indexed data sources and host them online for free.
 - [Megaclite](https://github.com/patractlabs/megaclite) - Zero-knowledge tools for the Polkadot
   ecosystem.
 - [Europa](https://github.com/patractlabs/europa) - A sandbox for the Substrate runtime execution
