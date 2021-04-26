@@ -1,7 +1,8 @@
 <div class="github-widget" data-repo="ohenley/awesome-ada"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<br/><br/>
 <div align="center">
-	<img width="400px"  src="https://raw.githubusercontent.com/ohenley/files/master/awesome-ada/awesome_ada_logo.svg" alt="Awesome">
+	<img width="400px"  src="https://raw.githubusercontent.com/ohenley/files/master/awesome-ada/awesome_ada_logo.png" alt="Awesome">
 </div>
 
 <br><br>
