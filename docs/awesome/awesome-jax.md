@@ -30,7 +30,9 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 - [Coax](https://raw.githubusercontent.com/microsoft/coax) - Turn RL papers into code, the easy way. <img src="https://img.shields.io/github/stars/microsoft/coax?style=social" align="center">
 - [SymJAX](https://raw.githubusercontent.com/SymJAX/SymJAX) - Symbolic CPU/GPU/TPU programming. <img src="https://img.shields.io/github/stars/SymJAX/SymJAX?style=social" align="center">
 - [mcx](https://raw.githubusercontent.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference. <img src="https://img.shields.io/github/stars/rlouf/mcx?style=social" align="center">
-
+- [Distrax](https://raw.githubusercontent.com/deepmind/distrax) - Reimplementation of TensorFlow Probability, containing probability distributions and bijectors. <img src="https://img.shields.io/github/stars/deepmind/distrax?style=social" align="center">
+- [cvxpylayers](https://raw.githubusercontent.com/cvxgrp/cvxpylayers) - Construct differentiable convex optimization layers. <img src="https://img.shields.io/github/stars/cvxgrp/cvxpylayers?style=social" align="center">
+- [TensorLy](https://raw.githubusercontent.com/tensorly/tensorly) - Tensor learning made simple. <img src="https://img.shields.io/github/stars/tensorly/tensorly?style=social" align="center">
 
 <a name="new-libraries" />
 
@@ -40,6 +42,7 @@ This section contains libraries that are well-made and useful, but have not nece
 
 - Neural Network Libraries
     - [FedJAX](https://raw.githubusercontent.com/google/fedjax) - Federated learning in JAX, built on Optax and Haiku. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
+    - [Equivariant MLP](https://raw.githubusercontent.com/mfinzi/equivariant-MLP) - Construct equivariant neural network layers. <img src="https://img.shields.io/github/stars/mfinzi/equivariant-MLP?style=social" align="center">
 - [jax-unirep](https://raw.githubusercontent.com/ElArkk/jax-unirep) - Library implementing the [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) for protein machine learning applications. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
 - [jax-flows](https://raw.githubusercontent.com/ChrisWaites/jax-flows) - Normalizing flows in JAX. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
 - [sklearn-jax-kernels](https://raw.githubusercontent.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">

@@ -375,6 +375,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [pogreb](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads.
 * [prometheus](https://github.com/prometheus/prometheus) - Monitoring system and time series database.
 * [pudge](https://github.com/recoilme/pudge) - Fast and simple  key/value store written using Go's standard library.
+* [rosedb](https://github.com/roseduan/rosedb) - An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset.
 * [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed, relational database built on SQLite.
 * [Scribble](https://github.com/nanobox-io/golang-scribble) - Tiny flat file JSON store.
 * [slowpoke](https://github.com/recoilme/slowpoke) - Key-value store with persistence.
@@ -397,6 +398,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [gormigrate](https://github.com/go-gormigrate/gormigrate) - Database schema migration helper for Gorm ORM.
 * [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 * [migrator](https://github.com/lopezator/migrator) - Dead simple Go database migration library.
+* [migrator](https://github.com/larapulse/migrator) - MySQL database migrator designed to run migrations to your features and manage database schema update with intuitive go code.
 * [pravasan](https://github.com/pravasan/pravasan) - Simple Migration tool - currently for MySQL but planning to soon support Postgres, SQLite, MongoDB, etc.
 * [schema](https://github.com/adlio/schema) - Library to embed schema migrations for database/sql-compatible databases inside your Go binaries.
 * [skeema](https://github.com/skeema/skeema) - Pure-SQL schema management system for MySQL, with support for sharding and external online schema change tools.
@@ -462,6 +464,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     * [godror](https://github.com/godror/godror) - Oracle driver for Go, using the ODPI-C driver.
     * [gofreetds](https://github.com/minus5/gofreetds) - Microsoft MSSQL driver. Go wrapper over [FreeTDS](http://www.freetds.org).
     * [pgx](https://github.com/jackc/pgx) - PostgreSQL driver supporting features beyond those exposed by database/sql.
+    * [pig](https://github.com/alexeyco/pig) - Simple [pgx](https://github.com/jackc/pgx) wrapper to execute and [scan](https://github.com/georgysavva/scany) query results easily.
     * [pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql.
     * [Sqinn-Go](https://github.com/cvilsmeier/sqinn-go) - SQLite with pure Go.
 
@@ -814,6 +817,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [goccm](https://github.com/zenthangplus/goccm) - Go Concurrency Manager package limits the number of goroutines that allowed to run concurrently.
 * [gohive](https://github.com/loveleshsharma/gohive) - A highly performant and easy to use Goroutine pool for Go.
 * [gollback](https://github.com/vardius/gollback) - asynchronous simple function utilities, for managing execution of closures and callbacks.
+* [gowl](https://github.com/hamed-yousefi/gowl) - Gowl is a process management and process monitoring tool at once. An infinite worker pool gives you the ability to control the pool and processes and monitor their status.
 * [goworker](https://github.com/benmanns/goworker) - goworker is a Go-based background worker.
 * [gowp](https://github.com/xxjwxc/gowp) - gowp is concurrency limiting goroutine pool.
 * [gpool](https://github.com/Sherifabdlnaby/gpool) - manages a resizeable pool of context-aware goroutines to bound concurrency.
@@ -1463,6 +1467,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 ## Resource Embedding
 
+* [debme](https://github.com/leaanthony/debme) - Create an `embed.FS` from an existing `embed.FS` subdirectory.  
 * [esc](https://github.com/mjibson/esc) - Embeds files into Go programs and provides http.FileSystem interfaces to them.
 * [fileb0x](https://github.com/UnnoTed/fileb0x) - Simple tool to embed files in go with focus on "customization" and ease to use.
 * [go-embed](https://github.com/pyros2097/go-embed) - Generates go code to embed resource files into your library or executable.
@@ -1492,6 +1497,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-dsp](https://github.com/mjibson/go-dsp) - Digital Signal Processing for Go.
 * [go-estimate](https://github.com/milosgajdos/go-estimate) - State estimation and filtering algorithms in Go.
 * [go-gt](https://github.com/ThePaw/go-gt) - Graph theory algorithms written in "Go" language.
+* [godesim](https://github.com/soypat/godesim) - Extended/multivariable ODE solver framework for event-based simulations with simple API.
 * [goent](https://github.com/kzahedi/goent) - GO Implementation of Entropy Measures.
 * [gohistogram](https://github.com/VividCortex/gohistogram) - Approximate histograms for data streams.
 * [gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more.
@@ -1767,6 +1773,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
     * [inject](https://github.com/facebookgo/inject) - Package inject provides a reflect based injector.
     * [ltsv](https://github.com/Wing924/ltsv) - High performance [LTSV (Labeled Tab Separated Value)](http://ltsv.org/) reader for Go.
     * [mxj](https://github.com/clbanning/mxj) - Encode / decode XML as JSON or map[string]interface{}; extract values with dot-notation paths and wildcards. Replaces x2j and j2x packages.
+    * [normalize](https://github.com/avito-tech/normalize) - Sanitize, normalize and compare fuzzy text.
     * [omniparser](https://github.com/jf-tech/omniparser) - A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema.
     * [pagser](https://github.com/foolin/pagser) - Pagser is a simple, extensible, configurable parse and deserialize html page to struct based on goquery and struct tags for golang crawler.
     * [podcast](https://github.com/eduncan911/podcast) - iTunes Compliant and RSS 2.0 Podcast Generator in Golang
@@ -2117,6 +2124,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Golf](https://github.com/dinever/golf) - Golf is a fast, simple and lightweight micro-web framework for Go. It comes with powerful features and has no dependencies other than the Go Standard Library.
 * [Gondola](https://github.com/rainycape/gondola) - The web framework for writing faster sites, faster.
 * [gongular](https://github.com/mustafaakin/gongular) - Fast Go web framework with input mapping/validation and (DI) Dependency Injection.
+* [GoTuna](https://github.com/gotuna/gotuna) - Minimalistic web framework for Go with mux router, middlewares, sessions, templates, embeded views and static files.
 * [goweb](https://github.com/twharmon/goweb) - Web framework with routing, websockets, logging, middleware, static file server (optional gzip), and automatic TLS.
 * [Goyave](https://github.com/go-goyave/goyave) - Feature-complete REST API framework aimed at clean code and fast development, with powerful built-in functionalities.
 * [hiboot](https://github.com/hidevopsio/hiboot) - hiboot is a high performance web application framework with auto configuration and dependency injection support.

@@ -58,11 +58,12 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for creating template files for a GitHub project..
 
 ## Tips, tricks, tools, and add-ons for GitHub power users
+- [Pull Dog](https://github.com/apps/pull-dog) - Automatic test environments for your pull requests.
 - [GitHub Integrations Directory](https://github.com/integrations) - Use your favorite tools with GitHub.
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Use this list to test your GitHub knowledge. (A resource so good, it's worth mentioning twice.)
 - [A collection of awesome browser extensions for GitHub.](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Well, the link kinda' says it all.
 - [Gitter](https://gitter.im/) - Chat, for GitHub. Unlimited public rooms and one-to-one chats, free. 
-- [Zenhub](https://www.zenhub.io/) - Project management inside of GitHub, including kanban boards and more.
+- [Zenhub](https://www.zenhub.com/) - Project management inside of GitHub, including kanban boards and more.
 - [HuBoard](https://huboard.com/) - Instant project management for your GitHub issues (sadly, no free plan, but appears to be [open source](https://github.com/huboard/huboard-web))
 - [Overv.io](https://overv.io/) - Agile project management for teams who love GitHub. Kanban baords and more.
 - [Penflip](https://www.penflip.com/) - Collaborative writing and version control, powered by GitLab (similar to GitHub).
@@ -88,6 +89,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Gitential.com](https://gitential.com) - Measure and visualize coding hours, productivity, efficiency of projects, teams, repos or individual developers.
 - [Octotree](https://www.octotree.io/) - Browser extension that enhances GitHub code browsing and pull request reviewing. Available on Chrome, Firefox, Opera and Safari.
 - [FeatHub](https://feathub.com/) - Feature voting for GitHub.
+- [multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in bulk.
 
 ## Novel uses of GitHub
 

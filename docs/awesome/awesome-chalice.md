@@ -20,7 +20,7 @@
 ## AWS Projects
 Supercharge your app.
 
-- [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) - Integrate Pandas with every major AWS data backend.
+- [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
 - [AWS AutoGluon](https://github.com/awslabs/autogluon) - Automate machine learning training and deployment.
 - [AWS Lambda Powertools](https://github.com/awslabs/aws-lambda-powertools-python) - A suite of utilities for AWS Lambda functions to ease adopting best practices such as tracing, structured logging, custom metrics async, parameters and secrets management, idempotency, and more.
 - [AWS Cloud Development Kit (CDK)](https://aws.amazon.com/cdk/) - The CDK can deploy Chalice apps, or Chalice can deploy CDK apps.

@@ -700,7 +700,6 @@ Table of Contents
   * [glitch.com](https://glitch.com/) — Free public/private hosting with features such as code sharing and real-time collaboration. Free plan has 1000 hours/month limit.
   * [heroku.com](https://www.heroku.com/) — Host your apps in the cloud, free for single process apps
   * [Krucible](https://usekrucible.com) — Krucible is a platform for creating Kubernetes clusters for testing and development. Free tier accounts come with 25 cluster-hours per month.
-  * [ZARVIS](https://zarvis.ai) - Free managed Kubernetes namespace for open source Github project. Free 1GB memory and 1 vCPU.
   * [Mendix](https://www.mendix.com/) — Rapid Application Development for Enterprises, unlimited number of free sandbox environments supporting unlimited users, 0.5 GB storage and 1 GB RAM per app. Also Studio and Studio Pro IDEs are allowed in free tier.
   * [m3o.com](https://m3o.com) - A cloud platform for API services development. M3O is a fully managed Micro as a Service offering focusing on Go microservices development in the Cloud. Free tier provides enough to run 5 services and collaborate with others.
   * [Okteto Cloud](https://okteto.com) - Managed Kubernetes service designed for remote development. Free developer accounts come with 8GB of RAM, 4 CPUs and 5GB Disk space. The apps sleep after 24 hours of inactivity.
@@ -896,8 +895,10 @@ Table of Contents
    * [pivotaltracker.com](https://www.pivotaltracker.com/) — Free for unlimited public projects and two private projects with 3 total active users (read-write) and unlimited passive users (read-only).
    * [plan.io](https://plan.io/) — Project Management with Repository Hosting and more options. Free for 2 users with 10 customers and 500MB Storage
    * [planitpoker.com](https://www.planitpoker.com/) — Free online planning poker (estimation tool)
+   * [saas.zentao.pm](https://saas.zentao.pm/) - An Application Lifecycle Management solution for Issue Tracking and Project Management, on-premise and open source version are available as well.
    * [senseitool.com](https://www.senseitool.com/) — An agile retrospective tool - Free.
    * [SpeedBoard](https://speedboard.app) - Board for Agile and Scrum retrospectives - Free.
+   * [Shake](https://www.shakebugs.com/) - In-app bug reporting and feedback tool for mobile apps. Free plan, 10 bug reports per app/per month. 
    * [Tadum](https://tadum.app) - Meeting agenda and minutes app designed for recurring meetings, free for teams up to 10
    * [taiga.io](https://taiga.io/) — Project management platform for startups and agile developers, free for Open Source
    * [Tara AI](https://tara.ai/) — Simple sprint management service. Free plan has unlimited tasks, sprints and workspaces, with no user limits.
