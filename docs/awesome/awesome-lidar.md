@@ -191,6 +191,8 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
 
 ## Others
 - [Pointcloudprinter :octocat:](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
+- [CloudCompare](https://cloudcompare.org/) - CloudCompare is a free, cross-platform point cloud editor software.
+  - [GitHub repository :octocat:](https://github.com/CloudCompare)
 - [Pcx :octocat:](https://github.com/keijiro/Pcx) - Point cloud importer/renderer for Unity.
 - [Bpy :octocat:](https://github.com/uhlik/bpy) - Point cloud importer/renderer/editor for Blender, Point Cloud visualizer.
 - [Semantic Segmentation Editor :octocat:](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Point cloud and image semantic segmentation editor by Hitachi Automotive And Industry Laboratory, point cloud annotator / labeling.
