@@ -230,7 +230,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python Data Science Handbook: full text in Jupyter Notebooks|
 | [Shapley](https://github.com/benedekrozemberczki/shapley) | A data-driven framework to quantify the value of classifiers in a machine learning ensemble.  |
 | [DAGsHub](https://dagshub.com) | A platform built on open source tools for data, model and pipeline management.  |
-
+| [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible, with real-time collaboration and running in the cloud. |
 
 ## Machine Learning in General Purpose
 
@@ -443,6 +443,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [R for Data Science](https://r4ds.had.co.nz/)
 - [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science)
 - [Machine Learning Bookcamp](https://mlbookcamp.com/) - Early access
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 
 ## Socialize
@@ -722,6 +723,7 @@ Some data mining competition platforms
 - [datahub.io](https://datahub.io/)
 - [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
 - [datacite.org](https://www.datacite.org)
+- [The official portal for European data](https://data.europa.eu/en)
 - [quandl.com](https://www.quandl.com/) - Get the data you need in the form you want; instant download, API or direct to your app.
 - [figshare.com](https://figshare.com/)
 - [GeoLite Legacy Downloadable Databases](http://dev.maxmind.com/geoip/legacy/geolite/)
