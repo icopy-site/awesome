@@ -150,8 +150,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   sending email from your Pyramid application.
 * [pyramid_marrowmailer](https://github.com/domenkozar/pyramid_marrowmailer) -
   Pyramid integration package for marrow.mailer, formerly known as TurboMail
-* [pyramid_mailgun](https://github.com/evannook/pyramid_mailgun) -
-  Pyramid integration package for marrow.mailer, formerly known as TurboMail
+* [pyramid_mailgun](https://github.com/evannook/pyramid_mailgun) - Mailgun integration for Pyramid framework.
 
 ## Forms
 
@@ -327,7 +326,7 @@ provide new storage backends.*
 * [pyramid_pages](https://github.com/uralbash/pyramid_pages) - Provides a
   collections of tree pages to your Pyramid application. This is very similar
   to django.contrib.flatpages but with a tree structure and traversal algorithm
-  in URL dispath.
+  in URL dispatch.
 * [paginate](https://github.com/Pylons/paginate) - Python pagination module.
 * [pyramid_tablib](https://github.com/lxneng/pyramid_tablib) - tablib renderer
   (xlsx, xls, csv) for pyramid
