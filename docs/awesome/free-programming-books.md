@@ -74,6 +74,7 @@ Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-b
 
 ### Free Online Courses
 
++ [Arabic / al arabiya / العربية](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ar.md)
 + [Bulgarian / български](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-bg.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md)
 + [Finnish](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-fi.md)
