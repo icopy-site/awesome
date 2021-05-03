@@ -88,6 +88,9 @@ Alternatives to ad-supported websites, software, and publications.
 - [Etherpad](https://etherpad.wikimedia.org/) - Collaborative document editing in real-time.
 - [ProtectedText](https://www.protectedtext.com/) - Online encrypted notepad with storage and no sign up.
 
+### Web Apps
+
+- [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere.
 
 ## Resources
 

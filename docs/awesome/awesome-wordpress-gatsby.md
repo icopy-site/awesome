@@ -151,7 +151,7 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 ## Paid Tutorials / Courses
 List of paid courses.
 
-- Please contribute known resources that use the current stack with newest versions.
+- 2021.01: [Building a Headless WordPress Site with Gatsby](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby) - This course is a step-by-step walk through using gatsby-source-wordpress plugin to create a fully functional headless Gatsby WordPress site with posts, pages, categories, tags, post navigation and other features.
 
 
 ## Starters

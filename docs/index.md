@@ -459,6 +459,7 @@
 - [Contexture](awesome/awesome-contexture.md) - Abstracts queries/filters and results/aggregations from different backing data stores like ElasticSearch and MongoDB.
 - [Database Tools](awesome/awesome-db-tools.md) - Everything that makes working with databases easier.
 - [Grakn](awesome/awesome.md) - Logical database to organize large and complex networks of data as one body of knowledge.
+- [Cassandra](awesome/awesome-cassandra.md) - Open-source, distributed, wide column store, NoSQL database management system.
 
 ## Media
 

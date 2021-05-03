@@ -405,6 +405,7 @@ nav:
     - Contexture: awesome/awesome-contexture.md
     - Database Tools: awesome/awesome-db-tools.md
     - Grakn: awesome/graknlabs-awesome.md
+    - Cassandra: awesome/awesome-cassandra.md
   - Media:
     - Creative Commons Media: awesome/creative-commons-media.md
     - Fonts: awesome/awesome-fonts.md
