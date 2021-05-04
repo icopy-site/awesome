@@ -267,7 +267,6 @@ nav:
     - FastAPI: awesome/awesome-fastapi.md
     - CDK: awesome/awesome-cdk.md
     - IAM: awesome/awesome-iam.md
-    - Chalice: awesome/awesome-chalice.md
   - Computer Science:
     - University Courses: awesome/awesome-courses.md
     - Data Science: awesome/awesome-datascience.md

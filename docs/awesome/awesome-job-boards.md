@@ -75,12 +75,12 @@ A curated list of awesome niche job boards.
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
 * [Golang Developer Jobs](https://golangjob.xyz)
+* [Golang Works](https://golang.works-hub.com/) - Local and remote Golang opportunities, articles and open-source.
 
 ### JavaScript
 
 * [Angular Jobs](https://angularjobs.com/)
 * [Angular Work](https://angular.work/)
-* [Ember Job Board](https://jobs.emberjs.com/)
 * [Jobs In JS](https://jobsinjs.com/)
 * [JavaScript Developer Board](https://javascriptjob.xyz/)
 * [Vue.js Jobs](https://vuejobs.com/)
@@ -133,7 +133,6 @@ A curated list of awesome niche job boards.
 * [remote | OK](https://remoteok.io/)
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
-* [remotebond](https://remotebond.com/)
 
 ## Startups
 
@@ -154,7 +153,7 @@ A curated list of awesome niche job boards.
 
 ### Canada
 
-* [Work in Tech](https://www.workintech.ca/) - Toronto-Waterloo Region Corridor Jobs
+* [Work in Tech](https://www1.communitech.ca/jobs) - Explore opportunities in Waterloo Region and beyond 
 
 ### Europe
 

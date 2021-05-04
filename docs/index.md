@@ -306,7 +306,6 @@
 - [FastAPI](awesome/awesome-fastapi.md) - Python web app framework.
 - [CDK](awesome/awesome-cdk.md) - Open-source software development framework for defining cloud infrastructure in code.
 - [IAM](awesome/awesome-iam.md) - User accounts, authentication and authorization.
-- [Chalice](awesome/awesome-chalice.md) - Python framework for serverless app development on AWS Lambda.
 
 ## Computer Science
 
