@@ -5151,6 +5151,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#create-local-tag" class="md-nav__link">
+    Create local tag
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#delete-local-tag" class="md-nav__link">
     Delete local tag
   </a>
@@ -6105,6 +6112,13 @@
         <li class="md-nav__item">
   <a href="#checkout-a-commit-prior-to-a-day-ago" class="md-nav__link">
     Checkout a commit prior to a day ago
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#push-the-current-branch-to-the-same-name-on-the-remote-repository" class="md-nav__link">
+    Push the current branch to the same name on the remote repository
   </a>
   
 </li>
@@ -9819,6 +9833,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#create-local-tag" class="md-nav__link">
+    Create local tag
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#delete-local-tag" class="md-nav__link">
     Delete local tag
   </a>
@@ -10778,6 +10799,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#push-the-current-branch-to-the-same-name-on-the-remote-repository" class="md-nav__link">
+    Push the current branch to the same name on the remote repository
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#push-a-new-local-branch-to-remote-repository-and-track" class="md-nav__link">
     Push a new local branch to remote repository and track
   </a>
@@ -10961,6 +10989,10 @@
 <div class="codehilite"><pre><span></span>git branch -dr &lt;remote/branch&gt;
 </pre></div>
 
+<h2 id="create-local-tag">Create local tag<a class="headerlink" href="#create-local-tag" title="Permanent link">&para;</a></h2>
+<div class="codehilite"><pre><span></span>git tag &lt;tag-name&gt;
+</pre></div>
+
 <h2 id="delete-local-tag">Delete local tag<a class="headerlink" href="#delete-local-tag" title="Permanent link">&para;</a></h2>
 <div class="codehilite"><pre><span></span>git tag -d &lt;tag-name&gt;
 </pre></div>
@@ -11096,6 +11128,9 @@ git config --global alias.st status
 
 <h2 id="show-list-of-all-saved-stashes">Show list of all saved stashes<a class="headerlink" href="#show-list-of-all-saved-stashes" title="Permanent link">&para;</a></h2>
 <div class="codehilite"><pre><span></span>git stash list
+</pre></div>
+
+<div class="codehilite"><pre><span></span>git stash show -p &lt;stash@<span class="o">{</span>n<span class="o">}</span>&gt;
 </pre></div>
 
 <h2 id="apply-any-stash-without-deleting-from-the-stashed-list">Apply any stash without deleting from the stashed list<a class="headerlink" href="#apply-any-stash-without-deleting-from-the-stashed-list" title="Permanent link">&para;</a></h2>
@@ -11450,6 +11485,9 @@ git bisect reset                    <span class="c1"># Finish search </span>
 <p><strong>Alternatives:</strong>
 <div class="codehilite"><pre><span></span>git branch &lt;branch-name&gt; <span class="o">&amp;&amp;</span> git checkout &lt;branch-name&gt;
 </pre></div></p>
+<div class="codehilite"><pre><span></span>git switch -c &lt;branch-name&gt;
+</pre></div>
+
 <h2 id="ignore-file-mode-changes-on-commits">Ignore file mode changes on commits<a class="headerlink" href="#ignore-file-mode-changes-on-commits" title="Permanent link">&para;</a></h2>
 <div class="codehilite"><pre><span></span>git config core.fileMode <span class="nb">false</span>
 </pre></div>
@@ -11621,6 +11659,10 @@ git bisect reset                    <span class="c1"># Finish search </span>
 
 <h2 id="checkout-a-commit-prior-to-a-day-ago">Checkout a commit prior to a day ago<a class="headerlink" href="#checkout-a-commit-prior-to-a-day-ago" title="Permanent link">&para;</a></h2>
 <div class="codehilite"><pre><span></span>git checkout master@<span class="o">{</span>yesterday<span class="o">}</span>
+</pre></div>
+
+<h2 id="push-the-current-branch-to-the-same-name-on-the-remote-repository">Push the current branch to the same name on the remote repository<a class="headerlink" href="#push-the-current-branch-to-the-same-name-on-the-remote-repository" title="Permanent link">&para;</a></h2>
+<div class="codehilite"><pre><span></span>git push origin HEAD
 </pre></div>
 
 <h2 id="push-a-new-local-branch-to-remote-repository-and-track">Push a new local branch to remote repository and track<a class="headerlink" href="#push-a-new-local-branch-to-remote-repository-and-track" title="Permanent link">&para;</a></h2>
