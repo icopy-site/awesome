@@ -154,6 +154,11 @@ git push origin :<remote_branchname>
 git branch -dr <remote/branch>
 ```
 
+## Create local tag
+```sh
+git tag <tag-name>
+```
+
 ## Delete local tag
 ```sh
 git tag -d <tag-name>
@@ -345,6 +350,10 @@ git stash push --all
 ## Show list of all saved stashes
 ```sh
 git stash list
+```
+
+```sh
+git stash show -p <stash@{n}>
 ```
 
 ## Apply any stash without deleting from the stashed list
@@ -823,6 +832,10 @@ __Alternatives:__
 git branch <branch-name> && git checkout <branch-name>
 ```
 
+```sh
+git switch -c <branch-name>
+```
+
 ## Ignore file mode changes on commits
 ```sh
 git config core.fileMode false
@@ -1048,6 +1061,11 @@ git status --short --branch
 ## Checkout a commit prior to a day ago
 ```sh
 git checkout master@{yesterday}
+```
+
+## Push the current branch to the same name on the remote repository
+```sh
+git push origin HEAD
 ```
 
 ## Push a new local branch to remote repository and track
