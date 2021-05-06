@@ -74,6 +74,8 @@ A list of UI components built with Material-UI Design.
 - [React Github Repo Cards](https://github.com/sabesansathananthan/react-github-repo-cards) - Extended Material-UI Card component to show the GitHub repositories.
 - [React molecule-components](https://github.com/alexandre-lelain/components-extra) - React molecule-components based on Material-UI.
 - [Material-UI NestedMenuItem](https://github.com/azmenak/material-ui-nested-menu-item) - Drop-in replacement for MUI's MenuItem with infinitely nested menus, and open on hover.
+- [React-planet](https://github.com/innFactory/react-planet) - Create circular menus which looks like planets.
+
 
 ## Applications
 
@@ -95,6 +97,7 @@ A list of starter projects and boilerplates built with Material-UI Design.
 - [react-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) - A starter kit for react and Material-UI.
 - [gatsby-starter-material-ui](https://github.com/nareshbhatia/gatsby-starter-material-ui) - A starter template for Gatsby using Material-UI.
 - [saas](https://github.com/async-labs/saas) - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
+- [create-react-app-material-typescript-redux](https://github.com/innFactory/create-react-app-material-typescript-redux) - A ready to use boilerplate for starting big react projects.
 
 ## Contributing
 
