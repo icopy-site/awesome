@@ -113,6 +113,7 @@ Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-b
 
 Free Podcasts and Screencasts:
 
++ [Arabic / al arabiya / العربية](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-ar.md)
 + [Czech / čeština / český jazyk](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-cs.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-fi.md)

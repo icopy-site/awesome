@@ -13,7 +13,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 ### Streaming Engine
 
 - [Apache Apex](https://github.com/apache/apex-core) [Java] - unified platform for big data stream and batch processing.
-- [Apache Ballista](https://github.com/apache/arrow/tree/master/rust/ballista) [Rust] - distributed compute platform powered by Apache Arrow.
+- [Apache Ballista](https://github.com/apache/arrow-datafusion/tree/master/ballista) [Rust] - distributed compute platform powered by Apache Arrow.
 - [Apache Flink](https://github.com/apache/flink) [Java] - system for high-throughput, low-latency data stream processing that supports stateful computation, data-driven windowing semantics and iterative stream processing.
 - [Apache Heron (incubating)](https://github.com/apache/incubator-heron) [Java] - a realtime, distributed, fault-tolerant stream processing engine from Twitter.
 - [Apache Samza](https://github.com/apache/samza) [Scala/Java] - distributed stream processing framework that build on Kafka(messaging, storage) and YARN(fault tolerance, processor isolation, security and resource management).
@@ -88,7 +88,7 @@ Mesos, designed for high performance data processing jobs that require flexibili
 - [nsq](https://github.com/nsqio/nsq) [Go] - realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.
 - [RudderStack](https://github.com/rudderlabs/rudder-server) [Go] - an open source customer data infrastructure (segment, mparticle alternative).
 - [suro](https://github.com/Netflix/suro) [Java] - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data.
-- [StreamSets Data Collector](https://github.com/streamsets/datacollector) [Java] - continuous big data ingestion infrastructure that reads from and writes to a large number of end-points, including S3, JDBC, Hadoop, Kafka, Cassandra and many others.
+- [StreamSets Data Collector](https://github.com/streamsets/datacollector-oss) [Java] - continuous big data ingestion infrastructure that reads from and writes to a large number of end-points, including S3, JDBC, Hadoop, Kafka, Cassandra and many others.
 
 ### Online Machine Learning 
 
@@ -107,7 +107,7 @@ Mesos, designed for high performance data processing jobs that require flexibili
 - [StreamCQL](https://github.com/Zhiqiang-He/StreamCQL) [Java] - Continuous Query Language on RealTime Computation System.
 - [ksqlDB](https://github.com/confluentinc/ksql) [Java] - A cloud-native, source-available [database](https://ksqldb.io/) purpose-built for stream processing applications
 - [Materialize](https://materialize.com) [Rust] - A source-available streaming SQL engine for maintaining materialized views on data from message brokers and databases.
-
+- [Siddhi](https://github.com/siddhi-io/siddhi) [Java] - A cloud native Streaming and Complex Event Processing engine that understands Streaming SQL queries in order to capture events from diverse data sources, process them, detect complex conditions, and publish output to various endpoints in real time.
 
 ### Benchmark
 
