@@ -74,6 +74,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Asio](https://github.com/chriskohlhoff/asio/) - A cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach. [Boost] [website](http://think-async.com/)
 * [Boost.Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming. [Boost]
 * [C++ Actor Framework](https://github.com/actor-framework/actor-framework) - An Open Source Implementation of the Actor Model in C++. [BSD-3-Clause] [website](http://actor-framework.org/)
+* [Ichor](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. [MIT]
 * [libev](http://libev.schmorp.de/) - A full-featured and high-performance event loop that is loosely modelled after libevent, but without its limitations and bugs. [BSD and GPL]
 * [libevent](http://libevent.org/) - An event notification library. [BSD]
 * [libhv](https://github.com/ithewei/libhv) - Cross-platform event loop library. [BSD]
@@ -235,7 +236,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Containers
 
-* [C++ B-tree](https://code.google.com/p/cpp-btree/) - A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]
+* [C++ B-tree](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]
 * [Colony](https://github.com/mattreecebentley/plf_colony) - An unordered "bag"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. [zLib] [website](http://www.plflib.org/colony.htm)
 * [dynamic_bitset](https://github.com/pinam45/dynamic_bitset) - A C++17 header-only dynamic bitset. [MIT]
 * [Forest](https://github.com/xorz57/forest) - Template library implementing an AVL, a Binary Search, a KD and a Quad Tree. [MIT]
