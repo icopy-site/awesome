@@ -8491,6 +8491,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#books" class="md-nav__link">
+    Books
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#communities" class="md-nav__link">
     Communities
   </a>
@@ -8638,6 +8645,13 @@
           <li class="md-nav__item">
   <a href="#secrets-management" class="md-nav__link">
     Secrets Management
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#secrets-scanning" class="md-nav__link">
+    Secrets Scanning
   </a>
   
 </li>
@@ -8798,6 +8812,10 @@
 <ul>
 <li><a href="https://www.pagerduty.com/blog/security-training-at-pagerduty/">Our Approach to Employee Security Training</a> - <em>Pager Duty</em> - Guidelines to running security training within an organisation.</li>
 </ul>
+<h3 id="books">Books<a class="headerlink" href="#books" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="https://www.wiley.com/en-gb/Alice+and+Bob+Learn+Application+Security-p-9781119687405">Alice and Bob Learn Application Security</a> - <em>Tanya Janca</em> - An accessible and thorough resource for anyone seeking to incorporate, from the beginning of the System Development Life Cycle, best security practices in software development.</li>
+</ul>
 <h3 id="communities">Communities<a class="headerlink" href="#communities" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="https://www.mydevsecops.io/">MyDevSecOps</a> - <em>Snyk</em> - A community that runs conferences, a blog, a podcast and a Slack workspace dedicated to DevSecOps.</li>
@@ -8837,6 +8855,7 @@
 </ul>
 <h3 id="training">Training<a class="headerlink" href="#training" title="Permanent link">&para;</a></h3>
 <ul>
+<li><a href="https://github.com/duo-labs/appsec-education">Application Security Education</a> - <em>Duo Security</em> - Training materials created by the Duo application security team, including introductory and advanced training presentations and hands-on labs.</li>
 <li><a href="https://www.cybrary.it/">Cybrary</a> - <em>Cybrary</em> - Subscription based online courses with dedicated categories for cybersecurity and DevSecOps.</li>
 <li><a href="https://pentesterlab.com/">PentesterLab</a> - <em>PentesterLab</em> - Hands on labs to understand and exploit simple and advanced web vulnerabilities.</li>
 <li><a href="https://www.practical-devsecops.com">Practical DevSecOps</a> - <em>Practical DevSecOps</em> - Learn DevSecOps concepts, tools, and techniques from industry experts with practical DevSecOps using state of the art browser-based labs.</li>
@@ -8948,6 +8967,17 @@
 <li><a href="https://www.vaultproject.io/">HashiCorp Vault</a> - <em>HashiCorp</em> - Securely store secrets via UI, CLI or HTTP API.</li>
 <li><a href="https://github.com/pinterest/knox">Pinterest Knox</a> - <em>Pinterest</em> - Securely store, rotate and audit secrets.</li>
 <li><a href="https://github.com/mozilla/sops">Secrets Operations (SOPS)</a> - <em>Mozilla</em> - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.</li>
+</ul>
+<h3 id="secrets-scanning">Secrets Scanning<a class="headerlink" href="#secrets-scanning" title="Permanent link">&para;</a></h3>
+<p>Source control is not a secure place to store secrets such as credentials, API keys or tokens, even if the repo is private. Secrets scanning tools can scan and monitor git repositories and pull-requests for secrets, and can be used to prevent secrets from being committed, or to find and remove secrets that have already been committed to source control.</p>
+<ul>
+<li><a href="https://secdevtools.azurewebsites.net/helpcredscan.html">CredScan</a> - <em>Microsoft</em> - A credential scanning tool that can be run as a task in Azure DevOps pipelines.</li>
+<li><a href="https://www.gitguardian.com/">GitGuardian</a> - <em>GitGuardian</em> - A web-based solution that scans and monitors public and private git repositories for secrets.</li>
+<li><a href="https://github.com/zricethezav/gitleaks">Gitleaks</a> - <em>Zachary Rice</em> - Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repositories.</li>
+<li><a href="https://github.com/awslabs/git-secrets">git-secrets</a> - <em>AWS Labs</em> - Scans commits, commit messages and merges for secrets. Native support for AWS secret patterns, but can be configured to support other patterns.</li>
+<li><a href="https://nightfall.ai/solutions/product/github">Nightfall</a> - <em>Nightfall</em> - A web-based platform that monitors for sensitive data disclosure across several SDLC tools, including GitHub repositories.</li>
+<li><a href="https://github.com/auth0/repo-supervisor">Repo-supervisor</a> - <em>Auth0</em> - Secrets scanning tool that can run as a CLI, as a Docker container or in AWS Lambda.</li>
+<li><a href="https://github.com/trufflesecurity/truffleHog">truffleHog</a> - <em>Truffle Security</em> - Searches through git repositories for secrets, digging deep into commit history and branches.</li>
 </ul>
 <h3 id="static-analysis">Static Analysis<a class="headerlink" href="#static-analysis" title="Permanent link">&para;</a></h3>
 <p>Static Analysis Security Testing (SAST) tools scan software for vulnerabilities without executing the target software. Typically, static analysis will scan the source code for security flaws such as the use of unsafe functions, hard-coded secrets and configuration issues. SAST tools often come in the form of IDE plugins and CLIs that can be integrated into CI/CD pipelines.</p>
