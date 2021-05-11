@@ -57,6 +57,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [OnSched](https://www.onsched.com/) - Scheduling API for marketplaces & applications.
 - [AppointmentPlus](https://www.appointmentplus.com/) - Appointment scheduling with coupons.
 - [Booxi](https://www.booxi.com/) - Booking and online directory components.
+- [Cogsworth Scheduler](https://get.cogsworth.com/) - Online Scheduler for business with a powerful API.
 
 ## Notification
 - [OneSignal](https://onesignal.com/) - Mobile and web notifications.

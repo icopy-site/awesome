@@ -23,6 +23,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Our Approach to Employee Security Training](https://www.pagerduty.com/blog/security-training-at-pagerduty/) - _Pager Duty_ - Guidelines to running security training within an organisation.
 
+### Books
+
+- [Alice and Bob Learn Application Security](https://www.wiley.com/en-gb/Alice+and+Bob+Learn+Application+Security-p-9781119687405) - _Tanya Janca_ - An accessible and thorough resource for anyone seeking to incorporate, from the beginning of the System Development Life Cycle, best security practices in software development.
+
 ### Communities
 
 - [MyDevSecOps](https://www.mydevsecops.io/) - _Snyk_ - A community that runs conferences, a blog, a podcast and a Slack workspace dedicated to DevSecOps.
@@ -62,6 +66,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Training
 
+- [Application Security Education](https://github.com/duo-labs/appsec-education) - _Duo Security_ - Training materials created by the Duo application security team, including introductory and advanced training presentations and hands-on labs.
 - [Cybrary](https://www.cybrary.it/) - _Cybrary_ - Subscription based online courses with dedicated categories for cybersecurity and DevSecOps.
 - [PentesterLab](https://pentesterlab.com/) - _PentesterLab_ - Hands on labs to understand and exploit simple and advanced web vulnerabilities.
 - [Practical DevSecOps](https://www.practical-devsecops.com) - _Practical DevSecOps_ - Learn DevSecOps concepts, tools, and techniques from industry experts with practical DevSecOps using state of the art browser-based labs.
@@ -171,6 +176,18 @@ The software we write needs to use secrets (passwords, API keys, certificates, d
 - [HashiCorp Vault](https://www.vaultproject.io/) - _HashiCorp_ - Securely store secrets via UI, CLI or HTTP API.
 - [Pinterest Knox](https://github.com/pinterest/knox) - _Pinterest_ - Securely store, rotate and audit secrets.
 - [Secrets Operations (SOPS)](https://github.com/mozilla/sops) - _Mozilla_ - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.
+
+### Secrets Scanning
+
+Source control is not a secure place to store secrets such as credentials, API keys or tokens, even if the repo is private. Secrets scanning tools can scan and monitor git repositories and pull-requests for secrets, and can be used to prevent secrets from being committed, or to find and remove secrets that have already been committed to source control.
+
+- [CredScan](https://secdevtools.azurewebsites.net/helpcredscan.html) - _Microsoft_ - A credential scanning tool that can be run as a task in Azure DevOps pipelines.
+- [GitGuardian](https://www.gitguardian.com/) - _GitGuardian_ - A web-based solution that scans and monitors public and private git repositories for secrets.
+- [Gitleaks](https://github.com/zricethezav/gitleaks) - _Zachary Rice_ - Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repositories.
+- [git-secrets](https://github.com/awslabs/git-secrets) - _AWS Labs_ - Scans commits, commit messages and merges for secrets. Native support for AWS secret patterns, but can be configured to support other patterns.
+- [Nightfall](https://nightfall.ai/solutions/product/github) - _Nightfall_ - A web-based platform that monitors for sensitive data disclosure across several SDLC tools, including GitHub repositories.
+- [Repo-supervisor](https://github.com/auth0/repo-supervisor) - _Auth0_ - Secrets scanning tool that can run as a CLI, as a Docker container or in AWS Lambda.
+- [truffleHog](https://github.com/trufflesecurity/truffleHog) - _Truffle Security_ - Searches through git repositories for secrets, digging deep into commit history and branches.
 
 ### Static Analysis
 
