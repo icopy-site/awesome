@@ -281,6 +281,7 @@ nav:
       - Software Engineering for Machine Learning: awesome/awesome-seml.md
       - AI in Finance: awesome/awesome-ai-in-finance.md
       - JAX: awesome/awesome-jax.md
+      - XAI: awesome/awesome-xai.md
     - Speech and Natural Language Processing_sub: 
       - Spanish: awesome/awesome-spanish-nlp.md
       - NLP with Ruby: awesome/nlp-with-ruby.md

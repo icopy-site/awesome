@@ -334,6 +334,7 @@
 	- [Software Engineering for Machine Learning](awesome/awesome-seml.md) - From experiment to production-level machine learning.
 	- [AI in Finance](awesome/awesome-ai-in-finance.md) - Solving problems in finance with machine learning.
 	- [JAX](awesome/awesome-jax.md) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
+	- [XAI](awesome/awesome-xai.md) - Providing insight, explanations, and interpretability to machine learning methods.
 - [Speech and Natural Language Processing](awesome/speech-language-processing.md)
 	- [Spanish](awesome/awesome-spanish-nlp.md)
 	- [NLP with Ruby](awesome/nlp-with-ruby.md)
