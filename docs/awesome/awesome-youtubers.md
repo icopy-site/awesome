@@ -667,6 +667,13 @@ Featured playlists: `Algorithms`. \
 Content about: C/C++ language, Data structures, Algorithm \
 Featured playlists: `Sorting Algorithms`, `Data structures`, `Pointers in C/C++`, `Introduction to Programming through 'C'`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnghnfeWSkURz0encxxAgmx5r-vl2jDviqvmYcC3=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GaryExplains)
+
+[**Gary Explains**](https://www.youtube.com/c/GaryExplains) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Concepts, Theory \
+Featured playlists: `Raspberry Pi`, `Microcontrollers`, `Programming`, `Linux`, `more!`. \
+<br/>
+
 
 ## Machine learning
 

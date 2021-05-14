@@ -53,9 +53,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Develop a complete application with Svelte and TypeScript](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs.
 - [An Introduction to Actions](https://svelte.school/tutorials/introduction-to-actions) - Svelte School.
 - [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - The Net Ninja (YouTube).
+- [Sapper Tutorial (Crash Course)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gdr4Qhx83gBBcID-KMe-PQ) - The Net Ninja (YouTube).
 - [SvelteJS Series - tutorials and talks](https://www.youtube.com/playlist?list=PLKUl5gVuvLjh7l0SDn-BoZtMgN3TDMNPd) - SpinSpire (YouTube).
 - [Svelte Stores](https://www.youtube.com/playlist?list=PLoKaNN3BjQX3fG-XOSwsPHtnV8FUY6lgK) - @lihautan (YouTube).
 - [Svelte Actions](https://www.youtube.com/playlist?list=PLoKaNN3BjQX3Gl14MBygFf8buPIw9pAeK) - @lihautan (YouTube).
+- [Svelte 101](https://www.youtube.com/hashtag/svelte101) - @lihautan (YouTube).
 - [Learn Svelte by building a habit tracker app](https://raddevon.com/articles/learn-svelte-by-building-a-habit-tracker-app/) - RadDevon.
 
 ### Studies
@@ -98,7 +100,8 @@ _Tables and data grids._
 
 - [svelte-simple-datatables](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
 - [svelte-table](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
-- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality.
+- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
+- [svelte-generic-table-pager](https://github.com/ivosdc/svelte-generic-table-pager) - Svelte-generic-crud-table with paginator.
 
 #### Notification
 
@@ -221,6 +224,7 @@ _Lint and format your code._
 - [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for components.
 - [prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
 - [svelte-check](https://www.npmjs.com/package/svelte-check) - Check your code.
+- [eslint-plugin-svelte](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
 
 ### Docs
 
