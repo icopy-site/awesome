@@ -33,11 +33,6 @@ This list is a collection of the best Deno modules and resources.
 - [myCompiler.io](https://www.mycompiler.io/new/deno)
 - [Repl.it](https://repl.it/languages/deno)
 
-### Assistants
-
-- [Telegram Bot Assistant](https://t.me/denoland_bot)
-- [Source code of the bot](https://github.com/genemators/lander.js)
-
 ## Modules
 
 __NOTICE__: Deno has a few official modules that could be found at [deno_std](https://deno.land/std/).
@@ -249,6 +244,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Read and Write in a local file with Deno](https://www.loginradius.com/engineering/blog/read-and-write-in-a-local-file-with-deno/)
 - [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
 - [Test coverage in Deno with Codecov and GitHub Actions](https://v1rtl.site/blog/coverage-in-deno)
+- Deno REST API with Oak Tutorial Series [0](https://www.robinwieruch.de/deno-tutorial), [1](https://www.robinwieruch.de/deno-oak), [2](https://www.robinwieruch.de/deno-oak-rest-api)
 
 ## Presentations
 
