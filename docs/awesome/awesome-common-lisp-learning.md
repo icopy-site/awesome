@@ -82,7 +82,7 @@ These are books that you'll have to buy, or borrow from a library.
 
 ## Online Community
 - The [Cliki](http://cliki.net) - The Common Lisp Wiki. A great resource for all things CL. Has a great [Getting Started](http://cliki.net/Getting+Started) page and an extensive list of [Lisp books](http://cliki.net/Lisp%20books).
-- The #clnoobs, #lisp, #ccl, #sbcl and [other rooms](https://www.cliki.net/IRC) on the [Freenode IRC network](http://freenode.net) are great places for learning about Common Lisp.
+- The #clschool, #lisp, #ccl, #sbcl and [other rooms](https://www.cliki.net/IRC) on the [Freenode IRC network](http://freenode.net) are great places for learning about Common Lisp.
 - [Lisp Subreddit](http://www.reddit.com/r/lisp/) - An active community, and has loads of useful links and reference documents in the sidebar.
   - [Common Lisp Subreddit](https://www.reddit.com/r/Common_Lisp) - The Subreddit for Common Lisp.
 - [Exercism's Common Lisp track](http://exercism.io/languages/common-lisp/about) - An excellent way to learn the language through practice, have your code reviewed, and to discuss solutions with other people.
