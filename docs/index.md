@@ -289,6 +289,7 @@
 - [Building Blocks for Web Apps](awesome/awesome-building-blocks-for-web-apps.md) - Standalone features to be integrated into web apps.
 - [Svelte](awesome/awesome-svelte.md) - App framework.
 - [Design systems](awesome/awesome-design-systems.md) - Collection of reusable components, guided by rules that ensure consistency and speed.
+- [Inertia.js](awesome/awesome-inertiajs.md) - Make single-page apps without building an API.
 
 ## Back-End Development
 

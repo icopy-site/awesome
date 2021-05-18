@@ -235,6 +235,7 @@ nav:
     - Building Blocks for Web Apps: awesome/awesome-building-blocks-for-web-apps.md
     - Svelte: awesome/awesome-svelte.md
     - Design systems: awesome/awesome-design-systems.md
+    - Inertia.js: awesome/awesome-inertiajs.md
   - Back-End Development:
     - Flask: awesome/awesome-flask.md
     - Docker: awesome/awesome-docker.md
