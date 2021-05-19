@@ -67,6 +67,8 @@ See also [§ Service and performance monitoring](#service-and-performance-monito
 
 ### Kubernetes
 
+See also [Kubernetes-Security.info](https://kubernetes-security.info/).
+
 - [KubeSec](https://kubesec.io/) - Static analyzer of Kubernetes manifests that can be run locally, as a Kuberenetes admission controller, or as its own cloud service.
 - [Kyverno](https://kyverno.io/) - Policy engine designed for Kubernetes.
 - [Linkerd](https://linkerd.io/) - Ultra light Kubernetes-specific service mesh that adds observability, reliability, and security to Kubernetes applications without requiring any modification of the application itself.
@@ -139,6 +141,12 @@ See also [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - Unified toolset and framework for policy across the cloud native stack.
 - [Tang](https://github.com/latchset/tang) - Server for binding data to network presence; provides data to clients only when they are on a certain (secured) network.
+
+### Supply chain security
+
+- [Grafeas](https://grafeas.io/) - Open artifact metadata API to audit and govern your software supply chain.
+- [Helm GPG (GnuPG) Plugin](https://github.com/technosophos/helm-gpg) - Chart signing and verification with GnuPG for Helm.
+- [Notary](https://github.com/theupdateframework/notary) - Aims to make the internet more secure by making it easy for people to publish and verify content.
 
 ## Honeypots
 
