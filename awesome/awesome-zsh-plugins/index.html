@@ -5386,6 +5386,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#zgenom_2" class="md-nav__link">
+    Zgenom
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#zplug_1" class="md-nav__link">
     zplug
   </a>
@@ -9523,6 +9530,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#zgenom_2" class="md-nav__link">
+    Zgenom
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#zplug_1" class="md-nav__link">
     zplug
   </a>
@@ -9701,10 +9715,12 @@
 <h3 id="zgem"><a href="https://github.com/qoomon/zgem">zgem</a><a class="headerlink" href="#zgem" title="Permanent link">&para;</a></h3>
 <p><strong>Zgem</strong> is a plugin manager for ZSH that supports loading and updating plugins and themes from git, http and local files.</p>
 <h3 id="zgen"><a href="https://github.com/tarjoilija/zgen">zgen</a><a class="headerlink" href="#zgen" title="Permanent link">&para;</a></h3>
-<p><strong>Zgen</strong> is a lightweight plugin manager for ZSH inspired by Antigen. The goal is to have minimal overhead when starting up the shell because nobody likes waiting.</p>
-<p>To do this, <code>zgen</code> generates a static <code>init.zsh</code> file which does nothing but source your plugins and append them to your <code>fpath</code>. This minimizes startup time by not having to execute time consuming logic (plugin checking, updates, etc) during startup. The downside is that you have to refresh the init script manually with <code>zgen reset</code> whenever you update your plugin list in your <code>.zshrc</code>. Can load <a href="http://ohmyz.sh/">oh-my-zsh</a>-compatible plugins and themes, and will automagically clone them for you when you add them to your plugin list.</p>
+<p><strong>Zgen</strong> is a lightweight plugin manager for ZSH inspired by Antigen. The goal is to have minimal overhead when starting up the shell because nobody likes waiting. It is currently not being actively maintained and I recommend you use the <a href="https://github.com/jandamm/zgenom">zgenom</a> fork instead, which is.</p>
 <h3 id="zgenom"><a href="https://github.com/jandamm/zgenom">zgenom</a><a class="headerlink" href="#zgenom" title="Permanent link">&para;</a></h3>
-<p>A lightweight plugin manager for ZSH based on zgen. It is a superset of the brilliant <a href="https://github.com/tarjoilija/zgen">zgen</a> that provides more features and bugfixes while being fully backwards compatible.</p>
+<p>A lightweight plugin manager for ZSH that is a fork that extends the brilliant <a href="https://github.com/tarjoilija/zgen">zgen</a> and provides more features and bugfixes while being fully backwards compatible.</p>
+<p>To keep loading fast during new terminal sessions, <code>zgenom</code> generates a static <code>init.zsh</code> file which does nothing but source your plugins and append them to your <code>fpath</code>.</p>
+<p>This minimizes startup time by not having to execute time consuming logic (plugin checking, updates, etc) during startup. The downside is that you have to refresh the init script manually with <code>zgenom reset</code> whenever you update your plugin list in your <code>.zshrc</code>.</p>
+<p>Zgenom can load <a href="http://ohmyz.sh/">oh-my-zsh</a>-compatible and <a href="https://github.com/sorin-ionescu/prezto">prezto</a>-compatible plugins and themes, and will automagically <code>git</code> clone plugins for you when you add them to your plugin list.</p>
 <h3 id="zilsh"><a href="https://github.com/zilsh/zilsh">zilsh</a><a class="headerlink" href="#zilsh" title="Permanent link">&para;</a></h3>
 <p><strong>zilsh</strong> is a ZSH config system that aims to appeal more to power-users and follow the simplistic approach of vim-pathogen.</p>
 <h3 id="zim"><a href="https://github.com/zimfw/zimfw">zim</a><a class="headerlink" href="#zim" title="Permanent link">&para;</a></h3>
@@ -10537,15 +10553,16 @@
 <li><a href="https://github.com/felixr/docker-zsh-completion">docker (felixr)</a> - Add tab completions for <code>docker</code>.</li>
 <li><a href="https://github.com/greymd/docker-zsh-completion">docker (greymd)</a> - Add tab completions for <code>docker</code> and <code>docker-compose</code>.</li>
 <li><a href="https://github.com/primait/docker-enter-completion">docker-enter-completion</a> - Command completion for <a href="https://github.com/jpetazzo/nsenter">docker-enter</a>.</li>
+<li><a href="https://github.com/MenkeTechnologies/zsh-dotnet-completion">dotnet</a> - Dotnet tab completion.</li>
 <li><a href="https://github.com/zpm-zsh/dropbox">dropbox</a> - A dropbox plugin for Zsh that provides <code>dropbox-cli</code> and <code>dropbox-uploader</code> commands.</li>
 <li><a href="https://github.com/webflo/drush_zsh_completion">drush_zsh_completion</a> - Drush autocomplete awesomeness for ZSH.</li>
 <li><a href="https://github.com/jcxavier/oh-my-zsh-duell">duell</a> - A ZSH plugin for <a href="https://github.com/gameduell/duell">duell</a>.</li>
 <li><a href="https://github.com/sheax0r/etcdctl-zsh">etcdctl</a> - Adds etcdctl tab completions.</li>
-<li><a href="https://github.com/fabiokiatkowski/exercism.plugin.zsh">exercism</a> - A plugin for <a href="https://exercism.io/">exercism.io</a>.</li>
 <li><a href="https://github.com/le0me55i/zsh-extract">extract (le0me55i)</a> - Defines a function called extract that extracts the archive file you pass it, and it supports a wide variety of archive filetypes.</li>
 <li><a href="https://github.com/thetic/extract">extract (thetic)</a> - Fork of the oh-my-zsh extract plugin.</li>
 <li><a href="https://github.com/oubasan/flowr">flowr</a> - Completion support for <a href="http://github.com/nvie/gitflow">git-flow</a>.</li>
 <li><a href="https://github.com/Sbodiu-pivotal/fly-zsh-autocomplete-plugin">fly-zsh-autocomplete</a> - Adds autocompletion options for all <a href="https://www.concourse.ci/fly-cli.html">Concourse CLI</a> commands.</li>
+<li><a href="https://github.com/lincheney/fzf-tab-completion">fzf-tab-completion</a> - Add tab completion for ZSH, bash &amp; applications using GNU Readline.</li>
 <li><a href="https://github.com/chitoku-k/fzf-zsh-completions">fzf-zsh-completions</a> - Fuzzy completions for <a href="https://github.com/junegunn/fzf">fzf</a> and <a href="https://www.zsh.org/">ZSH</a> that can be triggered by a trigger sequence that defaults to <code>**</code>.</li>
 <li><a href="https://github.com/littleq0903/gcloud-zsh-completion">gcloud</a> - Add completions for the Google Cloud SDK.</li>
 <li><a href="https://github.com/gentoo/gentoo-zsh-completions">gentoo</a> - providing ZSH completion support to various Gentoo tools that lack completion scripts upstream.</li>
@@ -10952,6 +10969,7 @@
 <li><a href="https://github.com/designfrontier/lonestar-zsh-theme/blob/master/lone-star.zsh-theme">lone-star</a> - Texas-themed theme based on Sindre Sorhus' pure theme.</li>
 <li><a href="https://github.com/LudwigWS/my-zsh-theme">ludwigws</a> - Variant of lambda-mod theme. Has <code>git</code> decorations, requires a powerline-compatible terminal font.</li>
 <li><a href="https://github.com/xueguangl23/luke_zsh_theme">luke</a> - Includes <code>git</code> decorations. Based on the <a href="https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/frisk.zsh-theme">frisk</a> oh-my-zsh theme.</li>
+<li><a href="https://github.com/mpyw/oh-my-zsh-lukerandall-extended">lukerandall-extended</a> - Extended version of the <a href="https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lukerandall.zsh-theme">lukerandall</a> theme. Includes decorations for <code>git</code> status and the status of the last command run.</li>
 <li><a href="https://github.com/alejandromume/macos-zsh-theme">macos</a> - Includes <code>git</code> status decorations.</li>
 <li><a href="https://github.com/MartinWie/ohmyzsh-theme-mad">mad</a> - Includes <code>git</code> status decorations.</li>
 <li><a href="https://github.com/zimfw/magicmace">magicmace</a> - Inspired by <a href="http://code.xero.nu/dotfiles">xero's zsh prompt</a> and <a href="https://github.com/zimfw/eriner">eriner's prompt</a>. Includes status codes for active python <code>venv</code>, exit status of last command, shortened working directory, <code>git</code> status decorations.</li>
@@ -11308,7 +11326,12 @@
 <li>Open a new terminal window or tab</li>
 </ol>
 <h3 id="zgen_2"><a href="https://github.com/tarjoilija/zgen">Zgen</a><a class="headerlink" href="#zgen_2" title="Permanent link">&para;</a></h3>
-<p>Most of these plugins can be installed by adding <code>zgen load githubuser/reponame</code> to your .zshrc file in the same function you're doing your other <code>zgen load</code> calls in. Zgen will automatically clone the repositories for you when you do a <code>zgen save</code>.</p>
+<p>Zgen is not being actively maintained. Consider switching to the <a href="https://github.com/jandamm/zgenom">Zgenom</a> fork, which is.</p>
+<p>Most of these plugins can be installed by adding <code>zgen load githubuser/reponame</code> to your .zshrc file in the same function you're doing your other <code>zgen load</code> calls in.</p>
+<p>Zgen will automatically clone the plugin repositories for you when you do a <code>zgen save</code>.</p>
+<h3 id="zgenom_2"><a href="https://github.com/jandamm/zgenom">Zgenom</a><a class="headerlink" href="#zgenom_2" title="Permanent link">&para;</a></h3>
+<p>Most of these plugins can be installed by adding <code>zgenom load githubuser/reponame</code> to your .zshrc file in the same function you're doing your other <code>zgenom load</code> calls in.</p>
+<p>Zgenom will automatically clone the plugin repositories for you when you do a <code>zgenom save</code>.</p>
 <h3 id="zplug_1"><a href="https://github.com/zplug/zplug">zplug</a><a class="headerlink" href="#zplug_1" title="Permanent link">&para;</a></h3>
 <p>Most of these plugins can be installed by adding <code>zplug "githubuser/reponame"</code> to your <code>.zshrc</code> file.</p>
 <h3 id="zpm_1"><a href="https://github.com/zpm-zsh/zpm">zpm</a><a class="headerlink" href="#zpm_1" title="Permanent link">&para;</a></h3>
