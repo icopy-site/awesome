@@ -86,6 +86,8 @@ Various software and tools.
   - [How to vote using cleos?](https://eosio.stackexchange.com/questions/725/how-to-vote-using-cleos) - EOSIO StackExchange.
   - [How can you add or change the keys for the owner of an account?](https://eosio.stackexchange.com/questions/874/how-can-you-add-or-change-the-keys-for-the-owner-of-an-account) - EOSIO StackExchange.
   - [API endpoints - EOSDocs.io](https://www.eosdocs.io/resources/apiendpoints/) - Article.
+- [Anchor Wallet](https://greymass.com/en/anchor/)
+  - [greymass/anchor](https://github.com/greymass/anchor) - Official GitHub.
 - [Scatter](https://get-scatter.com/)
   - [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) - Official GitHub.
 - [EOS Toolkit](https://eostoolkit.io/)
