@@ -9354,6 +9354,9 @@ permissions, authentication and authorization.</strong>
 <p><a href="https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance/">The new NIST password guidance</a> - A summary of <a href="https://pages.nist.gov/800-63-3/sp800-63b.html">NIST Special Publication 800-63B</a> covering new password complexity guidelines.</p>
 </li>
 <li>
+<p><a href="https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html">Password Storage Cheat Sheet</a> - The only way to slow down offline attacks is by carefully choosing hash algorithms that are as resource intensive as possible.</p>
+</li>
+<li>
 <p><a href="https://techcrunch.com/2019/06/02/password-expiration-is-dead-long-live-your-passwords/">Password expiration is dead</a> - Recent scientific research calls into question the value of many long-standing password-security practices such as password expiration policies, and points instead to better alternatives such as enforcing banned-password lists and MFA.</p>
 </li>
 <li>
@@ -9554,7 +9557,10 @@ permissions, authentication and authorization.</strong>
 <p><a href="https://developer.mastercard.com/blog/why-mastercard-doesnt-use-oauth-20">Why Mastercard Doesn't Use OAuth 2.0</a> - “They did this to provide message-level integrity. OAuth 2 switched to Transport-level confidentiality/Integrity.” (which TLS provides) (<a href="https://news.ycombinator.com/item?id=17486165">source</a>).</p>
 </li>
 <li>
-<p><a href="https://tools.ietf.org/html/draft-ietf-oauth-security-topics-15">OAuth 2.0 Security Best Current Practice</a> - “Updates and extends the OAuth 2.0 Security Threat Model to incorporate practical experiences gathered since OAuth 2.0 was published and covers new threats relevant due to the broader application”.</p>
+<p><a href="https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16">OAuth 2.0 Security Best Current Practice</a> - “Updates and extends the OAuth 2.0 Security Threat Model to incorporate practical experiences gathered since OAuth 2.0 was published and covers new threats relevant due to the broader application”.</p>
+</li>
+<li>
+<p><a href="https://portswigger.net/web-security/oauth">Hidden OAuth attack vectors</a> - How to identify and exploit some of the key vulnerabilities found in OAuth 2.0 authentication mechanisms.</p>
 </li>
 <li>
 <p><a href="https://www.loginradius.com/engineering/blog/pkce/">PKCE Explained</a> - “PKCE is used to provide one more security layer to the authorization code flow in OAuth and OpenID Connect.”</p>
@@ -9570,6 +9576,9 @@ permissions, authentication and authorization.</strong>
 </li>
 <li>
 <p><a href="https://github.com/IdentityServer/IdentityServer4">IdentityServer</a> - Free, open source OpenID Connect and OAuth 2.0 framework for ASP.NET Core.</p>
+</li>
+<li>
+<p><a href="https://goauthentik.io/?#correctness">authentik</a> - Open-source Identity Provider similar to Keycloak.</p>
 </li>
 </ul>
 <h3 id="saml">SAML<a class="headerlink" href="#saml" title="Permanent link">&para;</a></h3>
@@ -9594,6 +9603,9 @@ permissions, authentication and authorization.</strong>
 <li>
 <p><a href="https://duo.com/blog/the-beer-drinkers-guide-to-saml">The Beer Drinker's Guide to SAML</a> - SAML is arcane at times. A another analogy might helps get more sense out of it.</p>
 </li>
+<li>
+<p><a href="https://wiki.shibboleth.net/confluence/display/CONCEPT/SLOIssues">The Difficulties of SAML Single Logout</a> - On the technical and UX issues of single logout implementations.</p>
+</li>
 </ul>
 <h2 id="authorization">Authorization<a class="headerlink" href="#authorization" title="Permanent link">&para;</a></h2>
 <p>Now that we know you are you, are you allowed to perform what you want to do?</p>
@@ -9601,6 +9613,9 @@ permissions, authentication and authorization.</strong>
 <h3 id="policy-models">Policy models<a class="headerlink" href="#policy-models" title="Permanent link">&para;</a></h3>
 <p>As a concept, access control policies can be designed to follow very different archetypes, from classic <a href="https://en.wikipedia.org/wiki/Access-control_list">Access Control Lists</a> to <a href="https://en.wikipedia.org/wiki/Role-based_access_control">Role Based Access Control</a>. In this section we explore lots of different patterns and architectures.</p>
 <ul>
+<li>
+<p><a href="https://goteleport.com/blog/access-controls/">In Search For a Perfect Access Control System</a> - An overview of the most popular types of authorization schemes, and their historical origins.</p>
+</li>
 <li>
 <p><a href="https://csrc.nist.gov/projects/role-based-access-control">Role Based Access Control</a> - A NIST project to explain RBAC concepts, costs and benefits, the economic impact of RBAC, design and implementation issues, the standard itself, and advanced research topics.</p>
 </li>
