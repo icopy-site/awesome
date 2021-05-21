@@ -100,6 +100,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [RethinkDNS](https://www.rethinkdns.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/celzero/rethink-app) - DNS over HTTPS and Tor, DNSCrypt client, firewall and connection tracker for Android.
 - [Databunker](https://databunker.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/securitybunker/databunker) - Databunker is a network-based, self-hosted, GDPR compliant, secure storage for personal data.
 - [LuLu](https://objective-see.com/products/lulu.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/objective-see/LuLu) - A firewall that aims to block unknown outgoing connections, protecting your privacy and your Mac.
+- [pihole-antitelemetry](https://github.com/MoralCode/pihole-antitelemetry) - Block non-consensual telemetry Google and Apple are collecting using pihole.
 
 ## Tracking
 
@@ -220,6 +221,8 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Lingva Translate](https://lingva.ml/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TheDavidDelta/lingva-translate) - An alternative front-end for Google Translate.
 - [LibreTranslate](https://libretranslate.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/uav4geo/LibreTranslate) - A self-hosted Machine Translation API, no limits, no ties to proprietary services.
 - [Argos Translate](https://www.argosopentech.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/argosopentech/argos-translate) - Open source neural machine translation.
+- [gtranslate](https://git.sr.ht/~yerinalexey/gtranslate) - Front-end for Google Translate that doesn't track you and works without JavaScript.
+- [SimplyTranslate](https://git.sr.ht/~metalune/simplytranslate_web) - Simple front-end for SimplyTranslate, a facade to multiple search engines.
 
 ## Freedom
 
