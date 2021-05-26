@@ -51,6 +51,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [chart](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies.
 - [coffee](https://github.com/irandeno/coffee) - Deno Configuration - a type-safe, easy to use Deno config manager.
 - [colors](https://deno.land/std/fmt/colors.ts) - A basic console color library intended for Deno.
+- [compression](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
 - [computed_types](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
 - [cli-spinner](https://github.com/ameerthehacker/cli-spinners) - Show spinners in the terminal while running long tasks.
 - [cliffy](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
@@ -148,6 +149,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 - [status](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
 - [superdeno](https://github.com/asos-craigmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
+- [superfetch](https://github.com/deno-libs/superfetch) - Superdeno-like superagent testing library based on Fetch API. Ported from [node-supertest-fetch](https://github.com/jwalton/node-supertest-fetch).
 - [superoak](https://github.com/asos-craigmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
 - [terminal_images](https://github.com/mjrlowe/terminal_images) -  A Deno module and CLI tool for displaying images in the terminal. 
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
