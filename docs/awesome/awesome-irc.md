@@ -22,13 +22,12 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [CIRC](https://flackr.github.io/circ/) - Uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy. ([source](https://github.com/flackr/circ)) `Chrome`
 - [Quassel](https://quassel-irc.org) - Distributed (clients can attach to and detach from a central core that stays permanently online. ([source](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
 - [Yaaic](https://www.yaaic.org) - Multi-server/channel support, SASL support, Smooth channel scrolling / swiping. ([source](https://github.com/pocmo/Yaaic)) `Android`
-- [relay.js](https://github.com/Fauntleroy/relay.js) - Focuses on making IRC less intimidating and easier to use. ([demo](http://demo.relayjs.com)) `Web`
+- [relay.js](https://github.com/Fauntleroy/relay.js) - Focuses on making IRC less intimidating and easier to use. `Web`
 - [Circe](https://github.com/jorgenschaefer/circe) - For use in Emacs, sane defaults. `Emacs`
 - [Smuxi](https://smuxi.im) - User-friendly, based on GNOME / GTK+. ([source](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
 - [KvIRC](http://www.kvirc.net) - Free, portable, based on Qt GUI toolkit. ([source](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
 - [Konversation](https://konversation.kde.org) - User-friendly client built on the KDE Platform. ([source](https://github.com/KDE/konversation)) `Linux`
 - [sic](https://tools.suckless.org/sic/) - **S**imple **I**RC **c**lient - a terminal client in less than 250 lines of C. `Linux`
-- [Colloquy](http://colloquy.info) - AppleScript-enabled IRC client. `macOS`
 - [irssi](https://irssi.org) - Terminal client, multi-protocol friendly for module authors, GPLv2. `Linux` `macOS` `Cygwin` `BSD`
 - [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - Feature-full, actively maintained Android IRC client. ([source](https://github.com/MCMrARM/revolution-irc)) `Android`
 - [AdiIRC](https://adiirc.com) - Never has a client offered such granular settings for every aspect of the IRC experience. ([features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) `Windows` `WINE`
@@ -50,7 +49,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 #### Self-hosted
 
-- [Convos](https://convos.by) - Always online web IRC client. ([source](https://github.com/Nordaaker/convos), [demo](https://demo.convos.by)) `Perl` `JavaScript` `Web`
+- [Convos](https://convos.chat) - Always online web IRC client. ([source](https://github.com/convos-chat/convos), [demo](https://demo.convos.chat)) `Perl` `JavaScript` `Web`
 - [ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source](https://github.com/znc/znc)) `C++`
 - [BIP IRC Proxy](https://bip.milkypond.org) - Always online, lightweight and secure Open Source IRC proxying with backlogging. ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
 - [TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
@@ -91,7 +90,8 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [yossarian-bot](https://github.com/woodruffw/yossarian-bot) - Large default plugin set, Cinch-based. `Ruby`
 - [helga](https://github.com/shaunduncan/helga) - Pluggable chat bot supporting multiple protocols. `Python`
 - [EveIRC](https://github.com/Inspyre-Technologies/EveIRC) - Extendable chat/channel/server-managenent service-providing bot. Using the [Cinch Framework](https://github.com/cinchrb/cinch). `Ruby`
-- [BitBot](https://github.com/jesopo/bitbot) - Modular, event-driven bot featuring a REST API, individual user settings and much more. [bitbot.dev](https://bitbot.dev) `Python` 
+- [BitBot](https://github.com/jesopo/bitbot) - Modular, event-driven bot featuring a REST API, individual user settings and much more. [bitbot.dev](https://bitbot.dev) `Python`
+- [Cardinal](https://github.com/JohnMaguire/Cardinal) - Python Twisted IRC bot with a focus on ease of plugin development. ([source](https://github.com/JohnMaguire/Cardinal)) `Python`
 
 ### Frameworks
 
@@ -104,8 +104,8 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [pyaib](https://github.com/facebook/pyaib) - Easy to use framework for writing bots. `Python`
 - [slate-irc](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript`
 - [PircBotX](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)). `Java`
-- [IRC::Client](https://github.com/raku-community-modules/perl6-IRC-Client) - `Perl6` based extendable IRC client framework.
-- [irccd](http://projects.malikania.fr/irccd) - Flexible IRC bot customizable with Javascript. `C++`.
+- [IRC::Client](https://github.com/raku-community-modules/IRC-Client) - `Perl6` based extendable IRC client framework.
+- [irccd](http://projects.malikania.fr/irccd/) - Flexible IRC bot customizable with Javascript. `C++`.
 
 #### Bridges
 
@@ -132,18 +132,13 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 #### Platforms
 
-- [##linux](https://freenode.linux.community)@freenode - Linux support and discussion channel. ([rules](https://freenode.linux.community/channel-rules/))
-- [#ubuntu](https://help.ubuntu.com/community/InternetRelayChat)@freenode - Official ubuntu support channel. ([rules](https://wiki.ubuntu.com/IRC/Guidelines))
-
-#### Programming
-
-- [#python](https://www.python.org/community/irc/)@freenode - Good place for short python questions. ([rules](https://www.python.org/psf/conduct/))
+- [#ubuntu](https://wiki.ubuntu.com/IRC/ChannelList)@Libera.Chat - Official Ubuntu support channel. ([rules](https://wiki.ubuntu.com/IRC/Guidelines))
 
 ### Networks
 
 *A collection of IRC servers is known as a network.*
 
-- [freenode](https://freenode.net) - The largest network, for free and open source software communities. ([rules](https://freenode.net/policies))
+- [Libera.Chat](https://libera.chat) - Network mostly focused on free and open source projects, run by former freenode staff.
 - [Snoonet](https://snoonet.org) - Community of redditors and subreddits. ([rules](https://snoonet.org/rules/))
 - [OFTC](https://oftc.net) - Community for free and open source software communities.
 
@@ -153,7 +148,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 - [Please don't use Slack for FOSS projects](https://drewdevault.com/2015/11/01/Please-stop-using-slack.html) - Drew DeVault's Blog.
 - [IRC Networks Under Systematic Attack From Governments](https://www.quakenet.org/articles/102-press-release-irc-networks-under-systematic-attack-from-governments) - QuakeNet.
-- [IRC is dead, long live IRC](https://royal.pingdom.com/irc-is-dead-long-live-irc/) - Royal Pingdom.
+- [IRC is dead, long live IRC](https://www.pingdom.com/blog/irc-is-dead-long-live-irc/) - Pingdom.
 - [IRC Has Lost 60% Of Its Users Since 2003, But Life As A Robot Is Just Beginning](https://techcrunch.com/2013/01/06/irc-has-lost-60-of-its-users-since-2003-but-life-as-a-robot-is-just-beginning/) - Alex Williams (TechCrunch).
 
 ### Guides
@@ -177,8 +172,6 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 ### Miscellaneous
 
 *Items that belong on the list but defy classification.*
-
-- [IRC LC](https://irc.lc) - Create a URL that points to a channel on a IRC network.
 
 ## Use
 

@@ -60,6 +60,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [ffplayout](https://github.com/ffplayout/ffplayout-engine) - Python and FFmpeg based playout from folder or playlists.
 * [Macadam](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga](https://github.com/Streampunk/sevruga)) graphics.
 * [Nebula](https://github.com/nebulabroadcast) - Media asset management and broadcast automation system.
+* [NodeCG](https://www.nodecg.dev/) - Broadcast graphics rendered in a browser using Node.js.
 * [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 * [ossia](https://ossia.io/) - A free and open-source intermedia sequencer.
 * [Sofie - TV Automation](https://github.com/nrkno/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
@@ -122,7 +123,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [LTC-tools](https://github.com/x42/ltc-tools) - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).
 * [MediaConch](https://mediaarea.net/MediaConch) - Implementation checker, policy checker, & reporter for Matroska, FFV1, & PCM.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - A convenient unified display of the most relevant technical and tag data for video and audio files.
-* [MXF Inspect](https://www.myriadbits.com/) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
+* [MXF Inspect](https://github.com/Myriadbits/MXFInspect) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
 * [Pi Audio Monitor](https://github.com/martim01/pam) - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
 * [Photon](https://github.com/Netflix/photon) - Implementation of the SMPTE Interoperable Master Format (IMF) standard.
 * [QCTools](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files.
