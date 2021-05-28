@@ -76,6 +76,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Approaches to Machine Translation](http://engineering.fuoye.edu.ng/journal/index.php/engineer/article/view/26/pdf) - A paper-review on different techniques for machine translation.
 - [Neural Machine Translation](https://jair.org/index.php/jair/article/view/12007/26611) - A paper-review that trace back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family. It will conclude with a short survey of more recent trends in the field.
 - [What is 'hreflang'?](https://simplelocalize.io/blog/posts/what-is-hreflang/) - What is `hreflang` attribute and how it can affect your SERP.
+- [In context translation with Respresso](https://blog.respresso.io/index.php/2020/06/22/in-context-translation-with-respresso/) - Real-time preview how the translations will look like in your mobile app or web. No need to wait for the next deployment.
 
 ## Blogs
 

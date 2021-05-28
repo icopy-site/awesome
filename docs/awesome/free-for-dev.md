@@ -81,8 +81,8 @@ Table of Contents
     * Full, detailed list - [https://azure.microsoft.com/free/](https://azure.microsoft.com/free/)
 
   * [Oracle Cloud](https://www.oracle.com/cloud/)
-    * Compute - 2 VM.Standard.E2.1.Micro 1GB RAM
-    * Block Volume - 2 volumes, 100 GB total (used for compute)
+    * Compute - 2 VM.Standard.E2.1.Micro 1GB RAM, 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
+    * Block Volume - 2 volumes, 200 GB total (used for compute)
     * Object Storage - 10 GB
     * Load balancer - 1 instance with 10 Mbps
     * Databases - 2 DBs, 20 GB each
@@ -548,6 +548,7 @@ Table of Contents
   * [paessler.com](https://www.paessler.com/) — Powerful infrastructure and network monitoring solution including alerting, strong visualization capabilities and basic reporting. Free up to 100 sensors.
   * [pagertree.com](https://pagertree.com/) - Simple interface for alerting and on-call management. Free up to 5 users.
   * [pingbreak.com](https://pingbreak.com/) — Modern uptime monitoring service. Check unlimited URLs and get downtime notifications via Discord, Slack or email.
+  * [pingpong.one](https://pingpong.one/) — Advanced status page platform with monitoring. Free tier includes one public customizable status page with SSL subdomain. Pro plan is offered to open-source projects and non-profits free of charge.
   * [sematext.com](https://sematext.com/) — Free for 24 hours metrics, unlimited number of servers, 10 custom metrics, 500,000 custom metrics data points, unlimited dashboards, users, etc.
   * [sitemonki.com](https://sitemonki.com/) — Website, domain, Cron & SSL monitoring, 5 monitors in each category for free
   * [skylight.io](https://www.skylight.io/) — Free for first 100,000 requests (Rails only)
