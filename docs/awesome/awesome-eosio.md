@@ -34,7 +34,7 @@ Official resources.
 EdenOS resources.
 
 - [Website](http://edeneos.org/) - Official Website.
-- [eoscommunity/Eden](https://github.com/eoscommunity/Eden) - Official GitHub.
+- [eoscommunity](https://github.com/eoscommunity) - Official GitHub.
 - [More Equal Animals Book](https://moreequalanimals.com/posts/book-launch) - Book by Daniel Larimer.
 
 ## Learn
@@ -129,6 +129,11 @@ All about development on EOSIO platform.
 
 ### Libraries and Frameworks
 
+#### Core
+
+- [EOSIO/eos](https://github.com/EOSIO/eos) - Official EOSIO GitHub repository.
+- [EOSIO/eos-vm](https://github.com/EOSIO/eos-vm) - A Low-Latency, High Performance and Extensible WebAssembly Backend Library.
+
 #### API libraries
 
 - [EOSIO/eosjs](https://github.com/EOSIO/eosjs) - Official JavaScript SDK.
@@ -187,7 +192,7 @@ All about development on EOSIO platform.
 
 ### Code examples
 
-- [eosio.contracts](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain.
+- [EOSIO/eosio.contracts](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain.
 - [Eosfinex Custody Smart Contract](https://github.com/bitfinexcom/eosfinex-custody-contract) - Eosfinex exchange smart contract.
   - [Bitfinex blog post about eosfinex](https://www.bitfinex.com/posts/616) - Article.
 - [EOSIO/eosio-java-android-example-app](https://github.com/EOSIO/eosio-java-android-example-app) - Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Java.
