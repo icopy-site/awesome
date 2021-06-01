@@ -8778,6 +8778,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#supply-chain-security" class="md-nav__link">
+    Supply Chain Security
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#threat-modelling" class="md-nav__link">
     Threat Modelling
   </a>
@@ -9005,6 +9012,7 @@
 <li><a href="https://www.vaultproject.io/">HashiCorp Vault</a> - <em>HashiCorp</em> - Securely store secrets via UI, CLI or HTTP API.</li>
 <li><a href="https://github.com/pinterest/knox">Pinterest Knox</a> - <em>Pinterest</em> - Securely store, rotate and audit secrets.</li>
 <li><a href="https://github.com/mozilla/sops">Secrets Operations (SOPS)</a> - <em>Mozilla</em> - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.</li>
+<li><a href="https://github.com/spectralops/teller">Teller</a> - <em>Spectral</em> - A secrets management tool for developers - never leave your command line for secrets.</li>
 </ul>
 <h3 id="secrets-scanning">Secrets Scanning<a class="headerlink" href="#secrets-scanning" title="Permanent link">&para;</a></h3>
 <p>Source control is not a secure place to store secrets such as credentials, API keys or tokens, even if the repo is private. Secrets scanning tools can scan and monitor git repositories and pull-requests for secrets, and can be used to prevent secrets from being committed, or to find and remove secrets that have already been committed to source control.</p>
@@ -9015,6 +9023,7 @@
 <li><a href="https://github.com/awslabs/git-secrets">git-secrets</a> - <em>AWS Labs</em> - Scans commits, commit messages and merges for secrets. Native support for AWS secret patterns, but can be configured to support other patterns.</li>
 <li><a href="https://nightfall.ai/solutions/product/github">Nightfall</a> - <em>Nightfall</em> - A web-based platform that monitors for sensitive data disclosure across several SDLC tools, including GitHub repositories.</li>
 <li><a href="https://github.com/auth0/repo-supervisor">Repo-supervisor</a> - <em>Auth0</em> - Secrets scanning tool that can run as a CLI, as a Docker container or in AWS Lambda.</li>
+<li><a href="https://spectralops.io">SpectralOps</a> - <em>Spectral</em> - Automated code security, secrets, tokens and sensitive data scanning.</li>
 <li><a href="https://github.com/trufflesecurity/truffleHog">truffleHog</a> - <em>Truffle Security</em> - Searches through git repositories for secrets, digging deep into commit history and branches.</li>
 </ul>
 <h3 id="static-analysis">Static Analysis<a class="headerlink" href="#static-analysis" title="Permanent link">&para;</a></h3>
@@ -9096,6 +9105,11 @@
 <ul>
 <li><a href="https://github.com/presidentbeef/brakeman">Brakeman</a> - <em>Justin Collins</em> - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities.</li>
 <li><a href="https://github.com/thesp0nge/dawnscanner">DawnScanner</a> - <em>Paolo Perego</em> - Security scanning for Ruby scripts and web application. Supports Ruby on Rails, Sinatra and Padrino frameworks.</li>
+</ul>
+<h3 id="supply-chain-security">Supply Chain Security<a class="headerlink" href="#supply-chain-security" title="Permanent link">&para;</a></h3>
+<p>Supply chain attacks come in different forms, targeting parts of the SDLC that are inherently 3<sup>rd</sup> party: tools in CI, external code that's been executed, and more. Supply chain security tooling can defend against these kinds of attacks.</p>
+<ul>
+<li><a href="https://github.com/spectralops/preflight">Preflight</a> - <em>Spectral</em> - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent <a href="https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/">Codecov hack</a>.</li>
 </ul>
 <h3 id="threat-modelling">Threat Modelling<a class="headerlink" href="#threat-modelling" title="Permanent link">&para;</a></h3>
 <p>Threat modelling is an engineering exercise that aims to identify threats, vulnerabilities and attack vectors that represent a risk to something of value.  Based on this understanding of threats, we can design, implement and validate security controls to mitigate threats. The following list of tools assist the threat modelling process.</p>
