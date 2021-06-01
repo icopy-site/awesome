@@ -191,6 +191,10 @@ For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/
 * [Elixir](https://github.com/PharosProduction/ExVertx) - Event bus support for Elixir apps using TCP socket.
 * [Rust](https://github.com/aesteve/vertx-eventbus-client-rs) - Event bus client for Rust applications through TCP.
 
+## Vert.x Event Bus Extensions
+
+* [Eventbus Service](https://github.com/wowselim/eventbus-service) - Code generator for type-safe event bus communication via simple Kotlin interfaces.
+
 ## Cluster Managers
 
 *Implementations of the Vert.x cluster manager SPI*

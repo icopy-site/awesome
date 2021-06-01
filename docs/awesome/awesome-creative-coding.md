@@ -196,7 +196,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [P5LIVE](https://teddavis.org/p5live/) - p5.js live-coding environment.
 - [NEORT](https://neort.io/popular) - Digital art platform for creative coders (Fragment Shader, Javascript Canvas).
 - [Shelly](https://shelly.dev/) - Learn programming by issuing instructions to a turtle.
-- [tixy.land](https://tixy.land) - The most minimalist creative coding environment is alive.
+- [tixy.land](https://tixy.land/) - The most minimalist creative coding environment is alive.
+- [BBC Micro bot](https://www.bbcmicrobot.com/) - Run your tweet on an 8-bit computer emulator.
 
 ### Hardware
 
@@ -322,6 +323,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 #### Other
 
+- [Noise in Creative Coding](https://varun.ca/noise/) - In-depth blog post about noise as an indispensable tool for creative coding.
 - [Cat Like Coding](http://catlikecoding.com/unity/tutorials/) - In depth tutorials on math, algorithms and Unity.
 - [Fun Programming](http://funprogramming.org/) - Learn creative coding writing simple programs.
 - [Creative-coding on iOS with C4](http://www.creativeapplications.net/tutorials/creative-coding-on-ios-with-c4-tutorial/) - Introduction to C4 published on Creative Applications.

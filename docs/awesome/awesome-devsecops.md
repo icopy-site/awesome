@@ -182,6 +182,7 @@ The software we write needs to use secrets (passwords, API keys, certificates, d
 - [HashiCorp Vault](https://www.vaultproject.io/) - _HashiCorp_ - Securely store secrets via UI, CLI or HTTP API.
 - [Pinterest Knox](https://github.com/pinterest/knox) - _Pinterest_ - Securely store, rotate and audit secrets.
 - [Secrets Operations (SOPS)](https://github.com/mozilla/sops) - _Mozilla_ - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.
+- [Teller](https://github.com/spectralops/teller) - _Spectral_ - A secrets management tool for developers - never leave your command line for secrets.
 
 ### Secrets Scanning
 
@@ -193,6 +194,7 @@ Source control is not a secure place to store secrets such as credentials, API k
 - [git-secrets](https://github.com/awslabs/git-secrets) - _AWS Labs_ - Scans commits, commit messages and merges for secrets. Native support for AWS secret patterns, but can be configured to support other patterns.
 - [Nightfall](https://nightfall.ai/solutions/product/github) - _Nightfall_ - A web-based platform that monitors for sensitive data disclosure across several SDLC tools, including GitHub repositories.
 - [Repo-supervisor](https://github.com/auth0/repo-supervisor) - _Auth0_ - Secrets scanning tool that can run as a CLI, as a Docker container or in AWS Lambda.
+- [SpectralOps](https://spectralops.io) - _Spectral_ - Automated code security, secrets, tokens and sensitive data scanning.
 - [truffleHog](https://github.com/trufflesecurity/truffleHog) - _Truffle Security_ - Searches through git repositories for secrets, digging deep into commit history and branches.
 
 ### Static Analysis
@@ -264,6 +266,14 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 
 - [Brakeman](https://github.com/presidentbeef/brakeman) - _Justin Collins_ - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
 - [DawnScanner](https://github.com/thesp0nge/dawnscanner) - _Paolo Perego_ - Security scanning for Ruby scripts and web application. Supports Ruby on Rails, Sinatra and Padrino frameworks.
+
+
+### Supply Chain Security
+
+Supply chain attacks come in different forms, targeting parts of the SDLC that are inherently 3rd party: tools in CI, external code that's been executed, and more. Supply chain security tooling can defend against these kinds of attacks.
+
+- [Preflight](https://github.com/spectralops/preflight) - _Spectral_ - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
+
 
 ### Threat Modelling
 
