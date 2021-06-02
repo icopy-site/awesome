@@ -50,6 +50,12 @@ This book helps Javascripters become Gophers. Outlining the differences between 
 
 Learn Go guided by tests. Write a test, learn a new Go language feature to make it pass, refactor and repeat. You'll get a grounding in test-driven development and importantly understand the principles behind it. 
 
+### [Go 101](https://go101.org/article/101.html) *Free*
+
+<img src="https://go101.org/article/res/101-front-cover-1400x.jpg" width="120px"/>
+
+Go 101 is a book focusing on Go syntax/semantics and all kinds of runtime related things (Go 1.17-pre ready) and tries to help gophers gain a deep and thorough understanding of Go. This book also collects many details of Go and in Go programming. It is expected that this book is helpful for both beginner and experienced Go programmers.
+
 ### [Go in Action](https://www.manning.com/books/go-in-action)
 
 <img src="https://images.manning.com/120/160/resize/book/c/4037d5d-e5e5-49bf-a3c1-480be2907eaa/Kennedy-GO-HI.png" width="120px">
@@ -236,6 +242,16 @@ Spaceship Go is a journey to Go's Standard Library. Several key packages are exp
 why they are useful, and also how they are implemented under the hood. It serves as a reference of some key
 available tools and primitives offered by the language, which can be very helpful to write performant and idiomatic
 code.
+
+### [Security with Go](https://www.packtpub.com/product/security-with-go/9781788627917)
+
+<img src="https://static.packt-cdn.com/products/9781788627917/cover/smaller" width="120px"/>
+
+Security with Go is the first Golang security book, and it is useful for both blue team and red team applications. With this book, you will learn how to write secure software, monitor your systems, secure your data, attack systems, and extract information.
+
+Defensive topics include cryptography, forensics, packet capturing, and building secure web applications.
+
+Offensive topics include brute force, port scanning, packet injection, web scraping, social engineering, and post exploitation techniques.
 
 **Web Development**
 ----
