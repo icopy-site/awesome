@@ -138,6 +138,7 @@ Academic institutions researching social enterprise:
 * [Skoll World Forum](https://skoll.org/skoll-world-forum/) - Large annual conference for Skull Foundation.
 * [Harvard Social Enterprise Conference](http://socialenterpriseconference.org) - Student run annual social enterprise conference.
 * [Indiana University Social Entrepreneurship Conference](https://kelley.iu.edu/news-events/events/bloomington/social-entrepreneurship-conference-2019/index.cshtml) - Two day conference focused on social entrepreneurship research.
+* [Social Enterprise Summit](https://www.ses.org.hk/) - Annual social enterprise conference based in Hong Kong.
 
 ### Finding Local Communities
 * [SEA Chapters](https://socialenterprise.us/programs/chapter-directory/) - Groups all over US focused on social enterprises.
