@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="uraimo/Awesome-Swift-Playgrounds"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![154 playgrounds](https://img.shields.io/badge/Playgrounds:-154-orange.svg)
+## Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![155 playgrounds](https://img.shields.io/badge/Playgrounds:-155-orange.svg)
 
 > A curated list of awesome Swift playgrounds.
 
@@ -49,6 +49,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [coreml-playground](https://github.com/kkk669/coreml-playground) - Core ML examples for Swift Playgrounds. 🍁
 * [SF Symbols Viewer](https://github.com/kkk669/SF-Symbols-Viewer) - An SF Symbols Viewer for Swift Playgrounds. 🍁
 * [jscore-playground](https://github.com/kkk669/jscore-playground) - A JavaScript REPL using JavaScriptCore. 🍁
+* [Accessible Reality](https://github.com/aheze/AccessibleReality) - for learning the basics of ARKit through interactive lessons. 🍁
 
 
 ## Learning Swift

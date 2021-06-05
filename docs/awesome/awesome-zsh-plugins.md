@@ -122,6 +122,10 @@ A fast, configurable, shell plugin manager.
 
 **Toasty** is a ZSH framework made to facilitate management, not dictate it.
 
+### [tzpm](https://github.com/notusknot/tzpm)
+
+The tiniest ZSH plugin manager. Still under development.
+
 ### [uz](https://github.com/maxrodrigo/uz)
 
 A ZSH micro plugin manager.

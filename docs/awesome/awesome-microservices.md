@@ -218,6 +218,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### PHP
 
 - [API Platform](https://api-platform.com/) - API-first web framework on top of Symfony with JSON-LD, Schema.org and Hydra support.
+- [Ecotone](https://docs.ecotone.tech/) - Framework based on architectural principles of DDD, CQRS and Event Sourcing that provides building blocks to create scalable and extensible applications. 
 - [Fat-Free](https://fatfreeframework.com/) - A powerful yet easy-to-use PHP micro-framework.
 - [Flight](https://github.com/mikecao/flight) - An extensible micro-framework.
 - [Hyperf](https://github.com/hyperf/hyperf) - Hyperf is an extremely performant and flexible PHP CLI framework based on Swoole 4.5+, powered by the state-of-the-art coroutine server and a large number of battle-tested components.
@@ -569,7 +570,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### RPC
 
-- [BERT-RPC 1.0](http://bert-rpc.org/) - An attempt to specify a flexible binary serialization and RPC protocol that are compatible with the philosophies of dynamic languages.
 - [JSON-RPC 2.0](http://www.jsonrpc.org/specification) - A stateless, light-weight remote procedure call (RPC) protocol.
 
 ### Messaging
