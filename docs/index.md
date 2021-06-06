@@ -655,6 +655,7 @@
 - [Open Source Photography](awesome/awesome-OpenSourcePhotography.md)
 - [OpenGL](awesome/awesome-opengl.md) - Cross-platform API for rendering 2D and 3D graphics.
 - [GraphQL](awesome/awesome-graphql.md)
+- [Urban & Regional Planning](awesome/urban-and-regional-planning-resources.md) - Concerning the built environment and communities.
 - [Transit](awesome/awesome-transit.md)
 - [Research Tools](awesome/awesome-research.md)
 - [Data Visualization](awesome/awesome-dataviz.md)
