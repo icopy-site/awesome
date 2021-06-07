@@ -34,6 +34,10 @@ Open Data Sites and national scale datasets should be near the top of each secti
     
 - [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) -  Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains ~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use. Additional Information:[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 
+### Climate
+
+- [NOAA Severe Weather Inventory](https://www.ncdc.noaa.gov/severe-weather/severe-weather-data-inventory) - The Severe Weather Data Inventory (SWDI) is an integrated database of severe weather records for the United States. The formats currently supported are Shapefile (for GIS), KMZ (for Google Earth), CSV (comma-separated), and XML.
+
 ### Demographic
 
 - [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs) - The American Community Survey (ACS) helps local officials, community leaders, and businesses understand the changes taking place in their communities. It is the premier source for detailed population and housing information for the United States. Additional Information: [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
@@ -54,6 +58,10 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 - [NLCD](https://www.usgs.gov/centers/eros/science/national-land-cover-database) - The National Land Cover Database is generated in cooperation with the Multi-Resolution Land Characteristics Consortium (MRLC), a partnership of Federal agencies working together to produce current, nationally consistent, land cover products for all 50 US states and Puerto Rico. 
 
+- [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape displays data from the USDA Cropland Data Layer (CDL), an annual, remote-sensing snapshot of crop cover during the main growing season across the contiguous United States. 
+
+- [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) -  The US Fish & Wildlife Service (FWS) National Wetlands Inventory (NWI) is a publicly available resource that provides detailed information on the abundance, characteristics, and distribution of US wetlands. 
+
 ### Equity and Environmental Justice
 
 - [EJ Screen](https://www.epa.gov/ejscreen/understanding-ejscreen-results) - EJSCREEN uses maps and reports to present three kinds of information: Environmental indicators, demographic indicators and EJ Indexes. Additional Information:[Download](https://www.epa.gov/ejscreen/download-ejscreen-data).
@@ -63,6 +71,8 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [H+T Index](https://htaindex.cnt.org/) - The Housing and Transportation (H+T®) Affordability Index provides a comprehensive view of affordability that includes both the cost of housing and the cost of transportation at the neighborhood level. Provided by the Center for Neighborhood Technology. 
 
 ### Health
+
+- [HealthData.gov](https://healthdata.gov/) - This site is dedicated to making high value health data in the United States more accessible to entrepreneurs, researchers, and policy makers in the hopes of better health outcomes for all.
 
 - [County Health Rankings](https://www.countyhealthrankings.org/) - The annual Rankings provide a revealing snapshot of how health is influenced by where we live, learn, work, and play.  
 
@@ -237,6 +247,10 @@ A a high-level category to classify the resource into related groups. Census dat
 - [UrbanFootPrint](https://urbanfootprint.com/) - Web-based planning tool serving curated urban, environmental, and economic data to urban practitioners and equipping them with the analytic capabilities to plan and improve communities faster, better, and at lower cost.
 
 - [Remix](https://www.remix.com/) - A platform to empower cities to plan the best possible transportation system — from public transit to safer streets to ever-increasing new modes of mobility. Remix provides tools to edit & test GTFS, generate multimodal streets, and explore relevant data. 
+
+### Environmental Planning & Climate Tools and Platforms
+
+- [iTree](https://www.itreetools.org/) - Quantifies the benefits and values of trees around the world. Is based on peer-reviewed, USDA Forest Service Research.
     
 ## Other Resources
 Other types of planning data & technology resources. 

@@ -43,9 +43,9 @@ EOSIO learning resources.
 ### Websites
 
 - [EOSIO Developer Portal](https://developers.eos.io/) - A great place to begin your EOSIO blockchain journey.
-- [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
+- [EOS Smart Contract Development Security Best Practices](https://github.com/slowmist/eos-smart-contract-security-best-practices/blob/master/README_EN.md)
 - [EOS Learning Resources - EOS Costa Rica](https://guide.eoscostarica.io/)
-- [All Things EOS](http://allthingseos.com/)
+- [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
 
 ### Books
 
@@ -110,6 +110,10 @@ Various software and tools.
 <!--lint enable awesome-spell-check-->
 - [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) - Vote Proxy explorer.
 - [EOS GO](https://www.eosgo.io/)
+
+### General
+
+- [All Things EOS](http://allthingseos.com/)
 
 ## Block Producers
 

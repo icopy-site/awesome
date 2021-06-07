@@ -15,6 +15,7 @@
 	- Language Related 
 	- Compiler for other languages
 	- Common/Utilities
+	- Continuous Integration
 	- Networking/Web Related
 	- Database
 	- GUI
@@ -217,6 +218,19 @@
 - [memutils](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
 - [dlib.container](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
 - [std.rcstring](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
+
+## GitHub Actions
+
+- [setup-dlang](https://github.com/dlang-community/setup-dlang) - Install D compilers & DUB inside GitHub Actions
+- [dub-upgrade](https://github.com/WebFreak001/dub-upgrade) - Run `dub upgrade` trying to repeat on network failure and using package cache on GitHub Actions
+
+<a name="testing"></a>
+
+## Testing Frameworks
+
+- [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
+- [dunit](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
+- [unit-threaded](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
 
 ## Web Frameworks
 
@@ -459,11 +473,6 @@
 *Hosting blogs yourself*
 
 - [mood](https://github.com/mihails-strasuns/mood) - simple vibe.d based blog engine
-
-## Testing
-
-- [dunit](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
-- [unit-threaded](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.
