@@ -427,6 +427,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [DesignPatternDetector](https://github.com/Halleck45/DesignPatternDetector) - Detection of design patterns in PHP code.
 - [EasyCodingStandard](https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines) - Combine [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) and [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer).
 - [GrumPHP](https://github.com/phpro/grumphp) - Checks code on every commit.
+- [larastan](hhttps://github.com/nunomaduro/larastan) - Adds static analysis to Laravel improving developer productivity and code quality. It is a wrapper around PHPStan.
 - [Mondrian](http://trismegiste.github.io/Mondrian) :warning: - A set of static analysis and refactoring tools which use graph theory.
 - [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) - This tool checks syntax of PHP files faster than serial check with a fancier output.
 - [Parse](https://github.com/psecio/parse) - A Static Security Scanner.
@@ -571,7 +572,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 
 <h2 id="sql">SQL</h2>
 
-- [sqlcheck](https://github.com/jarulraj/sqlcheck) :warning: - Automatically identify anti-patterns in SQL queries.
+- [sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries.
 - [SQLFluff](https://www.sqlfluff.com/) - Multiple dialect SQL linter and formatter.
 - [sqlint](https://github.com/purcell/sqlint) - Simple SQL linter.
 - [tsqllint](https://github.com/tsqllint/tsqllint) - T-SQL-specific linter.
@@ -714,7 +715,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [Prettier](https://prettier.io) - An opinionated code formatter.
 - [Pronto](https://github.com/prontolabs/pronto) - Quick automated code review of your changes. Supports more than 40 runners for various languages, including Clang, Elixir, JavaScript, PHP, Ruby and more.
 - [prospector](https://github.com/PyCQA/prospector) - A wrapper around `pylint`, `pep8`, `mccabe` and others.
-- [PT.PM](https://github.com/PositiveTechnologies/PT.PM) - An engine for searching patterns in the source code, based on Unified AST or UST. At present time C#, Java, PHP, PL/SQL, T-SQL, and JavaScript are supported. Patterns can be described within the code or using a DSL.
+- [PT.PM](https://github.com/PositiveTechnologies/PT.PM) :warning: - An engine for searching patterns in the source code, based on Unified AST or UST. At present time C#, Java, PHP, PL/SQL, T-SQL, and JavaScript are supported. Patterns can be described within the code or using a DSL.
 - [PVS-Studio](https://pvs-studio.com) :copyright: - A ([conditionally free](https://pvs-studio.com/en/order/open-source-license) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list). Supports CWE mapping, MISRA and CERT coding standards.
 - [pylama](https://pylama.readthedocs.io/en/latest/) - Code audit tool for Python and JavaScript. Wraps pycodestyle, pydocstyle, PyFlakes, Mccabe, Pylint, and more
 - [quality](https://github.com/apiology/quality) - Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
@@ -736,6 +737,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [ShiftLeft Scan](https://slscan.io) - Scan is a free open-source DevSecOps platform for detecting security issues in source code and dependencies. It supports a broad range of languages and CI/CD pipelines.
 - [shipshape](https://github.com/google/shipshape) :warning: - Static program analysis platform that allows custom analyzers to plug in through a common interface.
 - [Sider](https://sider.review) :copyright: - An automated code reviewing tool. Improving developers' productivity.
+- [Similarity Tester](https://dickgrune.com/Programs/similarity_tester/) - A tool that finds similarities between or within files to support you encountering DRY principle violations.
 - [SmartDec Scanner](https://smartdecscanner.com) :copyright: - SAST tool which is capable of identifying vulnerabilities and undocumented features. The analyzer scans the source code and executables without debug info (i.e. binaries). Supports: Java/Scala/Kotlin, PHP, C#, JavaScript, TypeScript, VBScript, HTML5, Python, Perl, C/C++, Objective-C/Swift, PL/SQL, T-SQL, ABAP, 1C, Apex, Go, Ruby, Groovy, Delphi, VBA, Visual Basic 6, Solidity, Vyper, COBOL.
 - [Snyk](https://snyk.io) :copyright: - Vulnerability scanner for dependencies of node.js apps (free for Open Source Projects).
 - [SonarCloud](https://sonarcloud.io) :copyright: - Multi-language cloud-based static code analysis. History, trends, security hot-spots, pull request analysis and more. Free for open source.
@@ -849,7 +851,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 <h2 id="container">Containers</h2>
 
-- [anchore](https://anchore.io) - Discover, analyze, and certify container images.
+- [anchore](https://anchore.io) - Discover, analyze, and certify container images. A service that analyzes Docker images and applies user-defined acceptance policies  to allow automated container image validation and certification 
 - [clair](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers.
 - [collector](https://github.com/banyanops/collector) :warning: - Run arbitrary scripts inside containers, and gather useful information.
 - [dagda](https://github.com/eliasgranderubio/dagda) - Perform static analysis of known vulnerabilities in docker images/containers.
@@ -859,7 +861,10 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 - [kube-score](https://kube-score.com) - Static code analysis of your Kubernetes object definitions.
 - [KubeLinter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [kubeval](https://kubeval.instrumenta.dev) - Validates your Kubernetes configuration files and supports multiple Kubernetes versions.
+- [OpenSCAP](https://www.open-scap.org/) - Suite of automated audit tools to examine the configuration and  known vulnerabilities following the NIST-certified Security  Content Automation Protocol (SCAP).
 - [Qualys Container Security](https://www.qualys.com/apps/container-security) :copyright: - Container native application protection to provide visibility and control of containerized applications.
+- [sysdig](https://sysdig.com/) :copyright: - A secure DevOps platform for cloud and container forensics. Built on an open source stack, Sysdig provides Docker image scanning and created Falco, the open standard for runtime threat detection for containers, Kubernetes and cloud. 
+- [Vuls](https://vuls.io/) - Agent-less Linux vulnerability scanner based on information from NVD, OVAL, etc.  It has some container image support, although is not a container specific tool.
 
 
 <h2 id="ci">Continuous Integration</h2>

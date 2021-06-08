@@ -31,6 +31,7 @@
 
 ## Advanced datastructures
 
+  * [specter](https://github.com/redplanetlabs/specter): an elegant API for querying and transforming nested and recursive data
   * [Persistent AVL trees](https://github.com/clojure/data.avl): persistent sorted maps and sets with log-time rank queries
   * [Finger Tree](https://github.com/clojure/data.finger-tree): double-list, counted-double-list, counted-sorted-set
   * [Hitchhiker Tree](https://github.com/datacrypt-project/hitchhiker-tree): create fast, snapshottable, massively scalable databases
@@ -378,6 +379,7 @@ anylysis and visualization.*
   * [rainbow_parentheses.vim (Vim)](https://github.com/junegunn/rainbow_parentheses.vim)
   * [vim-iced (Vim)](https://github.com/liquidz/vim-iced)
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
+  * [proto-repl (Atom)](https://atom.io/packages/proto-repl)
   * [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
   * [Bracket Pair Colorizer (VSCode)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
   * [clojureVSCode (VSCode)](https://github.com/avli/clojureVSCode)
