@@ -32,10 +32,12 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ion](https://github.com/redox-os/ion) - A modern system shell that features a simple, yet powerful, syntax. It is written entirely in Rust.
 * [ksh93](https://github.com/att/ast) - Korn Shell
 * [mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
+* [ngs](https://github.com/ngs-lang/ngs) - Fully featured scripting language created specifically for Ops. REPL is being developed.
 * [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
 * [oksh](https://github.com/ibara/oksh) - Portable OpenBSD ksh
 * [osh](https://www.oilshell.org) - Bash compatible, with new/modern Unix shell language called Oil
 * [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) - Public domain Korn shell
+* [powershell](https://docs.microsoft.com/en-us/powershell/scripting/overview) a cross-platform task automation and configuration management framework, consisting of a command-line shell and scripting language
 * [shell++](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
 * [shenv](https://github.com/shenv/shenv) - Simple shell version management
 * [tcsh](https://www.tcsh.org/) - C shell with file name completion and command line editing
@@ -93,6 +95,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [modules](http://modules.sourceforge.net/) - Classical Tcl-based Environment Modules managing the shell environment (compare to Lmod, direnv, and autoenv)
 * [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
 * [parallel](https://www.gnu.org/software/parallel/) - Build and execute shell command lines from standard input in parallel
+* [pass](https://www.passwordstore.org/) - Manage passwords from the command line with GPG encryption and optional git integration.
 * [pathpicker](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
 * [pdd](https://github.com/jarun/pdd) - Tiny date, time diff calculator with timers
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
@@ -119,10 +122,13 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [thefuck](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 * [tldr](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
 * [tmux](https://tmux.github.io/) - Amazing terminal multiplexer
+* [topalias](https://github.com/CSRedRat/topalias) - bash/zsh aliases generator from command history with shell statistic
 * [undollar](https://github.com/xtyrrell/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
+* [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
 * [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 * [xiki](https://xiki.org) - Makes the shell console more friendly and powerful
+* [xplr](https://github.com/sayanarijit/xplr) -  A hackable, minimal, fast TUI file explorer
 * [xsv](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
 
@@ -165,6 +171,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [polyglot](https://github.com/agkozak/polyglot) - An informative Git prompt that works in bash, zsh, ksh, mksh, pdksh, dash, and busybox sh
 * [powerlevel10k](https://github.com/romkatv/powerlevel10k) - Super flexible awesome powerline ZSH theme
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
+* [starship](https://starship.rs/) - Fast, customisable, cross-shell prompt written in rust
 * [synth-shell](https://github.com/andresgongora/synth-shell) - Greeter with a customizable status report and a fancy bash prompt
 
 ## For Developers
@@ -188,6 +195,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [git-semver](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
 * [hub](https://github.com/github/hub) - hub helps you win at git.
+* [just](https://github.com/casey/just) - Task runner for saving and running project-specific commands.
 * [licins](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
 * [mkdkr](https://github.com/rosineygp/mkdkr) - Makefile + Docker = CI Pipeline
 * [mr](https://myrepos.branchable.com) - Multiple Repository management tool
@@ -208,6 +216,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [atop](https://www.atoptool.nl) - ASCII full-screen performance monitor that is capable of reporting the activity of all processes
 * [bat](https://github.com/sharkdp/bat) - A `cat` clone with wings
 * [bmon](https://github.com/tgraf/bmon) - Real-time network bandwidth monitor and rate estimator with human-friendly visual output
+* [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 * [catcli](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
 * [exa](https://github.com/ogham/exa) - A modern version of `ls`.
 * [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
@@ -226,6 +235,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ncdu](https://dev.yorhel.nl/ncdu) - NCurses Disk Usage
 * [nmtui](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
 * [powertop](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
+* [prettyping](https://github.com/denilsonsa/prettyping) - Making the output of `ping` prettier, more colorful, more compact, and easier to read.
 * [procdog](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
 * [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure and harden UNIX/Linux systems
 * [rng](https://github.com/nickolasburr/rng) - Copy range of lines from file or stdin to stdout.
@@ -300,6 +310,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [md2png](https://github.com/weaming/md2png) - Convert markdown to PNG image
 * [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 * [nomino](https://github.com/yaa110/nomino) - Batch rename utility using regex, sort and map file options.
+* [pcalc](https://github.com/alt-romes/programmer-calculator) - Calculator made for programmers working with multiple number representations, sizes, and overall close to the bits.
 * [pockyt](https://github.com/achembarpu/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 * [pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 * [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
@@ -352,6 +363,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 * [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
+* [bashew](https://github.com/pforret/bashew) - bash script creator - from small stand-alone script to complex projects with CI/CD and testing
 * [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 * [Bashlets](https://github.com/reale/bashlets) - A modular extensible toolbox for Bash
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
@@ -364,6 +376,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
 * [composure](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
+* [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
 * [is.sh](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
 * [lumberjack](https://github.com/molovo/lumberjack) - A logging interface for shell scripts
 * [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
@@ -400,6 +413,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 * [A guide to learn bash](https://github.com/Idnan/bash-guide)
+* [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
 
 ## Other Awesome Lists
 
