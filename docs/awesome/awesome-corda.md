@@ -49,6 +49,7 @@ Pull requests are welcome!
 - [VS Code Corda extension](https://github.com/corda/vscode-corda) - VS Code tools for developing CorDapps on the Corda platform.
 - [Web3j integration for Corda](http://corda.web3j.io/) - A lightweight client library for working with CorDapps.
 - [XTS Fountain](https://cordite.foundation/) - Mint XTS tokens and send them to a token account on a Corda node.
+- [Splunk App for Corda](https://github.com/splunkdlt/splunk-app-for-corda) - Splunk official integration app for Corda monitoring. 
 
 ## Tutorials
 
