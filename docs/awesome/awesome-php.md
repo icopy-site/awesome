@@ -121,6 +121,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Static Site Generators
 
 * [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
+* [Jigsaw](http://jigsaw.tighten.co/) - Simple static sites with Laravel's Blade.
 * [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
 * [Spress](http://spress.yosymfony.com) - An extensible tool that converts Markdown and Twig into HTML.
 
@@ -299,6 +300,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Better Reflection](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 * [Code Climate](https://codeclimate.com) - An automated code review.
+* [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
 * [Phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
@@ -511,8 +513,7 @@ Libraries to help manage database schemas and migrations.
 * [Elastica](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.
 * [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
 * [Solarium](https://www.solarium-project.org/) - A client library for [Solr](https://lucene.apache.org/solr/).
-* [Sphinx Search](https://github.com/ripaclub/sphinxsearch) - Sphinx Search library provides SphinxQL indexing and searching features
-* [SphinxQL query builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](https://sphinxsearch.com/) search engine.
+* [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](https://sphinxsearch.com/) and [Manticore](https://manticoresearch.com/) search engines.
 
 ### Command Line
 *Libraries related to the command line.*

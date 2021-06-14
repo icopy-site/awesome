@@ -59,6 +59,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [jaxlie](https://raw.githubusercontent.com/brentyi/jaxlie) - Lie theory library for rigid body transformations and optimization. <img src="https://img.shields.io/github/stars/brentyi/jaxlie?style=social" align="center">
 - [BRAX](https://raw.githubusercontent.com/google/brax) - Differentiable physics engine to simulate environments along with learning algorithms to train agents for these environments. <img src="https://img.shields.io/github/stars/google/brax?style=social" align="center">
 - [flaxmodels](https://raw.githubusercontent.com/matthias-wright/flaxmodels) - Pretrained models for Jax/Flax. <img src="https://img.shields.io/github/stars/matthias-wright/flaxmodels?style=social" align="center">
+- [CR.Sparse](https://raw.githubusercontent.com/carnotresearch/cr-sparse) - XLA accelerated algorithms for sparse representations and compressive sensing. <img src="https://img.shields.io/github/stars/carnotresearch/cr-sparse?style=social" align="center">
 
 <a name="models-and-projects" />
 
