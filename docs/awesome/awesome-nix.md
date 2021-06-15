@@ -23,7 +23,7 @@
 ### Discovery
 
 * [Hound](https://search.nix.gsc.io) - Handily search across all or selected Nix-related repositories.
-* [Nixpkgs Database](https://kamadorueda.github.io/nixpkgs-db/) - A database with Nix packages at all versions, from all channels.
+* [NixDB](https://4shells.com/nixdb) - A database with Nix packages at all versions, from all channels.
 
 ### Newsletters
 
@@ -103,6 +103,12 @@
 * [Napalm](https://github.com/nmattia/napalm) - Support for building npm packages in Nix with a lightweight npm registry.
 * [node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions from a `package.lock` npm file.
 * [yarn2nix](https://github.com/nix-community/yarn2nix) - Generate Nix expressions from a `yarn.lock` file.
+
+### PHP
+
+* [composer2nix](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
+* [composition-c4](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
+* [nix-phps](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
 
 ### PureScript
 
