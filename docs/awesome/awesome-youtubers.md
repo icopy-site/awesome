@@ -628,12 +628,6 @@ Content about: Math, Computer science, Engineering \
 Featured playlists: `Mathematics playlists`, `Computer science playlists`, `Engineering playlists`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxJRhlpTqxhYPoLurEEOkEUpGYVxf89FoskWS0P=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCpviBv-De2_oeuSU_b968BQ)
-
-[**Bob Trenwith**](https://www.youtube.com/channel/UCpviBv-De2_oeuSU_b968BQ) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Math, Computing \
-Featured playlists: `a lot of Mathematics playlists`, `Computing playlists (Computer science)`, `other sciences and interesting playlists`.
-
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJws9PHgNERgzfu5yP-Y5yfWXCIdouXa7uWv-_UfvA=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/cs50)
 
 [**Harvard's CS50**](https://www.youtube.com/c/cs50)[<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
@@ -943,13 +937,6 @@ YouTubers listed in this category may not be programming tutorials or cool desig
 [**Learn Google Spreadsheets**](https://www.youtube.com/c/LearnGoogleSpreadsheets) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Google Spreadsheets \
 Featured playlists: `Google Sheets - Fundamental Skills`, `Google Apps Scripts - Fundamental`. \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwhgEIoD76OH0GpP96oCCC9ezV3sEJwXTXfwnWI=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/amamd91)
-
-[**ICT Tutorial Channel**](https://www.youtube.com/c/amamd91) \
-Content about: Windows, Networking, C++\
-Featured playlists: `C++ Tutorial`, `Home Networking Tutorial`, `Microsoft .NET Tutorial`, `Computing in general videos`. \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzKIt0dhdvc7FP-6HRlB-WClDG9geZOhC_eDaIYqw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/OnlineTrainingforEveryone)
