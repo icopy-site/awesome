@@ -179,6 +179,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - Collection of publication-ready PGF/TikZ figures by Petar Veličković.
 - [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) - Convert your MATLAB plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
 - [tikzplotlib](https://github.com/nschloe/tikzplotlib) - Convert your matplotlib plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
+- [TikZBlog](https://latexdraw.com) - Step-by-Step Tutorials about How to Draw Illustrations in LaTeX.
 
 ### Source Code
 
@@ -238,6 +239,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [LaTeX Graphics Companion, M. Goossens (2007)](https://www.informit.com/store/latex-graphics-companion-9780321508928)
 - [TeX by Topic (2007)](https://ctan.org/pkg/texbytopic)
 - [TeX for the Impatient (2020)](https://ctan.org/pkg/impatient)
+- [Formatting Information (2020)](http://latex.silmaril.ie/formattinginformation) - This is the HTML5-based online version of the book *Formatting Information - An introduction to typesetting with LATEX*. It has been continuosuly updated since the early 2000s.
 
 ## Blogs
 

@@ -1,5 +1,6 @@
 <div class="github-widget" data-repo="aliesbelik/awesome-jmeter"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<!--lint ignore double-link-->
 ## Awesome JMeter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!--lint ignore double-link-->
@@ -70,6 +71,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby-based DSL for building JMeter test plans.
 - [jmeter-java-dsl](https://github.com/abstracta/jmeter-java-dsl) - Simple API to run JMeter performance tests in an VCS and programmers friendly way.
 - [jmeter-groovy-dsl](https://github.com/smicyk/groovy-jmeter) - The Groovy-JMeter project is simple DSL to write JMeter test plans.
+- [jmeter-as-code](https://github.com/anasoid/jmeter-as-code) - Simple wrapper for JMeter to write and execute JMeter tests with Java.
 
 ### Packages
 

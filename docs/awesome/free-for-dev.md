@@ -230,11 +230,12 @@ Table of Contents
 
 ## Artifact Repos
 
+ * [Artifactory](https://jfrog.com/start-free/) - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Incudes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable) with a free tier of 2,000 CI/CD minutes per month.
  * [central.sonatype.org](https://central.sonatype.org) — The default artifact repository for Apache Maven, SBT and other build systems.
  * [cloudrepo.io](https://cloudrepo.io) - Cloud based, private and public, Maven and PyPi repositories. Free for open source projects.
  * [cloudsmith.io](https://cloudsmith.io) — Simple, secure and centralised repository service for Java/Maven, RedHat, Debian, Python, Ruby, Vagrant +more. Free tier + free for open source.
  * [jitpack.io](https://jitpack.io/) — Maven repository for JVM and Android projects on GitHub, free for public projects.
- * [packagecloud.io](https://packagecloud.io) — Easy to use repository hosting for: Maven, RPM, DEB, PyPi and RubyGem packages (has free tier).
+ * [packagecloud.io](https://packagecloud.io/users/new?plan=free_usage_plan) — Easy to use repository hosting for: Maven, RPM, DEB, PyPi, NPM, and RubyGem packages (has free tier).
  * [repsy.io](https://repsy.io) — 1 GB Free private/public Maven Repository.
 
 
@@ -246,7 +247,6 @@ Table of Contents
   * [cally.com](https://cally.com/) — Find the perfect time and date for a meeting. Simple to use, works great for small and large groups.
   * [Discord](https://discordapp.com/) — Chat with public/private rooms. Markdown text, voice, video, and screen sharing capabilities. Free for unlimited users.
   * [evernote.com](https://evernote.com/) — Tool for organizing information. Share your notes and work together with others
-  * [featurepeek.com](https://featurepeek.com) - Cloud provider-agnostic front-end feature environments with team collaboration tools built-in. Works with static and Dockerized front-ends. Free for public repositories.
   * [Fibery](https://fibery.io/) — Connected workspace platform. Free for single user, up to 2 GB disk space.
   * [Filestash](https://www.filestash.app) — A Dropbox-like file manager that connects to a range of protocols and platforms: S3, FTP, SFTP, Minio, Git, WebDAV, Backblaze, LDAP and more.
   * [flock.com](https://flock.com) — A faster way for your team to communicate. Free Unlimited Messages, Channels, Users, Apps & Integrations
@@ -382,7 +382,6 @@ Table of Contents
   * [Octopus Deploy](https://octopus.com) - Automated deployment and release-management. Free for <= 10 deployment targets.
   * [scalr.com](https://scalr.com/) - Remote state & operations backend for Terraform with full CLI support, integration with OPA and a hierarchical configuration model. Free up to 5 users.
   * [semaphoreci.com](https://semaphoreci.com/) — Free for Open Source, 100 private builds per month
-  * [shippable.com](https://app.shippable.com/) — 150 private builds/month, free for 1 build container, private and public repos
   * [Squash Labs](https://www.squash.io/) — creates a VM for each branch and makes your app available from a unique URL, Unlimited public & private repos, Up to 2 GB VM Sizes.
   * [stackahoy.io](https://stackahoy.io) — 100% free. Unlimited deployments, branches and builds
   * [styleci.io](https://styleci.io/) — Public GitHub repositories only
@@ -811,12 +810,10 @@ Table of Contents
   * [Freehostia](https://www.freehostia.com) — FreeHostia offers free hosting services incl. an industry-best Control Panel & a 1-click installation of 50+ free apps. Instant setup. No forced ads.
   * [heliohost.org](https://www.heliohost.org) — Community powered free hosting for everyone.
   * [hostman.com](https://hostman.com) — Deploy up to 3 static sites from your GitHub repository for free.
-  * [InfinityFree](https://infinityfree.net/) - Free PHP website hosting with MySQL, cPanel, and no ads.
   * [neocities.org](https://neocities.org) — Static, 1 GB free storage with 200 GB Bandwidth.
   * [netlify.com](https://www.netlify.com/) — Builds, deploy and hosts static site/app free for, 100 GB data and 100 GB/month bandwidth.
   * [commons.host](https://commons.host/) - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS) to fund R&D.
   * [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies
-  * [pony.icu](https://pony.icu/) — Free Web Hosting with Unlimited Disk Space, Unlimited Bandwidth and Unlimited Websites from PonyICU. PHP and MySQL included.
   * [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation and more
   * [render.com](https://render.com) — A unified platform to build and run all your apps and web app free SSL, a global CDN, private networks and auto deploys from Git, free for static web page.
   * [sourceforge.net](https://sourceforge.net/) — Find, Create and Publish Open Source software for free
@@ -827,7 +824,6 @@ Table of Contents
   * [Vercel](https://vercel.com/) — Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
   * [Versoly](https://versoly.com/) — SaaS focussed website builder - unlimited websites, 70+ blocks, 5 templates, custom CSS, favicon, SEO and forms. No custom domain.
   * [Qovery](https://www.qovery.com) — Qovery is the simplest way to deploy your full-stack apps on AWS, GCP and Azure. It is free web hosting for developers with Database, SSL, a global CDN, and auto deploys from Git.
-  * [0hi.me](https://0hi.me/) — Free PHP & MySQL Web Hosting for your small project. SSL/TLS and CDN also available for free.
 
 
 ## DNS
