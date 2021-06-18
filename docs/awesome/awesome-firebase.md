@@ -53,6 +53,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 - 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own.
 - 🔧 [Stripe Firebase Extensions](https://github.com/stripe/stripe-firebase-extensions/) - Official Stripe subscriptions and invoices extensions.
+- 🔧 [Firebase Extension for Full-Text Search](https://github.com/typesense/firestore-typesense-search/) - Extension to add full-text search in Firestore, by syncing the data to [Typesense](https://github.com/typesense/typesense) - an OSS alternative to Algolia.
 
 ## Web
 

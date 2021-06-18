@@ -148,6 +148,10 @@
 - [Neon Bubblegum](https://www.rtz23.de/) - Demo scene style WebXR-based homepage from Karsten Weil.
 - [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - Sandbox for VR interaction experiments.
 
+## Blockchain/Crypto/NFT
+
+- [RareRooms](https://www.rarerooms.io/) - 3D virtual rooms for NFT collections.
+
 ## Virtual Events
 
 - [Party Space](https://www.party.space/) - Virtual events platform.
