@@ -15,6 +15,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 - [Accessibility Weekly](https://github.com/brunopulis/awesome-a11y/blob/master/topics/newsletter.md)
 - [Articles and Videos](https://github.com/brunopulis/awesome-a11y/blob/master/topics/articles-and-videos.md)
 - [Assistive Technology](https://github.com/brunopulis/awesome-a11y/blob/master/topics/assistive-technology.md)
+- [Blogs](https://github.com/brunopulis/awesome-a11y/blob/master/topics/blogs.md)
 - [Books](https://github.com/brunopulis/awesome-a11y/blob/master/topics/books.md)
 - [Companies and Organizations](https://github.com/brunopulis/awesome-a11y/blob/master/topics/companies-and-organizations.md)
 - [Conferences](https://github.com/brunopulis/awesome-a11y/blob/master/topics/conferences.md)
