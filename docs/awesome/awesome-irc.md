@@ -64,7 +64,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source](https://github.com/inspircd/inspircd))
 - [miniircd](https://github.com/jrosdahl/miniircd) - Very simple and limited.
 - [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source](https://github.com/ngircd/ngircd))
-- [Oragono](https://oragono.io) - Modern, experimental server that's portable and designed around specifications. ([source](https://github.com/oragono/oragono))
+- [Ergo](https://github.com/ergochat/ergo) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support). ([source](https://github.com/ergochat/ergo))
 - [RobustIRC](https://robustirc.net) - IRC server without netsplits.
 
 ### Services
@@ -141,6 +141,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Libera.Chat](https://libera.chat) - Network mostly focused on free and open source projects, run by former freenode staff.
 - [Snoonet](https://snoonet.org) - Community of redditors and subreddits. ([rules](https://snoonet.org/rules/))
 - [OFTC](https://oftc.net) - Community for free and open source software communities.
+- [LibertaCasa](https://liberta.casa) - Privacy endorsing community serving as a safe and open space for the discussion of various topics.
 
 ### Articles
 
