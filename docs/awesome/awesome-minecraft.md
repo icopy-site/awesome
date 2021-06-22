@@ -43,12 +43,13 @@
 - [Meddle](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
 - [RopeMC](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent.
 
-## Forge Mods
+## Mods
 
 ### Performance
 
 - [Optifine](https://www.optifine.net/home) - OptiFine is a Minecraft optimization mod.
 - [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) - BetterFps is a Minecraft mod that add a few performance improvements.
+- [Sodium (for Fabric)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
 
 ### Skins And Capes
 
