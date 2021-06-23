@@ -19,7 +19,7 @@ The most **up to date** list of Firebase docs, talks, tools, examples & articles
 
 <!-- translations -->
 
-Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/master/readme.md) · [🇷🇺 ru](https://github.com/jthegedus/awesome-firebase/blob/master/readme_ru.md) · [🇰🇷 ko](https://github.com/jthegedus/awesome-firebase/blob/master/readme_ko.md) <!-- · [🇪🇸 es](https://github.com/jthegedus/awesome-firebase/blob/master/readme_es.md) · [🇮🇩 id](https://github.com/jthegedus/awesome-firebase/blob/master/readme_id.md) · [🇯🇵 ja](https://github.com/jthegedus/awesome-firebase/blob/master/readme_ja.md) · [🇵🇹 pt](https://github.com/jthegedus/awesome-firebase/blob/master/readme_pt.md) · [🇨🇳 zh](https://github.com/jthegedus/awesome-firebase/blob/master/readme_zh.md) -->
+Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/master/readme.md) · [🇷🇺 ru](https://github.com/jthegedus/awesome-firebase/blob/master/readme-ru.md) · [🇰🇷 ko](https://github.com/jthegedus/awesome-firebase/blob/master/readme-ko.md) <!-- · [🇪🇸 es](https://github.com/jthegedus/awesome-firebase/blob/master/readme-es.md) · [🇮🇩 id](https://github.com/jthegedus/awesome-firebase/blob/master/readme-id.md) · [🇯🇵 ja](https://github.com/jthegedus/awesome-firebase/blob/master/readme-ja.md) · [🇵🇹 pt](https://github.com/jthegedus/awesome-firebase/blob/master/readme-pt.md) · [🇨🇳 zh](https://github.com/jthegedus/awesome-firebase/blob/master/readme-zh.md) -->
 
 [Firebase](https://firebase.google.com) is an app dev platform built on the [Google Cloud Platform](https://cloud.google.com/products) providing services and cross-platform SDKs!
 
@@ -181,7 +181,6 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 ### Community
 
 - :fire: [Firebase Developers Discord](https://discord.gg/BN2cgc3) - an open community dedicated to Firebase and its services, where you can to socialize and help other web and app developers from around the world.
-- 🐦 [Firebase Developers Discord on Twitter @FirebaseDiscord](https://twitter.com/FirebaseDiscord)
 - 📹 [Fireship - AngularFirebase](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 - 📹 ru [@firebase_ru - Telegram friendly chat](https://t.me/firebase_ru)
 
