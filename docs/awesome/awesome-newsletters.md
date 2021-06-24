@@ -359,6 +359,11 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [The Morning Paper](https://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 - [TechMeme](https://www.techmeme.com/). Techmeme is a aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation in technology.
 
+## Marketing
+
+- [tldrMarketing](https://tldrmarketing.com). Get the latest breaking news and trends about digital marketing without all the fluff. 
+- [Zero to Marketing](https://zerotomarketing.com/). A weekly email with 5-minute case study with actionable tips.
+
 ## Business/Finance
 
 - [Finimize](https://insider.finimize.com/). Understand today's financial news within 3 minutes. For free.
