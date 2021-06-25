@@ -949,6 +949,7 @@
 - [Back Home/回家](https://flights.vincentc.us/) - A flight searching engine for the flights from oversea to China Mainland (and China to oversea) that still fly during COVID-19.
 - [Deadlines](https://deadlines.vercel.app) - An offline, simple deadline tracker made with Vue.js and localForage.
 - [Scraperbox](https://scraperbox.com) - Undetectable web scraping API. Built with Laravel and Vue.
+- [Darwin Analytics](https://www.darwin.so) - Tool for measuring and optimizing your site. Built with Vue3 and Vite.
 
 ### Interactive Experiences
 
@@ -1448,6 +1449,7 @@ _Display non-editable events in a Calendar_
 - [@geospoc/v-mapbox-geocoder](https://github.com/geospoc/v-mapbox-geocoder) - Geocoder control for your awesome Mapbox library
 - [x5-gmaps](https://github.com/xon52/x5-gmaps) - lightweight Google Maps plugin for Vue 2.x
 - [vue2-gmap-custom-marker](https://github.com/eregnier/vue2-gmap-custom-marker) - vue google map custom marker component
+- [vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
 
 #### Audio / Video
 
@@ -2997,6 +2999,7 @@ _Integrate with services or other frameworks_
 - [vue-ld](https://github.com/dashhudson/vue-ld) - Vue LaunchDarkly plugin and routing utilities
 - [Prisma](https://github.com/sherl0g/prisma) - Logs visualization client for @sherlog/cli
 - [vuetube](https://github.com/webistomin/vuetube) - 🚀 A fast, lightweight, lazyload vue component acting as a thin layer over the YouTube Iframe Player API which renders fast
+- [vue-tweet](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 
 #### Vue CLI Plugins
 

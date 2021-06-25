@@ -16,6 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MongoDB introduction](https://docs.mongodb.com/manual/introduction/)
  - [MongoDB documentation](https://docs.mongodb.com/manual/)
  - [MongoDB tutorials](https://docs.mongodb.com/manual/tutorial/)
+ - [MongoDB developer blog](https://developer.mongodb.com/learn/)
 
 ### Articles
 
@@ -150,7 +151,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Mongoid](https://github.com/mongodb/mongoid) - ODM framework
 
 ### Rust
- - [mongo-rust-driver-prototype](https://github.com/mongodb-labs/mongo-rust-driver-prototype) - Prototype driver for Rust 1.x and MongoDB 3.0.x
+ - [mongodb-rust-driver](https://github.com/mongodb/mongo-rust-driver) - Official Rust driver
 
 ### Scala
  - [mongo-scala-driver](https://github.com/mongodb/mongo-scala-driver) - Official Scala driver
@@ -191,8 +192,10 @@ Services:
  - [puppet-mongodb](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
 
 ### Desktop
+ - [Compass](https://www.mongodb.com/products/compass) - Free Cross-platform GUI from MongoDB
  - [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform JetBrains' IDE
  - [dbKoda](https://www.dbkoda.com) - Cross-platform and open-source IDE
+ - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
  - [Mongotron](http://mongotron.io/) - Cross-platform and open-source client built with Electron
  - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (formerly MongoBooster)
@@ -244,7 +247,6 @@ Services:
 Services:
 
  - [HumongouS.io](https://www.humongous.io) - Easy online GUI and data-visualization dashboards
- - [MongoDB Compass](https://www.mongodb.com/products/compass) - MongoDB Inc. online GUI and data-visualization platform (has a community version)
 
 ## Applications
 
