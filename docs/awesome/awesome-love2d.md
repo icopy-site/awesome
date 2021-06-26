@@ -269,6 +269,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [ListBox](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs
 * [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 * [YALG](https://github.com/sasszem/yalg) - A very simple, cross-platform, reactive UI for last minute UIs.
+* [Helium](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
 
 ## Utilities
 *Non-Game specific libraries and tools*
@@ -286,6 +287,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
 * [love-pe](https://github.com/RamiLego4Game/love-pe) - A tool made in LÖVE for changing LÖVE icon itself
+* [lovely-engine](https://github.com/vinnyhorgan/lovely-engine) - A tool that makes setting up and using Love2d easier and with Moonscript support
 * [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader
 * [luasteam](https://github.com/uspgamedev/luasteam) - Lua bindings for the Steamworks API
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
