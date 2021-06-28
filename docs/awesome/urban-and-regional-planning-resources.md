@@ -109,6 +109,10 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 - [Global Urban Street Networks](https://geoffboeing.com/publications/street-network-models-indicators-world/) - Ready‐to‐use global street network models and calculated indicators in a GIS format. Additional Information:[Geopackage Download](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ)
 
+- [Rapid Transit Database](https://www.itdp.org/rapid-transit-database/) - Collection of all rapid transit corridors worldwide, including bus rapid transit, light rail, and subway, published by the Institute for Transportation & Development Policy. 
+
+- [Transit Equity Dashboards](https://dashboard.transitcenter.org/) - Equity analysis of transit systems in seven (and counting) US cities, published by TransitCenter.
+
 ## Vendor Data Resources
 Vendors that can provide purchased or licensed data for a variety of uses. 
 
@@ -249,6 +253,12 @@ A a high-level category to classify the resource into related groups. Census dat
 - [SketchUp](https://www.sketchup.com/) - Easy to use interactive 3D modeling software for planning and design applications. Supported by a rich asset library for creating neighborhood designs. 
 
 - [Rhino](https://www.rhino3d.com/) - This is a commercial 3D computer graphics and computer-aided design application software. Rhino has had multiple plug-ins built on top of it including Grasshopper and the Urban Network Analysis toolbox to enable complex modeling and analysis. 
+
+- [Adobe Creative Suite](https://www.adobe.com/creativecloud.html) - Adobe's collection of 20+ desktop and mobile apps and services for photography, design, video, web, UX, and more. Popular products include Photoshop, Adobe Illustrator, and others. 
+
+- [GIMP](https://www.gimp.org/) - GIMP is an open cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems.
+
+- [Inkscape](https://inkscape.org/) - Inkscape is vector-based, open graphic manipulation tool often used as a counterpart to GIMP.
 
 ### Urban Planning Tools and Platforms
 - [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban enables planners and design professionals to publish living plans and collaborate across teams with a web-based 3D application that supports scenario planning and impact assessment. 
