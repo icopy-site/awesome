@@ -37,7 +37,7 @@
 
 ## GUI Programming
 
-- [GTK+](https://www.gtk.org/) - The de facto library for GUI development in Vala. Bindings are included with the vala compiler.
+- [GTK](https://www.gtk.org/) - The de facto library for GUI development in Vala. Bindings are included with the vala compiler.
 
 ## Multimedia Processing
 
