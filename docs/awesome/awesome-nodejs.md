@@ -72,9 +72,6 @@
 	<br>
 	<br>
 	<br>
-	<h2>
-		<a href="https://www.producthunt.com/posts/system-color-picker">My color picker app is on Product Hunt</a>
-	</h2>
 	<br>
 	<br>
 	<a href="https://awesome.re">
@@ -89,8 +86,6 @@
 	</p>
 	<br>
 </div>
-
-**You can now [discuss Node.js and ask questions](https://github.com/sindresorhus/awesome-nodejs/discussions) right in this repo.**
 
 
 

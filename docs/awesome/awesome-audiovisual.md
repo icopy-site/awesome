@@ -106,6 +106,10 @@ See [HARDWARE.md](https://github.com/stingalleman/awesome-audiovisual/blob/maste
 - [GIMP](https://www.gimp.org/) - GIMP is a cross-platform image editor available for Linux, Windows, and macOS.
 - [Inkscape](https://inkscape.org/) - Inkscape is a professional vector graphics editor for Linux, Windows and macOS.
 
+## Management
+
+- [Rentman](https://rentman.io/) - Cloud rental software for AV & Event companies. Resource planning, scheduling and more. `⚠ not free`
+
 ## Resources
 
 
