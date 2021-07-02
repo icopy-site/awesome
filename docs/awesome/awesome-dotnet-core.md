@@ -468,6 +468,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Dotnet outdated](https://github.com/dotnet-outdated/dotnet-outdated) - A .NET Core global tool to display and update outdated NuGet packages in a project
 * [Dotnet Script](https://github.com/filipw/dotnet-script) - Run C# scripts from the .NET CLI.
 * [Dotnet Serve](https://github.com/natemcmaster/dotnet-serve) - Simple command-line HTTP server for .NET Core CLI.
+* [Downloader](https://github.com/bezzad/Downloader) - Downloader is a modern, fluent, asynchronous, testable and portable library for .NET. This is a multipart downloader with asynchronous progress events.
 * [Eighty](https://github.com/benjamin-hodgson/Eighty) - A simple HTML generation library
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
 * [FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler) - Fast ExpressionTree compiler to delegate.

@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="ripienaar/free-for-dev"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## free-for.dev
+## free-for.dev 
 
 Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.
 
@@ -9,6 +9,8 @@ This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that hav
 The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a bit of a grey line at times so this is a bit opinionated; do not be offended if I do not accept your contribution.
 
 This list is the result of Pull Requests, reviews, ideas and work done by 900+ people. You too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by remove ones whose offerings have changed or been retired.
+
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 
 *NOTE:* This list is only for as-a-Service offerings, not for self-hosted software. For a service to be eligible it has to offer a free tier and not just a free trial. If the free tier is time-bucketed it has to be for at least a year. We also consider the free tier from a security perspective, so SSO is fine but I will not accept services that restrict TLS to paid-only tiers.
 
@@ -765,7 +767,7 @@ Table of Contents
   * [appfleet.com](https://appfleet.com/) - appfleet is an edge platform that allows its users to deploy containers globally to multiple regions at the same time. It offers a simple to use UI while automating all the complexity like smart routing, clustering, failover, monitoring and so on. It’s free for open source projects and all users automatically get $10 to host whatever they want.
   * [Divio](https://www.divio.com/) - A platform to manage cloud application deploying only using Docker. Available free subscription for development projects.
   * [Koyeb](https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Koyeb provides two nano services to run your apps with its forever-free tier and also sponsors open-source projects with free resources.
-  * [Railway](https://railway.app) - Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud. 3 Projects, 2 Plugins / Project, 2 Evironments / Project, 3 Live Deploys / Environment available for free.
+  * [Railway](https://railway.app) - Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud. 3 Projects, 2 Plugins / Project, 2 Environments / Project, 3 Live Deploys / Environment available for free.
 
 
 ## BaaS

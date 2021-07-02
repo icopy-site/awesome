@@ -200,7 +200,7 @@ Additional lists you might find useful:
 - [ActionsClass plugin](https://github.com/HavokInspiration/cakephp-actions-class) - Gives you the ability to manage your Controller actions as single classes.
 - :strawberry: [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) - A non-stable user management plugin with a built-in admin area.
-- [CakeDC/Enum plugin](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
+- :strawberry: [CakeDC/Enum plugin](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
 - :strawberry: [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
 - :strawberry: [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate) - A component that stores the current authentication session and creates new session for impersonating Users. User can revert back to original authentication sessions without the need to re-login.
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) - A collection of Cakephp Middlewares.
@@ -215,7 +215,7 @@ Additional lists you might find useful:
 - [OrcaServices/Heartbeat plugin](https://github.com/orca-services/cakephp-heartbeat/) - Monitor the hearbeat of your application (e.g. whether the database is available and up-to-date).
 - [Inertia plugin](https://github.com/ishanvyas22/cakephp-inertiajs) - Server side adapter for Inertia.js.
 - [Interval plugin](https://github.com/LubosRemplik/CakePHP-Interval) - Converts seconds to human readable string (string to seconds), uses business hours (1 week = 5 days, 1 day = 8 hours).
-- [LinkScanner](https://github.com/mirko-pagliai/cakephp-link-scanner) - A plugin for recursively scanning links.
+- [LinkScanner plugin](https://github.com/mirko-pagliai/cakephp-link-scanner) - A plugin for recursively scanning links.
 - [Robotusers/Tactician plugin](https://github.com/robotusers/cakephp-tactician) - Tools for Tactician command bus integration.
 - :strawberry: [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 - :strawberry: [Shim plugin](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
