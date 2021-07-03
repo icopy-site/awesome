@@ -61,7 +61,8 @@ Pull requests are more than welcome.
 - [ripple-libpp](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
 - [ripple-rest](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
 - [ripple-lib](https://github.com/ripple/ripple-lib/): Java Script
-- [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client): Lightweight Javascript / nodejs client with health detection and auto-reconnect
+- [xrpl-client](https://www.npmjs.com/package/xrpl-client): Javascript/Typescript nodejs WebSocket client with health detection and auto-reconnect
+- [xrpl-accountlib](https://www.npmjs.com/package/xrpl-accountlib): Javascript/Typescript nodejs lib. to sign & derive from Family Seed, Mnemonic & Secret Numbers
 - [ripple-lib-java](https://github.com/ripple/ripple-lib-java/): Java
 - [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
 - [ripple-python](https://github.com/miracle2k/ripple-python/): Python Lib
