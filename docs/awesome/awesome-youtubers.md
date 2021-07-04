@@ -902,6 +902,13 @@ Featured playlists: `Breaking Into Cybersecurity Videos - Simply Cyber`, `Cybers
 Content about: Networking, Cyber security, Ethical hacking \
 Featured playlists: `Linux - NetworkChuck`, `FREE Security+ SY0-601 // Complete Course // thisisIT 2020`, `FREE CCNA 200-301 // Complete Course // NetworkChuck 2020`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSKaXhsJjVcucr6ZGs4aFaBu_Qy-oY5z1KBLVGh0Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JohnHammond010)
+
+[**John Hammond**](https://www.youtube.com/c/JohnHammond010) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Cyber security, Ethical hacking, Malware analysis \
+Featured playlists: `Malware Analysis`, `TryHackMe`, `FORENSICS`. \
+<br/>
+
 
 ## Internet/networking
 
