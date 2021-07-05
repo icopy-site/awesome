@@ -320,6 +320,7 @@
 - [Svelte](awesome/awesome-svelte.md) - App framework.
 - [Design systems](awesome/awesome-design-systems.md) - Collection of reusable components, guided by rules that ensure consistency and speed.
 - [Inertia.js](awesome/awesome-inertiajs.md) - Make single-page apps without building an API.
+- [MDBootstrap](awesome/awesome-mdbootstrap.md) - Templates, layouts, components, and widgets to rapidly build websites.
 
 ## Back-End Development
 
