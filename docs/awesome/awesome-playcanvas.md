@@ -115,11 +115,12 @@
 ## IO Games
 
 - [Bullet Bonanza](https://www.bulletbonanza.io/) - Fast paced, high fidelity, 3D Multiplayer FPS game from Kiloo.
+- [Ink Wars](https://playcanv.as/p/YvyiZeqL/) - Paint faster than your opponents to win the round.
 - [Mini Royale 2](https://miniroyale2.io/) - Battle Royale first person shooter.
 - [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
 - [Tank Royale](https://tankroyale.io/) - Cartoony fast-paced top-down multiplayer shooter.
 - [TANX](https://tanx.io) - Online multiplayer tank battle game.
-- [Venge](https://poki.com/en/g/venge-io) - 3D Multiplayer FPS shooter.
+- [Venge](https://venge.io/) - 3D Multiplayer FPS shooter.
 
 ## Messenger Games
 
@@ -141,6 +142,7 @@
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - Motorcycle configurator.
 - [Infiniti Experience](https://beijing.infiniti-experience.com/) - Explore the 2020 Infiniti range (Chinese).
 - [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - Explore Kia's latest line of cars.
+- [Mercedes AMG GT C](https://playcanv.as/p/4e391c28/) - Car visualizer.
 - [Polaris RZR](https://rzr.polaris.com/en-us/build-model/) - Off-road vehicle configurator.
 
 ## Product Configurators
