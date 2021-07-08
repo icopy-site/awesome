@@ -389,6 +389,7 @@
 - [Static Analysis & Code Quality](awesome/static-analysis.md)
 - [Information Retrieval](awesome/awesome-information-retrieval.md) - Learn to develop your own search engine.
 - [Quantum Computing](awesome/awesome-quantum-computing.md) - Computing which utilizes quantum mechanics and qubits on quantum computers.
+- [Theoretical Computer Science](awesome/awesome-theoretical-computer-science.md) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 
 ## Big Data
 
