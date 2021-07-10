@@ -26,7 +26,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [pnpm](https://pnpm.js.org/) - Fast, disk space efficient package manager.
 
 
-## Component Managment
+## Component Management
 
 * [Bit](https://github.com/teambit/bit) - Create, find and reuse components (React, Angular, Node etc.) across applications.
 

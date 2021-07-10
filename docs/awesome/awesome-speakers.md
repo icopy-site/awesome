@@ -592,7 +592,7 @@ https://twitter.com/NikkitaFTW
 Topics: WebVR, A-Frame, Realtime Web, JavaScript Frameworks\
 https://twitter.com/Srushtika
 
-<img src="https://avatars1.githubusercontent.com/u/9947422?s=400&u=2e168427f84d2e4e959ca603526bc270e8cf0204&v=4" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tejaskumar_" height="70px" width="70px" align="left" alt="" />
 
 **Tejas Kumar**\
 Topics: JavaScript, React, WebAssembly, Community, Teams, Humanities\
@@ -622,13 +622,7 @@ https://twitter.com/smashingmag
 
 ### Hamburg
 
-<img src="https://avatars3.githubusercontent.com/u/1148334?s=460&v=4" height="70px" width="70px" align="left" alt="" />
-
-**Gregor Adams**\
-Topics: Fractals, CSS, JavaScript, Web Animations\
-[github.com/pixelass](https://github.com/pixelass)
-
-<img src="https://avatars0.githubusercontent.com/u/4248851?s=460&v=4" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/marionebl" height="70px" width="70px" align="left" alt="" />
 
 **Mario Nebl**\
 Topics: JavaScript, Node, JS Architecture\
@@ -680,7 +674,7 @@ https://twitter.com/mathias
 
 ### Athens
 
-<img src="http://mbrace.io/assets/images/people/npal.jpg" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/NickPalladinos" height="70px" width="70px" align="left" alt="" />
 
 **Nick Palladinos**\
 Topics: F#\
@@ -1094,7 +1088,7 @@ https://twitter.com/grabbou
 Topics: React Native, Jest, Testing, CSS\
 https://twitter.com/thymikee
 
-<img src="https://avatars1.githubusercontent.com/u/7837457?s=400&v=4" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/michal_chudziak" height="70px" width="70px" align="left" alt="" />
 
 **Mike Chudziak**\
 Topics: React, React Native, iOS, Android\
@@ -1156,7 +1150,7 @@ https://twitter.com/martonkodok
 Topics: Clojure, DataScript, Rum, FiraCode, AnyBar\
 https://twitter.com/nikitonsky
 
-<img src="https://avatars3.githubusercontent.com/u/4660275?s=460&v=4" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/elixir_lang_mos" height="70px" width="70px" align="left" alt="" />
 
 **Nikita Sobolev**\
 Topics: Elixir, Python, JavaScript, Management, RSDP\
@@ -1176,7 +1170,7 @@ https://twitter.com/chicoxyzzy
 
 ### St. Petersburg
 
-<img src="https://avatars3.githubusercontent.com/u/105274" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/pepelsbey_" height="70px" width="70px" align="left" alt="" />
 
 **Vadim Makeev**\
 Topics: HTML, CSS, Web Standards, Accessibility\
