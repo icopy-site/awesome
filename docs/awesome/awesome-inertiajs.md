@@ -66,14 +66,19 @@
 - [WordPress](https://github.com/boxybird/wordpress-inertia-plugin)
 - [Flask](https://github.com/j0ack/flask-inertia)
 - [Adonis](https://github.com/eidellev/inertiajs-adonisjs)
+- [CanJS](https://github.com/cherifGsoul/inertia-can)
+- [Clojure](https://github.com/prestancedesign/inertia-clojure)
+- [CodeIgniter](https://github.com/amiranagram/inertia-codeigniter-4)
+- [Go](https://github.com/petaki/inertia-go)
+- [PSR-15](https://github.com/cherifGsoul/inertia-psr15)
 
 ## Resources
 
 ### Presets
 
 - ⭐ [Laravel Breeze](https://laravel.com/docs/8.x/starter-kits#breeze-and-inertia) - Laravel's official authentication scaffolding, with Tailwind CSS and Inertia.js.
+- ⭐ [Inertia Preset](https://github.com/use-preset/laravel-inertia) - One-command Laravel preset with Tailwind CSS, Vite, Inertia.js and Vue.js.
 - ⭐ [Laravel Jetstream](https://jetstream.laravel.com/1.x/stacks/inertia.html) - Laravel's official application scaffolding, with Tailwind CSS, Inertia.js and Vue.js.
-- [Laravel preset](https://github.com/use-preset/laravel-inertia) - One-command Laravel preset with Tailwind CSS, Inertia.js and Vue.js.
 - [Laravel front-end preset](https://github.com/laravel-frontend-presets/inertiajs) - Laravel front-end preset for Inertia.js.
 - [Laravel Moonlight](https://github.com/TitasGailius/laravel-moonlight) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
 - [Titanium](https://github.com/usetitanium/inertia) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
