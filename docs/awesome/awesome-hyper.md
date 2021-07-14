@@ -66,6 +66,7 @@ Name and description | Downloads
 [hyperinator](https://www.npmjs.com/package/hyperinator) - Layout automation tool likes tmuxinator for Hyper. | [![npm](https://img.shields.io/npm/dm/hyperinator.svg?label=DL)](https://www.npmjs.com/package/hyperinator)
 [hyper-drop-file](https://www.npmjs.com/package/hyper-drop-file) - Drop file path from file explorer into your terminal. | [![npm](https://img.shields.io/npm/dm/hyper-drop-file.svg?label=DL)](https://www.npmjs.com/package/hyper-drop-file)
 [hyper-dnd-tabs](https://www.npmjs.com/package/hyper-dnd-tabs) - Drag and drop tabs. | [![npm](https://img.shields.io/npm/dm/hyper-dnd-tabs.svg?label=DL)](https://www.npmjs.com/package/hyper-dnd-tabs)
+[hyper-manager](https://www.npmjs.com/package/hyper-manager) - The ultimate and most complete extension to manage all your connections in one place. | [![npm](https://img.shields.io/npm/dm/hyper-manager.svg?label=DL)](https://www.npmjs.com/package/hyper-manager)
 
 
 ## Customization
@@ -176,6 +177,8 @@ Name and description | Downloads
 [hyper-flat-2](https://www.npmjs.com/package/hyper-flat-2) - Another Flat theme for Hyper based on Flat theme for Terminal. | [![npm](https://img.shields.io/npm/dm/hyper-flat-2.svg?label=DL)](https://www.npmjs.com/package/hyper-flat-2)
 [hyper-flat](https://www.npmjs.com/package/hyper-flat) - A Flat theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-flat.svg?label=DL)](https://www.npmjs.com/package/hyper-flat)
 [hyper-frontend-delight](https://www.npmjs.com/package/hyper-frontend-delight) - Dark - Based on Frontend Delight iTerm2 color scheme. | [![npm](https://img.shields.io/npm/dm/hyper-frontend-delight.svg?label=DL)](https://www.npmjs.com/package/hyper-frontend-delight)
+[hyper-github-dark-dimmed](https://www.npmjs.com/package/hyper-github-dark-dimmed) - Port of [GitHub Dark Dimmed theme](https://github.com/primer/github-vscode-theme). | [![npm](https://img.shields.io/npm/dm/hyper-github-dark-dimmed.svg?label=DL)](https://www.npmjs.com/package/hyper-github-dark-dimmed)
+[hyper-github-light](https://www.npmjs.com/package/hyper-github-light) - Port of [GitHub Light theme](https://github.com/primer/github-vscode-theme). | [![npm](https://img.shields.io/npm/dm/hyper-github-light.svg?label=DL)](https://www.npmjs.com/package/hyper-github-light)
 [hyper-gruv](https://www.npmjs.com/package/hyper-gruv) - Dark - Gruvbox Theme based off of [gruvbox](https://github.com/morhetz/gruvbox). | [![npm](https://img.shields.io/npm/dm/hyper-gruv.svg?label=DL)](https://www.npmjs.com/package/hyper-gruv)
 [hyper-hybrid-reduced-contrast](https://www.npmjs.com/package/hyper-hybrid-reduced-contrast) - A port of the reduced contrast version of [vim-hybrid](https://github.com/w0ng/vim-hybrid). | [![npm](https://img.shields.io/npm/dm/hyper-hybrid-reduced-contrast.svg?label=DL)](https://www.npmjs.com/package/hyper-hybrid-reduced-contrast)
 [hyper-hypest](https://www.npmjs.com/package/hyper-hypest) - A beautiful and minimal macOS theme with vibrancy. | [![npm](https://img.shields.io/npm/dm/hyper-hypest.svg?label=DL)](https://www.npmjs.com/package/hyper-hypest)

@@ -53,7 +53,9 @@
 - [Appernetic](https://appernetic.io) - Visual content management for static web sites, with Hugo and GitHub Pages.
 - [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects.
 - [Vercel](https://vercel.com) - All-in-one serverless platform for modern web apps with config-free tools and workflows.
+- [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/) - Full-stack serverless hosting with integrated CI/CD workflow, authentication, CDN and more.
 
+*For more resources about Static Web Apps see (Awesome Static Web Apps)[https://github.com/staticwebdev/awesome-azure-static-web-apps].*
 
 ## No-Code Platforms
 - [Jamstack.new](https://jamstack.new) - Create a new Jamstack website with 1 click, brought to you by Stackbit
@@ -72,6 +74,7 @@
 - [ProtonDB](https://www.protondb.com) - React/MaterialUI/Firebase hosted on Netlify since August 2018. Prominent in Linux gaming community.
 - [Creative Designs Guru](https://creativedesignsguru.com) - Built on Eleventy.js hosted on Netlify and styled with Tailwind CSS
 - [HandleDroid](https://handledroid.com/) - Built with Next.js, MongoDB, Auth0, AWS CloudWatch, SendGrid, Stripe and hosted on Netlify.
+- [Backlinko](https://bejamas.io/blog/backlinko-case-study/) - Built with Next.js, headless WordPress and Netlify.
 
 ## Static Site Generators
 
@@ -86,6 +89,7 @@
 - [Nuxt.js](https://nuxtjs.org/) - Versatile vue-based framework for server-side-rendered, static and traditional single page applications.
 - [eleventy](https://www.11ty.io/) - A simpler static site generator transforming various template files into HTML.
 - [Nift](https://nift.cc) - A cross-platform open source website generator developed in C++ that is lightning fast and extremely powerful.
+- [Astro](https://astro.build) - Build faster websites, while shipping less to almost no Javascript.
 
 *For a more complete list see [StaticGen](https://www.staticgen.com/).*
 
@@ -211,6 +215,7 @@
 ## Tutorials / Articles
 
 - [Ghost on the Jamstack](https://blog.ghost.org/jamstack/)
+- [Jamstack Ecosystem](https://bejamas.io/blog/jamstack-ecosystem/)
 - [Building a contact form in Gatsby using Getform](https://blog.getform.io/building-a-gatsby-contact-form-using-getform)
 - [Getting Started with Gatsby and Cockpit — Part 1 of 2](https://blog.ginetta.net/getting-started-with-gatsby-and-cockpit-part-1-of-2-d86871932d44)
 - [Creating Static E-commerce site with GatsbyJs](https://medium.com/@pinku1/creating-static-e-commerce-site-with-gatsbyjs-a349d7e022a)
@@ -233,12 +238,13 @@
 - [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://interplanetarygatsby.com/ipfs-deploy/)
 - [A Broad Discussion on Jamstack & E-Commerce (Podcast & Transcript)](https://snipcart.com/jamstack-ecommerce-podcast)
 - [The Beginner's Guide to Static Site Generators](https://bejamas.io/blog/static-site-generators/)
-- [9 Headless CMS Options for Your Jamstack Site](https://bejamas.io/blog/headless-cms/)
+- [Headless CMS Options for Your Jamstack Site](https://bejamas.io/blog/headless-cms/)
 - [State of Jamstack 2020 report](https://kontent.ai/resources/state-of-jamstack-2020-report)
 - [Jamify Tutorials — Publish flaring fast blogs with Gatsby and Ghost](https://www.jamify.org)
 - [State of the Headless CMS Market 2020 report](https://tracker.kontent.ai/592920/state-of-the-headless-cms-market-2020)
 - [Why is Next.js my ultimate choice over Gatsby, Gridsome, and Nuxt?](https://kontent.ai/blog/gatsby-vs-next-gridsome-nuxt)
 - [Generating a Static Site with Flask and Deploying it to Netlify](https://testdriven.io/blog/static-site-flask-and-netlify/) - Leverage the JAMstack with Python and Flask by creating a static site and deploying it to Netlify.
+- [Static Site Comments: A Jamstack How-To](https://snipcart.com/blog/jamstack-static-site-comments)
 
 ## Podcasts
 
