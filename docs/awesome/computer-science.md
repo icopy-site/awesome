@@ -145,35 +145,8 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | [chat](https://discord.gg/EeA7VR9)
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | [chat](https://discord.gg/8EZUVbA)
 
-### Math Electives
-**Students must choose one of the following topics**: calculus, linear algebra, logic, or probability.
-
-#### Calculus
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | 13 weeks | 6-10 hours/week | [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/mPCt45F)
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | 13 weeks | 5-10 hours/week | Calculus 1A | [chat](https://discord.gg/sddAsZg)
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | 6 weeks | 5-10 hours/week | Calculus 1B | [chat](https://discord.gg/FNEcNNq)
-
-#### Linear Algebra
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/m6wHbP6)
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | Essence of Linear Algebra | [chat](https://discord.gg/k7nSWJH)
-
-#### Logic
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | 10 weeks | 4-8 hours/week | [set theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5)
-
-#### Probability
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Probability](https://projects.iq.harvard.edu/stat110/home) | 24 weeks | 12 hours/week | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | [chat](https://discord.gg/UVjs9BU)
-
 ### Core Math
-In addition to their math elective, students must complete the following course on discrete mathematics.
+Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
 
 **Topics covered**:
 `discrete mathematics`
@@ -185,6 +158,9 @@ In addition to their math elective, students must complete the following course 
 
 Courses | Duration | Effort | Notes | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--: | :--:
+[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alt](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)) | 13 weeks | 6-10 hours/week | The alternate covers this and the following 2 courses | [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/mPCt45F)
+[Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week | - | Calculus 1A | [chat](https://discord.gg/sddAsZg)
+[Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week | - | Calculus 1B | [chat](https://discord.gg/FNEcNNq)
 [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)) | 13 weeks | 5 hours/week | An alternate version with solutions to the problem sets is [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/). Students struggling can consider the [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) first. It is more interactive but less comprehensive, and costs money to unlock full interactivity. | Calculus 1C | [chat](https://discord.gg/EuTzNbF)
 
 
@@ -225,7 +201,7 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Dis
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | - | C-like programming language | [chat](https://discord.gg/vxB2DRV)
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I | [chat](https://discord.gg/AsUXcPu)
 [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | 10-12 weeks | 6-10 hours/week | - | algorithms, [familiarity with C](https://hackr.io/tutorials/learn-c?sort=upvotes&type_tags%5B%5D=1) is useful | [chat](https://discord.gg/wZNgpep)
-[Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)| 8 weeks | 4–12 hours/week | [Assignment 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1)<br>[Assignment 2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html)<br>[Assignment 3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf)<br>[Assignment 4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf)<br>[Interactive Problems](https://gaia.cs.umass.edu/kurose_ross/interactive/index.php) | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV)
+[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.htm) | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV)
 
 ### Core theory
 
@@ -306,10 +282,6 @@ After completing **every required course** in Core CS, students should choose a 
 Not every course from a subcategory needs to be taken.
 But students should take *every* course that is relevant to the field they intend to go into.
 
-The Advanced CS study should then end with one of the Specializations under [Advanced applications](#advanced-applications).
-A Specialization's Capstone, if taken, may act as the [Final project](#final-project), if permitted by the Honor Code of the course.
-If not, or if a student chooses not to take the Capstone, then a separate Final project will need to be done to complete this curriculum.
-
 ### Advanced programming
 
 **Topics covered**:
@@ -381,57 +353,54 @@ Courses | Duration | Effort | Prerequisites
 [Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x) | 16 weeks | 8 hours/week | algorithms, C++
 [Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | 3 hours/week | mathematical thinking, probability, calculus
 
-### Advanced applications
-
-These Coursera Specializations all end with a Capstone project.
-Depending on the course, you may be able to utilize the Capstone as your Final Project for this Computer Science curriculum.
-Note that doing a Specialization with the Capstone at the end always costs money.
-So if you don't wish to spend money or use the Capstone as your Final, it may be possible to take the courses in the Specialization for free by manually searching for them, but not all allow this.
-
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | 26 weeks | 2-5 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations)
-[Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | machine learning
-[Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | none
-[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | strong programming
-[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
-[Fullstack Open](https://fullstackopen.com/en) | 12 weeks | 6 hours/week | programming
-[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
-[Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
-[Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | programming, interactive design
+### Advanced math
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/m6wHbP6)
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | Essence of Linear Algebra | [chat](https://discord.gg/k7nSWJH)
+[Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | 10 weeks | 4-8 hours/week | [set theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5)
+[Probability](https://projects.iq.harvard.edu/stat110/home) | 24 weeks | 12 hours/week | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | [chat](https://discord.gg/UVjs9BU)
 
 ## Final project
 
-OSS University is **project-focused**.
-You are encouraged to do the assignments and exams for each course, but what really matters is whether you can *use* your knowledge to solve a real-world problem.
+OSS University is project-focused.
+The assignments and exams for each course are to prepare you to use your knowledge to solve real-world problems.
 
 After you've gotten through all of Core CS and the parts of Advanced CS relevant to you, you should think about a problem that you can solve using the knowledge you've acquired.
-Not only does real project work look great on a resume, but the project will also *validate* and *consolidate* your knowledge.
+Not only does real project work look great on a resume, but the project will also validate and consolidate your knowledge.
 You can create something entirely new, or you can find an existing project that needs help via websites like
 [CodeTriage](https://www.codetriage.com/)
 or
 [First Timers Only](http://www.firsttimersonly.com/).
 
-Another option is using the Capstone project from taking one of the Specializations in [Advanced applications](#advanced-applications);
-whether or not this makes sense depends on the course, the project, and whether or not the course's Honor Code permits you to display your work publicly.
-In some cases, it may not be permitted;
-do **not** violate your course's Honor Code!
-
-Put the OSSU-CS badge in the README of your repository!
-[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
-
-- Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)`
-- HTML: `<a href="https://raw.githubusercontent.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>`
+Students who would like more guidance in creating a project may choose to use a series of project oriented courses. Here is a sample of options (many more are available, at this point you should be capable of identifying a series that is interesting and relevant to you):
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Fullstack Open](https://fullstackopen.com/en) | 12 weeks | 6 hours/week | programming
+[Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | 26 weeks | 2-5 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations)
+[Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | machine learning
+[Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | none
+[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | strong programming
+[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
+[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
+[Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
+[Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | programming, interactive design
 
 ### Evaluation
 
-Upon completing your final project, submit your project's information to [PROJECTS](https://github.com/ossu/computer-science/blob/master/PROJECTS.md)
-via a pull request and use our [community](#community) channels to announce it to your fellow students.
+Upon completing your final project:
+- Submit your project's information to [PROJECTS](https://github.com/ossu/computer-science/blob/master/PROJECTS.md) via a pull request.
+- Put the OSSU-CS badge in the README of your repository!
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
-Your peers and mentors from OSSU will then informally evaluate your project.
+  - Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)`
+  - HTML: `<a href="https://raw.githubusercontent.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>`
+- Use our [community](#community) channels to announce it to your fellow students.
+
+Solicit feedback from your OSSU peers.
 You will not be "graded" in the traditional sense — everyone has their own measurements for what they consider a success.
 The purpose of the evaluation is to act as your first announcement to the world that you are a computer scientist
-and to get experience listening to feedback — both positive and negative — and taking it in stride.
+and to get experience listening to feedback — both positive and negative.
 
 The final project evaluation has a second purpose: to evaluate whether OSSU,
 through its community and curriculum, is successful in its mission to guide independent learners in obtaining a world-class computer science education.
