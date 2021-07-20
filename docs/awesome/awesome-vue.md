@@ -952,6 +952,7 @@
 - [Deadlines](https://deadlines.vercel.app) - An offline, simple deadline tracker made with Vue.js and localForage.
 - [Scraperbox](https://scraperbox.com) - Undetectable web scraping API. Built with Laravel and Vue.
 - [Darwin Analytics](https://www.darwin.so) - Tool for measuring and optimizing your site. Built with Vue3 and Vite.
+- [Pinterest video downloader](https://www.pinterestdownloder.video/) - Tool for Downloading pinterest videos in HD
 
 ### Interactive Experiences
 
@@ -1511,7 +1512,6 @@ _Display non-editable events in a Calendar_
 - [vue-pdf](https://github.com/FranckFreiburger/vue-pdf) - A pdf viewer based on mozilla's PDF.js
 - [pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support. [Demo](https://arkokoley.github.io/pdfvuer/)
 - [vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
-- [cafe-pdf](https://github.com/wangdaodao/cafe-pdf) - Render PDF files on Vue pages using pdf.js, supporting text rendering, lazy loading, paging, scaling, and printing. [Demo](http://demo.const.team/pdf/) 
 
 #### Tree
 
