@@ -67,6 +67,23 @@
 				<sup><b>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</b></sup>
 			</div>
 		</a>
+		<br>
+		<br>
+		<a href="https://www.gitpod.io/?utm_campaign=sindresorhus&utm_medium=referral&utm_content=awesome&utm_source=github">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/gitpod-logo-white-bg.svg" width="220" alt="Gitpod">
+			</div>
+			<b>Dev environments built for the cloud</b>
+			<div>
+				<sub>
+				Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev
+				<br>
+				environments for all your branches. As a result team members can instantly start coding with fresh dev environments
+				<br>
+				for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.
+				</sub>
+			</div>
+		</a>
 	</p>
 	<hr>
 	<br>

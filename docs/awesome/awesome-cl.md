@@ -59,7 +59,7 @@ work on Common Music shifted to (scheme-based) cm3.
 * [Mégra](https://github.com/the-drunk-coder/megra) - A mini-language to make music with variable-order markov chains and some other stochastic shenanigans. [GPL3][2].
 * [Music](https://github.com/MegaLoler/Music) - A framework for musical expression in Lisp with a focus on music theory (built from scratch, unrelated to Common Music).
 * [rq](https://github.com/openmusic-project/RQ) - A library for rhythm transcription in OpenMusic (version 6.10 and later). [demo video](https://www.youtube.com/watch?v=XVEllB0TtVs). [GPL3][2].
-* [scheduler](https://github.com/byulparan/scheduler) - The time based musical event scheduler for Common Lisp. [Apache2.0][51].
+* [scheduler](https://github.com/byulparan/scheduler) - The time based musical event scheduler for Common Lisp. [Apache2.0][89].
 * [mixalot](https://github.com/ahefner/mixalot) - Loosely-coupled collection of audio libraries for mp3, ogg vorbis, flac. Used for the [Shuffletron music player](https://github.com/ahefner/shuffletron).
 * [osc](https://github.com/zzkt/osc) - an implementation of the Open Sound Protocol. [LGPL2.1][11].
 * [Harmony](https://shirakumo.github.io/harmony) - A real-time sound processing and playback system. [Artistic License 2.0][51].
@@ -659,7 +659,7 @@ HTTP Servers
 * [clath](https://github.com/BnMcGn/clath) - a single sign-on
   middleware for Clack. It allows basic login with OAuth1.0a, OAuth2
   and OpenID. At the time of writing, it supports authentication from
-  Google, Twitter, LinkedIn, StackExchange, Reddit and Github. [Apache2.0][51].
+  Google, Twitter, LinkedIn, StackExchange, Reddit and Github. [Apache2.0][89].
 * [clack-pretend](https://github.com/BnMcGn/clack-pretend) - a testing
   and debugging tool for clack. [Apache2.0][89].
 * [hermetic](https://github.com/eudoxia0/hermetic) - Security for Clack-based web applications. [Expat][14].
@@ -979,7 +979,7 @@ Shells, shells interfaces
 
 * [Lish](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3][2].
   * supports tab-completion of executables in the path and Lisp symbols, allows to write and to mix shell commands and Lisp code, has a tiny REPL and an interactive debugger, and more.
-* [shcl](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0][51].
+* [shcl](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0][89].
 * [Shelly](https://github.com/fukamachi/shelly) - execute Common Lisp
   functions like a shell command, without the need to write a command
   line arguments parser. And it also can be used as a Make-like
@@ -1136,6 +1136,11 @@ Unit Testing
 * [Check-it](https://github.com/DalekBaldwin/check-it) - A QuickCheck-style randomized property-based testing. [LLGPL][8].
 * [cl-coveralls](https://github.com/fukamachi/cl-coveralls) - a helper
   library to post test coverage to Coveralls. See [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover). [FreeBSD][39].
+
+Editor utilities:
+
+* [Slite](https://github.com/tdrhq/slite/) - a SLIme-based TEst runner for FiveAM Tests. [Apache2.0][89]
+  - Slite interactively runs your Common Lisp tests (at the time of writing only FiveAM is supported). It allows you to see the summary of test failures, jump to test definitions, rerun tests with the debugger, all from inside Emacs.
 
 
 Utilities

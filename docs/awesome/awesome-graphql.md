@@ -419,6 +419,14 @@ for the Angel framework.
 
 * [graphqld](https://github.com/burner/graphqld) - GraphQL server library for D.
 
+<a name="lib-r" />
+
+### R (Rstat) Libraries
+
+* [ghql](https://github.com/ropensci/ghql) - General purpose GraphQL R client
+* [graphql](https://github.com/ropensci/graphql) - Bindings to the 'libgraphqlparser' C++ library. Parses GraphQL syntax and exports the AST in JSON format.
+* [gqlr](https://github.com/schloerke/gqlr) - R GraphQL Implementation
+
 <a name="lib-julia" />
 
 ### Julia Libraries

@@ -16,7 +16,7 @@ By definition, a product manager is an individual who drives the product vision 
 
 Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals.
 
-![OneNote](https://raw.githubusercontent.com/dend/awesome-product-management/master//media/tool-onenote.gif)
+![OneNote](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-onenote.gif)
 
 | Property  | Value                              |
 |-----------|------------------------------------|
@@ -29,7 +29,7 @@ Efficient note-taking with superior organizational capabilities. Integrates easi
 
 Note-taking in Markdown format, with tag-based organizational capabilities.
 
-![Bear](https://raw.githubusercontent.com/dend/awesome-product-management/master//media/tool-bear.gif)
+![Bear](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-bear.gif)
 
 | Property  | Value                                      |
 |-----------|--------------------------------------------|
@@ -64,7 +64,7 @@ A tool to quickly manage "to-dos".
 
 All-in-one workspace for teams and individuals.
 
-![Notion](https://raw.githubusercontent.com/dend/awesome-product-management/master//media/tool-notion.gif)
+![Notion](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-notion.gif)
 
 | Property  | Value                                                |
 |-----------|------------------------------------------------------|
@@ -88,7 +88,7 @@ Wireframing tool that allows building mocks without a strong focus on details. E
 
 Mocking and prototyping made efficient. Offers many downloadable components that can help one create high-fidelity designs for websites, apps and other experiences.
 
-![Sketch](https://raw.githubusercontent.com/dend/awesome-product-management/master//media/tool-sketch.gif)
+![Sketch](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-sketch.gif)
 
 | Property  | Value                                                |
 |-----------|------------------------------------------------------|
@@ -101,7 +101,7 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 
 A better way to design. Design, prototype, and collaborate all in the browser—with Figma.
 
-![Figma](https://raw.githubusercontent.com/dend/awesome-product-management/master//media/tool-figma.gif)
+![Figma](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-figma.gif)
 
 | Property  | Value                                |
 |-----------|--------------------------------------|
@@ -114,7 +114,7 @@ A better way to design. Design, prototype, and collaborate all in the browser—
 
 Get work done with collaborative task lists, notes and video chat. Taskade is beautifully designed for remote teams.
 
-![Taskade](https://raw.githubusercontent.com/dend/awesome-product-management/master//media/tool-taskade.gif)
+![Taskade](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-taskade.gif)
 
 | Property  | Value                                                              |
 |-----------|--------------------------------------------------------------------|
@@ -138,7 +138,7 @@ A collaborative note-taking application that is simple, intuitive and allows you
 
 productboard is the product management system that helps you understand what users need, prioritize what to build, and rally everyone around your roadmap.
 
-![productboard](https://raw.githubusercontent.com/dend/awesome-product-management/master//media/tool-productboard.png)
+![productboard](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-productboard.png)
 
 | Property  | Value                                                              |
 |-----------|--------------------------------------------------------------------|
@@ -146,6 +146,19 @@ productboard is the product management system that helps you understand what use
 | Cost      | Paid (starts at _$49/month_)                                       |
 | Platform  | Web                                                                |
 | URL       | https://productboard.com                                           |
+
+### logchimp
+
+LogChimp allows you to track your customers feedback to build better products.
+
+![logchimp](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/logchimp.png)
+
+| Property  | Value                                                              |
+|-----------|--------------------------------------------------------------------|
+| Developer | [LogChimp](https://logchimp.codecarrot.net/)                       |
+| Cost      | Free (Open source)                                                 |
+| Platform  | Web                                                                |
+| URL       | https://logchimp.codecarrot.net                                    |
 
 ## Articles
 
@@ -155,7 +168,7 @@ productboard is the product management system that helps you understand what use
 - [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) - By [Ben Horowitz](https://twitter.com/bhorowitz).
 - [Guide to Career Planning](https://pmarchive.com/guide_to_career_planning_part0.html) - By [Marc Andresssen](https://twitter.com/pmarca).
 - [Guide to Personal Productivity](https://pmarchive.com/guide_to_personal_productivity.html) - By [Marc Andresssen](https://twitter.com/pmarca).
-- [PM at Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - By [Steven Sinofsky](https://twitter.com/stevesi).
+- [PM at Microsoft](https://web.archive.org/web/20180220022153/https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - By [Steven Sinofsky](https://twitter.com/stevesi).
 - [Hiring Your First Product Manager](https://blog.learningbyshipping.com/2015/04/07/hiring-your-first-product-manager/) - By [Steven Sinofsky](https://twitter.com/stevesi).
 - [12 Things about Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/) - By [Tren Griffin](https://twitter.com/trengriffin).
 - [Relentlessly Resourcefull](http://www.paulgraham.com/relres.html) - By [Paul Graham](https://twitter.com/paulg).
@@ -175,6 +188,8 @@ productboard is the product management system that helps you understand what use
 - [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
 - [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://twitter.com/ckindel).
 - [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) - By [Philipp Cannons](https://twitter.com/pcannons).
+- [[Humor] So You Wanted to be a Product Manager](https://stackoverflow.blog/2020/01/09/humor-so-you-wanted-to-be-a-product-manager/) - By [Scott C. Reynolds](https://stackoverflow.blog/author/sreynolds/).
+- [The Black Box of Product Management](https://blackboxofpm.com/the-black-box-of-product-management-3feb65db6ddb?gi=5dfc8f819d27) - By [Brandon Chu](https://twitter.com/brandonmchu).
 
 ## Books
 
@@ -196,12 +211,15 @@ productboard is the product management system that helps you understand what use
 - [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/) - By Jake Knapp, John Zeratsky, Braden Kowitz.
 - [Creative Selection](http://creativeselection.io/) - By Ken Kocienda.
 - [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) - By Marty Cagan.
+- [The Customer-Driven Playbook](https://www.oreilly.com/library/view/the-customer-driven-playbook/9781491981269/) - By Jessica Rich and Travis Lowdermilk.
+- [Escaping The Build Trap](https://www.oreilly.com/library/view/escaping-the-build/9781491973783/) - By Melissa Perri.
+- [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) - By Camille Fournier.
 
 ## Podcasts
 
 | Podcast                                                                             | Hosts        | URL                                                                       | Description |
 |-------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------|-------------|
-| <img alt="Masters of Scale" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-masters-of-scale.jpeg" width="100px" /> | Reid Hoffman | https://mastersofscale.com/                                               | How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders. Guests include Facebook’s Mark Zuckerberg & Sheryl Sandberg, Netflix’s Reed Hastings, Google’s Eric Schmidt, Spanx’s Sara Blakely. With original music and hilariously honest stories, the show sounds like nothing you’ve ever heard. |
+| <img alt="Masters of Scale" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-masters-of-scale.jpg" width="100px" /> | Reid Hoffman | https://mastersofscale.com/                                               | How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders. Guests include Facebook’s Mark Zuckerberg & Sheryl Sandberg, Netflix’s Reed Hastings, Google’s Eric Schmidt, Spanx’s Sara Blakely. With original music and hilariously honest stories, the show sounds like nothing you’ve ever heard. |
 | <img alt="The Product Podcast" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-product.jpg" width="100px" />        | Multiple     | https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787?mt=2 | This is your Product Management podcast featuring PMs from Google, Facebook, LinkedIn, Spotify, Twitter and other tech companies/ startups. Tune in if you’re a manager, designer, engineer, entrepreneur or marketer who wants to learn the latest best practices. |
 | <img alt="StartUp" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-startup.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/startup                                       | The business origin story you never get to hear. |
 | <img alt="How I Built This" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-how-i-built.jpg" width="100px" />       | Guy Raz      | https://www.npr.org/podcasts/510313/how-i-built-this                      | Guy Raz dives into the stories behind some of the world’s best known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built. |
@@ -214,6 +232,7 @@ productboard is the product management system that helps you understand what use
 - [Product School](https://www.productschool.com/) (_using [Slack](https://slack.com/)_)
 - [The Product Coalition](https://productcoalition.com/) (_using [Slack](https://slack.com/)_)
 - [Product Collective](https://productcollective.com/) (_using [Slack](https://slack.com/)_)
+- [Ladder](https://ladder.to/)
 
 ## Conferences
 
