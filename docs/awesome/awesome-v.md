@@ -59,6 +59,7 @@
 - [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
 - [vcredits](https://github.com/zakuro9715/vcredits) - A tool that creates CREDITS from LICENSE files of dependencies.
 - [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file.
+- [vinit](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
 
 ### Project management
 
@@ -88,6 +89,7 @@
 - [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
 - [cjson](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
 - [ascii_robot](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
+- [iconv](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
 
 ### Graphics
 

@@ -991,7 +991,7 @@ Shells, shells interfaces
 System administration
 ---------------------
 
-* [Consfigurator](https://github.com/spwhitton/consfigurator) - Lisp declarative configuration management system.  You can use it to configure hosts as root, deploy services as unprivileged users, build and deploy containers, and produce disc images. [GPL3][2].
+* [Consfigurator](https://spwhitton.name/tech/code/consfigurator/) - Lisp declarative configuration management system.  You can use it to configure hosts as root, deploy services as unprivileged users, build and deploy containers, and produce disc images. [GPL3][2].
 * [Adams](https://github.com/cl-adams/adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC][22].
 
 Other scripting utilities
@@ -1115,10 +1115,7 @@ Tools
 
 These are applications or bits of code that make development in Common Lisp easier without being Common Lisp libraries themselves.
 
-* [quickapp][188] - A project for generating template projects with SBCL and buildapp. Also includes a command-line argparser. [3-clause BSD][15].
-* [quickapp-cli](https://github.com/triclops200/quickapp-cli) - [quickapp][188] as a command-line utility. [3-clause BSD][15].
 * [quicksearch](https://github.com/tkych/quicksearch) - Look up online libraries from the REPL. [Expat][14].
-* [cl-project](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL][8].
 * [lake](https://github.com/takagi/lake) - a GNU make like build utility. [MIT][200].
 
 
@@ -1324,6 +1321,14 @@ Plotting
 * [cl-spark](https://github.com/tkych/cl-spark) - sparkline strings for the console: `(spark '(1 1 2 3 5 8))` => "▁▁▂▃▅▇". [MIT][200].
 
 See also the chart facilities of IUP and ltk-plotchart (GUI section).
+
+Project skeletons
+-----------------
+
+* [cl-project](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL][8].
+* [cl-project-with-docs](https://github.com/40ants/cl-project-with-docs) - uses Sphinx and reStructured text to render nice and readable HTML documentation. [BSD][15].
+* [cl-cookieproject](https://github.com/vindarel/cl-cookieproject) -  Generate a ready-to-use Common Lisp project. Not in Quicklisp. [BSD_3Clause][15].
+  * test definitions, entry point to run from sources, build a binary, Roswell integration…
 
 Security
 --------
