@@ -49,7 +49,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Editgrid](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid
 * [gamera](https://github.com/kikito/gamera) - Camera system
 * [hump.camera](https://hump.readthedocs.io/en/latest/camera.html) - Camera library with window locking and smooth camera movement interpolation
-* [STALKER-X](https://github.com/adnzzzzZ/STALKER-X) - STALKER-X is a camera module for LÖVE
 
 ## Development
 *Development assisting Libraries, that enrich your development experience*
@@ -214,6 +213,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Serialization
 *Save Game & Storage Libraries*
 
+* [arson](https://github.com/flamendless/arson.lua) - companion library for registering custom data types that can be encoded and decoded by json.lua 
 * [binser](https://github.com/bakpakin/binser) - Customizable Lua Serializer
 * [bitser](https://github.com/gvx/bitser) - Serializes and deserializes Lua values with LuaJIT
 * [cdata](https://github.com/excessive/cdata) - Serialize between Lua data and C data using LuaJIT's FFI
@@ -354,6 +354,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [love-export](https://github.com/dmoa/love-export) - Fast and simple command-line tool that builds binaries for you. Supports Windows, MacOS, and Linux.
 * [love-release](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
 * [makelove](https://github.com/pfirsich/makelove) - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
+* [love-deploy](https://github.com/tducasse/love-deploy) - Build and deploy games on itch.io (supports windows and web exports)
 
 ## Contributing
 
