@@ -24,7 +24,7 @@
 
 <details>
 	<summary>Extra information</summary>
-	<sub>Please, take a look at <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/badges.md">badges.md</a> to know what the badges mean. The order of the YouTubers doesn't mean the quality: all of the YouTubers below are awesome. Every YouTuber is in a specific section/subsection, though it may involve other topics that are not the ones according to the section (but the section the YouTuber is in is its main content). Note that this <strong>is not</strong> a promotional list of any kind. Check also the <a href="https://github.com/JoseDeFreitas/awesome-youtubers/discussions">Discussions</a> section to read and discuss topics about this list and repository.
+	<sub>Take a look at <a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/badges.md">badges.md</a> to know what the badges mean. The order of the YouTubers doesn't mean the quality: all of the YouTubers below are awesome. The section the YouTuber is in is its main content. Note that this <strong>is not</strong> a promotional list of any kind. Check also the <a href="https://github.com/JoseDeFreitas/awesome-youtubers/discussions">Discussions</a> tab.
 	</sub>
 </details>
 
@@ -278,7 +278,7 @@ Featured playlists: `Algorithms (Python)`, `Data Structures (Python)`, `Technica
 
 [**Nick Chapsas**](https://www.youtube.com/user/ElfocrashDev) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: C#, .NET, Azure, AWS, General Programming \
-Featured playlists: `ASP.NET Core REST API Tutorial`, `ASP.NET Core General Tutorials`, `Essential Nuget Packages in .NET`, `Discussion and Advice`, `Software Engineering Fundamentals`.
+Featured playlists: `ASP.NET Core REST API Tutorial`, `ASP.NET Core General Tutorials`, `Essential Nuget Packages in .NET`, `Software Engineering Fundamentals`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhC7wVDRB7huyZLhXcRIPUF3MjHKdC-7ctvSbEK=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/PythonIn1Minute)
 
@@ -338,6 +338,12 @@ Featured playlists: `C# Full Course Beginner to Advanced`, `Swift Course`, `Kotl
 Content about: C++, Theoretical, Game development \
 Featured playlists: `NES Emulator From Scratch`, `Interesting Programming`, `Code-It-Yourself!`. \
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLR6P3sBPRErVRQGI0Zt5c8DddO4nTXm5r9HWK0b=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/SingletonSean)
+
+[**SingletonSean**](https://www.youtube.com/c/SingletonSean) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: C#, WPF, .NET \
+Featured playlists: `Full Stack WPF MVVM`, `WPF Navigation`, `WPF Responsive Design`, `WPF Custom Controls`, `Design Patterns`.
 
 
 ## Web development
@@ -588,7 +594,7 @@ Featured playlists: `DevLogs`, `How to JavaScript #shorts`, `Code Reviews`. \
 <br/>
 
 
-## Computer sciences
+## Computer science
 
 The core concepts of the computer sciences can be found here. Some channels teach you about math operations, including a lot of playlists with different math topics. The same goes for math and physics closely related to computers and hardware. Perfect if you want to learn about the deepest terms.
 

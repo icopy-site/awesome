@@ -1,10 +1,10 @@
 <div class="github-widget" data-repo="graknlabs/awesome"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Grakn [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome TypeDB [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome Grakn resources.
+> A curated list of awesome TypeDB resources.
 
-[Grakn](https://grakn.ai) is a database; one that empowers complex systems to be more intelligent through logic, reasoning, and knowledge engineering.
+[TypeDB](https://vaticle.com) is a strongly-typed database with a rich and logical type system. TypeDB empowers you to tackle complex problems, and TypeQL is its query language
 
 
 
@@ -33,29 +33,37 @@ List of officially supported drivers to connect with Grakn Server.
 - [`language-graql`](https://github.com/ShishkinDmitriy/language-graql) - Atom's syntax highlighting for Graql.
 
 
-## Open source projects using Grakn
+## Open source projects using TypeDB
 
+- [`TypeDB OSI`](https://github.com/typedb-osi) - TypeDB OSI Ecosystem comprises all resources and technologies to be used with TypeDB.
+- [`TypeDB Loader`](https://github.com/bayer-science-for-a-better-life/grami) - Formerly "GraMi", an open-source data migrator for loading data into TypeDB at scale.
 - [`Source++`](https://github.com/sourceplusplus/Assistant) - Open-source automated programming assistant with runtime-aware and context-aware functionality.
 - [`Rasa`](https://github.com/RasaHQ/rasa) - Open-source machine learning framework to automate text-and voice-based conversations.
 - [`Grakn Mythos`](https://github.com/BFergerson/grakn-mythos) - Grakn-powered application for creating and sharing knowledge graphs.
 
 ## Conferences
 
-- [`Grakn Cosmos`](https://grakncosmos.com/)
-- [`Grakn Orbit`](https://community.grakn.ai/grakn-orbit-2021)
+- [`Cosmos`](https://grakncosmos.com/)
+- [`Orbit`](https://www.youtube.com/playlist?list=PLtEF8_xCPklY3P5NLSQb1SyIYLhQssxfY)
 
 ## Documentation
 
-- [`Documentation for mainline version`](https://docs.grakn.ai/)
-- [`Documentation for alpha version`](https://https://dev.docs.grakn.ai/)
+- [`Documentation for mainline version`](https://docs.vaticle.com/)
+- [`Documentation for alpha version`](https://https://docs.vaticle.com/)
 
 ## Example projects
 
-- [`Grakn Examples`](https://github.com/graknlabs/examples)
-- [`classbasics/graknDemo`](https://github.com/classbasics/graknDemo)
+- [`TypeDB Examples`](https://github.com/vaticle/typedb-examples)
 
 ## Blog posts
 
+- [Knowledge Models and Causal Diagrams](https://dzone.com/articles/knowledge-models-and-causal-diagrams)
+- [Building a Biomedical Knowledge Graph](https://dzone.com/articles/building-a-biomedical-knowledge-graph)
+- [How Roche Discovered Novel Potential Gene Targets with TypeDB](https://dzone.com/articles/how-roche-discovered-novel-potential-gene-targets)
+- [Social Graphs for Drug Development](https://dzone.com/articles/social-graphs-for-drug-development)
+- [Modelling Biomedical Data for a Drug Discovery Knowledge Graph](https://dzone.com/articles/modelling-biomedical-data-for-a-drug-discovery-kno-1)
+- [A Clincial Decision Support System Built with a Knowledge Graph](https://dzone.com/articles/a-clinical-decision-support-system-built-with-a-kn)
+- [Object Recognition and Spatial Awareness for a SPOT Robotics System](https://dzone.com/articles/object-recognition-and-spacial-awareness-for-a-spo)
 - [A day described in Grakn](https://towardsdatascience.com/a-day-described-in-grakn-part-i-46bb7e3cd82a)
 - [Introducing GraMi — a Data Migration Tool for Grakn](https://towardsdatascience.com/introducing-grami-a-data-migration-tool-for-grakn-d4051582f867)
 - [Comparing Graql to SQL — Part 1/2](https://dzone.com/articles/comparing-graql-to-sql-part-12)
@@ -67,6 +75,10 @@ List of officially supported drivers to connect with Grakn Server.
 
 ## Videos
 
+- [Causal Knowledge Graphs Using TypeDB](https://www.youtube.com/watch?v=pqcZ9_4-79U)
+- [Ontology-Driven Modelling for Text-Mining Around Technology and Engineering](https://www.youtube.com/watch?v=0ir12x5FB4s)
+- [Using TypeDB for Content Authorisation Across the Enterprise](https://www.youtube.com/watch?v=H-Ln8YUITRw)
+- [Comparing Graph Databases to TypeDB](https://www.youtube.com/watch?v=JTxvJxVNSH4)
 - [Comparing SQL to Graql](https://www.youtube.com/watch?v=rNCvAGdiw1I&list=PLtEF8_xCPklbGuaOANOJHZ8cvbo65LN2I)
 - [Comparing Semantic Web Technologies To Grakn | RDF, RDFS, OWL, SPARQL SHACL Grakn and Graql](https://www.youtube.com/watch?v=s6xGQS84qKM)
 - [Comparing Property Graph Databases to Grakn](https://www.youtube.com/watch?v=uxZovj2ekIQ)
@@ -74,10 +86,9 @@ List of officially supported drivers to connect with Grakn Server.
 
 ## Community
 
-- [`Community Hub`](https://grakn.ai/community)
-- [`Discuss`](https://discuss.grakn.ai/)
-- [`Discord`](https://grakn.ai/discord)
-- [`Stack Overflow`](https://stackoverflow.com/questions/tagged/grakn)
-- [`YouTube`](https://www.youtube.com/channel/UCtZKw0RFof3x23KqGtW3yDA)
-- [`Blog`](https://blog.grakn.ai/)
-- [`LinkedIn`](https://www.linkedin.com/company/graknlabs/mycompany/)
+- [`Discuss`](https://forum.vaticle.com)
+- [`Discord`](https://vaticle.com/discord)
+- [`Stack Overflow`](https://stackoverflow.com/questions/tagged/typedb)
+- [`YouTube`](https://www.youtube.com/c/vaticle)
+- [`Blog`](https://blog.vaticle.com)
+- [`LinkedIn`](https://www.linkedin.com/company/vaticle)

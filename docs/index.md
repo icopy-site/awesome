@@ -610,6 +610,7 @@
 - [Social Enterprise](awesome/awesome-social-enterprise.md) - Building an organization primarily focused on social impact that is at least partially self-funded.
 - [Engineering Team Management](awesome/awesome-engineering-team-management.md) - How to transition from software development to engineering management.
 - [Developer-First Products](awesome/awesome-developer-first.md) - Products that target developers as the user.
+- [Billing](awesome/awesome-billing.md) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 
 ## Work
 
