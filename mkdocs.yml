@@ -423,6 +423,7 @@ nav:
     - FFmpeg: awesome/awesome-ffmpeg.md
     - Icons: awesome/awesome-icons.md
     - Audiovisual: awesome/awesome-audiovisual.md
+    - VLC: awesome/awesome-vlc.md
   - Learn:
     - CLI Workshoppers: awesome/awesome-workshopper.md
     - Learn to Program: awesome/learn-to-program.md
@@ -493,6 +494,7 @@ nav:
     - Programming Interviews: awesome/awesome-interview-questions.md
     - Code Review: awesome/awesome-code-review.md
     - Creative Technology: awesome/awesome-creative-technology.md
+    - Internships: awesome/awesome-internships.md
   - Networking:
     - Software-Defined Networking: awesome/awesome-sdn.md
     - Network Analysis: awesome/awesome-network-analysis.md

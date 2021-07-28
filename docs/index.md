@@ -540,6 +540,7 @@
 - [FFmpeg](awesome/awesome-ffmpeg.md) - Cross-platform solution to record, convert and stream audio and video.
 - [Icons](awesome/awesome-icons.md) - Downloadable SVG/PNG/font icon projects.
 - [Audiovisual](awesome/awesome-audiovisual.md) - Lighting, audio and video in professional environments.
+- [VLC](awesome/awesome-vlc.md) - Cross-platform media player software and streaming server.
 
 ## Learn
 
@@ -622,6 +623,7 @@
 - [Programming Interviews](awesome/awesome-interview-questions.md)
 - [Code Review](awesome/awesome-code-review.md) - Reviewing code.
 - [Creative Technology](awesome/awesome-creative-technology.md) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+- [Internships](awesome/awesome-internships.md) - CV writing guides and companies that hire interns.
 
 ## Networking
 
