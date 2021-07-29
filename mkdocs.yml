@@ -407,7 +407,7 @@ nav:
     - NoSQL Guides: awesome/awesome-nosql-guides.md
     - Contexture: awesome/awesome-contexture.md
     - Database Tools: awesome/awesome-db-tools.md
-    - Grakn: awesome/graknlabs-awesome.md
+    - TypeDB: awesome/typedb-awesome.md
     - Cassandra: awesome/awesome-cassandra.md
   - Media:
     - Creative Commons Media: awesome/creative-commons-media.md
@@ -512,6 +512,7 @@ nav:
     - Waves: awesome/awesome-waves.md
     - Substrate: awesome/awesome-substrate.md
     - Golem: awesome/awesome-golem.md
+    - Stacks: awesome/awesome-stacks-chain.md
   - Higher Education:
     - Computational Neuroscience: awesome/awesome-computational-neuroscience.md
     - Digital History: awesome/awesome-digital-history.md
@@ -652,6 +653,7 @@ nav:
     - QR Code: awesome/awesome-qr-code.md
     - Veganism: awesome/awesome-veganism.md
     - Translations: awesome/awesome-translations.md
+    - Scriptable: awesome/awesome-scriptable.md
     - All Awesome Lists: awesome/topics-awesome.md
     - StumbleUponAwesome: awesome/StumbleUponAwesome.md
     - Awesome CLI: awesome/awesome-cli.md

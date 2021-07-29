@@ -522,7 +522,7 @@
 - [NoSQL Guides](awesome/awesome-nosql-guides.md) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 - [Contexture](awesome/awesome-contexture.md) - Abstracts queries/filters and results/aggregations from different backing data stores like ElasticSearch and MongoDB.
 - [Database Tools](awesome/awesome-db-tools.md) - Everything that makes working with databases easier.
-- [Grakn](awesome/awesome.md) - Logical database to organize large and complex networks of data as one body of knowledge.
+- [TypeDB](awesome/typedb-awesome.md) - Logical database to organize large and complex networks of data as one body of knowledge.
 - [Cassandra](awesome/awesome-cassandra.md) - Open-source, distributed, wide column store, NoSQL database management system.
 
 ## Media
@@ -645,6 +645,7 @@
 - [Waves](awesome/awesome-waves.md) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 - [Substrate](awesome/awesome-substrate.md) - Framework for writing scalable, upgradeable blockchains in Rust.
 - [Golem](awesome/awesome-golem.md) - Open source peer-to-peer marketplace for computing resources.
+- [Stacks](awesome/awesome-stacks-chain.md) - A smart contract platform secured by Bitcoin.
 
 ## Higher Education
 
@@ -792,6 +793,7 @@
 - [QR Code](awesome/awesome-qr-code.md) - A type of matrix barcode that can be used to store and share a small amount of information.
 - [Veganism](awesome/awesome-veganism.md) - Making the plant-based lifestyle easy and accessible.
 - [Translations](awesome/awesome-translations.md) - The transfer of the meaning of a text from one language to another.
+- [Scriptable](awesome/awesome-scriptable.md) - An iOS app for automations in JavaScript.
 
 ## Related
 
