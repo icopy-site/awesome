@@ -329,7 +329,7 @@ For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/
 
 ## Articles
 
-- [Going reactive with Eclipse Vert.x and RX Java ](http://www.javamagazine.mozaicreader.com/JanFeb2018#&pageSet=32&page=0)
+- [Going reactive with Eclipse Vert.x and RX Java ](https://blogs.oracle.com/javamagazine/going-reactive-with-eclipse-vertx-and-rxjava)
 - [First Steps With Vert.x and Infinispan - Part 2: PUSH API ](https://dzone.com/articles/first-steps-with-vertx-and-infinispan-push-api-par)
 - [First Steps With Vert.x and Infinispan - Part 1: REST API ](https://dzone.com/articles/first-steps-with-vertx-and-infinispan-rest-api)
 - [Location Transparency With Vert.x ](https://dzone.com/articles/location-transparency-with-vertx)

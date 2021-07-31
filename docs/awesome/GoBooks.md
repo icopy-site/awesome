@@ -56,6 +56,16 @@ Learn Go guided by tests. Write a test, learn a new Go language feature to make 
 
 Go 101 is a book focusing on Go syntax/semantics and all kinds of runtime related things (Go 1.17-pre ready) and tries to help gophers gain a deep and thorough understanding of Go. This book also collects many details of Go and in Go programming. It is expected that this book is helpful for both beginner and experienced Go programmers.
 
+### [Practical Go Lessons](https://www.practical-go-lessons.com/) *Free*
+
+<img src="https://www.practical-go-lessons.com/book-cover.png" width="120px"/>
+
+Practical Go Lessons has 41 chapters and more than 700 pages with illustrations.
+It is suitable for anybody how wants to start programming with the Go language.
+It assumes no prior knowledge. 
+Each chapter contains test questions with detailed answers.
+The HTML version is free. You can support the author by buying the PDF or Paper version.
+
 ### [Go in Action](https://www.manning.com/books/go-in-action)
 
 <img src="https://images.manning.com/120/160/resize/book/c/4037d5d-e5e5-49bf-a3c1-480be2907eaa/Kennedy-GO-HI.png" width="120px">
@@ -145,6 +155,23 @@ This downloadable ebook is an interactive introduction to the Go programming lan
 
 The Go Workshop will take the pain out of learning the Go programming language (also known as Golang). It is designed to teach you to be productive in building real-world software. Presented in an engaging, hands-on way, this book focuses on the features of Go that are used by professionals in their everyday work.
 
+
+### [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.oreilly.com/library/view/learning-go/9781492077206/)
+
+<img src="https://learning.oreilly.com/library/cover/9781492077206/250w/" width="120px"/>
+
+Go is rapidly becoming the preferred language for building web services. While there are plenty of tutorials available that teach Go's syntax to developers with experience in other programming languages, tutorials aren't enough. They don't teach Go's idioms, so developers end up recreating patterns that don't make sense in a Go context. This practical guide provides the essential background you need to write clear and idiomatic Go.
+
+No matter your level of experience, you'll learn how to think like a Go developer. Author Jon Bodner introduces the design patterns experienced Go developers have adopted and explores the rationale for using them. You'll also get a preview of Go's upcoming generics support and how it fits into the language.
+
+- Learn how to write idiomatic code in Go and design a Go project
+- Understand the reasons for the design decisions in Go
+- Set up a Go development environment for a solo developer or team
+- Learn how and when to use reflection, unsafe, and cgo
+- Discover how Go's features allow the language to run efficiently
+- Know which Go features you should use sparingly or not at all
+
+
 **Advanced Books**
 ---
 
@@ -158,7 +185,7 @@ The main goal of this book is to help developers avoid common mistakes while at 
 
 ### [Go with the Domain: Building Modern Business Software in Go](https://threedots.tech/go-with-the-domain/) *Free*
 
-<a href="https://threedots.tech/go-with-the-domain/"><img src="https://threedots.tech/img/go-with-domain-cover-160-retina.png" width="120px"/></a>
+<a href="https://threedots.tech/go-with-the-domain/"><img src="https://threedots.tech/img/go-with-domain-cover-160-retina.jpg" width="120px"/></a>
 
 *Go with the Domain* is a book on building Go applications that solve complex problems in an idiomatic way.
 It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Command Query Responsibility Segregation), and other patterns.
@@ -370,6 +397,13 @@ The book presents relatively small yet complete Go programs that illustrate the 
 <img src="https://pragprog.com/titles/tjgo/distributed-services-with-go/tjgo.jpg" width="120px"/>
 
 Take your Go skills to the next level by learning how to design, develop, and deploy a distributed service. Start from the bare essentials of storage handling, work your way through networking a client and server, turn that single-node application into a distributed system with service discovery and consensus, and then deploy your service to the cloud. All this will make coding in your day job or side projects easier, faster, and more fun.
+
+### [Build Systems with Go: Everything a Gopher Must Know](https://www.amazon.com/dp/B091FX4CZX)
+
+<img src="https://raw.githubusercontent.com/juanmanuel-tirado/savetheworldwithgo/master/img/buildsystems.png" width="120px"/>
+
+The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
+
 
 Resources
 ====
