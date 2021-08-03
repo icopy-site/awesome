@@ -180,6 +180,10 @@
 
 - [xkcd.js](https://github.com/supermamon/scriptable-scripts/blob/master/xkcd-widget/xkcd.js) - Current or random xkcd comic.
 
+## Traveling
+
+- [location-location-location](https://github.com/doersino/scriptable-widgets/tree/main/location-location-location) - Show Google Maps image from current location.
+
 ## Related
 
 ### Download helper
