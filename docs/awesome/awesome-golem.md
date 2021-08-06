@@ -91,7 +91,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 ### RNG
 - [Gandom](https://github.com/rezahsnz/gandom) - Extract random streams from providers. Supports two PRNGs, one based on Chaos machines and the other that makes use of Sodium.
 
-### Password Cracking
+### Password Recovery
 - [Golem-JTR](https://github.com/hhio618/golem-jtr) - Run John The Ripper to recover a password.
 - [Yacat](https://handbook.golem.network/requestor-tutorials/create-your-own-application-on-golem/the-steps-to-do) - Hashcat password-recovery step-by-step.
 

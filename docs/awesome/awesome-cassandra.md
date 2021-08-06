@@ -459,6 +459,7 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 - [Cassandra: The Definitive Guide, 3rd Edition](https://www.amazon.com/gp/product/1098115163/)
 - [Cassandra: The Definitive Guide, 2nd Edition](https://www.amazon.com/gp/product/1491933666/)
 - [Cassandra High Availability](https://www.packtpub.com/big-data-and-business-intelligence/cassandra-high-availability)
+- [Expert Apache Cassandra Administration](https://link.springer.com/book/10.1007/978-1-4842-3126-5)
 
 ### Courses
 

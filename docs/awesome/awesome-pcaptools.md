@@ -27,6 +27,7 @@ Linux commands<a name="linuxcmds"></a>
 * **Ifstat**: reports the network bandwidth in a batch style mode. The output is in a format that is easy to log and parse using other programs or utilities. [Screenshot]()
 
 
+* **Iptraf-ng**: is an interactive and colorful IP Lan monitor.  It shows individual connections and the amount of data flowing between the hosts. A maintained fork of the defunct iptraf. [Screenshot](https://wiki.ipfire.org/addons/iptraf-ng/iptraf-ng_monitor.png)
 
 * **Jnettop**: [Jnettop](http://jnettop.kubs.info/wiki/) is a traffic visualiser, which captures traffic going through the host it is running from and displays streams sorted by bandwidth they use. [Screenshot](http://jnettop.kubs.info/wiki/?binary=internal%3A%2F%2F76195466cc3bca92f8de7b404e240844.gif)
 
@@ -54,7 +55,7 @@ Traffic Capture<a name="capture"></a>
 
 * [jNetPcap](http://jnetpcap.com): jNetPcap is a packet capturing library for Java that is available for Linux and Windows. jNetPcap leverages libpcap respectively WinPcap and employs the Java Native Interface (JNI) for using the functionality provided by libpcap/WinPcap.
 
-* [Moloch](https://github.com/aol/moloch): Moloch is a open source large scale full PCAP capturing, indexing and database system.
+* [Arkime](https://arkime.com/) Arkime (formerly Moloch) is a large scale, open source, indexed packet capture and search tool.
 
 * [n2disk](http://www.ntop.org/products/n2disk/) (Commercial): A multi-Gigabit network traffic recorder with indexing capabilities. n2disk is a network traffic recorder application. With n2disk you can capture full- sized network packets at multi-Gigabit rate (above 10 Gigabit/s on adequate hardware) from a live network interface, and write them into files without any packet loss.
 
@@ -71,10 +72,9 @@ Traffic Capture<a name="capture"></a>
 
 Traffic Analysis/Inspection<a name="analysis"></a>
 --------------------------------------------------
+* [BruteShark](https://github.com/odedshimon/BruteShark): Is an open-source, cross-platform network forensic analysis tool with many features. It includes: password extracting,  displaying a visual network map, reconstruct TCP sessions, extract hashes of encrypted passwords and even convert them to a Hashcat format in order to perform an offline Brute Force attack.
 
 * [AIEngine](https://bitbucket.org/camp0/aiengine): is a next generation interactive/programmable packet inspection engine with capabilities of learning without any human intervention, NIDS functionality, DNS domain classification, network collector and many others. AIEngine also helps network/security professionals to identify traffic and develop signatures for use them on NIDS, Firewalls, Traffic classifiers and so on.
-
-* [Bro](http://bro-ids.org/): is an open-source, Unix-based Network Intrusion Detection System (NIDS) that passively monitors network traffic and looks for suspicious activity. Bro detects intrusions by first parsing network traffic to extract its application- level semantics and then executing event-oriented analyzers that compare the activity with patterns deemed troublesome. Its analysis includes detection of specific attacks (including those defined by signatures, but also those defined in terms of events) and unusual activities (e.g., certain hosts connecting to certain services, or patterns of failed connection attempts).
 
 * [CapAnalysis](http://www.capanalysis.net/ca/) - CapAnalysis is a web visual tool for information security specialists, system administrators and everyone who needs to analyze large amounts of captured network traffic. A live web demo is [available](http://pcap.capanalysis.net/) for testing.
 
@@ -112,6 +112,8 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 * [NetDude](http://netdude.sourceforge.net/): (NETwork DUmp data Displayer and Editor). From their webpage, "it is a GUI-based tool that allows you to make detailed changes to packets in tcpdump tracefiles."
 
 * [Network Expect](http://www.netexpect.org/): is a framework that allows to easily build tools that can interact with network traffic. Following a script, traffic can be injected into the network, and decisions can be taken, and acted upon, based on received network traffic. An interpreted language provides branching and high-level control structures to direct the interaction with the network. Network Expect uses libpcap for packet capture and libwireshark (from the Wireshark project) for packet dissection tasks. (GPL, BSD/Linux/OSX).
+
+* [NFStream](https://github.com/nfstream/nfstream): is a Python framework providing fast, flexible, and expressive data structures designed to make working with online or offline network data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world network data analysis in Python. Additionally, it has the broader goal of becoming a common network data analytics framework for researchers providing data reproducibility across experiments.
 
 * [Ntop](http://www.ntop.org/): Ntop is a network traffic probe that shows the network usage, similar to what the popular top Unix command does. ntop is based on libpcap and it has been written in a portable way in order to virtually run on every Unix platform and on Win32 as well.
 
@@ -174,6 +176,7 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 * [yaraprocessor](https://github.com/MITRECND/yaraprocessor): With yaraprocessor YARA can be run against individual packet payloads as well as a concatenation of some or all of the payloads. It was originally written for use in Chopshop, but can also be used without it.
 
+"Zeek provides a comprehensive platform for network traffic analysis, with a particular focus on semantic security monitoring at scale. While often compared to classic intrusion detection/prevention systems, Zeek takes a quite different approach by providing users with a flexible framework that facilitates customized, in-depth monitoring far beyond the capabilities of traditional systems. With initial versions already in operational deployment during the mid ‘90s, Zeek finds itself grounded in more than 20 years of research. For more information, see the Zeek Overview and our promotional document, Why Choose Zeek?."
 
 DNS Utilities <a name="dnstools"></a>
 --------------------------------------------

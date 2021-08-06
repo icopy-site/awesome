@@ -91,12 +91,14 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [Sea Level Rise Viewer](https://coast.noaa.gov/slr/) - NOAA provided map viewer is to provide federal, state, and local coastal resource managers and planners with a preliminary look at sea level rise and coastal flooding impacts.
 - [Earth Quake Data](https://www.ngdc.noaa.gov/hazard/earthqk.shtml) - NOAA provided data includes a global record of significant earth quakes going back to 2150 BC to present with geographic information.
 - [National Risk Index](https://www.fema.gov/flood-maps/products-tools/national-risk-index) - The National Risk Index is an online mapping application from FEMA that identifies communities most at risk to 18 natural hazards.
+- [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/) - This site provides National foundation-level geospatial data within the open public domain that can be useful to support community preparedness, resiliency, research, and more. 
 
 
 ### Transportation
 
 - [BTS Open Data Site](https://data-usdot.opendata.arcgis.com/) - On the BTS Open Data site, browse geospatial data that is part of the BTS National Transportation Atlas Database (NTAD) product. NTAD is a set of nationwide (United States) geographic databases of public spatial information for transportation facilities and networks; flows of people, goods, vehicles, and craft over the transportation networks; and social, economic, and environmental conditions that affect or are affected by the transportation networks.
 - [CTPP](https://ctpp.transportation.org/) - The CTPP Program procures tabulations of American Community Survey (ACS) 5-year (and historical Census decennial) data. The chief differences between ACS data and CTPP data are FLOWS from home to work and WORKPLACE BASED data at small Geographies.
+- [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm0) - The HPMS is a national level highway information system that includes data on the extent, condition, performance, use and operating characteristics of the nation's highways.
 - [Transitland](https://transit.land) - Transitland is an open data platform that collects GTFS, GTFS Realtime, and other open data feeds from over 2,500 transit operators in over 55 countries. Additional Information: [Interline](https://www.interline.io/),[GitHub](https://github.com/transitland).
 - [National Noise Map](https://www.bts.gov/geospatial/national-transportation-noise-map) - Data within the National Transportation Noise Map represent potential noise levels across the nation for an average annual day for the specified year. 
 - [National Transit Database](https://www.transit.dot.gov/ntd/ntd-data) - Repository of operations, financial, and asset data that US transit agencies are required to report to the Federal Transit Administration. 
@@ -262,6 +264,11 @@ Resources linking to peer-reviewed journals or federal research aggregators of i
 - [TCRP](http://www.trb.org/TCRP/TCRP.aspx) - Sponsored by the Federal Transit Administration, the Transit Cooperative Research Program (TCRP) serves as one of the principal means by which the public transportation industry can develop innovative near-term solutions to meet demands placed on it. The TCRP has an established reputation for providing useful reports and other tools to help public transportation practitioners solve problems and inform decision makers.
 - [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - The Planning Advisory Service (PAS) is the American Planning Association's (APA) flagship research brand which is responsible for the following publications: [PAS Reports](https://www.planning.org/pas/reports) (quarterly), [*PAS Memo*](https://www.planning.org/pas/memo) (bimonthly), and [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes) (bimonthly). Current publications and archives of previous issues are available for free download for APA members.
 - [Policy Guides](https://www.planning.org/policy/guides/) - Policy Guides represent APA's official position on critical planning issues and arm planners with the tools to advocate for policies that create great communities for all.
+
+### General Planning Information and News
+
+- [Planopedia](https://www.planetizen.com/planopedia) - Organized by the Planning News aggregator [Planetizen](https://www.planetizen.com/) this mini-planning encyclopedia explores various urban planning concepts and terms.
+- [ULI](https://uli.org/) - ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world.
 
 ## Other Resources
 Other types of planning data & technology resources. 
