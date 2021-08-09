@@ -71,6 +71,7 @@
 - [CodeIgniter](https://github.com/amiranagram/inertia-codeigniter-4)
 - [Go](https://github.com/petaki/inertia-go)
 - [PSR-15](https://github.com/cherifGsoul/inertia-psr15)
+- [Rust](https://github.com/stuarth/inertia-rs)
 
 ## Resources
 
@@ -107,6 +108,7 @@
 - [Ping CRM / CakePHP](https://github.com/ishanvyas22/cakephp-pingcrm) - Demonstration application made with CakePHP and Vue.js.
 - [Ping CRM / Masonite](https://github.com/girardinsamuel/pingcrm-masonite) - Demonstration application made with Masonite and Vue.js.
 - [Ping CRM / React](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
+- [Ping CRM / Clojure](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
 
 ### Other 
 

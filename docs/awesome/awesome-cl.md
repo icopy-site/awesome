@@ -132,7 +132,8 @@ ORMs
 Persistent object databases
 ---------------------------
 
-* [bknr.datastore](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence][208]. (see also chap. 21 of "Common Lisp Recipes")
+* [bknr.datastore](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence][208]. 
+  * see also this [good introductory blog post](https://ashok-khanna.medium.com/persistent-in-memory-data-storage-in-common-lisp-b-k-n-r-37f8ae76042f)
 * [ubiquitous](https://github.com/Shinmera/ubiquitous) - A library providing easy-to-use persistent configuration storage. [zlib][33].
 * [cl-prevalence](https://common-lisp.net/project/cl-prevalence/) - in-memory database system. Implementation of Object Prevalence, in which business objects are kept live in memory and transactions are journaled for system recovery. [github fork](https://github.com/40ants/cl-prevalence). [LLGPL][8]. See also [cl-prevalence-multimaster](https://github.com/40ants/cl-prevalence-multimaster), to syncronize multiple cl-prevalence systems state.
 
@@ -590,6 +591,7 @@ Library Manager
 
 might help:
 
+* [quick-patch](https://github.com/tdrhq/quick-patch/) -  easily override quicklisp projects without using git submodules. MPL-2.0.
 * [print-licenses](https://github.com/vindarel/print-licenses) - print licenses used by a project and its dependencies. [MIT][200].
 
 ### Interfaces to other package managers
@@ -819,6 +821,33 @@ Service (S3) and CloudFront service. [BSD][15].
 * [multiposter](https://github.com/Shinmera/multiposter) - post to multiple services simultaneously. [zlib][33].
 * [stripe](https://git.mfiano.net/mfiano/stripe) - a client for the Stripe payment system. [MIT][200].
 
+Web project skeletons and generators
+------------------------------------
+
+* [cl-cookieweb](https://github.com/vindarel/cl-cookieweb) - a  Cookiecutter template to start a web project. [BSD_3Clause][15]. Not in Quicklisp.
+  * Provides a working toy web app with the Hunchentoot web server, easy-routes, Djula templates, styled with Bulma, based on SQLite, with migrations, an example table definition and a test suite using FiveAM.
+* [make-like](https://github.com/container-lisp/make-like) - an application template builder for LIKE (Lisp In Kubernetes + Emacs) applications. [Apache2.0][51].
+  * Makefile, podman support, GitHub Actions, Prometheus metrics support, TOML-style config.ini, easy-route preconfigured with health-check and more.
+* [cl-webapp-seed](https://github.com/rajasegar/cl-webapp-seed) - a simple web application boilerplate. Uses Hunchentoot, cl-who, deploys easily to Heroku. [MIT][200].
+
+Web applications examples
+-------------------------
+
+These examples should stand out for something and have a unique
+feature hardly created with web project generators or existing
+libraries.
+
+* [screenshotbot-oss](https://github.com/screenshotbot/screenshotbot-oss) - a Screenshot Testing service. This code powers https://screenshotbot.io.
+  * uses Bknr.datastore as the datastore. Heavy use of their [markup](https://github.com/moderninterpreters/markup) library (JSX-like).
+  * Closures as URLs ([nibble](https://github.com/screenshotbot/screenshotbot-oss/blob/main/src/nibble/nibble.asd), not yet a standalone library). "Essentially, it allows me to create "anonymous" HTTP endpoints that evaluate a lambda. We integrate it with markup to make it pleasant to write multi-page web forms and flows. e.g. [Here's a flow](https://github.com/screenshotbot/screenshotbot-oss/blob/main/src/screenshotbot/dashboard/api-keys.lisp#L84) that lets you delete an API key, but before deleting it it asks you for a confirmation."
+  * user auth and sessions.
+
+Smaller demos:
+
+* [cl-trello-clone](https://github.com/rajasegar/cl-trello-clone) - a Trello clone demo app in Common Lisp. Built with HTMX and HyperScript. Caveman and Djula templates.
+  * by the same author, see also [cl-warehouse](https://github.com/rajasegar/cl-warehouse) and many more small demos.
+
+
 Others
 ------
 
@@ -828,6 +857,8 @@ Others
 * [find-port](https://github.com/eudoxia0/find-port) -  Programmatically find open ports. [MIT][200].
 * [Postmaster](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat][14].
 * [cl-selenium-webdriver](https://github.com/TatriX/cl-selenium-webdriver/) - a binding library to Selenium 2.0.
+* [cl-wget](https://github.com/cl-wget/cl-wget) - Makes retrieving large files or mirroring entire websites easy. [AGPL-3.0][51].
+* [trivial-download](https://github.com/eudoxia0/trivial-download) - Download files. [MIT][200].
 
 Numerical and Scientific
 ========================
@@ -944,14 +975,14 @@ Writing, running scripts
 * [cl-all](https://github.com/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [zlib][33].
 * [clawk](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
 * [ScriptL](https://github.com/rpav/ScriptL) - Shell scripting made Lisp-like! Or, live-coding remote function calls for the shell. Write a command in the REPL, and run it instantly in the shell. [LLGPL][8].
+  * similar and maybe simpler: [lserver](https://notabug.org/quasus/lserver/)
 
 Command-line options parsers
 ----------------------------
 
 * 👍 [Unix-opts](https://github.com/mrkkrp/unix-opts) - a command line
   options parser with a concise declaration of options. [MIT][200].
-* [CLON](https://github.com/didierverna/clon) - a Command Line Options
-  Nuker, with lots of options. [ISC](https://github.com/didierverna/clon/blob/master/LICENSE).
+* [Adopt](https://github.com/sjl/adopt/) - A Damn OPTion parsing library. [MIT][200].
 
 Readline, ncurses and other graphical helpers
 --------------------------------------------
