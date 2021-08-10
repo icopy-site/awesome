@@ -51,7 +51,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [Webots](https://cyberbotics.com) - Robot simulator for ROS 2. ![webots](https://img.shields.io/github/stars/cyberbotics/webots.svg)
 - [LGSVL](https://www.lgsvlsimulator.com/) - Simulation software to accelerate safe autonomous vehicle development.
 - [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
-- [Foxglove Studio](https://github.com/foxglove/studio) - Integrated visualization and diagnosis tool for robotics (support for ROS 2 coming soon).
+- [Foxglove Studio](https://github.com/foxglove/studio) - Integrated visualization and diagnosis tool for robotics. ![foxglove studio](https://img.shields.io/github/stars/foxglove/studio.svg)
 
 ### Interactivity
 
@@ -425,6 +425,8 @@ DDS Security.
   - [Discourse threads tagged "wg-edgeai"](https://discourse.ros.org/tag/wg-edgeai)
 - Embedded Working Group
   - [Discourse threads tagged "wg-embedded"](https://discourse.ros.org/tags/wg-embedded)
+- Hardware Acceleration Working Group
+  - [Discourse threads tagged "wg-acceleration"](https://discourse.ros.org/tag/wg-acceleration)
 - Navigation Working Group
   - [Discourse threads tagged "wg-navigation"](https://discourse.ros.org/tags/wg-navigation)
 - Safety Working Group

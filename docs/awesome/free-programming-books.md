@@ -65,6 +65,7 @@ Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-b
 + [Thai / ไทย](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-th.md)
 + [Turkish / Türkçe](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-tr.md)
 + [Ukrainian / Українська](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ua.md)
++ [Vietnamese / Tiếng Việt](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-vi.md)
 
 
 ### Cheat Sheets
