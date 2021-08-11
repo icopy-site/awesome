@@ -343,7 +343,7 @@ For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/
 ## Tutorials
 
 - [Vert.x - From zero to (micro-) hero](http://escoffier.me/vertx-hol)
-- [Introduction to Vert.x](https://vertx.io/blog/posts/introduction-to-vertx.html)
+- [Introduction to Vert.x](https://vertx.io/get-started/)
 
 ## Social events / Meetups
 

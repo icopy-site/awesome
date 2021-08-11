@@ -35,6 +35,7 @@ Pull requests are welcome!
 - [Corbeans](https://manosbatsis.github.io/corbeans) - Corda integration for Spring Boot.
 - [Cordage](https://github.com/LayerXcom/cordage) - Provide modules that make the interoperability possible between Corda and other blockchains without further trusted third party.
 - [Cordalo](https://github.com/cordalo-ch) - Provide Corda frameworks to speed up your development in the decentralized space.
+- [Corda Lean State](https://manosbatsis.github.io/corda-lean-state) - Generate Corda Contract and Persistent states from a simplified interface. 
 - [Cordentity](https://github.com/hyperledger-labs/cordentity) - Integrate [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) capabilities into Corda.
 - [DAML for Corda](https://github.com/chainstack/awesome-corda) - DAML smart contracts for Corda.
 - [DemoBench](https://www.corda.net/demobench/) - A standalone desktop app to configure and launch local Corda nodes.
