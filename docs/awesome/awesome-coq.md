@@ -23,7 +23,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Fiat](https://github.com/mit-plv/fiat) - Mostly automated synthesis of correct-by-construction programs.
 - [FreeSpec](https://github.com/ANSSI-FR/FreeSpec) - Framework for modularly verifying programs with effects and effect handlers.
 - [Iris](https://iris-project.org) - Higher-order concurrent separation logic framework.
-- [Q\*cert](https://querycert.github.io) - Platform for implementing and verifying query compilers.
+- [Q\*cert](https://github.com/querycert/qcert) - Platform for implementing and verifying query compilers.
 - [Verdi](https://github.com/uwplse/verdi) - Framework for formally verifying distributed systems implementations.
 - [VST](https://vst.cs.princeton.edu) - Toolchain for verifying C code inside Coq in a higher-order concurrent, impredicative separation logic that is sound w.r.t. the Clight language of the CompCert compiler.
 
@@ -40,7 +40,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 ### Libraries
 
 - [ALEA](https://github.com/coq-community/alea) - Library for reasoning on randomized algorithms.
-- [Bignums](https://github.com/coq/bignums) - Library of arbitrary large numbers.
+- [Bignums](https://github.com/coq/bignums) - Library of arbitrarily large numbers.
 - [CoLoR](http://color.inria.fr) - Library on rewriting theory, lambda-calculus and termination, with sub-libraries on common data structures extending the Coq standard library.
 - [coq-haskell](https://github.com/jwiegley/coq-haskell) - Library smoothing the transition to Coq for Haskell users.
 - [Coq record update](https://github.com/tchajed/coq-record-update) - Library which provides a generic way to update Coq record fields.
@@ -61,7 +61,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 ### Package and Build Management
 
 - [coq_makefile](https://coq.inria.fr/refman/practical-tools/utilities.html) - Build tool distributed with Coq and based on generating a makefile.
-- [Coq Nix Toolbox](https://github.com/coq-community/coq-nix-toolbox) - Nix helper scripts to automate local builds and CI for Coq.
+- [Coq Nix Toolbox](https://github.com/coq-community/coq-nix-toolbox) - Nix helper scripts to automate local builds and continuous integration for Coq.
 - [Coq Package Index](https://coq.inria.fr/packages.html) - OPAM-based collection of Coq packages.
 - [Coq platform](https://github.com/coq/platform) - Curated collection of packages to support Coq use in industry, education, and research.
 - [coq-community Templates](https://github.com/coq-community/templates) - Templates for generating configuration files for Coq projects.
@@ -92,10 +92,13 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 ### Tools
 
 - [Alectryon](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
+- [Autosubst 2](https://github.com/uds-psl/autosubst2) - Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.
 - [CFML](https://gitlab.inria.fr/charguer/cfml2) - Tool for proving properties of OCaml programs in separation logic.
 - [coq2html](https://github.com/xavierleroy/coq2html) - Alternative HTML documentation generator for Coq.
+- [coqdoc](https://coq.inria.fr/refman/using/tools/coqdoc.html) - Standard documentation tool generating LaTeX or HTML files from Coq code.
 - [CoqOfOCaml](https://github.com/clarus/coq-of-ocaml) - Tool for generating idiomatic Coq from OCaml code.
 - [coq-dpdgraph](https://github.com/Karmaki/coq-dpdgraph) - Tool for building dependency graphs between Coq objects.
+- [coq-scripts](https://github.com/JasonGross/coq-scripts) - Scripts for dealing with Coq files, including tabulating proof times.
 - [coq-tools](https://github.com/JasonGross/coq-tools) - Scripts to help construct small reproducing examples of bugs, remove unneeded imports, etc.
 - [Cosette](https://github.com/uwdb/Cosette) - Automated solver for reasoning about SQL query equivalences.
 - [hs-to-coq](https://github.com/plclub/hs-to-coq) - Converter from Haskell code to equivalent Coq code.
@@ -137,7 +140,8 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Incremental Cycles](https://gitlab.inria.fr/agueneau/incremental-cycles) - Verified OCaml implementation of an algorithm for incremental cycle detection in graphs.
 - [JSCert](https://github.com/jscert/jscert) - Coq specification of ECMAScript 5 (JavaScript) with verified reference interpreter.
 - [lambda-rust](https://gitlab.mpi-sws.org/iris/lambda-rust) - Formal model of a Rust core language and type system, a logical relation for the type system, and safety proofs for some Rust libraries.
-- [Vélus](http://velus.inria.fr/) - Verified compiler for a Lustre/Scade-like dataflow synchronous language.
+- [RISC-V Specification in Coq](https://github.com/mit-plv/riscv-coq) - Definition of the RISC-V processor instruction set architecture and extensions.
+- [Vélus](http://velus.inria.fr) - Verified compiler for a Lustre/Scade-like dataflow synchronous language.
 - [Verdi Raft](https://github.com/uwplse/verdi-raft) - Implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework.
 
 ## Resources
@@ -194,6 +198,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [CodeWars' Coq kata](https://www.codewars.com/kata/search/coq) - Online proving challenges.
 - [Coq'Art Exercises and Tutorials](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book, including additional tutorials.
 - [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) - Introduction to how Coq can be used to define logical concepts and functions and reason about them.
+- [Coq requirements in Common Criteria evaluations](https://www.ssi.gouv.fr/uploads/2014/11/anssi-requirements-on-the-use-of-coq-in-the-context-of-common-criteria-evaluations-v1.0-en.pdf) - Guide on how to write readable and reviewable Coq code in high assurance applications.
 - [Hydra battles and Cie](https://github.com/coq-community/hydra-battles) - Variations on Kirby and Paris' hydra battles and other entertaining math in Coq, including documentation and exercises.
 - [Lemma Overloading](https://github.com/coq-community/lemma-overloading) - Demonstration of design patterns for programming and proving with canonical structures.
 - [MathComp Tutorial Materials](https://github.com/math-comp/tutorial_material) - Source code for Mathematical Components tutorials.
