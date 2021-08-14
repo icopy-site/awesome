@@ -107,7 +107,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [mCoq](https://github.com/EngineeringSoftware/mcoq) - Mutation analysis tool for Coq projects.
 - [Ott](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
 - [Roosterize](https://github.com/EngineeringSoftware/roosterize) - Tool for suggesting lemma names in Coq projects.
-- [SerAPI](https://github.com/ejgallego/coq-serapi) - Library and tools for (de)serialization of Coq code to and from JSON and S-expressions.
+- [SerAPI](https://github.com/ejgallego/coq-serapi) - Tools and OCaml library for (de)serialization of Coq code to and from JSON and S-expressions.
 
 ### Type Theory and Mathematics
 
@@ -191,7 +191,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 ### Course Material
 
 - [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - Introduction to using separation logic to reason about sequential imperative programs in Coq.
-- [Introduction to Computational Logic](https://courses.ps.uni-saarland.de/icl_20/2/Resources) - Introduction to basic logic principles, constructive type theory, and interactive theorem proving with Coq.
+- [Introduction to Computational Logic](https://cms.sic.saarland/icl_21/2/Resources) - Introduction to basic logic principles, constructive type theory, and interactive theorem proving with Coq.
 
 ### Tutorials and Hints
 
