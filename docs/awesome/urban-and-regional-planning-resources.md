@@ -77,6 +77,11 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [County Health Rankings](https://www.countyhealthrankings.org/) - The annual Rankings provide a revealing snapshot of how health is influenced by where we live, learn, work, and play.
 - [HealthData.gov](https://healthdata.gov/) - This site is dedicated to making high value health data in the United States more accessible to entrepreneurs, researchers, and policy makers in the hopes of better health outcomes for all.  
 
+### Historic Preservation
+
+- [National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/data-downloads.htm) - The National Register of Historic Places is the official list of the Nation's historic places worthy of preservation.
+- [UNESCO World Heritage Sites](https://whc.unesco.org/en/list/) - A World Heritage Site is a site on a list of properties maintained by the World Heritage Committee of UNESCO and called the World Heritage List "which it considers as having outstanding universal value".
+
 ### OpenStreetMap
 
 - [OpenStreetMap](https://www.openstreetmap.org/) - OpenStreetMap is the free wiki world map. This colloborative project is one of the largest databases of volunteered geographic information in the world. Its contents include points of interest, routable networks, and other geodata. 
@@ -247,6 +252,7 @@ A a high-level category to classify the resource into related groups. Census dat
 - [iTree](https://www.itreetools.org/) - Quantifies the benefits and values of trees around the world. Is based on peer-reviewed, USDA Forest Service Research.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus) - FEMA's Hazus Program provides standardized tools and data for estimating risk from earthquakes, floods, tsunamis, and hurricanes. Risk assessment resources and tools from the Hazus program are always freely available and transparently developed. 
 - [IPCC Atlas](https://interactive-atlas.ipcc.ch/) - A novel tool for flexible spatial and temporal analyses of much of the observed and projected climate change information underpinning the Working Group I contribution to the Sixth Assessment Report, including regional synthesis for Climatic Impact-Drivers (CIDs).
+- [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - This user-friendly tool was developed by Azavea in partnership with ICLEI USA, with the primary purpose of facilitating a data-informed adaptation planning process in small-to-midsize communities with little to no devoted resources to plan for climate change impacts. 
 
 ## Educational and Informational Resources
 Collections of planning related literature, information aggregators, or similar resources.
