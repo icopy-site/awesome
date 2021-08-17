@@ -173,6 +173,8 @@ Table of Contents
 
 * [Kaltura](https://developer.kaltura.com/github-student-developer-pack) [FREE] - Kaltura VPaaS simplifies building smart, interactive VOD, Live and real-time video experiences and apps at global scale.$10K/year in Kaltura VPaaS credits while you are a student.
 
+* [FlashDrive.io](https://flashdrive.io) - Deploy any code directly from Git with lot of supported languages out of the box and Docker support. $100 free credits for everyone + $1000 free credits per year with student program (ask support@flashdrive.io)
+
 
 ## Email
 
@@ -333,8 +335,6 @@ Table of Contents
 * [1Password](https://www.studentappcentre.com/discounts/1password) - [FREE] 6 months of a 1Password account free. ($3/month thereafter using Personal account)
 
 * [Dashlane](https://www.dashlane.com/students) [FREE] - 1 year of free Dashlane Premium for Students, offer for new and existing users with eligible student emails ($3.33/month thereafter)
-
-* [LastPass](https://lastpass.com/edupromo.php) [FREE] - Enjoy 6 months of LastPass Premium to help you manage your online life at school!
 
 * [RoboForm](https://www.roboform.com/promotions/college) [FREE] - Free for students and professors with a valid college or university email address for the first year ($12/year thereafter)
 

@@ -225,6 +225,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [moeda](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 - [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
+- [ticker](https://github.com/achannarasappa/ticker) - Stock ticker.
 
 ### Presentations
 
@@ -255,6 +256,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [gopass](https://github.com/gopasspw/gopass) - Fully-featured password manager.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+- [ots](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 
 ### macOS
 
