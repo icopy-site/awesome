@@ -28,7 +28,6 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 * [Succinct](http://succinct.cs.berkeley.edu/) <img src="https://img.shields.io/github/last-commit/amplab/succinct.svg">- Support for efficient queries on compressed data.
 
-
 ### SQL Data Sources
 
 SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/latest/sql-data-sources-load-save-functions.html#manually-specifying-options) for files. These include `csv`, `json`, `parquet`, `orc`, and `avro`. It also supports JDBC databases as well as Apache Hive. Additional data sources can be added by including the packages listed below, or writing your own. 
