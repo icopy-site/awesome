@@ -23,10 +23,9 @@ This project would not be possible without the generous support of our sponsors.
 
 <table>
   <tr>
-    <td><a href="https://deepcode.ai"><img width="200px" src="https://raw.githubusercontent.com/analysis-tools-dev/website/master/static/sponsors/deepcode.svg" /></a></td>
-    <td><a href="https://deepsource.io/"><img width="200px" src="https://raw.githubusercontent.com/analysis-tools-dev/website/master/static/sponsors/deepsource.png" /></a></td>
-    <td><a href="https://pvs-studio.com/"><img height="100px" src="https://raw.githubusercontent.com/analysis-tools-dev/website/master/static/sponsors/pvs-studio.svg" /></a></td>
-    <td><a href="https://codescene.io/"><img width="200px" src="https://raw.githubusercontent.com/analysis-tools-dev/website/master/static/sponsors/codescene.png" /></a></td>
+    <td><a href="https://deepcode.ai"><img width="200px" src="https://raw.githubusercontent.com/analysis-tools-dev/website/master/static/sponsors/deepcode.png" /></a></td>
+    <td><a href="https://codescene.io/"><img width="200px" src="https://raw.githubusercontent.com/analysis-tools-dev/website/master/static/sponsors/codescene.svg" /></a></td>
+    <td><a href="https://r2c.dev/"><img width="200px" src="https://raw.githubusercontent.com/analysis-tools-dev/website/master/static/sponsors/r2c.svg" /></a></td>
   </tr>
 </table>
 
@@ -687,6 +686,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [flake8](https://github.com/PyCQA/flake8) - A wrapper around `pyflakes`, `pycodestyle` and `mccabe`.
 - [Fortify](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview) :copyright: - A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.
 - [Go Meta Linter](https://github.com/alecthomas/gometalinter) :warning: - Concurrently run Go lint tools and normalise their output. Use `golangci-lint` for new projects.
+- [gokart](https://github.com/praetorian-inc/gokart) - Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
 - [Goodcheck](https://sider.github.io/goodcheck) - Regexp based customizable linter.
 - [goone](https://github.com/masibw/goone) - Finds N+1 queries (SQL calls in a for loop) in go code
 - [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) - Concurrently runs many linters and normalises their output to a report.
@@ -740,6 +740,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [ShiftLeft](https://www.shiftleft.io) :copyright: - Identify vulnerabilities that are unique to your code base before they reach production. Leverages the Code Property Graph (CPG) to run its analyses concurrently in a single graph of graphs. Automatically finds business logic flaws in dev like hardcoded secrets and logic bombs
 - [ShiftLeft Scan](https://slscan.io) - Scan is a free open-source DevSecOps platform for detecting security issues in source code and dependencies. It supports a broad range of languages and CI/CD pipelines.
 - [shipshape](https://github.com/google/shipshape) :warning: - Static program analysis platform that allows custom analyzers to plug in through a common interface.
+- [shisho](https://docs.shisho.dev/) - A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
 - [Sider](https://sider.review) :copyright: - An automated code reviewing tool. Improving developers' productivity.
 - [Similarity Tester](https://dickgrune.com/Programs/similarity_tester/) - A tool that finds similarities between or within files to support you encountering DRY principle violations.
 - [Snyk](https://snyk.io) :copyright: - Vulnerability scanner for dependencies of node.js apps (free for Open Source Projects).
