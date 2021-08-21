@@ -21,7 +21,8 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [CoqEAL](https://github.com/CoqEAL/CoqEAL) - Framework to ease change of data representations in proofs.
 - [FCF](https://github.com/adampetcher/fcf) - Framework for proofs of cryptography.
 - [Fiat](https://github.com/mit-plv/fiat) - Mostly automated synthesis of correct-by-construction programs.
-- [FreeSpec](https://github.com/ANSSI-FR/FreeSpec) - Framework for modularly verifying programs with effects and effect handlers.
+- [FreeSpec](https://github.com/lthms/FreeSpec) - Framework for modularly verifying programs with effects and effect handlers.
+- [Hybrid](https://www.site.uottawa.ca/~afelty/HybridCoq/) - System for reasoning using higher-order abstract syntax representations of object logics.
 - [Iris](https://iris-project.org) - Higher-order concurrent separation logic framework.
 - [Q\*cert](https://github.com/querycert/qcert) - Platform for implementing and verifying query compilers.
 - [Verdi](https://github.com/uwplse/verdi) - Framework for formally verifying distributed systems implementations.
@@ -50,6 +51,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Flocq](http://flocq.gforge.inria.fr) - Formalization of floating-point computations.
 - [Formalised Undecidable Problems](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
 - [Hahn](https://github.com/vafeiadis/hahn) - Library for reasoning on lists and binary relations.
+- [Mczify](https://github.com/math-comp/mczify) - Library enabling Micromega arithmetic solvers to work when using Mathematical Components number definitions.
 - [Metalib](https://github.com/plclub/metalib) - Library for programming language metatheory using locally nameless variable binding representations.
 - [Monae](https://github.com/affeldt-aist/monae) - Monadic effects and equational reasoning.
 - [Paco](http://plv.mpi-sws.org/paco/) - Library for parameterized coinduction.
@@ -95,7 +97,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Autosubst 2](https://github.com/uds-psl/autosubst2) - Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.
 - [CFML](https://gitlab.inria.fr/charguer/cfml2) - Tool for proving properties of OCaml programs in separation logic.
 - [coq2html](https://github.com/xavierleroy/coq2html) - Alternative HTML documentation generator for Coq.
-- [coqdoc](https://coq.inria.fr/refman/using/tools/coqdoc.html) - Standard documentation tool generating LaTeX or HTML files from Coq code.
+- [coqdoc](https://coq.inria.fr/refman/using/tools/coqdoc.html) - Standard documentation tool that generates LaTeX or HTML files from Coq code.
 - [CoqOfOCaml](https://github.com/clarus/coq-of-ocaml) - Tool for generating idiomatic Coq from OCaml code.
 - [coq-dpdgraph](https://github.com/Karmaki/coq-dpdgraph) - Tool for building dependency graphs between Coq objects.
 - [coq-scripts](https://github.com/JasonGross/coq-scripts) - Scripts for dealing with Coq files, including tabulating proof times.
@@ -187,6 +189,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Programs and Proofs](https://ilyasergey.net/pnp/) - Book that gives a brief and practically-oriented introduction to interactive proofs in Coq which emphasizes the computational nature of inductive reasoning about decidable propositions via a small set of primitives from the SSReflect proof language.
 - [Computer Arithmetic and Formal Proofs](http://iste.co.uk/book.php?id=1238) - Book that describes how to formally specify and verify floating-point algorithms in Coq using the Flocq library.
 - [The Mathematical Components book](https://math-comp.github.io/mcb/) - Book oriented towards mathematically inclined users, focusing on the Mathematical Components library and the SSReflect proof language.
+- [Modeling and Proving in Computational Type Theory](https://github.com/uds-psl/MPCTT) - Book covering topics in computational logic using Coq, including foundations, canonical case studies, and practical programming.
 
 ### Course Material
 
