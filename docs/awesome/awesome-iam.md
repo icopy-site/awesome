@@ -113,6 +113,10 @@ Zero trust network security operates under the principle “never trust, always 
 
 Protocols and technologies to verify that you are who you pretend to be.
 
+- [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/) - An overview and comparison of all token-based authentication schemes for end-user APIs.
+
+- [A Child’s Garden of Inter-Service Authentication Schemes](https://web.archive.org/web/20200507173734/https://latacora.micro.blog/a-childs-garden/) - In the same spirit as above, but this time at the service level.
+
 - [Scaling backend authentication at Facebook](https://www.youtube.com/watch?v=kY-Bkv3qxMc) - How-to in a nutshell: 1. Small root of trust; 2. TLS isn't enough; 3. Certificate-based tokens; 4. Crypto Auth Tokens (CATs). See the [slides](https://rwc.iacr.org/2018/Slides/Lewi.pdf) for more details.
 
 ### Password-based
@@ -301,6 +305,8 @@ Typical SAML identity provider is an institution or a big corporation's internal
 
 - [The Beer Drinker's Guide to SAML](https://duo.com/blog/the-beer-drinkers-guide-to-saml) - SAML is arcane at times. A another analogy might helps get more sense out of it.
 
+- [SAML is insecure by design](https://joonas.fi/2021/08/saml-is-insecure-by-design/) - Not only weird, SAML is also insecure by design, as it relies on signatures based on XML canonicalization, not XML byte stream. Which means you can exploit XML parser/encoder differences.
+
 - [The Difficulties of SAML Single Logout](https://wiki.shibboleth.net/confluence/display/CONCEPT/SLOIssues) - On the technical and UX issues of single logout implementations.
 
 ## Authorization
@@ -340,6 +346,8 @@ Collection of open-source projects if you're looking to roll your own policy imp
 - [Gubernator](https://github.com/mailgun/gubernator) - High performance rate-limiting micro-service and library.
 
 - [Biscuit](https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/) - Biscuit merge concepts from cookies, JWTs, macaroons and Open Policy Agent. “It provide a logic language based on Datalog to write authorization policies. It can store data, like JWT, or small conditions like Macaroons, but it is also able to represent more complex rules like role-based access control, delegation, hierarchies.”
+
+- [Oso](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
 
 ### AWS policy tools
 
@@ -634,10 +642,6 @@ As stakeholder of the IAM stack, you're going to implement in the backend the ma
 - [Remove password masking](http://passwordmasking.com) - Summarizes the results from an academic study investigating the impact removing password masking has on consumer trust.
 
 - [For anybody who thinks "I could build that in a weekend," this is how Slack decides to send a notification](https://twitter.com/ProductHunt/status/979912670970249221) - Notifications are hard. Really hard.
-
-## Commercial Solutions
-
-- [Rippling IDM](https://www.rippling.com/idm/) - Identity management, SSO.
 
 ## Competitive Analysis
 

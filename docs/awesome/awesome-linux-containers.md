@@ -141,6 +141,10 @@ Hypervisor-based (KVM, Xen, QEMU) Runtime for OCI. Security by isolation.
 Full management of container lifecycle.
 * [firecracker](https://github.com/firecracker-microvm/firecracker)  
 Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers.
+* [sysbox](https://github.com/nestybox/sysbox)  
+Sysbox is a "runc" that creates secure (rootless) containers / pods that run not just microservices, but most workloads that run in VMs (e.g., systemd, Docker, and Kubernetes), seamlessly.
+* [youki](https://github.com/containers/youki)  
+A container runtime written in Rust.
 
 ## Sandboxes
 
@@ -269,6 +273,7 @@ OCI hook to trace syscalls and generate a seccomp profile.
   - [Secure Your Containers with this One Weird Trick](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
 * [Why you shouldn't use ENV variables for secret data](https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/)
 * [When to use-Docker alternatives rkt and LXD](http://searchitoperations.techtarget.com/tip/When-to-use-Docker-alternatives-rkt-and-LXD)
+* [The container is a lie](https://platform.sh/blog/2020/the-container-is-a-lie/)
 
 ### Levels of security problems
 

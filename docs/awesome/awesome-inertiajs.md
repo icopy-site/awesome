@@ -113,6 +113,7 @@
 ### Other 
 
 - [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
+- [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - PhpStorm/Intellij Ultimate plugin for Inertia.js.
 
 <p align="center">
   <br />
