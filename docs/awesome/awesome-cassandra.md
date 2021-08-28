@@ -32,7 +32,7 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 #### Cassandra Compliant Databases on JVM
 
 <!-- double link - [Cassandra](http://cassandra.apache.org/) - The original gangster for Cassandra is of course Cassandra. Community supported. -->
-- [Datastax Enterprise](https://www.datastax.com/) - Most widely used commercial distribution of Cassandra, integrated with Apache Spark (for SparkSQL, analytics), Apache Solr (for secondary index), Apache TinkerPop based Graph stored in Cassandra, and OpsCenter.
+- [DataStax Enterprise](https://dtsx.io/3DkP5sN) - Most widely used commercial distribution of Cassandra, integrated with Apache Spark (for SparkSQL, analytics), Apache Solr (for secondary index), Apache TinkerPop based Graph stored in Cassandra, and OpsCenter.
 - [DDAC/Luna](https://luna.datastax.com/) - Datastax Distribution of Cassandra, a production ready distribution with a bulk loader supported by Datastax. DDAC is Deprecated now, but Datastax is still supporting Cassandra with it's new Luna Service.
 <!-- !double-link - [Elassandra](http://www.elassandra.io/) - Elassandra = Elasticsearch as a Cassandra secondary index. -->
 
@@ -43,7 +43,7 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 
 #### Cassandra as a Service / Managed Cassandra Based on Open Source Cassandra
 
-- [Datastax Astra](https://astra.datastax.com) - Datastax Astra Cassandra as a Service running on the Kubernetes operator Cassandra available on AWS and GCP.
+- [DataStax Astra](https://dtsx.io/38htEun) - DataStax Astra Cassandra as a Service running on the Kubernetes operator Cassandra available on AWS and GCP.
 - [Instaclustr Managed Cassandra as a Service](https://www.instaclustr.com/solutions/managed-apache-cassandra/) - Instaclustr provides a fully managed and SOC 2 certified hosted & managed service for Cassandra® on AWS, Azure, GCP and IBM Cloud.
 - [Aiven for Cassandra](https://aiven.io/cassandra/) - Aiven for Cassandra is a managed and hosted distributed NoSQL database providing scalability, high availability, and excellent fault tolerance. Cassandra as a Service is available on Google Cloud Platform, Amazon Web Services, Microsoft Azure, DigitalOcean, and UpCloud.
 - [Microsoft Azure Managed Instance for Cassandra](https://docs.microsoft.com/en-us/azure/managed-instance-apache-cassandra/) - Azure Managed Instance for Cassandra provides automated deployment and scaling operations for managed open-source Cassandra datacenters. It accelerates hybrid scenarios and reduces ongoing maintenance.
