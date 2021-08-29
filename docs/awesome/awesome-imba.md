@@ -37,7 +37,7 @@ Imba is a programming language inspired by Ruby and Python and compiles to perfo
 - [Parcel Plugin Imba](https://github.com/imba/parcel-plugin-imba) - [Parcel Bundler](https://parceljs.org/) plugin to enable 
 processing of Imba files.
 - [Material Imba](https://github.com/nathanjohnson320/material-imba) - Material Design components written in Imba.
-
+- [Imba Inertia Adapter](https://github.com/haikyuu/imba-inertia-adapter) - Imba [Inertia](https://inertiajs.com) adapter.
 
 #### Editor Plugins and IDEs
 
@@ -98,6 +98,7 @@ processing of Imba files.
 - [Snake Game](https://github.com/taw/imba-snake) - [view online](https://taw.github.io/imba-snake) - Snake game.
 - [Weather App](https://github.com/taw/imba-weather) - [view online](https://taw.github.io/imba-weather) - Weather app.
 - [Top Down Shooter](https://github.com/CassianoSF/imba-top-down-shooter) - [view online](https://cassianosf.github.io/imba-top-down-shooter/dist/index.html) - 2D zombie shooter game.
+- [Ping CRM](https://github.com/haikyuu/perfect-stack) - CRUD app with login, acccount, organizations and contacts management. Built with Inertia, Edgedb and Imba
 
 
 ## Contribution

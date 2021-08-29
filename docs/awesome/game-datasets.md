@@ -14,6 +14,7 @@ Any suggestions or doubts, please open an "issue". If you want to contribute, re
    
 ---
 
+- [:video_game: Awesome Game Datasets ![Awesome](https://awesome.re)](#video_game-awesome-game-datasets-)
 
 ---
 ## API
@@ -23,6 +24,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Battle.net](https://develop.battle.net/) - Collection of games developed by [Blizzard](https://www.blizzard.com).
 - [Battlefield 4 Stats](http://bf4stats.com/) - Stats, rankings, and progression of a player.
 - [BoardGameGeek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) - Board games data.
+- [Counter-Strike](https://github.com/pnxenopoulos/csgo) - data parsing for Counter-Strike: Global Offensive (CSGO).
 - [EVE Online](https://www.programmableweb.com/api/eve-online-crest-carbon-restful) - Science fiction massively multiplayer online game.
 - [Giant Bomb](https://www.giantbomb.com/api/) - Game data and players review.
 - [IGDB](https://www.igdb.com/api) - General information of games from any platform.
