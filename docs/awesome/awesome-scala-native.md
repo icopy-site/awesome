@@ -57,6 +57,7 @@
 * [GStreamer](https://github.com/jokade/scalanative-gstreamer) - Bindings for the [GStreamer](https://gstreamer.freedesktop.org) multimedia framework.
 * [Qt](https://github.com/jokade/scalanative-qt5) - Bindings for [Qt](https://www.qt.io).
 * [ncurses](https://github.com/edadma/ncurses) - Bindings for the [GNU Ncurses Library](https://www.gnu.org/software/ncurses/).
+* [readline](https://github.com/edadma/readline) - Bindings for the [GNU Readline Library](https://www.gnu.org/software/readline/).
 
 ## File Formats and Parsers
 * [msgpack4z](https://github.com/msgpack4z/msgpack4z-native) - Implementation of [MessagePack](https://msgpack.org/), a binary serialisation format.
