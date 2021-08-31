@@ -122,7 +122,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [thefuck](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 * [tldr](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
 * [tmux](https://tmux.github.io/) - Amazing terminal multiplexer
-* [topalias](https://github.com/CSRedRat/topalias) - bash/zsh aliases generator from command history with shell statistic
 * [undollar](https://github.com/xtyrrell/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
 * [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
 * [v](https://github.com/rupa/v) - z for vim.
@@ -194,6 +193,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [git-quick-stats](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
 * [git-semver](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
+* [gita](https://github.com/nosarthur/gita) - A command-line tool to manage multiple git repos.
 * [hub](https://github.com/github/hub) - hub helps you win at git.
 * [just](https://github.com/casey/just) - Task runner for saving and running project-specific commands.
 * [licins](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
@@ -258,6 +258,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
 * [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
 * [vesper](https://github.com/chris-rock/vesper) - 🍸Vesper is a HTTP framework for Bash/Unix Shell
+* [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 * [youtube-dl](https://yt-dl.org/) - Small command-line program to download videos from YouTube.com and other video sites
 
 ## Multimedia and File Formats
@@ -321,6 +322,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 * [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager
 * [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
+* [ticker](https://github.com/achannarasappa/ticker) — Terminal stock ticker with live updates and position tracking
 * [transfer.sh](https://transfer.sh/) — Quickly upload and share files from your shell
 * [vl](https://github.com/ellisonleao/vl) - URL link checker on text documents
 * [wego](https://github.com/schachmat/wego) - Weather app for the terminal
@@ -370,6 +372,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 * [bashwithnails](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
 * [bash-language-server](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
+* [bash-modules](https://github.com/vlisivka/bash-modules) - functions for developing with [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) enabled. 
 * [bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 * [crash](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
 * [critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
