@@ -33,7 +33,6 @@ nav:
       - Arch-based Projects: awesome/Awesome-Arch.md
     - macOS: awesome/awesome-macOS.md
     - macOS_sub: 
-      - Command-Line: awesome/awesome-macos-command-line.md
       - Screensavers: awesome/awesome-macos-screensavers.md
       - Apps: awesome/awesome-mac.md
       - Open Source Apps: awesome/open-source-mac-os-apps.md

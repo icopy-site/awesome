@@ -150,7 +150,6 @@
 	- [eBPF](awesome/awesome-ebpf.md) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
 	- [Arch-based Projects](awesome/Awesome-Arch.md) - Linux distributions and projects based on Arch Linux.
 - [macOS](awesome/awesome-macOS.md) - Operating system for Apple's Mac computers.
-	- [Command-Line](awesome/awesome-macos-command-line.md)
 	- [Screensavers](awesome/awesome-macos-screensavers.md)
 	- [Apps](awesome/awesome-mac.md)
 	- [Open Source Apps](awesome/open-source-mac-os-apps.md)

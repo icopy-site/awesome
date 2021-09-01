@@ -204,6 +204,8 @@ LogChimp allows you to track your customers feedback to build better products.
 - [What Makes a Great Product Manager](https://informedpm.com/posts/great-product-manager) - By [John Yeung](https://twitter.com/jhlyeung).
 - [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - By [Glenn Gillen](https://twitter.com/glenngillen).
 - [Persuasion for Product Managers](https://informedpm.com/posts/persuasion-product-manager) - By [John Yeung](https://twitter.com/jhlyeung).
+- [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/product-management-2/jobs-cat/remote-product-manager/) - By [Roy Cobby](https://twitter.com/roycobby).
+- [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - By [Christine Itwaru](https://twitter.com/christineitwaru).
 
 ## Books
 
@@ -244,6 +246,7 @@ LogChimp allows you to track your customers feedback to build better products.
 | <img alt="How I Built This" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-how-i-built.jpg" width="100px" />       | Guy Raz      | https://www.npr.org/podcasts/510313/how-i-built-this                      | Guy Raz dives into the stories behind some of the world’s best known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built. |
 | <img alt="The Pitch" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-pitch.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/the-pitch                                     | Where real entrepreneurs pitch to real investors—for real money. |
 | <img alt="ReWork" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-rework.png" width="100px" />                      | Multiple     | https://rework.fm/                                                        | A podcast by Basecamp about the better way to work and run your business. We bring you stories and unconventional wisdom from Basecamp’s co-founders and other business owners. |
+| <img alt="Art Of Product" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-art-of-product.jpg" width="100px" />      | Multiple     | https://artofproductpodcast.com/                                          | Chronicling the journeys of two entrepreneurs building software companies. |
 
 ## Communities
 
@@ -252,6 +255,7 @@ LogChimp allows you to track your customers feedback to build better products.
 - [The Product Coalition](https://productcoalition.com/) (_using [Slack](https://slack.com/)_)
 - [Product Collective](https://productcollective.com/) (_using [Slack](https://slack.com/)_)
 - [Ladder](https://ladder.to/)
+- [Product Circle](https://productcircle.to/)
 
 ## Conferences
 

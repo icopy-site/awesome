@@ -81,6 +81,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 - [County Health Rankings](https://www.countyhealthrankings.org/) - The annual Rankings provide a revealing snapshot of how health is influenced by where we live, learn, work, and play.
 - [HealthData.gov](https://healthdata.gov/) - This site is dedicated to making high value health data in the United States more accessible to entrepreneurs, researchers, and policy makers in the hopes of better health outcomes for all.  
+- [CDC Places](https://www.cdc.gov/places/index.html) - A CDC colloboration that allows local health departments and jurisdictions regardless of population size and urban-rural status to better understand the burden and geographic distribution of health-related outcomes in their areas and assist them in planning public health interventions.
 
 ### Historic Preservation
 
@@ -155,6 +156,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 - [WeJo](https://www.wejo.com/) - Wejo has made it simple and secure to share and access connected car data, on a global scale. This data can be used for everything from origin-destination analysis, safety & speed studies, and more. 
 - [StreetLight Data](https://www.streetlightdata.com/) - Provides data using smartphones as sensors to measure vehicles, bikes, and pedestrians across North America. Carry out your mission on time and under budget, with 24/7 access to counts, O-D, and other metrics you need.
 - [Strava](https://developers.strava.com/) - API for a popular tracking app for runners and cyclists. Data can be used to understand active transportation usage and patterns.
+- [Teralytics](https://www.teralytics.net/) - Provides data and insights on mobility patterns based on cellular trace data using a global network of telecom providers. 
 
 ## Planning Data Specifications
 A collection of urban planning related data specifications and standards for use as part of programs & projects.
