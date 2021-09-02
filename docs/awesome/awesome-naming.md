@@ -65,6 +65,11 @@ This is a curated list for when naming things is done right.
 - [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) - A tabular summary of a classifiers "confusion", i.e. how often it thought to make correct predictions when it actually didn't.
 - [Decision boundary](https://en.wikipedia.org/wiki/Decision_boundary) - A boundary dividing the space of possible data points. Here you decide, everything on this side is SPAM, everything on that side is not. 
 
+## Programming Languages
+
+- [Clojure](https://clojure.org/) - A functional language making extensive use of **closures** but with a **j** because it's running on the Java virtual machine.
+- [C++](https://en.wikipedia.org/wiki/C%2B%2B#External_links) - The successor of **C** indicated by the iconic increment operator **++**.
+
 ## User Interface Design
 
 - [Breadcrumb](https://en.wikipedia.org/wiki/Breadcrumb_(navigation)) - Navigational aid allowing users to keep track of their location within programs, documents, or websites. The term is a reference to the fairy tale _Hansel and Gretel_.

@@ -11,7 +11,6 @@ By definition, a product manager is an individual who drives the product vision 
 
 
 ## Tools
-
 ### OneNote
 
 Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals.
@@ -48,6 +47,19 @@ Kanban-style boards to manage work items. Integrates well with teams and other s
 | Cost      | Freemium (_$9.99/mo+ subscriptions available_) |
 | Platform  | macOS, Windows, iOS, Android, web              |
 | URL       | https://trello.com/                            |
+
+### Taiga
+
+Taiga is a project management tool for multi-functional agile teams. It has a rich feature set and at the same time it is very simple to start with through its intuitive user interface.
+
+![Switching zoom modes in Kanban section](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-taiga.gif)
+
+| Property  | Value                                                                                   |
+|-----------|-----------------------------------------------------------------------------------------|
+| Developer | [Kaleidos](https://kaleidos.net/)                                                       |
+| Cost      | Free (self-hosted) or [Freemium](https://www.taiga.io/)|
+| Platform  | macOS, Windows, iOS, Android, Web                                                       |
+| URL       | https://www.taiga.io/                                                                   |
 
 ### To-Do
 
@@ -206,6 +218,8 @@ LogChimp allows you to track your customers feedback to build better products.
 - [Persuasion for Product Managers](https://informedpm.com/posts/persuasion-product-manager) - By [John Yeung](https://twitter.com/jhlyeung).
 - [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/product-management-2/jobs-cat/remote-product-manager/) - By [Roy Cobby](https://twitter.com/roycobby).
 - [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - By [Christine Itwaru](https://twitter.com/christineitwaru).
+- [It’s Time to Fight for a Dual Product Management Career Path](https://newsletter.bringthedonuts.com/p/dual-product-management-career-path) - By [Ken Norton](https://twitter.com/kennethn).
+- [The Tools Don't Matter](https://newsletter.bringthedonuts.com/p/the-tools-dont-matter) - By [Ken Norton](https://twitter.com/kennethn).
 
 ## Books
 
@@ -235,6 +249,7 @@ LogChimp allows you to track your customers feedback to build better products.
 - [The Art of Doing Science and Engineering: Learning to Learn](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering) - By Richard W. Hamming.
 - [Shape Up](https://basecamp.com/shapeup/webbook) - By Ryan Singer.
 - [Outcomes over Output: Why Customer Behavior Is the Key Metric for Business Success](https://www.chapters.indigo.ca/en-ca/books/outcomes-over-output-why-customer/9781393721772-item.html) - By Joshua Seiden.
+- [Difficult Conversations](https://www.chapters.indigo.ca/en-ca/books/difficult-conversations-how-to-discuss/9780143118442-item.html) - By Douglas Stone.
 
 ## Podcasts
 

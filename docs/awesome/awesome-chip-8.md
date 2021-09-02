@@ -22,7 +22,7 @@ To add something to this list, please see the [contribution guidelines](https://
 
 ## Documentation
 
-* [Mastering CHIP-8](http://mattmik.com/files/chip8/mastering/chip8.html) - In-depth overview of the CHIP-8 instruction set.
+* [Mastering CHIP-8](https://github.com/mattmikolay/chip-8/wiki/Mastering-CHIP%E2%80%908) - In-depth overview of the CHIP-8 instruction set.
 * [CHIP-8 Instruction Set](http://johnearnest.github.io/Octo/docs/chip8ref.pdf) - Quick cheat sheet for CHIP-8 instructions.
 * [CHIP-8 Instruction Set](https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Instruction-Set) - A comprehensive instruction/opcode table.
 * [CHIP-8 Technical Reference](https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Technical-Reference) - Overview of how the CHIP-8 interpreter works.
