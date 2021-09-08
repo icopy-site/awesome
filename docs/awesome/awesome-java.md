@@ -311,6 +311,7 @@ _Libraries that assist with processing office document formats._
 
 _Libraries related to the financial domain._
 
+- [Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot) - Trading bot framework.
 - [Parity](https://github.com/paritytrading/parity) - Platform for trading venues.
 - [Philadelphia](https://github.com/paritytrading/philadelphia) - Low-latency financial information exchange.
 - [Square](https://github.com/square/connect-java-sdk) - Integration with the Square API.
@@ -519,6 +520,7 @@ _Tools that provide specific statistical algorithms for learning from data._
 - [DJL](https://djl.ai) - High-level and engine-agnostic framework for deep learning.
 - [H2O ![c]](https://www.h2o.ai) - Analytics engine for statistics over big data.
 - [JSAT](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution. (GPL-3.0-only)
+- [m2cgen](https://github.com/BayesWitnesses/m2cgen) - CLI tool to transpile models into native code.
 - [oj! Algorithms](https://www.ojalgo.org/) - High-performance mathematics, linear algebra and optimisation needed for data science, machine learning and scientific computing.
 - [Oryx 2](https://github.com/OryxProject/oryx) - Framework for building real-time, large-scale machine learning applications. Includes end-to-end applications for collaborative filtering, classification, regression, and clustering.
 - [Siddhi](https://github.com/siddhi-io/siddhi) - Cloud native streaming and complex event processing engine.
@@ -591,6 +593,7 @@ _Everything else._
 - [TypeTools](https://github.com/jhalterman/typetools) - Tools for resolving generic types.
 - [XMLBeam](https://github.com/SvenEwald/xmlbeam) - Processes XML by using annotations or XPath within code.
 - [yGuard](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
+- [JObfuscator![c]](https://www.pelock.com/products/jobfuscator) - Source code obfuscator.
 
 ### Mobile Development
 
@@ -967,6 +970,7 @@ _Libraries that provide custom matchers._
 
 _Other stuff related to testing._
 
+- [ConsoleCaptor](https://github.com/Hakky54/console-captor) - Captures console output for unit testing purposes.
 - [junit-dataprovider](https://github.com/TNG/junit-dataprovider) - TestNG-like data provider/runner for JUnit.
 - [LogCaptor](https://github.com/Hakky54/log-captor) - Captures log entries for unit testing purposes.
 - [Mutability Detector](https://github.com/MutabilityDetector/MutabilityDetector) - Reports whether instances of a given class are immutable.
@@ -1046,6 +1050,7 @@ _Frameworks that handle the communication between the layers of a web applicatio
 ### Workflow Orchestration Engines
 
 - [Cadence](https://cadenceworkflow.io) - Stateful code platform from Uber.
+- [flowable](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
 - [Temporal](https://temporal.io) - Microservice orchestration platform, forked from Cadence but gRPC based.
 
 ## Resources
