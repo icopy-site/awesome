@@ -59,6 +59,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 - [IRC](https://kiwiirc.com/client/irc.freenode.net/#eta-lang) - IRC channel.
 
 ## Twitter
+
 - [Eta](https://twitter.com/eta_lang) - Official Twitter account.
 - [TypeLead](https://twitter.com/typelead) - Company behind Eta.
 - [Rahul Muttineni](https://twitter.com/rahulmutt) - Creator of Eta and CTO of TypeLead.
