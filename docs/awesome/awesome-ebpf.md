@@ -162,6 +162,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 - [XDP for the Rest of Us](https://www.netdevconf.org/2.2/session.html?gospodarek-xdp-workshop) - Second edition, with new contents.
 - [Load XDP programs using the ip (iproute2) command](https://medium.com/@fntlnz/load-xdp-programs-using-the-ip-iproute2-command-502043898263)
 - [XDP Hands-On Tutorial](https://github.com/xdp-project/xdp-tutorial) - A progressive (three levels of difficulty) tutorial to learn how to process packets with XDP.
+- [All your tracing are belong to BPF](https://www.trailofbits.com/post/all-your-tracing-are-belong-to-bpf) - A step-by-step walkthrough to integrate tracing capabilities in your C++ applications with the LLVM libraries.
 
 ## Examples
 
@@ -271,6 +272,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 - [bpfd](https://github.com/genuinetools/bpfd) - Framework for running BPF programs with rules on Linux as a daemon. Container aware.
 - [BPFd](https://github.com/joelagnel/bpfd) - A distinct BPF daemon, trying to leverage the flexibility of the bcc tools to trace and debug remote targets, and in particular devices running with Android.
 - [adeb](https://github.com/joelagnel/adeb) - A Linux shell environment for using tracing tools on Android with BPFd.
+- [greggd](https://github.com/olcf/greggd) - System daemon to compile and load eBPF programs into the kernel, and forward program output to socket for metric aggregation.
 - [FUSE](https://events.linuxfoundation.org/wp-content/uploads/2017/11/When-eBPF-Meets-FUSE-Improving-Performance-of-User-File-Systems-Ashish-Bijlani-Georgia-Tech.pdf) - Considers using eBPF.
 - [DEEP-mon](https://www.slideshare.net/necstlab/deepmon-dynamic-and-energy-efficient-power-monitoring-for-containerbased-infrastructures) - Helps with measuring power consumption for servers and uses eBPF programs for in-kernel aggregation of data.
 - [upf-bpf](https://github.com/navarrothiago/upf-bpf) - An in-kernel solution based on XDP for 5G UPF.
