@@ -208,12 +208,19 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/turretcss/turretcss)
   | #CSS
 
-- [**Cirrus**](https://spiderpig86.github.io/Cirrus/) - Responsive and comprehensive CSS framework with beautiful controls and simplistic structure.  
+- [**Cirrus**](https://cirrus-ui.netlify.app/) - Component and utility centric SCSS framework designed for rapid prototyping.  
   ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social&label=Star)
-  [Demo](https://spiderpig86.github.io/Cirrus/#examples),
-  [Docs](https://spiderpig86.github.io/Cirrus/docs/),
+  [Demo](https://cirrus-ui.netlify.app/getting-started/examples),
+  [Docs](https://cirrus-ui.netlify.app/getting-started/setup),
   [Repo](https://github.com/Spiderpig86/Cirrus)
   | #CSS
+  
+- [**Pico.css**](https://picocss.com/) - Elegant styles for all native HTML elements, dark mode automatically enabled.  
+  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
+  [Demo](https://picocss.com/#examples),
+  [Docs](https://picocss.com/docs/),
+  [Repo](https://github.com/picocss/pico)
+  | #SCSS
 
 - [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.  
   ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social&label=Star)
