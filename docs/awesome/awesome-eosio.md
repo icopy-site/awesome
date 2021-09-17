@@ -220,6 +220,7 @@ All about development on EOSIO platform.
 
 ### Block Producer tools
 
+- [GoogleCloudPlatform/eos-block-producer](https://github.com/GoogleCloudPlatform/eos-block-producer) - Terraform module to create an EOS Block Producer (BP) node on Google Cloud Platform (GCP).
 - [Patroneos](https://github.com/EOSIO/patroneos) - RPC Checkpoint for EOSIO nodes.
 - [Cypherglass WINDSHIELD](https://github.com/cypherglassdotcom/windshield) - A dashboard tool for monitoring internal Block Producer infrastructure.
 - [pete001/eos-bp-failover](https://github.com/pete001/eos-bp-failover) - EOSIO Block Producer Failover Scripts.

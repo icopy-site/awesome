@@ -801,6 +801,7 @@
 - [Veganism](awesome/awesome-veganism.md) - Making the plant-based lifestyle easy and accessible.
 - [Translations](awesome/awesome-translations.md) - The transfer of the meaning of a text from one language to another.
 - [Scriptable](awesome/awesome-scriptable.md) - An iOS app for automations in JavaScript.
+- [WebXR](awesome/awesome-webxr.md) - Enables immersive virtual reality and augmented reality content on the web.
 
 ## Related
 

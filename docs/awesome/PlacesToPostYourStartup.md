@@ -36,8 +36,8 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * All Top Startups - http://alltopstartups.com/submit-startup/
 * Alternative To - http://alternativeto.net/
 * Alternative.me - https://alternative.me/
+* Alternative To (Github repo) - https://github.com/brentadamson/alternativeto
 * AngelList - https://angel.co/
-* App 400 - http://apps400.com/
 * App Advice - http://appadvice.com/page/about-us
 * App Rater - https://apprater.net/add/
 * Appcrawlr - http://appcrawlr.com/
@@ -74,6 +74,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Emoji Launch - https://emojilaunch.com/
 * F6S - http://www.f6s.com/
 * Feed My App - https://feedmyapp.com/submit/
+* Fiddy - https://fiddy.co
 * G2 Crowd - https://www.g2crowd.com/products/new
 * Geek Wire - http://geekwire.com/startup-list/
 * Get App - http://getapp.com/
@@ -82,7 +83,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Gust - https://www.gust.com
 * Haro - https://www.helpareporter.com/sources/
 * Hackerspad - https://hackerspad.net/submit-software/
-* Idea Hunt - http://ideahunt.io/
 * Inc 42 - https://inc42.com/startup-submission/
 * Index.co - https://index.co/startup
 * Indie Hackers - https://www.indiehackers.com/
@@ -105,6 +105,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Product Hunt - http://www.producthunt.com/
 * Programmable Web - https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
 * Project Hatch - https://www.projecthatch.co/your-story/
+* Projectium Network - https://projectium.network
 * PublicityX - https://www.publicityx.com/startups/new
 * Robingood - http://tools.robingood.com/
 * SaaSHub - https://www.saashub.com/
@@ -139,7 +140,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * StartupBlink - http://www.startupblink.com/
 * Startups List - https://www.startups-list.com/
 * State of Tech - http://stateoftech.net/advertise?submit-an-app-for-review
-* Stack Share - https://stackshare.io/ 
 * Tabscape - https://www.tapscape.com/
 * Tech Faster - http://techfaster.com/submit-your-company/
 * Tech Map - http://thetechmap.com/
