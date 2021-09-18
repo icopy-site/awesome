@@ -169,10 +169,16 @@
 
 *Projects at the intersection of WebXR and crypto/blockchain technologies.*
 
+### Galleries
+
 - [3XR](https://www.3xr.space/) - A project by [microchipgnu](https://github.com/microchipgnu) that has integrated with Mintbase to create virtual galleries for NFT artwork on NEAR.
-- [Cryptovoxels](https://www.cryptovoxels.com/) - A virtual world powered by Ethereum where players can buy land, build stores, display art, and more.
 - [glry.xyz](https://glry.xyz/) - A site that hosts virtual galleries for NFT art on the Tezos blockchain.
+- [oncyber](https://oncyber.io/) - Offers both free and collectible gallery spaces to display NFTs across multiple different chains.
 - [RareRooms](https://www.rarerooms.io/) - Allows you to create immersive NFT galleries with support for multiple different chains/marketplaces.
+
+### Realms
+
+- [Cryptovoxels](https://www.cryptovoxels.com/) - A virtual world powered by Ethereum where players can buy land, build stores, display art, and more.
 - [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
 - [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
 - [Webaverse](https://webaverse.com/) - An open-source virtual world powered by Ethereum with support for custom avatars. Focused on digital ownership, an open economy, and interoperability.

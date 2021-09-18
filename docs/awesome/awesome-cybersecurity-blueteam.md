@@ -177,6 +177,10 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 - [Dangerzone](https://dangerzone.rocks/) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF.
 - [Firejail](https://firejail.wordpress.com/) - SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
 
+## Identity and AuthN/AuthZ
+
+- [Gluu Server](https://gluu.org/) - Central authentication and authorization for Web and mobile applications with a Free and Open Source Software cloud-native community distribution.
+
 ## Incident Response tools
 
 See also [awesome-incident-response](https://github.com/meirwah/awesome-incident-response).
