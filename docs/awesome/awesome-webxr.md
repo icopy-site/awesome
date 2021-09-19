@@ -16,6 +16,7 @@
 - [Hello WebXR](https://mixedreality.mozilla.org/hello-webxr/) - Made to commemorate the release of the WebXR 1.0 API, showcases some of what's possible with WebXR.
 - [Moonrider](https://moonrider.xyz/) - A rhythm game built by Supermedium similar to Beat Saber.
 - [Dudes!](https://dudes.gatunes.com/) - A 3D voxel engine built by [Daniel Esteban](https://github.com/danielesteban). Features WebXR support, physics, pathfinding, a multiplayer-enabled VR sculpting mode, and more.
+- [Plockle](https://plockle.com/) - A spatial block puzzle game with over 40 levels. 
 
 ## Art
 
