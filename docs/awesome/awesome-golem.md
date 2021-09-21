@@ -63,6 +63,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Golem Geomandel](https://github.com/Edhendil/golem-geomandel) - Python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image.
 - [Golem COVID](https://github.com/iRhonin/golem-covid) - Creates images of new deaths per million related to COVID. After all images generated, it will gather them and create a gif.
 - [Golem Parallel Matplotlib](https://github.com/CoeJoder/golem-parallel-matplotlib) - Various statistical analyses are performed on circadian rhythm measurements in human test subjects.
+- [Full-Text Search Engine](https://github.com/niklr/golem-fulltext-search) - A search engine service that goes through text files.
 
 ### Data Simulation
 
