@@ -70,6 +70,7 @@ nav:
     - Deno: awesome/awesome-deno.md
     - DOS: awesome/awesome-dos.md
     - Nix: awesome/awesome-nix.md
+    - Integration: awesome/components.md
   - Programming Languages:
     - JavaScript: awesome/awesome-javascript.md
     - JavaScript_sub: 

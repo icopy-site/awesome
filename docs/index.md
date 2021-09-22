@@ -186,6 +186,7 @@
 - [Deno](awesome/awesome-deno.md) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
 - [DOS](awesome/awesome-dos.md) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 - [Nix](awesome/awesome-nix.md) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+- [Integration](awesome/awesome-integration.md) - Linking together different IT systems (components) to functionally cooperate as a whole.
 
 ## Programming Languages
 
