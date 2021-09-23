@@ -65,9 +65,16 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Lit and VSCode Extensions](https://rodydavis.com/posts/lit-vscode-extension/)
 - [Lit Sheet Music](https://rodydavis.com/posts/lit-sheet-music/)
 - [Navigation Lifecycle using Vaadin Router, LitElement and TypeScript](https://labs.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript)
-- [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element)
 - [Recreating The Arduino Pushbutton Using SVG And &lt;lit-element&gt;](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
 - [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
+
+## Examples
+
+- [Lit Native](https://github.com/rodydavis/lit-native) - Reuse Lit web components on native platforms.
+- [Lit Node Editor](https://github.com/rodydavis/lit-node-editor) - Node editor built with canvas API and simple graph data structure.
+- [Lit 3D Piano](https://github.com/rodydavis/lit-3d-piano/) - 3D Piano built with Lit, Three.js and Tone.js.
+- [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element) - Code examples of common patterns using Lit.
+- [Vite + RxDB + Lit](https://github.com/rodydavis/vite-rxdb-lit) - Minimal example to get RxDB running with Vite.
 
 ## Lit Labs
 
@@ -139,13 +146,15 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`<burgton-button>`](https://github.com/boguz/burgton-button) - Simple to use, customizable and accessible burger-button element.
 - [`<code-block>`](https://github.com/justinribeiro/code-block) - Web component that displays colorfully formatted code with Prism.js and LitElement.
 - [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) - Custom Element that shows a CodeSandbox demo when you click on it.
-- [`<dile-modal>`](https://github.com/Polydile/dile-modal) - Web Component to implement a modal box, based on LitElement.
-- [`<erd-editor>`](https://github.com/vuerd/vuerd) - ERD Editor element database modeling tool built with LitElement
 - [`<granite-qrcode-generator>`](https://github.com/LostInBrittany/granite-qrcode-generator) - Custom element to generate and render QR Codes, using qr.js library.
+- [`<helium-animated-pages>`](https://github.com/alangdm/helium-animated-pages) - Web component for creating CSS animations built with Lit.
+- [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - Web Component to visualize JSON data in a tree view.
+- [`<light-gallery>`](https://github.com/sachinchoolur/lightGallery/tree/master/lightgallery-lit) - Full featured JavaScript image and video gallery for Lit.
 - [`<lit-datatable>`](https://github.com/DoubleTrade/lit-datatable) - Material Design implementation of a data table, powered by LitElement.
 - [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) - Web Component for easily embedding and playing Lottie animations.
 - [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) - A web component for rendering interactive 3D models.
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.
+- [`<round-slider>`](https://github.com/thomasloven/round-slider) - Simple round slider web component built with Lit.
 - [`<stl-part-viewer>`](https://github.com/justinribeiro/stl-part-viewer) - LitElement web component that utilizes Three.js to display an STL model file.
 
 ## Tools
@@ -196,7 +205,12 @@ The following content delivery networks provide ES module versions of Lit:
 - [Skypack CDN](https://cdn.skypack.dev/lit)
 - [unpkg.com](https://unpkg.com/lit?module)
 
-See [this issue](https://github.com/lit/lit-element/issues/603) where the static build for CDN distribution is discussed.
+See [this issue](https://github.com/lit/lit/issues/1257) where the static build for CDN distribution is discussed.
+
+## Integrations
+
+- [Fable.Lit](https://github.com/fable-compiler/Fable.Lit) - Collection of tools to embed HTML code into F# code with the power of Lit.
+- [Ruby2JS](https://github.com/ruby2js/ruby2js) - Minimal yet extensible Ruby to JavaScript conversion.
 
 ## Videos
 

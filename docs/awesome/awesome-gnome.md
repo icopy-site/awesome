@@ -96,6 +96,7 @@
 - [HydraPaper](https://gitlab.com/gabmus/HydraPaper) - Set a different background for each monitor.
 - [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
 - [Unifydmin](https://gitlab.com/gabmus/unifydmin) - Unified administration panel for heterogeneous Linux servers.
+- [Dynamic Gnome Wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 
 ### Utilities
 
@@ -122,7 +123,7 @@
 - [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Official IDE for creating GNOME applications. ![GNOME Core][GNOME Core]
 - [Gaphor](https://gaphor.org) - The simple modeling tool for UML and SysML. ![GNOME Circle][GNOME Circle]
 - [Webfont Kit Generator](https://github.com/rafaelmardojai/WebfontKitGenerator) - Create @font-face kits easily. ![GNOME Circle][GNOME Circle]
-- [GNOMIT](https://source.ind.ie/gnome/gnomit) - Simple Git commit message editor.
+- [Commit](https://apps.gnome.org/app/re.sonny.Commit/) - Commit message editor. ![GNOME Circle][GNOME Circle]
 
 #### Design Tooling
 
