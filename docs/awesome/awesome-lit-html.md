@@ -43,6 +43,8 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [pwa-starter](https://github.com/pwa-builder/pwa-starter) - LitElement edition of the PWABuilder pwa-starter.
 - [pwa-lit-template](https://github.com/IBM/pwa-lit-template) - Build Progressive Web Applications following the modern web standards.
 - [Vite Lit Element TS SASS](https://github.com/e111077/vite-lit-element-ts-sass) - Example Vite project using Lit 2, Typescript, and SASS.
+- [Vite Lit Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) - Lit based template preset for Vite.
+- [Vite Lit TS Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) - Lit and TypeScript based template preset for Vite.
 
 ## Codelabs
 
@@ -95,6 +97,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 - [`@adobe/lit-mobx`](https://www.npmjs.com/package/@adobe/lit-mobx) - Mixin and base class for using mobx with Lit.
 - [`@apollo-elements/lit-apollo`](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - LitElement integrations with Apollo GraphQL.
+- [`@stefanholzapfel/lit-state`](https://www.npmjs.com/package/@stefanholzapfel/lit-state) - Lightweight reactive state management for Lit 2.
 - [`@vaadin/form`](https://www.npmjs.com/package/@vaadin/form) - Set of utilities for building forms with TypeScript and Lit.
 - [`dark-theme-utils`](https://www.npmjs.com/package/dark-theme-utils) - Useful utilities for dark mode built with Web Components.
 - [`exome`](https://www.npmjs.com/package/exome) - State manager for deeply nested states that supports Lit.
@@ -116,6 +119,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Lion](https://github.com/ing-bank/lion) - Highly performant, accessible and flexible Web Components.
 - [Material Web Components](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
 - [Momentum UI Web Components](https://github.com/momentum-design/momentum-ui/tree/master/web-components=) - Set of UI components based on Momentum Design.
+- [Outline Design System](https://github.com/phase2/outline) - Web component based design system starter kit.
 - [Pharos Design System](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
 - [Shoelace](https://github.com/shoelace-style/shoelace) - Collection of professionally designed UI components built on a framework-agnostic technology.
 - [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with LitElement.
@@ -217,6 +221,7 @@ See [this issue](https://github.com/lit/lit/issues/1257) where the static build 
 
 ## Integrations
 
+- [Bridgetown Lit Renderer](https://github.com/bridgetownrb/bridgetown-lit-renderer) - SSR + hydration of Lit components for Bridgetown.
 - [Fable.Lit](https://github.com/fable-compiler/Fable.Lit) - Collection of tools to embed HTML code into F# code with the power of Lit.
 - [Ruby2JS](https://github.com/ruby2js/ruby2js) - Minimal yet extensible Ruby to JavaScript conversion.
 

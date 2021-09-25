@@ -14,7 +14,6 @@ A curated list of awesome [Site Reliability](https://www.usenix.org/conference/s
 Please take a look at the [contribution guidelines](https://github.com/dastergon/awesome-sre/blob/master/CONTRIBUTING.md) first.
 Contributions are always welcome!
 
-- [Awesome Site Reliability Engineering  ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-site-reliability-engineering--)
 
 ## Culture
 * [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
