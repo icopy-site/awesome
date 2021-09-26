@@ -24,6 +24,7 @@ The definition of developer-first for this repo is:
 * [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
 * [Segment](https://segment.com/) - Collect user data and send it to your other tools.
 * [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
+* [Pirsch](https://pirsch.io/) - Privacy-friendly web analytics with a backend integration and API.
 
 ## Authentication & Identity
 *Products that handle authentication and user identity for you.*
@@ -33,7 +34,7 @@ The definition of developer-first for this repo is:
 * [LoginRadius](https://www.loginradius.com/) - Managed user authentication service with SSO.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 * [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
-* [Oso](https://www.osohq.com/) - Authorization framework (RBAC)
+* [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 
 ## CI/CD
 *Continious Integration/Delivery.*
