@@ -281,7 +281,7 @@ How to get newcomers up to speed with the rest of the team you manage. And how t
 
 - Reflecting on the postulates above, [Bryan Cantrill defines that the role of management](https://twitter.com/bcantrill/status/1216491615264489473?s=20) “is in constructing that environment, not micromanaging it. If engineering performance is suffering, it's (likely) a management problem: wrong problem, wrong mission, or wrong team -- or all three.”
 
-- [What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/) - “1. Autonomy for software engineers; 2. Curious problem solvers, not mindless resources; 3. Internal data, code, and documentation transparency; 4. Exposure to the business and to business metrics; 5. Engineer-to-engineer comms over triangle-communication; 6. Investing in a less frustrating developer experience; 7. Higher leverage --> higher {autonomy, pay}”.
+- [What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/) - “1. Autonomy for software engineers; 2. Curious problem solvers, not mindless resources; 3. Internal data, code, and documentation transparency; 4. Exposure to the business and to business metrics; 5. Engineer-to-engineer comms over triangle-communication; 6. Investing in a less frustrating developer experience; 7. Higher leverage --\> higher {autonomy, pay}”.
 
 - [Some reasons why enterprise software is good and maybe even fun](https://news.ycombinator.com/item?id=21231455) - The majority of us will not build the next unicorn: we statically have a better chance to build enterprise software. The twist? It might even be more interesting than you expect.
 
@@ -437,7 +437,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [I try to optimize my code around reducing state, coupling, complexity and code, in that order](https://news.ycombinator.com/item?id=11042400) - An engineer's perspective on which priorities should be addressed first to increase robustness of systems.
 
-- [SpaceX’s 5-Step design and manufacturing process](https://twitter.com/TrungTPhan/status/1425476793327259651) - “1. Make requirement less dumb; 2. Try to delete parts; 3. Simplify or optimize; 4. Accelerate cycle time; 5. Automate”.
+- [SpaceX's 5-Step design and manufacturing process](https://www.youtube.com/watch?v=t705r8ICkRw&t=13m30s) - “1. Make requirement less dumb; 2. Try to delete parts; 3. Simplify or optimize; 4. Accelerate cycle time; 5. Automate”. See [full transcript](https://news.ycombinator.com/item?id=28517976).
 
 ### Technology
 
@@ -911,12 +911,11 @@ At a company level, re-orgs are mostly strategic and your influence on them depe
 
 ### Team-level
 
-- [Why it’s difficult to build teams in high growth organisations](https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337) - Describes 3 different approach a manager can take to accomodate new people in the team: 1. Sink or Swim; 2. Split and Absorb; 3. Absorb and Split.
+- [Why it's difficult to build teams in high growth organisations](https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337) - Describes 3 different approach a manager can take to accommodate new people in the team: 1. Sink or Swim; 2. Split and Absorb; 3. Absorb and Split.
 
 - [Teams are like bread](https://blog.jessitron.com/2019/06/15/teams-are-like-bread/) - Resonates with the *Absorb and Split* strategy discussed above: “if you have one team where the magic is flourishing, don't kill it. Feed it, grow it, and let it be a source of further strong teams. No rushing.”
 
-- [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) - Story of a manager trying to distill the concepts of a data-driven company while growing a tiny team of 3 people.
-Each step covers the evolution of the technical pipeline and interactions with existing stakeholders.
+- [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) - Story of a manager trying to distill the concepts of a data-driven company while growing a tiny team of 3 people. Each step covers the evolution of the technical pipeline and interactions with existing stakeholders.
 
 - [If I Close My Data Centers, What About the People/Jobs Lost?](https://news.ycombinator.com/item?id=17329028) - F50's data centers being migrated to commercial cloud provider. But what about the people currently doing legacy stuff? The answer: retrain.
 
@@ -940,7 +939,7 @@ Each step covers the evolution of the technical pipeline and interactions with e
 
 ### Acquisition
 
-A special case of re-org, that might take the form of inclusion, absorbtion or dissolution of the aquired company.
+A special case of re-org, that might take the form of inclusion, absorbtion or dissolution of the acquired company.
 
 - [How the Digg team was acquihired](https://lethain.com/digg-acquihire/) - Acqui-hire of a whole team can be seen as a type of reorg. In which managers will have to negotiate the new employment contracts in bulk in one or two days: “Because acquihires are “star” oriented, if you're a senior leaders who doesn't explicitly refuse to move forward, pressure will converge on you from all sides”.
 

@@ -715,7 +715,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [afs](https://github.com/viant/afs) - Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go.
 * [baraka](https://github.com/xis/baraka) - A library to process http file uploads easily.
 * [bigfile](https://github.com/bigfile/bigfile) - A file transfer system, support to manage files with http api, rpc call and ftp client.
-* [checksum](https://github.com/codingsince1985/checksum) - Compute message digest, like MD5 and SHA256, for large files.
+* [checksum](https://github.com/codingsince1985/checksum) - Compute message digest, like MD5, SHA256, SHA1 or CRC, for large files.
 * [copy](https://github.com/otiai10/copy) - Copy directory recursively.
 * [flop](https://github.com/homedepot/flop) - File operations library which aims to mirror feature parity with [GNU cp](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html).
 * [gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface
@@ -1280,6 +1280,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [go-formatter](https://gitlab.com/tymonx/go-formatter) - Implements **replacement fields** surrounded by curly braces `{}` format strings.
 * [gobeam/Stringy](https://github.com/gobeam/Stringy) - String manipulation library to convert string to camel case, snake case, kebab case / slugify etc.
 * [strutil](https://github.com/ozgio/strutil) - String utilities.
+* [sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string.
 * [xstrings](https://github.com/huandu/xstrings) - Collection of useful string functions ported from other languages.
 
 
@@ -2734,6 +2735,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [Golang Sydney, AU](https://www.meetup.com/golang-syd/)
 * [Golang São Paulo - Brazil](https://www.meetup.com/golangbr/)
 * [Golang Taipei](https://www.meetup.com/golang-taipei-meetup/)
+* [Golang Thessaloniki](https://www.meetup.com/thessaloniki-golang-meetup/)
 * [Golang Turkey](https://kommunity.com/goturkiye)
 * [Golang Vancouver, BC](https://www.meetup.com/golangvan/)
 * [Golang Vienna, Austria](https://www.meetup.com/viennago/)

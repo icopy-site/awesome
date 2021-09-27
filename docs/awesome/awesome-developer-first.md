@@ -3,7 +3,7 @@
 ## Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-A curated list of awesome developer-first tools, products and resources.  
+A curated list of awesome developer-first tools and products.
 
 The definition of developer-first for this repo is:
 * Developers are the target audience.
@@ -131,6 +131,7 @@ The definition of developer-first for this repo is:
 * [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
 * [Mux](https://mux.com/) - APIs to upload, manage, and stream video.
 * [Pintura](https://pqina.nl/pintura) - A fully configurable JavaScript image editor SDK.
+* [APITemplate.io](https://apitemplate.io/) - APIs to generate images and PDFs from reusable templates.
 
 ## Messaging
 *Messaging APIs - SMS, notifications, chats, and VoIP.*
@@ -167,6 +168,11 @@ The definition of developer-first for this repo is:
 *Repository and artifacts management.*
 * [Artifactory](https://jfrog.com/artifactory/) - Create your own package repository.
 * [cloudsmith](https://cloudsmith.com/) - Cloud-native private package management.
+
+## Reports Generation
+*Generating reports, mainly PDFs*
+* [PDFBlade](https://pdfblade.com/#pricing) - HTML to PDF API usage based pricing.
+* [Carbone](https://carbone.io/) - JSON into PDF, DOCX, XLSX, PPTX, ODS... API.
 
 ## Scraping
 *Fetching data from websites not via an intended API.*
