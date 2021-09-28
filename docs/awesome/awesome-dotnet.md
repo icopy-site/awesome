@@ -57,6 +57,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Mono](https://github.com/mono/mono) - Open source ECMA CLI, C#, F#, VB and .NET implementation
 * [Mono-Addins](https://github.com/mono/mono-addins) - Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications
 * [peasy](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
+* [Plastic](https://github.com/sang-hyeon/Plastic) - Plastic provides encapsulation of things like Domain, Application Rules, Business Rules or Business Logic in Application. For this, Command pattern is used.
 * [Spring.Net](https://github.com/spring-projects/spring-net) - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
 * [DotNetty](https://github.com/Azure/DotNetty) - DotNetty is a port of Netty, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
 * [AspectCore Framework](https://github.com/dotnetcore/AspectCore-Framework) - AspectCore Framework is an Aspect-Oriented Programming based cross platform framework for .NET Core and .NET Framework. Core support for aspect-interceptor,dependency injection integration , web applications , data validation , and more.
@@ -158,6 +159,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Calendar
 
 * [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
+
+## Chat
+
+* [Stream](https://github.com/GetStream/stream-chat-net) Official .NET API client for Stream Chat, a service for building chat applications.
 
 ## CLI
 
@@ -430,6 +435,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [OpenTK](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
 * [NGraphics](https://github.com/praeclarum/NGraphics) - NGraphics is a cross-platform library for rendering vector graphics on .NET
 * [Aspose.Drawing](https://products.aspose.com/drawing/net) - Fully managed, cross-platform, complete 2D graphic library for drawing text, geometries, and images, with System.Drawing compatible API. **[$]**
+* [ScottPlot](https://swharden.com/scottplot/) - A plotting library to interactively displays large datasets. Line plots, bar charts, pie graphs, scatter plots, and more. It supports WinForms, WPF, Avalonia, Console.
 * [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps, and gauges for .Net. LiveCharts2 supports WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
 * [Helix Toolkit](https://www.helix-toolkit.org) - Helix Toolkit is a collection of 3D components for .NET
 * [AssimpNet](https://bitbucket.org/Starnick/assimpnet) - A cross-platform .NET Standard wrapper for the Open Asset Importer ("Assimp"). The library enables importing, processing, and exporting of 3D models for rendering in graphics/game applications. Over 40 formats are supported for importing (e.g. OBJ, FBX, GLTF, 3DS, Collada) and a subset of those formats can be exported to (e.g. OBJ, GLTF, 3DS, Collada). Mesh processing features allow for mesh data to be generated or optimized for real-time rendering.

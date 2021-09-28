@@ -48,21 +48,22 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/) - _OWASP_ - A framework of security requirements and controls to help developers design and develop secure web applications.
 - [Coding Standards](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards) - _CERT_ - A collection of secure development standards for C, C++, Java and Android development.
+- [Fundamental Practices for Secure Software Development](https://safecode.org/wp-content/uploads/2018/03/SAFECode_Fundamental_Practices_for_Secure_Software_Development_March_2018.pdf) - _SAFECode_ - Guidelines for implementing key secure development practices throughout the SDLC.
 - [Proactive Controls](https://owasp.org/www-project-proactive-controls/) - _OWASP_ - OWASP's list of top ten controls that should be implemented in every software development project.
 - [Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines) - _Mozilla_ - A guideline containing specific secure development standards for secure web application development.
 - [Secure Coding Practices Quick Reference Guide](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf) - _OWASP_ - A checklist to verify that secure development standards have been followed.
 
 ### Secure Development Lifecycle Framework
 
-- [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) - _Synopsys) - A framework for software security created by observing and analysing data from leading software security initiatives.
+- [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) - _Synopsys_ - A framework for software security created by observing and analysing data from leading software security initiatives.
 - [Secure Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - _Microsoft_ - A collection of tools and practices that serve as a framework for the secure development lifecycle.
 - [Secure Software Development Framework](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - _NIST_ - A framework consisting of practices, tasks and implementation examples for a secure development lifecycle.
 - [Software Assurance Maturity Model](https://github.com/OWASP/samm) - _OWASP_ - A framework to measure and improve the maturity of the secure development lifecycle.
 
 ### Toolchains
 
+- [Cloud Security and DevSecOps Best Practices _and_ Securing Web Application Technologies (SWAT) Checklist](https://www.sans.org/posters/cloud-security-devsecops-best-practices/) - _SANS_ - A poster containing the Securing Web Application Technologies (SWAT) Checklist, SANS Cloud Security Curriculum, Cloud Security Top 10, Top 12 Kubernetes Threats, and Secure DevOps Toolchain.
 - [Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/) - _XebiaLabs_ - A collection of DevSecOps tooling categorised by tool functionality.
-- [Secure DevOps Toolchain](https://www.sans.org/security-resources/posters/secure-devops-toolchain-swat-checklist/60/download) - _SANS_ - A list of security specific practices and tooling categorised into pipeline phases and tool functionality.
 
 ### Training
 
@@ -81,6 +82,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Wikis
 
 - [DevSecOps Hub](https://snyk.io/devsecops/) - _Snyk_ - Introduction to key DevSecOps concepts, processes and technologies.
+- [SecureFlag Knowledge Base](https://knowledge-base.secureflag.com/) - _OWASP_ - A repository of information about software vulnerabilities and how to prevent them.
 
 ## Tools
 

@@ -20,6 +20,12 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Twitter](https://twitter.com/golemproject) - The Golem Project Twitter.
 - [Blog](http://blog.golemproject.net/) - The official blog where you can find the most reliable information on announcements, summaries and updates.
 
+## Thorg
+
+- [About Thorg](https://www.thorg.io/about) - Learn what the Thorg miner does.
+- [Thorg Usage](https://www.thorg.io/usage) - Understand the depths of Thorg.
+- [Twitter](https://twitter.com/minewiththorg) - The official Twitter of Thorg.
+
 ## Network Statistics
 
 - [Golem Network Stats](https://stats.golem.network) - Statistics tracking tasks and provider resource utilization in the Golem Network.

@@ -728,6 +728,7 @@
 - [XIV ToDo](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 - [QuickTok](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
 - [Interface X](https://github.com/empathyco/x) - UI Search&Discovery components to rapidly build beautiful search experiences
+- [Context Note](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
 
 ### Commercial Products
 
@@ -2942,6 +2943,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-live](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live.
 - [vue-safe-html](https://github.com/ecosia/vue-safe-html) - Vue.js directive which renders sanitised HTML dynamically.
 - [v-fetch](https://github.com/shaynekasai/v-fetch) - Vue.js directive to make AJAX requests.
+- [vue-use-model-helpers](https://github.com/sergiocarracedo/vue-use-model-helpers) - Helper to map properties to local Ref using Composition API for Vue 2.x and 3
 
 #### Web Workers
 
