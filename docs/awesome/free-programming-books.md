@@ -28,7 +28,9 @@ Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-b
 
 ### Books
 
-[English](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md)
+[English, By Programming Language](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-langs.md)
+[English, By Subject](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md)
+
 
 #### Other Languages
 
