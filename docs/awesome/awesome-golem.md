@@ -60,6 +60,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 ### CLI Tools
 
+- [Golem Completion Engine](https://github.com/krunch3r76/gc__enhanced_completion) - Enhanced bash completion engine that extends built-in completions by providing contextual help for golemsp and yagna.
 - [Golocity](https://github.com/davidstyers/golocity) - Build and deploy your dockerized applications on the Golem Network in just two commands.
 
 ### Data Analysis
