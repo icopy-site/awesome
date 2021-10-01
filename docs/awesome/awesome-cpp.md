@@ -230,6 +230,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Configuration
 *Configuration files, INI files*
 
+* [inifile-cpp](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++. [MIT]
 * [inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. [BSD-3-Clause]
 * [inih](https://github.com/jtilly/inih) - Single header only C++ version of [inih](https://github.com/benhoyt/inih). [BSD-3-Clause]
 * [iniparser](https://github.com/ndevilla/iniparser) - INI file parser. [MIT]
@@ -948,6 +949,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Try It Online](https://tio.run/) - TIO is a family of online interpreters for an evergrowing list of practical and recreational programming languages.
 * [Wandbox](http://melpon.org/wandbox/) - An online Clang/GCC compiler with Boost available.
 * [paiza.io](https://paiza.io/en) - An online C/C++ compiler with multiple files supporting feature, Github(gist) integration and collaborative editing.
+* [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/) - A simple and easy to use online C++ compiler.
 
 ## Debugger
 *List of C or C++ debuggers*

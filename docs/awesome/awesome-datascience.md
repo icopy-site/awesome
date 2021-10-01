@@ -56,17 +56,26 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - AdaBoost
 
 ### Unsupervised Learning
-
 - Clustering
   - Hierchical clustering
   - k-means
   - Fuzzy clustering
   - Mixture models
+- Dimension Reduction
+  - Principal Component Analysis (PCA)
+  - t-SNE
 - Neural Networks
 - Self-organizing map
 - Adaptive resonance theory
 
 ### Semi-Supervised Learning
+
+- S3VM
+- Clustering 
+- Generative models
+- Low-density separation
+- Laplacian regularization
+- Heuristic approaches
 
 ### Reinforcement Learning
 
@@ -86,6 +95,15 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - kNN
 - Naive Bayes
 - CART
+
+### Deep Learning architectures
+
+- Multilayer Perceptron
+- Convolutional Neural Network (CNN)
+- Recurrent Neural Network (RNN)
+- Boltzmann Machines
+- Autoencoder
+- Generative Adversarial Network (GAN)
 
 ## COLLEGES
 
@@ -457,7 +475,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Effective Data Science Infrastructure](https://www.manning.com/books/effective-data-science-infrastructure)
 - [Practical MLOps: How to Get Ready for Production Models](https://valohai.com/mlops-ebook/)
 - [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
-
+- [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 
 
 ## Socialize
