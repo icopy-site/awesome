@@ -102,14 +102,6 @@ Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock)
 
-### Flip Clock Screensaver
-
-> A flip clock screensaver that can automatically dim the screen.
-
-Free
-
-[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/FlipClockScreensaver.jpg)](https://www.smart-app.dev/downloads/downloads.html#)
-
 ## Apple Inspired
 
 ### Aerial

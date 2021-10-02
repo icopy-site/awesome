@@ -716,7 +716,7 @@ $ git push production master
 ![68747470733a2f2f7261772e6769746875622e636f6d2f6b34727468696b2f6769742d63616c2f6d61737465722f73637265656e73686f74732f696d67322e706e67](https://cloud.githubusercontent.com/assets/6316590/12465623/17d828ea-c023-11e5-8077-2e9a284defd6.png)
 
 
-## [git-hooks](https://github.com/icefox/git-hooks)
+## [git-hooks](https://github.com/git-hooks/git-hooks)
 
 ```
 $ git hooks --install
@@ -1821,6 +1821,63 @@ TBD - PR Welcome!
 
 TBD - PR Welcome!
 
+## [git-jump](https://github.com/mykolaharmash/git-jump)
+
+Interactive UI and fuzzy-search for Git branches.
+
+![git-jump interface demo](https://raw.githubusercontent.com/mykolaharmash/git-jump/main/img/demo.gif)
+
+## [git-project](https://github.com/mms-gianni/git-projecto)
+```
+git project open shoppinglist
+```
+```
+git project add shoppinglist milk
+```
+```
+$ git project board
+
+ Project: shoppinglist 
++-----------+------+
+|   OPEN    | DONE |
++-----------+------+
+| something | love |
++-----------+------+
+| coffee    |      |
++-----------+      +
+| sugar     |      |
++-----------+      +
+| milk      |      |
++-----------+------+
+```
+
+```
+$ git project status
+
+Project: shoppinglist
+  0|  ⭐  something
+  1|  ⭐  coffee
+  2|  ⭐  sugar
+  3|  ⭐  milk
+  4|  ✅  love
+```
+
+## [git-branchcut](https://github.com/dlsrb6342/git-branchcut)
+### Delete branches with string pattern 
+```
+$ git branchcut execute -p "feature/*"
+Switched to branch 'main'
+Deleted branch feature/test (was 257725f).
+Deleted branch feature/impl (was 8120c0b).
+```
+
+### Delete branches with day-offset
+```
+$ git branchcut execute -o 7
+Switched to branch 'main'
+Deleted branch bugfix/test (was e2afad6).
+Deleted branch too-old-branch (was 1d3f82d).
+```
 
 ## License
 
