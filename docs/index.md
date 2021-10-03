@@ -320,7 +320,6 @@
 - [Progressive Web Apps](awesome/awesome-progressive-web-apps.md)
 - [choo](awesome/awesome-choo.md) - App framework.
 - [Redux](awesome/awesome-redux.md) - State container for JavaScript apps.
-- [webpack](awesome/awesome-webpack.md) - Module bundler.
 - [Browserify](awesome/awesome-browserify.md) - Module bundler.
 - [Sass](awesome/awesome-sass.md) - CSS preprocessor.
 - [Ant Design](awesome/awesome-ant-design.md) - Enterprise-class UI design language.
