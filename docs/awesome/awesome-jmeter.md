@@ -83,6 +83,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Performance testing framework](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 - [JMeter Load Testing Center](https://github.com/innogames/ltc) - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 - [MeterSphere](https://github.com/metersphere/metersphere/blob/master/README-EN.md) - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
+- [Carrier](https://getcarrier.io/) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
 
 ### Conversion
 
@@ -275,7 +276,6 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [Intellij IDEA IDE Plugin](https://plugins.jetbrains.com/plugin/7013-jmeter-plugin) - Create run configurations and run JMeter tests from Intellij IDEA.
 - [JMeter + Eclipse HOWTO](https://cwiki.apache.org/confluence/display/jmeter/JMeterAndEclipseHowTo) - Develop the JMeter project with Eclipse IDE.
-- [NetBeans JMeter Kit](http://plugins.netbeans.org/plugin/49923/jmeter) - JMeter integration module for NetBeans IDE.
 - [Using a Load Generator in NetBeans IDE](https://netbeans.apache.org//kb/docs/java/profile-loadgenerator.html)
 
 ### Editors
@@ -366,7 +366,6 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 <!--lint ignore double-link-->
 - [JMeter Google Group](https://groups.google.com/forum/#!forum/ptgram24)
 - [JMeterPlugins Google Group](https://groups.google.com/forum/#!forum/jmeter-plugins)
-- [JMeter Nabble Forum](http://www.jmeter-archive.org/)
 - [JMeter SQAforums 💀](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54)
 - [JMeter - Тестирование производительности](https://software-testing.ru/forum/index.php?/forum/206-jmeter-testirovanie-proizvoditelnosti/) - Discussion board by Software-Testing.ru :ru:.
 

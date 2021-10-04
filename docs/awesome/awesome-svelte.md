@@ -181,6 +181,10 @@ _SSR framework._
 
 ## Utilities
 
+### Animations
+
+- [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
+
 ### Form
 
 - [svelte-forms-lib](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
@@ -201,6 +205,7 @@ _SSR framework._
 ### Internationalisation
 
 - [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization
+- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Store functions for integrating [i18n](https://www.npmjs.com/package/i18n) style localization
 
 ## Routers
 

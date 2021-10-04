@@ -15,21 +15,31 @@ I suggest you get your feet wet to start. You'll boost your confidence.
 
 ## Tools you'll need
 
+### Local installation
+
 - [Python](https://www.python.org/). Python 3 is the best option.
-- [IPython and the Jupyter Notebook](http://ipython.org/). (FKA IPython and IPython Notebook.)
+- [Jupyter Notebook](https://jupyter.org/). (Formerly known as IPython Notebook.)
 - Some scientific computing packages:
 	- numpy
 	- pandas
 	- scikit-learn
 	- matplotlib
 
-You can install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.anaconda.com/download/). Anaconda is popular in Data Science and Machine Learning communities.
+You can install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.anaconda.com/download/). Anaconda is popular in Data Science and Machine Learning communities. You can use whichever tool you want. [conda vs. pip vs. virtualenv](https://conda.io/docs/commands.html#conda-vs-pip-vs-virtualenv-commands)
 
-If you're using Python 2.7, don't worry. You don't have to migrate to Python 3 just for this guide. Also, if you're using pip/virtualenv instead of Anaconda, that's alright too! And re: installing packages, this is a helpful doc: [conda vs. pip vs. virtualenv](https://conda.io/docs/commands.html#conda-vs-pip-vs-virtualenv-commands)
+### Browser-based
+
+Some options:
+
+- [Deepnote](https://deepnote.com/) allows for real-time collaboration
+- [Binder](https://mybinder.org/), i.e. [try JupyterLab](https://jupyter.org/try)
+- [Google Colab](https://colab.research.google.com/) provides free GPUs
+
+For other options, see [markusschanta/awesome-jupyter → Hosted Notebook Solutions](https://github.com/markusschanta/awesome-jupyter#hosted-notebook-solutions) or [ml-tooling/best-of-jupyter → Notebook Environments](https://github.com/ml-tooling/best-of-jupyter)
 
 ## Let's go!
 
-**[Learn how to use IPython Notebook](http://opentechschool.github.io/python-data-intro/core/notebook.html) (5-10 minutes).** (You can [learn by screencast](https://www.youtube.com/watch?v=qb7FT68tcA8) instead.)
+**[Learn how to use Jupyter Notebook](http://opentechschool.github.io/python-data-intro/core/notebook.html) (5-10 minutes).** (You can [learn by screencast](https://www.youtube.com/watch?v=qb7FT68tcA8) instead.)
 
 Now, follow along with this brief exercise (10 minutes): **[An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)**. Do it in `ipython` or IPython Notebook. It'll really boost your confidence.
 

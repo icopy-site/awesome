@@ -29,6 +29,7 @@ Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-b
 ### Books
 
 [English, By Programming Language](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-langs.md)
+
 [English, By Subject](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md)
 
 
@@ -123,6 +124,8 @@ Free Podcasts and Screencasts:
 + [Czech / čeština / český jazyk](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-cs.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-fi.md)
++ [Indonesian / Bahasa Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-id.md)
++ [Persian / Farsi (Iran) / فارسى](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-pl.md)
 + [Portuguese (Brazil)](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-pt_BR.md)
 + [Portuguese (Portugal)](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-pt_PT.md)

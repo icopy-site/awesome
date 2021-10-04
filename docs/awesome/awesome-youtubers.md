@@ -886,7 +886,7 @@ Content about: Python \
 Featured playlists: `Pygame Fundamentals`, `Creating Pong in Pygame`, `Learning pygame by making Flappy Bird`, `Google dinosaur runner in Godot`.
 
 
-## Security
+## Cybersecurity
 
 Security is something we all should care about. Learn how you can protect yourself from attackers or malicious software. Learn also how the hacks are made to know deeply what is going on inside them, with the ethical hacking tutorials.
 
