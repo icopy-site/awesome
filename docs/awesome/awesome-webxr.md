@@ -89,6 +89,7 @@
 
 - [2WSZ](https://2wsz.com/) - An aggregator for WebXR content featuring ratings, a recommendation system, and both English and Korean language support.
 - [Construct Arcade](https://constructarcade.com/) - A curated hub of WebXR games, with games from both outside developers and in-house developers at Vhite Rabbit.
+- [Extended Collection](https://extendedcollection.com/)
 - [XR Swim](https://xrswim.com/) - An aggregator site for both WebXR and Web3 content.
 - [XRSites](https://xrsites.com/) - An aggregator for WebXR games and experiences.
 
