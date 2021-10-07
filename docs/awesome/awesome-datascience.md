@@ -157,6 +157,11 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) - Linear Algebra course by Gilbert Strang
 - [A 2020 Vision of Linear Algebra (G. Strang)](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
 - [Python for Data Science Foundation Course](https://intellipaat.com/academy/course/python-for-data-science-free-training/)
+- [Data Science: Statistics & Machine Learning](https://www.coursera.org/specializations/data-science-statistics-machine-learning)
+- [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+- [NLP Specialization Coursera](https://www.coursera.org/specializations/natural-language-processing)
+- [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) is an intermediate/advanced level specialization focused on Recommender System on Coursera Plaform.
+
 
 ## Tutorials
 
@@ -478,10 +483,13 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Effective Data Science Infrastructure](https://www.manning.com/books/effective-data-science-infrastructure)
 - [Practical MLOps: How to Get Ready for Production Models](https://valohai.com/mlops-ebook/)
 - [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
+- [Regression, a Friendly guide](https://www.manning.com/books/regression-a-friendly-guide) - Early access
 - [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 - [Data Science at the Command Line: Facing the Future with Time-Tested Tools](https://www.oreilly.com/library/view/data-science-at/9781491947845/)
 - [Machine Learning - CIn UFPE](https://www.cin.ufpe.br/~cavmj/Machine%20-%20Learning%20-%20Tom%20Mitchell.pdf)
 - [Machine Learning with Python - Tutorialspoint](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf)
+- [Deep Learning](https://www.deeplearningbook.org/)
+
 
 
 ## Socialize
@@ -811,6 +819,12 @@ Some data mining competition platforms
 - [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
 - [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
+
+## Comics
+
+- [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
+- [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
+
 
 ## Awesome Data Science
 

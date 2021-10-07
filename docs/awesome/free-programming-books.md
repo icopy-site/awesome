@@ -37,7 +37,7 @@ Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-b
 
 + [Arabic / al arabiya / العربية](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ar.md)
 + [Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-az.md)
-+ [Bengali / বাংলা](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-bl.md)
++ [Bengali / বাংলা](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-bn.md)
 + [Bulgarian / български](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-bg.md)
 + [Burmese / မြန်မာဘာသာ](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-my.md)
 + [Chinese / 中文](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md)
@@ -89,7 +89,7 @@ Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-b
 + [Hindi / हिंदी](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-hi.md)
 + [Indonesian / Bahasa Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-id.md)
 + [Italian / italiano](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-it.md)
-+ [Khazakh / қазақша](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-kk.md)
++ [Kazakh / қазақша](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-kk.md)
 + [Korean / 한국어 [韓國語]](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ko.md)
 + [Persian / Farsi (Iran) / فارسى](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-pl.md)

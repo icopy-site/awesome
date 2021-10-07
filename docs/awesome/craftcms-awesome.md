@@ -106,7 +106,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 - [Why you should update your website to Craft CMS 3](https://weareabstrakt.com/views/why-you-should-update-your-website-to-craft-cms-3) by Lauren Swarbrick/Abstrakt - `22 Nov 2019`
 
 ##### Deployment
-- [Zero downtime Craft CMS 3 deployments with Buddy.works](https://rias.be/blog/zero-downtime-craft-cms-deployments-with-buddy-works) by Rias Van der Veken
+- [Atomic Deployments Without Tears](https://nystudio107.com/blog/executing-atomic-deployments) by Andrew Welch/nystudio107
 
 ##### Element API
 - [Global Sets in the Craft Element API](https://mijingo.com/blog/accessing-global-sets-from-the-element-api-in-craft) by Ryan Irelan/Mijingo
@@ -117,7 +117,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 - [Localization & Multi-Environment Setup in Craft](https://designkarma.co.uk/blog/localization-multi-environment-setup-in-craft) by Ian Ebden/Design Karma - `4 Apr 2017`
 - [Multi-Environment Config for Craft CMS](https://nystudio107.com/blog/multi-environment-config-for-craft-cms) by Andrew Welch/nystudio107 - `4 Sep 2017`
 
-##### Front-end
+##### Front End
 - [Craft CMS AJAX Page Transitions with `history.pushState`](https://designbycosmic.com/articles/development/craft-cms-ajax-page-transitions-with-history-pushstate) by Cosmic - `1 Feb 2017`
 - [Editing a Front End Form with Matrix](https://caffeinecreations.ca/blog/editing-a-front-end-form-with-matrix/) by Sean Smith/Caffeine Creations
 - [Language switcher for Craft 3](https://www.thebasement.be/language-switcher-for-craft-3/) by Jan D'Hollander - `25 July 2018`
@@ -125,6 +125,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 ##### Getting Started
 - [20 Principles for Craft CMS](https://hackernoon.com/20-principles-for-craft-cms-ae08d80c17de) by Knut Melvær - `30 Sep 2017`
 - [Craft CMS 3 Orientation Guide](https://nystudio107.com/blog/craft-cms-3-orientation-guide-welcome) by Andrew Welch/nystudio107 - `31 July 2018`
+- [Craft CMS through the eyes of a website designer](https://adigital.agency/blog/craft-cms-through-the-eyes-of-a-website-designer) by Laura Montgomery/A Digital Agency– `3 September 2021`
 - [How To Get Started With SEO In Craft CMS](https://medium.com/@galaxyweblinks/how-to-get-started-with-seo-in-craft-cms-b6eef51a5555) by Galaxy Weblinks - `22 June 2018`
 - [Setting up a New Craft CMS 3 Project](https://nystudio107.com/blog/setting-up-a-craft-cms-3-project) by Andrew Welch/nystudio107 - `12 Jan 2018`
 
@@ -158,7 +159,6 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 - [Getting Started with Craft Plugin Development with Ben Croker](https://mijingo.com/blog/getting-started-with-craft-plugin-development-with-ben-croker) by Ryan Irelan/Mijingo
 - [Inspiration for Your First Craft Plugin](https://mijingo.com/blog/inspiration-for-your-first-craft-plugin) by Ryan Irelan/Mijingo
 - [Craft CMS E-Commerce: Why and How I Built a Snipcart Plugin](https://snipcart.com/blog/craft-cms-ecommerce-plugin) by Matt Stein
-
 
 ##### Publications
 - [The Guide to Craft CMS Development](https://gomasuga.com/course/craft-cms-guide) by Ryan Masuga
