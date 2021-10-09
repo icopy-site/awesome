@@ -325,6 +325,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [dict](https://github.com/srfrog/dict) - Python-like dictionaries (dict) for Go.
 * [dsu](https://github.com/ihebu/dsu) - Disjoint Set data structure implementation in Go.
 * [encoding](https://github.com/zhenjl/encoding) - Integer Compression Libraries for Go.
+* [gdcache](https://github.com/ulovecode/gdcache) - A pure non-intrusive cache library implemented by golang, you can use it to implement your own distributed cache.
 * [go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) - Go implementation of Adaptive Radix Tree.
 * [go-datastructures](https://github.com/Workiva/go-datastructures) - Collection of useful, performant, and thread-safe data structures.
 * [go-edlib](https://github.com/hbollon/go-edlib) - Go string comparison and edit distance algorithms library (Levenshtein, LCS, Hamming, Damerau levenshtein, Jaro-Winkler, etc.) compatible with Unicode.
@@ -407,6 +408,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [Kivik](https://github.com/go-kivik/kivik) - Kivik provides a common Go and GopherJS client library for CouchDB, PouchDB, and similar databases.
 * [ledisdb](https://github.com/siddontang/ledisdb) - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
 * [levigo](https://github.com/jmhodges/levigo) - Levigo is a Go wrapper for LevelDB.
+* [Milvus](https://github.com/milvus-io/milvus) - Milvus is a vector database for embedding management, analytics and search.
 * [moss](https://github.com/couchbase/moss) - Moss is a simple LSM key-value storage engine written in 100% Go.
 * [nutsdb](https://github.com/xujiajun/nutsdb) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set.
 * [piladb](https://github.com/fern4lvarez/piladb) - Lightweight RESTful database engine based on stack data structures.
@@ -840,6 +842,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 * [geoserver](https://github.com/hishamkaram/geoserver) - geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServer REST API.
 * [gismanager](https://github.com/hishamkaram/gismanager) - Publish Your GIS Data(Vector Data) to PostGIS and Geoserver.
+* [godal](https://github.com/airbusgeo/godal) - Go wrapper for GDAL.
 * [mbtileserver](https://github.com/consbio/mbtileserver) - A simple Go-based server for map tiles stored in mbtiles format.
 * [osm](https://github.com/paulmach/osm) - Library for reading, writing and working with OpenStreetMap data and APIs.
 * [pbf](https://github.com/maguro/pbf) - OpenStreetMap PBF golang encoder/decoder.
@@ -1058,6 +1061,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [JSON-to-Proto](https://json-to-proto.github.io/) - Convert JSON to Protobuf online.
 * [json2go](https://github.com/m-zajac/json2go) - Advanced JSON to Go struct conversion. Provides package that can parse multiple JSON documents and create struct to fit them all.
 * [jsonapi-errors](https://github.com/AmuzaTkts/jsonapi-errors) - Go bindings based on the JSON API errors reference.
+* [jsoncolor](https://github.com/neilotoole/jsoncolor) - Drop-in replacement for `encoding/json` that outputs colorized JSON.
 * [jsondiff](https://github.com/wI2L/jsondiff) - JSON diff library for Go based on RFC6902 (JSON Patch).
 * [jsonf](https://github.com/miolini/jsonf) - Console tool for highlighted formatting and struct query fetching JSON.
 * [jsongo](https://github.com/ricardolonga/jsongo) - Fluent API to make it easier to create Json objects.
@@ -1639,12 +1643,14 @@ _**Unofficial** set of patterns for structuring projects._
 
 * [acmetool](https://github.com/hlandau/acme) - ACME (Let's Encrypt) client tool with automatic renewal.
 * [acra](https://github.com/cossacklabs/acra) - Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system.
+* [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. 
 * [argon2-hashing](https://github.com/andskur/argon2-hashing) - light wrapper around Go's argon2 package that closely mirrors with Go's standard library Bcrypt and simple-scrypt package.
 * [argon2pw](https://github.com/raja/argon2pw) - Argon2 password hash generation with constant-time password comparison.
 * [autocert](https://godoc.org/golang.org/x/crypto/acme/autocert) - Auto provision Let's Encrypt certificates and start a TLS server.
 * [BadActor](https://github.com/jaredfolkins/badactor) - In-memory, application-driven jailer built in the spirit of fail2ban.
 * [Cameradar](https://github.com/Ullaakut/cameradar) - Tool and library to remotely hack RTSP streams from surveillance cameras.
 * [certificates](https://github.com/mvmaasakkers/certificates) - An opinionated tool for generating tls certificates.
+* [CertMagic](https://github.com/caddyserver/certmagic) - Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal.
 * [dongle](https://github.com/golang-module/dongle) - A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption.
 * [firewalld-rest](https://github.com/prashantgupta24/firewalld-rest) - A rest application to dynamically update firewalld rules on a linux server.
 * [go-generate-password](https://github.com/m1/go-generate-password) - Password generator that can be used on the cli or as a library.
@@ -1897,7 +1903,7 @@ _**Unofficial** set of patterns for structuring projects._
     * [goq](https://github.com/andrewstuart/goq) - Declarative unmarshaling of HTML using struct tags with jQuery syntax (uses GoQuery).
     * [GoQuery](https://github.com/PuerkitoBio/goquery) - GoQuery brings a syntax and a set of features similar to jQuery to the Go language.
     * [goregen](https://github.com/zach-klippenstein/goregen) - Library for generating random strings from regular expressions.
-    * [goribot](https://github.com/zhshch2002/goribot) - A simple golang spider/scraping framework,build a spider in 3 lines.
+    * [gospider](https://github.com/zhshch2002/gospider) - A simple golang spider/scraping framework,build a spider in 3 lines. migrated from [goribot](https://github.com/zhshch2002/goribot)
     * [gotext](https://github.com/leonelquinteros/gotext) - GNU gettext utilities for Go.
     * [guesslanguage](https://github.com/endeveit/guesslanguage) - Functions to determine the natural language of a unicode text.
     * [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
@@ -2716,6 +2722,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [GoJakarta](https://www.meetup.com/GoJakarta/)
 * [Golang Amsterdam](https://www.meetup.com/golang-amsterdam/)
 * [Golang Argentina](https://www.meetup.com/Golang-Argentina/)
+* [Golang Athens](https://www.meetup.com/Athens-Gophers/)
 * [Golang Baltimore, MD](https://www.meetup.com/BaltimoreGolang/)
 * [Golang Bangalore](https://www.meetup.com/Golang-Bangalore/)
 * [Golang Belo Horizonte - Brazil](https://www.meetup.com/go-belo-horizonte/)

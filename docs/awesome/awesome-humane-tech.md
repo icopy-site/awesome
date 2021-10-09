@@ -15,7 +15,7 @@ Tech and social media is having a big impact on our society. While many innovati
 
 This list aggregates open-source projects that are directly related to humane tech topics. Please read the [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) before sending your PR's.
 
-> **Important**: The resources presented below were collected in good faith by the contributors to this list in hopes they may prove useful to you. But as per the [License](#license) we can give no guarantees on the quality or fitness of the software that is referenced. So inform yourself properly before installing anything, and if you encounter something that is inappropriate or wrong, then please file an issue in our [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) so we can take appropriate action. Thank you!
+> **Important**: The resources presented below were collected in good faith by the contributors to this list in hopes they may prove useful to you. But as per the [License](https://github.com/humanetech-community/awesome-humane-tech/blob/master/LICENSE) we can give no guarantees on the quality or fitness of the software that is referenced. This list is not authoritative, merely informative. So inform yourself properly, and if you encounter something that is inappropriate or wrong, then please file an issue in our [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) so we can take appropriate action. Thank you!
 
 
 If your project is on this list then you are entitled to proudly wear our humanetech badge. See [instructions](https://github.com/humanetech-community/awesome-humane-tech/blob/main/contributing.md#after-you-were-added).
@@ -56,8 +56,6 @@ Humane design is a subset of humane technology and an upcoming field in informat
 - [Declaration of Digital Autonomy](https://techautonomy.org/) - Our technology must respect the rights and freedoms of people who use it.
 - [A New Digital Manifesto](https://anewdigitalmanifesto.com) - Our inalienable rights within the digital age.
 - [Society Centered Design](https://societycentered.design/) - Move beyond human-centered design. We must design for the collective, for society.
-- [The Hippocratic License](https://firstdonoharm.dev/) - An open source license for developers to enforce the ethical use of their code.
-- [The Ethical Source Movement](https://ethicalsource.dev/) - A community that practices Ethical Open Source principles for its projects.
 
 ## Security
 
@@ -130,6 +128,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/apparition47/MailTrackerBlocker) - An email tracker, read receipt and spy pixel blocker plugin for macOS Apple Mail.
 - [Warden](https://gitlab.com/AuroraOSS/AppWarden) - App management utility for Android that detects and disables trackers and loggers.
 - [TrackerControl](https://trackercontrol.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/OxfordHCC/tracker-control-android) - Monitor and control trackers and ads.
+- [Tracker Zapper](https://rknight.me/apps/tracker-zapper/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rknightuk/TrackerZapper) - A menubar app for Mac to remove link tracking parameters automatically. 
 
 ## Consent
 
@@ -194,7 +193,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Pump.io](http://pump.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/pump-io/pump.io) - A stream server that does most of what people really want from a social network.
 - [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/bengrosser/facebook-demetricator) - A web browser extension that removes all the metrics from the Facebook interface.
 - [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/bengrosser/twitter-demetricator) - A web browser extension that removes all the metrics on Twitter.
-- [News Feed Eradicator](https://github.com/jordwest/news-feed-eradicator) - A browser extension that replaces your Facebook news feed with a nice quote.
+- [News Feed Eradicator](https://west.io/news-feed-eradicator/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jordwest/news-feed-eradicator) - A browser extension that replaces your Facebook news feed with a nice quote.
 - [Granary](https://granary.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/snarfed/granary) - The social web translator that breaks silo's by converting data between social networks.
 - [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/neocities/neocities) - Social network that brings back the lost individual creativity of the web.
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) - Selenium script to delete all of your Facebook wall posts.
@@ -257,6 +256,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [GadgetBridge](https://gadgetbridge.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/Freeyourgadget/Gadgetbridge) - Replace gadget vendors' closed source Android apps (Pebble, Mi Band, Liveview, HPlus, etc).
 - [Gladys Assistant](https://gladysassistant.com/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/gladysassistant/gladys) - A privacy-first, open-source home assistant.
 - [OpenRGB](https://openrgb.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software.
+- [Jellyfin](https://jellyfin.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jellyfin/jellyfin) - A Software Media System that puts you in control of managing and streaming your media.
 
 ## Gamification
 
@@ -378,10 +378,4 @@ Also check out these sites for great alternatives to the monopolistic, privacy-i
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) first.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [aschrijver](https://github.com/aschrijver) (the maintainer) and other contributors have waived all copyright and related or neighboring rights to this work.
+This list is maintained by [Arnold Schrijver](https://github.com/aschrijver). Contributions are welcome! Read the [contribution guidelines](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) first.
