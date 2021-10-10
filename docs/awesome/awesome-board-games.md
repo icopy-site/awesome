@@ -227,6 +227,17 @@
 | ------: | -------: | -----: |
 |   3 - 5 |        8 |    15m |
 
+### [PARKS](https://boardgamegeek.com/boardgame/266524/parks)
+
+> PARKS is a celebration of the US National Parks featuring illustrious art from Fifty-Nine Parks. In PARKS, players will take on the role of two hikers who will trek trails to see sites, observe wildlife, take photos, and visit national parks over the course of the game. They will take actions and collect memories of the places your hikers visit. These memories are represented by various resource tokens like mountains and forests. Collecting these memories in sets will allow players to trade them in to visit a National Park at the end of each hike. Each trail, represented by tiles, represents a different season, and as each season passes, the trails change and grow steadily longer. Each turn, players send one of their hikers down the trail. While on the trail, hikers will see beautiful sites and perform an action when they arrive. When a hiker reaches the end of the trail, they can spend tokens they have received to visit Parks and earn points. Your goal is to have the most points from your Parks, photos, and personal bonus at the end of the year. 
+
+![PARKS image](https://cf.geekdo-images.com/mF2cSNRk2O6HtE45Sl9TcA__itemrep/img/aO688RtGLH5MV7LUHkmghPUjSJQ=/fit-in/246x300/filters:strip_icc()/pic4852372.jpg)
+
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 5 |       10 |40 -70m |
+
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
@@ -909,6 +920,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time     |
 | ------: | -------: | --------:|
 |   2 - 6 |      6+  |      10m |
+
+### [Abalone](https://boardgamegeek.com/boardgame/526/abalone)
+
+> This beautiful and functional board has room for two teams of large marbles. Players take turns pushing the marbles around the board, with the goal of pushing six of the opposing player's marbles off the board. The central idea is that a column of marbles has weight given by the number of marbles in line. Someone will need to push with a heavier group of marbles in order to push the column along that axis. However, with six possible directions, it's difficult to defend yourself perfectly. Also, it's possible to play the game with up to six players when supplemental marble sets are purchased.
+
+![Abalone image](http://cdn.aktivcommunication.cz/images/products/box/4426.jpg)
+
+| Players | Min. Age | Time     |
+| ------: | -------: | --------:|
+|       2 |      7+  |      30m |
 
 ### [Nine Men's Morris](https://en.wikipedia.org/wiki/Nine_men's_morris)
 
