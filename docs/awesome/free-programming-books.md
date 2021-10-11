@@ -85,6 +85,7 @@ Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-b
 + [Finnish](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-fi.md)
 + [French / français](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-fr.md)
 + [German / Deutsch](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-de.md)
++ [Greek / ελληνικά](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-el.md)
 + [Hebrew / עברית](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-he.md)
 + [Hindi / हिंदी](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-hi.md)
 + [Indonesian / Bahasa Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-id.md)
