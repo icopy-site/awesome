@@ -34,6 +34,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Leadership Forums](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Forums.md)
 - [Leadership Philosophies and Styles](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Philosophies-and-Styles.md)
 - [Leading Leaders](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leading-Leaders.md)
+- [Leaving a Team](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leaving-a-Team.md)
 - [Managing Remotely](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Managing-Remotely.md)
 - [Media: Blogs, Newsletters, Podcasts](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Media-Blogs-Newsletters-Podcasts.md)
 - [Meetings](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Meetings.md)
