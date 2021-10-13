@@ -62,6 +62,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Globalize](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
 - [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
 - [Moment.js](https://momentjs.com/) - Parse, validate, manipulate and display dates and times in JavaScript.
+- [WPML](https://wpml.org/) - A WordPress plugin that allows running multilingual websites with a single WordPress install.
 
 ## Articles
 

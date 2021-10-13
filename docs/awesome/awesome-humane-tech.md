@@ -65,7 +65,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 
 ## Privacy
 
-- [privacytools.io](https://privacytools.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/privacytoolsIO/privacytools.io) - Knowledge and tools to protect your privacy against global mass surveillance.
+- [Privacy Guides](https://privacyguides.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/privacyguides/privacyguides.org) - Knowledge and tools to protect your privacy against global mass surveillance.
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - A curated list of privacy-respecting Services and Software.
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium without Google integration, enhancing privacy, control, transparency
 - [Signal](https://www.signal.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/signalapp) - Signal is a messaging app for simple private communication with friends.
@@ -216,6 +216,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Libreddit](https://libredd.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/spikecodes/libreddit) - Private Reddit front-end written in Rust.
 - [YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube) - A bot that automatically mirrors YouTube channels to PeerTube channels.
 - [Watomatic](https://github.com/adeekshith/watomatic) - Auto reply for WhatsApp so you can stop using it.
+- [Scribe](https://scribe.rip/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/sourcehut.svg?sanitize=true" width="16"/>](https://git.sr.ht/~edwardloveall/scribe) - Privacy-respecting and minimal alternative front end for Medium.com.
 
 ## Translation
 
