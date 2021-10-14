@@ -2668,8 +2668,11 @@ _**Unofficial** set of patterns for structuring projects._
 
 ## E-Books
 
+* [100 Go Mistakes: How to Avoid Them](https://www.manning.com/books/100-go-mistakes-how-to-avoid-them)
 * [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read)
-* [An Introduction to Programming in Go](https://www.golang-book.com/)
+* [An Introduction to Programming in Go](http://www.golang-book.com/)
+* [Build an Orchestrator in Go](https://www.manning.com/books/build-an-orchestrator-in-go)
+* [Continuous Delivery in Go](https://www.manning.com/books/continuous-delivery-in-go) This practical guide to continuous delivery shows you how to rapidly establish an automated pipeline that will improve your testing, code quality, and final product.
 * [For the Love of Go](https://bitfieldconsulting.com/books/love) - An introductory book for Go beginners.
 * [Go 101](https://go101.org) - A book focusing on Go syntax/semantics and all kinds of details.
 * [Go Bootcamp](http://golangbootcamp.com)
@@ -2684,7 +2687,8 @@ _**Unofficial** set of patterns for structuring projects._
 * [The Golang Standard Library by Example (Chinese)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 * [Web Application with Go the Anti-Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 * [Writing A Compiler In Go](https://compilerbook.com)
-* [Writing An Interpreter In Go](https://interpreterbook.com)
+* [Writing An Interpreter In Go](https://interpreterbook.com) - Book that introduces dozens of techniques for writing idiomatic, expressive, and efficient Go code that avoids common pitfalls.
+
 
 
 ## Gophers

@@ -118,6 +118,7 @@ Pull-Requests are welcomed.
 - [Hoodie](http://hood.ie/) - A backend for Offline First applications.
 - [Couchbase](https://www.couchbase.com/) - NoSQL database.
   - [Migrating from Apache CouchDB](https://docs.couchbase.com/server/current/install/migrate-couchdb.html) - Comparison of CouchDB and CouchBase
+- [RxDB](https://rxdb.info/) - NoSQL-database for JavaScript Applications. RxDB provides modules for realtime replication with any CouchDB compliant endpoint and also with custom GraphQL endpoints.
 
 
 ## Misc/Technical
