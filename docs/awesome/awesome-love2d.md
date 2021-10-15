@@ -80,6 +80,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Sölar](https://github.com/JanWerder/soelar) - a fairly simple solar system simulator
 * [Tove2d](https://github.com/poke1024/tove2d) - Animated vector graphics for LÖVE
 * [turtle.lua](https://github.com/arthurealike/turtle.lua) - Turtle graphics library for LÖVE
+* [Runtime-TextureAtlas](https://github.com/EngineerSmith/Runtime-TextureAtlas) - Texture atlas packer and renderer at runtime; no external tools
 
 ## Entity
 *Entity and Gameobject Managing Libraries*
@@ -191,6 +192,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
 * [HC](https://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects
 * [loveblobs](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies.
+* [Strike](https://github.com/Aweptimum/Strike) - 2D collision detection library. Extendable, based on Separating-Axis-Theorem
 * [Windfield](https://github.com/adnzzzzZ/windfield) - Physics module wrapper for LÖVE
 
 
