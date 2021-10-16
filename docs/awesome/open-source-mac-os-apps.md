@@ -13,7 +13,7 @@
 
 List of awesome open source applications for macOS. This list contains a lot of native, and cross-platform apps. The main goal of this repository is to find free open source apps and start contributing. Feel free to [contribute](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/CONTRIBUTING.md) to the list, any suggestions are welcome!
 
-To receive all new or popular applications you can join our [telegram chanel](https://t.me/opensourcemacosapps).
+To receive all new or popular applications you can join our [telegram channel](https://t.me/opensourcemacosapps).
 
 ## Support
 

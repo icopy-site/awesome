@@ -151,6 +151,10 @@ _Switch / on/off toggle / checkbox._
 - [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable).
 - [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling.
 
+### Miscellaneous
+
+- [svelte-tree-viewer](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
+
 ## Scaffold
 
 _Templates / boilerplate / seed / starter kits / stack ensemble / Yeoman generator._
