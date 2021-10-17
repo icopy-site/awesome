@@ -64,6 +64,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [CalcuPi](https://divykj.github.io/CalcuPi) - A beautiful Monte Carlo simulation for approximating the value of pi.
 - [Love Letter Tracker](https://www.fosskers.ca/en/tools/love-letter) - A knowledge tracker for the card game _Love Letter_.
 - [Whatlang.org](https://whatlang.org/) - An interactive demo for whatlang (language recognition library).
+- [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses [`Seed`](https://seed-rs.org/), [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx).
 
 ## Libraries
 

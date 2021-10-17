@@ -980,6 +980,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [goimagehash](https://github.com/corona10/goimagehash) - Go Perceptual image hashing package.
 * [goimghdr](https://github.com/corona10/goimghdr) - The imghdr module determines the type of image contained in a file for Go.
 * [govatar](https://github.com/o1egl/govatar) - Library and CMD tool for generating funny avatars.
+* [gowitness](https://github.com/sensepost/gowitness) - Screenshoting webpages using go and headless chrome on command line.
 * [govips](https://github.com/davidbyttow/govips) - A lightning fast image processing and resizing library for Go.
 * [gridder](https://github.com/shomali11/gridder) - A Grid based 2D Graphics library.
 * [image2ascii](https://github.com/qeesung/image2ascii) - Convert image to ASCII.
@@ -1031,6 +1032,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [go-quartz](https://github.com/reugn/go-quartz) - Simple, zero-dependency scheduling library for Go.
 * [gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go job scheduling. This is an actively maintained fork of [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron).
 * [gron](https://github.com/roylee0704/gron) - Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly.
+* [gronx](https://github.com/adhocore/gronx) - Cron expression parser, task runner and daemon consuming crontab like task list.
 * [JobRunner](https://github.com/bamzi/jobrunner) - Smart and featureful cron job scheduler with job queuing and live monitoring built in.
 * [jobs](https://github.com/albrow/jobs) - Persistent and flexible background jobs library.
 * [leprechaun](https://github.com/kilgaloon/leprechaun) - Job scheduler that supports webhooks, crons and classic scheduling.
@@ -1182,6 +1184,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 *Libraries that implement messaging systems.*
 
 * [ami](https://github.com/kak-tus/ami) - Go client to reliable queues based on Redis Cluster Streams.
+* [amqp](https://github.com/rabbitmq/amqp091-go) - Go RabbitMQ Client Library.
 * [APNs2](https://github.com/sideshow/apns2) - HTTP/2 Apple Push Notification provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps.
 * [Asynq](https://github.com/hibiken/asynq) - A simple, reliable, and efficient distributed task queue for Go built on top of Redis.
 * [Beaver](https://github.com/Clivern/Beaver) - A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
@@ -1316,6 +1319,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [faker](https://github.com/pioz/faker) - Random fake data and struct generator for Go.
 * [ffmt](https://github.com/go-ffmt/ffmt) - Beautify data display for Humans.
 * [gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard.
+* [go-commandbus](https://github.com/lana/go-commandbus) - A slight and pluggable command-bus for Go.
 * [go-commons-pool](https://github.com/jolestar/go-commons-pool) - Generic object pool for Golang.
 * [go-openapi](https://github.com/go-openapi) - Collection of packages to parse and utilize open-api schemas.
 * [go-resiliency](https://github.com/eapache/go-resiliency) - Resiliency patterns for golang.
@@ -2055,6 +2059,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [copy-pasta](https://github.com/jutkko/copy-pasta) - Universal multi-workstation clipboard that uses S3 like backend for the storage.
 * [countries](https://github.com/biter777/countries) - Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standarts.
 * [create-go-app](https://github.com/create-go-app/cli) - A powerful CLI for create a new production-ready project with backend (Golang), frontend (JavaScript, TypeScript) & deploy automation (Ansible, Docker) by running one command.
+* [cryptgo](https://github.com/Gituser143/cryptgo) - Crytpgo is a TUI based application written purely in Go to monitor and observe cryptocurrency prices in real time!
 * [ctop](https://github.com/bcicen/ctop) - [Top-like](https://ctop.sh) interface (e.g. htop) for container metrics.
 * [ctxutil](https://github.com/posener/ctxutil) - A collection of utility functions for contexts.
 * [dbt](https://github.com/nikogura/dbt) - A framework for running self-updating signed binaries from a central, trusted repository.
