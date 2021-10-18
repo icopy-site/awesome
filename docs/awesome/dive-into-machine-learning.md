@@ -32,10 +32,13 @@ You can install Python 3 and all of these packages in a few clicks with the [Ana
 Some options:
 
 - [Deepnote](https://deepnote.com/) allows for real-time collaboration
-- [Binder](https://mybinder.org/), i.e. [try JupyterLab](https://jupyter.org/try)
-- [Google Colab](https://colab.research.google.com/) provides free GPUs
+- [Binder](https://mybinder.org/) is the official choice to [try JupyterLab](https://jupyter.org/try)
+- [Google Colab](https://colab.research.google.com/) provides "free" GPUs
 
-For other options, see [markusschanta/awesome-jupyter → Hosted Notebook Solutions](https://github.com/markusschanta/awesome-jupyter#hosted-notebook-solutions) or [ml-tooling/best-of-jupyter → Notebook Environments](https://github.com/ml-tooling/best-of-jupyter)
+For other options, see:
+
+- [markusschanta/awesome-jupyter → Hosted Notebook Solutions](https://github.com/markusschanta/awesome-jupyter#hosted-notebook-solutions)
+- [ml-tooling/best-of-jupyter → Notebook Environments](https://github.com/ml-tooling/best-of-jupyter)
 
 ## Let's go!
 
@@ -47,13 +50,7 @@ Now, follow along with this brief exercise (10 minutes): **[An introduction to m
 
 ## What just happened?
 
-You just classified some hand-written digits using [scikit-learn]. Neat huh?
-
-[scikit-learn] is the go-to library for machine learning in Python. [It's used widely.](http://scikit-learn.org/stable/testimonials/testimonials.html) Machine learning is hard. You'll be glad your tools are easy to work with.
-
-[scikit-learn]: http://scikit-learn.org/stable/index.html
-
-I encourage you to look at the [scikit-learn] homepage  and spend about 5 minutes looking over the names of the strategies (Classification, Regression, etc.), and their applications. Don't click through yet! Just get a glimpse of the vocabulary.
+You just classified some hand-written digits using [scikit-learn](http://scikit-learn.org/stable/index.html). Neat huh?
 
 ## Dive in
 
@@ -116,7 +113,6 @@ OK! Take a break, come back refreshed.
 
 Next, pick **one or two** of these IPython Notebooks and play along.
 
-- [Face Recognition on a subset of the Labeled Faces in the Wild](http://nbviewer.jupyter.org/github/ogrisel/notebooks/blob/master/Labeled%20Faces%20in%20the%20Wild%20recognition.ipynb)
 - [Machine Learning from Disaster](http://agconti.github.io/kaggle-titanic/): Using Titanic data, "Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques."
 - [Election Forecasting](https://github.com/jseabold/538model): A replication of the model [Nate Silver](https://fivethirtyeight.com/contributors/nate-silver/) used to make predictions about the 2012 US Presidential Election for the _New York Times_.
 - [An example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb): "let's pretend we're working for a startup that just got funded to create a smartphone app that automatically identifies species of flowers from pictures taken on the smartphone.  We've been tasked by our head of data science to create a demo machine learning model that takes four measurements from the flowers (sepal length, sepal width, petal length, and petal width) and identifies the species based on those measurements alone."
@@ -369,8 +365,6 @@ In any case, when you decide you're ready to dive into Deep Learning, here are s
 * [YerevaNN's Deep Learning Guide](http://yerevann.com/a-guide-to-deep-learning/)
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
 * [Creative Applications of Deep Learning with Tensorflow](https://github.com/pkmital/CADL)
-* [Dive into Deep Learning](https://d2l.ai/) - An interactive book about deep learning
-
 
 ## "Big" Data?
 
@@ -382,8 +376,8 @@ Lastly, here are some other useful links regarding Big Data and ML.
 
 * [10 things statistics taught us about big data analysis](https://simplystatistics.org/2014/05/22/10-things-statistics-taught-us-about-big-data-analysis/) (and some more food for thought: ["What Statisticians think about Data Scientists"](http://www.datasciencecentral.com/profiles/blogs/what-statisticians-think-about-data-scientists))
 * ["Talking Machines" #12](http://www.thetalkingmachines.com/blog/2015/6/4/the-economic-impact-of-machine-learning-and-using-the-kernel-trick-to-dig-in-to-big-data): Interviews Prof. Andrew Ng (from [our main course, which has its own module on big data](https://www.coursera.org/learn/machine-learning)); this episode covers some problems relevant to _high-dimensional_ data
-- ["Talking Machines" #15: "Really Really Big Data and Machine Learning in Business"](http://www.thetalkingmachines.com/blog/2015/7/16/really-really-big-data-and-machine-learning-in-business)
-- Free eBook, [_Getting Data Right: Tackling the Challenges of
+* ["Talking Machines" #15: "Really Really Big Data and Machine Learning in Business"](http://www.thetalkingmachines.com/blog/2015/7/16/really-really-big-data-and-machine-learning-in-business)
+* Free eBook, [_Getting Data Right: Tackling the Challenges of
 Big Data Volume and Variety_](https://www.tamr.com/landing-pages/getting-data-right/) by Michael Stonebraker, Tom Davenport, James Markarian, and others, published by O'Reilly. You can [listen to an accompanying podcast](http://radar.oreilly.com/2015/06/the-future-of-data-at-scale.html) too.
 
 ----

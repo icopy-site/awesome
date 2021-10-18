@@ -38,6 +38,7 @@ Imba is a programming language inspired by Ruby and Python and compiles to perfo
 processing of Imba files.
 - [Material Imba](https://github.com/nathanjohnson320/material-imba) - Material Design components written in Imba.
 - [Imba Inertia Adapter](https://github.com/haikyuu/imba-inertia-adapter) - Imba [Inertia](https://inertiajs.com) adapter.
+- [Formidable](https://www.formidablejs.org/) - Imba Framework for Rapid API Development.
 
 #### Editor Plugins and IDEs
 

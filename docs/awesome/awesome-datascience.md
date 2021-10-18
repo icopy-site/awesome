@@ -67,6 +67,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - Neural Networks
 - Self-organizing map
 - Adaptive resonance theory
+- Hidden Markov Models (HMM)
 
 ### Semi-Supervised Learning
 
@@ -264,6 +265,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Valohai](https://valohai.com) | An MLOps platform that handles machine orchestration, automatic reproducibility and deployment. |
 | [PyMC3](https://docs.pymc.io/) | A Python Library for Probabalistic Programming (Bayesian Inference and Machine Learning) |
 | [PyStan](https://pypi.org/project/pystan/) | Python interface to Stan (Bayesian inference and modeling) |
+| [hmmlearn](https://pypi.org/project/hmmlearn/) | Unsupervised learning and inference of Hidden Markov Models |
 
 ## Machine Learning in General Purpose
 
@@ -420,6 +422,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 ## Podcasts
 
 - [Adversarial Learning](http://adversariallearning.com/)
+- [AI Today](https://www.cognilytica.com/aitoday/)
 - [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 - [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
 - [Data Crunch](http://vaultanalytics.com/datacrunch/)
@@ -437,8 +440,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Not So Standard Deviations](https://nssdeviations.com/)
 - [Partially Derivative](http://partiallyderivative.com/)
 - [Superdatascience](https://www.superdatascience.com/podcast/)
+- [The Data Engineering Show](https://www.dataengineeringshow.com/)
 - [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+- [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
 
 
 ## Books
@@ -493,6 +498,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
 - [Deep Learning with PyTorch](https://www.simonandschuster.com/books/Deep-Learning-with-PyTorch/Eli-Stevens/9781617295263)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+- [Deep Learning Cookbook](https://www.oreilly.com/library/view/deep-learning-cookbook/9781491995839/)
+- [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
+- [Artificial Intelligence: Foundations of Computational Agents, 2nd Edition](http://artint.info/index.html) - Free HTML version
 
 
 
