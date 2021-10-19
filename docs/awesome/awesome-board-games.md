@@ -248,6 +248,16 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        8 |    15m |
 
+### [Cobra Paw](https://boardgamegeek.com/boardgame/220700/cobra-paw)
+
+> Players take turns rolling the dice — which feature six unique symbols — then race to grab the tile with the matching pattern before anyone else. Whoever grabs six tiles first wins!
+
+![Cobra Paw image](https://cf.geekdo-images.com/4dwXEEXmCGd8JIiRg7njUA__itemrep/img/vEPbqyeRa30jmstCkz2rkvHom5E=/fit-in/246x300/filters:strip_icc()/pic5349983.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 6 |        5 |  5-15m |
+
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
@@ -582,6 +592,16 @@
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   2 - 7 |     10+  | 30-60m |
+
+### [Leaving Earth](https://boardgamegeek.com/boardgame/173064/leaving-earth)
+
+> The year is 1956. Mankind stands at the dawn of a new age, the Space Age, when the flying bombs of yesteryear will become the rocket ships of tomorrow. As the director of a national space program, your country is depending on you for success in this great contest. You may be the first to create an artificial satellite, send a probe to another planet, or even put a man on the moon.
+
+![Leaving Earth game image](https://cf.geekdo-images.com/rpjQ2X1g2fau-VsgAYvo2A__itemrep/img/6tc-Bi7iqr-DRoszSytamoIoQjw=/fit-in/246x300/filters:strip_icc()/pic2624698.jpg)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|   1 - 5 |     15+  | 60-180m |
 
 ## Party
 

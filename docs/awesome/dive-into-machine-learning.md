@@ -2,16 +2,19 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Dive into Machine Learning [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Hi there! This guide is for you:**
+Hi there! This guide is for you if:
 
-* **You're new to [Machine Learning.](https://en.wikipedia.org/wiki/Machine_learning)**
-* **You know Python.** (At least the basics! If you want to learn more Python, [try this](https://github.com/hangtwenty/python-is-for-lovers))
+* You know Python (or [you're learning it](https://github.com/hangtwenty/python-is-for-lovers))
+* You're new to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+* You care about [the ethics of AI](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)
+    * 📝 **[Responsible Machine Learning Principles](https://ethical.institute/principles.html)**
+* You learn by doing
 
-I learned Python by hacking first, and getting serious *later.* I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself.
+If that's you, join me in getting a bit ahead of yourself, and see if you want to learn more about the field.
 
 ## Let's get started
 
-I suggest you get your feet wet to start. You'll boost your confidence.
+Get your feet wet and boost your confidence.
 
 ## Tools you'll need
 
@@ -27,12 +30,12 @@ I suggest you get your feet wet to start. You'll boost your confidence.
 
 You can install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.anaconda.com/download/). Anaconda is popular in Data Science and Machine Learning communities. You can use whichever tool you want. [conda vs. pip vs. virtualenv](https://conda.io/docs/commands.html#conda-vs-pip-vs-virtualenv-commands)
 
-### Browser-based
+### Cloud-based
 
-Some options:
+Some options you can use from your browser:
 
-- [Deepnote](https://deepnote.com/) allows for real-time collaboration
 - [Binder](https://mybinder.org/) is the official choice to [try JupyterLab](https://jupyter.org/try)
+- [Deepnote](https://deepnote.com/) allows for real-time collaboration
 - [Google Colab](https://colab.research.google.com/) provides "free" GPUs
 
 For other options, see:
@@ -113,9 +116,9 @@ OK! Take a break, come back refreshed.
 
 Next, pick **one or two** of these IPython Notebooks and play along.
 
+- [Dr. Randal Olson's Example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb): "let's pretend we're working for a startup that just got funded to create a smartphone app that automatically identifies species of flowers from pictures taken on the smartphone.  We've been tasked by our head of data science to create a demo machine learning model that takes four measurements from the flowers (sepal length, sepal width, petal length, and petal width) and identifies the species based on those measurements alone."
+	- [Launch in Binder, no installation steps required](https://mybinder.org/v2/gh/rhiever/Data-Analysis-and-Machine-Learning-Projects/master?filepath=example-data-science-notebook%2FExample%20Machine%20Learning%20Notebook.ipynb)
 - [Machine Learning from Disaster](http://agconti.github.io/kaggle-titanic/): Using Titanic data, "Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques."
-- [Election Forecasting](https://github.com/jseabold/538model): A replication of the model [Nate Silver](https://fivethirtyeight.com/contributors/nate-silver/) used to make predictions about the 2012 US Presidential Election for the _New York Times_.
-- [An example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb): "let's pretend we're working for a startup that just got funded to create a smartphone app that automatically identifies species of flowers from pictures taken on the smartphone.  We've been tasked by our head of data science to create a demo machine learning model that takes four measurements from the flowers (sepal length, sepal width, petal length, and petal width) and identifies the species based on those measurements alone."
 - ClickSecurity's "data hacking" series (thanks [hummus](https://github.com/hummus)!)
 	- [Detect Algorithmically Generated Domains](http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb)
 	- [Detect SQL Injection](http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/sql_injection/sql_injection.ipynb)
@@ -247,15 +250,12 @@ Here is the abstract of [Machine Learning: The High-Interest Credit Card of Tech
 
 If you're following this guide, you should read that paper. You can also [listen to a podcast episode interviewing one of the authors of this paper](https://softwareengineeringdaily.com/2015/11/17/machine-learning-and-technical-debt-with-d-sculley/).
 
-A few more articles on the challenges running ML-powered systems in Production:
-
-- **["Rules of Machine Learning: Best Practices for [Reliable] ML Engineering,"](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)** by Martin Zinkevich, regarding ML engineering practices and patterns in production at Google. Optional: [accompanying video](http://cs.stanford.edu/~jsteinhardt/wildml2016nips/videos/1_2_Martin.wmv).
-- [**"What’s your ML Test Score? A rubric for ML production systems"**](https://0586f9b3-a-62cb3a1a-s-sites.googlegroups.com/site/wildml2016nips/SculleyPaper1.pdf?attachauth=ANoY7crRjdpoElseeyOPu-wR0eV9Engf3Cm9LKs0PAB4j-nDQuw9gE426Ug2HM-0BZ7qJjtLHVtpgwbP6zfNYyE_2gWkU5ACKczAIuKCTHq9nT0JEGpEL5TCT3APmScXKkS8HTqhJz-wen6vbq9XeHh_M5Heg49ozxsIiGMzX7PvIKxpnvViDOBLNymVQOkxuvX0-xnQThxU9CjEWQH25vOwdpJi-VQl1w%3D%3D&attredirects=0) by Eric Breck, Shanqing Cai, Eric Nielsen, Michael Salib, D. Sculley, Google.
+- **[Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning), "a curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning."** It includes a section about [privacy-preserving ML](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning), by the way!
+- **["Rules of Machine Learning: Best Practices for [Reliable] ML Engineering,"](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)** by Martin Zinkevich, regarding ML engineering practices. There's an [accompanying video](http://cs.stanford.edu/~jsteinhardt/wildml2016nips/videos/1_2_Martin.wmv).
 - **[Surviving Data Science "at the Speed of Hype"](http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype)** by John Foreman, Data Scientist at MailChimp
 - [The High Cost of Maintaining Machine Learning Systems](http://www.kdnuggets.com/2015/01/high-cost-machine-learning-technical-debt.html)
 - [11 Clever Methods of Overfitting and How to Avoid Them](http://hunch.net/?p=22)
 - [The Perilous World of Machine Learning for Fun and Profit: Pipeline Jungles and Hidden Feedback Loops](http://www.john-foreman.com/blog/the-perilous-world-of-machine-learning-for-fun-and-profit-pipeline-jungles-and-hidden-feedback-loops)
-
 
 ### Welcome to the Danger Zone
 
@@ -263,7 +263,7 @@ So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you'
 
 [![Drew Conway's Data Science Venn Diagram, modified slightly](https://user-images.githubusercontent.com/2420688/29441268-f429d88c-837e-11e7-83ff-30874d832c89.png)](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 
-**Please** don't sell yourself as a Machine Learning expert while you're still in the Danger Zone. Don't build bad products or publish junk science. (Also please [don't be evil](https://arstechnica.co.uk/security/2016/02/the-nsas-skynet-program-may-be-killing-thousands-of-innocent-people/).) This guide can't tell you how you'll know you've "made it" into Machine Learning competence ... let alone expertise. It's hard to evaluate proficiency without schools or other institutions. This is a common problem for self-taught people.
+**Please** don't sell yourself as a Machine Learning expert while you're still in the Danger Zone. Don't build bad products or publish junk science. Please do bookmark the Institute for Ethical AI & Machine Learning's **[Responsible Machine Learning Principles](https://ethical.institute/principles.html)**. This guide can't tell you how you'll know you've "made it" into Machine Learning competence ... let alone expertise. It's hard to evaluate proficiency without schools or other institutions. So, practice!
 
 #### Towards Expertise
 
@@ -303,9 +303,18 @@ Post to any of those, and ask for feedback. You'll get feedback. You'll learn a 
 
 When I read the feedback on my Pull Requests, first I repeat to myself, "I will not get defensive, I will not get defensive, I will not get defensive." You may want to do that before you read reviews of your Machine Learning work too.
 
+### It's dangerous to go alone, take these!
+
+**Bookmark these:**
+
+* **[Awesome-Artificial-Intelligence-Guidelines.](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)**
+    * Also by same org: [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)
+* **[Awesome-ML-Model-Governance](https://github.com/visenger/Awesome-ML-Model-Governance)**
+    * Also by same author: [Awesome-MLOps](https://github.com/visenger/awesome-mlops) ([ml-ops.org](https://ml-ops.org/))
+
 ----
 
-## Collaborate with Domain Experts!
+## Collaborate with Domain Experts
 
 Machine Learning can be powerful, but it is not magic.
 
@@ -332,19 +341,7 @@ Then, if you you know a coworker or friend who works in UX, take them out for co
 
 Spoiler: you should work with UX specialists whenever you can!
 
-### :bow: A note about Machine Learning and Security (InfoSec, AppSec)
-
-There was a great BlackHat webcast on this topic, [Secure Because Math: Understanding Machine Learning-Based Security Products.](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html) Slides are [here](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html), [video recording is here.](https://attendee.gotowebinar.com/recording/80449431422110210) If you're using ML to recommend some media, overfitting could be harmless. If you're relying on ML to protect from threats, overfitting could be downright dangerous. Check the full presentation if you are interested in this space.
-
-If you want to explore this space more deeply, there is a _lot_ of reading material in the below links:
-
-* [Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
-* [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)
-* [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security)
-* [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
-
 ----
-
 
 ## Deep Learning
 
@@ -389,7 +386,7 @@ Big Data Volume and Variety_](https://www.tamr.com/landing-pages/getting-data-ri
 * [TensorFlow](https://www.tensorflow.org/) has been a [really big deal.](https://news.ycombinator.com/item?id=10532957) People like you will do exciting things with TensorFlow. It's a framework. Frameworks can help you manage complexity. Just remember this rule of thumb: **"More data beats a cleverer algorithm"** (Domingos), no matter how cool your tools are. Also note, TensorFlow is not the only machine learning framework of its kind: **[Check this great, detailed comparison of TensorFlow, Torch, and Theano.](https://github.com/zer0n/deepframeworks)** See also [Newmu/Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials) and  [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials). See also the section on Deep Learning above.
     * Also, consider [Lore](https://github.com/instacart/lore/). "Lore is a python framework to make machine learning [especially deep learning] approachable for Engineers and maintainable for Data Scientists." 
 * For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
-* Bookmark [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning), a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Julia language - with a section on Machine Learning.
+* Julia: [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning), a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Julia language - with a section on Machine Learning.
 
 ----
 

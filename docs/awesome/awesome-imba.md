@@ -39,6 +39,7 @@ processing of Imba files.
 - [Material Imba](https://github.com/nathanjohnson320/material-imba) - Material Design components written in Imba.
 - [Imba Inertia Adapter](https://github.com/haikyuu/imba-inertia-adapter) - Imba [Inertia](https://inertiajs.com) adapter.
 - [Formidable](https://www.formidablejs.org/) - Imba Framework for Rapid API Development.
+- [Imba Shell](https://github.com/donaldp/imba-shell) - Interactive debugger and REPL for Imba.
 
 #### Editor Plugins and IDEs
 

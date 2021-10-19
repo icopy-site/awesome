@@ -247,6 +247,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [gcfg](https://github.com/go-gcfg/gcfg) - read INI-style configuration files into Go structs; supports user-defined types and subsections.
 * [genv](https://github.com/sakirsensoy/genv) - Read environment variables easily with dotenv support.
 * [go-aws-ssm](https://github.com/PaddleHQ/go-aws-ssm) - Go package that fetches parameters from AWS System Manager - Parameter Store.
+* [go-conf](https://github.com/ThomasObenaus/go-conf) - Simple library for application configuration based on annotated structs. It supports reading the configuration from environment variables, config files and command line parameters.
 * [go-ini](https://github.com/subpop/go-ini) - A Go package that marshals and unmarshals INI-files.
 * [go-ssm-config](https://github.com/ianlopshire/go-ssm-config) - Go utility for loading configuration parameters from AWS SSM (Parameter Store).
 * [go-up](https://github.com/ufoscout/go-up) - A simple configuration library with recursive placeholders resolution and no magic.
@@ -617,8 +618,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [hprose](https://github.com/hprose/hprose-golang) - Very newbility RPC Library, support 25+ languages now.
 * [jsonrpc](https://github.com/osamingo/jsonrpc) - The jsonrpc package helps implement of JSON-RPC 2.0.
 * [jsonrpc](https://github.com/ybbus/jsonrpc) - JSON-RPC 2.0 HTTP client implementation.
-* [KrakenD](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway framework with middlewares.
 * [liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams for NATS.
+* [lura](https://github.com/luraproject/lura) - Ultra performant API Gateway framework with middlewares.
 * [micro](https://github.com/micro/micro) - A distributed systems runtime for the cloud and beyond.
 * [NATS](https://github.com/nats-io/gnatsd) - Lightweight, high performance messaging system for microservices, IoT, and cloud native systems.
 * [outboxer](https://github.com/italolelis/outboxer) - Outboxer is a go library that implements the outbox pattern.
@@ -952,6 +953,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [ghw](https://github.com/jaypipes/ghw) - Golang hardware discovery/inspection library.
 * [go-osc](https://github.com/hypebeast/go-osc) - Open Sound Control (OSC) bindings for Go.
 * [go-rpio](https://github.com/stianeikeland/go-rpio) - GPIO for Go, doesn't require cgo.
+* [goroslib](https://github.com/aler9/goroslib) - Robot Operating System (ROS) library for Go.
 * [joystick](https://github.com/0xcafed00d/joystick) - a polled API to read the state of an attached joystick.
 * [sysinfo](https://github.com/zcalusic/sysinfo) - A pure Go library providing Linux OS / kernel / hardware system information.
 
@@ -2439,6 +2441,7 @@ _**Unofficial** set of patterns for structuring projects._
 
 ## Editor Plugins
 
+* [coc-go language server extension for Vim/Neovim](https://github.com/josa42/coc-go) - This plugin adds [gopls](https://github.com/golang/tools/blob/master/gopls/README.md) features to Vim/Neovim.
 * [Go plugin for JetBrains IDEs](https://plugins.jetbrains.com/plugin/9568-go) - Go plugin for JetBrains IDEs.
 * [go-language-server](https://github.com/theia-ide/go-language-server) - A wrapper to turn the VSCode go extension into a language server supporting the language-server-protocol.
 * [go-mode](https://github.com/dominikh/go-mode.el) - Go mode for GNU/Emacs.
