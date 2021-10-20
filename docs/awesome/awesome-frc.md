@@ -40,6 +40,7 @@
 - [2729 Storm Robotics Vision](https://github.com/2729StormRobotics/StormCV2017) - An example of using OpenCV and GRIP to create a vision system.
 - [Limelight](https://limelightvision.io/) - A plug-and-play vision solution built for FRC.
 - [ChickenVision](https://github.com/team3997/ChickenVision) - An easy to implement vision system created by Team 3997.
+- [SERT Vision](https://github.com/SouthEugeneRoboticsTeam/vision) - A Jetson-powered OpenCV vision tracking solution, complete with status GUI and NetworkTable hooks.
 
 ## Scouting
 
