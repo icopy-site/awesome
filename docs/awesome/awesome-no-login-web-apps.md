@@ -34,6 +34,7 @@ To save the world from creating user accounts and installing software applicatio
 * [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
 * [AI Vocal Remover](https://vocalremover.org) - Separate voice from music by artificial intelligence.
 * [Ambient Mixer](https://www.ambient-mixer.com/) - Listen to free audio atmospheres (e.g. Scottish Rain/Slytherin Common Room) or mix your own ambient sound online.
+* [Vileo](https://lukasbach.github.io/vileo/) - Record your screen or webcam and download the video from within your browser.
 
 
 ### Business and Finance
@@ -137,6 +138,7 @@ To save the world from creating user accounts and installing software applicatio
 * [skribbl.io](https://skribbl.io/) - Several players connect to a lobby and one of them is given a word that they need to draw without saying what it is while the others have to identify it.
 * [surviv.io](https://surviv.io/) - Surviv.io is a 2D battle royale game. You only have one live per game, no respawn.
 * [nitrome](https://www.nitrome.com/) - Collection of free pixelart games. New games doesn't require flash.
+* [Orion](https://orion.lukasbach.com/) - Board/puzzle game. Cleverly combine tiles from bags to fill up the board.
 
 
 ### Graphics, Image and Design
@@ -157,6 +159,7 @@ To save the world from creating user accounts and installing software applicatio
 * [LeanLogoMaker](https://leanlogomaker.com) - Generate 100s of logos, pick your favourite and download. Includes covers and profile images for your social media sites.
 * [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
 * [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
+* [Mancer](https://mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
 
 
 ### Internet Downloaders
@@ -204,7 +207,7 @@ To save the world from creating user accounts and installing software applicatio
 * [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam.
 * [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) - A temporary fully functional email address for 10 minutes (extendible).
 * [BugMeNot](http://bugmenot.com/) - A platform for finding and sharing logins of different websites. It helps you find credentials for signing in into different websites.
-
+* [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere.
 
 ### Programming Editors and IDEs
 
@@ -283,7 +286,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Telegraph](http://telegra.ph/) - Minimalist publishing tool that supports richly formatted text.
 * [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
 * [Write.as](https://write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
-* [Emojify](https://matthewmiller.dev/experiments/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
+* [Emojify](https://madelinemiller.dev/apps/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
 
 
 <a name="utilities"></a>
@@ -307,6 +310,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Daily Todo](https://dailytodo.org/) -  Simple todo list maker.
 * [Mailinator](https://www.mailinator.com/) - Disposable email service.
 * [Randommer](https://randommer.io/) - Random data generator and validator.
+* [Meditation Timer](https://meditation.koti.cloud/) - A meditation timer to keep track of your sessions.
 
 
 ### Miscellaneous
