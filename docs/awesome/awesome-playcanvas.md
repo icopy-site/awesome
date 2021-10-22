@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="playcanvas/awesome-playcanvas"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-c# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > <img src="https://raw.githubusercontent.com/playcanvas/awesome-playcanvas/master/playcanvas-logo.png" align="right" width="100">
 >
@@ -152,6 +152,7 @@ c# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome
 - [Amisco Furniture](https://www.amisco.com/en_us/uprightstool) - Interactive 3D furniture configurator.
 - [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) - Elevator configurator.
 - [Elfa Closets](http://elfa.com/sv-se/planner) - Closet configurator.
+- [Fjällräven Kånken](https://www.fjallraven.com/uk/en-gb/bags-gear/kanken/kanken-bags/kanken-me) - Backpack configurator.
 - [Sesotec Nexwey](https://www.sesotec.com/na/en-US/lp/nexwey) - Checkweigher machine visualizer.
 - [iPhone 6](http://phone.playcanvas.com) - iPhone visualizer.
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - Closet configurator.

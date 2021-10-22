@@ -54,6 +54,7 @@
 - [Metaverse Makers](https://discord.gg/UgZDFZW) - Official server for M3, the Metaverse Makers Mastermind group.
 - [WebXR Discord](https://discord.gg/Jt5tfaM) - Official Discord server for all things WebXR, with over 1000 members.
 - [Wonderland Engine Discord](https://discord.gg/FE8QnDP) - Wonderland Engine Discord server.
+- [XR Foundation Discord](https://discord.gg/Tb4MT4TTjH) - Official server for XR Foundation, responsible for XREngine and various other metaverse-related projects.
 
 ### Facebook
 
@@ -116,6 +117,8 @@
 
 - [Wonderland Engine](https://wonderlandengine.com/) - A development platform designed specifically for building WebXR applications.
   - [Official Documentation](https://wonderlandengine.com/documentation/)
+
+- [XREngine](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ### Frameworks and Libraries
 

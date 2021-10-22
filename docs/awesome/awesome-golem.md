@@ -138,6 +138,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 ## Developer and Requestor Resources
 
 - [Yagna handbook](https://handbook.golem.network/) - Handbook for the Golem, implementation name, Yagna.
+- [Yagna Python API docs](https://yapapi.readthedocs.io/) - Documentation for Yapapi.
 - [Releases List](https://github.com/golemfactory/yagna/releases) - GitHub releases of Yagna.
 - [Requestor flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development) - Get started quick and create your first tasks/request on Golem.
 - [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - Use the Yagna tag if you have an interesting question you'd like answered.
