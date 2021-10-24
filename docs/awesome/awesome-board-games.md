@@ -603,6 +603,16 @@
 | ------: | -------: | ------: |
 |   1 - 5 |     15+  | 60-180m |
 
+### [Ark Nova](https://boardgamegeek.com/boardgame/342942/ark-nova)
+
+> In Ark Nova, you will plan and design a modern, scientifically managed zoo. With the ultimate goal of owning the most successful zoological establishment, you will build enclosures, accommodate animals, and support conservation projects all over the world. Specialists and unique buildings will help you in achieving this goal.
+
+![Ark Nova](https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__itemrep/img/IRqrT7kOqPQilogauyQkOnLx-HU=/fit-in/246x300/filters:strip_icc()/pic6293412.jpg)
+
+| Players | Min. Age | Time    |
+| ------: | -------: | ------: |
+|   1 - 4 |      14+ | 90-150m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
@@ -1023,6 +1033,28 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   3 - 6 |      10+ | 10-60m |
+
+### [The Game of Life](https://en.wikipedia.org/wiki/The_Game_of_Life)
+
+> Hit the road for a roller-coaster life of adventure, family, unexpected surprises, and pets! Want to take the family path, start a career, or venture down a risky road? In this game, players can make their own exciting choices as they move through the twists and turns of life. Move the car token around the gameboard from Start to Retirement, and experience unexpected surprises related to family, career, and other milestones of life. Players can adopt pets in this version of The Game of Life game. The player with the most money at the end of the game wins!
+> Adult assembly required.
+> This board game also has a digital app version.
+
+![the game of life image](https://user-images.githubusercontent.com/61943677/138511931-aa1cdf9f-7d2a-4ab9-a3b7-f7f0d1a0f867.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 6 |        8+ | 30-80m |
+
+### [The Singaporean Dream](https://www.thesingaporeandream.com/)
+
+> A spin-off from Monopoly Deal, Singaporean Dream is an interactive card game where you can sabo, complain and pay your way to be the perfect Singaporean.
+
+![The Singaporean Dream image](https://cf.geekdo-images.com/AgAtrZRUwIttv1wRlvMskQ__itemrep/img/T6flb1-mQiTpzWu2S1dSQrhoUjw=/fit-in/246x300/filters:strip_icc()/pic4481765.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 6 |      18+ | 20-30m |
 
 ## Contribute
 
