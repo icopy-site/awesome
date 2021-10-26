@@ -1280,6 +1280,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 _**Unofficial** set of patterns for structuring projects._
 
+* [ardanlabs/service](https://github.com/ardanlabs/service) - A [starter kit](https://github.com/ardanlabs/service/wiki) for building production grade scalable web service applications.
 * [cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) - A Go application boilerplate template for quick starting projects following production best practices.
 * [go-sample](https://github.com/zitryss/go-sample) - A sample layout for Go application projects with the real code.
 * [go-starter](https://github.com/allaboutapps/go-starter) - An opinionated production-ready RESTful JSON backend template, highly integrated with VSCode DevContainers.
@@ -1316,6 +1317,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [avgRating](https://github.com/kirillDanshin/avgRating) - Calculate average score and rating based on Wilson Score Equation.
 * [banner](https://github.com/dimiro1/banner) - Add beautiful banners into your Go applications.
 * [base64Captcha](https://github.com/mojocn/base64Captcha) - Base64captch supports digit, number, alphabet, arithmetic, audio and digit-alphabet captcha.
+* [basexx](https://github.com/bobg/basexx) - Convert to, from, and between digit strings in various number bases.
 * [battery](https://github.com/distatus/battery) - Cross-platform, normalized battery information library.
 * [bitio](https://github.com/icza/bitio) - Highly optimized bit-level Reader and Writer for Go.
 * [browscap_go](https://github.com/digitalcrab/browscap_go) - GoLang Library for [Browser Capabilities Project](https://browscap.org/).
@@ -2371,6 +2373,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [httptreemux](https://github.com/dimfeld/httptreemux) - High-speed, flexible tree-based HTTP router for Go. Inspiration from httprouter.
 * [lars](https://github.com/go-playground/lars) - Is a lightweight, fast and extensible zero allocation HTTP router for Go used to create customizable frameworks.
 * [mux](https://github.com/gorilla/mux) - Powerful URL router and dispatcher for golang.
+* [ngamux](https://github.com/ngamux/ngamux) - Simple HTTP router for Go.
 * [ozzo-routing](https://github.com/go-ozzo/ozzo-routing) - An extremely fast Go (golang) HTTP router that supports regular expression route matching. Comes with full support for building RESTful APIs.
 * [pure](https://github.com/go-playground/pure) - Is a lightweight HTTP router that sticks to the std "net/http" implementation.
 * [Siesta](https://github.com/VividCortex/siesta) - Composable framework to write middleware and handlers.
@@ -2548,6 +2551,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [jcli](https://github.com/jenkins-zh/jenkins-cli) - Jenkins CLI allows you manage your Jenkins as an easy way.
 * [kala](https://github.com/ajvb/kala) - Simplistic, modern, and performant job scheduler.
 * [kcli](https://github.com/cswank/kcli) - Command line tool for inspecting kafka topics/partitions/messages.
+* [kool](https://github.com/kool-dev/kool) - Command line tool for managing Docker environments as an easy way.
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google.
 * [lstags](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
 * [lwc](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.

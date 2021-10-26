@@ -226,6 +226,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
 - [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 React component
+- [react-advanced-cropper](https://github.com/Norserium/react-advanced-cropper) - An advanced React component for image cropping
 
 ##### React Testing
 
@@ -335,6 +336,8 @@ A collection of awesome things regarding the React ecosystem.
 - [hookstate](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
 - [effector](https://github.com/zerobias/effector) - Fast and powerful reactive state manager
 - [reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management
+- [react-facet](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - Observable-based state management for performant game UIs built in React
+- [hookstate](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
 
 ##### React AR and VR
 

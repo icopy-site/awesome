@@ -17,7 +17,7 @@
 * [Write a simple CLI application in Scala Native](https://github.com/ItoYo16u/prettytable-native)
 ## Build Tools
 * [sbt](https://www.scala-sbt.org/) - Scala's standard build tool.
-* [Mill](https://github.com/lihaoyi/mill) - Build tool striving for simplicity, inspired by [Bazel](https://www.bazel.build/).
+* [Mill](https://github.com/com-lihaoyi/mill) - Build tool striving for simplicity, inspired by [Bazel](https://www.bazel.build/).
 * [Bloop](https://github.com/scalacenter/bloop) - Scala build server and command-line tool for fast developer workflows.
 * [Seed](https://github.com/tindzk/seed) - Build tool based on Bloop. Focuses on user experience and cross-platform builds, inspired by [Cargo](https://github.com/rust-lang/cargo).
 
@@ -67,11 +67,11 @@
 
 ## File Formats and Parsers
 * [msgpack4z](https://github.com/msgpack4z/msgpack4z-native) - Implementation of [MessagePack](https://msgpack.org/), a binary serialisation format.
-* [FastParse](https://github.com/lihaoyi/fastparse) - Library for defining and running parsers.
-* [scalatags](https://github.com/lihaoyi/scalatags) - HTML/XML construction and rendering.
+* [FastParse](https://github.com/com-lihaoyi/fastparse) - Library for defining and running parsers.
+* [scalatags](https://github.com/com-lihaoyi/scalatags) - HTML/XML construction and rendering.
 * [Pine](https://github.com/sparsetech/pine) - HTML/XML parsing, manipulation and rendering.
 * [scala-json](https://github.com/MediaMath/scala-json) - JSON parser.
-* [uJson](http://www.lihaoyi.com/upickle/#uJson) - fast, flexible and intuitive JSON for Scala
+* [uJson](https://com-lihaoyi.github.io/upickle/#uJson) - fast, flexible and intuitive JSON for Scala
 * [toml-scala](https://github.com/sparsetech/toml-scala) - [TOML](https://github.com/toml-lang/toml) parser with codec derivation.
 * [argonaut](https://github.com/argonaut-io/argonaut) - Purely functional JSON parser and library.
 * [ScalaPB](https://github.com/scalapb/ScalaPB) - [Protocol Buffer](https://developers.google.com/protocol-buffers/) compiler for Scala.
@@ -82,6 +82,7 @@
 ## Databases
 * [JDBC](https://github.com/jokade/scalanative-jdbc) - Port of the database access layer [JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity) to Scala Native.
 * [SQLite4S](https://github.com/david-bouyssie/sqlite4s) - Port of the Java library [Sqlite4java](https://bitbucket.org/almworks/sqlite4java). Includes bindings for the SQLite native library.
+* [libpq4s](https://github.com/david-bouyssie/libpq4s) - Scala wrapper around the async PostgreSQL C library libpq.
 
 ## Web Development
 * [Trail](https://github.com/sparsetech/trail) - Routing library.
@@ -90,17 +91,18 @@
 
 ## Concurrency
 * [scala-native-loop](https://github.com/scala-native/scala-native-loop) - Event loop and async-oriented IO for Scala Native
-* [castor](https://github.com/lihaoyi/castor) - Lightweight, typed Actor library for Scala.
+* [castor](https://github.com/com-lihaoyi/castor) - Lightweight, typed Actor library for Scala.
 
 ## Logging
 * [scribe](https://github.com/outr/scribe) - Fast and simple logging library.
 * [slogging](https://github.com/jokade/slogging) - [Typesafe-logging](https://github.com/lightbend/scala-logging) and [SLF4J](https://www.slf4j.org/)-compatible logging library based on macros.
 
 ## Console
-* [fansi](https://github.com/lihaoyi/fansi) - Library for creating [ANSI-coloured strings](https://en.wikipedia.org/wiki/ANSI_escape_code).
+* [fansi](https://github.com/com-lihaoyi/fansi) - Library for creating [ANSI-coloured strings](https://en.wikipedia.org/wiki/ANSI_escape_code).
 * [scopt](https://github.com/scopt/scopt) - Command-line argument parser.
 * [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) - Port of Haskell's CLI argument parsing library [optparse-applicative](https://hackage.haskell.org/package/optparse-applicative).
 * [scallop](https://github.com/scallop/scallop) - A simple Scala CLI parsing library.
+* [mainargs](https://github.com/com-lihaoyi/mainargs) - Small, dependency-free library for command line argument parsing in Scala.
 
 ## Robotics
 * [Potassium](https://github.com/Team846/potassium) - Framework for writing robot software.

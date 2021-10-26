@@ -307,6 +307,7 @@
 - [Vue.js SPA: Build a Powerful E-Commerce App](https://snipcart.com/blog/building-a-vuejs-spa)
 - [Learning Vue 3.0](https://github.com/chengpeiquan/learning-vue3)
 - [Vue 3.0 and decentalized app (dApp)](https://github.com/hypescale/moralis-vue-boilerplate)
+- [Vuejs Authentication Tutorial](https://www.loginradius.com/blog/async/implementing-authentication-on-vuejs-using-jwt/) on LoginRadius blog
 
 ### Examples
 
@@ -464,6 +465,7 @@
 - [vue-cli-3-tailwind-axios-starter](https://github.com/Ted2xmen/vue-cli-3-tailwind-axios-starter) - A boilerplate using Tailwind, Axios-ready, Vuex and Router
 - [vue-cli-3-wave-ui-starter](https://github.com/Ted2xmen/vue-cli-3-wave-ui-starter) - A boilerplate using Wave UI + Vuex and Router
 - [CVue-Awesome](https://github.com/coskuncayemre/CVue-Awesome) Auto Resume Builder by [Emre Coşkunçay](https://github.com/coskuncayemre)
+- [Vue 3 TypeScript Library Template](https://github.com/TinkoLiu/vue3-ts-lib-template) A simple but complete library template for Vue 3, supports generating `.vue.d.ts` 
 
 ### Books
 
