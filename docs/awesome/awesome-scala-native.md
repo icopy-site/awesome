@@ -31,6 +31,7 @@
 * [reactify](https://github.com/outr/reactify) - Functional Reactive Programming framework for Scala.
 * [chimney](https://github.com/scalalandio/chimney) - Boilerplate-free data transformations.
 * [Quicklens](https://github.com/softwaremill/quicklens) - Modify deeply nested case class fields.
+* [Cats](https://github.com/typelevel/cats) - Abstractions for functional programming in Scala.
 
 ## Unit Tests
 * [µTest](https://github.com/lihaoyi/utest) - Library for unit tests.
@@ -103,6 +104,7 @@
 * [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) - Port of Haskell's CLI argument parsing library [optparse-applicative](https://hackage.haskell.org/package/optparse-applicative).
 * [scallop](https://github.com/scallop/scallop) - A simple Scala CLI parsing library.
 * [mainargs](https://github.com/com-lihaoyi/mainargs) - Small, dependency-free library for command line argument parsing in Scala.
+* [decline](https://github.com/bkirwi/decline) - A composable command-line parser for Scala.
 
 ## Robotics
 * [Potassium](https://github.com/Team846/potassium) - Framework for writing robot software.
