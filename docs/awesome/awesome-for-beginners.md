@@ -22,7 +22,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 ## C
 
-- [Neovim](https://github.com/neovim/neovim/labels/good%20first%20issue) _(label: good first issue)_ <br> Vim-fork focused on extensibility and agility.
+- [Neovim](https://github.com/neovim/neovim/labels/good-first-issue) _(label: good-first-issue)_ <br> Vim-fork focused on extensibility and agility.
 
 ## C#
 
@@ -108,7 +108,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Dragula](https://github.com/bevacqua/dragula/labels/first-timers-only) _(label: first-timers-only)_ <br> Drag and drop so simple it hurts.
 - [history](https://github.com/rackt/history/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  A minimal, functional history library for JavaScript.
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor) _(label: first time contributor)_ <br> Helping you select an MV\* framework by implementing Todo in lots of JavaScript apps.
-- [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_ <br> An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [AVA](https://github.com/sindresorhus/ava/labels/good%20for%20beginner) _(label: good for beginner)_ <br> Futuristic test runner.
 - [Kinto.js](https://github.com/Kinto/kinto.js/labels/easy-pick) _(label: easy-pick)_ <br> An offline-first JavaScript client leveraging the [Kinto API](http://kinto.readthedocs.org/) for remote data synchronization.
 - [ESLint](https://github.com/eslint/eslint/labels/good%20first%20issue) _(label: good first issue)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
@@ -186,6 +185,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [SimplQ](https://github.com/SimplQ/simplQ-frontend/labels/good%20first%20issue) _(label: good first issue)_ <br> Free online queue manager for easy and instant crowd control. [Contributing Guidelines](https://github.com/SimplQ/simplQ-frontend#contributing)
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch/labels/good%20first%20issue%20%3Awave%3A) _(label: good first issue)_ <br> A UI components library for Elasticsearch: Available for React, Vue and React Native.
 - [Create React App](https://github.com/facebook/create-react-app/labels/good%20first%20issue) _(label: good-first-issue)_ <br> Create React apps with no build configuration.
+- [Svelte](https://github.com/sveltejs/svelte/labels/good%20first%20issue) _(label: good first issue)_ <br> Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
 
 ## Julia
 
@@ -203,6 +203,10 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 ## LaTeX
 
 - [Algorithmic Pseudocode](https://github.com/just-a-visitor/algorithmic-pseudocode/labels/good%20first%20issue) _(label: good first issue)_ <br> A collection of language independent pseudocodes (pdf) for interview preparation and competitive programming.
+
+## Markdown
+
+- [tldr-pages](https://github.com/tldr-pages/tldr/labels/help%20wanted) _(label: help wanted)_ <br> Collaborative cheatsheets for console commands.
 
 ## Perl
 
