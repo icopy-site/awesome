@@ -742,6 +742,12 @@ A bleak and haunting tale, easy to picture playing out in today's political clim
 
 > Set in the near future, it describes life in what was once the United States, now called the Republic of Gilead, a monotheocracy that has reacted to social unrest and a sharply declining birthrate by reverting to, and going beyond, the repressive intolerance of the original Puritans. The regime takes the Book of Genesis absolutely at its word, with bizarre consequences for the women and men of its population.
 
+#### [Make Room! Make Room!](https://www.goodreads.com/book/show/473850.Make_Room_Make_Room_) (1966) _by [Harry Harrison](https://en.wikipedia.org/wiki/Harry_Harrison_(writer))_ [3.7]
+
+Great dystopian work shows the impact of [Universal basic income](https://en.wikipedia.org/wiki/Universal_basic_income) to society. - [@4ndrej](https://github.com/4ndrej)
+
+> Set in a future August 1999, novel of an overpopulated urban jungle, a divided class system—operating within an atmosphere of riots, food shortages, and senseless acts of violence—and a desperate hunt for the truth by a cynical NYC detective tells a classic tale of a dark future. The 1973 science fiction movie Soylent Green is loosely based on this novel.
+
 #### [The Man in the High Castle](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle) (1962) _by [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)_ [3.8]
 
 My favourite of all Philip K. Dick's novels, the I Ching and the alternate history within an alternate history novel being interesting elements. - [@roryrjb](https://github.com/roryrjb)
@@ -1157,6 +1163,12 @@ I liked this series so much I got a tattoo partially inspired by it. - [@Richard
 This novel is absurd fun -- think Douglas Adams style with a literary flair. Though flawed, the later novels in the series are in my reading pile. - [@neontapir](https://github.com/neontapir)
 
 > Great Britain circa 1985: time travel is routine, cloning is a reality (dodos are the resurrected pet of choice), and literature is taken very, very seriously. Acheron Hades, Third Most Wanted Man In the World, steals the original manuscript of Martin Chuzzlewit and kills a minor character, who then disappears from every volume of the novel ever printed! Hades' real target is the beloved Jane Eyre, and it's not long before he plucks her from the pages of Bronte's novel. Enter Thursday Next, the Special Operative's renowned literary detective. With the help of her uncle Mycroft's Prose Portal, Thursday enters the novel to rescue Jane Eyre from this heinous act of literary homicide. Can Thursday save Jane Eyre and Bronte's masterpiece?
+
+#### [The Gone World](https://www.goodreads.com/book/show/33413556-the-gone-world) (2018) _by [Tom Sweterlitsch](https://www.goodreads.com/author/show/6981174.Tom_Sweterlitsch)_ [3.94]
+
+This novel shows interesting mix of hard sci-fi, Nordic noir, parallel / alternative universe tree and path backtracking. The main protagonist is fighting the global cataclysm in its own style. The storytelling is so unique I'm afraid no one would be able to make a film based on this masterpiece. There is a [great book ending explanation](https://www.thisisbarry.com/book/the-gone-world-ending-explained-tom-sweterlitsch-book/) there. - [@4ndrej](https://github.com/4ndrej)
+
+> Shannon Moss is part of a clandestine division within the Naval Criminal Investigative Service. In western Pennsylvania, 1997, she is assigned to solve the murder of a Navy SEAL's family--and to locate his vanished teenage daughter. Though she can't share the information with conventional law enforcement, Moss discovers that the missing SEAL was an astronaut aboard the spaceship U.S.S. Libra—a ship assumed lost to the currents of Deep Time. Moss knows first-hand the mental trauma of time-travel and believes the SEAL's experience with the future has triggered this violence. Determined to find the missing girl and driven by a troubling connection from her own past, Moss travels ahead in time to explore possible versions of the future, seeking evidence to crack the present-day case. To her horror, the future reveals that it's not only the fate of a family that hinges on her work, for what she witnesses rising over time's horizon and hurtling toward the present is the Terminus: the terrifying and cataclysmic end of humanity itself.
 
 #### [The Time Machine](https://www.goodreads.com/book/show/2493.The_Time_Machine) (1895) _by [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)_ [3.8] 🌟 🔥
 
