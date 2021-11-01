@@ -69,7 +69,7 @@ Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-b
 + [Tamil / தமிழ்](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ta.md)
 + [Thai / ไทย](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-th.md)
 + [Turkish / Türkçe](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-tr.md)
-+ [Ukrainian / Українська](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ua.md)
++ [Ukrainian / Українська](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-uk.md)
 + [Vietnamese / Tiếng Việt](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-vi.md)
 
 
@@ -103,7 +103,7 @@ Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-b
 + [Spanish / español / castellano](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-es.md)
 + [Thai / ภาษาไทย](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-th.md)
 + [Turkish / Türkçe](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-tr.md)
-+ [Ukrainian / Українська](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ua.md)
++ [Ukrainian / Українська](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-uk.md)
 + [Vietnamese / Tiếng Việt](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-vi.md)
 
 
