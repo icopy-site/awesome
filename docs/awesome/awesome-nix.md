@@ -130,12 +130,12 @@
 
 ### Rust
 
-* [fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust analyzer nightly for nix.
+* [fenix](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
 * [naersk](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
 * [nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - A library that allows easy and effortless integration for Cargo projects.
-* [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with bleeding-edge Rust and Firefox.
+* [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
 * [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
-* [rust-overlay](https://github.com/oxalica/rust-overlay) - A compatible replacement for Mozilla's overlay that's pure and reproducible.
+* [rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
 
 ## NixOS Modules
 
@@ -155,7 +155,7 @@
 ## Community
 
 * [#nix:nixos.org](https://matrix.to/#/#nix:nixos.org)
-* [#nixos on Libera.Chat](https://github.com/nix-community/awesome-nix/blob/master/ircs://irc.libera.chat:6697/nixos/nixos)
+* [#nixos on Libera.Chat](https://web.libera.chat/?nick=Guest?#nixos)
 * [Discord - Nix/Nixos (Unofficial)](https://discord.gg/BMUCQx6)
 * [Discourse](https://discourse.nixos.org/) - The best place to get help and discuss Nix-related topics.
 * [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.

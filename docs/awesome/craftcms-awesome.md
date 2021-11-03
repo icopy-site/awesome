@@ -394,6 +394,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 - [Betterteam](https://www.betterteam.com/)
 - [BigCommerce](https://www.bigcommerce.com)
 - [Bill Nye](https://www.billnye.com/)
+- [Canary Media](https://www.canarymedia.com/)
 - [City of Marion, IN](https://cityofmarion.in.gov/)
 - [City of Oakland](https://www.oaklandca.gov/)
 - [Confab Events](http://confabevents.com)
