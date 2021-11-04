@@ -328,6 +328,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [dict](https://github.com/srfrog/dict) - Python-like dictionaries (dict) for Go.
 * [dsu](https://github.com/ihebu/dsu) - Disjoint Set data structure implementation in Go.
 * [encoding](https://github.com/zhenjl/encoding) - Integer Compression Libraries for Go.
+* [fsm](https://github.com/cocoonspace/fsm) - Finite-State Machine package.
 * [gdcache](https://github.com/ulovecode/gdcache) - A pure non-intrusive cache library implemented by golang, you can use it to implement your own distributed cache.
 * [go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) - Go implementation of Adaptive Radix Tree.
 * [go-datastructures](https://github.com/Workiva/go-datastructures) - Collection of useful, performant, and thread-safe data structures.
@@ -863,6 +864,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 *Tools for compiling Go to other languages.*
 
 * [c4go](https://github.com/Konstantin8105/c4go) - Transpile C code to Go code.
+* [esp32](https://github.com/andygeiss/esp32-transpiler) - Transpile Go into Arduino code.
 * [f4go](https://github.com/Konstantin8105/f4go) - Transpile FORTRAN 77 code to Go code.
 * [gopherjs](https://github.com/gopherjs/gopherjs) - Compiler from Go to JavaScript.
 * [tardisgo](https://github.com/tardisgo/tardisgo) - Golang to Haxe to CPP/CSharp/Java/JavaScript transpiler.
@@ -1286,7 +1288,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [go-starter](https://github.com/allaboutapps/go-starter) - An opinionated production-ready RESTful JSON backend template, highly integrated with VSCode DevContainers.
 * [go-todo-backend](https://github.com/Fs02/go-todo-backend) - Go Todo Backend example using modular project layout for product microservice.
 * [gobase](https://github.com/wajox/gobase) - A simple skeleton for golang application with basic setup for real golang application.
-* [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Set of common historical and emerging project layout patterns in the Go ecosystem.
+* [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Set of common historical and emerging project layout patterns in the Go ecosystem. Note: despite the org-name they do not represent official golang standards, see [this issue](https://github.com/golang-standards/project-layout/issues/117) for more information. Nonetheless, some may find the layout useful.
 * [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
 * [insidieux/inizio](https://github.com/insidieux/inizio) - Golang project layout generator with plugins.
 * [modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Go application boilerplate and example applying modern practices.
@@ -2217,6 +2219,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [uuid](https://github.com/gofrs/uuid) - Implementation of Universally Unique Identifier (UUID). Supports both creation and parsing of UUIDs. Actively maintained fork of satori uuid.
 * [uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 * [wuid](https://github.com/edwingeng/wuid) - An extremely fast unique number generator, 10-135 times faster than UUID.
+* [xid](https://github.com/rs/xid) - Xid is a globally unique id generator library, ready to be safely used directly in your server code.
 
 
 ## Validation
@@ -2410,6 +2413,15 @@ _**Unofficial** set of patterns for structuring projects._
 * [xpath](https://github.com/antchfx/xpath) - XPath package for Go.
 * [xquery](https://github.com/antchfx/xquery) - XQuery lets you extract data from HTML/XML documents using XPath expression.
 * [zek](https://github.com/miku/zek) - Generate a Go struct from XML.
+
+## Zero Trust
+
+*Libraries and tools to implement Zero Trust architectures.*
+
+* [Cosign](https://github.com/sigstore/cosign) - Container Signing, Verification and Storage in an OCI registry.
+* [in-toto](https://github.com/in-toto/in-toto-golang) - Go implementation of the in-toto (provides a framework to protect the integrity of the software supply chain) python reference implementation.
+* [Spiffe-Vault](https://github.com/philips-labs/spiffe-vault) - Utilizes Spiffe JWT authentication with Hashicorp Vault for secretless authentication.
+* [Spire](https://github.com/spiffe/spire) - SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms.
 
 ## Tools
 

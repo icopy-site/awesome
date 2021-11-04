@@ -230,7 +230,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
   - [Enforcing practices](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
   - [Enforcing manageability](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
 - [QUnit](https://github.com/platinumazure/eslint-plugin-qunit) - Linting rules for QUnit.
-- [Testcafe](https://github.com/miherlosev/eslint-plugin-testcafe) - Linting rules for Testcafe.
+- [TestCafe-Community](https://github.com/testcafe-community/eslint-plugin-testcafe-community) - TestCafe linting rules with env globals (fork from [TestCafe globals](https://github.com/miherlosev/eslint-plugin-testcafe)).
 - [Testing Library](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 
 ## Parsers
@@ -258,6 +258,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Restricted Globals](https://github.com/sidoshi/eslint-restricted-globals) - Expect `window` qualifier on globals that may otherwise be confusable as local variables.
 - [ES and browser globals](https://github.com/sindresorhus/globals) (originally from ESLint)
 - [chai globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
+- [TestCafe globals](https://github.com/miherlosev/eslint-plugin-testcafe) - `fixture` & `test` globals for TestCafe.
 
 ## Tools
 
