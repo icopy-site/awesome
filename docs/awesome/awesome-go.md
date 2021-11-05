@@ -145,6 +145,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Libraries for building standard or basic Command Line applications.*
 
+* [acmd](https://github.com/cristalhq/acmd) - Simple, useful and opinionated CLI package in Go.
 * [argparse](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 * [argv](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
 * [cli](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
@@ -1667,6 +1668,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [CertMagic](https://github.com/caddyserver/certmagic) - Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal.
 * [dongle](https://github.com/golang-module/dongle) - A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption.
 * [firewalld-rest](https://github.com/prashantgupta24/firewalld-rest) - A rest application to dynamically update firewalld rules on a linux server.
+* [go-htpasswd](https://github.com/tg123/go-htpasswd) - Apache htpasswd Parser for Go.
 * [go-generate-password](https://github.com/m1/go-generate-password) - Password generator that can be used on the cli or as a library.
 * [go-password-validator](https://github.com/lane-c-wagner/go-password-validator) - Password validator based on raw cryptographic entropy values.
 * [go-yara](https://github.com/hillu/go-yara) - Go Bindings for [YARA](https://github.com/plusvic/yara), the "pattern matching swiss knife for malware researchers (and everyone else)".
@@ -1830,6 +1832,7 @@ _**Unofficial** set of patterns for structuring projects._
     * [gotest.tools](https://github.com/gotestyourself/gotest.tools) - A collection of packages to augment the go testing package and support common patterns.
     * [Hamcrest](https://github.com/rdrdr/hamcrest) - fluent framework for declarative Matcher objects that, when applied to input values, produce self-describing results.
     * [httpexpect](https://github.com/gavv/httpexpect) - Concise, declarative, and easy to use end-to-end HTTP and REST API testing.
+    * [is](https://github.com/matryer/is) - Professional lightweight testing mini-framework for Go.
     * [jsonassert](https://github.com/kinbiko/jsonassert) - Package for verifying that your JSON payloads are serialized correctly.
     * [restit](https://github.com/yookoala/restit) - Go micro framework to help writing RESTful API integration test.
     * [schema](https://github.com/jgroeneveld/schema) - Quick and easy expression matching for JSON schemas used in requests and responses.
@@ -2918,3 +2921,5 @@ _**Unofficial** set of patterns for structuring projects._
 * [Working with Go](https://github.com/mkaz/working-with-go) - Intro to go for experienced programmers.
 * [Your basic Go](https://yourbasic.org/golang) - Huge collection of tutorials and how to's.
 * [Learning Go by examples](https://dev.to/aurelievache/learning-go-by-examples-introduction-448n) -  Serie of article in order to learn Golang language by concrete applications as example
+* [Go Tutorial](https://www.tutorialspoint.com/go/index.htm) -  Learn Go programming
+* [Go Language Tutorial](https://www.javatpoint.com/go-tutorial) -  Learn Go language Tutorial

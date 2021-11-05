@@ -26,6 +26,9 @@ If this is your first time dealing with transit data, you might find these links
 
 Places to ask questions and find other community resources.
 
+- [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) Community
+  - [OpenTripPlanner User mailing list](https://groups.google.com/forum/#!forum/opentripplanner-users)
+  - [OpenTripPlanner Developers mailing list](https://groups.google.com/forum/#!forum/opentripplanner-dev)
 - [TransitWiki](http://transitwiki.org) - A community wiki for transit planners. Like this repo, but better.
 - [MobilityData Slack chat](https://mobilitydata-io.herokuapp.com/)
 - [Transit Developers mailing list](https://groups.google.com/forum/#!forum/transit-developers)
@@ -157,6 +160,7 @@ Apps people use when taking transit.
 
 ### Visualizations
 
+- [MOTIS](https://motis-project.de/) - Intermodal Mobility Information System including [visualization](https://europe.motis-project.de/)
 - [Visualizing MBTA Data](http://mbtaviz.github.io/) - Interactive graphs that show how people use Boston's subway system.
 - [MIT COAXS](http://mittransportanalyst.github.io/) - Co-creative Planning of Transit Corridors using Accessibility-Based Stakeholder Engagement (shows route scenarios using [OpenTripPlanner Analyst](http://www.opentripplanner.org/analyst/)).
 - [TRAVIC Transit Visualization Client](http://tracker.geops.ch/) - Visualizes vehicles moving based on static GTFS data (and sometimes realtime data). Supports over 260 cities.  Github account for geOps organization is [here](https://github.com/geops).
@@ -195,10 +199,8 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 - [Go GTFS Parser](https://github.com/geops/gtfsparser) - A GTFS parsing library for Go.
 
 #### Java
-- [GTFS to SQL](https://github.com/OpenMobilityData/GtfsToSql) - Parses a GTFS feed into an SQL database (used in [OpenMobilityData](https://openmobilitydata.org/)).
 - [OneBusAway GTFS Modules](https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki) - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.
 - [R5: Rapid Realistic Routing on Real-world and Reimagined networks](https://github.com/conveyal/r5) - A Java-based routing engine for multimodal (transit/bike/walk/car) networks. It currently plans many trips over a time window for analytics purposes, but may eventually support point-to-point journey planning.
-- [SQL to GTFS](https://github.com/OpenMobilityData/SqlToGtfs) - Convert an SQLite file generated with "GtfsToSql" back to a zipped GTFS file.
 
 #### JavaScript
 - [gtfs-sequelize](https://github.com/evansiroky/gtfs-sequelize) - Node.js library modeling the static GTFS using [sequelize.js](http://sequelizejs.com/).
