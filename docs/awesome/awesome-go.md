@@ -120,7 +120,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [tbot](https://github.com/yanzay/tbot) - Telegram bot server with API similar to net/http.
 * [telebot](https://github.com/tucnak/telebot) - Telegram bot framework written in Go.
 * [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) - Simple and clean Telegram bot client.
-* [teleterm](hhttps://github.com/alfiankan/teleterm) - Telegram Bot Exec Terminal Command.
+* [teleterm](https://github.com/alfiankan/teleterm) - Telegram Bot Exec Terminal Command.
 * [Tenyks](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging.
 
 
@@ -1834,6 +1834,7 @@ _**Unofficial** set of patterns for structuring projects._
     * [httpexpect](https://github.com/gavv/httpexpect) - Concise, declarative, and easy to use end-to-end HTTP and REST API testing.
     * [is](https://github.com/matryer/is) - Professional lightweight testing mini-framework for Go.
     * [jsonassert](https://github.com/kinbiko/jsonassert) - Package for verifying that your JSON payloads are serialized correctly.
+    * [omg.testingtools](https://github.com/dedalqq/omg.testingtools) - The simple library for change a values of private fields for testing.
     * [restit](https://github.com/yookoala/restit) - Go micro framework to help writing RESTful API integration test.
     * [schema](https://github.com/jgroeneveld/schema) - Quick and easy expression matching for JSON schemas used in requests and responses.
     * [stop-and-go](https://github.com/elgohr/stop-and-go) - Testing helper for concurrency.

@@ -1024,6 +1024,13 @@ Featured playlists: `Install and overview`, `Linux How-to`. \
 Content about: Windows \
 Featured playlists: `Windows Server Beginners Tutorials`, `Managing Networking services in Windows Server`, `Managing Active Directory Infrastructure`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/IEbXScJu3VcBeTenoLtX4SWaUhxt9WG8lLs-9uYhqMVSRHCjFn3VA9KZOXZBekxlxhzN9ISG=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DistroTube/)
+
+[**DistroTube**](https://www.youtube.com/c/DistroTube/) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Linux, Emacs, CLI, Privacy in general.\
+Featured playlists: `Privacy & Security`, `The church of Emacs`, `The command line`, `The Arch way`. \
+<br/>
+
 
 ## Digital design
 
