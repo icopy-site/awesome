@@ -90,6 +90,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
     <li><a href="#tcl">Tcl</a></li>
     <li><a href="#typescript">TypeScript</a></li>
     <li><a href="#vbscript">VBScript</a></li>
+    <li><a href="#verilog">Verilog/SystemVerilog</a></li>
     <li><a href="#vim-script">Vim Script</a></li>
     </ul>
 </details>
@@ -306,6 +307,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [safesql](https://github.com/stripe/safesql) - Static analysis tool for Golang that protects against SQL injections.
 - [staticcheck](https://staticcheck.io) - Go static analysis that specialises in finding bugs, simplifying code and improving performance.
 - [structcheck](https://gitlab.com/opennota/check) - Find unused struct fields.
+- [structslop](https://github.com/orijtech/structslop) - Static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency
 - [test](http://golang.org/pkg/testing) - Show location of test failures from the stdlib testing module.
 - [unconvert](https://github.com/mdempsky/unconvert) - Detect redundant type conversions.
 - [unparam](https://github.com/mvdan/unparam) - Find unused function parameters.
@@ -629,6 +631,15 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 <h2 id="vbscript">VBScript</h2>
 
 - [Test Design Studio](http://patterson-consulting.net/tds) :copyright: - A full IDE with static code analysis for Micro Focus Unified Functional Testing VBScript-based automated tests.
+
+
+<h2 id="verilog">Verilog/SystemVerilog</h2>
+
+- [Icarus Verilog](https://github.com/steveicarus/iverilog) - A Verilog simulation and synthesis tool that operates by compiling source code written in IEEE-1364 Verilog into some target format
+- [svls](https://github.com/dalance/svls) - A Language Server Protocol implementation for Verilog and SystemVerilog, including lint capabilities.
+- [verible-linter-action](https://github.com/chipsalliance/verible-linter-action) - Automatic SystemVerilog linting in github actions with the help of Verible Used to lint Verilog and SystemVerilog source files and comment erroneous lines  of code in Pull Requests automatically.
+- [Verilator](https://www.veripool.org/verilator) - A tool which converts Verilog to a cycle-accurate behavioral model in C++ or SystemC. Performs lint code-quality checks.
+- [vscode-verilog-hdl-support](https://github.com/mshr-h/vscode-verilog-hdl-support) - Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code. Provides syntax highlighting and Linting support from Icarus Verilog, Vivado Logical Simulation, Modelsim and Verilator
 
 
 <h2 id="vim-script">Vim Script</h2>

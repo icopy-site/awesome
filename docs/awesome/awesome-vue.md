@@ -734,6 +734,7 @@
 - [Interface X](https://github.com/empathyco/x) - UI Search&Discovery components to rapidly build beautiful search experiences
 - [Context Note](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
 - [Balancer](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum. 
+- [Materio Free Vuetify VueJS Laravel Admin Template](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout.
 
 ### Commercial Products
 
@@ -2788,6 +2789,7 @@ _LocalStorage etc._
 - [vue-datatable-url-sync](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
 - [vue-path-store](https://github.com/kouts/vue-path-store) - Simple state management that uses the dot notation path syntax, also comes with Vuex and Pinia plugins.
 - [pinia](https://github.com/posva/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support.
+- [harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
 
 ##### Redux
 
