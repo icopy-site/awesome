@@ -129,6 +129,7 @@ Free Podcasts and Screencasts:
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-fi.md)
 + [French / français](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-fr.md)
++ [Hebrew / עברית](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-he.md)
 + [Indonesian / Bahasa Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-id.md)
 + [Persian / Farsi (Iran) / فارسى](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-pl.md)

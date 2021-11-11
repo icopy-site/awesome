@@ -52,6 +52,7 @@
 - [v-pong](https://github.com/thebigsmileXD/v-pong) - A classic paddle game brought back to life through the power of V.
 - [minesweeper](https://github.com/ali-furkan/minesweeper-v) - A simple Minesweeper game written in vlang.
 - [flappylearning-v](https://github.com/uxnow/flappylearning-v) - A simple flappy learning demo in v. ( Archived )
+- [Kurarin](https://github.com/FireRedz/kurarin) - osu! beatmap visualizer made in V. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
 
 ### Command-line
 
@@ -82,6 +83,7 @@
 - [progressbar](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
 - [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
 - [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
+- [vesseract](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
 
 ### Text processing
 
@@ -103,6 +105,7 @@
 
 ### Game development
 
+- [engine](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
 - [raylib.v](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
 - [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for raylib, the C game development framework.
 
@@ -135,6 +138,10 @@
 - [vlipboard](https://github.com/asvvvad/vlipboard) - An easy to use wrapper of clipboard with Wayland and Termux support.
 - [mmap](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
 
+### Networking
+
+- [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library)
+
 ### Automation
 
 - [vrobot](https://github.com/eioo/vrobot) - Desktop automation for V. Only supports Windows.
@@ -155,6 +162,7 @@
 ### Files
 
 - [v-mime](https://github.com/nedpals/v-mime) - MIME detection library for V.
+- [vmon](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.
 
 ### Eventing
 
@@ -171,6 +179,7 @@
 
 - [vsl](https://github.com/vlang/vsl) - A pure-V scientific library with a great variety of functions.
 - [vtl](https://github.com/vlang/vtl) - Numerical computing library supporting n-dimensional data structure, backed by LAPACKE and OpenBLAS.
+- [vplot](https://github.com/erdetn/vplot) - V wrapper for GNU Plot (`gnuplot_i`).
 
 ### Utility
 
@@ -236,3 +245,7 @@
 
 - [r/vlang](https://www.reddit.com/r/vlang)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/vlang)
+
+### Operating Systems & OS Development Examples
+
+- [Simple Linux kernel module example](https://github.com/spytheman/simple_kernel_module_in_v) - demonstration & test of writing a very simple Linux kernel module, using V.
