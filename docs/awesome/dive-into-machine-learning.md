@@ -283,10 +283,11 @@ As you repeat this process, your practice studies will become more scientific, i
 
 Here are some communities where you can reach out for peer review:
 
-* [Cross-Validated: stats.stackexchange.com](https://stats.stackexchange.com/)
+* [/r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning/)
 * [/r/DataIsBeautiful](https://reddit.com/r/DataIsBeautiful)
 * [/r/DataScience](https://reddit.com/r/DataScience)
 * [/r/MachineLearning](https://reddit.com/r/MachineLearning)
+* [Cross-Validated: stats.stackexchange.com](https://stats.stackexchange.com/)
 * [Hacker News: news.ycombinator.com](https://news.ycombinator.com). You'll probably want to submit as "Show HN"
 
 Post to any of those, and ask for feedback. You'll get feedback. You'll learn a ton. As experts review your work you will learn a lot about the field. You'll also be practicing a crucial skill: accepting critical feedback.
@@ -353,7 +354,14 @@ In any case, when you decide you're ready to dive into Deep Learning, here are s
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
 * [Creative Applications of Deep Learning with Tensorflow](https://github.com/pkmital/CADL)
 
-## "Big" Data?
+### Easier sharing of deep learning models and demos
+
+* **[replicate.ai](https://replicate.ai)** "makes it easy to share a running machine learning model" for the sake of reproducible research. Check it out.
+    * For beginners, you can try some models using GANs and other Deep Learning concepts.
+    * Bookmark-worthy because you can use it to share your learning or research, too.
+    * Open source tools: [`cog`](https://github.com/replicate/cog), [`keepsake`](https://github.com/replicate/keepsake)
+
+### "Big" Data?
 
 If you are working with data-intensive applications at all, I'll recommend this book:
 
@@ -380,7 +388,7 @@ Big Data Volume and Variety_](https://www.tamr.com/landing-pages/getting-data-ri
 
 ----
 
-## Alternative ways to "Dive into Machine Learning"
+## More ways to "Dive into Machine Learning"
 
 Here are some other guides to Machine Learning. They can be alternatives or complements to this guide.
 
@@ -393,5 +401,6 @@ Here are some other guides to Machine Learning. They can be alternatives or comp
 * [Example Machine Learning notebook, exercise, and guide](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb) by Dr. Randal S. Olson. Mentioned in Notebooks section as well, but it has a similar goal to this guide (introduce you, and show you where to go next). Rich "Further Reading" section.
 * [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) by Nam Vu. It’s the top-down and results-first approach designed for software engineers.
 * For some news sources to follow, check out [Sam DeBrule's list](https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0) here.
-* [Distill](https://distill.pub/about/) is a journal devoted to clear and interactive explanations of the lastest research in machine learning. They offer an alternative to traditional academic publishing that promotes accessibility and transparency in the field.
-* [Your guide here]
+* [Distill.pub](https://distill.pub/about/) publishes explorable explanations that are really great.
+  * ["Feature Visualization: How neural networks build up their understanding of images"](https://distill.pub/2017/feature-visualization/)
+* [Your favorite guide here?]

@@ -942,6 +942,13 @@ Content about: Cyber security, Ethical hacking, Malware analysis \
 Featured playlists: `Malware Analysis`, `TryHackMe`, `FORENSICS`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQ4ngTlpfyu-izPaLTs-MP--b1V5mL-lTtLqvF-UA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/SunKnudsen)
+
+[**Sun Knudsen**](https://www.youtube.com/c/SunKnudsen) \
+Content about: Privacy guides, bitcoin \
+Featured playlists: `Privacy guides`, `Bitcoin series`. \
+<br/>
+
 
 ## Internet/networking
 
