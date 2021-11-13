@@ -12,15 +12,15 @@ This repository contains curated list of different urban & regional planning dat
 ---
 <!--lint disable awesome-toc-->
 
-
-
-
-
-
-
+  
+  
+  
+  
+  
   
 - [Other Resources](#other-resources)   
-
+  
+  
 
 ---
 
@@ -249,6 +249,12 @@ Resources for planners learning coding and urban informatics.
 Software and platforms for planners and those interested in the built environment. 
 
 ---
+### Environmental and Climate Planning Tools and Platforms
+Software, tools, and platforms intended to aid environmental planning or climate adaptation & mitigation planning. 
+
+- [iTree](https://www.itreetools.org/) - Quantifies the benefits and values of trees around the world. Is based on peer-reviewed, USDA Forest Service Research.
+- [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus) - FEMA's Hazus Program provides standardized tools and data for estimating risk from earthquakes, floods, tsunamis, and hurricanes. Risk assessment resources and tools from the Hazus program are always freely available and transparently developed. 
+- [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - This user-friendly tool was developed by Azavea in partnership with ICLEI USA, with the primary purpose of facilitating a data-informed adaptation planning process in small-to-midsize communities with little to no devoted resources to plan for climate change impacts. 
 
 ### Geospatial Data and Visualization
 Software, tools, and platforms for geospatial visualization. 
@@ -261,6 +267,11 @@ Software, tools, and platforms for geospatial visualization.
 - [ScapeToad](http://scapetoad.choros.place/index.php) - ScapeToad is a cross-platform, open-source application designed to adjust the size of polygons based on some attribute. Use a shapefile as input and output to generate cartograms, geometries whose sizes are distorted based on data. 
 - [Omnisci](https://www.omnisci.com/) - Geotemporal enabled high performance database capable of doing GPU accelerated queries.
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS) - BlenderGIS is a free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
+
+### Public Engagement Tools and Platforms
+Software, tools, and platforms intended to aid with public engagement and outreach activities. 
+- [bangthetable](https://www.bangthetable.com/) - Provides access to a platform that centralizes community engagement, making it easy to capture, analyze, and report on city-wide engagement through one single platform.
+- [PollEverywhere](https://www.polleverywhere.com/) - Provides the ability to generate polls and questions for interactive engagement on multiple platforms. 
 
 ### Urban Design Tools and Platforms
 Software, tools, and platforms to assist with urban design and similar creative applications in built environments. 
@@ -289,12 +300,6 @@ Software, tools, and platforms intended to assist with transportation planning t
 - [Space Syntax](https://www.spacesyntax.net/software/) - Spatial & Network Analysis software is available to professional practitioners and academic researchers for commercial and non-commercial use. 
 - [ITHIM](https://www.mrc-epid.cam.ac.uk/research/research-areas/public-health-modelling/ithim) - Integrated Transport and Health Impact Model (ITHIM) refers to a range of related models and tools developed to perform integrated assessment of the health effects of transport scenarios and policies at the urban and national level. This page points to different literature, R code, and [US specific resources](https://skylab.cdph.ca.gov/HealthyMobilityOptionTool-ITHIM/).
 
-### Environmental and Climate Planning Tools and Platforms
-Software, tools, and platforms intended to aid environmental planning or climate adaptation & mitigation planning. 
-
-- [iTree](https://www.itreetools.org/) - Quantifies the benefits and values of trees around the world. Is based on peer-reviewed, USDA Forest Service Research.
-- [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus) - FEMA's Hazus Program provides standardized tools and data for estimating risk from earthquakes, floods, tsunamis, and hurricanes. Risk assessment resources and tools from the Hazus program are always freely available and transparently developed. 
-- [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - This user-friendly tool was developed by Azavea in partnership with ICLEI USA, with the primary purpose of facilitating a data-informed adaptation planning process in small-to-midsize communities with little to no devoted resources to plan for climate change impacts. 
 
 ## Educational and Informational Resources
 Collections of planning related literature, information aggregators, or similar resources.
