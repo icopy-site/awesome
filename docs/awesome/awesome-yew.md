@@ -78,7 +78,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 
 ### Component Libraries
 
-- [yew-mdc](https://github.com/Follpvosten/yew-mdc) - Material Design Components for the Yew framework.
+- [yew-mdc](https://github.com/dungeonfog/yew-mdc) - Material Design Components for the Yew framework.
 - [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
 - [yew-bulma](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
 - [yew-material-components](https://github.com/hamza1311/yew-material-components) - Yew material components.

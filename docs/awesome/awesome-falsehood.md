@@ -17,7 +17,7 @@
 
 A *falsehood* is an ***idea* that you initially believe was true**, but in-reality it is **proven to be false**.
 
-E.g. of an *idea*: valid email address exactly has one `@` character. So, you will use this rule to implement your email-field validation logic. Right? Wrong\! The *reality* is: emails [can have multiple `@` chars](#emails). Therefore your implementation should allow this. The initial *idea* is a falsehood you believed in.
+E.g. of an *idea*: valid email address exactly has one `@` character. So, you will use this rule to implement your email-field validation logic. Right? Wrong\! The *reality* is: emails can have multiple `@` chars. Therefore your implementation should allow this. The initial *idea* is a falsehood you believed in.
 
 The *falsehood* articles listed below will have a comprehensive list of those false-beliefs that you should be aware of, to help you become a better programmer.
 
@@ -49,6 +49,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 - [Falsehoods about IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
 - [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
 - [Falsehoods about Cars](https://github.com/driveto/falsehoods-about-cars) - Even something as common as defining a car is full of pitfalls.
+- [Falsehoods about Airline Seat Maps](https://duffel.com/blog/falsehoods-about-seat-maps) - Airline seat maps are far more complex than just neat rows and columns of seats.
 - [Decimal Point Error in Etsy's Accounting System](https://www.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - The importance of types in accounting software: missing the decimal point ends up with 100x over-charges.
 - [Characters `<` and `>` in company names lead to XSS attacks](https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355) - Because [UK allows companies to be registered with special characters](https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made), a hacker leveraged them to register `\"><SCRIPT SRC=MJT.XSS.HT></SCRIPT> LTD`, but also `; DROP TABLE "COMPANIES";-- LTD`, `BETTS &AMP; TWINE LTD` and `SAFDASD & SFSAF \' SFDAASF\" LTD`.
 - [CLDR currency definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
