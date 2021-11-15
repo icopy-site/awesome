@@ -18,6 +18,8 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 
 ### Cassandra History
 
+
+- [IDG: 10 Years of Apache Cassandra](https://www.idgconnect.com/article/3580401/10-years-of-apache-cassandra.html) - Retrospective discussing the first 10 years of Cassandra's history.
 - [ZDNet: Cassandra Turns 10](https://www.zdnet.com/article/apache-cassandra-turns-10/) - Highlights of the growth of Cassandra over it's first 10 years.
 
 ### Cassandra Use Cases
@@ -25,7 +27,6 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 - [Datastax Academy: What is Cassandra?](https://www.datastax.com/cassandra) - Introduction to what Cassandra is, where it came from, and some of it's benefits.
 - [Kaa application based on Raspberry Pi and DHT11 sensor](https://github.com/pyroalf/kaa-cassandra-sample) - Cassandra IoT usecase with Raspberry Pi and a DHT11 Sensor.
 - [Simple Node.js Express 4 Cassandra Application](https://github.com/bradtraversy/mysubscribers) - MySubscribers is a very simple application (Start of an application) which allows you to create, read, update and delete users/subscribers. This application was only created to aid the YouTube course.
-- [An Odyssey of Cassandra](http://hadoopmag.com/an-odyssey-of-cassandra/) - Older article that has republished but talks about transitioning from SQL to NoSQL with Cassandra.
 
 ### Cassandra Distributions
 
@@ -92,7 +93,7 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 - [Cassandra Query Language: CQL vs SQL](https://medium.com/@alexbmeng/cassandra-query-language-cql-vs-sql-7f6ed7706b4c) - Blog post documenting similarities and differences between CQL and SQL.
 <!-- - [MySQL to C*](http://planetcassandra.org/mysql-to-cassandra-migration/) - MySQL to Cassandra migration guide.  !This is just redirecting to https://www.datastax.com/dev -->
 <!-- - [Cassandra and Relational database schema comparison – Query vs relationship modeling](https://blog.rdx.com/cassandra-and-relational-database-schema-comparison-query-vs-relationship-modeling/) - Lacking security certificate as of 4/12/2021 @ 8:50 am MST -->
-<!-- - [Real-Time Replication from MySQL to Cassandra](https://mcbguru.blog/2014/02/27/real-time-replication-from-mysql-to-cassandra/) - Website is down as of 4/12/2021 @ 8:47 am MST -->
+- [Real-Time Replication from MySQL to Cassandra](https://planet.mcb.guru/?p=6890) - Demonstration of migrating data from MySQL to Cassandra. 
 
 ### Cassandra Data Modeling
 
@@ -374,7 +375,6 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 - [DbSchema - Cassandra Designer](https://dbschema.com/database-designer/Cassandra.html) - DbSchema: Cassandra Diagram Designer & GUI Admin Tool which can do Cassandra amongst other databases.
 - [DBeaver - Free Universal Database Tool](https://dbeaver.io/) - Third party tool for dealing with all sorts of databases including Cassandra.
 - [RazorSQL - Multi DB Manager Tool](https://razorsql.com/) - Multi-db tool for Linux, Mac, and Windows that works with Cassandra.
-- [KDM - The Kashlev Data Modeler](http://kdm-portal.weebly.com/) - Automated big data modeling tool for Cassandra.
 - [Cassandra Reaper](http://cassandra-reaper.io/) - Automated repairs for Cassandra. Supports all versions.
 - [cstar perf](https://github.com/datastax/cstar_perf) - Cassandra performance testing platform.
 - [Spark Cassandra Stress](https://github.com/datastax/spark-cassandra-stress) - Tool for testing the DataStax Spark Connector against Cassandra or DSE.
@@ -472,7 +472,6 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 - [Cassandra Developers Mailing List](http://www.mail-archive.com/dev@cassandra.apache.org/)
 - [Cassandra Commits Mailing List](http://www.mail-archive.com/commits@cassandra.apache.org/)
 - [Apache Software Foundation Slack](https://s.apache.org/slack-invite) - The #cassandra and #cassandra-dev channels are official slack channels migrating from IRC.
-- [Datastax Academy Slack](https://academy.datastax.com/slack)
 - [Cassandra Slack](https://cassandra-slack.herokuapp.com/)
 - [Stack Overflow: Cassandra](https://stackoverflow.com/questions/tagged/cassandra)
 - [Stack Overflow: cql](https://stackoverflow.com/questions/tagged/cql)
