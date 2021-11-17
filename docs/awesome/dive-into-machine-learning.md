@@ -8,7 +8,7 @@ Hi there! This guide is for you if:
 * You're new to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 * You care about [the ethics of ML](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
     * **[8 Responsible Machine Learning Principles](https://ethical.institute/principles.html)**
-    * [Questions to ask yourself when working with ML](https://cdt.info/ddtool/) [(source)](https://github.com/numfocus/algorithm-ethics)
+    * [Open Ethics Canvas](https://openethics.ai/canvas/)
 * You learn by doing
 
 If that's you, join me in getting a bit ahead of yourself, and see if you want to learn more about the field.
@@ -245,6 +245,7 @@ If you're following this guide, you should read that paper. You can also [listen
 - [The High Cost of Maintaining Machine Learning Systems](http://www.kdnuggets.com/2015/01/high-cost-machine-learning-technical-debt.html)
 - [11 Clever Methods of Overfitting and How to Avoid Them](http://hunch.net/?p=22)
 - [The Perilous World of Machine Learning for Fun and Profit: Pipeline Jungles and Hidden Feedback Loops](http://www.john-foreman.com/blog/the-perilous-world-of-machine-learning-for-fun-and-profit-pipeline-jungles-and-hidden-feedback-loops)
+- ["So, you want to build an ethical algorithm?" An interactive tool to prompt discussions](https://cdt.info/ddtool/) [(source)](https://github.com/numfocus/algorithm-ethics)
 
 ### Welcome to the Danger Zone
 
@@ -295,12 +296,16 @@ When I read the feedback on my Pull Requests, first I repeat to myself, "I will 
 
 ### It's dangerous to go alone, take these!
 
-**Bookmark these:**
+**Some recommended bookmarks:**
 
-* **[EthicalML/Awesome-Artificial-Intelligence-Guidelines.](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)**
-    * Also by same org: [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)
-* **[visenger/Awesome-ML-Model-Governance](https://github.com/visenger/Awesome-ML-Model-Governance)**
-    * Also by same author: [visenger/Awesome-MLOps](https://github.com/visenger/awesome-mlops) ([ml-ops.org](https://ml-ops.org/))
+* **[EthicalML/awesome-artificial-intelligence-guidelines.](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)**
+* **[EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)**
+* **[visenger/awesome-ml-model-governance](https://github.com/visenger/Awesome-ML-Model-Governance)**
+* **[visenger/awesome-MLOps](https://github.com/visenger/awesome-mlops)** ([ml-ops.org](https://ml-ops.org/))
+    * If you are learning about MLOps but find it overwhelming, these resources might help you get your bearings:
+        * [Lj Miranda, "Navigating the MLOps Landscape"](https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/)
+        * [Henrik Skogström, "MLOps Stack Template"](https://valohai.com/blog/the-mlops-stack/)
+        * (Friendly reminder: just bookmark for later if it's not relevant for you yet.)
 
 ----
 

@@ -3,6 +3,12 @@
 <div align="center">
 	<div>
 		<img width="500" src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/logo.svg?sanitize=true" alt="Awesome Node.js">
+		<br>
+		<br>
+		<br>
+		<h3><a href="https://www.producthunt.com/posts/pandan">My macOS app Pandan is on Product Hunt</a></h3>
+		<br>
+		<br>
 	</div>
 	<br>
 	<hr>

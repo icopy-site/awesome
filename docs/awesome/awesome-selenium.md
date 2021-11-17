@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="christian-bromann/awesome-selenium"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Selenium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/christian-bromann/awesome-selenium.svg?branch=master)](https://travis-ci.org/christian-bromann/awesome-selenium)
+## Awesome Selenium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Test Awesome List](https://github.com/christian-bromann/awesome-selenium/actions/workflows/test.yaml/badge.svg)](https://github.com/christian-bromann/awesome-selenium/actions/workflows/test.yaml)
 
 > A curated list of delightful [Selenium](http://www.seleniumhq.org/) [resources](#resources).
 
@@ -25,7 +25,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Karma](http://karma-runner.github.io/0.12/index.html) - Brings a productive testing environment to developers for unit testing (mostly AngularJS).
 - [Protractor](https://angular.github.io/protractor/) - Protractor is an end-to-end test framework for AngularJS applications.
 - [CodeceptJS](http://codecept.io/) - Modern Era Acceptance Testing Framework for NodeJS.
-- [Nightmare.js](http://www.nightmarejs.org/) - A high-level browser automation library.
 
 #### Ruby
 
@@ -149,7 +148,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Browserstack](https://www.browserstack.com/) - Test your website for cross browser compatibility on real browsers. Instant access to multiple desktop and mobile browsers. Get Free Trial.
 - [LambdaTest](https://www.lambdatest.com/selenium-automation) - Test your website for cross browser compatibility on 2000+ real browsers & OS. Get Free Trial.
 - [TestingBot](https://testingbot.com) - TestingBot provides easy cross browser testing with Selenium in the cloud.
-- [Aerokube Browsers](https://browsers.aerokube.com) - Lightning fast online Selenium testing platform with unlimited billing plans and reasonable pricing.
 - [Moon Cloud](https://aerokube.com/moon/#cloud) - Your dedicated Selenium cluster in public cloud platform with per-minute billing and unlimited number of browsers.
 - [Mail7](https://www.mail7.io/) - Disposable email service to automate the email workflow testing, [This document](https://docs.mail7.io/tutorials/registration-and-login-automation-using-selenium-with-disposable-email) explains how to implement Mail7 with Selenium
 - [Thundra Foresight](https://www.thundra.io/foresight) - A visibility tool into your test suites by spotting test failures in no time.

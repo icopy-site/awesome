@@ -15,13 +15,21 @@ This is a list of awesome resources about VLC and LibVLC.
 - [Code & Bug tracker](https://code.videolan.org/videolan/vlc/-/issues) - Recently moved from Trac, contains a lot of valuable info on bugs and feature requests.
 - [CLI flags](https://wiki.videolan.org/VLC_command-line_help) - A comprehensive list of all VLC commandline flags. Really useful for searching random flags that you come across in the wild.
 
-## VLC plugins
+## VLC native plugins
 
 - [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click.
 - [vlc-tip-plugin](https://github.com/aklexel/vlc-tip-plugin) - TIP (translate it, please) is a plugin for VLC media player that helps you to study languages by watching videos.
 - [vlc-bittorrent](https://github.com/johang/vlc-bittorrent) - A bittorrent plugin for VLC.
 - [vlc-plugin-marker](https://github.com/nemosharma6/vlc-plugin-marker) - The marker plugin provides you the ability to mark important sections of a video. These sections can be viewed later without the need to search for it in the entire video.
 - [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
+
+## VLC lua extensions
+
+- [VideoLAN addons website](https://addons.videolan.org/browse/) - VideoLAN addons website.
+- [vlc-delete](https://github.com/surrim/vlc-delete) - VLC extension to remove videos from the hard disk.
+- [TraktForVLC](https://github.com/XaF/TraktForVLC) - Automatically trakt.tv what you're watching on VLC.
+- [playlist-youtube-vlc](https://github.com/Abstraxt-AA/playlist-youtube-vlc) - Lua plugin to parse Youtube playlists.
+- [vlc-super-skipper](https://github.com/Trevelopment/vlc-super-skipper) - Automatically Skip Opening and Ending Sequences.
 
 ## Apps
 
