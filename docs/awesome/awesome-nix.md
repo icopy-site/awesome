@@ -137,6 +137,10 @@
 * [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
 * [rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
 
+### Scala
+
+* [sbt-derivation](https://github.com/zaninime/sbt-derivation) -  mkDerivation for sbt, similar to buildGoModule.
+
 ## NixOS Modules
 
 * [musnix](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
