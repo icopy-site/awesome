@@ -114,9 +114,6 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 * [PredictionIO](https://prediction.io/) - Machine Learning server for developers and data scientists to build and deploy predictive applications in a fraction of the time.
 * [Crossdata](https://github.com/Stratio/Crossdata) - Data integration platform with extended DataSource API and multi-user environment.
 
-### Blogs
-
-- [Spark Technology Center](http://spark.tc/blog/) - Great source of highly diverse posts related to Spark ecosystem. From practical advices to Spark commiter profiles.
 
 ### Docker Images
 
