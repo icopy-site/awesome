@@ -212,6 +212,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## JavaScript
 
+- [TS/JS postfix completion](https://marketplace.visualstudio.com/items?itemName=ipatalas.vscode-postfix-ts)
+
+![TS/JS postfix completion demo](https://github.com/ipatalas/vscode-postfix-ts/raw/master/images/demo-multiline.gif)
+
 - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - This extension provides AI-assisted development features including autocomplete and other insights based on understanding your code context.
 ![Visual Studio IntelliCode](https://docs.microsoft.com/en-us/visualstudio/intellicode/media/python-intellicode.gif)
@@ -413,6 +417,14 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Show language diagnostics inline (errors/warnings/...).
 
 ![error lens demo gif](https://user-images.githubusercontent.com/9638156/71784742-de421b00-3007-11ea-8862-8c6ea2836202.gif)
+
+## [Toggle](https://marketplace.visualstudio.com/items?itemName=rebornix.toggle)
+
+> Toggle any VS Code setting by your favorite keybindings.
+
+Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by shortcut:
+
+![Toggle example demo](https://raw.githubusercontent.com/viatsko/awesome-vscode/master/screenshots/toggle-example.gif)
 
 ## [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
@@ -908,8 +920,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Quickly bring up helpful MDN documentation in the editor
 
 ![ESDOC MDN](https://raw.githubusercontent.com/samundrak/vscode-esdoc-mdn/master/demo.gif)
-
-![Interface generator (Typescript)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
 
 ## [Interface generator](https://marketplace.visualstudio.com/items?itemName=dotup.dotup-vscode-interface-generator)
 
