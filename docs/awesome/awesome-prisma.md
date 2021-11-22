@@ -48,6 +48,9 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection)
 - [Caching Prisma](https://github.com/joellefkowitz/cached-prisma)
 - [prettier-plugin-prisma](https://github.com/umidbekk/prettier-plugin-prisma)
+- [prisma-sequelize-generator](https://github.com/floydspace/prisma-sequelize-generator)
+- [Prisma Schema Sorter - sort schema models, enums, generators and datasources](https://github.com/omar-dulaimi/prisma-schema-sorter)
+- [Declarative Authorisation Middleware](https://github.com/joindeed/prisma-auth)
 
 ### :gear: Schema Visualization Tools
 
@@ -55,7 +58,8 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [prisma-uml](https://github.com/emyann/prisma-uml)
 - [DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator)
 - [Prisma ERD Generator](https://github.com/keonik/prisma-erd-generator)
-- [Prismaliser - Visualise your Prisma schema models and relations](https://prismaliser.ovy.cloud/)
+- [Prismaliser - Visualise your Prisma schema models and relations](https://prismaliser.app/)
+- [Archibase - Collaborative schema editor based on Prisma SDL](https://archibase.dev/)
 
 ## :thinking: How Tos
 
@@ -102,6 +106,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Predict Covid](https://predictcovid.com/)
 - [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD](https://github.com/nestjsx/crud))
 - [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
+- [prisma-next-auth-graphql-starter](https://github.com/wangel13/prisma-next-auth-graphql-starter) - Fullstack starter with Prisma, next-auth, next.js, tailwindcss and graphql-shield
 
 ## Prisma 1
 
