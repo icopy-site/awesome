@@ -123,6 +123,8 @@ Table of Contents
 
 * [Pageclip](https://pageclip.co/github-students) [FREE] - A server for your static websites and HTML forms.Free basic plan while you are a student.
 
+* [Qoddi](https://qoddi.com) [CREDIT] - Qoddi offers $1000 per year for [every student](https://blog.qoddi.com/flashdrive-student-program/)
+
 
 ## Design and Photo Editing
 
