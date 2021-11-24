@@ -61,6 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Serenity](http://www.thucydides.info/) - It is an open source library for writing better quality automated acceptance tests faster. (Formerly Thucydides).
 - [seleniumQuery](https://github.com/seleniumQuery/seleniumQuery) - jQuery-like cross-driver interface in Java for WebDriver. Designed as a thin layer, it can be used alone or on top of your favorite framework just to make some cases (e.g. asserting/waiting) simpler when needed.
 - [WebDriverManager](https://github.com/bonigarcia/webdrivermanager) - Automatic management of Selenium WebDriver binaries.
+- [Lightning](https://github.com/aerokube/lightning-java) - Lightweight and lightning fast WebDriver client.
 
 #### C#
 
@@ -148,7 +149,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Browserstack](https://www.browserstack.com/) - Test your website for cross browser compatibility on real browsers. Instant access to multiple desktop and mobile browsers. Get Free Trial.
 - [LambdaTest](https://www.lambdatest.com/selenium-automation) - Test your website for cross browser compatibility on 2000+ real browsers & OS. Get Free Trial.
 - [TestingBot](https://testingbot.com) - TestingBot provides easy cross browser testing with Selenium in the cloud.
-- [Moon Cloud](https://aerokube.com/moon/#cloud) - Your dedicated Selenium cluster in public cloud platform with per-minute billing and unlimited number of browsers.
+- [Moon Cloud](https://aerokube.com/moon-cloud/) - Your dedicated Selenium cluster in public cloud platform with per-minute billing and unlimited number of browsers.
 - [Mail7](https://www.mail7.io/) - Disposable email service to automate the email workflow testing, [This document](https://docs.mail7.io/tutorials/registration-and-login-automation-using-selenium-with-disposable-email) explains how to implement Mail7 with Selenium
 - [Thundra Foresight](https://www.thundra.io/foresight) - A visibility tool into your test suites by spotting test failures in no time.
 
