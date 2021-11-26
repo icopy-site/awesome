@@ -339,6 +339,7 @@ nav:
   - Editors:
     - Sublime Text: awesome/sublime-bookmarks.md
     - Vim: awesome/vim-galore.md
+    - Neovim: awesome/awesome-neovim.md
     - Atom: awesome/awesome-atom.md
     - Visual Studio Code: awesome/awesome-vscode.md
   - Gaming:

@@ -455,6 +455,7 @@
 
 - [Sublime Text](awesome/sublime-bookmarks.md)
 - [Vim](awesome/vim-galore.md)
+- [Neovim](awesome/awesome-neovim.md) - Vim-fork focused on extensibility and usability.
 - [Emacs](awesome/awesome-emacs.md)
 - [Atom](awesome/awesome-atom.md) - Open-source and hackable text editor.
 - [Visual Studio Code](awesome/awesome-vscode.md) - Cross-platform open-source text editor.
