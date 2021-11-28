@@ -239,6 +239,7 @@ Contributions are always welcome!
 * [Finding a problem at the bottom of the Google stack](https://cloud.google.com/blog/products/management-tools/sre-keeps-digging-to-prevent-problems)
 * [How maintenance windows affect your error budget](https://cloud.google.com/blog/products/management-tools/sre-error-budgets-and-maintenance-windows)
 * [The Production Readiness Spectrum](https://dastergon.gr/posts/2020/09/the-production-readiness-spectrum/)
+* [How we’re building a production readiness review process at Grafana Labs](https://grafana.com/blog/2021/10/13/how-were-building-a-production-readiness-review-process-at-grafana-labs/)
 
 ## Monitoring & Observability & Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
@@ -328,7 +329,8 @@ Contributions are always welcome!
 * [An Incident Command Training Handbook](https://blog.danslimmon.com/2019/06/24/an-incident-command-training-handbook/)
 * [Shrinking the time to mitigate production incidents](https://cloud.google.com/blog/products/management-tools/shrinking-the-time-to-mitigate-production-incidents)
 * [Incident writeup as sociological storytelling](https://surfingcomplexity.blog/2021/06/11/incident-writeup-as-sociological-storytelling/)
- 
+* [Elephant in the Blameless War Room: Accountability](https://www.blameless.com/incident-response/elephant-in-the-blameless-war-room-accountability)
+
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
 * [Collection of Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
@@ -404,6 +406,8 @@ Contributions are always welcome!
 * [The Tail at Scale](https://billduncan.org/the-tail-at-scale/)
 * [The Tail at Scale Revisited](https://billduncan.org/the-tail-at-scale-revisited/)
 * [Defining SLOs for services with dependencies](https://cloud.google.com/blog/products/gcp/defining-slos-for-services-with-dependencies-cre-life-lessons)
+* [Service Level Disagreements](https://blog.b3k.us/2009/07/15/service-level-disagreements.html)
+* [How We Use Sloth to do SLO Monitoring and Alerting with Prometheus](https://mattermost.com/blog/sloth-for-slo-monitoring-and-alerting-with-prometheus/)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)

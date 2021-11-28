@@ -31,7 +31,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 ## Charts
 
-- [MicroCharts ★1052](https://github.com/dotnet-ad/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
+- [MicroCharts ★1052](https://github.com/microcharts-dotnet/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
 - [MPAndroidChart/iOSCharts ★6](https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT) - MPAndroidChart/iOSCharts binding support use in Xamarin Forms.
 - [OxyPlot ★1,311](https://github.com/oxyplot/oxyplot) - Cross-platform plotting library for .NET.
 
@@ -140,7 +140,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
   - [MvxAms ★1](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxAms) - MVVMCross Azure Mobile Services plugin.
   - [MvxForms ★1](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxForms) - MVVMCross plugin for using Xamarin.Forms.
 - [MugenMvvmToolkit ★127](https://github.com/MugenMvvmToolkit/MugenMvvmToolkit) - Cross-platform MVVM toolkit.
-- [MVVMLight](http://www.mvvmlight.net) - Cross-platform MVVM development framework.
+- [MVVMLight](https://github.com/lbugnion/mvvmlight) - Cross-platform MVVM development framework.
 - [MvvmNano ★46](https://github.com/aspnetde/MvvmNano) - Small and smart MVVM framework made with ❤ for Xamarin.Forms.
 - [Prism ★2,365](https://github.com/prismlibrary/prism) - Cross-platform MVVM development framework.
 - [ReactiveUI ★3,917](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework.
@@ -275,6 +275,8 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [XamFormsMvxTemplate ★19](https://github.com/JTOne123/XamFormsMvxTemplate) - MVVMCross.Forms Visual Studio 2017 project template (iOS, Android, UWP).
 - [Xamarin.Essentials](https://docs.microsoft.com/en-us/xamarin/essentials/) - Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications.
 - [Xamarin.Forms.EntryAutoComplete](https://github.com/krzysztofstepnikowski/Xamarin.Forms.EntryAutoComplete) - Custom control which functionality provides you with suggestions while typing. There are several modes of suggestions. The suggested text can be displayed in a drop-down list so that you can choose from different options.
+- [Xamarin.Forms.Skeleton](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton) - The latest trend for loading approaches in Xamarin Forms apps. Skeleton can be easily implemented on each view contained in your Xaml.
+- [MaterialDesignControlsPlugin](https://github.com/HorusSoftwareUY/MaterialDesignControlsPlugin) - MaterialDesignControls Plugin for Xamarin Forms is a collection of Xamarin.Forms controls that apply the Material Design Guidelines.
 
 ## XPlat APIs
 
@@ -315,7 +317,7 @@ Most of them support Android and iOS, some do Windows Phone 8
 - [Planet Xamarin](https://www.planetxamarin.com) - An aggregator of content from Xamarin Community members. Why subscribe individually when you can subscribe to one convenient RSS feed? If RSS isn't your thing, follow the [Twitter](https://twitter.com/PlanetXamarin) or [Facebook](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fplanetxamarin%2F) accounts which are automatically updated with the latest content from the community.
 - [Programming Community Curated Resources For Learning Xamarin](https://hackr.io/tutorials/learn-xamarin) - A curated list of resources for learning Xamarin.
 - [Weekly Xamarin](https://weeklyxamarin.com/) - Hand-picked round up of the best Xamarin development links every week. Curated by Geoffrey Huntley and published every Friday. Free.
-- [Xamarin Online Courses](https://classpert.com/topics/xamarin) - A list of over 60 Online Courses (free and paid) from Classpert Online Course Search.
+- [Xamarin Online Courses](https://classpert.com/search/xamarin) - A list of over 60 Online Courses (free and paid) from Classpert Online Course Search.
 
 
 ## License
