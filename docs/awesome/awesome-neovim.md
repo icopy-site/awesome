@@ -339,6 +339,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [noib3/cokeline.nvim](https://github.com/noib3/cokeline.nvim) - A Neovim bufferline for people with addictive personalities.
 <!--lint ignore double-link-->
 - [mini.tabline](https://github.com/echasnovski/mini.nvim#minitabline) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) for minimal tabline showing listed buffers in case of one tab and falling back to default otherwise.
+- [rafcamlet/tabline-framework.nvim](https://github.com/rafcamlet/tabline-framework.nvim) - User-friendly framework for building your dream tabline in a few lines of code.
 
 ### Statusline
 
@@ -444,6 +445,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 ### Quickfix
 
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - The goal of nvim-bqf is to make Neovim's quickfix window better.
+- [gitlab.com/yorickpeterse/nvim-pqf](https://gitlab.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows for Neovim.
 - [stevearc/qf_helper.nvim](https://github.com/stevearc/qf_helper.nvim) - A collection of improvements for Neovim quickfix.
 
 ### Motion
