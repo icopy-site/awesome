@@ -76,6 +76,10 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [Svelte News Weekly](https://svelte.news/weekly). A curated newsletter for Svelte enthusiasts with a weekly dose of handpicked news.
 
+#### Angular
+
+- [Angular Weekly](https://www.getrevue.co/profile/angular-newsletter). Angular Weekly is a summary of #angular related topics and news from the last week.
+
 ### Data Visualization
 
 - [Data Visualization & D3.js Weekly Newsletter](https://www.dashingd3js.com/data-visualization-and-d3-newsletter). Get D3.js and Data Visualization news, articles, jobs and more delivered to your inbox every Tuesday.
@@ -398,6 +402,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
 - [HN Mail](https://hnmail.io). A customizable weekly newsletter that delivers Hacker News stories based on your interests.
 - [Senior Mindset](https://seniormindset.com). Get a series of curated essays on the mindset of a senior software engineer.
+- [Weekly Robotics](https://weeklyrobotics.com/). A weekly newsletter with news, projects and research related to robotics.
 
 ## Resilience
 

@@ -88,7 +88,8 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 - [RDBMS to NoSQL](http://www.datastax.com/relational-database-to-nosql) - Your roadmap to understanding whether NoSQL is right for you.
 - [Cassandra Schemas for Beginners (like me)](https://medium.com/@jochasinga/cassandra-schemas-for-beginners-like-me-9714cee9236a) - Great article for new developers to Cassandra.
 - [Cassandra Query Language: CQL vs SQL](https://medium.com/@alexbmeng/cassandra-query-language-cql-vs-sql-7f6ed7706b4c) - Blog post documenting similarities and differences between CQL and SQL.
-- [Real-Time Replication from MySQL to Cassandra](https://planet.mcb.guru/?p=6890) - Demonstration of migrating data from MySQL to Cassandra. 
+- [Real-Time Replication from MySQL to Cassandra](https://planet.mcb.guru/?p=6890) - Demonstration of migrating data from MySQL to Cassandra.
+- [Cassandra Tutorial for Beginners](https://www.guru99.com/cassandra-tutorial.html) - Lesson plan for users just starting out with Cassandra.
 
 ### Cassandra Data Modeling
 
@@ -274,6 +275,17 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 <!-- - TODO:: ETL -->
 <!-- - TODO:: CDC -->
 
+#### .NET and Cassandra
+
+- [Cassandra API with .NET](https://docs.microsoft.com/en-us/azure/cosmos-db/cassandra/manage-data-dotnet) - Quickstart guide on how to use .NET and the Azure Cosmos DB Cassandra API to build a profile app.
+- [DataStax C# Driver](https://github.com/datastax/csharp-driver) - C# Driver for Cassandra from DataStax.
+- [DataStax C# Driver Documentation](https://docs.datastax.com/en/developer/csharp-driver/3.4/) - Documentation on the C# Driver for Cassandra from DataStax.
+- [CQL data types to C# types](https://docs.datastax.com/en/developer/csharp-driver/3.4/features/datatypes/) - Documentation on CQL data types to C# types.
+- [Connect to Cassandra with C#](https://www.instaclustr.com/support/documentation/cassandra/using-cassandra/connect-to-cassandra-with-c-sharp/#) - Instaclustr article on how to connect to Cassandra with C#.
+- [Access Amazon Keyspaces with a Cassandra .NET Core Driver](https://docs.aws.amazon.com/keyspaces/latest/devguide/using_dotnetcore_driver.html) - Article shows how to connect to Amazon Keyspaces by using a .NET Core client driver.
+- [Cassandra ADO.NET Driver](https://www.cdata.com/drivers/cassandra/ado/) - Cassandra ADO.NET Data Provider enables user to easily connect to Cassandra data from .NET applications.
+- [Cassandra Pagination with ASP.NET Core C#](https://bhonemyintkyaw777.medium.com/cassandra-pagination-with-asp-net-core-c-a85fd58f6b2b) - Article covering how to create infinite scroll pagination with Cassandra and ASP.NET Core C#.
+
 #### Spark
 
 - [DataStax Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector) - Library that lets you expose Cassandra tables as Spark RDDs, write Spark RDDs to Cassandra tables, and execute arbitrary CQL queries in your Spark applications.
@@ -320,6 +332,7 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 
 ### Miscellaneous
 
+- [Cassandra vs MongoDB](https://www.spec-india.com/blog/cassandra-vs-mongodb) - Article comparing the two popular NoSQL databases.
 - [Stargate](https://github.com/stargate/stargate) - Stargate is an open-source data gateway that provides REST, GraphQL and schemaless JSON interfaces to Cassandra.
 - [Meet Stargate, DataStax's GraphQL for databases. First stop - Cassandra](https://www.zdnet.com/article/meet-stargate-datastaxs-graphql-for-databases-first-stop-cassandra/) - Introduction and high-level overview of Stargate.
 - [Apache/Usergrid](https://github.com/apache/usergrid) - Open source Backend as a Service (BaaS) on Cassandra, Elasticsearch with client SDKs for iOS/Android/.NET/Java.
@@ -454,6 +467,7 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 - [Stack Overflow: Cassandra](https://stackoverflow.com/questions/tagged/cassandra)
 - [Stack Overflow: cql](https://stackoverflow.com/questions/tagged/cql)
 - [Stack Overflow: spark-cassandra-connector](https://stackoverflow.com/questions/tagged/spark-cassandra-connector)
+- [Stack Overflow: Astra DataStax - ASP.NET Core](https://stackoverflow.com/questions/66506642/astra-datastax-asp-net-core-secure-connect-bundle-zip-file-working-in-loca) - Answered question regarding connecting DataStax Astra and an ASP.NET Core API published to Microsoft Azure.
 - [Quora: Cassandra](https://www.quora.com/topic/Cassandra-database)
 - [Meetups: Cassandra](https://www.meetup.com/topics/cassandra/?_cookie-check=mHgLvBy3N6Cke1RU)
 
@@ -479,6 +493,7 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 - [Monitoring Cassandra: Don't Miss a Thing (Alain Rodriguez, The Last Pickle) | C* Summit 2016](https://www.youtube.com/watch?v=Q9AAR4UQzMk) - Talk given by Alain Rodriguez, Consultant at The Last Pickle, discussing what to monitor in Cassandra, how, and why.
 - [Tuning the Spark Cassandra Connector](https://www.youtube.com/watch?v=cKIHRD6kUOc&feature=youtu.be) - Great talk by Russell Spitzer maintainer of the Spark Cassandra connector.
 - [Cassandra.Lunch](https://github.com/Anant/Cassandra.Lunch) - Collection of all past Cassandra.Lunch webinars including videos, slides, and Blog posts surrounding all topics Cassandra.
+- [Working with .NET and Cassandra/DataStax Enterprise](https://www.youtube.com/watch?v=7W1tOmfREnw) - Getting a C# .NET core application started to work against a Cassandra or DSE database.
 
 ### Slides
 
