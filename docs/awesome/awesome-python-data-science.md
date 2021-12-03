@@ -30,14 +30,6 @@
 * [Karate Club](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph structured data.
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 
-### Time Series
-* [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
-* [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
-* [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
-* [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
-* [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
-* [maya](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones
-
 ### Automated Machine Learning
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
 
@@ -201,6 +193,14 @@
 * [Talos](https://github.com/autonomio/talos) - Hyperparameter Optimization for Keras Models.
 * [nlopt](https://github.com/stevengj/nlopt) - Library for nonlinear optimization (global and local, constrained or unconstrained).
 
+## Time Series
+* [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
+* [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
+* [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
+* [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
+* [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
+* [maya](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones
+
 ## Natural Language Processing
 * [NLTK](https://github.com/nltk/nltk) -  Modules, data sets, and tutorials supporting research and development in Natural Language Processing.
 * [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkik.
@@ -210,7 +210,6 @@
 * [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text to phonemes converter for multiple languages.
 * [flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP.
 * [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing.
-
 
 ## Computer Audition
 * [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.

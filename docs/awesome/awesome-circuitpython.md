@@ -60,6 +60,7 @@
 - [CircuitPython Community Libraries](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/master/circuitpython_community_library_list.md) - CircuitPython Community Libraries. There are over 45+ libraries available.
 - [Adafruit Blinka - SBC Compatibility](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) - CircuitPython Libraries on Raspberry Pi and other compatible single-board computers (SBC) running Linux.
 - [Coding CircuitPython on iOS 13.x](https://blog.adafruit.com/2019/09/19/program-circuitpython-devices-with-iphone-ios-13/) - With the launch of iOS 13, iPhone users now have the ability to edit code on CircuitPython USB devices!
+- [Awesome List for the rp2040 Macropad](https://github.com/prcutler/awesome-macropad) - A list of awesome Macropad applications, macros, 3D printed plans, and more.
 
 ## Frameworks
 
@@ -242,7 +243,8 @@ Adding new boards to the CircuitPython list on [circuitpython.org](https://circu
 
 ## Talks
 
-- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - Changing Lives through Open Source, Passion and Mentoring, Keynote by Kattni Rembor at Pyohio 2019.
+- [CircuitPython 入门](https://youtu.be/kVDFoyLCqXU) - CircuitPython 程序！An entry level CircuitPython tutorial in Chinese 01: From zero to Hello World (YouTube).
+- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - Changing Lives through Open Source, Passion and Mentoring, Keynote by Kattni Rembor at PyOhio 2019.
 - [CircuitPython: Python on hardware](https://youtu.be/rN7kvWuAt7k) - CircuitPython: Python on hardware by Dave Astels at PyCon Canada.
 - [Embedded Programming for everyone using MicroPython and CircuitPython](https://youtu.be/LRvh1UDTbU0) - Embedded Programming for everyone using MicroPython and CircuitPython by Ayan Pahwa at FOSSASIA Summit.
 - [EuroPython 2019 talk video: Nicholas Tollervey – Tools of the Trade: The Making of a Code Editor](https://blog.adafruit.com/2019/10/01/europython-2019-talk-video-nicholas-tollervey-tools-of-the-trade-the-making-of-a-code-editor-python-circuitpython-europython-ntoll/) - Nicholas Tollervey.

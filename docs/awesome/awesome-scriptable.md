@@ -16,6 +16,10 @@
 
 ## Cars
 
+- [BMW Linker](https://github.com/opp100/bmw-scriptable-widgets) - Information about your BMW, like location or mileage.
+
+  <img src="https://raw.githubusercontent.com/opp100/bmw-scriptable-widgets/raw/main/screenshots/sc_1.png?raw=true" />
+
 - [FordPassWidget](https://github.com/dschablowsky/FordPassWidget) - Information about your Ford, like location or mileage.
 
   <img src="https://raw.githubusercontent.com/dschablowsky/FordPassWidget/raw/master/fp-widget.jpg" width="400"/>
