@@ -15,7 +15,6 @@ See [Contributing](https://github.com/awesome-selfhosted/awesome-selfhosted/blob
 
 
 
-Click on the menu icon next to [README.md](#readme) for a list of sections
 
 --------------------
 
