@@ -524,7 +524,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Slack](https://slack.com/downloads/mac) - Awesome tool for team collaboration and communication. ![Freeware][Freeware Icon]
 * [Stack](https://getstack.app/) - Open, organize and use multiple web apps on a single screen. Stack your apps by categories or projects.
 * [Teambition](https://www.teambition.com) - Team collaboration tool, including many features like task plan, schedule, file sharing, instant discussion and everything you need when collaborating with other team members. ![Freeware][Freeware Icon]
-* [Telegram](https://desktop.telegram.org) - Messaging app with a focus on speed and security.
+* [Telegram](https://desktop.telegram.org) - Messaging app with a focus on speed and security. [![Open-Source Software][OSS Icon]](https://github.com/overtake/TelegramSwift) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/telegram/id747648890?mt=12)
 * [Textual](https://www.codeux.com/textual) - Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
 * [WeChat](https://itunes.apple.com/app/wechat/id836500024?mt=12) - Official WeChat app for Mac. ![Freeware][Freeware Icon] ![App Store][app-store Icon]
 * [WeeChat](https://weechat.org/) - The extensible command-line chat client. ![Freeware][Freeware Icon]
@@ -787,6 +787,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [BetterTouchTool](https://folivora.ai/) - Great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice.
 * [Choosy](https://www.choosyosx.com) - UI, URL API and a browser extension set for managing rules where and how to open links.
 * [Clovery](https://clovery.app) - Integrate all your favorite Google services tightly with your Mac, let you access these services quickly and work more productively. [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/neutron) [![App Store][app-store Icon]](https://apps.apple.com/us/app/clovery-for-google-apps/id1552618413)
+* [CursorSense](https://www.plentycom.jp/en/cursorsense/index.html) - Mouse & trackpad driver that lets you tweak the acceleration curve and more.
 * [Dropzone](https://aptonic.com) - Create a popup grid of customizable actions. Scriptable in Ruby & Python.
 * [Hammerspoon](http://www.hammerspoon.org/) - Tool for powerful OSX automation with the Lua scripting engine. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 * [HapticKey](https://github.com/niw/HapticKey/releases) - A simple utility application for MacBook with Touch Bar that triggers a haptic feedback when tapping Touch Bar. [![Open-Source Software][OSS Icon]](https://github.com/niw/HapticKey) ![Freeware][Freeware Icon]
@@ -842,7 +843,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Dashlane](https://www.dashlane.com) - Cloud-based password manager with award-winning design. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/dashlane-password-manager/id552383089)
 * [Enpass](https://www.enpass.io/) - Cross-platform password management tool with cloud integration. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/enpass-password-manager/id455566716)
 * [Keeweb](https://keeweb.info/) - Free, cross-platform password manager compatible with KeePass. [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
-* [KeepassXC](https://keepassxc.org/) - Free, open source, cross-platform password manager. [![Open-Source Software][OSS Icon]]![Freeware][Freeware Icon]
+* [KeepassXC](https://keepassxc.org/) - Free, open source, cross-platform password manager. [![Open-Source Software][OSS Icon]](https://github.com/keepassxreboot/keepassxc) ![Freeware][Freeware Icon]
 * [LastPass](https://lastpass.com/) - Password management tool for Mac OS and browser.
 * [MacPass](https://macpass.github.io/) - Open-source KeePass Mac OS client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
 * [SafeInCloud](https://safe-in-cloud.com/en/) - Cross Platform password management, low cost app! [![App Store][app-store Icon]](https://itunes.apple.com/app/safeincloud-password-manager/id883070818)

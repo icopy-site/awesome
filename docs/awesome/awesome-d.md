@@ -51,6 +51,7 @@
 * [Official D Forum Learn Group](https://forum.dlang.org/group/learn) - Highest traffic site for answering D questions.
 * [D on Stack Overflow](https://stackoverflow.com/questions/tagged/d) - Less traffic than forums but possibly easier to search.
 * [D on Rosetta Code](https://rosettacode.org/wiki/Category:D) - Examples of how to do many basic things in D.
+* [D on Discord](https://discord.gg/bMZk9Q4) - Another very active community for D conversations and question.
 
 ## People
 
@@ -175,12 +176,9 @@
 
 *Integrated Development Environment.*
 
-* [Mono-D](https://github.com/aBothe/Mono-D) - A D language addon for [MonoDevelop](https://www.monodevelop.com/). With dub support.
 * [Visual D](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
-* [DDT](http://ddt-ide.github.io/) - Eclipse plugin for the D programming language.
 * [IntelliJ D Language](https://intellij-dlanguage.github.io/) - Support for the D programming language within IntelliJ IDEA.
 * [Dexed](https://gitlab.com/basile.b/dexed) - IDE for the D programming language, its compilers, tools and libraries.
-* [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation.
 * [Dutyl](https://github.com/idanarye/vim-dutyl) - Vim plugin that integrates various D development tools
 * [code-d](https://marketplace.visualstudio.com/items?itemName=webfreak.code-d) <sup>\[[open-vsx](https://open-vsx.org/extension/webfreak/code-d)\]</sup> - Visual Studio Code extension using serve-d
 * [ide-d](https://atom.io/packages/ide-d) - Atom extension for D using serve-d
@@ -393,6 +391,7 @@
 
 * [DGame](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
 * [gfm](https://github.com/d-gamedev-team/gfm) - D gamedev toolkit. see <http://d-gamedev-team.github.io/gfm/>.
+* [Dagon](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
 * [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <https://circularstudios.com/dash/>.
 * [DSFML](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
