@@ -305,3 +305,8 @@ Installs: 63147 | Stars: 44 | Last update: 5 Aug 2021
 When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.
 
 Installs: 2133 | Stars: 563 | Last update: 31 Jan 2021
+
+
+Extends GitHub pages with math, diagrams, embedded YouTube videos etc.
+
+Installs: n/a | Stars: n/a | Last update: n/a

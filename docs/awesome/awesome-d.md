@@ -143,8 +143,10 @@
 * [dmd](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
 * [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
 * [gdc](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
+
+## WIP Compilers
+
 * [sdc](https://github.com/snazzy-d/SDC) - The Stupid D Compiler. Written in D. Grows Smarter every day.
-* [dil](https://code.google.com/p/dil/) - A compiler for the D programming language. Written in D.
 
 
 ## Dev Tools
@@ -351,7 +353,7 @@
 	* Nuklear - immediate UI - [bindbc-nuklear](https://github.com/Timu5/bindbc-nuklear)
 	* raylib - [bindbc-raylib](https://github.com/o3o/bindbc-raylib)
 	* bgfx - [bindbc-bgfx](https://github.com/GoaLitiuM/bindbc-bgfx)
-	* WegGPU - [bindbc-wgpu](https://github.com/gecko0307/bindbc-wgpu)
+	* WebGPU - [bindbc-wgpu](https://github.com/gecko0307/bindbc-wgpu)
 	* Zstandard - compression - [bindbc-zstandard](https://github.com/ZILtoid1991/bindbc-zstandard)
 	* nanomsg-next-gen - [bindbc-nng](https://github.com/darkridder/bindbc-nng)
 	* OpenAL - audio engine - [bindbc-openal](https://github.com/BindBC/bindbc-openal)
@@ -386,6 +388,10 @@
 	* DevIL (DerelictIL), 
 	* OpenAL (DerelictAL), 
 	* ALURE (DerelictALURE).
+
+## Game Engine Bindings
+
+* [Godot-D](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
 
 ## Game Frameworks
 

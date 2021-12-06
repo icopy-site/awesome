@@ -38,6 +38,7 @@ A curated list of awesome mathematics resources.
 * [Crash Course](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 * [Harvard](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 * [MIT](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+* [Mathologer](https://www.youtube.com/c/Mathologer) 
 
 ## Tools
 
@@ -58,6 +59,7 @@ A curated list of awesome mathematics resources.
 * [Matlab](https://www.mathworks.com/products/matlab.html)
 * [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
 * [Free Math](https://freemathapp.org)
+* [xhub](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
 
 ## Questions and Answers
 

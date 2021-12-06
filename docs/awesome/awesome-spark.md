@@ -35,7 +35,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 ### Storage
 
-
+* [lakeFS](https://docs.lakefs.io/integrations/spark.html) <img src="https://img.shields.io/github/last-commit/treeverse/lakefs.svg"> - Integration with the lakeFS atomic versioned storage layer.
 ### Bioinformatics
 
 
