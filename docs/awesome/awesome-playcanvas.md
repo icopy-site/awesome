@@ -80,6 +80,7 @@
 - [How Not To Suck At Money](https://hntsam.com/) - Educational game from Invesco about personal finance.
 - [Life During COVID-19](https://gallery.familyforeverychild.org/) - Virtual art exhibition from charity Family for Every Child.
 - [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) - Interactive 3D ad for a popular mobile game.
+- [Party Space](https://www.party.space/) - Virtual events platform.
 - [Pocketverse](https://pocketverse.net/) - Procedurally generated star systems.
 - [Ride Along 2](https://vimeo.com/152996271) - Using WebGL to promote a Hollywood movie release.
 - [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - Promoting the Rugby World Cup in London's Piccadilly Circus.
@@ -141,6 +142,7 @@
 - [Airstream Basecamp](https://www.airstream.com/travel-trailers/airstream-basecamp-3d-experience/) - Travel trailer visualizer.
 - [Bennington Pontoon Boats](https://www.benningtonmarine.com/en-us/build-model/) - Boat configurator.
 - [BMW Car Design](https://www.bmw.com/en/design/car-design-the-keys-to-bmw-design.html) - Interactive exploration of BMW design.
+- [BMW i4 M50 Showcase](https://www.bmw.com/en/performance/electric-sports-car-BMWi4-M50-driving-dynamic-test.html) - Blog article that embeds a technical overview of the new i4.
 - [BMW i8](http://car.playcanvas.com) - Car visualizer.
 - [DAB Motors](https://dabmotors.com/configurator/) - Motorcycle configurator.
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - Motorcycle configurator.
@@ -173,12 +175,9 @@
 ## Blockchain/Crypto/NFT
 
 - [Aritelia](https://aritelia.io/) - Open world social MMO with sandbox building and collectable NFTs.
+- [Doge Temple](https://www.dogetemple.io/) - Online microverse devoted to Dogecoin.
 - [The Crypt](https://www.crypt.art/) - Gallery for rare art and collectibles.
 - [RareRooms](https://www.rarerooms.io/) - 3D virtual rooms for NFT collections.
-
-## Virtual Events
-
-- [Party Space](https://www.party.space/) - Virtual events platform.
 
 ## Contributing
 
