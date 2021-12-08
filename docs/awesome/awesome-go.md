@@ -173,7 +173,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [gocmd](https://github.com/devfacet/gocmd) - Go library for building command line applications.
 * [hiboot cli](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) - cli application framework with auto configuration and dependency injection.
 * [job](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job.
-* [kingpin](https://github.com/alecthomas/kingpin) - Command line and flag parser supporting sub commands.
+* [kingpin](https://github.com/alecthomas/kingpin) - Command line and flag parser supporting sub commands (superseded by `kong`; see below).
+* [kong](https://github.com/alecthomas/kong) - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (succesor to `kingpin`).
 * [liner](https://github.com/peterh/liner) - Go readline-like library for command-line interfaces.
 * [mitchellh/cli](https://github.com/mitchellh/cli) - Go library for implementing command-line interfaces.
 * [mow.cli](https://github.com/jawher/mow.cli) - Go library for building CLI applications with sophisticated flag and argument parsing and validation.
@@ -270,6 +271,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - Go library for managing configuration data from environment variables.
 * [koanf](https://github.com/knadh/koanf) - Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line.
 * [konfig](https://github.com/lalamove/konfig) - Composable, observable and performant config handling for Go for the distributed processing era.
+* [kong](https://github.com/alecthomas/kong) - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (succesor to `kingpin`).
 * [mini](https://github.com/sasbury/mini) - Golang package for parsing ini-style configuration files.
 * [nasermirzaei89/env](https://github.com/nasermirzaei89/env) - Simple useful package for read environment variables.
 * [onion](https://github.com/goraz/onion) - Layer based configuration for Go, Supports JSON, TOML, YAML, properties, etcd, env, and encryption using PGP.
@@ -475,6 +477,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *SQL query builder, libraries for building and using SQL.*
 
+* [bqb](https://github.com/nullism/bqb) - Lightweight and easy to learn query builder.
 * [buildsqlx](https://github.com/arthurkushman/buildsqlx) - Go database query builder library for PostgreSQL.
 * [dbq](https://github.com/rocketlaunchr/dbq) - Zero boilerplate database operations for Go.
 * [Dotsql](https://github.com/gchaincl/dotsql) - Go library that helps you keep sql files in one place and use them with ease.
@@ -517,6 +520,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     * [pig](https://github.com/alexeyco/pig) - Simple [pgx](https://github.com/jackc/pgx) wrapper to execute and [scan](https://github.com/georgysavva/scany) query results easily.
     * [pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql.
     * [Sqinn-Go](https://github.com/cvilsmeier/sqinn-go) - SQLite with pure Go.
+    * [sqlhooks](https://github.com/qustavo/sqlhooks) - Attach hooks to any database/sql driver.
 
 * NoSQL Databases
     * [aerospike-client-go](https://github.com/aerospike/aerospike-client-go) - Aerospike client in Go language.
@@ -675,6 +679,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [MailHog](https://github.com/mailhog/MailHog) - Email and SMTP testing with web and API interface.
 * [SendGrid](https://github.com/sendgrid/sendgrid-go) - SendGrid's Go library for sending email.
 * [smtp](https://github.com/mailhog/smtp) - SMTP server protocol state machine.
+* [smtpmock](https://github.com/mocktools/go-smtp-mock) - Lightweight configurable multithreaded fake SMTP server. Mimic any SMTP behaviour for your test environment.
 
 
 ## Embeddable Scripting Languages
@@ -1275,6 +1280,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go (built on top of dig).
 * [gocontainer](https://github.com/vardius/gocontainer) - Simple Dependency Injection Container.
 * [goioc/di](https://github.com/goioc/di) - Spring-inspired Dependency Injection Container.
+* [HnH/di](https://github.com/HnH/di) - DI container library that is focused on clean API and flexibility.
 * [kinit](https://github.com/go-kata/kinit) - Customizable dependency injection container with the global mode, cascade initialization and panic-safe finalization.
 * [linker](https://github.com/logrange/linker) - A reflection based dependency injection and inversion of control library with components lifecycle support.
 * [nject](https://github.com/muir/nject) - A type safe, reflective framework for libraries, tests, and http endpoints, and service startup.
@@ -1428,7 +1434,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [cidranger](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup for Go.
 * [dhcp6](https://github.com/mdlayher/dhcp6) - Package dhcp6 implements a DHCPv6 server, as described in RFC 3315.
 * [dns](https://github.com/miekg/dns) - Go library for working with DNS.
-* [dnsmonster](https://github.com/mosajjal/dnsmonster) -  Passive DNS Capture/Monitoring Framework 
+* [dnsmonster](https://github.com/mosajjal/dnsmonster) -  Passive DNS Capture/Monitoring Framework
 * [easytcp](https://github.com/DarthPestilane/easytcp) - A light-weight TCP framework written in Go (Golang), built with message router. EasyTCP helps you build a TCP server easily fast and less painful.
 * [ether](https://github.com/songgao/ether) - Cross-platform Go package for sending and receiving ethernet frames.
 * [ethernet](https://github.com/mdlayher/ethernet) - Package ethernet implements marshaling and unmarshaling of IEEE 802.3 Ethernet II frames and IEEE 802.1Q VLAN tags.
@@ -1664,7 +1670,7 @@ _**Unofficial** set of patterns for structuring projects._
 
 * [acmetool](https://github.com/hlandau/acme) - ACME (Let's Encrypt) client tool with automatic renewal.
 * [acra](https://github.com/cossacklabs/acra) - Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system.
-* [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. 
+* [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 * [argon2-hashing](https://github.com/andskur/argon2-hashing) - light wrapper around Go's argon2 package that closely mirrors with Go's standard library Bcrypt and simple-scrypt package.
 * [argon2pw](https://github.com/raja/argon2pw) - Argon2 password hash generation with constant-time password comparison.
 * [autocert](https://godoc.org/golang.org/x/crypto/acme/autocert) - Auto provision Let's Encrypt certificates and start a TLS server.
@@ -1994,6 +2000,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [go-here](https://github.com/abdullahselek/go-here) - Go client library around the HERE location based APIs.
 * [go-imgur](https://github.com/koffeinsource/go-imgur) - Go client library for [imgur](https://imgur.com)
 * [go-jira](https://github.com/andygrunwald/go-jira) - Go client library for [Atlassian JIRA](https://www.atlassian.com/software/jira)
+* [go-lark](https://github.com/go-lark/lark) - An easy-to-use unofficial SDK for [Feishu](https://open.feishu.cn/) and [Lark](https://open.larksuite.com/) Open Platform.
 * [go-marathon](https://github.com/gambol99/go-marathon) - Go library for interacting with Mesosphere's Marathon PAAS.
 * [go-myanimelist](https://github.com/nstratos/go-myanimelist) - Go client library for accessing the [MyAnimeList API](https://myanimelist.net/apiconfig/references/api/v2).
 * [go-openproject](https://github.com/manuelbcd/go-openproject) - Go client library for interacting with [OpenProject](https://docs.openproject.org/api/) API.
@@ -2134,7 +2141,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [gotenv](https://github.com/subosito/gotenv) - Load environment variables from `.env` or any `io.Reader` in Go.
 * [goval](https://github.com/maja42/goval) - Evaluate arbitrary expressions in Go.
 * [gpath](https://github.com/tenntenn/gpath) - Library to simplify access struct fields with Go's expression in reflection.
-* [grofer](https://github.com/pesos/grofer) - A system and resource monitoring tool written in Golang! 
+* [grofer](https://github.com/pesos/grofer) - A system and resource monitoring tool written in Golang!
 * [gubrak](https://github.com/novalagung/gubrak) - Golang utility library with syntactic sugar. It's like lodash, but for golang.
 * [handy](https://github.com/miguelpragier/handy) - Many utilities and helpers like string handlers/formatters and validators.
 * [hostctl](https://github.com/guumaster/hostctl) - A CLI tool to manage /etc/hosts with easy commands.
@@ -2616,6 +2623,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [Circuit](https://github.com/gocircuit/circuit) - Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.
 * [Comcast](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 * [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
+* [crawley](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
 * [croc](https://github.com/schollz/croc) - Easily and securely send files or folders from one computer to another.
 * [Docker](https://www.docker.com/) - Open platform for distributed applications for developers and sysadmins.
 * [Documize](https://github.com/documize/community) - Modern wiki software that integrates data from SaaS tools.
@@ -2925,7 +2933,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [Learning Golang - From zero to hero](https://milapneupane.com.np/2019/07/06/learning-golang-from-zero-to-hero/) - Getting started with golang for beginner.
 * [package main](https://www.youtube.com/packagemain) - YouTube channel about Programming in Go.
 * [Programming with Google Go](https://www.coursera.org/specializations/google-golang) - Coursera Specialization to learn about Go from scratch.
-* [Saving a Third of Our Memory by Re-ordering Go Struct Fields](https://qvault.io/golang/struct-field-ordering-memory/) - How inefficient field ordering in Go structs 
+* [Saving a Third of Our Memory by Re-ordering Go Struct Fields](https://qvault.io/golang/struct-field-ordering-memory/) - How inefficient field ordering in Go structs
 * [The world’s easiest introduction to WebAssembly with Golang](https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02)
 * [Working with Go](https://github.com/mkaz/working-with-go) - Intro to go for experienced programmers.
 * [Your basic Go](https://yourbasic.org/golang) - Huge collection of tutorials and how to's.

@@ -109,9 +109,6 @@
 - [PlayCanvas](https://playcanvas.com/) - A browser-based WebGL engine with support for WebXR content, mobile browsers, collaborative editing, and more.
   - [Official Documentation](https://developer.playcanvas.com/en/)
 
-- [Sumerian](https://aws.amazon.com/sumerian/) - Amazon's browser-based engine that allows for creation of WebXR content and integration with AWS services.
-  - [Official Documentation](https://docs.aws.amazon.com/sumerian/)
-
 - [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
   - [WebXR Export](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
   - [SimpleWebXR](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)

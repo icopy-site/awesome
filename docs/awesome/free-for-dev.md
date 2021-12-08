@@ -227,7 +227,6 @@ Table of Contents
   * [Time Door](https://timedoor.io) - A time series analysis API.
   * [TinyMCE](https://www.tiny.cloud) - rich text editing API. Core features free for unlimited usage.
   * [Unixtime](https://unixtime.co.za) - Free API to convert Unixtime to DateTime and vice versa.
-  * [Vattly](https://vattly.com/) - Highly available, fast and secure VAT validation API, that provides full European Union coverage. 10 free API calls per day.
   * [Webhook.site](https://webhook.site) - Easily test HTTP webhooks with this handy tool that displays requests instantly.
   * [wit.ai](https://wit.ai/) — NLP for developers.
   * [wolfram.com](http://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud.
@@ -588,7 +587,6 @@ Table of Contents
   * [netdata.cloud](https://www.netdata.cloud/) — Netdata is an open source tool designed to collect real-time metrics.Great fast growing product. It can also be found in github!
   * [newrelic.com](https://www.newrelic.com) — New Relic observability platform built to help engineers create more perfect software. From monoliths to serverless, you can instrument everything, then analyze, troubleshoot, and optimize your entire software stack. Free tier offers 100GB/month of free data ingest, 1 free full access user, and unlimited free basic users.
   * [nixstats.com](https://nixstats.com) - Free for one server. E-Mail Notifications, public status page, 60 second interval and more.
-  * [nodequery.com](https://nodequery.com/) — Free basic server monitors up to 10 servers
   * [OnlineOrNot.com](https://onlineornot.com/) - 10 uptime monitors with a 5 minute interval, 1 page speed monitors with a 12 hour interval. Free alerts via Slack and Email.
   * [opsgenie.com](https://www.opsgenie.com/) — Powerful alerting and on-call management for operating always-on services. Free up to 5 users.
   * [paessler.com](https://www.paessler.com/) — Powerful infrastructure and network monitoring solution including alerting, strong visualization capabilities and basic reporting. Free up to 100 sensors.
@@ -775,9 +773,9 @@ Table of Contents
     * Free DNS for unlimited number of domains
     * Firewall rules and pagerules
     * Analytics
-    * [TryCloudflare](https://developers.cloudflare.com/argo-tunnel/trycloudflare) — Expose local HTTP servers through Argo Tunnel to public.
     * [Cloudflare Pages](https://pages.cloudflare.com/) — Free web hosting (JAMstack platform) for frontend developers to collaborate and deploy websites. 1 build at a time, 500 builds/month, unlimited sites, unlimited requests, unlimited bandwidth.
-    * [Cloudflare Workers](https://workers.cloudflare.com/) - Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.
+    * [Cloudflare Workers](https://workers.cloudflare.com/) — Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.
+    * [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare) — Create a tunnel from your server to a publically accessible, randomly-generated trycloudflare.com domain. No account required.
   * [Combinatronics](https://combinatronics.com/) - Convert your Github hosted assets (images, CSS, JS, etc.) into CDN assets. Can even render HTML files, for [example from this repo](https://combinatronics.com/ripienaar/free-for-dev/master/index.html). Similar to rawgit.com and raw.githack.com.
   * [ddos-guard.net](https://ddos-guard.net/store/web) — Free CDN, DDoS protection and SSL certificate
   * [developers.google.com](https://developers.google.com/speed/libraries/) — The Google Hosted Libraries is a content distribution network for the most popular, Open Source JavaScript libraries
@@ -979,7 +977,6 @@ Table of Contents
 ## Issue Tracking and Project Management
 
    * [acunote.com](https://www.acunote.com/) — Free project management and SCRUM software for up to 5 team members
-   * [AppFlux](https://appflux.io) — Project Management tool with Log Management & Issues. Take your team onboard & forget management through emails.
    * [asana.com](https://asana.com/) — Free for private project with collaborators
    * [Backlog](https://backlog.com) — Everything your team needs to release great projects in one platform. Free plan offers 1 Project with 10 users & 100MB storage.
    * [Basecamp](https://basecamp.com/personal) - To-do lists, milestone management, forum-like messaging, file sharing, and time tracking. Up to 3 projects, 20 users, and 1GB of storage space.
@@ -1007,7 +1004,6 @@ Table of Contents
    * [kanbanflow.com](https://kanbanflow.com/) — Board-based project management. Free, premium version with more options
    * [kanbantool.com](https://kanbantool.com/) — Kanban board-based project management. Free, paid plans with more options
    * [Kitemaker.co](https://kitemaker.co) - Collaborate through all phases of the product development process and keep track of work across Slack, Discord, Figma, and Github. Unlimited users, unlimited spaces. Free plan up to 250 work items.
-   * [kanrails.com](https://kanrails.com/) — Kanban board-based project management. Free for 3 collaborators, 2 projects and 5 tracks. Paid plans available for unlimited collaborators, projects and tracks.
    * [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports and more. Free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer to not leave your file publicly online (upload, edit, download, discard).
    * [LeanBoard](https://www.leanboard.io) — Collaborative whiteboard with sticky notes for your GitHub issues (Useful for Example Mapping and other techniques)
    * [Linear](https://linear.app/) — Issue tracker with streamlined interface. Free for unlimited members, up to 10MB file upload size, 250 issues (excluding Archive)
@@ -1063,6 +1059,7 @@ Table of Contents
    * [filestack.com](https://www.filestack.com/) — File picker, transform and deliver, free for 250 files, 500 transformations and 3 GB bandwidth
    * [gumlet.com](https://www.gumlet.com/) — Image resize-as-a-service. It also optimizes images and performs delivery via CDN. Free tier includes 1 GB bandwidth and unlimited number of image processing every month for 1 year.
    * [image-charts.com](https://www.image-charts.com/) — Unlimited image chart generation with a watermark
+   * [imgen](https://www.jitbit.com/imgen/) - Free unlimited social cover image generation API, no watermark
    * [jsonbin.io](https://jsonbin.io/) — Free JSON data storage service, ideal for small-scale web apps, website, mobile apps.
    * [kraken.io](https://kraken.io/) — Image optimization for website performance as a service, free plan up to 1 MB file size
    * [npoint.io](https://www.npoint.io/) — JSON store with collaborative schema editing
@@ -1160,7 +1157,6 @@ Table of Contents
 
    * [IP Geolocation](https://ipgeolocation.io/) — Free DEVELOPER plan available with 30K requests/month.
    * [carto.com](https://carto.com/) — Create maps and geospatial APIs from your data and public data.
-   * [datamaps.world](https://datamaps.world/) — The simple, yet powerful platform that gives you tools to visualize your geospatial data with a free tier.
    * [developers.arcgis.com](https://developers.arcgis.com) — APIs and SDKs for maps, geospatial data storage, analysis, geocoding, routing, and more across web, desktop, and mobile. 2,000,000 free basemap tiles, 20,000 non-stored geocodes, 20,000 simple routes, 5,000 drive time calculations, 5GB free tile+data storage per month.
    * [Foursquare](https://developer.foursquare.com/) - Location discovery, venue search, and context-aware content from Places API and Pilgrim SDK.
    * [geoapify.com](https://www.geoapify.com/) - Vector and raster map tiles, geocoding, places, routing, isolines APIs. 3000 free requests / day.
