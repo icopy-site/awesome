@@ -49,6 +49,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [gphoto2.cr](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
  * [icu.cr](https://github.com/olbat/icu.cr) - Bindings for the [ICU](http://site.icu-project.org/) library
  * [libnotify.cr](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
+ * [nlopt.cr](https://github.com/konovod/nlopt.cr) - Bindings for [NLOpt](https://nlopt.readthedocs.io/en/latest/)
  * [pcap.cr](https://github.com/maiha/pcap.cr) - Bindings for libpcap
  * [pledge.cr](https://github.com/chris-huxtable/pledge.cr) - Bindings for OpenBSD's `pledge(2)`
  * [ssh2.cr](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
@@ -107,6 +108,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Cryptography
  * [cmac](https://github.com/spider-gazelle/cmac) - Crystal implementation of Cipher-based Message Authentication Code (CMAC)
+ * [monocypher.cr](https://github.com/konovod/monocypher.cr) - Crystal wrapper for the Monocypher crypto library
  * [sodium.cr](https://github.com/didactic-drunk/sodium.cr) - Crystal wrapper for the libsodium crypto API
 
 ## Data Formats
@@ -197,6 +199,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
  * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
  * [entitas.cr](https://github.com/spoved/entitas.cr) - A Entity Component System Framework for Crystal
+ * [MyECS](https://github.com/konovod/myecs) - A Sparse Entity Component System Framework for Crystal
 
 ## GUI Development
  * [crystal-imgui](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
