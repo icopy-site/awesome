@@ -1005,6 +1005,11 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 - [redex](https://fbredex.com) - Redex provides a framework for reading, writing, and analyzing .dex files, and a set of optimization passes  that use this framework to improve the bytecode. An APK optimized by Redex should be smaller and faster.
 
 
+<h2 id="nix">Nix</h2>
+
+- [deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code (unused variable bindings)
+
+
 <h2 id="nodejs">Node.js</h2>
 
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) - Lint an npm or yarn lockfile to analyze and detect security issues
