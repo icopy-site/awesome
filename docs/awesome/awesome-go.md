@@ -216,6 +216,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [progressbar](https://github.com/schollz/progressbar) - Basic thread-safe progress bar that works in every OS.
 * [pterm](https://github.com/pterm/pterm) - A library to beautify console output on every platform with many combinable components.
 * [simpletable](https://github.com/alexeyco/simpletable) - Simple tables in terminal with Go.
+* [spinner](https://github.com/briandowns/spinner) - Go package to easily provide a terminal spinner with options.
 * [tabby](https://github.com/cheynewallace/tabby) - A tiny library for super simple Golang tables.
 * [table](https://github.com/tomlazar/table) - Small library for terminal color based tables .
 * [tabular](https://github.com/InVisionApp/tabular) - Print ASCII tables from command line utilities without the need to pass large sets of data to the API.
@@ -733,7 +734,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [afs](https://github.com/viant/afs) - Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go.
 * [baraka](https://github.com/xis/baraka) - A library to process http file uploads easily.
 * [bigfile](https://github.com/bigfile/bigfile) - A file transfer system, support to manage files with http api, rpc call and ftp client.
-* [checksum](https://github.com/codingsince1985/checksum) - Compute message digest, like MD5, SHA256, SHA1 or CRC, for large files.
+* [checksum](https://github.com/codingsince1985/checksum) - Compute message digest, like MD5, SHA256, SHA1, CRC or BLAKE2s, for large files.
 * [copy](https://github.com/otiai10/copy) - Copy directory recursively.
 * [flop](https://github.com/homedepot/flop) - File operations library which aims to mirror feature parity with [GNU cp](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html).
 * [gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface
@@ -2206,7 +2207,6 @@ _**Unofficial** set of patterns for structuring projects._
 * [sliceconv](https://github.com/Henry-Sarabia/sliceconv) - Slice conversion between primitive types.
 * [slicer](https://github.com/leaanthony/slicer) - Makes working with slices easier.
 * [sorty](https://github.com/jfcg/sorty) - Fast Concurrent / Parallel Sorting.
-* [spinner](https://github.com/briandowns/spinner) - Go package to easily provide a terminal spinner with options.
 * [sqlx](https://github.com/jmoiron/sqlx) - provides a set of extensions on top of the excellent built-in database/sql package.
 * [sshman](https://github.com/shoobyban/sshman) - SSH Manager for authorized_keys files on multiple remote servers.
 * [statiks](https://github.com/janiltonmaciel/statiks) - Fast, zero-configuration, static HTTP filer server.
