@@ -157,12 +157,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/uikit/uikit)
   | #LESS #SCSS
 
-- [**Spectre.css**](https://picturepan2.github.io/spectre/) - Lightweight, responsive and modern CSS framework.  
-  ![](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=social&label=Star)
-  [Docs](https://picturepan2.github.io/spectre/getting-started.html),
-  [Repo](https://github.com/picturepan2/spectre)
-  | #SCSS
-
 - [**Primer**](https://primer.style/) - CSS framework that powers GitHub's front-end design.  
   ![](https://img.shields.io/github/stars/primer/css.svg?style=social&label=Star)
   [Docs](https://styleguide.github.com/primer/),
@@ -331,6 +325,12 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Demo](https://materializecss.com/showcase.html),
   [Docs](https://materializecss.com/getting-started.html),
   [Repo](https://github.com/Dogfalo/materialize)
+  | #SCSS
+
+- [**Spectre.css**](https://picturepan2.github.io/spectre/) - Lightweight, responsive and modern CSS framework.  
+  ![](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=social&label=Star)
+  [Docs](https://picturepan2.github.io/spectre/getting-started.html),
+  [Repo](https://github.com/picturepan2/spectre)
   | #SCSS
 
 - [**Flexbox Grid**](https://flexboxgrid.com) - Grid based on CSS3 flexbox.  
