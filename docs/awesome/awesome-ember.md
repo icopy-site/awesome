@@ -745,6 +745,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Customising Ember Power Select](https://medium.com/life-at-kayako/customising-ember-power-select-3d570c7c4c0c)
 - [Deep Dive on Ember.js Events](https://medium.com/square-corner-blog/deep-dive-on-ember-events-cf684fd3b808)
 
+- [A collection of notes that summarize EmberConf 2021](https://alexdiliberto.com/posts/emberconf-2021-notes/)
 - [A collection of notes that summarize EmberConf 2020](https://alexdiliberto.com/posts/emberconf-2020-notes/)
 - [A collection of notes that summarize EmberConf 2019](https://alexdiliberto.com/posts/emberconf-2019-notes/)
 - [EmberConf 2019 Links and Notes](https://github.com/dknutsen/emberconf-2019)
