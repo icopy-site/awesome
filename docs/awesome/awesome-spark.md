@@ -53,6 +53,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 * [Apache SystemML](https://systemml.apache.org/) <img src="https://img.shields.io/github/last-commit/apache/systemml.svg"> - Declarative machine learning framework on top of Spark.
 * [Mahout Spark Bindings](https://mahout.apache.org/users/sparkbindings/home.html) \[status unknown\] - linear algebra DSL and optimizer with R-like syntax.
 * [KeystoneML](http://keystone-ml.org/) - Type safe machine learning pipelines with RDDs.
+* [MLflow](https://mlflow.org/docs/latest/python_api/mlflow.spark.html#module-mlflow.spark) <img src="https://img.shields.io/github/last-commit/mlflow/mlflow.svg"> - Machine learning orchestration platform. 
 
 ### Middleware
 
