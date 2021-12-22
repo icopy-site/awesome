@@ -17,7 +17,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
@@ -301,6 +300,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JackPaper](https://github.com/jackel27/jackpaper) - Set images from Unsplash as wallpaper.
 - [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
+- [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
 
 ### Shell Utilities
 
