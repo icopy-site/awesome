@@ -96,6 +96,10 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [yew-component-size](https://github.com/AircastDev/yew-component-size) - A Yew component that emits events when the parent component changes width/height.
 - [yew-virtual-scroller](https://github.com/AircastDev/yew-virtual-scroller) - A Yew component for virtual scrolling / scroll windowing.
 
+### Hooks
+
+- [yew-hooks](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use](https://github.com/streamich/react-use) and [alibaba/hooks](https://github.com/alibaba/hooks).
+
 ### Utils
 
 - [Yewdux](https://github.com/intendednull/yewdux) - Redux-like state containers for Yew apps.
