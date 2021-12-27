@@ -153,6 +153,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Provider Tutorial](https://handbook.golem.network/provider-tutorials/provider-tutorial) - Get started as a Provider on Golem Network using the handbook.
 - [Provider FAQ](https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md) - Community curated list of commonly asked questions and answers.
 - [Yagna-binaries for aarch64](https://github.com/MarijnStevens/yagna-binaries) - Build for 64 bit arm architecture to be able to run as a provider on a system such as a Raspberry Pi.
+- [Automatically update provider node prices](https://gist.github.com/sv3t0sl4v/28f896752edc9e20347ffc6d8cefe74c) - Script that checks the median of the prices on stats.golem.network and updates all 3 values on the provider node related to price.
 
 ### Monitoring
 
