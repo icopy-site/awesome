@@ -91,6 +91,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Password Manager
 
+- [Bitwarden](https://bitwarden.com) - A free, trusted password manager that can store, sync, and generate passwords online or through native apps.
 - [LastPass](https://lastpass.com) - A freemium password manager that stores encrypted passwords online.
 
 ### Knowledge Management

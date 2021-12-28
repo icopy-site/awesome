@@ -111,6 +111,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Why remote work makes disagreement hard](https://zapier.com/blog/how-to-disagree-remote-work/)
   1. [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
   1. [10 Leadership Lessons from 10 Years Working in a Fully-Distributed and Remote Company](https://whenihavetime.com/2020/07/09/10-leadership-lessons-from-10-years-working-remotely/)
+  1. [This Is the Future Of Remote Work In 2021](https://www.forbes.com/sites/carolinecastrillon/2021/12/27/this-is-the-future-of-remote-work-in-2021/?sh=500189961e1d)
 
 ## Videos
   1. [David Copeland: The Effective Remote Developer](https://www.infoq.com/presentations/effective-remote-developer-2017)
@@ -401,6 +402,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Litmus](https://litmus.com/careers) - Optimization tools for email professionals. Offices in Boston and London, but nearly 50% of the team works remotely.
   1. [LiveChat](https://www.livechat.com/careers/jobs/) - online customer service software with online chat, help desk software, and web analytics
   1. [LivingSocial](https://jobs.groupon.com/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
+  1. [Logit.io](https://logit.io/about-us#careers) - Fully remote first logging and metrics management company with 100% of operations and development based remotely
   1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
   1. [madewithlove](https://madewithlove.com/jobs) - We help companies build digital products and bring new juice to teams that seem to jam.
   1. [Maintainer Mountaineer](https://maintainer.io) - Open source community management as a service.
@@ -564,6 +566,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Whereby](https://whereby.com) – Browser-based, plugin-less group video calls.
   1. [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
   1. [Krisp](https://krisp.ai/) - Mute background noise in any communication app.
+  1. [flat.social](https://flat.social/) - Create fun virtual spaces for online meetings, team activities and virtual socials.
 
 #### Project Management
   1. [Asana](https://asana.com/) - Project management good for distributed teams.
