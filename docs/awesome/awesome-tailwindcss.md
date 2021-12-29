@@ -67,6 +67,7 @@
 - 🎨🧬 [Multi Theme](https://github.com/estevanmaito/tailwindcss-multi-theme) - Adds theme variants based on a single `theme` property.
 - 🎨🧬 [Theme Swapper](https://github.com/crswll/tailwindcss-theme-swapper) - Theming using CSS variables, with media queries support.
 - 🎨🧬 [Themeable](https://github.com/upupming/tailwindcss-themeable) - Adds multiple themes support for Tailwind CSS.
+- 🎨🧬 [Themer](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
 - 💼🧬 [Radix](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
 - 💼 [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) - Leverages Tailwind CSS's configuration to allow the creation of utilities.
 - 💼 [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Adds `image-rendering` utilities.
@@ -263,6 +264,7 @@
 - 🧩 [Tailwind Typeahead](https://github.com/basarozcan/vue-tailwindcss-typeahead) - Typeahead/Autocomplete component built with Vue.js and Tailwind CSS.
 - 🧩 [Material Tailwind](https://material-tailwind.com/) - Easy to use components library for Tailwind CSS and Material Design.
 - 🧩 [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev/) - Layouts and UI Patterns for Tailwind CSS.
+- 🧩 [HyperUI](https://hyperui.dev/) - Open source marketing and ecommerce Tailwind CSS components.
 - 📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 - 📁 [Red Pixel Themes](https://redpixelthemes.com/) - Paid, developer-friendly templates made with Tailwind CSS.
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
