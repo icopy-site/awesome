@@ -19,6 +19,7 @@
 <a href="https://flutter.dev/">Flutter</a> is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
+
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
   <a href="https://twitter.com/BlueAquilae/status/1049315328835182592">
@@ -37,6 +38,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 
 </tr></table></div>
+
+<a href="https://www.reddit.com/r/Bitstamp/comments/qzxk0r/please_bitstamp_respond_its_been_1_year_and_now_2/">
+  <img width="500" alt="Bitstamp want to keep my tokens" src="https://user-images.githubusercontent.com/1295961/147749304-22f5695f-fbf5-4f08-a30b-67bcaa4b92f4.png" />
+</a>
 
 
 

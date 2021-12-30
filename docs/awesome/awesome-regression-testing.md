@@ -18,7 +18,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 - [Wikipedia: Regression testing](https://en.wikipedia.org/wiki/Regression_testing)
 - [Survey of screenshot-based CSS testing tools](https://gist.github.com/cvrebert/adf91e429906a4d746cd)
-- [visualregressiontesting.com](https://visualregressiontesting.com/) - Basic collection of links.
 
 ## Browser automation
 
@@ -71,6 +70,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol.
 - [Protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps.
 - [jest-puppeteer-react](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
+- [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot) - Jest matcher that performs image comparisons using [pixelmatch](https://www.npmjs.com/package/pixelmatch)
 - [test-crawler](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
 - [wdio-visual-regression](https://github.com/ennjin/wdio-visual-regression) - Visual regression tool for webdriver.io
 - [Selenide](https://github.com/selenide/selenide) - Framework powered by Selenium WebDriver for writing easy-to-read and easy-to-maintain automated tests in Java.

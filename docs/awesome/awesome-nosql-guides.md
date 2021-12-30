@@ -12,6 +12,7 @@ For actual NoSQL databases, you can go
 [here](https://github.com/sindresorhus/awesome#databases),
 [here](https://hostingdata.co.uk/nosql-database/),
 [here](https://db-engines.com/en/ranking),
+[here](https://dbdb.io/),
 [here](https://github.com/igorbarinov/awesome-data-engineering#databases), or
 [here](https://github.com/kahun/awesome-sysadmin#nosql). Also, not to be confused with the relational database management system, [NoSQL](http://www.strozzi.it/cgi-bin/CSA/tw7/I/en_US/nosql/Home%20Page).
 
