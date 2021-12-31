@@ -88,6 +88,11 @@ This is a curated list for when naming things is done right.
 - [Oracle](https://en.wikipedia.org/wiki/Oracle_machine) - A black box that magically gives answers even to undeciable questions like the halting problem. 
 - [Pumping lemma](https://en.wikipedia.org/wiki/Pumping_lemma) - The fact that in some formal languages any sufficiently long string can be _pumped_ with repetitions of its substring and the result stays in the same formal language.
 
+## Tools
+
+- [tldr](https://tldr.sh/) - Simplified man pages with practical examples.
+- [yarn](https://yarnpkg.com/) - NodeJS dependency manager.
+
 ## Other
 
 - [ACID vs. BASE](https://www.johndcook.com/blog/2009/07/06/brewer-cap-theorem-base/) - Acronyms describing competing database ideologies (aka. SQL vs. NoSQL). 
