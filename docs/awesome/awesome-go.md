@@ -125,6 +125,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [slackscot](https://github.com/alexandre-normand/slackscot) - Another framework for building Slack bots.
 * [tbot](https://github.com/yanzay/tbot) - Telegram bot server with API similar to net/http.
 * [telebot](https://github.com/tucnak/telebot) - Telegram bot framework written in Go.
+* [telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Golang with full one-to-one API implementation.
 * [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) - Simple and clean Telegram bot client.
 * [teleterm](https://github.com/alfiankan/teleterm) - Telegram Bot Exec Terminal Command.
 * [Tenyks](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging.
@@ -139,6 +140,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [gaper](https://github.com/maxcnunes/gaper) - Builds and restarts a Go project when it crashes or some watched file changes.
 * [gilbert](https://go-gilbert.github.io) - Build system and task runner for Go projects.
 * [goyek](https://github.com/goyek/goyek) - Create build pipelines in Go.
+* [mage](https://github.com/magefile/mage) - Mage is a make/rake-like build tool using Go.
 * [mmake](https://github.com/tj/mmake) - Modern Make.
 * [realize](https://github.com/tockins/realize) - Go build system with file watchers and live reload. Run, build and watch file changes with custom paths.
 * [Task](https://github.com/go-task/task) - simple "Make" alternative.
@@ -707,6 +709,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [gval](https://github.com/PaesslerAG/gval) - A highly customizable expression language written in Go.
 * [metacall](https://github.com/metacall/core) - Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, WebAssembly, Java, Cobol and more.
 * [ngaro](https://github.com/db47h/ngaro) - Embeddable Ngaro VM implementation enabling scripting in Retro.
+* [prolog](https://github.com/ichiban/prolog) - Embeddable Prolog.
 * [purl](https://github.com/ian-kent/purl) - Perl 5.18.2 embedded in Go.
 * [tengo](https://github.com/d5/tengo) - Bytecode compiled script language for Go.
 
@@ -1506,6 +1509,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [gentleman](https://github.com/h2non/gentleman) - Full-featured plugin-driven HTTP client library.
 * [go-http-client](https://github.com/bozd4g/go-http-client) - Make http calls simply and easily.
 * [go-req](https://github.com/wenerme/go-req) - Declarative golang HTTP client.
+* [go-retryablehttp](https://github.com/hashicorp/) - Retryable HTTP client in Go.
 * [grequests](https://github.com/levigross/grequests) - A Go "clone" of the great and famous Requests library.
 * [heimdall](https://github.com/gojektech/heimdall) - An enhanced http client with retry and hystrix capabilities.
 * [httpc](https://github.com/valord577/httpc) - A customizable and simple HTTP client library. Only depend on the stdlib HTTP client.
@@ -2098,6 +2102,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [cryptgo](https://github.com/Gituser143/cryptgo) - Crytpgo is a TUI based application written purely in Go to monitor and observe cryptocurrency prices in real time!
 * [ctop](https://github.com/bcicen/ctop) - [Top-like](https://ctop.sh) interface (e.g. htop) for container metrics.
 * [ctxutil](https://github.com/posener/ctxutil) - A collection of utility functions for contexts.
+* [cvt](https://github.com/shockerli/cvt) - Easy and safe convert any value to another type.
 * [dbt](https://github.com/nikogura/dbt) - A framework for running self-updating signed binaries from a central, trusted repository.
 * [Death](https://github.com/vrecan/death) - Managing go application shutdown with signals.
 * [Deepcopier](https://github.com/ulule/deepcopier) - Simple struct copying for Go.
