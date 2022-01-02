@@ -56,7 +56,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 *Libraries for implementing authentications schemes.*
 
 * [authboss](https://github.com/volatiletech/authboss) - Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure, and start building your app without having to build an authentication system each time.
-* [branca](https://github.com/hako/branca) - Golang implementation of Branca Tokens.
+* [branca](https://github.com/essentialkaos/branca) - branca token [specification implementation](https://github.com/tuupola/branca-spec) for Golang 1.15+.
 * [casbin](https://github.com/hsluoyz/casbin) - Authorization library that supports access control models like ACL, RBAC, ABAC.
 * [cookiestxt](https://github.com/mengzhuo/cookiestxt) - provides parser of cookies.txt file format.
 * [go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address.
@@ -66,7 +66,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [gologin](https://github.com/dghubble/gologin) - chainable handlers for login with OAuth1 and OAuth2 authentication providers.
 * [gorbac](https://github.com/mikespook/gorbac) - provides a lightweight role-based access control (RBAC) implementation in Golang.
 * [goth](https://github.com/markbates/goth) - provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box.
-* [httpauth](https://github.com/goji/httpauth) - HTTP Authentication middleware.
 * [jeff](https://github.com/abraithwaite/jeff) - Simple, flexible, secure and idiomatic web session management with pluggable backends.
 * [jwt](https://github.com/robbert229/jwt) - Clean and easy to use implementation of JSON Web Tokens (JWT).
 * [jwt](https://github.com/pascaldekloe/jwt) - Lightweight JSON Web Token (JWT) library.
@@ -2273,6 +2272,7 @@ _**Unofficial** set of patterns for structuring projects._
 
 *Libraries for version control.*
 
+* [froggit-go](https://github.com/jfrog/froggit-go) - Froggit-Go is a Go library, allowing to perform actions on VCS providers. 
 * [gh](https://github.com/rjeczalik/gh) - Scriptable server and net/http middleware for GitHub Webhooks.
 * [git2go](https://github.com/libgit2/git2go) - Go bindings for libgit2.
 * [githooks](https://github.com/gabyx/githooks) - Per-repo and shared Git hooks with version control and auto update.
