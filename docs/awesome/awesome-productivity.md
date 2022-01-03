@@ -3,8 +3,6 @@
 ## Awesome Productivity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated list of delightful productivity resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
-
 
 
 ## Websites

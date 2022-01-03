@@ -11,6 +11,7 @@
 [V](https://vlang.io/) is a simple, fast, safe, compiled language for developing maintainable software.
 
 
+  - [Books](#books).
 
 ## Applications
 
@@ -41,6 +42,7 @@
 - [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
 - [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 - [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - Deploy V apps on Heroku.
+- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for *[Is V still fast?](https://fast.vlang.io/)*. 
 
 ### Graphics
 
@@ -61,8 +63,8 @@
 - [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 - [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
 - [vcredits](https://github.com/zakuro9715/vcredits) - A tool that creates CREDITS from LICENSE files of dependencies.
-- [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file.
 - [vinit](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
+- [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
 
 ### Project management
 
@@ -84,6 +86,7 @@
 - [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
 - [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
 - [vesseract](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
+- [spinners](https://github.com/rhygg/spinners) - Create spinners in your terminal!
 
 ### Text processing
 
@@ -140,7 +143,7 @@
 
 ### Networking
 
-- [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library)
+- [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
 
 ### Automation
 
@@ -236,6 +239,11 @@
 
 - [An introduction to V](https://simonknott.de/articles/VLang.html)
 - [The Book of V](https://github.com/KeyWeeUsr/the-book-of-v/)
+- [Todo App with V](https://practicaldime.org/docs/v-fresh-take/v-todo-implementation)
+
+### Books
+
+- [Getting Started with V Programming - Navule Pavan Kumar Rao - Packt 2021 Dec](https://www.amazon.com/Getting-Started-Programming-end-end-ebook/dp/B09FKK3JL7/ref=sr_1_1?keywords=Getting+started+with+V+programming&qid=1639480830&sr=8-1) - Introductory book on V.
 
 ### Communities
 
@@ -248,4 +256,4 @@
 
 ### Operating Systems & OS Development Examples
 
-- [Simple Linux kernel module example](https://github.com/spytheman/simple_kernel_module_in_v) - demonstration & test of writing a very simple Linux kernel module, using V.
+- [Simple Linux kernel module example](https://github.com/spytheman/simple_kernel_module_in_v) - Demonstration & test of writing a very simple Linux kernel module, using V.
