@@ -24,6 +24,7 @@
 
 - [Brushwork VR](https://brushworkvr.com/) - A VR app that simulates the process of painting with a virtual canvas, palette, color mixing, and more.
 - [Hatsumi](https://www.hatsumivr.com/) - A VR app that provides you with 3D drawing tools and a virtual body to illustrate lived experiences.
+- [Obscura](https://obscura.world/) - Float around and explore a structure inspired by the architecture of Carlo Scarpa.
 - [Silk Brush](https://www.silkbrush.app/) - A port of Tilt Brush to WebXR with plans for future extensions.
 - [VARTISTE](https://vartiste.xyz/) - A VR app for 2D drawing and image editing, and 3D model texturing.
 
@@ -85,6 +86,7 @@
 - [Playko Software](https://www.playko.com/) - VR/AR/WebXR agency and WebXR game development studio.
 - [REM5](https://www.rem5forgood.com/) - Digital immersive experience design studio specializing in education and social equity initiatives.
 - [Sketchfab](https://sketchfab.com/) - 3D model marketplace that offers a VR previewer.
+- [Third Axis](https://thirdaxis.io/) - A design studio based in NYC that creates 3D, AR, and VR content on the web.
 - [Vhite Rabbit](https://vhiterabbit.com/) - Parent company behind Construct Arcade.
 
 

@@ -90,6 +90,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 Open source software packages can speed up the development process by allowing developers to implement functionality without having to write all of the code. However, with the open source code comes open source vulnerabilities. Dependency management tools help manage vulnerabilities in open source packages by identifying and updating packages with known vulnerabilities.
 
+- [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 - [Dependabot](https://dependabot.com/) - _GitHub_ - Automatically scan GitHub repositories for vulnerabilities and create pull requests to merge in patched dependencies.
 - [Dependency-Check](https://owasp.org/www-project-dependency-check/) - _OWASP_ - Scans dependencies for publicly disclosed vulnerabilities using CLI or build server plugins.
 - [Dependency-Track](https://dependencytrack.org/) - _OWASP_ - Monitor the volume and severity of vulnerable dependencies across multiple projects over time.
@@ -275,6 +276,7 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 Supply chain attacks come in different forms, targeting parts of the SDLC that are inherently 3rd party: tools in CI, external code that's been executed, and more. Supply chain security tooling can defend against these kinds of attacks.
 
 - [Preflight](https://github.com/spectralops/preflight) - _Spectral_ - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
+- [Sigstore](https://www.sigstore.dev/) - sigstore is a set of free to use and open source tools, including [fulcio](https://github.com/sigstore/fulcio), [cosign](https://github.com/sigstore/cosign) and [rekor](https://github.com/sigstore/rekor), handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.
 
 
 ### Threat Modelling

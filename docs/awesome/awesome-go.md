@@ -1508,7 +1508,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [gentleman](https://github.com/h2non/gentleman) - Full-featured plugin-driven HTTP client library.
 * [go-http-client](https://github.com/bozd4g/go-http-client) - Make http calls simply and easily.
 * [go-req](https://github.com/wenerme/go-req) - Declarative golang HTTP client.
-* [go-retryablehttp](https://github.com/hashicorp/) - Retryable HTTP client in Go.
+* [go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go.
 * [grequests](https://github.com/levigross/grequests) - A Go "clone" of the great and famous Requests library.
 * [heimdall](https://github.com/gojektech/heimdall) - An enhanced http client with retry and hystrix capabilities.
 * [httpc](https://github.com/valord577/httpc) - A customizable and simple HTTP client library. Only depend on the stdlib HTTP client.
@@ -2272,7 +2272,7 @@ _**Unofficial** set of patterns for structuring projects._
 
 *Libraries for version control.*
 
-* [froggit-go](https://github.com/jfrog/froggit-go) - Froggit-Go is a Go library, allowing to perform actions on VCS providers. 
+* [froggit-go](https://github.com/jfrog/froggit-go) - Froggit-Go is a Go library, allowing to perform actions on VCS providers.
 * [gh](https://github.com/rjeczalik/gh) - Scriptable server and net/http middleware for GitHub Webhooks.
 * [git2go](https://github.com/libgit2/git2go) - Go bindings for libgit2.
 * [githooks](https://github.com/gabyx/githooks) - Per-repo and shared Git hooks with version control and auto update.
@@ -2596,6 +2596,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [kcli](https://github.com/cswank/kcli) - Command line tool for inspecting kafka topics/partitions/messages.
 * [kool](https://github.com/kool-dev/kool) - Command line tool for managing Docker environments as an easy way.
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google.
+* [kwatch](https://github.com/abahmed/kwatch) - Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
 * [lstags](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
 * [lwc](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.
 * [manssh](https://github.com/xwjdsh/manssh) - manssh is a command line tool for managing your ssh alias config easily.
@@ -2763,7 +2764,6 @@ _**Unofficial** set of patterns for structuring projects._
 * [Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector) - Go gopher Vector Data [.ai, .svg].
 * [gopher-logos](https://github.com/GolangUA/gopher-logos) - adorable gopher logos.
 * [gopher-stickers](https://github.com/tenntenn/gopher-stickers)
-* [gopher-vector](https://github.com/golang-samples/gopher-vector)
 * [gophericons](https://github.com/shalakhin/gophericons)
 * [gopherize.me](https://github.com/matryer/gopherize.me) - Gopherize yourself.
 * [gophers](https://github.com/ashleymcnamara/gophers) - Gopher artworks by Ashley McNamara.
