@@ -111,6 +111,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
 - [LocalizationLab](https://www.localizationlab.org/) - Global community of 7000+ contributors who support the translation and localization of Internet freedom tools.
 - [Pontoon](https://pontoon.mozilla.org/) - Various Mozilla localization projects.
+- [Watson Language Translator](https://www.ibm.com/cloud/watson-language-translator) - A service on the IBM Cloud that enables dynamically translation news, patents, or conversational documents.
 
 ## Contributing
 

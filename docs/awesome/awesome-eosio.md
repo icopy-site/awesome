@@ -36,6 +36,12 @@ EdenOS resources.
 - [eoscommunity](https://github.com/eoscommunity) - Official GitHub.
 - [More Equal Animals Book](https://moreequalanimals.com/posts/book-launch) - Book by Daniel Larimer.
 
+## Mandel
+
+Mandel resources.
+
+- [eosnetworkfoundation/mandel](https://github.com/eosnetworkfoundation/mandel) - Official GitHub.
+
 ## Learn
 
 EOSIO learning resources.
