@@ -168,6 +168,12 @@ This minimizes startup time by not having to execute time consuming logic (plugi
 
 Zgenom can load [oh-my-zsh](http://ohmyz.sh/)-compatible and [prezto](https://github.com/sorin-ionescu/prezto)-compatible plugins and themes, and will automagically `git clone` plugins for you when you add them to your plugin list.
 
+### [ZI](https://github.com/z-shell/zi)
+
+**ZI** is a Swiss Army Knife for Zsh Unix shell. Formerly known as zplugin, zinit. ZI - [Wiki Pages](https://z-shell.pages.dev/).
+
+Bonus: you can use [zi-console](https://github.com/z-shell/zi-console) to view and change the state of the ZSH session (e.g.: list and unload plugins) and to delete the plugins and snippets from the disk.
+
 ### [zilsh](https://github.com/zilsh/zilsh)
 
 **zilsh** is a ZSH config system that aims to appeal more to power-users and follow the simplistic approach of vim-pathogen.
@@ -191,8 +197,6 @@ Zgenom can load [oh-my-zsh](http://ohmyz.sh/)-compatible and [prezto](https://gi
 - Clean `fpath` (the array `$fpath` is not being used to add completions and autoload functions, hence it stays concise, not bloated)
 - Services ↔ a single-instance, background plugins
 - Also, in general: all the mechanisms from the ZSH Plugin Standard – Zinit is a reference implementation of the standard.
-
-Bonus: you can use [zinit-console](https://github.com/z-shell/zinit-console) to view and change the state of the ZSH session (e.g.: list and unload plugins) and to delete the plugins and snippets from the disk.
 
 The project is very active – currently > 3100 commits.
 
@@ -703,7 +707,8 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 * [jenv-lazy](https://github.com/shihyuho/zsh-jenv-lazy) - A ZSH plugin for lazy loading of jEnv.
 * [jhipster](https://github.com/jhipster/jhipster-oh-my-zsh-plugin) - Adds commands for [jHipster](https://www.jhipster.tech/).
 * [jira-plus](https://github.com/gerges/oh-my-zsh-jira-plus) - Create JIRA tickets from the command line.
-* [jq](https://github.com/reegnz/jq-zsh-plugin) - Interactively build [jq](https://stedolan.github.io/jq/) expressions.
+* [jq (northismirror)](https://github.com/NorthIsMirror/jq-zsh-plugin) - Interactively build [jq](https://stedolan.github.io/jq/) expressions to give you `jq` superpowers.
+* [jq (reegnz)](https://github.com/reegnz/jq-zsh-plugin) - Interactively build [jq](https://stedolan.github.io/jq/) expressions.
 * [jvm](https://github.com/mgryszko/jvm) - Allows selection of JDK on macOS.
 * [k3d](https://github.com/dwaynebradley/k3d-oh-my-zsh-plugin) - Adds aliases and tab completions for [k3d](https://k3d.io/).
 * [k](https://github.com/supercrabtree/k) - Directory listings for ZSH with `git` status decorations.

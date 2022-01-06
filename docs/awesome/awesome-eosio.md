@@ -20,6 +20,7 @@
 Official resources.
 
 - [EOS Community](https://eoscommunity.org/)
+- [EOS Network Foundation](https://www.eosn.foundation/)
 - [GitHub](https://github.com/EOSIO)
 - [Technical White Paper](https://github.com/EOSIO/Documentation)
 - [Bug Bounty Program](https://hackerone.com/eosio)
