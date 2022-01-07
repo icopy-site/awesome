@@ -157,6 +157,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [Offen](https://www.offen.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/offen/offen) - Fair web analytics. Gain insights while your users have full control over their data.
 - [Kindmetrics](https://kindmetrics.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kindmetrics/kindmetrics) - Privacy focused website analytics made in Crystal - Hosted in the EU.
 - [Counter](https://counter.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ihucos/counter.dev) - Web Analytics made simple and therefore privacy friendly.
+- [Swetrix](https://swetrix.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/swetrix/swetrix-js) - Privacy-oriented highly customisable & selfhostable analytics service.
 
 ## Blocklists
 
@@ -227,6 +228,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Argos Translate](https://www.argosopentech.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/argosopentech/argos-translate) - Open source neural machine translation.
 - [gtranslate](https://git.sr.ht/~yerinalexey/gtranslate) - Front-end for Google Translate that doesn't track you and works without JavaScript.
 - [SimplyTranslate](https://git.sr.ht/~metalune/simplytranslate_web) - Simple front-end for SimplyTranslate, a facade to multiple search engines.
+- [Nekocap](https://nekocap.com/)[<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/nopol10/nekocap) - Browser extension for creating & uploading community captions for YouTube, niconico and other video sharing sites.
 
 ## Freedom
 

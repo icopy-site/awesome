@@ -84,12 +84,12 @@
 - [Baler](https://github.com/magento/baler) - Smart replacement for Magento2 out-of-the-box JS bundling.
 - [graycoreio/magento2-cors](https://github.com/graycoreio/magento2-cors) - Enables configurable CORS Headers on the Magento GraphQL API.
 - [shkoliar/magento-debug-helper](https://github.com/shkoliar/magento-debug-helper) - Magento 2 Debug Helper Module for easy debugging with Xdebug and PHPStorm or any other IDE by [Dmitry Shkoliar](https://shkoliar.com/)
+- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
 
 ### Deployment
 
 - [Capistrano::Magento2](https://github.com/davidalger/capistrano-magento2) - Magento 2 deployments with [Capistrano](http://capistranorb.com) by [David Alger](http://davidalger.com).
 - [MageDeploy2](https://github.com/mwr/magedeploy2-base) - Automatic Magento2 Deployments with [robo](http://robo.li/) and [deployer](https://deployer.org/).
-- [Magento 2 Deployment Tool](https://github.com/staempfli/magento2-deployment-tool) - Magento2 Deployment Tool with PHing by [Juan Alonso](https://commercehero.io/juan.alonso).
 - [Deployer Magento2 Recipe](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) - Magento2 deployment recipe for [deployer](https://deployer.org/).
 - [Magento 2 Deployer Plus](https://github.com/jalogut/magento2-deployer-plus) - Tool based on deployer.org to perform zero downtime deployments of Magento 2 projects.
 - [Painless Magento 2](https://github.com/ChacunSonSite/painless-magento2) - A dockerized magento 2 community environment ready for development or production.
@@ -149,7 +149,7 @@
 
 ### Adminhtml / Backend
 
-- [Customer Force Login](https://github.com/bitExpert/magento2-force-login) - Login as a Customer for support reasons.
+- [Customer Force Login](https://github.com/bitExpert/magento2-force-login) - Forces customers to log in before accessing certain pages.
 - [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
 - [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) - quickly and easily preview and test your order confirmation page, without the need to placing a new order each time.
 - [Firebear Import/Export](https://github.com/firebearstudio/importexport) - Import/Export Improvements for Standard Magento Importer.
@@ -172,6 +172,7 @@
 - [auroraextensions/simplereturns](https://github.com/auroraextensions/simplereturns) - Self-service RMA for Magento2.
 - [shkoliar/magento-grid-colors](https://github.com/shkoliar/magento-grid-colors) - Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid's bookmarks. by [Dmitry Shkoliar](https://shkoliar.com/)
 - [extdn/extension-dashboard-m2](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display installed extensions. by [Magento Extension Developers Network](https://extdn.org/)
+- [hivecommerce/magento2-content-fuzzyfyr](https://github.com/hivecommerce/magento2-content-fuzzyfyr) - The Content Fuzzyfyr module for Magento2 replaces real content with dummy content. This is for development purposes, e.g. save time to prepare test data and matching GDPR restrictions.
 
 ### Security
 
@@ -253,6 +254,7 @@
 - [FireBear Studio](https://firebearstudio.com/blog)
 - [Fooman](http://store.fooman.co.nz/blog)
 - [inchoo](http://inchoo.net/category/magento-2/)
+- [M.academy](https://m.academy/blog/)
 - [Meetanshi](https://meetanshi.com/blog/)
 - [integer_net blog](https://www.integer-net.com/blog/)
 - [MageComp](https://magecomp.com/blog/category/magento-2/)
@@ -270,6 +272,7 @@
 
 ### Learning
 
+- [M.academy](https://m.academy/) - The simplest way to learn Magento 2 & Adobe Commerce, with video lessons & courses
 - [MageTitans Italia 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVP3Fm_c4HfNPK5JdRD6DIDl)
 - [MageTitans MCR 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC)
 - [MageTitans USA/Texas 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVOLU7LPRNL4lAmJeAv7HQ-b)
