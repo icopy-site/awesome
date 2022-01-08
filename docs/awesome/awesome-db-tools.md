@@ -11,7 +11,6 @@ Feel free to add information about your own db-tools or your favorite third-part
 For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL follow me at [@GraminMaksim](https://twitter.com/GraminMaksim)
 
 
-
 ## IDE
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development.
 - [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio is productivity software for Database Developers, DBAs, and Analysts.
@@ -78,6 +77,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [pg_top](https://github.com/markwkm/pg_top) - 'top' for PostgreSQL.
 - [pspg](https://github.com/okbob/pspg) - Postgres Pager.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer Command Line (SQLcl) is a free command line interface for Oracle Database.
+- [SQLLine](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
 - [usql](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, [and many other databases](https://github.com/xo/usql#database-support) including NoSQL and non-relational databases!
 
 ### dbcli
@@ -118,6 +118,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Sqitch](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
 - [yuniql](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
 
+
 ## Code generation tools
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
 - [scheme2ddl](https://github.com/qwazer/scheme2ddl) - Command line util for export Oracle schema to set of ddl init scripts with ability to filter undesirable information, separate DDL in different files, pretty format output.
@@ -140,9 +141,10 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [sql-boot](https://github.com/CrocInc/sql-boot) - Advanced REST and UI wrapper for your SQL-queries.
 
 
-## Backup tools
-- [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
+## Backup/Cloning tools
+- [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Instant thin cloning for Postgres to scale the development process.
 - [BaRMan](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
+- [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
 
 
 ## Replication/Data operation
@@ -203,6 +205,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - Powerful GUI tool for creating massive volumes of realistic test data.
 - [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - Small but mighty GUI tool for populating Oracle schemas with tons of realistic test data.
 - [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - Powerful GUI tool for a fast generation of meaningful test data for databases.
+- [Noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
 - [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
 
 ## Administration
@@ -265,8 +268,33 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Databunker](https://github.com/securitybunker/databunker) - Special GDPR compliant secure vault for customer records built on top of regular DB.
 
 
-## Code formatters
-- [CodeBuff](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
+## SQL
+
+### Analyzers
+  - [SQLCheck](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns.
+  - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
+
+### Extensions
+  - [PartiQL](https://partiql.org) - SQL-compatible access to relational, semi-structured, and nested data.
+
+### Frameworks
+  - [Apache Calcite](https://calcite.apache.org) - Dynamic data management framework with advanced SQL features.
+  - [ZetaSQL](https://github.com/google/zetasql) - Analyzer Framework for SQL.
+
+### Formatters
+  - [CodeBuff](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
+  - [SQL Formatter](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
+
+### Parsers
+  - [General SQL Parser](https://www.sqlparser.com) - Parsing, formatting, modification and analysis for SQL.
+  - [JSqlParser](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
+  - [More SQL Parsing!](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
+  - [sqlparse](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
+
+
+## Language Server Protocol
+- [SQLLanguageServer](https://github.com/joe-re/sql-language-server) - SQL Language Server.
+- [sqls](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
 
 
 ## Contributing

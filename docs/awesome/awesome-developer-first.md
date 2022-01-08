@@ -107,6 +107,12 @@ The definition of developer-first for this repo is:
 * [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
 * [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs wiht secret management
 
+## Feature Flags
+*Control production features with conditional flags in your code.*
+* [LaunchDarkly](https://launchdarkly.com/) - Feature flags-as-a-service platform.
+* [split](https://www.split.io/) - Feature flags platform with data analytics.
+* [Flagsmith](https://flagsmith.com/) - Feature flags-as-a-service platform simplified.
+
 ## GEO
 *Location services.*
 * [Radar](https://radar.io/) - Geofencing and geo APIs.

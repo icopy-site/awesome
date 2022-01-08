@@ -42,6 +42,7 @@
 - [Inkdrop](https://www.inkdrop.info/) - A cross-platform note taking application for Markdown lovers.
 - [Joplin](https://joplinapp.org/) - A note taking and to-do application with synchronization capabilities.
 - [Notion](https://www.notion.so/) - An all-in-one very customizable workspace for notes, tasks, wikis and lists.
+- [Yana](https://yana.js.org) - Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more.
 - [OneNote](https://www.onenote.com/) - Very good note management solution, but best for Windows users.
 - [Preserver](https://github.com/hsbalar/preserver) - Notes organizer desktop application based on Electron.
 - [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
@@ -62,12 +63,14 @@
 - [Remember the Milk](https://www.rememberthemilk.com) - Great at managing tags for to-dos and location based tasks.
 - [Taskade](https://taskade.com) - Simple and collaborative task lists for teams.
 - [Taskwarrior](http://taskwarrior.org/) - An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
+- [Timely](https://memory.ai/timely) - Automatic time tracking software. Get a flawless digital record of all project and team time, all without the hassle of manual timers and note taking.
 - [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 - [Tinido](https://tinido.com/) - A beautiful and simple task management app that can also give you insights by showing your completed tasks in a contribution graph similar to the one you find on your GitHub profile.
 - [Todo.txt](http://todotxt.com/) - Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
 - [Todoist](https://todoist.com/) - Powerful and cross-platform productivity tool.
 - [Topydo](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 - [Trello](https://trello.com) - Kanban method task board.
+- [Tweek](https://tweek.so) - Super Simple To Do list and Weekly Task Management.
 - [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 
 ### Habit Trackers
