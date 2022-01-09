@@ -11,43 +11,47 @@ Please read [contribution guidelines](https://github.com/liuchong/awesome-roadma
 
 
 ## Programming Language
-- [Go Developer Roadmap](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap).
-- [Java Developer Roadmap](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap) - Roadmap to becoming a Java developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap).
-- [Rust Web Developer Roadmap](https://raw.githubusercontent.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/anshulrgoyal/rust-web-developer-roadmap).
-- [Nodejs Developer Roadmap](https://raw.githubusercontent.com/aliyr/Nodejs-Developer-Roadmap) - A Developer Roadmap to becoming a Node.js developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/aliyr/Nodejs-Developer-Roadmap).
+- [Go Developer Roadmap](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap).
+- [Java Developer Roadmap](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap) - Roadmap to becoming a Java developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap).
+- [Nodejs Developer Roadmap](https://raw.githubusercontent.com/aliyr/Nodejs-Developer-Roadmap) - Roadmap to becoming a Node.js developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/aliyr/Nodejs-Developer-Roadmap).
+- [PHP Developer roadmap](https://raw.githubusercontent.com/thecodeholic/php-developer-roadmap) - Following this path will guarantee to Become a PHP Developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/thecodeholic/php-developer-roadmap) [<img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube">](https://raw.githubusercontent.com/thecodeholic/php-developer-roadmap).
+- [Rust Web Developer Roadmap](https://raw.githubusercontent.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/anshulrgoyal/rust-web-developer-roadmap).
+
 
 ## Web Development
-- [Developer Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a Web Developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap).
-- [React Developer Roadmap](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap).
-- [Angular Developer Roadmap](https://github.com/sulco/angular-developer-roadmap) - To collect the most common / important concepts one should learn to become an Angular developer.
-- [Vue Developer Roadmap](https://github.com/flaviocopes/vue-developer-roadmap) - Roadmap to becoming a Vue.js developer in 2018.
-- [ASP.Net Core Developer Roadmap](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP .NET Core developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap).
+- [Angular Developer Roadmap](https://raw.githubusercontent.com/sulco/angular-developer-roadmap) - Roadmap to becoming an Angular developer [<img src="https://img.shields.io/badge/Roadmap-2018-yellow.svg">](https://raw.githubusercontent.com/sulco/angular-developer-roadmap).
+- [Angular Developer Roadmap 2](https://raw.githubusercontent.com/saifaustcse/angular-developer-roadmap) - Roadmap to becoming an Angular developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/saifaustcse/angular-developer-roadmap).
+- [ASP.Net Core Developer Roadmap](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP .NET Core developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap).
+- [Developer Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap) - Community driven roadmaps, articles and resources for developers [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap).
 - [Laravel Developer Roadmap](https://raw.githubusercontent.com/Hasnayeen/laravel-developer-roadmap) - Roadmap to becoming an Laravel developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/Hasnayeen/laravel-developer-roadmap).
+- [React Developer Roadmap](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap).
+- [Vue Developer Roadmap](https://raw.githubusercontent.com/flaviocopes/vue-developer-roadmap) - Roadmap to becoming a Vue.js developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/flaviocopes/vue-developer-roadmap).
 
 ## Mobile Development
-- [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - Roadmap to becoming an iOS developer in 2018.
-- [Android Developer Roadmap](https://raw.githubusercontent.com/anacoimbrag/android-developer-roadmap) - Help new developers to start building beautiful android applications [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/anacoimbrag/android-developer-roadmap).
-- [Flutter Developer Roadmap](https://github.com/olexale/flutter_roadmap) - Roadmap to create hybrid apps using Google's Flutter SDK
+- [Android Developer Roadmap](https://raw.githubusercontent.com/anacoimbrag/android-developer-roadmap) - Roadmap to becoming an Android developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/anacoimbrag/android-developer-roadmap).
+- [Flutter Developer Roadmap](https://github.com/olexale/flutter_roadmap) - Roadmap for creating hybrid apps using Google's Flutter SDK.
+- [iOS Developer Roadmap](https://raw.githubusercontent.com/BohdanOrlov/iOS-Developer-Roadmap) - Roadmap to becoming an iOS developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/BohdanOrlov/iOS-Developer-Roadmap).
 
 ## Game Development
-- [Game Developer Roadmap](https://raw.githubusercontent.com/utilForever/game-developer-roadmap) - Roadmap to becoming a game developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/utilForever/game-developer-roadmap).
-- [Game Programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer.
+- [Game Developer Roadmap](https://raw.githubusercontent.com/utilForever/game-developer-roadmap) - Roadmap to becoming a game developer in 2022 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://raw.githubusercontent.com/utilForever/game-developer-roadmap).
+- [Game Programming Roadmap](https://github.com/miloyip/game-programmer) - Roadmap to becoming a game programmer.
 
 ## AI / Machine Learning / Data Science
-- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
-- [NLP Roadmap](https://raw.githubusercontent.com/graykode/nlp-roadmap) - ROADMAP and KEYWORD for students those who have interest in learning NLP [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/graykode/nlp-roadmap).
-- [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech.
-- [Deep Learning Roadmap](https://github.com/machinelearningmindset/deep-learning-roadmap) - All You Need to Know About Deep Learning - A kick-starter.
-- [Data Scientist Roadmap](https://github.com/hasbrain/data-science-roadmap) - Gives you an overview of the core skills needed in data science.
-- [Data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Bunch of tutorials helping whoever wants to start learning stuff about data science.
-- [Data Engineer Roadmap](https://raw.githubusercontent.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/datastacktv/data-engineer-roadmap).
+- [AI Expert Roadmap](https://raw.githubusercontent.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/AMAI-GmbH/AI-Expert-Roadmap).
+- [Deep Learning Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Roadmap through seminal deep learning papers.
+- [Deep Learning Roadmap](https://github.com/machinelearningmindset/deep-learning-roadmap) - Roadmap to getting started with deep learning.
+- [Data Engineer Roadmap](https://raw.githubusercontent.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/datastacktv/data-engineer-roadmap).
+- [Data Scientist Roadmap](https://github.com/hasbrain/data-science-roadmap) - Roadmap to becoming a data scientist.
+- [Data scientist Roadmap 2](https://github.com/MrMimic/data-scientist-roadmap) - Roadmap of tutorials for those interested in data science.
+- [NLP Roadmap](https://raw.githubusercontent.com/graykode/nlp-roadmap) - Roadmap for Natural Language Processing learning in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/graykode/nlp-roadmap).
 
 ## Miscellaneous
-- [Hacker Roadmap](https://github.com/Sundowndev/hacker-roadmap) - A guide for amateurs pen testers and a collection of hacking tools, resources and references.
-- [System Design Master Plan](https://raw.githubusercontent.com/mohsenshafiei/system-design-master-plan) - Roadmap to learn system design and architecture [<img src="https://img.shields.io/badge/Roadmap-2021-yellowgreen.svg">](https://raw.githubusercontent.com/mohsenshafiei/system-design-master-plan).
-- [The Full-Stack Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer.
-- [Software architect roadmap](https://github.com/AlaaAttya/software-architect-roadmap) - A broadway roadmap that you can follow to start being a software architect.
-- [UI/UX Designer Roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap) - Roadmap on becoming a UI/UX designer in 2017.
+- [Hacker Roadmap](https://github.com/Sundowndev/hacker-roadmap) - Roadmap for amateur pen testers and a collection of hacking tools, resources and references.
+- [Software Architect Roadmap](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect.
+- [Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer.
+- [System Design Roadmap](https://raw.githubusercontent.com/mohsenshafiei/system-design-master-plan) - Roadmap to learn system design and architecture [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/mohsenshafiei/system-design-master-plan).
+- [UI/UX Designer Roadmap](https://raw.githubusercontent.com/togiberlin/ui-ux-designer-roadmap) - Roadmap on becoming a UI/UX designer in 2017 [<img src="https://img.shields.io/badge/Roadmap-2017-yellow.svg">](https://raw.githubusercontent.com/togiberlin/ui-ux-designer-roadmap).
+- [University Degree Roadmap](https://raw.githubusercontent.com/nietsymerej/collecobrary) - Roadmap for taking online university courses in various degree subjects [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/nietsymerej/collecobrary).
 
 ## Articles
 - [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) - A collection of articles to provide a proper roadmap to become a better Android Developer.
