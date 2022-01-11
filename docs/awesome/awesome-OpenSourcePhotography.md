@@ -6,7 +6,6 @@
 A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
 
-- [Analogue Photography] (#analogue-photography)
 
 ## General
 
@@ -101,6 +100,11 @@ A list of awesome free open source software & libraries for photography. Also to
 
 - [Hughski](http://www.hughski.com/index.html)
 - [DisplayCal](http://displaycal.net/) - *Open source display calibration and characterization.*
+
+## 360° Images
+
+- [Open360viewer](https://github.com/TheGreyDiamond/open360viewer) - *Open source 360° media viewer.*
+
 
 ## Alternative Image Viewers
 
