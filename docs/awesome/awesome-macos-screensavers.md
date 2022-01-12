@@ -102,6 +102,12 @@ Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock)
 
+### MultiClock
+
+> Displays the time (and animations) using 24 individual clocks
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/multiclock.png)](https://github.com/amiantos/multiclock)
+
 ## Apple Inspired
 
 ### Aerial
