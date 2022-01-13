@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
-	<h3><a href="https://www.producthunt.com/posts/pandan">My macOS app Pandan is on Product Hunt</a></h3>
+	<h3><a href="https://www.producthunt.com/posts/actions-4">My Actions app is on Product Hunt</a></h3>
 	<br>
 	<br>
 	<br>

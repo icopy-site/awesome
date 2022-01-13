@@ -6,7 +6,7 @@
 		<br>
 		<br>
 		<br>
-		<h3><a href="https://www.producthunt.com/posts/pandan">My macOS app Pandan is on Product Hunt</a></h3>
+		<h3><a href="https://www.producthunt.com/posts/actions-4">My Actions app is on Product Hunt</a></h3>
 		<br>
 		<br>
 	</div>
