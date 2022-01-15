@@ -100,6 +100,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [LuLu](https://objective-see.com/products/lulu.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/objective-see/LuLu) - A firewall that aims to block unknown outgoing connections, protecting your privacy and your Mac.
 - [pihole-antitelemetry](https://github.com/MoralCode/pihole-antitelemetry) - Block non-consensual telemetry Google and Apple are collecting using pihole.
 - [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/IngoZenz/personaldnsfilter) - A DNS filter proxy to filter unwished hosts based on a host list.
+- [JShelter](https://jshelter.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/pagure.svg?sanitize=true" width="16"/>](https://pagure.io/JS-Shield/JS-Shield) - An anti-malware Firefox extension to mitigate potential threats from JavaScript.
 
 ## Tracking
 
@@ -171,6 +172,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [Wiper](https://github.com/davidahmed/wiper) - Firefox extension that strips Google search results based on a blocklist you define.
 - [EasyList](https://easylist.to/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/easylist/easylist) - Sets of rules that automatically remove unwanted content from the internet.
 - [Black Mirror](https://github.com/T145/black-mirror) - Automatically compiled and maintained malicious domain & IP blacklist.
+- [uBlacklist](https://iorate.github.io/ublacklist/docs) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/iorate/uBlacklist) - Browser extension to block specific sites from appearing in search engine results. 
 
 ## Fediverse
 
@@ -372,6 +374,7 @@ This section is for inactive projects that are nonetheless still of interest reg
 - [Awesome Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives) - A curated list of (F)OSS / Federated alternatives to proprietary software and services.
 - [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology) - Projects preserving stable climate, energy supply and natural resources.
 - [Awesome Sustainable VPS](https://codeberg.org/jonatasbaldin/awesome-sustainable-vps) - A list of sustainable VPS (Virtual Private Servers) providers.
+- [Awesome Alternative Frontends](https://github.com/digitalblossom/alternative-frontends) - A list of alternative privacy-respecting frontends for popular services.
 
 Also check out these sites for great alternatives to the monopolistic, privacy-invading software you may now be using:
 

@@ -110,8 +110,9 @@
 - [Ping CRM / Masonite](https://github.com/girardinsamuel/pingcrm-masonite) - Demonstration application made with Masonite and Vue.js.
 - [Ping CRM / React](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
 - [Ping CRM / Clojure](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
+- [Ping CRM / Flask](https://github.com/j0ack/pingcrm-flask) - Demonstration application made with Flask and Vue.js.
 
-### Other 
+### Other
 
 - [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
 - [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - PhpStorm/Intellij Ultimate plugin for Inertia.js.
