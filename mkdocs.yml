@@ -71,6 +71,7 @@ nav:
     - DOS: awesome/awesome-dos.md
     - Nix: awesome/awesome-nix.md
     - Integration: awesome/components.md
+    - Node-RED: awesome/awesome-nodered.md
   - Programming Languages:
     - JavaScript: awesome/awesome-javascript.md
     - JavaScript_sub: 

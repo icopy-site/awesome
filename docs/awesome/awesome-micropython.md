@@ -75,6 +75,8 @@ of required frequency response to a filter implementation.
 * [uble](https://github.com/dmazzella/uble) - Lightweight Bluetooth Low Energy driver written in pure Python for MicroPython.
 * [MicroPythonBLEHID](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
 * [upyble](https://github.com/Carglglz/upyble) - Command line tool for Bluetooth Low Energy MicroPython devices.
+* [micropython-xiaomi-ble-adv-parse](https://codeberg.org/scy/micropython-xiaomi-ble-adv-parse) - Passively retrieve sensor data from some Xiaomi Bluetooth Low Energy (BLE) sensors.
+* [mijia-temphum-upy](https://codeberg.org/scy/mijia-temphum-upy) - MicroPython library to read certain Xiaomi Mijia BLE temperature & humidity sensors.
 
 #### CAN
 
@@ -108,6 +110,7 @@ of required frequency response to a filter implementation.
 #### Ethernet
 
 * [Official wiznet5k](https://github.com/micropython/micropython/tree/master/drivers/wiznet5k) - Official driver for the WIZnet5x00 series of Ethernet controllers.
+* [micropy-ENC28J60](https://github.com/przemobe/micropy-ENC28J60) - ENC28J60 Ethernet chip driver for MicroPython (RP2).
 
 #### FTP
 
@@ -151,6 +154,7 @@ of required frequency response to a filter implementation.
 * [micropython-ys-irtm](https://github.com/mcauser/micropython-ys-irtm) - MicroPython examples for YS-IRTM 5V NEC Infrared UART transceivers.
 * [esp8266_ir](https://github.com/ruoyu0088/esp8266_ir) - Control IR signal by websocket.
 * [micropython_espX_IR_Transceiver](https://github.com/gamefunc/micropython_espX_IR_Transceiver) - MicroPython esp32 IR Transceiver.
+* [pico-ir](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
 
 #### LoRaWAN
 
@@ -839,6 +843,7 @@ input via pushbuttons or a navigation joystick and an optional rotary encoder.
 
 * [micrOS](https://github.com/BxNxM/micrOS) - MicroPython based IoT Framework.
 * [terkin-datalogger](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
+* [perthensis](https://codeberg.org/scy/perthensis) - Perthensis: an asynchronous framework for MicroPython.
 
 ## Resources
 

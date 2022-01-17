@@ -189,6 +189,7 @@
 - [DOS](awesome/awesome-dos.md) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 - [Nix](awesome/awesome-nix.md) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 - [Integration](awesome/awesome-integration.md) - Linking together different IT systems (components) to functionally cooperate as a whole.
+- [Node-RED](awesome/awesome-nodered.md) - A programming tool for wiring together hardware devices, APIs, and online services.
 
 ## Programming Languages
 
