@@ -1,21 +1,23 @@
 <div class="github-widget" data-repo="mostafatouny/awesome-theoretical-computer-science"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+![banner](https://raw.githubusercontent.com/mostafatouny/awesome-theoretical-computer-science/master/./TCS-banner.png)
 ## Awesome Theoretical Computer Science [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 The interdisciplinary of Mathematics and Computer Science; It is distinguished by its emphasis on mathemtical technique and rigour. 
 
 ---
 
+    - [Books](#computational_complexity_circuit_complexity_books) 
 
 ---
 
 ## Introductory Theoretical Computer Science
 
-### Broad Intros
-#### Books
+### Broad Intros<a name="introductory_theoretical_computer_science_broad_intros"></a>
+#### Books<a name="introductory_theoretical_computer_science_broad_intros_books"></a>
 - [Moore & Mertens. The Nature of Computation](http://nature-of-computation.org/) - It spans complexity of mazes and games; optimization in theory and practice; randomized algorithms, interactive proofs, and pseudorandomness; Markov chains and phase transitions; and of quantum computing. It provides accessible explanations
 - [Wigderson. Mathematics and Computation: A Theory Revolutionizing Technology and Science](https://www.math.ias.edu/files/Book-online-Aug0619.pdf) - A sweeping survey of complexity theory, emphasizing the field’s insights and challenges. It explains the ideas and motivations leading to key models, notions, and results.
 
-#### Lecture Videos Playlists
+#### Lecture Videos Playlists<a name="introductory_theoretical_computer_science_broad_intros_lecture_videos_playlists"></a>
 - [O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
   - alternatively: [bilibili](https://www.bilibili.com/video/BV1Ry4y1e7zR)
 
@@ -24,25 +26,25 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [O'Donnell. A Theorist's Toolkit](https://www.cs.cmu.edu/~odonnell/toolkit13/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
 - [Arora. Thinking Like a Theorist](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/lectopics.html) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
 
-### Automata, Computability, & Complexity
+### Automata, Computability, & Complexity<a name="introductory_theoretical_computer_science_automata_computability_complexity"></a>
 
-#### Lecture Notes
+#### Lecture Notes<a name="introductory_theoretical_computer_science_automata_computability_complexity_lecture_notes"></a>
 - [Watrous. Introduction to The Theory of Computing](https://cs.uwaterloo.ca/~watrous/ToC-notes/) - undergrad introduction to theory of computation
 
-#### Lecture Videos Playlists
+#### Lecture Videos Playlists<a name="introductory_theoretical_computer_science_automata_computability_complexity_lecture_videos_playlists"></a>
 - [Yanofsky. Theoretical Computer Science](https://www.youtube.com/playlist?list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X) - undergrad introduction to theory of computation
 - [O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) - A series of lectures on selected notable topics in theoretical computer science
 
-#### MOOC
+#### MOOC<a name="introductory_theoretical_computer_science_automata_computability_complexity_mooc"></a>
 - [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - It teaches basic concepts in theoretical computer science, such as NP-completeness, and what they imply for solving tough algorithmic problems.
 - [Computability, Complexity & Algorithms. Georgia Institute of Technology](https://www.udacity.com/course/computability-complexity-algorithms--ud061) - It focuses on the big fundamental questions of computing, and how understanding the power and limitations of algorithms helps us develop the tools to make real-world computers smarter, faster and safer. 
 
-#### Books
+#### Books<a name="introductory_theoretical_computer_science_automata_computability_complexity_books"></a>
 - [Sipser. Introduciton to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - A standard text for introducing theory of computation for undergrads.
 - [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - Introductory undergrad textbook for automata, languages and theory of computation topics.
 - [Barak. Introduction to TCS](https://introtcs.org/public/index.html) - A modern, brief, and accessible text which introduces theoretical computer science for undergrads. It includes topics not usually included in standard undergrad text-books.
 
-#### Puzzles and Problem Sets
+#### Puzzles and Problem Sets<a name="introductory_theoretical_computer_science_automata_computability_complexity_puzzles_and_problem_sets"></a>
 - [Zhu & Ko. Problem Solving in Automata, Languages, and Complexity](https://onlinelibrary.wiley.com/doi/book/10.1002/0471224642) - A problem-set text for automata, languages, and complexity.
 
 
@@ -56,39 +58,39 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ## Computational Complexity
 
-### General
-#### Lecture Videos Playlists
+### General<a name="computational_complexity_general"></a>
+#### Lecture Videos Playlists<a name="computational_complexity_general_lecture_videos_playlists"></a>
 - [O'Donnell. Undergrad Complexity Theory. Fall 2019 (15-455)](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) - Undergraduate course on computational complexity theory; It follows the same spirit of Sipser's part III.
 - [O'Donnell. Graduate Complexity Theory](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH) - It covers most of what is believed to be known to get started in complexity theory research.
-#### Lecture Notes
+#### Lecture Notes<a name="computational_complexity_general_lecture_notes"></a>
 - [Rudich & Wigderson. Computational Complexity Theory](http://www.ams.org/books/pcms/010/) - Three weeks of lectures from the IAS/Park City Mathematics Institute Summer School on computational complexity. Topics include reductions, lower-bounds, average-case complexity, randomness, interactive proof systems, probabilistically checkable proofs, quantum computing, and proof complexity.
-#### Books
+#### Books<a name="computational_complexity_general_books"></a>
 - [Arora & Barak. Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/book.pdf) - A golden standard textbook, Surveying computational complexity theory for graduate students and researchers.
 - [Goldreich. Computational Complexity: A Conceptual Perspective](http://www.wisdom.weizmann.ac.il/~oded/cc-book.html) - A grad introduction to computation complexity theory, emphasizing the idea behind concepts of complexity theory.
 - [Goldreich. P, NP, and NP-Completeness: The Basics of Computational Complexity](http://www.wisdom.weizmann.ac.il/~oded/bc-book.html) - A very gentle introduction to some fundamental ideas of computational complexity like NP-completeness and P vs NP.
 - [Ogihara & Hemaspaandra. The Complexity Theory Companion](https://www.springer.com/gp/book/9783540674191) - An accessible, algorithmically oriented, research-centered, up-to-date guide to some of the most interesting techniques of complexity theory.
 - [Papadimitriou. Computational Complexity](https://www.pearson.com/us/higher-education/program/Papadimitriou-Computational-Complexity/PGM94583.html) - Body of knowledge for studying the performance and limitations of computer algorithms. Among topics covered are: reductions and NP-completeness, cryptography and protocols, randomized algorithms, and approximability of optimization problems, circuit complexity, the "structural" aspects of the P=NP question, parallel computation, and the polynomial hierarchy.
-#### Popular Science
+#### Popular Science<a name="computational_complexity_general_popular_science"></a>
 - [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - A nontechnical introduction to P-NP, its rich history, and its algorithmic implications for everything we do with computers and beyond.
 - [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf) - It covers an amazing array of topics. Beginning in antiquity withDemocritus, it progresses through logic and set theory,computability and complexity theory, quantum computing, cryptography, the information content of quantum states, and theinterpretation of quantum mechanics.
 
-### Communication Complexity
-#### Books
+### Communication Complexity<a name="computational_complexity_communication_complexity"></a>
+#### Books<a name="computational_complexity_communication_complexity_books"></a>
 - [Rao & Yehudayoff. Communication Complexity and Applications](https://www.cambridge.org/core/books/communication-complexity/5F44993E3B2597174B71D3F21E748443) - An excellent and very readable introductory textbook to the field of communication complexity.
 
-### Circuit Complexity
-#### Books
+### Circuit Complexity<a name="computational_complexity_circuit_complexity"></a>
+#### Books<a name="computational_complexity_circuit_complexity_books"></a>
 - [Jukna. Boolean Function Complexity: Advances and Frontiers](https://www.springer.com/gp/book/9783642245077) - A modern textbook surveying circuit complexity.
 - [Clote & Kranakis. Boolean Functions and Computation Models](https://www.springer.com/gp/book/9783540594369) - An introduction to circuit complexity, boolean functions, and computation models.
 
 
 ## Randomization
-### General
+### General<a name="randomization_general"></a>
 - [Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/~oded/rnd.html) - The aim of the current course is to make the students familiar with some of randomized methods.
 
 ## Algorithms
 
-### Lecture Video Playlists
+### Lecture Video Playlists<a name="algorithms_lecture_video_playlists"></a>
 - [Demaine. Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) - A class taking a practical approach to proving problems can't be solved efficient.
 ### Books
 - [Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226) - It shows that games and puzzles can serve as powerful models of computation, Offering a new way of thinking about computation.
@@ -97,25 +99,25 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ## Logic and Foundational Mathematics
 
-### Computability Theory
-#### Books
-##### Introductory
+### Computability Theory<a name="logic_and_foundational_mathematics_computability_theory"></a>
+#### Books<a name="logic_and_foundational_mathematics_computability_theory_books"></a>
+##### Introductory<a name="logic_and_foundational_mathematics_computability_theory_books_introductory"></a>
 - [Cutland. Computability: An Introduction to Recursive Function Theory](https://www.cambridge.org/highereducation/books/computability/E8F085FDBECB8280F7723D71C1D2EE1C) - Intuitively, It explains the idea of a computable function: a function whose values can be calculated in an effective or automatic way.
 - [Cooper. Computability Theory](https://www.routledge.com/Computability-Theory/Cooper-Cooper/p/book/9781584882374) - A concise, comprehensive, and authoritative introduction to contemporary computability theory, techniques, and results.
 - [Davis. Computability and Unsolvability](https://www.amazon.com/Computability-Unsolvability-Prof-Martin-Davis/dp/0486614719) - In this classic text, Dr. Davis provides a clear introduction to computability, at an advanced undergraduate level, that serves the needs of specialists and non-specialists alike.
-##### Collected Papers
+##### Collected Papers<a name="logic_and_foundational_mathematics_computability_theory_books_collected_papers"></a>
 - [Copeland, Posy & Shagrir (editors). Computability: Turing, Gödel, Church, and Beyond](https://mitpress.mit.edu/books/computability) - Computer scientists, mathematicians, and philosophers discuss the conceptual foundations of the notion of computability as well as recent theoretical developments. 
-##### Popular Science
+##### Popular Science<a name="logic_and_foundational_mathematics_computability_theory_books_popular_science"></a>
 - [Papadimitriou. Turing: A Novel About Computation](https://mitpress.mit.edu/books/turing-novel-about-computation) - The world of computation according to Turing, an interactive tutoring program, as told to star-crossed lovers: a novel. 
 - [Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](http://www.charlespetzold.com/AnnotatedTuring/) -  A Guided Tour through Alan Turing's Historic Paper on Computability and the Turing Machine.
-##### Advanced
+##### Advanced<a name="logic_and_foundational_mathematics_computability_theory_books_advanced"></a>
 - [Soare. Recursively Enumerable Sets and Degree](https://www.springer.com/gp/book/9783540666813) - It gives a complete account of the theory of r.e degrees. The definitions, results and proofs are always clearly motivated and explained before the formal presentation; the proofs are described with remarkable clarity and conciseness.
 - [Odifreddi. Classical Recursion Theory: The Theory of Functions and Sets of Natural Numbers](https://archive.org/details/classicalrecursi0000odif) - An impressive presentation of classical recursion theory. It is highly recommended to everyone interested in recursion theory.
 
 
 
-### Computational Complexity
-#### Books
+### Computational Complexity<a name="logic_and_foundational_mathematics_computational_complexity"></a>
+#### Books<a name="logic_and_foundational_mathematics_computational_complexity_books"></a>
 - [Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction](https://www.springer.com/gp/book/9783319001180) - Presents a wide range of results in logic and computational complexity.
 
 
@@ -123,38 +125,41 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ## Philosophy
 
-### Lecture Notes
+### Lecture Notes<a name="philosophy_lecture_notes"></a>
 - [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html) - It examines the relevance of modern theoretical computer science to traditional questions in philosophy, and conversely, what philosophy can contribute to theoretical computer science.
-### Books
+### Books<a name="philosophy_books"></a>
 - [Knuth. Things a Computer Scientist Rarely Talks About](https://web.stanford.edu/group/cslipublications/cslipublications/site/1575863278.shtml) - A general illustration of relations between faith and science.
 - [Floyd & Bokulich. Philosophical Explorations of the Legacy of Alan Turing: Turing 100](https://www.springer.com/gp/book/9783319532783) - Turing’s place in the history and philosophy of science.
 
-### Popular Science
+### Popular Science<a name="philosophy_popular_science"></a>
 - [Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications](http://www.daviddeutsch.org.uk/books/the-fabric-of-reality/) - The Fabric of Reality presents a startlingly integrated, rational and optimistic world view – the result of taking seriously the deepest ideas of modern science and the philosophy of science.
 
-### Papers
+### Papers<a name="philosophy_papers"></a>
 - [Aaronson. Why Should Philosophers Care About Computational Complexity Theory](https://www.scottaaronson.com/papers/philos.pdf) - It argues that computational complexity theory leads to new perspectives on the nature of mathematical knowledge and other philosophical questions.
 - [Aharonov & Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics](https://www.researchgate.net/publication/227171743_Is_Quantum_Mechanics_Falsifiable_A_computational_perspective_on_thefoundations_of_Quantum_Mechanics) - It describes how quantum mechanics can be tested in the limit of high complexity regime by extending the usual scientific paradigm to include.
 - [Walter Dean. Computational Complexity Theory and the Philosophy of Mathematics](https://academic.oup.com/philmat/article/27/3/381/5613215) - It highlights the significance of complexity theory relative to questions traditionally asked by philosophers of mathematics while also attempting to isolate some new ones.
 - [Stanford Encyclopedia of Philosophy. Computational Complexity Theory](https://plato.stanford.edu/entries/computational-complexity/) - The foundations of complexity theory, and its potential significance on philosophy of computer science, philosophy of mathematics and epistemology.
+- [Philip Davis. Toward a Philosophy of Computation](https://www.jstor.org/stable/40247755) - Philosophical implication of mathematization and computerization of the world.
+
+
 
 ## Physics
 
-### Books
+### Books<a name="physics_books"></a>
 - [Feynman. Feynman And Computation: Exploring The Limits Of Computers](https://www.taylorfrancis.com/books/feynman-computation-anthony-hey/e/10.1201/9780429500459) - Feynman’s Course on Computation
   - See also Preskill's update 40 years later [here](https://arxiv.org/abs/2106.10522)
 
-### Monographs
+### Monographs<a name="physics_monographs"></a>
 - [Susskind. Three Lectures on Complexity and Black Holes](https://link.springer.com/book/10.1007/978-3-030-45109-7) - Important connections between thermodynamics and complexity are proposed and discussed. Pedagogically written, serves as a fundamental introduction to black holes and their complex physical interpretation
 
 
 
 ## Math/Logic Preliminaries
-### General
-#### Lecture Video Playlist
+### General<a name="math_logic_preliminaries_general"></a>
+#### Lecture Video Playlist<a name="math_logic_preliminaries_general_lecture_video_playlist"></a>
 - [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/) - An introduction to discrete mathematics oriented toward computer science and engineering.
   - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
-#### Books
+#### Books<a name="math_logic_preliminaries_general_books"></a>
 - [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - An expansion of the Mathematical Preliminaries section in Knuth's classic Art of Computer Programming, but the style of presentation is more leisurely, and individual topics are covered more deeply.
 - [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - A classic math-oriented introduction to computer science.
 - [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - A textbook for a one quarter introductory course in theoretical computer science.
@@ -167,38 +172,41 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/) - Uses your familiarity with ideas from programming and software to teach mathematics.
 - [Vince. Foundation Mathematics for Computer Science: A Visual Approach](https://www.springer.com/gp/book/9783030420772) - A range of mathematical topics to provide a solid foundation for an undergraduate course in computer science, starting with a review of number systems and their relevance to digital computers, and finishing with differential and integral calculus.
 - [Oberguggenberger & Ostermann. Analysis for Computer Scientists: Foundations, Methods, and Algorithms](https://www.springer.com/gp/book/9783319911540) - Presents an algorithmic approach to mathematical analysis, with a focus on modelling and on the applications of analysis.
-#### Lecture Notes
+#### Lecture Notes<a name="math_logic_preliminaries_general_lecture_notes"></a>
 - [Paluszynski. Calculus for Computer Scientists](https://www.math.uni.wroc.pl/~mpal/academic/2013/lecture_notes.pdf) - calculus lecture notes taught for undergrad computer science students
-### Transition To Pure Rigour Math
-It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#transition-to-pure-rigour-math) - Introductory proofs and mathematical maturity.
 
-### Discrete Mathematics
-#### Lecture Notes
+### Discrete Mathematics<a name="math_logic_preliminaries_discrete_mathematics"></a>
+#### Lecture Notes<a name="math_logic_preliminaries_discrete_mathematics_lecture_notes"></a>
 - [Halpern. CS 2802: Discrete Structures - Honors. 2020. Cornell](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-notes.html) - Honors lecture notes on discrete math
   - [Homework](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-homework.html)
 
-#### Books
+#### Books<a name="math_logic_preliminaries_discrete_mathematics_books"></a>
 - [Rosen. Discrete Mathematics and Its Applications](https://www.mheducation.com/highered/product/discrete-mathematics-applications-rosen/M9780073383095.html) - A canonical discrete math textbook, accessible for even high school students.
 - [Rosen. Handbook of Discrete and Combinatorial Mathematics](https://www.taylorfrancis.com/books/handbook-discrete-combinatorial-mathematics-kenneth-rosen-douglas-shier-wayne-goddard/e/10.1201/9781315156484) - A complete survey of roughly all topics of discrete math and their relevance to computing and communication engineering.
 - [Rosenberg & Trystram. Understand Mathematics, Understand Computing: Discrete Mathematics That All Computing Students Should Know](https://www.springer.com/gp/book/9783030583750) - It endows the reader with an operational conceptual and methodological understanding of discrete mathematics for computing
 - [Gries & Schneider. A Logical Approach to Discrete Math](https://www.springer.com/gp/book/9780387941158) - It attempts to change the way we teach logic to beginning students. Instead of teaching logic as a subject in isolation, we regard it as a basic tool and show how to use it.
 - [Mariconda & Tonolo. Discrete Calculus: Methods for Counting](https://www.springer.com/gp/book/9783319030371) - An introduction to combinatorics, finite calculus, formal series, recurrences, and approximations of sums. Readers will find also deep insights into a range of less common topics rarely considered within a single book.
 
-#### MOOC
+#### MOOC<a name="math_logic_preliminaries_discrete_mathematics_mooc"></a>
 - [Introduction to Discrete Mathematics for Computer Science. UC San-Diego](https://www.coursera.org/specializations/discrete-mathematics) - Learn the language of Computer Science. Learn the math that defines computer science, and practice applying it through mathematical proofs and Python code.
 
+### Transition To Pure Rigour Math<a name="math_logic_preliminaries_transition_to_pure_rigour_math"></a>
+It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#transition-to-pure-rigour-math) - Introductory proofs and mathematical maturity.
+
+
+
 ## Surveys
+- [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - A historical overview of computational complexity.
+- [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/~oded/sst.html) - It explains the remarkable work of Shafi and Silvio and their works' implications on foundations of cryptography.
 - [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401) - A survey on the intersection of computational complexity and quantum computing.
 - [Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458) - A remarkable paper on quantum supremacy.
 - [Cook. An Overview of Computational Complexity](https://dl.acm.org/doi/abs/10.1145/1283920.1283938?casa_token=I0zkxGUh7zoAAAAA:qUozzyaWcba56dq5q6CXVo2JvGVOzcXY2J8HKoI-OZxEbxhVXlQlWF0pg5ttfs8X8pznp5j7Bbrktg) - A historical overview of computational complexity.
-- [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - A historical overview of computational complexity.
-- [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/~oded/sst.html) - It explains the remarkable work of Shafi and Silvio and their works' implications on foundations of cryptography.
 
 
 
 ## Other Resources
 
-### Blog Posts and Essays
+### Blog Posts and Essays<a name="other_resources_blog_posts_and_essays"></a>
 - [Omer Reingold. The Practice of Theory Research](https://omereingold.wordpress.com/cs-163-the-practice-of-theory-research/) - A research methods course, concentrating on the how rather than the what. It focuses on research practices common for computer science theory research.
 - [Omer Reingold. TOC: a Personal Perspective (2021)](https://theorydish.blog/2021/04/15/toc-a-personal-perspective-2021/) - In celebration of 25 years for “TOC: a Scientific Perspective (1996),” by Oded Goldreich and Avi Wigderson. It spots the light on a criticism directed to TCS, that it is not as deep as Math and not as useful as CS.
 - [Blum. You and Your Research: An Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html) - Manuel Blum, A very popular figure in TCS, gives research advices for juniors.
@@ -213,15 +221,15 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
 - [Terry. Career Advice](https://terrytao.wordpress.com/career-advice/) - A collection of various pieces of advice on academic career issues in mathematics, roughly arranged by the stage of career at which the advice is most pertinent.
 
 
-### Magazines/Journals/News
+### Magazines/Journals/News<a name="other_resources_magazines_journals_news"></a>
 - [The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS](https://dl.acm.org/toc/xrds/2012/18/3) - ACM's students magazine special issue for theory of computation 
 - [SIGACT News](https://dl.acm.org/loi/sigact) - ACM's official theoretical computer science news feed.
 - [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - It provides monographs written by leaders that give tutorial coverage of subjects, research retrospectives as well as survey papers that offer state-of-the-art reviews fall within the scope of the journal. 
 
-### Popular Science
+### Popular Science<a name="other_resources_popular_science"></a>
 - [Shasha & Lazere. Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists](https://www.springer.com/gp/book/9780387982694)
 
-### Cheat-Sheets
+### Cheat-Sheets<a name="other_resources_cheat_sheets"></a>
 - [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/~held/teaching/aads/TCS-cheat_sheet.pdf) - A sheet of notes containing essential toolboxes needed by any theoretical computer scientist.
 
 
@@ -241,6 +249,7 @@ It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#t
   - [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs)
   - Scott Aaronson: [1](https://www.youtube.com/watch?v=uX5t8EivCaM), [2](https://www.youtube.com/watch?v=nAMjv0NAESM)
 - [Computational Complexity](https://www.youtube.com/channel/UCzBw287tly0c2lE6a-9XymA)
+- [Chi-Ning Chou. Mini-Course: What is Computation? From Turing Machines to Black Holes and Neurons](https://www.youtube.com/playlist?list=PLUxf7X3NCfHNqOFlnnX9nSTENSzZoOLVp) (see also [main website](https://cnchou.github.io/mini-course/))
 
 
 ## Related Awesome Lists
