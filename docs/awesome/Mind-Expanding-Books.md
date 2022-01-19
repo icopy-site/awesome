@@ -402,7 +402,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Letters From The Earth | Mark Twain | [4.22](https://www.goodreads.com/book/show/37813.Letters_from_the_Earth) | 1962 |  
 | One Flew Over the Cuckoo's Nest | Ken Kesey | [4.18](https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest) | 1963 |  
 | Crime and Punishment | Fyodor Dostoyevsky | [4.18](https://www.goodreads.com/book/show/7144.Crime_and_Punishment) | 1866 |  
-| 1984 | George Orwell | [4.17](https://www.goodreads.com/book/show/40961427-1984) | 1949 |  
+| 1984 | George Orwell | [4.17](https://www.goodreads.com/book/show/40961427-1984) | 1949 |    
+| The Giver | Lois Lowry | [4.13](https://www.goodreads.com/book/show/3636.The_Giver) | 1993 |  
 | Steppenwolf: A Novel | Hermann Hesse, Basil Creighton | [4.11](https://www.goodreads.com/book/show/16631.Steppenwolf) | 1927 |  
 | The Glass Bead Game | Hermann Hesse, Richard and Clara Winston | [4.11](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) | 1943 |  
 | War and Peace | Leo Tolstoy | [4.11](https://www.goodreads.com/book/show/656.War_and_Peace) | 1867 |  
@@ -497,11 +498,13 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | The Martian | Andy Weir | [4.40](https://www.goodreads.com/book/show/18007564-the-martian) | 2012 |
 | The Hitchhiker's Guide to the Galaxy | Douglas Adams | [4.38](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) | 1979|
+| Champion | Marie Lu | [4.32](https://www.goodreads.com/book/show/14290364-champion) | 2013 |
 | Ready Player One | Ernest Cline | [4.31](https://www.goodreads.com/book/show/9969571-ready-player-one) | 2011 |
-| 11/22/63 | Stephen King | [4.31] (https://www.goodreads.com/book/show/10644930-11-22-63) | 2011 | 
+| 11/22/63 | Stephen King | [4.31](https://www.goodreads.com/book/show/10644930-11-22-63) | 2011 | 
 | Ender's Game - Saga | Orson Scott Card | [4.30](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on) | 1994 |  
 | The Player of Games | Iain M. Banks | [4.26](https://www.goodreads.com/book/show/18630.The_Player_of_Games) | 1997 |  
 | The Fifth Sacred Thing | Starhawk | [4.25](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) | 1994 |
+| Prodigy | Marie Lu | [4.24](https://www.goodreads.com/book/show/13414446-prodigy?ac=1&from_search=true&qid=BL85jNXP8P&rank=1) | 2013
 | Hyperion | Dan Simmons | [4.21](https://www.goodreads.com/book/show/77566.Hyperion) | 1989 |  
 | Cosmicomics | Italo Calvino | [4.2](https://www.goodreads.com/book/show/59780.Cosmicomics) | 1965 |
 | The Diamond Age | Neal Stephenson | [4.19](http://www.goodreads.com/book/show/827.The_Diamond_Age) | 2000 |  
@@ -542,6 +545,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Convict Conditioning | Paul Wade | [4.13](http://www.goodreads.com/book/show/7305111-convict-conditioning) | 2012 |  
 | Eat and Run: My Unlikely Journey to Ultramarathon Greatness |  Scott Jurek, Steve Friedman | [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run) | 2012 |  
 | 8 Weeks to Optimum Health | Andrew Weil | [3.86](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) |  |  
+| Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar--Your Brain's Silent Killers |  David Perlmutter | [3.89](https://www.goodreads.com/book/show/17333302-grain-brain) | 2013 |
 
 ## Design
 | Name | Author | Goodreads Rating | Year Published |  
