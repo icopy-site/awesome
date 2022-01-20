@@ -65,7 +65,8 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [Sea_battle](https://github.com/MAE664128/sea_battle) - A simple example of a sea battle game. Rust + Yew.
 - [tide-async-graphql-mongodb](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
 - [surfer](https://github.com/zzy/surfer) - A blog built on yew + graphql, with [live demo site](https://gaiding.com). Backend for graphql services, and frontend for web application.
-- [qubit](https://abhimanyu003.github.io/qubit) - A handy calculator, based on Rust and WebAssembly. [Live Demo](https://abhimanyu003.github.io/qubit/)
+- [qubit](https://abhimanyu003.github.io/qubit) - A handy calculator, based on Rust and WebAssembly, [Live Demo](https://abhimanyu003.github.io/qubit/).
+- [Paudle](https://github.com/pmsanford/paudle) - A reimplementation of the excellent word game Wordle by Josh Wardle.
 
 ## Templates
 
@@ -98,6 +99,8 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 ### Hooks
 
 - [yew-hooks](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use](https://github.com/streamich/react-use) and [alibaba/hooks](https://github.com/alibaba/hooks).
+- [yew-side-effect](https://github.com/futursolo/yew-side-effect) - Reconcile Side Effects in Yew Applications, inspired by [react-side-effect](https://github.com/gaearon/react-side-effect) and [react-helmet](https://github.com/nfl/react-helmet).
+- [Bounce](https://github.com/futursolo/bounce) - The uncomplicated state management library for Yew, inspired by [Redux](https://github.com/reduxjs/redux) and [Recoil](https://github.com/facebookexperimental/Recoil).
 
 ### Utils
 
