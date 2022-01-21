@@ -332,6 +332,8 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [folke/lua-dev.nvim](https://github.com/folke/lua-dev.nvim) - Dev setup for init.Lua and plugin development with full signature help, docs and completion for the Neovim Lua API.
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [m00qek/plugin-template.nvim](https://github.com/m00qek/plugin-template.nvim) - A plugin template that setups test infrastructure and GitHub Actions.
+<!--lint ignore double-link-->
+- [mini.doc](https://github.com/echasnovski/mini.nvim#minidoc) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) for generation of help files from EmmyLua-like annotations. Allows flexible customization of output via hook functions.
 
 ### Fennel
 
@@ -469,6 +471,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 <!--lint ignore double-link-->
 - [mini.jump](https://github.com/echasnovski/mini.nvim#minijump) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) for smarter jumping to a single character.
 - [mfussenegger/nvim-ts-hint-textobject](https://github.com/mfussenegger/nvim-ts-hint-textobject) - Region selection with hints on the AST nodes of a document powered by treesitter.
+- [rlane/pounce.nvim](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
 
 ### Code Runner
 

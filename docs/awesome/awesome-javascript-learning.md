@@ -1,5 +1,6 @@
 <div class="github-widget" data-repo="micromata/awesome-javascript-learning"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<!--lint ignore awesome-license awesome-git-repo-age-->
 ## Awesome JavaScript Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
 
 > An awesome list limited to the best JavaScript learning resources
@@ -61,6 +62,7 @@ Thin books which you can get through in a few days.
 - [The Principles of Object-Oriented JavaScript](https://www.nostarch.com/oojs) - Comprehensible, especially interesting for people with a class based OOP background.
 - [JavaScript Enlightenment](http://shop.oreilly.com/product/0636920027713.do) - Will solidify your understanding of the language.
 - [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A complete guide for JavaScript testing tools and techniques.
+- [The Joy of JavaScript](https://www.manning.com/books/the-joy-of-javascript) - A book covering advanced language features like Iterators and Generators.
 
 ## Blogs
 
@@ -98,7 +100,7 @@ Thin books which you can get through in a few days.
 - [ES6 Katas](http://es6katas.org) - Learn ES6 by solving unit test online.
 - [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices.
 - [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less.
-- [What’s the difference between JavaScript and ECMAScript?](https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/) - Clears the confusion about ES6 and Javascript.
+- [What's the difference between JavaScript and ECMAScript?](https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/) - Clears the confusion about ES6 and JavaScript.
 
 ## DOM related
 
