@@ -47,6 +47,7 @@
 - 💜 [React](https://github.com/inertiajs/inertia/tree/master/packages/inertia-react)
 - 💜 [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/inertia-svelte)
 - [Mithril](https://github.com/tbreuss/inertia-mithril)
+- [Preact](https://github.com/jrson83/inertia-preact)
 
 ### Server-side
 

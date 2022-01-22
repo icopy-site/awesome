@@ -1286,6 +1286,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [astral](https://github.com/xwmx/astral) - Theme for dark backgrounds with zen mode. Works well with the zsh-users [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) plugin.
 * [astro](https://github.com/iplaces/astro-zsh-theme/blob/master/README.md) - Based on the `ys` and [robbyrussell](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell) themes.
 * [async](https://github.com/mje-nz/zsh-themes) - Shows current directory, `git` state, return value of last command if it had an error code, number of background jobs, execution time of long-running commands, current python virtualenv.
+* [aub](https://github.com/FraSharp/aub) - Includes decorations for `git` and `hg` status and `username` at `host`.
 * [aterminal](https://github.com/guiferpa/aterminal) - Displays Nodejs, NPM, Docker, Go, Python, Elixir and Ruby information in the prompt.
 * [avil](https://github.com/avil13/avil-zsh-theme) - Minimalist theme with `git` decorations.
 * [avit-d2k](https://github.com/fdaciuk/avit-da2k) - Based on the oh-my-zsh [avit](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/avit.zsh-theme) theme, with small changes.
@@ -1669,6 +1670,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [musy](https://github.com/THaGKI9/musy-zsh-theme) - Inspured by muse theme. Includes `git` status decorations.
 * [my-hl2](https://github.com/liamm91/my-hl2) - Includes virtualenv, `git` status and directory decorations. Based on omz's [half-life](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/half-life.zsh-theme) theme.
 * [myzsh](https://github.com/MaxUlysse/myzsh) - Maxime Garcia's myzsh theme.
+* [mzt](https://github.com/honbey/mzt) - Sets up `LS_COLORS`, colorizes `diff` and includes `git` status and current working directory decorations.
 * [nanofish](https://github.com/tweekmonster/nanofish) - Adds fish-style directory prompt to nanotech theme.
 * [nbrylevv](https://github.com/nbrylevv/nbrylevv-zsh-theme) - Minimalist theme with text `git` status decorations.
 * [nctu](https://github.com/leovincentseles/nctu.zsh-theme) - Lightweight theme with an emphasis on speed. Includes `git` status decorations.

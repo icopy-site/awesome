@@ -11,7 +11,6 @@
 [V](https://vlang.io/) is a simple, fast, safe, compiled language for developing maintainable software.
 
 
-  - [Books](#books).
 
 ## Applications
 
@@ -144,6 +143,11 @@
 ### Networking
 
 - [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
+
+### Serial Communications
+- [vserialport](https://github.com/erdetn/vserialport) - V wrapper for [libserialport](https://sigrok.org/wiki/Libserialport).
+- [vserialx](https://github.com/erdetn/vserialx) - A tiny (wrapper) serial communication library for Linux written in V.
+- [vi2c](https://github.com/erdetn/vi2c) - A tiny (wrapper) library for I2C serial communication for Linux written in V.
 
 ### Automation
 
