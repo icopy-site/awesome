@@ -2,8 +2,6 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
-	<h3><a href="https://www.producthunt.com/posts/actions-4">My Actions app is on Product Hunt</a></h3>
-	<br>
 	<br>
 	<br>
 	<hr>
@@ -107,10 +105,9 @@
 		<br>
 		<br>
 		<br>
-		<br>
 		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-light-mode-only">
 			<div>
-				<img src="https://sindresorhus.com/assets/thanks/stream-logo.svg" width="260" alt="Stream">
+				<img src="https://sindresorhus.com/assets/thanks/stream-logo.svg" width="220" alt="Stream">
 			</div>
 			<br>
 			<div>
@@ -119,7 +116,7 @@
 		</a>
 		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-dark-mode-only">
 			<div>
-				<img src="https://sindresorhus.com/assets/thanks/stream-logo-dark.svg" width="260" alt="Stream">
+				<img src="https://sindresorhus.com/assets/thanks/stream-logo-dark.svg" width="220" alt="Stream">
 			</div>
 			<br>
 			<div>
@@ -508,6 +505,7 @@
 - [Discord Communities](awesome/awesome-discord-communities.md) - Chat with friends and communities.
 - [CHIP-8](awesome/awesome-chip-8.md) - Virtual computer game machine from the 70s.
 - [Games of Coding](awesome/awesome-games-of-coding.md) - Learn a programming language by making games.
+- [Esports](awesome/awesome-esports.md) - Video games played as a sport.
 
 ## Development Environment
 
@@ -706,6 +704,7 @@
 - [k6](awesome/awesome-k6.md) - Open-source, developer-centric performance monitoring and load testing solution.
 - [Playwright](awesome/awesome-playwright.md) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 - [Quality Assurance Roadmap](awesome/awesome-quality-assurance-roadmap.md) - How to start & build a career in software testing.
+- [Gatling](awesome/awesome-gatling.md) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 
 ## Miscellaneous
 

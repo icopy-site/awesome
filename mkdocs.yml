@@ -365,6 +365,7 @@ nav:
     - Discord Communities: awesome/awesome-discord-communities.md
     - CHIP-8: awesome/awesome-chip-8.md
     - Games of Coding: awesome/awesome-games-of-coding.md
+    - Esports: awesome/awesome-esports.md
   - Development Environment:
     - Quick Look Plugins: awesome/quick-look-plugins.md
     - Dev Env: awesome/awesome-devenv.md
@@ -533,6 +534,7 @@ nav:
     - k6: awesome/awesome-k6.md
     - Playwright: awesome/awesome-playwright.md
     - Quality Assurance Roadmap: awesome/awesome-quality-assurance-roadmap.md
+    - Gatling: awesome/awesome-gatling.md
   - Miscellaneous:
     - JSON: awesome/awesome-json.md
     - JSON_sub: 

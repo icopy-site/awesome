@@ -83,6 +83,7 @@
 
 - [Active Replica](https://www.activereplica.com/) - Offers virtual event hosting through Mozilla Hubs.
 - [Active Theory](https://activetheory.net/) - Developed the Dreamwave platform.
+- [Aircards](https://www.aircards.co/) - WebAR advertising/marketing agency.
 - [Laguna Labs](https://lagunalabs.io/) - Immersive web tech agency.
 - [Playko Software](https://www.playko.com/) - VR/AR/WebXR agency and WebXR game development studio.
 - [REM5](https://www.rem5forgood.com/) - Digital immersive experience design studio specializing in education and social equity initiatives.
