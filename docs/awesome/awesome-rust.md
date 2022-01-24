@@ -203,6 +203,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) — A secure multithreaded packet sniffer [![build badge](https://api.travis-ci.org/kpcyrd/sniffglue.svg?branch=master)](https://travis-ci.org/kpcyrd/sniffglue)
 * [ObserverWard_0x727](https://github.com/0x727/ObserverWard_0x727) — Community based web technologies analysis tool.
 * [ripasso](https://github.com/cortex/ripasso/) — A password manager, filesystem compatible with pass
+* [rsocx](https://github.com/b23r0/rsocx) — A bind/Reverse Socks5 proxy Server. [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rsocx/Rust)](https://github.com/b23r0/rsocx/actions/workflows/rust.yml)
 * [rustscan/rustscan](https://github.com/RustScan/RustScan) — Make Nmap faster with this port scanning tool [![build badge](https://github.com/RustScan/RustScan/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/RustScan/RustScan/actions?query=workflow%3A%22Continuous+integration%22)
 
 ### System tools

@@ -24,6 +24,7 @@
 - [Auto-Soylent](https://github.com/nick/auto-soylent) - Automatic Soylent recipe generator.
 - [Genetic-Soylent](https://github.com/nick/genetic-soylent) - This project generates soylent recipes based on genetic algorithms.
 - [hasgluten](https://github.com/hasgluten/hasgluten) - Quick and Accurate Gluten-Free Foods List.
+- [diy-proofing-box](https://github.com/hendricius/diy-proofing-box) - Build your own DIY proofing box for sourdough, yoghurt and pizza. Featuring a raspberry pi and night vision.
 
 ## Cookbooks
 
@@ -36,6 +37,8 @@
 - [cookbook](https://github.com/jlinder/cookbook) - Delicious food. Mostly wheat or gluten free.
 - [pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 - [mozzarella](https://github.com/hendricius/mozzarella) - Learn how to make homemade mozzarella.
+- [lactofermentation](https://github.com/tirimia/lactofermentation) - Experiments with wild lactobacillus.
+- [bread](https://github.com/dgryski/bread) - Notes on bread baking.
 
 ## API for Food services
 
