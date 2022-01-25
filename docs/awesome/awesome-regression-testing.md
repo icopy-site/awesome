@@ -121,9 +121,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual regression testing for Hugo with Github-CI and BackstopJS](https://jameskiefer.com/posts/visual-regression-testing-for-hugo-with-github-ci-and-backstopjs/) - How to automate regression testing for Hugo with BackstopJS
 - [UI Visual Regression Testing with Micoo](https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9) - Introduction about how to do visual regression testing with Micoo service 
 
-## Books
-
-- [Regression, a Friendly Guide](https://www.manning.com/books/regression-a-friendly-guide) - A friendly, fun guide to making accurate predictions and revealing relationships in your data using linear and logistic regression.
 
 ## Slideshows, talks and videos
 
@@ -135,7 +132,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8) - Demo what the Look-alike Chrome extension is, how it works and how and why it was build.
 - [Screencast on CSS critic - a lightweight testing framework for CSS](https://youtu.be/AqQ2bNPtF60) - How to write your first CSS test with CSS critic, make it pass, break it, and make it pass again.
 - [Visual Regression Testing - from a tool to a process](https://speakerdeck.com/nikhilverma/visual-regression-testing-from-a-tool-to-a-process) by Nikhil Verma - How the Mobile Web team in Badoo converted and integrated PhantomCSS into their workflow and connected it to their CI process.
-- [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo) by Matthew Rudd - Two examples to talk about regression for counts and some current real-world applications.
 
 ## Deprecated
 

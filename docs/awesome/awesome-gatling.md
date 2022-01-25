@@ -56,10 +56,10 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [gatling-jwt](https://bitbucket.org/atlassianlabs/gatling-jwt/) - An extension to Gatling 2.0 to help make JWT-signed requests.
 - [gatling-mqtt](https://github.com/mnogu/gatling-mqtt) - A Gatling plugin for stress testing MQTT.
 - [gatling-kafka](https://github.com/mnogu/gatling-kafka) - A Gatling plugin for stress testing Apache Kafka protocol.
-- [gatling-kafka-plugin](https://github.com/TinkoffCreditSystems/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
-- [gatling-amqp-plugin](https://github.com/TinkoffCreditSystems/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
-- [gatling-jdbc-plugin](https://github.com/TinkoffCreditSystems/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
-- [gatling-picatinny](https://github.com/TinkoffCreditSystems/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
+- [gatling-kafka-plugin](https://github.com/Tinkoff/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
+- [gatling-amqp-plugin](https://github.com/Tinkoff/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
+- [gatling-jdbc-plugin](https://github.com/Tinkoff/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
+- [gatling-picatinny](https://github.com/Tinkoff/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
 - [gatling-sql](https://github.com/tmcgrath/gatling-sql) - Gatling extension for JDBC or Spark Thrift Server stress testing.
 - [gatling-tcp-extensions](https://github.com/scalecube/gatling-tcp-extensions) - TCP extensions for Gatling.
 - [gatling-thrift](https://github.com/3tty0n/gatling-thrift) - Gatling third party plugin for Apache Thrift.
@@ -84,7 +84,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 
 - [dakiya](https://github.com/rupeshmore/dakiya) - Convert Postman collections to Gatling scripts.
 - [gatling.g8](https://github.com/gatling/gatling.g8) - Giter8 template for Gatling.
-- [gatling-template.g8](https://github.com/TinkoffCreditSystems/gatling-template.g8) - A Giter8 template for Gatling performance test project.
+- [gatling-template.g8](https://github.com/Tinkoff/gatling-template.g8) - A Giter8 template for Gatling performance test project.
 
 ## CI
 

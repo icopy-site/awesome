@@ -13,6 +13,12 @@ If you need to search on this list you can try this great website: [Awesome Blaz
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
 
+## C# Corner .NET Conference 2022 (January 24-26, 2022).
+[<img src="https://pbs.twimg.com/media/FJ3XkM4aQAIiInk?format=jpg&name=medium" align="center" width="100%">](https://dotnetconference.com/)
+- Several session about Blazor, check out the [schedule](https://dotnetconference.com/).
+- January 24-26, 2022
+- [Conference website](https://dotnetconference.com/).
+
 ## Introduction
 
 ### What is Blazor?
@@ -356,6 +362,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 ## Real-World applications
 
 ## Videos
+* [C# Corner .NET Conference Day 1](https://www.youtube.com/watch?v=LpoYTZSMeG0) - ![duration](https://img.shields.io/badge/Duration:%20-390%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) January 24, 2022 - The first day of the conference kicks off with a keynote session by Scott Hunter. Day one is focused on front-end technologies (Blazor). [Conference website](https://dotnetconference.com).
 * [ASP.NET Community Standup - Blazor WebAssembly on .NET 6](https://www.youtube.com/watch?v=8gwSU3oaMV8) - ![duration](https://img.shields.io/badge/Duration:%20-78%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) January 11, 2021 - Join Blazor creator Steve Sanderson for a special look at Blazor WebAssembly on .NET 6. [Community links](https://www.theurlist.com/blazor_community_standup_january_2022).
 * [Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps](https://www.youtube.com/watch?v=bB0bEBiGRVw) - ![duration](https://img.shields.io/badge/Duration:%20-89%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) December 6, 2021 - Automatically deploy and update a Blazor web application and its API from a GitHub repository. In this episode, you will clone and run an existing Blazor web app locally, create an API for the app with Azure Functions and publish the app and its API to Azure Static Web Apps.
 * [Learn Live - Build a web app with Blazor](https://www.youtube.com/watch?v=GoRueoEv8NI) - ![duration](https://img.shields.io/badge/Duration:%20-92%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) November 22, 2021 - Learn how to set up your development environment and build your first web app with Blazor, Visual Studio Code, and C#.
