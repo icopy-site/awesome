@@ -2211,7 +2211,7 @@ _Set of components + responsive layout system_
 - [Fundamental Vue](https://github.com/SAP/fundamental-vue) - Components based on SAP Fiori Fundamentals.
 - [Framevuerk](https://github.com/framevuerk/framevuerk) - 🚀 Fast, Responsive, Without Dependencies, Both Direction Support and Configurable UI Framework based on Vue.js.
 - [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) - Carbon Design System components from the @carbon team.
-- [Inkline](https://github.com/inkline/inkline/) - Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications.
+- [Inkline](https://github.com/inkline/inkline/) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building Vue.js 3 Design Systems.
 - [vue-awesome-mui](https://github.com/Wscats/vue-awesome-mui) - A Vue.js 2.0 MUI Component for Web
 - [MDBootstrap](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Powerful UI toolkit based on the latest Bootstrap 4 and Vue 2.6.10, providing a set of slick, responsive page templates, layouts, components and widgets to rapidly build responsive, mobile-first websites and apps.
 - [vue-material-adapter](https://github.com/pgbross/vue-material-adapter) - Integration of Material Components for Vue.js which follows the best practices recommended by Google: Using Foundations and Adapters
@@ -2306,6 +2306,7 @@ _Set of admin template_
 - [Tailmin](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS. [Live demo](https://tailmin.vercel.app/)
 - [Vue-Admin-Template](https://github.com/Mani1124/vue-admin-template) - A beautiful free vuejs admin template, designed using vuetify and apexcharts. [Live Demo](https://mani1124.github.io)
 - [Admin One Vue 3 Tailwind dashboard](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
+- [Mosaic - Vue Admin TailwindCSS template](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
 
 #### Server-side rendering
 

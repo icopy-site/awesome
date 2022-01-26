@@ -46,6 +46,7 @@ For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/
 * [Serverx](https://github.com/lukehutch/serverx) - Allows you to quickly and easily set up a Vert.x-powered server using only route handler annotations.
 * [Cloudopt Next](https://github.com/cloudoptlab/cloudopt-next) - Cloudopt Next is a very lightweight and modern, JVM-based, full stack kotlin framework designed for building modular, easily testable JVM applications with support for Java, Kotlin language, crafted from the best of breed Java libraries and standards.
 * [Donkey](https://github.com/AppsFlyer/donkey) - Modern Clojure HTTP server and client built for ease of use and performance.
+* [SCX](https://github.com/scx567888/scx) - An open and easy-to-use web framework, most functions are based on annotations.
 
 ## Authentication Authorisation
 
@@ -322,11 +323,10 @@ For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/
 
 - [User Group](https://groups.google.com/forum/?fromgroups#!forum/vertx) - Discuss all user issues related to *using* Vert.x.
 - [Developer Group](https://groups.google.com/forum/?fromgroups#!forum/vertx-dev) - A group for Vert.x core *developers* and *contributors*.
-- [Gitter chat](https://gitter.im/eclipse-vertx/vertx-users) general chat for Vert.x releated chat.
+- [Discord Server](https://discord.gg/KzEMwP2) - Chat about any Vert.x-related topic.
 - [Issues](https://github.com/vert-x3/issues/issues) - Vert.x core issue tracker.
 - [Wiki](https://github.com/vert-x3/wiki/wiki) - Contains useful information about Vert.x.
 - [Blog](http://vertx.io/blog/) - The official Vert.x blog containing many tutorials and other information.
-- [2017 Events](https://github.com/vert-x3/wiki/wiki/Vert.x-2017-Events) - A list of 2017 Vert.x talks and presentations.
 
 ## Articles
 
