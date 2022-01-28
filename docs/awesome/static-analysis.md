@@ -401,7 +401,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 <h2 id="kotlin">Kotlin</h2>
 
 - [detekt](https://detekt.github.io/detekt) - Static code analysis for Kotlin code.
-- [diktat](https://github.com/diktat-static-analysis/diKTat) - Strict coding standard for Kotlin and a linter that detects and auto-fixes code smells.
+- [diktat](https://analysis-dev.github.io/diktat) - Strict coding standard for Kotlin and a linter that detects and auto-fixes code smells.
 - [ktlint](https://ktlint.github.io) - An anti-bikeshedding Kotlin linter with built-in formatter.
 
 
@@ -728,7 +728,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [imhotep](https://github.com/justinabrahms/imhotep) - Comment on commits coming into your repository and check for syntactic errors and general lint warnings.
 - [include-gardener](https://github.com/feddischson/include_gardener) :warning: - A multi-language static analyzer for C/C++/Obj-C/Python/Ruby to create a graph (in dot or graphml format) which shows all `#include` relations of a given set of files.
 - [Infer](https://fbinfer.com) - A static analyzer for Java, C and Objective-C
-- [InsiderSec](https://insidersec.io) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
+- [InsiderSec](https://insidersec.io) :warning: - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
 - [Kiuwan](https://www.kiuwan.com/code-security-sast) :copyright: - Identify and remediate cyber threats in a blazingly fast, collaborative environment, with seamless integration in your SDLC. Python, C\C++, Java, C#, PHP and more.
 - [Klocwork](https://www.perforce.com/products/klocwork) :copyright: - Quality and Security Static analysis for C/C++, Java and C#.
 - [LGTM](https://lgtm.com/) :copyright: - Find security vulnerabilities, variants, and critical code quality issues using queries over source code. Automatic PR code review; free for open source. Formerly semmle.
@@ -1047,6 +1047,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 <h2 id="protobuf">Protocol Buffers</h2>
 
+- [buf](https://buf.build) - Provides a CLI linter that enforces good API design choices and structure
 - [protolint](https://github.com/yoheimuta/protolint) - Pluggable linter and fixer to enforce Protocol Buffer style and conventions.
 
 

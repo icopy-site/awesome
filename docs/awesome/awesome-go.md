@@ -12,9 +12,32 @@
 
 ### Sponsorships
 
-[![Doppler](https://github.com/avelino/awesome-go/raw/main/tmpl/assets/sponsors/doppler.png)](https://www.doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesomego&utm_source=github)
+<sup>Special thanks to:</sup><br/><br/>
+<div align="center">
+<a href="https://www.doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesomego&utm_source=github">
+	<div>
+		<img src="https://avelino.run/sponsors/doppler-logo.png" width="200" alt="Doppler">
+	</div>
+	<b>Quit struggling with scattered API keys and access controls.</b>
+	<div>
+        <sub>Keep your secrets in sync across environments, servers, and teams with Doppler.</sub>
+	</div>
+</a><br/>
+
+<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesomego&utm_source=github">
+	<div>
+		<img src="https://avelino.run/sponsors/workos-logo-white-bg.svg" width="200" alt="WorkOS">
+	</div>
+	<b>Your app, enterprise-ready.</b>
+	<div>
+		<sub>Start selling to enterprise customers with just a few lines of code.</sub>
+		<br>
+		<sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
+	</div>
+</a><br/>
 
 [![Digital Ocean](https://avelino.run/sponsors/do_logo_horizontal_blue-210.png)](https://m.do.co/c/bd3b723c0a36?utm_medium=opensource&utm_source=awesome-go)
+</div>
 
 **Awesome Go has no monthly fee**_, but we have employees who **work hard** to keep it running, with money raised we can repay the effort of each person involved! You can see how we calculate our billing and distribution as it is open to the entire community._
 
@@ -250,6 +273,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [confita](https://github.com/heetch/confita) - Load configuration in cascade from multiple backends into a struct.
 * [conflate](https://github.com/the4thamigo-uk/conflate) - Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs, validation against a JSON schema, and application of default values defined in the schema.
 * [env](https://github.com/caarlos0/env) - Parse environment variables to Go structs (with defaults).
+* [env](https://github.com/junk1tm/env) - A lightweight package for loading environment variables into structs.
 * [envcfg](https://github.com/tomazk/envcfg) - Un-marshaling environment variables to Go structs.
 * [envconf](https://github.com/ian-kent/envconf) - Configuration from environment.
 * [envconfig](https://github.com/vrischmann/envconfig) - Read your configuration from environment variables.
@@ -282,6 +306,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [mini](https://github.com/sasbury/mini) - Golang package for parsing ini-style configuration files.
 * [nasermirzaei89/env](https://github.com/nasermirzaei89/env) - Simple useful package for read environment variables.
 * [onion](https://github.com/goraz/onion) - Layer based configuration for Go, Supports JSON, TOML, YAML, properties, etcd, env, and encryption using PGP.
+* [piper](https://github.com/Yiling-J/piper) - Viper wrapper with config inheritance and key generation.
 * [store](https://github.com/tucnak/store) - Lightweight configuration manager for Go.
 * [swap](https://github.com/oblq/swap) - Instantiate/configure structs recursively, based on build environment. (YAML, TOML, JSON and env).
 * [typenv](https://github.com/diegomarangoni/typenv) - Minimalistic, zero dependency, typed environment variables library.
@@ -423,6 +448,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [Kivik](https://github.com/go-kivik/kivik) - Kivik provides a common Go and GopherJS client library for CouchDB, PouchDB, and similar databases.
 * [ledisdb](https://github.com/siddontang/ledisdb) - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
 * [levigo](https://github.com/jmhodges/levigo) - Levigo is a Go wrapper for LevelDB.
+* [lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v database compatible with lsm and b+tree.
 * [Milvus](https://github.com/milvus-io/milvus) - Milvus is a vector database for embedding management, analytics and search.
 * [moss](https://github.com/couchbase/moss) - Moss is a simple LSM key-value storage engine written in 100% Go.
 * [nutsdb](https://github.com/xujiajun/nutsdb) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set.
@@ -2008,6 +2034,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [geo-golang](https://github.com/codingsince1985/geo-golang) - Go Library to access [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro), [MapQuest](https://open.mapquestapi.com/geocoding/), [Nominatim](https://developer.mapquest.com/documentation/open/nominatim-search), [OpenCage](https://opencagedata.com/api), [Bing](https://msdn.microsoft.com/en-us/library/ff701715.aspx), [Mapbox](https://www.mapbox.com/developers/api/geocoding/), and [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Nominatim) geocoding / reverse geocoding APIs.
 * [github](https://github.com/google/go-github) - Go library for accessing the GitHub REST API v3.
 * [githubql](https://github.com/shurcooL/githubql) - Go library for accessing the GitHub GraphQL API v4.
+* [go-atlassian](https://github.com/ctreminiom/go-atlassian) - Go library for accessing the [Atlassian Cloud](https://www.atlassian.com/enterprise/cloud) services (Jira, Jira Service Management, Jira Agile, Confluence, Admin Cloud)
 * [go-aws-news](https://github.com/circa10a/go-aws-news) - Go application and library to fetch what's new from AWS.
 * [go-chronos](https://github.com/axelspringer/go-chronos) - Go library for interacting with the [Chronos](https://mesos.github.io/chronos/) Job Scheduler
 * [go-hacknews](https://github.com/PaulRosset/go-hacknews) - Tiny Go client for HackerNews API.
