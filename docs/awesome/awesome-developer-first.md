@@ -44,6 +44,7 @@ The definition of developer-first for this repo is:
 *Continious Integration/Delivery.*
 * [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
 * [Gitlab](https://gitlab.com/) - Open source CI and hosted solution with Github-like abilities.
+* [Gitpod](https://www.gitpod.io/) - Automated cloud dev environments. 
 
 ## CMS (headless)
 * [Tipe](https://tipe.io/) - Open source headless CMS.
