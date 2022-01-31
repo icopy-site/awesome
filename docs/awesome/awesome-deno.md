@@ -179,7 +179,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [deno-websocket](https://github.com/ryo-ma/deno-websocket) - 🦕A simple WebSocket library like ws of node.js library.
 - [dropper](https://github.com/denyncrawford/dropper-deno) - Custom event-based WebSockets framework for building real-time apps on Deno 🦕
 - [websocket_server](https://github.com/JohanWinther/websocket_server) - A WebSocket server library.
-- [sockets](https://github.com/drashland/sockets) - A WebSocket library for Deno.
+- [wocket](https://github.com/drashland/wocket) - A WebSocket library for Deno.
 
 ### Web utils
 - [compression](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
@@ -208,6 +208,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 - [crux.land](https://crux.land/) - A free registry service meant for hosting small ( < 10kB) single deno scripts.
 - [Deno PKG](https://denopkg.com/) - An easier way to use code from GitHub in your Deno project.
+- [Denopkg.dev](https://denopkg.dev/) - Use any public/private repository from GitHub/GitLab in your Deno project.
 - [deno.land/x/](https://deno.land/x/) - The official 3rd party module registry.
 - [nest.land](https://nest.land) - An immutable, blockchain powered Deno package registry. 🥚
 
@@ -351,10 +352,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [mizchi/deno_code_reading.md](https://gist.github.com/mizchi/31e5628751330b624a0e8ada9e739b1e)
 - [Design Mistakes in Node & Deno #kng5 / deno](https://speakerdeck.com/masashi/deno)
 - [Dive into Deno：プロセス起動からTypeScriptが実行されるまで](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
-
-### Korean
-
-- [denoland.kr/](https://denoland.kr/)
 
 ### Russian
 
