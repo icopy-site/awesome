@@ -139,7 +139,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Libraries for building and working with bots.*
 
-* [echotron](https://github.com/NicoNex/echotron) - Concurrent library for Telegram Bots written in pure Go.
+* [echotron](https://github.com/NicoNex/echotron) - An elegant and concurrent library for Telegram Bots in Go.
 * [ephemeral-roles](https://github.com/ewohltman/ephemeral-roles) - A Discord bot for managing ephemeral roles based upon voice channel member presence.
 * [go-chat-bot](https://github.com/go-chat-bot/bot) - IRC, Slack & Telegram bot written in Go.
 * [go-joe](https://joe-bot.net) - A general-purpose bot library inspired by Hubot but written in Go.
@@ -355,6 +355,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 *Generic datastructures and algorithms in Go.*
 
 * [algorithms](https://github.com/shady831213/algorithms) - Algorithms and data structures.CLRS study.
+* [bingo](https://github.com/iancmcc/bingo) - Fast, zero-allocation, lexicographical-order-preserving packing of native types to bytes.
 * [binpacker](https://github.com/zhuangsirui/binpacker) - Binary packer and unpacker helps user build custom binary stream.
 * [bit](https://github.com/yourbasic/bit) - Golang set data structure with bonus bit-twiddling functions.
 * [bitmap](https://github.com/kelindar/bitmap) - Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go.
