@@ -29,10 +29,10 @@ Unmaintained projects, now only relevant for educational purposes are in the [Ar
 
 ### Data parsing and analysis
 
+- [awpy](https://github.com/pnxenopoulos/awpy) - A Python library for parsing, analyzing and visualizing CS:GO data.
 - [Boxcars](https://github.com/nickbabcock/boxcars) - A Rust library for parsing Rocket League replays.
 - [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
 - [Clarity](https://github.com/skadistats/clarity) - A Java library for parsing CS:GO and Dota 2 replays.
-- [csgo](https://github.com/pnxenopoulos/csgo) - A Python library for parsing, analyzing and visualizing CS:GO data.
 - [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
 - [Rattletrap](https://github.com/tfausak/rattletrap) - A Haskell library for parsing and generating Rocket League replays.
 
