@@ -229,6 +229,8 @@ _Libraries for building standard or basic Command Line applications._
 - [acmd](https://github.com/cristalhq/acmd) - Simple, useful and opinionated CLI package in Go.
 - [argparse](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 - [argv](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
+- [carapace](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+- [carapace-bin](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 - [cli](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 - [cli](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
 - [climax](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command.
@@ -1416,6 +1418,7 @@ _These libraries were placed here because none of the other categories seemed to
 - [metrics](https://github.com/pascaldekloe/metrics) - Library for metrics instrumentation and Prometheus exposition.
 - [morse](https://github.com/alwindoss/morse) - Library to convert to and from morse code.
 - [numa](https://github.com/lrita/numa) - NUMA is a utility library, which is written in go. It help us to write some NUMA-AWARED code.
+- [openapi](https://github.com/neotoolkit/openapi) - OpenAPI 3.x parser.
 - [pdfgen](https://github.com/hyperboloide/pdfgen) - HTTP service to generate PDF from Json requests.
 - [persian](https://github.com/mavihq/persian) - Some utilities for Persian language in go.
 - [sandid](https://github.com/aofei/sandid) - Every grain of sand on earth has its own ID.
@@ -1795,13 +1798,13 @@ _Libraries and tools for binary serialization._
 - [devd](https://github.com/cortesi/devd) - Local webserver for developers.
 - [discovery](https://github.com/Bilibili/discovery) - A registry for resilient mid-tier load balancing and failover.
 - [dudeldu](https://github.com/krotik/dudeldu) - A simple SHOUTcast server.
+- [dummy](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command.
 - [Easegress](https://github.com/megaease/easegress) - A cloud native high availability/performance traffic orchestration system with observability and extensibility.
 - [etcd](https://github.com/coreos/etcd) - Highly-available key value store for shared configuration and service discovery.
 - [Euterpe](https://github.com/ironsmile/euterpe) - Self-hosted music streaming server with built-in web UI and REST API.
 - [Fider](https://github.com/getfider/fider) - Fider is an open platform to collect and organize customer feedback.
 - [Flagr](https://github.com/checkr/flagr) - Flagr is an open-source feature flagging and A/B testing service.
 - [flipt](https://github.com/markphelps/flipt) - A self contained feature flag solution written in Go and Vue.js
-- [go-dummy](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command.
 - [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A feature flag solution, with only a YAML file in the backend (S3, GitHub, HTTP, local file ...), no server to install, just add a file in a central system and refer to it.
 - [go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) - Simple Reverse Proxy with Caching, written in Go, using Redis.
 - [jackal](https://github.com/ortuman/jackal) - An XMPP server written in Go.
