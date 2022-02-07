@@ -114,6 +114,14 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Node-yslowjs](https://github.com/jmervine/node-yslowjs) - YSlow.js on Node.js is a simple Node.js wrapper for programmatically running phantomjs yslow.js.
 - [PSI](https://github.com/addyosmani/psi) - PageSpeed Insights for Node.js - with reporting.
 
+## Application Performance Monitoring
+
+- [Datadog APM](https://www.datadoghq.com/product/apm/) - End-to-end distributed tracing and APM at scale, correlated to all telemetry. 
+- [BetterUptime](https://betteruptime.com) - A good website monitoring tool (bundling status page, incident notification)
+- [Nodown](https://nodown.io) - Also, a monitoring tool, but that focuses on feature testing
+- [Pingdom](https://pingdom.com) - A tool to get the uptime of your website (with probes from different locations)
+- [UptimeRobot](https://uptimerobot.com) - Another uptime monitoring tool (with a generous free plan)
+
 ## Bundle Analyzer
 
 - [Bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
@@ -179,7 +187,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## CDN - Utilities
 
-- [Cdnex](https://github.com/jsonmaur/cdnex) - Prepends asset URLs with custom CDN URLs.
 - [Gulp-google-cdn](https://github.com/sindresorhus/gulp-google-cdn) - Replaces script references with Google CDN ones.
 
 ## Extensions
@@ -317,7 +324,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [SvgToCSS](https://github.com/kajyr/SvgToCSS) - Optimizes and renders SVG files in CSS / Sass sprites.
 - [Assetgraph-sprite](https://github.com/assetgraph/assetgraph-sprite) - Assetgraph transform for auto generating sprites based on the CSS dependency graph.
 - [Sprite Cow](http://www.spritecow.com/) - Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable CSS.
-- [Spriteme](http://spriteme.org/) - Create, integrate, and maintain CSS sprites with ease.
 - [ZeroSprites](http://zerosprites.com/) - ZeroSprites is a CSS sprites generator aimed at area minimization using algorithms used in the field of VLSI floorplanning.
 - [CSS Sprite Generator](http://css.spritegen.com/) - CSS sprites allow you to combine multiple images into a single file.
 - [Sprity](https://github.com/sprity/sprity) - A modular image sprite generator with a lot of features: supports retina sprites, supports different output formats, generates sprites and proper style files out of a directory of images, etc...
