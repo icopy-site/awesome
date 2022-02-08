@@ -21,6 +21,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has waived all copyright and related or neighboring rights to this work.
 
 
+  * [Regular Expression](https://github.com/quozd/awesome-dotnet/blob/master/regular-expression)
 
 ## Algorithms and Data structures
 
@@ -880,6 +881,10 @@ metadata in media files, including video, audio, and photo formats
 
 * [SIPSorcery](https://github.com/sipsorcery/sipsorcery) - A cross platform C# .NET library supporting SIP, VoIP and WebRTC.
 
+## Regular Expression
+
+* [RegExtract](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
+
 ## Scheduling
 
 * [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
@@ -1024,6 +1029,7 @@ metadata in media files, including video, audio, and photo formats
 * [YARP](https://github.com/microsoft/reverse-proxy) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
 * [JSON Formatter and Validator](https://elmah.io/tools/json-formatter/) - A blazing fast JSON formatter and validator that won't share JSON with a server.
 * [CSharpier](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier](https://github.com/prettier/prettier) printing process.
+* [UnitsNet](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
 
 ## Trading
 
