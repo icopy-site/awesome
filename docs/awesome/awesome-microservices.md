@@ -11,20 +11,20 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Express Serverless](https://www.express-serverless.io/) - An open source, Kubernetes-native, microservices and serverless platform.
 - [Hook.io](https://hook.io) - Open source provider of microservice and webhook hosting.
 - [Jolie](https://jolie-lang.org) - Open source microservice-oriented programming language.
-- [KintoHub ![c]](https://www.kintohub.com) - Microservice package manager empowering developers to easily build and share cloud ready features.
-- [Lightbend ![c]](https://www.lightbend.com/) - Platform for building scalable reactive systems on the JVM.
+- [KintoHub (c)](https://www.kintohub.com) - Microservice package manager empowering developers to easily build and share cloud ready features.
+- [Lightbend (c)](https://www.lightbend.com/) - Platform for building scalable reactive systems on the JVM.
 - [M3O](https://micro.mu/) - A serverless platform for microservices development.
 - [Netflix OSS](https://netflix.github.io/) - Netflix open source software ecosystem.
 - [OpenWhisk](http://openwhisk.org/) - Serverless, open source cloud platform that executes functions in response to events at any scale.
 - [Pulumi](https://pulumi.io/) - SDK for cloud native infrastructure as code. Use your favorite language to preview and manage updates to your apps and infrastructure, and continuously deploy to any cloud (no YAML required).
 - [STUPS](https://stups.io/) - A set of tools and components by Zalando to provide a convenient and audit-compliant PaaS for multiple autonomous teams on top of AWS.
 - [Triton](https://github.com/joyent/triton) - Open-source cloud management platform that delivers next generation, container-based, service-oriented infrastructure across one or more data centers.
-- [VAMP ![c]](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
+- [VAMP (c)](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
 
 ## Frameworks / Runtimes
 
 - [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
-- [Axon ![c]](https://axoniq.io/) - An end-to-end development and infrastructure platform for easy development and running of any DDD, CQRS and Event Sourcing applications on JVM.
+- [Axon (c)](https://axoniq.io/) - An end-to-end development and infrastructure platform for easy development and running of any DDD, CQRS and Event Sourcing applications on JVM.
 - [Ballerina](https://ballerina.io) - Cloud native programming language.
 - [Dapr](https://dapr.io) - Open source runtime for writing highly performant microservices using any programming language.
 - [Eclipse Microprofile](https://microprofile.io/) - An open forum to optimize Enterprise Java for a microservices architecture by innovating across multiple implementations and collaborating on common areas of interest with a goal of standardization.
@@ -325,8 +325,8 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Coordination & Governance
 
-- [AWS Step Functions ![c]](https://aws.amazon.com/step-functions/) - Coordinate the components of distributed applications and microservices using visual workflows.
-- [Azuqua ![c]](https://azuqua.com/) - Orchestration and governance platform for distributed applications.
+- [AWS Step Functions (c)](https://aws.amazon.com/step-functions/) - Coordinate the components of distributed applications and microservices using visual workflows.
+- [Azuqua (c)](https://azuqua.com/) - Orchestration and governance platform for distributed applications.
 - [Cadence](https://cadenceworkflow.io/) - Fault-oblivious stateful code platform.
 - [Conductor](https://github.com/Netflix/conductor) - A microservices orchestration engine.
 - [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based, reliable function composition for serverless functions.
@@ -363,7 +363,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Fluentd](http://www.fluentd.org/) - Open source data collector for unified logging layer.
 - [Graylog](https://www.graylog.org/) - Fully integrated open source log management platform.
 - [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
-- [LogDNA ![c]](https://logdna.com/) - Centralized log management software. Instantly collect, centralize, and analyze logs in real-time from any platform, at any volume.
+- [LogDNA (c)](https://logdna.com/) - Centralized log management software. Instantly collect, centralize, and analyze logs in real-time from any platform, at any volume.
 - [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
 - [Suro](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
 
@@ -402,7 +402,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Ganglia](http://ganglia.info/) - A scalable distributed monitoring system for high-performance computing systems such as clusters and grids.
 - [Grafana](http://grafana.org/) - An open source, feature rich metrics dashboard and graph editor for Graphite, InfluxDB & OpenTSDB.
 - [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
-- [IOpipe ![c]](https://www.iopipe.com/) - Application performance monitoring for Amazon Lambda.
+- [IOpipe (c)](https://www.iopipe.com/) - Application performance monitoring for Amazon Lambda.
 - [Jaeger](https://www.jaegertracing.io/) - An open source, end-to-end distributed tracing
 - [Microservice Graph Explorer](https://github.com/hootsuite/microservice-graph-explorer) - Navigate and explore all of the microservices in your application in real time using the real application connections.
 - [OpenTracing](https://opentracing.io/) - Vendor-neutral APIs and instrumentation for distributed tracing.
@@ -473,20 +473,20 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Apache Hive](https://hive.apache.org/) - Data warehouse infrastructure built on top of Hadoop.
 - [Apache Cassandra](http://cassandra.apache.org) - Column-oriented and providing high availability with no single point of failure.
 - [Apache HBase](http://hbase.apache.org) - Hadoop database for big data.
-- [Aerospike ![c]](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale.
+- [Aerospike (c)](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale.
 - [ArangoDB](https://www.arangodb.com/) - A distributed free and open source database with a flexible data model for documents, graphs, and key-values.
 - [AtlasDB](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
 - [ClickHouse](https://clickhouse.yandex/) - Column-oriented database management system that allows generating analytical data reports in real time.
-- [CockroachDB ![c]](https://www.cockroachlabs.com/) - A cloud-native SQL database modelled after Google Spanner.
+- [CockroachDB (c)](https://www.cockroachlabs.com/) - A cloud-native SQL database modelled after Google Spanner.
 - [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
-- [Crate ![c]](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
+- [Crate (c)](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
 - [Datomic](http://www.datomic.com/) - Fully transactional, cloud-ready, distributed database.
 - [Druid](http://druid.io/) - Fast column-oriented distributed data store.
 - [Elasticsearch](https://www.elastic.co/products/elasticsearch) - Open source distributed, scalable, and highly available search server.
 - [Geode](http://geode.incubator.apache.org/) - Open source, distributed, in-memory database for scale-out applications.
 - [Infinispan](http://infinispan.org/) - Highly concurrent key/value datastore used for caching.
 - [InfluxDB](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
-- [MemSQL ![c]](http://www.memsql.com/) - High-performance, in-memory database that combines the horizontal scalability of distributed systems with the familiarity of SQL.
+- [MemSQL (c)](http://www.memsql.com/) - High-performance, in-memory database that combines the horizontal scalability of distributed systems with the familiarity of SQL.
 - [OpenTSDB](http://opentsdb.net) - Scalable and distributed time series database written on top of Apache HBase.
 - [Parquet](https://github.com/apache/parquet-format) - Columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
 - [Pilosa](https://github.com/pilosa/pilosa) - Open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
@@ -496,7 +496,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Tachyon](http://tachyon-project.org/) - Memory-centric distributed storage system, enabling reliable data sharing at memory-speed across cluster frameworks.
 - [TiKV](https://github.com/tikv) - Distributed transactional key-value database.
 - [Voldemort](https://github.com/voldemort/voldemort) - Open source clone of Amazon DynamoDB
-- [VoltDB ![c]](https://www.voltdb.com/) - In-Memory ACID compliant distributed database.
+- [VoltDB (c)](https://www.voltdb.com/) - In-Memory ACID compliant distributed database.
 
 ### Testing
 
@@ -545,6 +545,13 @@ A curated list of Microservice Architecture related principles and technologies.
 - [RFC6570](https://tools.ietf.org/html/rfc6570) - URI Template.
 - [RFC7320](https://tools.ietf.org/html/rfc7320) - URI Design and Ownership.
 
+### Self-sovereignty & Decentralisation
+
+- [DID](https://www.w3.org/TR/did-core/) - W3C specification of Decentralized identifiers (DIDs): a new type of identifier that enables verifiable, decentralized digital identity.
+- [DIDComm](https://identity.foundation/didcomm-messaging/spec/) - Private communication methodology built atop the decentralized design of DIDs.
+- [DIDComm Protocols](https://didcomm.org/) - Registry of protocols built on DIDComm, for high-trust, self-sovereign interactions over any transport.
+- [IDSA](https://internationaldataspaces.org/) - The International Data Spaces Association (IDSA) is on a mission to create the future of the global, digital economy with International Data Spaces (IDS), a secure, sovereign system of data sharing in which all participants can realize the full value of their data.
+
 ### HTTP/1.1
 
 - [RFC7230](https://tools.ietf.org/html/rfc7230) - Message Syntax and Routing.
@@ -587,19 +594,24 @@ A curated list of Microservice Architecture related principles and technologies.
 - [RFC6066](https://tools.ietf.org/html/rfc6066) - TLS Extensions.
 - [RFC6347](https://tools.ietf.org/html/rfc6347) - Datagram Transport Layer Security Version 1.2.
 - [RFC6749](https://tools.ietf.org/html/rfc6749) - The OAuth 2.0 authorization framework.
+- [RFC6962](https://tools.ietf.org/html/rfc6962) - Certificate transparency.
 - [RFC7515](https://tools.ietf.org/html/rfc7515) - JSON Web Signature (JWS) represents content secured with digital signatures or Message Authentication Codes (MACs) using JSON-based data structures.
 - [RFC7519](https://tools.ietf.org/html/rfc7519) - JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
 - [RFC7642](https://tools.ietf.org/html/rfc7642) - SCIM: Definitions, overview, concepts, and requirements.
 - [RFC7643](https://tools.ietf.org/html/rfc7643) - SCIM: Core Schema, provides a platform-neutral schema and extension model for representing users and groups.
 - [RFC7644](https://tools.ietf.org/html/rfc7644) - SCIM: Protocol, an application-level, REST protocol for provisioning and managing identity data on the web.
 
-### Service Discovery
+### Web APIs
 
 - [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07) - The JSON Hypertext Application Language (HAL) is a standard which establishes conventions for expressing hypermedia controls, such as links, with JSON. <sup>DRAFT</sup>
 - [Hydra](http://www.hydra-cg.com/) - Specifications for interoperable, hypermedia-driven Web APIs.
 - [OpenAPI](https://github.com/OAI/openapi-specification/) - The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for REST APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic.
 - [WADL](http://www.w3.org/Submission/wadl/) - The Web Application Description Language specification.
 - [WSDL](http://www.w3.org/TR/wsdl20/) - The Web Services Description Language Version 2.0 spec.
+
+### Service Discovery
+- [DNS-SD](https://datatracker.ietf.org/doc/html/rfc6763) - Mechanism for clients to discover a list of named instances of a service, using standard DNS queries.
+- [RFC2782](https://datatracker.ietf.org/doc/html/rfc2782) - A DNS RR for specifying the location of services (DNS SRV).
 
 ### Data Formats
 
@@ -613,7 +625,6 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Vocabularies
 
 - [JSON Schema](http://json-schema.org/) - Vocabulary that allows you to annotate and validate JSON documents.
-- [LOV](http://lov.okfn.org/) - Linked open vocabularies.
 - [Schema.org](http://schema.org/) - Collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 
 ### Unicode
@@ -629,12 +640,12 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Enterprise & Verticals
 
-- [Commercetools ![c]](https://commercetools.com/) - Headless commerce platform.
-- [Elasticpath ![c]](https://www.elasticpath.com/) - E-commerce microservices.
+- [Commercetools](https://commercetools.com/) - Headless commerce platform.
+- [Elasticpath](https://www.elasticpath.com/) - E-commerce microservices.
+- [Equinox](https://www.infosysequinox.com/) - Infosys Equinox is a human-centric commerce and marketing platform that supports rich, hyper-personalized experiences across any channel and touchpoint.
 - [Flamingo](https://www.flamingo.me/) - Framework to build flexible and modern e-commerce applications.
-- [Interact ![c]](https://interact.io/) - CRM microservices for rapid delivery of tailored solutions.
-- [Predix ![c]](https://predix.io/) - Industrial microservices platform.
-- [Skava ![c]](https://www.skava.com/) - Provides microservices for all the functions of your store, and the glue to hold them together.
+- [Interact](https://interact.io/) - CRM microservices for rapid delivery of tailored solutions.
+- [Predix](https://predix.io/) - Industrial microservices platform.
 
 ## Theory
 
@@ -672,14 +683,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Microservice Patterns](http://microservices.io/) - Microservice architecture patterns and best practices.
 - [Microservice Antipatterns and Pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservice mostly known antipatterns and pitfalls.
 
-## Emerging Technologies
-
-- [Holochain](https://holochain.org/) - A framework for distributed applications, allowing you to build apps without any network constraints. This means every user controls their own data, and it can't be sold or exposed to third parties.
-- [Ops](https://ops.city/) - Free open source tool to build, run and deploy existing linux applications as unikernels.
-- [SAFE Network](https://safenetwork.tech/) - Powered by the spare capacity of everyday computers, SAFE replaces the vulnerable structure of the existing Web with a decentralised, autonomous network. One that is secure, and accessible to everyone.
-- [Solid](https://solid.inrupt.com/) - Empowers users and organizations to separate their data from the applications that use it. It allows people to look at the same data with different apps at the same time. It opens brand new avenues for creativity, problem-solving, and commerce.
-- [Unison](https://www.unisonweb.org/) - Open source functional programming language based on a simple idea with big implications: code is content-addressed and immutable.
-
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
@@ -691,6 +694,3 @@ Please, read the [Contribution Guidelines](https://github.com/mfornos/awesome-mi
 Feel free to [open an issue](https://github.com/mfornos/awesome-microservices/issues) or [create a pull request](https://github.com/mfornos/awesome-microservices/pulls) with your additions.
 
 :star2: Thank you!
-
-
-[c]: https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg
