@@ -614,6 +614,7 @@
 - [Embedded and IoT Security](awesome/awesome-embedded-and-iot-security.md)
 - [GDPR](awesome/awesome-gdpr.md) - Regulation on data protection and privacy for all individuals within EU.
 - [DevSecOps](awesome/awesome-devsecops.md) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+- [Executable Packing](awesome/awesome-executable-packing.md) - Packing and unpacking executable formats.
 
 
 - [Umbraco](awesome/awesome-umbraco.md)
@@ -684,6 +685,7 @@
 - [Substrate](awesome/awesome-substrate.md) - Framework for writing scalable, upgradeable blockchains in Rust.
 - [Golem](awesome/awesome-golem.md) - Open source peer-to-peer marketplace for computing resources.
 - [Stacks](awesome/awesome-stacks-chain.md) - A smart contract platform secured by Bitcoin.
+- [Algorand](awesome/awesome-algorand.md) - An open-source, proof of stake blockchain and smart contract computing platform.
 
 ## Higher Education
 

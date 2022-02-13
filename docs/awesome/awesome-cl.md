@@ -339,6 +339,14 @@ processes. It has
 
 See also this [demo to use Java Swing from ABCL](https://github.com/defunkydrummer/abcl-jazz).
 
+Mobile
+------
+
+* [LispWork's mobile runtime](http://www.lispworks.com/products/lw4mr.html) - Android and iOs.  Proprietary.
+* [LQML](https://gitlab.com/eql/lqml) - a lightweight ECL binding to QML (both Qt5 and Qt6) derived from EQL5. LGPL and public domain.
+
+See also MOCL below, CL as a library for mobile devices (iOS, Android and OSX).
+
 
 Implementations
 ===============
@@ -547,6 +555,8 @@ Reference
 * [Common Lisp the Language](http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html) - The original standard for Common Lisp before the ANSI spec.
 * [Minispec](https://lamberta.github.io/minispec/) - A friendlier, but less-complete, version of CLHS. Also contains documentation for some commonly-used CL libraries (such as Alexandria).
 * [Simplified Common Lisp reference](http://jtra.cz/stuff/lisp/sclr/index.html) - The simplified version of CLHS.
+* [CDR](https://cdr.common-lisp.dev/) - Common Lisp Document Repository. a repository of documents that are of interest to the Common Lisp community. The most important property of a CDR document is that it will never change: if you refer to it, you can be sure that your reference will always refer to exactly the same document.
+  - the Common Lisp Document Repository is hosted at [Zenodo](https://zenodo.org/communities/cdr/).
 
 ## Offline ##
 

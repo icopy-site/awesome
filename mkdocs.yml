@@ -459,6 +459,7 @@ nav:
     - Embedded and IoT Security: awesome/awesome-embedded-and-iot-security.md
     - GDPR: awesome/awesome-gdpr.md
     - DevOps: awesome/DevOps.md
+    - Executable Packing: awesome/awesome-executable-packing.md
     - Umbraco: awesome/awesome-umbraco.md
     - Refinery CMS: awesome/awesome-refinerycms.md
     - Wagtail: awesome/awesome-wagtail.md
@@ -517,6 +518,7 @@ nav:
     - Substrate: awesome/awesome-substrate.md
     - Golem: awesome/awesome-golem.md
     - Stacks: awesome/awesome-stacks-chain.md
+    - Algorand: awesome/awesome-algorand.md
   - Higher Education:
     - Computational Neuroscience: awesome/awesome-computational-neuroscience.md
     - Digital History: awesome/awesome-digital-history.md
