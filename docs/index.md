@@ -356,7 +356,7 @@
 - [Preact](awesome/awesome-preact.md) - App framework.
 - [Progressive Enhancement](awesome/progressive-enhancement-resources.md)
 - [Next.js](awesome/awesome-nextjs.md) - Framework for server-rendered React apps.
-- [lit-html](awesome/awesome-lit-html.md) - HTML templating library for JavaScript.
+- [lit](awesome/awesome-lit.md) - Library for building web components with a declarative template system.
 - [JAMstack](awesome/awesome-jamstack.md) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
 - [WordPress-Gatsby](awesome/awesome-wordpress-gatsby.md) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
 - [Mobile Web Development](awesome/awesome-mobile-web-development.md) - Creating a great mobile web experience.
@@ -844,5 +844,5 @@
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
-- [Awesome Viewer](http://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
+- [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.

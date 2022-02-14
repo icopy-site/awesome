@@ -1,8 +1,8 @@
-<div class="github-widget" data-repo="k6io/awesome-k6"></div>
+<div class="github-widget" data-repo="grafana/awesome-k6"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
   <a href="https://k6.io/">
-    <img src="https://raw.githubusercontent.com/k6io/awesome-k6/master/assets/bert.png" alt="k6 mascot" width="300px">
+    <img src="https://raw.githubusercontent.com/grafana/awesome-k6/master/assets/bert.png" alt="k6 mascot" width="300px">
   </a>
 
 <!--lint disable awesome-heading-->
@@ -14,7 +14,7 @@
 A collection of content by the community, on (testing with) <a href="https://k6.io/">k6</a>.
 
 
-Want to help in making this list better? Yay, that's awesome! Before you get started though, please have a look at our [code of conduct](https://github.com/k6io/awesome-k6/blob/master/code_of_conduct.md) and [contribution guidelines](https://github.com/k6io/awesome-k6/blob/master/contributing.md).
+Want to help in making this list better? Yay, that's awesome! Before you get started though, please have a look at our [code of conduct](https://github.com/grafana/awesome-k6/blob/master/code_of_conduct.md) and [contribution guidelines](https://github.com/grafana/awesome-k6/blob/master/contributing.md).
 
 
 
