@@ -4,11 +4,6 @@
 	<div>
 		<img width="500" src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/logo.svg?sanitize=true" alt="Awesome Node.js">
 		<br>
-		<br>
-		<br>
-		<h1><a href="https://posthog.com/blog/send-love-to-open-source">Send love to open-source projects</a></h1>
-		<br>
-		<br>
 	</div>
 	<br>
 	<hr>
