@@ -80,6 +80,7 @@ Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://sca
 - [Terraforming 1Password](https://blog.agilebits.com/2018/01/25/terraforming-1password/) - How 1Password migrated from CloudFormation to Terraform.
 - [Tutorial: How to Use Terraform to Deploy OpenStack Workloads](http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/) - Illustrates how easy it is to use the OpenStack Terraform provider to deploy a web server.
 - [Zero Downtime Updates with HashiCorp Terraform](https://www.hashicorp.com/blog/zero-downtime-updates-with-terraform) - Ensuring zero downtime of your infrastructure.
+- [Google Cloud Platform for 10$ a month using terraform](https://github.com/nufailtd/terraform-budget-gcp) - Shows how to use terraform to create a secure Google Kubernetes Cluster, Google Cloud Run Services and other infrastructure elements for less than [10$](https://nufailtd.github.io/budget-gcp/) a month.
 
 ### Multi-Environment Configuration
 
@@ -172,43 +173,52 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - Simple implementation of the Terraform registry protocols.
 - [terraform-registry](https://github.com/philips-labs/terraform-registry) - Serve terraform provider registry backed by GitHub releases.
 
+## Private Provider Registries
+
+- [terustry](https://github.com/veepee-oss/terustry) - Open Source terraform provider registry acting as a proxy for gitlab or github releases.
+
 ## Providers
 
-- [terraform-provider-alicloud](https://github.com/terraform-providers/terraform-provider-alicloud) - Plugin for Alibaba Cloud.
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Plugin for Amazon Web Services.
-- [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) - Plugin for Microsoft Azure.
+### Hashicorp supported providers
+
+- [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Plugin for Amazon Web Services.
+- [terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Plugin for Microsoft Azure.
+- [terraform-provider-docker](https://github.com/hashicorp/terraform-provider-docker) - Plugin for Docker.
+- [terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Plugin for Google Cloud Platform.
+- [terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) - Plugin for Helm.
+- [terraform-provider-kubernetes](https://github.com/hashicorp/terraform-provider-kubernetes) - Plugin for Kubernetes.
+- [terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere) - Plugin for VMware vSphere.
+
+### Vendor supported providers
+
+- [terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) - Plugin for Alibaba Cloud.
 - [terraform-provider-azuredevops](https://github.com/mikaelkrief/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
 - [terraform-provider-buildkite](https://github.com/buildkite/terraform-provider-buildkite) - Plugin for Buildkite.
 - [terraform-provider-checkly](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
 - [terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) - Plugin for Datadog.
-- [terraform-provider-digitalocean](https://github.com/terraform-providers/terraform-provider-digitalocean) - Plugin for DigitalOcean.
-- [terraform-provider-docker](https://github.com/terraform-providers/terraform-provider-docker) - Plugin for Docker.
+- [terraform-provider-digitalocean](https://github.com/digitalocean/terraform-provider-digitalocean) - Plugin for DigitalOcean.
 - [terraform-provider-dominos](https://github.com/ndmckinley/terraform-provider-dominos) - Provider for Dominos Pizza.
-- [terraform-provider-github](https://github.com/terraform-providers/terraform-provider-github) - Plugin for GitHub.
-- [terraform-provider-gitlab](https://github.com/terraform-providers/terraform-provider-gitlab) - Plugin for GitLab.
-- [terraform-provider-google](https://github.com/terraform-providers/terraform-provider-google) - Plugin for Google Cloud Platform.
+- [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Plugin for GitHub.
+- [terraform-provider-gitlab](https://github.com/gitlabhq/terraform-provider-gitlab) - Plugin for GitLab.
 - [terraform-provider-graphql](https://github.com/sullivtr/terraform-provider-graphql) - Plugin for GraphQL queries and mutations.
-- [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) - Plugin for Hetzner Cloud.
+- [terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Plugin for Hetzner Cloud.
 - [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) - Provider to manage healthchecks.io resources.
-- [terraform-provider-helm](https://github.com/terraform-providers/terraform-provider-helm) - Plugin for Helm.
 - [terraform-provider-heroku](https://github.com/heroku/terraform-provider-heroku) - Plugin for Heroku.
 - [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - Plugin for IBM Cloud.
 - [terraform-provider-k8s](https://github.com/banzaicloud/terraform-provider-k8s) - Simple Kubernetes Provider, works with any manifest.
 - [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) - Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
-- [terraform-provider-kubernetes](https://github.com/terraform-providers/terraform-provider-kubernetes) - Plugin for Kubernetes.
 - [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - Plugin for Linode.
-- [terraform-provider-openstack](https://github.com/terraform-providers/terraform-provider-openstack) - Plugin for OpenStack.
+- [terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Plugin for OpenStack.
 - [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Provider to manage Pingdom resources.
 - [terraform-provider-rancher2](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
 - [terraform-provider-secrethub](https://github.com/secrethub/terraform-provider-secrethub) - Provider for SecretHub.
 - [terraform-provider-snowflake](https://github.com/chanzuckerberg/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
 - [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) - Manage [Spinnaker](https://www.spinnaker.io/) applications and pipelines with Terraform.
-- [terraform-provider-spotinst](https://github.com/terraform-providers/terraform-provider-spotinst) - Devops automation platform for AWS, Azure, GCP.
+- [terraform-provider-spotinst](https://github.com/spotinst/terraform-provider-spotinst) - Devops automation platform for AWS, Azure, GCP.
 - [terraform-provider-stripe](https://github.com/franckverrot/terraform-provider-stripe) - Provider for Stripe.
 - [terraform-provider-ucloud](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
 - [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - Provider to manage uptimerobot resources.
 - [terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git.
-- [terraform-provider-vsphere](https://github.com/terraform-providers/terraform-provider-vsphere) - Plugin for VMware vSphere.
 
 ## Testing
 
@@ -315,6 +325,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 ## Boilerplates
 
 - [Terraform Generator](https://github.com/sudokar/generator-tf-module) - Scaffolding for a new terraform module or project with support of test frameworks (terratest and kitchen-terraform)
+- [Terraform GitOps Framework](https://www.kubestack.com) - Everything you need to build reliable automation for AKS, EKS and GKE Kubernetes clusters in one free and open-source framework.
 
 ## Terraform Enterprise
 
