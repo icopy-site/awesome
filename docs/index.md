@@ -188,7 +188,6 @@
 - [Raspberry Pi](awesome/awesome-raspberry-pi.md) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 - [Qt](awesome/awesome-qt.md) - Cross-platform GUI app framework.
 - [WebExtensions](awesome/Awesome-WebExtensions.md) - Cross-browser extension system.
-- [RubyMotion](awesome/awesome-rubymotion.md) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
 - [Smart TV](awesome/awesome-smart-tv.md) - Create apps for different TV platforms.
 - [GNOME](awesome/awesome-gnome.md) - Simple and distraction-free desktop environment for Linux.
 - [KDE](awesome/awesome-kde.md) - A free software community dedicated to creating an open and user-friendly computing experience.

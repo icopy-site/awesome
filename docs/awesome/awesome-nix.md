@@ -117,8 +117,10 @@
 ### PHP
 
 * [composer2nix](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
+* [composer-plugin-nixify](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging.
 * [composition-c4](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
 * [nix-phps](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
+* [nix-shell](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
 
 ### PureScript
 
@@ -150,6 +152,7 @@
 
 ## NixOS Modules
 
+* [base16.nix](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 * [musnix](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
 * [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - A Nixpkgs extension with a focus on ease of deployment of web-related technologies.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
