@@ -74,6 +74,7 @@
 - [PSR-15](https://github.com/cherifGsoul/inertia-psr15)
 - [Rust](https://github.com/stuarth/inertia-rs)
 - [Oak (Deno)](https://github.com/jcs224/oak_inertia)
+- [Echo](https://github.com/kohkimakimoto/inertia-echo)
 
 ## Resources
 
@@ -113,6 +114,7 @@
 - [Ping CRM / React](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
 - [Ping CRM / Clojure](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
 - [Ping CRM / Flask](https://github.com/j0ack/pingcrm-flask) - Demonstration application made with Flask and Vue.js.
+- [Ping CRM / Echo](https://github.com/kohkimakimoto/pingcrm-echo) - Demonstration application made with Echo and Vue.js.
 
 ### Other
 
