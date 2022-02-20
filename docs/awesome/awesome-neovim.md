@@ -205,6 +205,7 @@ Neovim supports a wide variety of UI's.
 - [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme template that is "lite" on logic for the developer.
 <!--lint ignore double-link-->
 - [mini.base16](https://github.com/echasnovski/mini.nvim#minibase16) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) with fast implementation of base16 theme for manually supplied palette.
+- [ThemerCorp/themer.lua](https://github.com/themercorp/themer.lua) - A simple highlighter plugin for neovim. It has a huge collection of colorschemes. It also has ability to create colorschemes for vim/neovim and other supported apps (such as kitty and alacritty).
 
 ### Colorscheme
 
@@ -530,6 +531,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 - [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to autoclose and autorename xml,html,jsx tag.
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - A minimalist autopairs for Neovim written by Lua.
+- [ZhiyuanLck/smart-pairs](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs for Neovim written by Lua.
 - [steelsojka/pears.nvim](https://github.com/steelsojka/pears.nvim) - Auto pair plugin for Neovim.
 <!--lint ignore double-link-->
 - [mini.pairs](https://github.com/echasnovski/mini.nvim#minipairs) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) for autopairs which has minimal defaults and functionality to do per-key mapping.

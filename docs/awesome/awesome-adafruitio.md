@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="adafruit/awesome-adafruitio"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h1 align="center">
-  <a href="http://io.adafruit.com">
+  <a href="https://io.adafruit.com">
   <img width="600" src="https://raw.githubusercontent.com/adafruit/awesome-adafruitio/master/awesome_io.png" alt="Awesome AdafruitIO"></a><br>Awesome Adafruit IO
 </h1>
 
@@ -9,7 +9,7 @@
 
 > A curated list of awesome Adafruit IO guides, hardware, guides, videos, libraries, frameworks, and resources.
 
-[Adafruit IO is the easiest way to connect your project to the internet](http://io.adafruit.com). You can easily connect your project to Adafruit IO with your device-of-choice by using your programming language of choice (we have _lots_ of libraries) and control or monitor over the internet. Data stored with Adafruit IO is _yours_ to manage and control. You can download it all anytime and we will never sell or give it away to another company. It's great for getting started with the internet of things!
+[Adafruit IO is the easiest way to connect your project to the internet](https://io.adafruit.com). You can easily connect your project to Adafruit IO with your device-of-choice by using your programming language of choice (we have _lots_ of libraries) and control or monitor over the internet. Data stored with Adafruit IO is _yours_ to manage and control. You can download it all anytime and we will never sell or give it away to another company. It's great for getting started with the internet of things!
 
 
 
@@ -52,16 +52,16 @@ Adafruit IO is compatible with _any_ hardware which can communicate over HTTP or
 
 ## News
 
-- [Adafruit IO on Hackaday](https://hackaday.com/tag/adafruit-io) - Hackaday posts related to Adafruit IO.
+- [Adafruit IO on Hackaday](https://hackaday.com/tag/adafruit-io/) - Hackaday posts related to Adafruit IO.
 - [Adafruit IO on Hackster.io](https://blog.hackster.io/search?q=adafruit_io) - Hackster posts related to Adafruit IO.
 
 ## Social
 
-- [Adafruit IO Development Blog](https://io.adafruit.com/blog) - Adafruit IO News and Release Notes, straight from the source.
+- [Adafruit IO Development Blog](https://io.adafruit.com/blog/) - Adafruit IO News and Release Notes, straight from the source.
 - [#AdafruitIO tagged on Twitter, latest](https://twitter.com/search?f=tweets&vertical=default&q=%23AdafruitIO&src=tyah) - Twitter posts tagged Adafruit IO.
 - [Adafruit IO Twitter](https://twitter.com/adafruitio) - Twitter account aggregator for Adafruit IO news and more.
 - [AdafruitIO videos on YouTube, latest](https://www.youtube.com/results?sp=CAI%253D&search_query=adafruitio) - YouTube posts tagged AdafruitIO.
-- [#AdafruitIO tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/adafruitio) - Posts on Instagram tagged Adafruit IO.
+- [#AdafruitIO tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/adafruitio/) - Posts on Instagram tagged Adafruit IO.
 - [Adafruit IO on Google+ Makers, hackers, artists & engineers](https://plus.google.com/u/0/communities/112845006884148391862/stream/470b18f9-8f51-45c6-8057-91ad72c35279) - Google Plus posts related to Adafruit IO.
 - [Adafruit IO community on Reddit](https://www.reddit.com/r/adafruitio) - Dedicated home of Adafruit IO on reddit /r/adafruitio.
 - [Adafruit IO tagged on Reddit](https://www.reddit.com/search?q=adafruit%20io&t=year) - Reddit posts relating to Adafruit IO.
@@ -79,6 +79,6 @@ Contributions and suggestions are always welcome! Please make pull requests to m
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
