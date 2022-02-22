@@ -345,9 +345,9 @@ Featured playlists: `NES Emulator From Scratch`, `Interesting Programming`, `Cod
 Content about: C#, WPF, .NET \
 Featured playlists: `Full Stack WPF MVVM`, `WPF Navigation`, `WPF Responsive Design`, `WPF Custom Controls`, `Design Patterns`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/IK1hbh8eXMeH_Qpn7DFy-nVDe_27MxVb6a8Y5zWrXBdosUkZCYvvk5CvmjkpWU9M-zONaoa2-A=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/BinaryBunny)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/RGcZ5Ius9F9RV2nRpslSWc71ayzFGVWUiyAoPYWITx-mBoJwkPAHVqva6zgqGgSeJtgXmSukgd4=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCOoKt2u-bE1NuELXSFaEdUw)
 
-[**BinaryBunny**](https://www.youtube.com/c/BinaryBunny) \
+[**Payload**](https://www.youtube.com/channel/UCOoKt2u-bE1NuELXSFaEdUw) \
 Content about: C#, WPF, .NET \
 Featured playlists: `How To Program in C#`, `videos creating C#-based apps`. \
 <br/>
@@ -456,7 +456,7 @@ Featured playlists: `React.js Tutorials`, `HTML, CSS & JavaScript Tutorials`, `v
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwAle-GCzklNOEXi8fYqoby3omwcM0dV_EK008LGg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AngularFirebase)
 
-[**Fireship**](https://www.youtube.com/c/AngularFirebase) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+[**Fireship**](https://www.youtube.com/c/Fireship) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: JavaScript, Flutter, Firebase \
 Featured playlists: `100 Seconds of Code`, `Angular Essentials`, `Flutter`, `Frontend Mini Projects`. \
 <br/>
