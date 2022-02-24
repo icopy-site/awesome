@@ -43,6 +43,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Algorand Ballet](https://akaalias.github.io/algorand-ballet/) - Algorand accounts' 2D graphs.
 - [Algorand Multiverse](https://algo3d.live/) - Algorand accounts' 3D graphs.
 - [Algoscan](https://algoscan.app/) - Algoscan is a Blockchain Explorer and Analytics Platform. Built on top of the Algorand Network.
+- [Asalytic](https://www.asalytic.app/) - Analyze the Algorand NFT space.
 
 ## Portfolio Trackers
 
@@ -179,6 +180,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Yieldly](https://yieldly.finance/) - DeFI suite for cross-chain swapping, ASA staking and lottery games.
 - [Tinyman](https://tinyman.org/) - A decentralized trading protocol, AMM and platform.
 - [Algofi](https://www.algofi.org/) - Decentralized lending market and stablecoin on the Algorand blockchain.
+- [Pact](https://www.pact.fi/) - Decentralised Automated Market Maker (AMM) built on the Algorand protocol.
 - [Lofty.ai](https://www.lofty.ai/) - Tokenized real estate investing platform.
 - [Folks.finance](https://folks.finance/) - Decentralized capital markets protocol.
 - [C3](https://c3.io/) - Cross-margin cross-collateralization clearing engine protocol.

@@ -18,6 +18,9 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Handbook on European data protection law ](https://publications.europa.eu/en/publication-detail/-/publication/5b0cfa83-63f3-11e8-ab9c-01aa75ed71a1) - Handbook issued by EU.
 * EDPS: [Factsheets](https://edps.europa.eu/data-protection/our-work/our-work-by-type/factsheets_en) - Factsheets from EU Data Protection Supervisor.
   
+## Rights of the data subject (art. 12 - 23)
+* [Open source privacy notice template (Juro)](https://github.com/juro-privacy/free-privacy-notice)
+
 ## Privacy by Design - Guides for developers (art. 25)
 * [CNIL - GDPR Developer Guide](https://github.com/LINCnil/GDPR-Developer-Guide)
 * [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/innebygd-personvern/data-protection-by-design-and-by-default/)
