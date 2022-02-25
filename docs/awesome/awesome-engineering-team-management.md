@@ -827,7 +827,7 @@ Stepping stones advancing a career in a company takes the form of promotions. Th
 
 - [How to discipline overeager engineer](https://workplace.stackexchange.com/questions/145709/how-to-discipline-overeager-engineer) - Over-achieving talent is looking for a management promotion. Management does not recognize effort. Engineer become disgruntled and management is looking to discipline him. A case-study of a bad situation in which both side shows clumsiness.
 
-- “Most people realize by their 30s that prestige is a sucker's game” ([source](https://news.ycombinator.com/item?id=11833832)) - So not chase promotion for the title only.
+- “Most people realize by their 30s that prestige is a sucker's game” ([source](https://news.ycombinator.com/item?id=11833832)) - Do not chase promotion for the title only.
 
 - [For all you future CTOs, consider your incentive schemes carefully](https://news.ycombinator.com/item?id=24463676) - How a promotion scheme marked the end of Uber's engineering excellence and the start of what made the company turn into a bureaucratic mess.
 
@@ -916,6 +916,8 @@ Here we are, at the intersection of power and influence lies the political game.
 - [US spy manual has tips for coping with toxic bosses](https://qz.com/work/1717297/how-to-cope-with-a-toxic-boss-according-to-a-us-spy-manual-from-wwii/) - Derived from WWII-era [Simple Sabotage Field Manual](https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf), a classic read to spot harassing and demoralizing behaviors.
 
 - [4 Clues to Identify a Destructive Leader](https://articles.tilt365.com/identify-destructive-leadership-patterns/) - “1. I'm kind of a big deal\! 2. None of this is my fault\! 3. Just do what I say\! 4. Trust me; I'm never wrong.”
+
+- “The president of MIT told me that tenure was not about research, productivity, or merit. It was about office politics & being liked by your department.” ([source](https://threadreaderapp.com/thread/1494369809538195456.html)) - Contemplating to switch from the industry? The grass is not greener in academia. Given a significant size, any organization comes with its political game.
 
 ## Re-organizations
 

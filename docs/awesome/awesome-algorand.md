@@ -48,6 +48,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 ## Portfolio Trackers
 
 - [Algogator.Finance](https://algogator.finance/) - Track or search assets, rewards, yield farming, transactions, and NFTs on the Algorand blockchain anywhere and anytime. Built by [@TeamAlgogator](https://twitter.com/TeamAlgogator).
+- [ASA Stats](https://www.asastats.com/) - One-stop portfolio tracker used to summarize Algorand asset valuations from up to five wallet addresses.
 
 ## Learning
 
@@ -238,7 +239,6 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Algorand Mempool](https://www.iamnotabot.com/pool) - Algorand mempool explorer.
 - [Metrika](https://app.metrika.co/dashboard/algorand/) - Algorand network performance and account monitor.
 - [Algorand Stats](https://www.algorandstats.com/) - All stats about Algorand Governance.
-- [ASA Stats](https://www.asastats.com/) - All Algorand assets on one dashboard.
 
 ## Contributing
 
