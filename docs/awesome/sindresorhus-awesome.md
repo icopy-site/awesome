@@ -4,9 +4,6 @@
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
 	<br>
 	<br>
-	<h1><a href="https://www.producthunt.com/posts/speediness">Check out my internet connection speed test app </a></h1>
-	<br>
-	<br>
 	<hr>
 	<p>
 		<p>
@@ -404,6 +401,7 @@
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
 - [CDK](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
 - [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+- [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 
 ## Computer Science
 
