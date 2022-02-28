@@ -65,6 +65,8 @@ Please note * indicates that the package is commercial or may require a license 
 
 * [uSync](https://our.umbraco.org/projects/developer-tools/usync/) - Syncing tool for reading and writing the database elements to disk.
 * [Diplo God Mode](https://our.umbraco.com/packages/developer-tools/diplo-god-mode/) - Exposes a lot of information for developers.
+* [DateFolders](https://our.umbraco.com/packages/developer-tools/datefolders/) - Creates Datefolders (year/month(/day)) for the specified doctype for Umbraco
+* [AlphabetFolders](https://our.umbraco.com/packages/developer-tools/alphabetfolders/) - Creates AlphabetFolders for the specified doctype for Umbraco
 
 ### Deployment
 
