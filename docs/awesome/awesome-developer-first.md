@@ -3,7 +3,7 @@
 ## Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-A curated list of awesome developer-first tools and products.  
+A curated list of awesome developer-first products.  
 I'm sure that you'd like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter), check it out!  
 You can follow me on [Twitter](https://twitter.com/agammore) for more dev related content :) 
 
@@ -63,6 +63,7 @@ The definition of developer-first for this repo is:
 * [CloudSight](https://cloudsight.ai/) - Digital media brand recognition.
 * [Google Vision AI](https://cloud.google.com/vision) - Google's AI vision APIs.
 * [roboflow](https://roboflow.com/) - Simplified computer vision model creation for developers.
+* [Scanbot SDK](https://scanbot.io/) - Structured data extraction from images for applications.
 
 ## Databases & Spreadsheets
 *Storing data and processing it.*
