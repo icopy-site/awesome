@@ -571,6 +571,7 @@ Table of Contents
 
   * [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings and collaborators for Open Source
   * [gitlocalize.com](https://gitlocalize.com) - Free and unlimited for both private and public repositories
+  * [Lecto](https://lecto.ai/) - Machine Translation API with Free tier (30 free requests, 1000 translated characters per request). Integrated with Loco Translate Wordpress plugin.
   * [lingohub.com](https://lingohub.com/) — Free up to 3 users, always free for Open Source
   * [localazy.com](https://localazy.com) - Free for 1000 source language strings, unlimited languages, unlimited contributors, startup and open source deals
   * [Localeum](https://localeum.com) - Free up to 1000 strings, 1 user, unlimited languages, unlimited projects
@@ -640,6 +641,7 @@ Table of Contents
   * [lean20.com](https://lean20.com/product/status/) - Public status pages for incident reporting. 100% free.
   * [instatus.com](https://instatus.com) - Get a beautiful status page in 10 seconds. Free forever with unlimited subs and unlimited teams.
   * [Squadcast.com](https://squadcast.com) - Squadcast is an end-to-end incident management software that's designed to help you promote SRE best practices. Free forever plan available for upto 10 users.
+  * [RoboMiri.com](https://robomiri.com/) - RoboMiri is a stable uptime monitor that offer a wide range of monitors: cronjob, keyword, website, port, ping. 25 uptime checks with a 3 minutes interval checks for free. Alerts via Phone Call, SMS, Email and Web Hook.
 
 
 ## Crash and Exception Handling
@@ -1282,6 +1284,7 @@ Table of Contents
    * [VSCodium](https://vscodium.com/) - Community-driven, without telemetry/tracking, and freely-licensed binary distribution of Microsoft’s editor VSCode
    * [wakatime.com](https://wakatime.com/) — Quantified self-metrics about your coding activity, using text editor plugins, limited plan for free.
    * [WebComponents.dev](https://webcomponents.dev/) — In-browser IDE to code web components in isolation with 58 templates available, supporting stories and tests.
+   * [PHPSandbox](https://phpsandbox.io/) — Online developement environment for PHP.
 
 
 ## Analytics, Events and Statistics
