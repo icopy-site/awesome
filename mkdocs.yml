@@ -32,8 +32,6 @@ nav:
       - eBPF: awesome/awesome-ebpf.md
       - Arch-based Projects: awesome/Awesome-Arch.md
       - AppImage: awesome/awesome-appimage.md
-    - macOS: awesome/awesome-macOS.md
-    - macOS_sub: 
       - Screensavers: awesome/awesome-macos-screensavers.md
       - Apps: awesome/awesome-mac.md
       - Open Source Apps: awesome/open-source-mac-os-apps.md
