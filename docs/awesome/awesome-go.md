@@ -1851,7 +1851,6 @@ _Libraries and tools for templating and lexing._
 
 - [ace](https://github.com/yosssi/ace) - Ace is an HTML template engine for Go, inspired by Slim and Jade. Ace is a refinement of Gold.
 - [amber](https://github.com/eknkc/amber) - Amber is an elegant templating engine for Go Programming Language It is inspired from HAML and Jade.
-- [damsel](https://github.com/dskinner/damsel) - Markup language featuring html outlining via css-selectors, extensible via pkg html/template and others.
 - [ego](https://github.com/benbjohnson/ego) - Lightweight templating language that lets you write templates in Go. Templates are translated into Go and compiled.
 - [extemplate](https://github.com/dannyvankooten/extemplate) - Tiny wrapper around html/template to allow for easy file-based template inheritance.
 - [fasttemplate](https://github.com/valyala/fasttemplate) - Simple and fast template engine. Substitutes template placeholders up to 10x faster than [text/template](https://golang.org/pkg/text/template/).
@@ -1861,10 +1860,8 @@ _Libraries and tools for templating and lexing._
 - [goview](https://github.com/foolin/goview) - Goview is a lightweight, minimalist and idiomatic template library based on golang html/template for building Go web application.
 - [hero](https://github.com/shiyanhui/hero) - Hero is a handy, fast and powerful go template engine.
 - [jet](https://github.com/CloudyKit/jet) - Jet template engine.
-- [kasia.go](https://github.com/ziutek/kasia.go) - Templating system for HTML and other text documents - go implementation.
 - [liquid](https://github.com/osteele/liquid) - Go implementation of Shopify Liquid templates.
 - [maroto](https://github.com/johnfercher/maroto) - A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.
-- [mustache](https://github.com/hoisie/mustache) - Go implementation of the Mustache template language.
 - [pongo2](https://github.com/flosch/pongo2) - Django-like template-engine for Go.
 - [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it.
 - [raymond](https://github.com/aymerick/raymond) - Complete handlebars implementation in Go.
@@ -1872,7 +1869,6 @@ _Libraries and tools for templating and lexing._
 - [Soy](https://github.com/robfig/soy) - Closure templates (aka Soy templates) for Go, following the [official spec](https://developers.google.com/closure/templates/).
 - [sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [tbd](https://github.com/lucasepe/tbd) - A really simple way to create text templates with placeholders - exposes extra builtin Git repo metadata.
-- [velvet](https://github.com/gobuffalo/velvet) - Complete handlebars implementation in Go.
 
 
 ## Testing

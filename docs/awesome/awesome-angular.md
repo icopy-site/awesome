@@ -113,6 +113,7 @@ Table of contents:
 * [Alex Inkin](https://twitter.com/waterplea)
 * [Santosh Yadav](https://twitter.com/SantoshYadavDev)
 * [Ankit](https://twitter.com/ankitsharma_007)
+* [Siddharth Ajmera](https://twitter.com/SiddAjmera)
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering
@@ -419,6 +420,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Augury](https://augury.rangle.io/) - Browser extension for debugging and profiling Angular applications.
 * [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
 * [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
+* [Angular Dev Tools](https://angular.io/guide/devtools/) - Angular DevTools is a Chrome extension that provides debugging and profiling capabilities for Angular applications.
 
 #### TodoMVC
 
@@ -587,6 +589,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-cache](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
 * [universal-model-angular](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular
 * [ng-http-caching](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
+* [ng-simple-state](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 
 #### Tables
 
@@ -675,7 +678,10 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-linkifyjs](https://github.com/AnthonyNahas/ngx-linkifyjs) - Angular V6 wrapper for linkifyjs - library for finding links in plain text and converting them to HTML <a> tags via linkifyjs
 * [ngx-meta](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
 * [ngx-wheel](https://github.com/Sayegh7/ngx-wheel) - Angular prize winning wheel component!
+* [@tolgee/ngx](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
 * [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
+* [ng-let](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
+* [ng-for-track-by-property](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
 
 ### JAM Stack
 
@@ -732,7 +738,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [angular2-demo](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
 * [Angular 2 Dashboard Starter](https://github.com/hasanhameed07/angular2-dashboard-starter) - Ready to use dashboard control panel seed project based on Angular 2 and AdminLTE bootstrap theme.
 * [ngx-admin](https://github.com/akveo/ngx-admin) - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+)
-* [Angular 2 quickstart seed](https://github.com/valor-software/angular2-quickstart)
 * [Angular 2 full code coverage](https://github.com/danday74/angular2-coverage) - Solid tested SystemJS and gulp workflow ready for your code using Angular2 final release (2.1.0) .. Demonstrates unit
   and full code coverage
 * [Angular 2 webpack](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
