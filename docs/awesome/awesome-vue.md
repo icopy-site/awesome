@@ -310,6 +310,7 @@
 - [Vuejs Authentication Tutorial](https://www.loginradius.com/blog/async/implementing-authentication-on-vuejs-using-jwt/) on LoginRadius blog
 - [Add a prebuilt video chat widget to any Vue app with daily-js](https://www.daily.co/blog/build-a-video-chat-app-with-vue-and-daily-prebuilt/) by Jess Mitchell, via Daily (August 2021)
 - [Build a custom video chat app with daily-js and Vue](https://www.daily.co/blog/custom-video-chat-app-with-daily-and-vue/) by Jess Mitchell, via Daily (November 2021)
+- [Vue Pwa: Build a Progressive Web Application With Nuxt](https://snipcart.com/blog/vue-pwa-development) on Snipcart
 
 ### Examples
 
@@ -1743,6 +1744,8 @@ _Display non-editable events in a Calendar_
 - [vue-easter-egg-trigger](https://github.com/webdevnerdstuff/vue-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue site.
 - [vue-word-highlighter](https://github.com/kawamataryo/vue-word-highlighter) - The word highlighter library for Vue 2 and Vue 3.
 - [vue3-emoji-picker](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
+- [vue-mathjax](https://github.com/justforuse/vue-mathjax) - A Vue.js Plugin for Mathjax
+- [vue-mathjax-next](https://github.com/justforuse/vue-mathjax-next) - A Vue 3 plugin for Mathjax
 
 #### Tabs
 
