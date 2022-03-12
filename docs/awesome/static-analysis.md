@@ -90,7 +90,6 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
     <li><a href="#swift">Swift</a></li>
     <li><a href="#tcl">Tcl</a></li>
     <li><a href="#typescript">TypeScript</a></li>
-    <li><a href="#vbscript">VBScript</a></li>
     <li><a href="#verilog">Verilog/SystemVerilog</a></li>
     <li><a href="#vim-script">Vim Script</a></li>
     </ul>
@@ -654,11 +653,6 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [tslint-microsoft-contrib](https://github.com/Microsoft/tslint-microsoft-contrib) :warning: — A set of tslint rules for static code analysis of TypeScript projects maintained by Microsoft.
 - [TypeScript Call Graph](https://github.com/whyboris/TypeScript-Call-Graph) — CLI to generate an interactive graph of functions and calls from your TypeScript files
 - [TypeScript ESLint](https://github.com/typescript-eslint/typescript-eslint) — TypeScript language extension for eslint.
-
-
-<h2 id="vbscript">VBScript</h2>
-
-- [Test Design Studio](http://patterson-consulting.net/tds) :copyright: — A full IDE with static code analysis for Micro Focus Unified Functional Testing VBScript-based automated tests.
 
 
 <h2 id="verilog">Verilog/SystemVerilog</h2>
