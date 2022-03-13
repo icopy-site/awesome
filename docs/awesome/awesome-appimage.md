@@ -56,6 +56,7 @@
 - [LinuxPA](https://github.com/CalebQ42/LinuxPA) - PortableApps.com type launcher for Linux with AppImage support.
 - [AppImage Desktop Maker](https://github.com/Alexsussa/AIDM) - Creates menu entries for AppImages without the need for a daemon.
 - [Thumbnailer for AppImages](https://github.com/mttbernardini/appimage-thumbnailer) - Generates icons for AppImages that are shown in file managers of GNOME and KDE compatible desktop environments.
+- [XApp Thumbnailers] - Thumbnailers for GTK Desktop Environments, including one for the AppImage file format. Makes Gtk based file managers like Caja (MATE), Nautilus (GNOME), Nemo (Cinnamon), PCManFM (LXDE), and Thunar (Xfce) show application icons on AppImages.
 - [AppImage To Gnome](https://github.com/DejfCold/ATG) - Monitors and (de)installs AppImages from the Gnome desktop.
 
 ### Updaters
@@ -121,6 +122,7 @@ Although the AppImage format was carefully designed not to need any special supp
 ### Deployment tools for Electron applications
 
 - [electron-builder](https://github.com/electron-userland/electron-builder) - Supports AppImage as an output format.
+- [electron-forge-maker-appimage](https://github.com/saleae/electron-forge-maker-appimage) - Electron Forge builder for AppImage.
 - [Appnativefy](https://github.com/sarweshparajuli/appnativefy) - Create AppImage with embedded Electron browser from any website.
 
 ### Deployment tools for Windows applications

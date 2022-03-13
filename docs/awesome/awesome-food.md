@@ -25,6 +25,7 @@
 - [Genetic-Soylent](https://github.com/nick/genetic-soylent) - This project generates soylent recipes based on genetic algorithms.
 - [hasgluten](https://github.com/hasgluten/hasgluten) - Quick and Accurate Gluten-Free Foods List.
 - [diy-proofing-box](https://github.com/hendricius/diy-proofing-box) - Build your own DIY proofing box for sourdough, yoghurt and pizza. Featuring a raspberry pi and night vision.
+- [Mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner.
 
 ## Cookbooks
 
