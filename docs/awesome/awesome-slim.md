@@ -58,6 +58,7 @@
 - [Slim Flash](https://github.com/slimphp/Slim-Flash) - Slim Framework flash messages service provider.
 - [Slim JSON API](https://github.com/entomb/slim-json-api) - Slim extension to implement fast JSON API's.
 - [Slim Validation](https://github.com/DavidePastore/Slim-Validation) - A validation library for the Slim Framework. 
+- [IntelliJ Slim](https://plugins.jetbrains.com/plugin/18751-slim) - Provides boilerplate codes for easier new project creation using skeleton.
 
 ## Contributing
 

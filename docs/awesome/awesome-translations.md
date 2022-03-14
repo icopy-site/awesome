@@ -29,6 +29,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [SimpleLocalize](https://simplelocalize.io) - A simple translation management for software projects.
 - [Respresso](https://respresso.io/) - Collaborative online resource manager for localizations, images, colors, etc. that generates platform-specific files and delivers them directly to your source code.
 - [PO file editor](https://pofile.net/free-po-editor) - A free tool for translating PO files for localization with Gettext.
+- [Tolgee](https://tolgee.io) - Open-source, developer & translator friendly platform enabling users to translate directly in the app they develop.
 
 ## Apps
 

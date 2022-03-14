@@ -8,9 +8,13 @@
 <br/>
 <div align="center">
 
-A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/) packages and resources. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/viatsko/awesome-vscode.svg)](https://travis-ci.org/viatsko/awesome-vscode)
+A curated list of delightful <a href="https://code.visualstudio.com/">Visual Studio Code</a>
+packages and resources. For more awesomeness, check
+out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
+<br/>
+<br/>
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>
+<img src="https://travis-ci.org/viatsko/awesome-vscode.svg" alt="Build Status"/>
 </div>
 <br/>
 
@@ -940,6 +944,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![Interface generator](https://raw.githubusercontent.com/dotupNET/dotup-vscode-interface-generator/master/images/video2.gif)
 
+## [JFrog](https://marketplace.visualstudio.com/items?itemName=JFrog.jfrog-vscode-extension)
+
+> Adds JFrog Xray scanning of project dependencies to your VS Code IDE. It allows developers to view panels displaying vulnerability information about the components and their dependencies directly in their VS Code IDE. The extension also allows developers to track the status of the code while it is being built, tested and scanned on the CI server.
+
+![JFrog](https://raw.githubusercontent.com/jfrog/jfrog-vscode-extension/master/resources/readme/gifs/show_in_dependency_tree.gif)
+
 ## Themes
 
 ## UI
@@ -1214,6 +1224,7 @@ A list of Twitter accounts for various people in the VS Code Community
 ## Libraries
 
 - [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
+- [typed-vscode](https://www.npmjs.com/typed-vscode) - Generates types from contribution points of your extension manifest
 
 ## Tools
 

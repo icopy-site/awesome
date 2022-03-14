@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="kakoni/awesome-healthcare"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Health [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Health [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Curated list of awesome open source healthcare software, libraries, tools and resources. Each link has been vetted to ensure the project is active and provides value to healthcare facilities, providers, developers, policy experts, and/or research scientists.
 
@@ -29,7 +29,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [openMAXIMS](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
   * [OpenMRS](https://openmrs.org) - Enterprise Electronic Medical Record System platform.
   * [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project.
-  * [Ripple](https://ripple.foundation/) -  NHS-funded, community led initiative working towards an integrated Digital Care Record Platform.
+  * [Ripple](https://www.ripple.foundation) -  NHS-funded, community led initiative working towards an integrated Digital Care Record Platform.
 
 ### Specifications
   * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources.
@@ -54,6 +54,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [3D Slicer](https://www.slicer.org) - Cross-platform application for analyzing, visualizing and understanding medical image data.
   * [Cornerstone](https://github.com/cornerstonejs/cornerstone) - Open source project with a goal to deliver a complete web based medical imaging platform.
   * [dcm4che](https://www.dcm4che.org/) - Clinical Image and Object Management.
+  * [Dicoogle](https://github.com/bioinformatics-ua/dicoogle) - Dicoogle is an extensible, platform-independent and open-source PACS
   * [Drishti](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer for both scientists and lay people.
   * [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
   * [DICOM Server](https://github.com/microsoft/dicom-server) - OSS Implementation of DICOMweb standard.
@@ -117,6 +118,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Python SMART on FHIR client](https://github.com/smart-on-fhir/client-py) - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol.
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
+  * [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
 
 ### Applications
   * [Intervention Engine](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
@@ -134,7 +136,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [FHIR Converter](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
   * [NextGen Connect Integration Engine](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration.
   * [OpenHIM](http://openhim.org/) - Health information mediator.
-  * [Open Source Mirth Transforms](https://github.com/daticahealth/Mirth-Transforms) - Open source transforms to make Mirthconnect-based integrations easier.
 
 ### Hardware
   * [echOpen](https://www.echopen.org) - Low-cost (affordable) echo-stethoscope.
@@ -167,9 +168,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   
 ### Machine learning
   * [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning.
-
-### Compliance
-  * [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) - Makes compliance as easy as possible for companies working with protected health information.
+  * [MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
 
 ### Asset Management
   * [Tapirx](https://github.com/virtalabs/tapirx) - Networked medical device discovery and identification.
