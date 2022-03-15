@@ -76,6 +76,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [Einshape](https://raw.githubusercontent.com/deepmind/einshape) - DSL-based reshaping library for JAX and other frameworks. <img src="https://img.shields.io/github/stars/deepmind/einshape?style=social" align="center">
 - [ALX](https://github.com/google-research/google-research/tree/master/alx) - Open-source library for distributed matrix factorization using Alternating Least Squares, more info in [_ALX: Large Scale Matrix Factorization on TPUs_](https://arxiv.org/abs/2112.02194).
 - [Diffrax](https://raw.githubusercontent.com/patrick-kidger/diffrax) - Numerical differential equation solvers in JAX. <img src="https://img.shields.io/github/stars/patrick-kidger/diffrax?style=social" align="center">
+- [tinygp](https://raw.githubusercontent.com/dfm/tinygp) - The _tiniest_ of Gaussian process libraries in JAX. <img src="https://img.shields.io/github/stars/dfm/tinygp?style=social" align="center">
 
 <a name="models-and-projects" />
 
