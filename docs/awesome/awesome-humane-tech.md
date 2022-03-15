@@ -173,7 +173,8 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [Wiper](https://github.com/davidahmed/wiper) - Firefox extension that strips Google search results based on a blocklist you define.
 - [EasyList](https://easylist.to/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/easylist/easylist) - Sets of rules that automatically remove unwanted content from the internet.
 - [Black Mirror](https://github.com/T145/black-mirror) - Automatically compiled and maintained malicious domain & IP blacklist.
-- [uBlacklist](https://iorate.github.io/ublacklist/docs) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/iorate/uBlacklist) - Browser extension to block specific sites from appearing in search engine results. 
+- [uBlacklist](https://iorate.github.io/ublacklist/docs) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/iorate/uBlacklist) - Browser extension to block specific sites from appearing in search engine results.
+- [PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist) - Smart-TV blocklists for Pi-Hole and AGH.
 
 ## Fediverse
 
@@ -205,6 +206,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Minimal Twitter](https://www.wang.sh/minimal-twitter) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/thomaswangio/minimal-twitter) - Minimal Theme for the new Twitter UI.
 - [Talk](https://coralproject.net/talk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/coralproject/talk) - An open-source commenting platform focused on better conversation.
 - [Invidious](https://invidious.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/iv-org/invidious) - An alternative front-end to YouTube without Ads.
+- [Beatbump](https://beatbump.ml) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/snuffyDev/Beatbump) - An alternative front-end for Youtube Music without Ads.
 - [Delta Chat](https://delta.chat/en) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/deltachat) - Decentralized Whatsapp-like chat via email, without the tracking and central control.
 - [Nitter](https://nitter.net) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/zedeus/nitter) - An alternative Twitter front-end focused on privacy.
 - [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/Booteille/Invidition) - Firefox extension that redirects YouTube and Twitter requests to their alternatives.
@@ -268,6 +270,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Gladys Assistant](https://gladysassistant.com/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/gladysassistant/gladys) - A privacy-first, open-source home assistant.
 - [OpenRGB](https://openrgb.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software.
 - [Jellyfin](https://jellyfin.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jellyfin/jellyfin) - A Software Media System that puts you in control of managing and streaming your media.
+- [OpenHAB](https://www.openhab.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/openhab) - A vendor and technology agnostic open source automation software for your home.
 
 ## Gamification
 
