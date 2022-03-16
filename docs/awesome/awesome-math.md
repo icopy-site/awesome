@@ -522,6 +522,9 @@ A curated list of awesome mathematics resources.
 * [Evan Chen](https://web.evanchen.cc/coursework.html) - MIT. 2012 ~ 2018. Covers Combinatorics, Number Theory, Honors Algebra, Set Theory, Real Analysis, Graph Theory, and more.
 * [Dexter Chua](https://dec41.user.srcf.net/notes/) - Harvard. 2013 ~ 2018. Covers Analysis, Probability, Linear Algebra, Complex Analysis, Numerical Analysis, Statistics, Optimization, Algebraic Topology, Quantum Field Theory, and more.
 
+## Related Awesome Lists
+* [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
