@@ -25,10 +25,10 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 - ITU Measuring digital development: Contains a snapshot of the most important ICT indicators, including estimates for the current year. ([2021](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2021.pdf)) ([2020](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2020.pdf)) 
 - Network Readiness Index - ([2021](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2021.pdf))([2020](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf)) ([2019](https://networkreadinessindex.org/2019/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf)) Network Readiness Index covering 121 economies from Portulans Institute
 - [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - (2019) Measures countries against four enablers of mobile internet adoption: Infrastructure, Affordability, Consumer Readiness and Content.
-- [A4AI Affordability Drivers Index](https://a4ai.org/affordability-report/data/?_year=2020&indicator=INDEX) - (2020) Index of internet affordability by the Alliance for Affordable Internet Access ([A4AI](https://a4ai.org)).
+- A4AI Affordability Drivers Index - ([2021](https://a4ai.org/affordability-report/data/?_year=2021&indicator=INDEX))([2020](https://a4ai.org/affordability-report/data/?_year=2020&indicator=INDEX)) - Index of internet affordability by the Alliance for Affordable Internet Access ([A4AI](https://a4ai.org)).
 - A4AI Mobile Broadband Data Costs - ([2020](https://a4ai.org/extra/baskets/A4AI/2020/mobile_broadband_pricing_gni))([Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)) Price of Broadband Data (1GB mobile prepaid) as % of GNI per capita.
-- [Facebook/EIU Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) - (2020) Index measuring internet connectivity against Availability, Affordability, Relevance and Readiness.
-- [Huawei Global Connectivity Index](http://www.huawei.com/minisite/gci/en/) - (2017) Snapshot of 50 nations’ "Digital Transformation" status measured against Supply, Demand, Experience and Potential.
+- [Facebook/EIU Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) - (2021) Index measuring internet connectivity against Availability, Affordability, Relevance and Readiness.
+- [Huawei Global Connectivity Index](https://www.huawei.com/minisite/gci/en/) - (2020) Snapshot of 50 nations’ "Digital Transformation" status measured against Supply, Demand, Experience and Potential.
 - [Cisco Visual Networking Index](https://www.cisco.com/c/en/us/solutions/service-provider/visual-networking-index-vni/index.html) - Forecast and Trends, 2017–2022 White Paper.
 - [ITU Broadband Atlas](https://www.itu.int/ITU-D/treg/atlas/broadbandatlas.asp) - (2010) Interactive infographic tool showcasing the status of broadband deployment worldwide and the regulatory landscape for broadband.
 - [InternetLiveStats](http://www.internetlivestats.com/internet-users-by-country/) - (2016) Internet Users by Country, interpolated from ITU, United Nations Population Division, Internet & Mobile Association of India (IAMAI), and World Bank data.
@@ -37,7 +37,7 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 - [World Economic Forum - Networked Readiness Index](http://reports.weforum.org/global-information-technology-report-2016/networked-readiness-index/) - (2016).
 - [UN E-Government Knowledge Database](https://publicadministration.un.org/egovkb/en-us/Data-Center) - (2016).
 - [BCG e-Intensity Index](https://www.bcg.com/publications/interactives/bcg-e-intensity-index.aspx) - (2015) Index developed by Boston Consulting Group looking at the maturity of 85 Internet economies based on three vectors: Enablement, Engagement, and Expenditure.
-- [Speedtest Global Index](http://www.speedtest.net/global-index) - (2018) Index of mobile and fixed broadband speeds from around the world on a monthly basis.
+- [Speedtest Global Index](http://www.speedtest.net/global-index) - (2022) Index of mobile and fixed broadband speeds from around the world on a monthly basis.
 - cable.co.uk's Worldwide Broadband Price Comparison - ([2021](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)) ([2019](https://www.cable.co.uk/broadband/speed/worldwide-speed-league/)) ([2018](https://www.cable.co.uk/broadband/pricing/worldwide-comparison/))  Index of broadband costs around the world based on fixed line/wireless access.
 
 ## Connectivity Maps
@@ -49,7 +49,6 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 - [Africa Bandwidth Maps](http://www.africabandwidthmaps.com/) - Paul Hamilton's map of African terrestrial fibre and microwave networks.
 - [Telegeography Submarine Cable Map](https://www.submarinecablemap.com/) - Interactive submarine fibre optic cables.
 - [Telegeography 2018 Submarine Cable Map](http://submarine-cable-map-2018.telegeography.com/) - (2018) Online of submarine fibre optic cables also available for purchase.
-- [Greg's Cable Map](http://cablemap.info/)
 - [ITU Interactive Transmission Map](http://www.itu.int/itu-d/tnd-map-public/) - Online map of terrestrial fibre and microwave networks from ITU.
 - [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/) - Somewhat dated but still useful map of mobile network coverage on country by country basis.
 - [Hurricane Electric 3D map](http://he.net/3d-map/) -  Interactive 3D map of undersea cables and Hurrican Electric Points of Presence (POPs) and routes.
@@ -84,14 +83,14 @@ A list of connectivity indexes, maps, and reports to help you better under who h
 
 - [e-Conomy Africa 2020](https://www.ifc.org/wps/wcm/connect/publications_ext_content/ifc_external_publication_site/publications_listing_page/google-e-conomy): Africa’s $180 Billion Internet Economy Future - IFC/Google sponsored report on Africa's internet economy
 - GSMA Mobile Economy - West Africa ([2019](https://www.gsma.com/r/mobileeconomy/west-africa/)) ([2018](https://www.gsma.com/subsaharanafrica/wp-content/uploads/2018/11/2018-04-11-e568fe9e710ec776d82c04e9f6760adb.pdf))
-- GSMA Mobile Economy - Sub-Saharan Africa ([2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/09/GSMA_MobileEconomy2020_SSA_Eng.pdf)) ([2018](https://policy.communitynetworks.group/_media/gsma_mobile_economy-ssa_2018.pdf))
-- [GSMA Mobile Economy - Latin America](https://www.gsma.com/r/mobileeconomy/latam/) (2018)
-- [GSMA Mobile Economy - Asia Pacific](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/06/GSMA_MobileEconomy_2020_AsiaPacific.pdf) (2020)
-- [GSMA Mobile Economy - Africa](https://www.gsma.com/mobileeconomy/africa/) (2016)
-- [African Telecommunications Infrastructure Development @manypossibilities.net](https://manypossibilities.net/series/africa-telecom-infrastructure/) (2019)
-- [RIA Africa Mobile Pricing (RAMP) Indices Portal](https://researchictafrica.net/ramp_indices_portal/) - (Q3 2018) Pricing information on Voice/SMS basket, 1GB data basket, and Value For Money bundles.
-- Opera - State of the Mobile Web Africa - [2016](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf).
-- [Ericsson Mobility Report - Sub-Saharan Africa](https://manypossibilities.net/report-archives/EricssonMobilityReport-nov-2015-regional-report-sub-saharan-africa.pdf) (2015)
+- GSMA Mobile Economy - Sub-Saharan Africa ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/09/GSMA_ME_SSA_2021_English_Web_Singles.pdf)) ([2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/09/GSMA_MobileEconomy2020_SSA_Eng.pdf)) ([2018](https://policy.communitynetworks.group/_media/gsma_mobile_economy-ssa_2018.pdf))
+- GSMA Mobile Economy - Latin America ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/11/GSMA_ME_LATAM_2021.pdf)) 
+- GSMA Mobile Economy - Asia Pacific ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/08/GSMA_ME_APAC_2021_Web_Singles.pdf)) [2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/06/GSMA_MobileEconomy_2020_AsiaPacific.pdf)
+- GSMA Mobile Economy - Africa [2016](https://www.gsma.com/mobileeconomy/africa/) 
+- African Telecommunications Infrastructure Development @manypossibilities.net - [2014-2021](https://manypossibilities.net/series/africa-telecom-infrastructure/)
+- RIA Africa Mobile Pricing (RAMP) Indices Portal - ([Q4 2021](https://researchictafrica.net/ramp_indices_portal/)) - Pricing information on Voice/SMS basket, 1GB data basket, and Value For Money bundles.
+- Opera - State of the Mobile Web Africa - ([2019](https://blogs.opera.com/news/wp-content/uploads/sites/2/2019/06/SMW_2019.pdf)) ([2016](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf)).
+- Ericsson Mobility Report - Sub-Saharan Africa - ([2015](https://manypossibilities.net/report-archives/EricssonMobilityReport-nov-2015-regional-report-sub-saharan-africa.pdf))
 - [Open Signal - State of Mobile Networks Reports](http://opensignal.com/reports/) - Report covers a potpourri of countries based on OpenSignal data gathering.
 - [Lions go digital: The Internet’s transformative potential in Africa](https://www.mckinsey.com/industries/high-tech/our-insights/lions-go-digital-the-internets-transformative-potential-in-africa) - (2013) Report by global consulting firm McKinsey on the potential impact of the Internet in Africa.
 
