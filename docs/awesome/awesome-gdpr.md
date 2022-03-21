@@ -25,6 +25,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [CNIL - GDPR Developer Guide](https://github.com/LINCnil/GDPR-Developer-Guide)
 * [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/innebygd-personvern/data-protection-by-design-and-by-default/)
 * [Data Pseudonymisation: Advanced Techniques and Use Cases](https://www.enisa.europa.eu/publications/data-pseudonymisation-advanced-techniques-and-use-cases/) - Report on pseudonymisation techniques from ENISA.
+* [Anonymisation, pseudonymisation and privacy enhancing technologies guidance - ICO](https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-call-for-views-anonymisation-pseudonymisation-and-privacy-enhancing-technologies-guidance/)
 
 ## Security (art. 32)
 * [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks.
@@ -42,6 +43,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Guidelines on Data Protection Impact Assessment (WP29)](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236)
 * [ISO-standard: Guidelines for privacy impact assessment](https://www.iso.org/standard/62289.html)
 * [DPIA template from ICO](https://iapp.org/resources/article/sample-dpia-template/)
+* [Public DPIA Teams OneDrive SharePoint and Azure AD](https://www.rijksoverheid.nl/documenten/publicaties/2022/02/21/public-dpia-teams-onedrive-sharepoint-and-azure-ad) -  DPIA of Microsoft Teams in combination with OneDrive, SharePoint Online and the Azure Active Directory.
 
 ## Tools
 * [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
@@ -64,6 +66,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [EPIC](https://epic.org/) - Electronic Privacy Information Center.
 * [Future of Privacy Forum](https://fpf.org/) - Catalyst for privacy leadership and scholarship, advancing principled data practices in support of emerging technologies.
 * [W3C Privacy Interest Group](https://www.w3.org/Privacy/) - Leading the web to its full potential.
+* [CISPE Code of Conduct](https://www.codeofconduct.cloud/) - Pan-European sector-specific code for cloud infrastructure service providers under Article 40.
 
 ## Publications
 * [GDPR Today](https://www.gdprtoday.org/) - Privacy news from the Open Rights Group.
@@ -79,6 +82,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Awesome: Privacy](https://github.com/pluja/awesome-privacy#readme) - List of free, open source and privacy respecting services and alternatives to privative services.
 * [Developers Guide to HIPAA Compliance](https://github.com/truevault/hipaa-compliance-developers-guide)
 * [Analytics without cookies](https://www.gocookieless.com/)
+* [European web analytics services](https://european-alternatives.eu/category/web-analytics-services)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

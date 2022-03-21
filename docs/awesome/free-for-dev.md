@@ -205,6 +205,7 @@ Table of Contents
   * [microenv.com](https://microenv.com) —  Create fake REST API for developers with possibility to generate code and app in docker container.
   * [neptune.ai](https://neptune.ai/) - Log, store, display, organize, compare and query all your MLOps metadata. Free for individuals: 1 member, 100 GB of metadata storage, 200h of monitoring/month
   * [News API](https://newsapi.org) — Search news on the web with code, get JSON results. Developers get 3,000 queries free each month.
+  * [Observable](https://observablehq.com/) — a place to create, collaborate, and learn with data. Free: Unlimited notebooks, Unlimited publishing, Five editors per notebook.
   * [OCR.Space](https://ocr.space/) — An OCR API which parses image and pdf files returning the text results in JSON format. 25,000 requests per month free.
   * [Duply.co](https://duply.co) — Create dynamic images from API & URL, design template once and reuse it. Free tier offers 70 images/month creation from API & URL and Up to 100 through Form.
   * [OpenAPI3 Designer](https://openapidesigner.com/) — Visually create Open API 3 definitions for free.
@@ -584,6 +585,7 @@ Table of Contents
   * [Texterify](https://texterify.com/) - Free for a single user
   * [transifex.com](https://www.transifex.com/) — Free for Open Source
   * [Translation.io](https://translation.io) - Free for Open Source
+  * [Translized](https://translized.com) - Free up to 1000 strings, 1 user, unlimited languages, unlimited projects
   * [webtranslateit.com](https://webtranslateit.com/) — Free up to 500 strings
   * [weblate.org](https://weblate.org/) — It's free for libre projects up to 10,000 string source for the free tier, and Unlimited Self-hosted on-premises.
   * [Free PO editor](https://pofile.net/free-po-editor) — Free for everybody
