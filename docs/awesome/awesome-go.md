@@ -1116,6 +1116,7 @@ _Libraries for programming devices of the IoT._
 
 _Libraries for scheduling jobs._
 
+- [cdule](https://github.com/deepaksinghvi/cdule) - Job scheduler library with database support
 - [cheek](https://github.com/datarootsio/cheek) - A simple crontab like scheduler that aims to offer a KISS approach to job scheduling.
 - [clockwerk](https://github.com/onatm/clockwerk) - Go package to schedule periodic jobs using a simple, fluent syntax.
 - [cronticker](https://github.com/krayzpipes/cronticker) - A ticker implementation to support cron schedules.
@@ -1491,6 +1492,7 @@ See also [Text Processing](#text-processing).
 - [RAKE.go](https://github.com/afjoseph/RAKE.Go) - Go port of the Rapid Automatic Keyword Extraction Algorithm (RAKE).
 - [snowball](https://github.com/goodsign/snowball) - Snowball stemmer port (cgo wrapper) for Go. Provides word stem extraction functionality [Snowball native](http://snowball.tartarus.org/).
 - [spaGO](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go.
+- [spelling-corrector](https://github.com/jorelosorio/spellingcorrector) - A spelling corrector for the Spanish language or create your own.
 
 ### Slugifiers
 
@@ -1928,6 +1930,7 @@ _Libraries for testing codebases and generating test data._
   - [fixenv](https://github.com/rekby/fixenv) - Fixture manage engine, inspired by pytest fixtures.
   - [flute](https://github.com/suzuki-shunsuke/flute) - HTTP client testing framework.
   - [frisby](https://github.com/verdverm/frisby) - REST API testing framework.
+  - [gherkingen](https://github.com/hedhyw/gherkingen) - BDD boilerplate generator and framework.
   - [ginkgo](https://onsi.github.io/ginkgo/) - BDD Testing Framework for Go.
   - [gnomock](https://github.com/orlangure/gnomock) - integration testing with real dependencies (database, cache, even Kubernetes or AWS) running in Docker, without mocks.
   - [go-carpet](https://github.com/msoap/go-carpet) - Tool for viewing test coverage in terminal.

@@ -6,7 +6,7 @@
 
 This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – the language and the modules. Not about naming conventions, architecture paradigms, frameworks, pre-processors, post-processors, CSS-in-JS or other aspects of todays CSS ecosystem.
 
-*Please read the [contribution guidelines](https://github.com/micromata/awesome-css-learning/blob/master/.github/contributing.md) before contributing.*
+*Please read the [contribution guidelines](https://github.com/micromata/awesome-css-learning/blob/master/./contributing.md) before contributing.*
 
 
 
@@ -37,7 +37,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 
 - [Basic CSS Selectors](https://www.sitepoint.com/css-selectors/) - An introducing to the very basic CSS selectors you need to know.
 - [Advanced CSS Selectors](https://www.smashingmagazine.com/2009/08/taming-advanced-css-selectors/) - Level up your knowledge. From attribute selectors to CSS3 pseudo classes.
-- [CSS Dinner](https://flukeout.github.io) - Learn how to use CSS selectors with this fun little game.
+- [CSS Diner](https://flukeout.github.io) - Learn how to use CSS selectors with this fun little game.
 
 ## Custom properties (aka CSS variables)
 

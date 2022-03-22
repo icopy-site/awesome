@@ -129,6 +129,7 @@ This project lists books and other resources grouped by genres:
 + [Hindi / हिंदी](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-hi.md)
 + [Indonesian / Bahasa Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-id.md)
 + [Italian / italiano](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-it.md)
++ [Japanese / 日本語](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ja.md)
 + [Kazakh / қазақша](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-kk.md)
 + [Khmer / ភាសាខ្មែរ](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-km.md)
 + [Korean / 한국어 [韓國語]](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ko.md)
