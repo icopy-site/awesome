@@ -133,6 +133,7 @@ Neovim supports a wide variety of UI's.
 - [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which _do what you mean_.
 <!--lint ignore double-link-->
 - [mini.surround](https://github.com/echasnovski/mini.nvim#minisurround) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) for working with text surroundings (add, delete, replace, find, highlight). Fully supports dot-repeat.
+- [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
 
 ### Terminal integration
 
@@ -310,6 +311,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [gaborvecsei/cryptoprice.nvim](https://github.com/gaborvecsei/cryptoprice.nvim) - Check the price of the defined cryptocurrencies.
 - [jghauser/fold-cycle.nvim](https://github.com/jghauser/fold-cycle.nvim) - Cycle folds open or closed.
 - [rgroli/other.nvim](https://github.com/rgroli/other.nvim) - Open alternative files for the current buffer.
+- [toppair/reach.nvim](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher for Neovim.
 
 ### Icon
 

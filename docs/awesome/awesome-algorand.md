@@ -56,6 +56,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 ### Crash Courses
 
 - [Algorand School](https://github.com/cusma/algorand-school) - Algorand School crash course slide deck.
+- [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal crash course video lectures.
 
 ### Tutorials
 
