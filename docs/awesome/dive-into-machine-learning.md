@@ -237,7 +237,7 @@ logs or debuggers, of course... [there's also some MLOps links, later in this gu
 
 ## Assorted Tips and Resources
 
-## Risks - some starting points
+### Risks - some starting points
 
 "Machine learning systems automatically learn programs from data." Pedro Domingos, in ["A Few Useful Things to Know about Machine Learning."](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) The programs you generate will require maintenance. Like any way of creating programs faster, you can rack up [technical debt](https://en.wikipedia.org/wiki/Technical_debt).
 
@@ -260,13 +260,12 @@ That's not a comprehensive list, of course! They are just some gateways and star
 
 **[OpenReview.net](https://openreview.net/about)** "aims to promote openness in scientific communication, particularly the peer review process."
 
-> * **Open Peer Review:** We provide a configurable platform for peer review that generalizes over many subtle gradations of openness, allowing conference organizers, journals, and other "reviewing entities" to configure the specific policy of their choice. We intend to act as a testbed for different policies, to help scientific communities experiment with open scholarship while addressing legitimate concerns regarding confidentiality, attribution, and bias.
-> * **Open Publishing:** Track submissions, coordinate the efforts of editors, reviewers and authors, and host… Sharded and distributed for speed and reliability.
-> * **Open Access:** Free access to papers for all, free paper submissions. No fees.
-
 <details>
 <summary><em>More about OpenReview.net</em></summary>
 
+> * **Open Peer Review:** We provide a configurable platform for peer review that generalizes over many subtle gradations of openness, allowing conference organizers, journals, and other "reviewing entities" to configure the specific policy of their choice. We intend to act as a testbed for different policies, to help scientific communities experiment with open scholarship while addressing legitimate concerns regarding confidentiality, attribution, and bias.
+> * **Open Publishing:** Track submissions, coordinate the efforts of editors, reviewers and authors, and host… Sharded and distributed for speed and reliability.
+> * **Open Access:** Free access to papers for all, free paper submissions. No fees.
 > * **Open Discussion:** Hosting of accepted papers, with their reviews, comments. Continued discussion forum associated with the paper post acceptance. Publication venue chairs/editors can control structure of review/comment forms, read/write access, and its timing.
 > * **Open Directory:** Collection of people, with conflict-of-interest information, including institutions and relations, such as co-authors, co-PIs, co-workers, advisors/advisees, and family connections.
 > * **Open Recommendations:** Models of scientific topics and expertise. Directory of people includes scientific expertise. Reviewer-paper matching for conferences with thousands of submissions, incorporating expertise, bidding, constraints, and reviewer balancing of various sorts. Paper recommendation to users.
@@ -294,13 +293,16 @@ Recommended awesomelists to save/star/watch:
 * **[EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)**
 * **[visenger/awesome-ml-model-governance](https://github.com/visenger/Awesome-ML-Model-Governance)**
 * **[visenger/awesome-MLOps](https://github.com/visenger/awesome-mlops)**
+* **[eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml)**
 
 ### Easier sharing of deep learning models and demos
 
-* **[Replicate](https://replicate.com) "makes it easy to share a running machine learning model"**
+* 🐣 **[Replicate](https://replicate.com) "makes it easy to share a running machine learning model"**
   * Easily try out deep learning models from your browser
   * The demos link to papers/code on GitHub, if you want to dig in and see how something works
-  * The models run in containers built by [`cog`](https://github.com/replicate/cog), "containers for machine learning." It's an open-source tool for putting models into reproducible Docker containers.
+  * The models run in containers built by **[`cog`](https://github.com/replicate/cog),** "containers for machine learning." 
+    * It's an open-source tool for putting models into reproducible Docker containers. 
+    * You can put models in containers with just Python and YAML.
 
 ----
 

@@ -533,6 +533,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [windwp/nvim-spectre](https://github.com/windwp/nvim-spectre) - Search and replace panel for Neovim.
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - An all in one Neovim plugin that provides superior project management.
 - [klen/nvim-config-local](https://github.com/klen/nvim-config-local) - Secure load local config files from working directories.
+- [cljoly/telescope-repo.nvim](https://cj.rs/telescope-repo-nvim/) - Telescope picker to jump to any repository (git or other) on the file system.
 
 ### Browser integration
 
@@ -636,6 +637,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [cstsunfu/.sea.nvim](https://github.com/cstsunfu/.sea.nvim) - A modular NeoVim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
 - [shaeinst/roshnivim](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE.
 - [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim) - AstroVim is an aesthetic and feature-rich Neovim config that is extensible and easy to use with a great set of plugins.
+- [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
 
 ### Keybinding
 
