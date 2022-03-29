@@ -21,9 +21,11 @@
 ### Books
 - [ClojureScript Unraveled](https://leanpub.com/clojurescript-unraveled) – An open source book about the ClojureScript language that covers all the language features, how to use the compiler and the tooling for building applications and libraries.
 - [ClojureScript: Up and Running](https://shop.oreilly.com/product/0636920025139.do) – An introduction to ClojureScript written by big guns of Clojure Stuart Sierra and Luke VanderHart.
+- [Clojure, The Essential Reference](https://www.manning.com/books/clojure-the-essential-reference) – A reference book on the Clojure language and standard library.
 - [Etudes for ClojureScript](https://shop.oreilly.com/product/0636920043584.do) – A hands-on-book of 30 companion exercises or études for introducing ClojureScript.
 - [Learning ClojureScript](https://www.packtpub.com/web-development/learning-clojurescript) – Master the art of agile single page web application development with ClojureScript.
 - [Transforming Data with ClojureScript](https://langintro.com/cljsbook) – A beginner's guide to ClojureScript with interactive examples and exercises, "focusing on the main task that programming does—transforming data".
+
 
 
 ### Courses
@@ -147,7 +149,8 @@
 ### [React.js](https://facebook.github.io/react/) Interface
 - [Brutha](https://github.com/weavejester/brutha) – A simple and functional ClojureScript interface to React.
 - [cljsx](https://github.com/peterhudec/cljsx) – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome](https://github.com/snabbdom/snabbdom) and others.
-- [hx](https://github.com/Lokeh/hx) – A simple, easy to use library for React development in ClojureScript. 
+- [Helix](https://github.com/lilactown/helix) – A simple, easy to use library for React development in ClojureScript with very few semantics on top of React. 
+- [hx](https://github.com/Lokeh/hx) – Another simple, easy to use library for React development in ClojureScript. 
 - [Om](https://github.com/omcljs/om) – A powerful interface to React, makes use of its object oriented structures.
 - [Quiescent](https://github.com/levand/quiescent) – It favors functional style, fully stateless.
 - [re-com](https://github.com/Day8/re-com) – A ClojureScript library of reusable components for Reagent.

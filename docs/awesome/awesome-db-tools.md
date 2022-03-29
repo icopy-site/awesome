@@ -298,10 +298,22 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [More SQL Parsing!](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
 - [sqlparse](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
 
+### Über SQL
+Running SQL queries against various databases, structured text, etc.
+- [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for CSV.
+- [dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+- [OctoSQL](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+- [TextQL](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
+- [trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
 
-## Language Server Protocol
+### Language Server Protocol
 - [SQLLanguageServer](https://github.com/joe-re/sql-language-server) - SQL Language Server.
 - [sqls](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
+
+
+## Papers
+Documents, articles, manifestos and other theoretical materials on database tools
+- [The "Database as Code" Manifesto](https://github.com/mgramin/database-as-code) - Treat your database as Code.
 
 
 ## Contributing

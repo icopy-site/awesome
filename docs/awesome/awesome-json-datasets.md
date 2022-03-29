@@ -39,6 +39,10 @@ _Sponsored link:_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?
   * [USD](https://api.exchangerate-api.com/v4/latest/USD)
   * [GBP](https://api.exchangerate-api.com/v4/latest/GBP)
 
+## Food
+* [FDA product recalls](https://api.fda.gov/food/enforcement.json)
+* [Open Food Facts](https://world.openfoodfacts.org/api/v0/product/5060292302201.json)
+
 ## Gaming
 * [Pokémon](https://pokeapi.co/docsv2/)
   * [Pokémon by Number](http://pokeapi.co/api/v2/pokemon/1/) *(Replace `1` with desired Pokémon number)*
