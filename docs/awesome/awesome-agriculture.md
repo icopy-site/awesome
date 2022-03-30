@@ -10,6 +10,17 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 
 
+## Automation and Robotics
+
+- [Ant Robotics](https://antrobotics.de/) development from Ecoterra bot
+- [Acorn Rover](https://github.com/Twisted-Fields) precision farming rover, Odrive, Python.
+- [Earth Rover](https://github.com/earthrover) Ag AGV ROS1) precision farming rover, 
+- [EcoTerra Bot](https://ecoterrabot.com/) Delta & Rover
+- [FarmBot](https://github.com/farmbot) -  Open source precision gardening project.
+- [Romi project](https://media.romi-project.eu/documents/index.html) Europe-funded research project 
+- [ROS Agriculture](http://rosagriculture.org/) - Open Source community focusing on using Robot Operating System to empower farmers with robotics tools. 
+- [Weedinator](https://hackaday.io/project/53896-weedinator-2019) Line following /weeding robot
+
 ## Calculators
 
 - [farm-calculators](https://github.com/brycejohnston/farm-calculators) - WordPress plugin for calculating various farming and crop related information.
@@ -30,13 +41,9 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 - [Open Plant Pathology](https://www.openplantpathology.org/) - A community that values open data and computational tools for advancing epidemiology and pathogen population biology and ecology.
 
-## Datasets, Machine Learning and AI
-
-- [agridat](https://github.com/kwstat/agridat) - R package providing an extensive collection of datasets from agricultural experiments.
-- [Crop Yield Prediction](https://github.com/JiaxuanYou/crop_yield_prediction) - Deep gaussian process for crop yield prediction based on remote sensing data.
+## Datasets, 
+- [Growstuff](https://www.growstuff.org/crops) Record keeping & crop database, nice API
 - [CWFID](https://github.com/cwfid/dataset) - Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations.
-- [Deep Learning for Biologists with Keras](https://github.com/totti0223/deep_learning_for_biologists_with_keras) - Tutorials for deep learning based analysis (mainly) on biological relavent themes.
-- [PlantCV](https://github.com/danforthcenter/plantcv) - Plant phenotyping software using computer vision.
 - [TERRA REF](https://terraref.org) -> 1PB public domain high resolution sensor data from sorghum breeding trials ([data publication](https://doi.org/10.5061/dryad.4b8gtht99) with large files available on [globus.org at ncsa#terra-public](https://app.globus.org/file-manager?origin_id=e8feaff4-96cd-11ea-bf90-0e6cccbb0103&origin_path=%2F))
 
 ## Data Standardization, Interoperability and APIs
@@ -55,6 +62,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [MyJohnDeereAPI-OAuth-Python-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Python-Client) - Python MyJohnDeere API client implementation.
 - [MyJohnDeereAPI-OAuth-Python3-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Python3-Client) - Python3 MyJohnDeere API client implementation.
 - [MyJohnDeereAPI-OAuth-Ruby-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Ruby-Client) - Ruby MyJohnDeere API client implementation.
+- [OpenTeam](https://openteam.community/) - Open Technology Ecosystem for Agricultural Management
 - [SampleData](https://github.com/JohnDeere/SampleData) - Sample datacards, shapefiles, and other files you can use for testing.
 - [SencropAPI-JavaScript-Client](https://github.com/sencrop/sencrop-js-api-client) - Sencrop API Javascript client implementation. Read and manage Sencrop weather stations.
 
@@ -81,18 +89,6 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [pyshp](https://github.com/GeospatialPython/pyshp) - Reads and writes ESRI Shapefiles in pure Python.
 - [rgeo-shapefile](https://github.com/rgeo/rgeo-shapefile) - RGeo Shapefile is an optional module for RGeo for reading geospatial data from ESRI shapefiles in Ruby.
 
-## Automation and Robotics
-
-- [Earth Rover](https://github.com/earthrover) Ag AGV ROS1) precision farming rover, 
-- [Acorn Rover](https://github.com/Twisted-Fields) precision farming rover, Odrive, Python.
-- [Romi project](https://media.romi-project.eu/documents/index.html) Europe-funded research project 
-- [Weedinator](https://hackaday.io/project/53896-weedinator-2019) Line following /weeding robot
-- [ROS Agriculture](http://rosagriculture.org/) - Open Source community focusing on using Robot Operating System to empower farmers with robotics tools. 
-- [FarmBot](https://github.com/farmbot) -  Open source precision gardening project.
-
-
-
-
 ## IoT, Hardware
 
 - [AgOpenGPS](https://github.com/farmerbriantee/AgOpenGPS) - Ag precision mapping and section control software.
@@ -105,6 +101,12 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 - [Harvest Helper](https://github.com/damwhit/harvest_helper) -  Provides growing, harvesting and recipe information for the 45 plants in the database as well as a JSON API.
 - [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge built with Ruby on Rails.
+
+## Machine Learning and AI
+- [agridat](https://github.com/kwstat/agridat) - R package providing an extensive collection of datasets from agricultural experiments.
+- [Crop Yield Prediction](https://github.com/JiaxuanYou/crop_yield_prediction) - Deep gaussian process for crop yield prediction based on remote sensing data.
+- [Deep Learning for Biologists with Keras](https://github.com/totti0223/deep_learning_for_biologists_with_keras) - Tutorials for deep learning based analysis (mainly) on biological relavent themes.
+- [PlantCV](https://github.com/danforthcenter/plantcv) - Plant phenotyping software using computer vision.
 
 ## Remote Sensing and Imagery
 

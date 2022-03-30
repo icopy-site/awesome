@@ -407,7 +407,6 @@ nav:
     - CouchDB: awesome/awesome-couchdb.md
     - HBase: awesome/awesome-hbase.md
     - NoSQL Guides: awesome/awesome-nosql-guides.md
-    - Contexture: awesome/awesome-contexture.md
     - Database Tools: awesome/awesome-db-tools.md
     - TypeDB: awesome/typedb-awesome.md
     - Cassandra: awesome/awesome-cassandra.md

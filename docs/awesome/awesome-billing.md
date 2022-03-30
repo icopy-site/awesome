@@ -13,14 +13,10 @@
 <p>This <a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a> list helps software engineers <strong>bootstrap billing & payments systems, and make sense of invoicing, pricing, accounting, marketplace, fraud and business intelligence</strong>.</p>
 
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
 
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- mdformat-toc end -->
 
 ## Basics
 
@@ -58,7 +54,7 @@ From monthly subscription to commodity-like on-the-go consumption, there's plent
 
 ### Usage-based Pricing
 
-The default, dynamic scheme for cloud resources.
+The dynamic scheme for elastic resources.
 
 - [Why I Love Usage-Based Pricing](https://www.rdegges.com/2020/the-only-type-of-api-services-ill-use/) - “The most important reason I like this pricing model is that it heavily incentivizes both the customer and the service provider to act in everyone's best interest.” Also details issues with other pricing models.
 
@@ -79,6 +75,8 @@ The default, dynamic scheme for cloud resources.
 - [“Designing billing for a service can be really challenging”](https://news.ycombinator.com/item?id=23536919) - Personal anecdote on the design of the pricing plan for AWS Simple Email Service.
 
 - [Subscription-based pricing is dead: Smart SaaS companies are shifting to usage-based models](https://techcrunch.com/2021/01/29/subscription-based-pricing-is-dead-smart-saas-companies-are-shifting-to-usage-based-models/) - Usage-based pricing is more optimal and more fair: it “allows a customer to start at a low cost, minimizing friction to getting started while still preserving the ability to monetize a customer over time”.
+
+- [Electropedia: Tariffs for electricity](https://www.electropedia.org/iev/iev.nsf/index?openform&part=691) - Before the cloud, there was another metered resource priced by its usage: electricity. Here is a detailed (and multi-lingual) taxanomy of its vocabularity from the International Electrotechnical Commission.
 
 ### Subscription Plans
 
@@ -114,7 +112,7 @@ Survey methods and price discovery technics to find the right price point.
 
 - [Jeremy Howard - From Predictive Modelling to Optimization](https://youtu.be/vYrWTDxoeGg?t=542) - “In insurance, the price is the product. (…) How do I change price to make shitload of money?” Or how to deliver results (optimal price for a customer) instead of delivering data (calculating a customer's risk, which had been the standard approach used by actuaries previously).
 
-- [Gabor–Granger method](https://en.wikipedia.org/wiki/Gabor–Granger_method) - Used in surveys to determine the price for a new product or service. The results can be used to produce a demand chart and a revenue curve.
+- [Gabor–Granger method](https://en.wikipedia.org/wiki/Gabor%E2%80%93Granger_method) - Used in surveys to determine the price for a new product or service. The results can be used to produce a demand chart and a revenue curve.
 
 - [Van Westendorp's Price Sensitivity Meter](https://en.wikipedia.org/wiki/Van_Westendorp%27s_Price_Sensitivity_Meter) - PSM is a market technique for determining consumer price preferences. Allows for drawing a revenue curve to estimate the price point delivering the maximum revenue.
 
@@ -240,7 +238,7 @@ The core concept of accounting is double-entry. It is the most critical part to 
 
 Everything you need to know about the daily practice of keeping your accounting data clean and tidy.
 
-- [So, you want to learn Bookkeeping\!](http://www.dwmbeancounter.com/tutorial/Tutorial.html) - Focus on the daily operations of recording and maintaining the transactions of a business.
+- [So, you want to learn Bookkeeping!](http://www.dwmbeancounter.com/tutorial/Tutorial.html) - Focus on the daily operations of recording and maintaining the transactions of a business.
 
 - [Plain text accounting tools](https://plaintextaccounting.org/#software) - Extensive list of open-source personal finance projects that might be great to look into for inspiration on double-entry accounting and bookkeeping.
 
@@ -310,7 +308,7 @@ All the invoicing and payment terms and conditions are materialzed by the contra
 
 - [Details on Expiring DigitalOcean Credits](https://blog.digitalocean.com/details-on-expiring-digitalocean-credits/) - The reason you have to add an time limit on credits: unused ones accounts as liabilities on our balance sheet.
 
-- [Hacking Scooters: How I Created $100k Worth Of Free Rides](https://webcache.googleusercontent.com/search?q=cache:7hrzYYk5-IwJ:https://fant.io/p/hacking-voi/) - A cautionary tale on how promo codes can be exploited to get unlimited free rides.
+- [Hacking Scooters: How I Created \$100k Worth Of Free Rides](https://webcache.googleusercontent.com/search?q=cache:7hrzYYk5-IwJ:https://fant.io/p/hacking-voi/) - A cautionary tale on how promo codes can be exploited to get unlimited free rides.
 
 - [China's Pinduoduo reports theft of online discount vouchers to police](https://www.reuters.com/article/us-pinduoduo-china/chinas-pinduoduo-reports-theft-of-online-discount-vouchers-to-police-idUSKCN1PE05J) - The next level of fraud: “an online collective exploited a loophole on its platform to ‘steal’ tens of millions of yuan worth of discount vouchers”.
 
@@ -612,6 +610,8 @@ A bunch of resources to keep track of the current status and progress of all com
 
 - [ASP.NET Zero](https://aspnetzero.com) - Multi-tenancy, authentication and authorization, invoices and payments.
 
+- [Nextless JS](https://nextlessjs.com) - Everything you need to build a SaaS products in Node.js with React and Serverless: Authentication and authorization, invoices and payments.
+
 - [Chargebee](https://www.chargebee.com) - Subscription billing & revenue operations.
 
 - [Armatic Billing & Invoicing Software](https://www.armatic.com/billing) - Invoices, accounts receivable.
@@ -626,11 +626,11 @@ A bunch of resources to keep track of the current status and progress of all com
 
 - [The vanished grandeur of accounting](https://www.bostonglobe.com/ideas/2014/06/07/the-vanished-grandeur-accounting/3zcbRBoPDNIryWyNYNMvbO/story.html) - Accounting paintings were a significant genre in Dutch art.
 
-- [Engineering and Operations in the Bell System](http://bitsavers.trailing-edge.com/communications/westernElectric/books/Engineering_and_Operations_in_the_Bell_System_2ed_1984.pdf) - Starting at page \#445, the "10.5 Billing Equipment and Systems" section describe the history and technical evolutions of Bell's phone calls metering and pricing.
+- [Engineering and Operations in the Bell System](http://bitsavers.trailing-edge.com/communications/westernElectric/books/Engineering_and_Operations_in_the_Bell_System_2ed_1984.pdf) - Starting at page #445, the "10.5 Billing Equipment and Systems" section describe the history and technical evolutions of Bell's phone calls metering and pricing.
 
 ## Contributing
 
-Your contributions are always welcome\! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-billing/blob/master/.github/contributing.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-billing/blob/master/.github/contributing.md) first.
 
 ## Footnotes
 
