@@ -130,6 +130,11 @@ The definition of developer-first for this repo is:
     * [TabNine](https://www.tabnine.com/) - Deep learning completion (part of codota).
 * [Kite](https://www.kite.com/) - AI assistant in your IDE (Python or JS).
 
+## Infrastructure as Code
+*Declare your infrastructure and reproducibly provision cloud infrastrucure from it.*
+* [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...).
+* [Pulumi](https://www.pulumi.com/) -  Developer-first IaC with Python, TypeScript, Go and more languages...
+
 ## Integrations
 *Integration management systems or products that ease integration development*
 * [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.

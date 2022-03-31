@@ -75,6 +75,8 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ### Frontend framework
 - [aleph.js](https://github.com/postui/aleph.js) - A React framework in Deno, inspired by [Next.js](https://nextjs.org).
+- [fresh](https://github.com/lucacasonato/fresh) - Preact, but super edgy. The next-gen web framework.
+- [ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno.
 
 ### Image
 - [ImageScript](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
@@ -154,10 +156,19 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [recursive-readdir](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
 - [rubico](https://github.com/richytong/rubico) - 🏞 [a]synchronous function composition; it just works.
 - [solc](https://github.com/deno-web3/solc) - 💎 Solidity bindings for Deno.
+- [tryify](https://github.com/twilsoft/tryify) - Functional style error handling; never throw/try/catch/finally again.
 - [type-fest](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (port of sindresorhus/type-fest).
-- [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) - Encrypt and decrypt gzip for Deno.
+- [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) - Perform gzip operations for Deno.
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
+
+### Validation
+
+- [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+
+### Video
+
+- [Fast Forward](https://github.com/c4spar/deno-fast-forward) - An easy to use ffmpeg module for Deno. 🦕
 
 ### Web framework
 - [abc](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
@@ -169,7 +180,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [doa](https://github.com/johannlai/doa) - A middleware framework for Deno's http serve🦕. Transplanted from Koa with ❤️
 - [drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
-- [dragon](https://github.com/xanny-projects/dragon) - ⚡A powerful HTTP router and URL matcher for building Deno web servers with dragon 🐲.
 - [faster](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
 - [microraptor](https://github.com/matteocrippa/microraptor) - Lightweight framework for easy network routing with validation.
 - [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
@@ -233,7 +243,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [decense](https://github.com/vinliao/decense) - Generate a license with one `deno run` command.
 - [dedep](https://github.com/egoist/dedep) - Manage dependency versions.
 - [denoflow](https://github.com/denoflow/denoflow) - Configuration as code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes
-- [denoget](https://github.com/syumai/denoget) - Denoget installs executable Deno script.
 - [denoify](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit generates useful files for Deno project.
 - [denoliver](https://github.com/joakimunge/denoliver) - A simple, dependency free file server with live reload.
@@ -248,6 +257,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - Leverage the typedef and intellisense built into vscode using this extension.
 - [dev_server](https://github.com/zhmushan/dev_server) - Let TypeScript files be used directly in the script tag.
 - [dmm](https://github.com/drashland/dmm) - Lightweight Deno Module Manager
+- [dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
 - [dpm](https://github.com/BoltDoggy/deno#dpm) - Deno Package Manager, install global command for deno. like denoget.
 - dvm
   - [justjavac/dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
@@ -322,6 +332,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Kitson P. Kelly - Deno, and The Future of JavaScript Runtimes - CityJS Conf 2020](https://www.youtube.com/watch?v=2eRyZpX4qvI)
 - [Matías Insaurralde - Deno: an experimental approach on V8 interoperability [EN subtitles] - NodeConf Argentina 2019](https://www.youtube.com/watch?v=N0BRE-0n2cU)
   - [Slides](https://speakerdeck.com/matiasinsaurralde/deno-an-experimental-approach-on-v8-interoperability)
+
 ## Resources in Other Languages
 
 ### Chinese
@@ -334,6 +345,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note/)
 - [Deno 手册](https://github.com/Nugine/deno-manual-cn/)
 - [Deno 中文开发者社区](https://deno.js.cn)
+- [Node之父 - Deno，一个新的JS运行时](https://www.bilibili.com/video/av52038617)
 
 ### Hebrew
 
