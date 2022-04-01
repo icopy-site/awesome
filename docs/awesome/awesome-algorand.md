@@ -98,10 +98,12 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [tinyman-py-sdk](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
 - [algofi-py-sdk](https://github.com/Algofiorg/algofi-py-sdk) - Algofi Python SDK.
 
-### JavaScript
+### JavaScript & TypeScript
 
 - [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
 - [algofi-js-sdk](https://github.com/Algofiorg/algofi-js-sdk) - Algofi JavaScript SDK.
+- [algo-builder](https://github.com/scale-it/algo-builder) - Framework to automate development of Algorand Assets and Smart Contracts.
+- [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) - Dapps templates for Algo Builder.
 
 ### Java
 
@@ -155,6 +157,11 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 - [Algorand Sandbox](https://github.com/algorand/sandbox) - Fast way to create and configure an Algorand development environment.
 - [Algorand Sandbox Dev](https://github.com/MakerXStudio/algorand-sandbox-dev) - Docker Hub image for faster local development and CI/CD usage.
+
+### Testing 
+
+- [graviton](https://github.com/algorand/graviton) - Algorand's TEAL blackbox testing toolkit.
+- [tealer](https://github.com/crytic/tealer) - Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.
 
 ### Nodes and Indexers
 

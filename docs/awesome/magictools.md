@@ -182,7 +182,7 @@ _Set of game frameworks, engines and platforms_
 - :free: [Cocos Creator](https://www.cocos.com/en/creator) - Cocos Creator, a free cross-platform game development editor supporting Cocos2d-js, helps developers build 2D and 3D game scenes, edit game UI and other game resources quickly and efficiency.
 - :tada: [Cocos2D](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language
 - :tada: [Cocos2d-x](http://cocos2d-x.org/) - a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
-- :paid: [Construct](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
+- :moneybag: [Construct](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
 - :money_with_wings: [CopperCube](http://www.ambiera.com/coppercube/) - CopperCube is an all-in-one 3D game engine.Very easy to use.
 - :tada: [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
 - :tada: [ct.js](https://ctjs.rocks/) — this 2D game engine makes learning programming fun and game development easy by its visual tools, good docs, and flexible, modular library.
@@ -293,7 +293,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
 - :tada: [Twine](http://twinery.org/) - Downloadable or browser-based game development platform that allows users to create linked story paths. Not just text-based, Twine supports music, images, and sound effects. Very little coding knowledge required for basic text adventure games.
 - :money_with_wings: [Unity 3D](http://unity3d.com/) - A development engine for the creation of 2D and 3D games and interactive content.
-- :free: [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
+- :money_with_wings: [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
 - :tada: [Urho3D](http://urho3d.github.io/) - Cross-platform rendering and game engine.
 - :tada: [ursina](https://www.ursinaengine.org/) - A game engine powered by python and panda3d.
 - :tada: [Vassal](http://www.vassalengine.org/) - Vassal is a game engine for building and playing online adaptations of board games and card games. Play live on the Internet or by email. Vassal runs on all platforms, and is free, open-source software.

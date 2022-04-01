@@ -1,8 +1,8 @@
-<div class="github-widget" data-repo="KeyboardInterrupt/awesome-ansible"></div>
+<div class="github-widget" data-repo="ansible-community/awesome-ansible"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Ansible [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!--lint disable double-link-->
-[<img src="https://raw.githubusercontent.com/KeyboardInterrupt/awesome-ansible/master/ansible_logo.svg?sanitize=true" align="right" width="90">](https://www.ansible.com/)
+[<img src="https://raw.githubusercontent.com/ansible-community/awesome-ansible/master/ansible_logo.svg?sanitize=true" align="right" width="90">](https://www.ansible.com/)
 
 > A collaborative curated list of awesome Ansible resources, tools, Roles, tutorials and other related stuff.
 
@@ -38,6 +38,7 @@
 - [Ansible TopTechSkills.com Tutorial Series on Ansible](https://www.toptechskills.com/ansible-tutorials-courses/) - Tutorials on how to Install and use Ansible.
 - [Official Ansible labs by Red Hat](https://ansible.github.io/workshops/exercises/ansible_rhel/) - Training Course for Ansible Automation Platform.
 - [Ansible Tutorials on DigitalOcean](https://www.digitalocean.com/community/tags/ansible?subtype=tutorial) - Basic tutorials on DigitalOcean.com.
+- [Ansible Tutorial by BlueBanquise team](http://bluebanquise.com/documentation/releases/1.5.0/training_ansible.html) - Basic Ansible tutorial.
 - [Ansible Tutorial for Beginners: Playbook & Examples](https://spacelift.io/blog/ansible-tutorial) - Introduction to Ansible for beginners.
 
 ## Books
@@ -104,3 +105,4 @@
 - [Openstack Ansible](https://github.com/openstack/openstack-ansible) - Ansible Playbooks for deploying [OpenStack](https://www.openstack.org/).
 - [DebOps](https://docs.debops.org/en/master/) - A extensive collection of Debian based Ansible Playbooks.
 - [ansible-ssm](https://github.com/HQarroum/ansible-ssm) - An ansible role to provision physical and virtual hosts with the AWS SSM agent.
+- [BlueBanquise](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
