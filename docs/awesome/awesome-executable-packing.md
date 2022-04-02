@@ -388,7 +388,7 @@
 - [Mask](https://defacto2.net/f/a520164?packer=mask) - Tool that prevents COM program from being cracked by using encryption and anti-debugging tricks.
 - [Megalite](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/megal120.zip) - MS-DOS executable file compressor.
 - [Mess](https://defacto2.net/f/a520164?packer=mess) - This tool does the same as HackStop, with the exception that it is freeware for non-commercial use.
-- [Neolite](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/neolte20.zip)
+- [Neolite](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/neolte20.zip) - Compresses Windows 32-bit EXE files and DLLs.
 - [PACK](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/pack201.zip) - Executable files compressor.
 - [PCShrink](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/pcsnk071.zip) - Windows 9x/NT executable file compressor relying on the aPLib compression library.
 - [PE Diminisher](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/ped.zip) - Simple PE packer relying on the aPLib compression library.
@@ -448,6 +448,7 @@
 - [GetTyp](https://www.helger.com/gt/gt.htm) - File format detection program for DOS based on special strings and byte code.
 - [GUnpacker](http://qunpack.ahteam.org/?p=327) - Shell tool that performs OEP positioning and dumps decrypted code.
 - [Justin](https://doi.org/10.1007/978-3-540-87403-4_6) - Just-In-Time AV scanning ; generic unpacking solution.
+- [Language 2000](https://farrokhi.net/language) - Ultimate compiler detection utility.
 - [LIEF](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
 - [Malheur](https://github.com/rieck/malheur) - Tool for the automatic analysis of malware behavior (recorded from malicious software in a sandbox environment).
 - [MalUnpack](https://github.com/hasherezade/mal_unpack) - Dynamic unpacker based on PE-sieve.
@@ -473,6 +474,7 @@
 - [PEiD (yara)](https://github.com/K-atc/PEiD) - Yet another implementation of PEiD with yara.
 - [PeLib](https://github.com/avast/pelib) - PE file manipulation library.
 - [PEPack](https://github.com/merces/pev) - PE file packer detection tool, part of the Unix package "pev".
+- [PEscan](https://tzworks.com/prototype_page.php?proto_id=15) - CLI tool to scan PE files to identify how they were constructed.
 - [PETools](https://github.com/petoolse/petools) - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
 - [PINdemonium](https://github.com/Phat3/PINdemonium) - Unpacker for PE files exploiting the capabilities of PIN.
 - [PolyUnpack](https://github.com/PlatonovIvan/PolyUnpack) - Implemention attempt of the general approach for extracting the original hidden code of PE files without any heuristic assumptions.
