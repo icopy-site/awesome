@@ -22,8 +22,8 @@
 
 ### Documentation
 
+- :earth_americas: [a.out (FreeBSD manual pages)](https://www.freebsd.org/cgi/man.cgi?a.out(5))
 - :earth_americas: [A.out binary format](https://wiki.osdev.org/A.out)
-- :earth_americas: [ABI mach-O file format reference](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
 - :bar_chart: [Android packers: Separating from the pack](https://www.fortiguard.com/events/759/2014-06-12-android-packers-separating-from-the-pack)
 - :bar_chart: [API deobfuscator: Resolving obfuscated API functions in modern packers](https://www.blackhat.com/docs/us-15/materials/us-15-Choi-API-Deobfuscator-Resolving-Obfuscated-API-Functions-In-Modern-Packers.pdf)
 - :bar_chart: [The art of unpacking](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf)
@@ -33,15 +33,21 @@
 - :earth_americas: [Comparison of executable file formats](https://en.wikipedia.org/wiki/Comparison_of_executable_file_formats)
 - :earth_americas: [Defacto2](https://defacto2.net/defacto2)
 - :bar_chart: [Dynamic binary analysis and obfuscated codes](https://triton.quarkslab.com/files/sthack2016-rthomas-jsalwan.pdf)
+- :earth_americas: [elf (FreeBSD manual pages)](https://www.freebsd.org/cgi/man.cgi?elf(5))
 - :earth_americas: [Executable and linkable format (ELF)](https://wiki.osdev.org/ELF)
 - :clipboard: [Executable and linking format (ELF) specification](https://refspecs.linuxfoundation.org/elf/elf.pdf)
 - :earth_americas: [Executable file formats](https://docs.fileformat.com/executable)
+- :earth_americas: [FatELF: Universal binaries for Linux (HALTED)](https://icculus.org/fatelf)
 - :scroll: [Implementing your own generic unpacker](https://gsec.hitb.org/materials/sg2015/whitepapers/Julien%20Lenoir%20-%20Implementing%20Your%20Own%20Generic%20Unpacker.pdf)
+- :pushpin: [Mach-O - A look at apple executable files](https://redmaple.tech/blogs/macho-files)
+- :earth_americas: [Mach-O file format reference](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
 - :bar_chart: [Mach-O internals](https://yossarian.net/res/pub/macho-internals/macho-internals.pdf)
 - :clipboard: [Microsoft portable executable and common object file format specification](http://www.skyfree.org/linux/references/coff.pdf)
+- :earth_americas: [MITRE ATT&CK | T1027.002 | obfuscated files or information: Software packing](https://attack.mitre.org/techniques/T1027/002)
 - :earth_americas: [MZ disk operating system (DOS)](https://wiki.osdev.org/MZ)
 - :bar_chart: [One packer to rule them all: Empirical identification, comparison and circumvention of current antivirus detection techniques](https://www.blackhat.com/docs/us-14/materials/us-14-Mesbahi-One-Packer-To-Rule-Them-All-WP.pdf)
 - :scroll: [One packer to rule them all: Empirical identification, comparison and circumvention of current antivirus detection techniques](https://www.blackhat.com/docs/us-14/materials/us-14-Mesbahi-One-Packer-To-Rule-Them-All.pdf)
+- :pushpin: [Parsing mach-O files](https://lowlevelbits.org/parsing-mach-o-files)
 - :earth_americas: [PE format (Microsoft docs)](https://docs.microsoft.com/en-us/windows/win32/debug/pe-format)
 - :scroll: [PinDemonium: A DBI-based generic unpacker for Windows executables](https://www.blackhat.com/docs/us-16/materials/us-16-Mariani-Pindemonium-A-Dbi-Based-Generic-Unpacker-For-Windows-Executables-wp.pdf)
 - :earth_americas: [Portable executable (PE)](https://wiki.osdev.org/PE)
@@ -377,6 +383,7 @@
 - [CEXE](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/cexe10a.zip) - Compresses an input EXE into a smaller executable (only runs on WinNT, Win2000 and above - won't run on Win95 or Win98).
 - [COMProtector](https://defacto2.net/f/a520164?packer=comprotector) - Adds a security envelope around DOS .COM files by randomly encrypting it and adding several anti-debugging tricks.
 - [CrackStop](https://defacto2.net/f/a520164?packer=crackstop) - Tool that creates a security  envelope around a DOS EXE file to protect it against crackers.
+- [Crunch](https://defacto2.net/f/a520164?packer=crunch) - File encryptor for COM and EXE files.
 - [EPack](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/epack16.zip) - EXE and COM file compressor ; works with DOS/Windows95 files.
 - [ExeGuard](https://defacto2.net/f/a520164?packer=exeguard) - DOS EXE files free protector using anti-debugging ticks to prevent hacking, analysis and unpacking.
 - [EXELOCK 666](https://defacto2.net/f/a520164?packer=exelock666) - Utility for protecting .EXE files so no lamers can hack out the copyright.
@@ -430,6 +437,7 @@
 - [Bintropy](https://github.com/dhondta/bintropy) - Prototype analysis tool that estimates the likelihood that a binary file contains compressed or encrypted bytes.
 - [BinUnpack](https://doi.org/10.1145/3243734.3243771) - Unpacking approach free from tedious memory access monitoring, therefore introducing very small runtime overhead.
 - [BitBlaze](http://bitblaze.cs.berkeley.edu/release/index.html) - Analysis platform that features a novel fusion of static and dynamic analysis techniques, mixed concrete and symbolic execution, and whole-system emulation and binary instrumentation, all to facilitate state-of-the art research on real security problems.
+- [ChkEXE](https://defacto2.net/f/a91dea6?dosmachine=svga&dosspeed=max) - Identifies almost any EXE/COM packer, crypter or protector.
 - [Clamscan Unpacker](https://clamunpacker.sourceforge.io/) - Unpacker derived from ClamAV.
 - [COM2EXE](https://defacto2.net/f/a520164?tool=com2exe) - Free tool for converting COM files to EXE format.
 - [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
@@ -476,6 +484,7 @@
 - [PEPack](https://github.com/merces/pev) - PE file packer detection tool, part of the Unix package "pev".
 - [PEscan](https://tzworks.com/prototype_page.php?proto_id=15) - CLI tool to scan PE files to identify how they were constructed.
 - [PETools](https://github.com/petoolse/petools) - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
+- [Pin - A Dynamic Binary Instrumentation Tool](https://www.intel.com/content/www/us/en/developer/articles/tool/pin-a-dynamic-binary-instrumentation-tool.html) - Dynamic binary instrumentation framework for the IA-32, x86-64 and MIC instruction-set architectures that enables the creation of dynamic program analysis tools.
 - [PINdemonium](https://github.com/Phat3/PINdemonium) - Unpacker for PE files exploiting the capabilities of PIN.
 - [PolyUnpack](https://github.com/PlatonovIvan/PolyUnpack) - Implemention attempt of the general approach for extracting the original hidden code of PE files without any heuristic assumptions.
 - [PortEx](https://github.com/katjahahn/PortEx) - Java library for static malware analysis of PE files.
@@ -490,12 +499,14 @@
 - [Red Curtain](https://mandiant-red-curtain.apponic.com) - Free software for Incident Responders that assists with the analysis of malware ; it examines executable files (e.g., .exe, .dll, and so on) to determine how suspicious they are based on a set of criteria.
 - [Reko](https://github.com/uxmal/reko) - Free decompiler for machine code binaries.
 - [REMINDer](https://doi.org/10.1109/CSA.2009.5404211) - Packing detection tool based on the entropy value of the entry point section and the WRITE attribute.
+- [REMnux](https://remnux.org) - Linux toolkit for reverse-engineering and analyzing malicious software.
 - [Renovo](https://doi.org/10.1145/1314389.1314399) - Detection tool built on top of TEMU (dynamic analysis component of BitBlaze) based on the execution of newly-generated code and monitoring memory writes after the program starts.
 - [RetDec](https://github.com/avast/retdec) - Retargetable machine-code decompiler based on LLVM.
 - [SAC](https://www.sac.sk/files.php?d=7&l=) - PACK: Archivers, exe-compressors, archiver shells and other related utils.
 - [SAFE](https://github.com/dhondta/awesome-executable-packing/blob/master/mailto:mihai@cs.wisc.edu) - Static Analyzer For Executables (available on demand).
 - [SymPack](https://www.amazon.com/Norton-AntiVirus-2007-Old-Version/dp/B000IAOIXW) - Safe, portable, largely eﬀective but not generic library for packing detection and unpacking ; part of the Norton Antivirus solution.
 - [Titanium Platform](https://www.reversinglabs.com/products/malware-analysis-platform) - Machine learning hybrid cloud platform that harvests thousands of file types at scale, speeds threat detection through machine learning binary analysis, and continuously monitors an index of over 10B files for future threats.
+- [TrID](https://mark0.net/soft-trid-e.html) - Utility for identifying file types from their binary signatures.
 - [Triton](https://github.com/jonathansalwan/Triton) - Dynamic binary analysis library.
 - [Tuts 4 You](https://tuts4you.com) - Non-commercial, independent community dedicated to the sharing of knowledge and information on reverse code engineering.
 - [Unipacker](https://github.com/unipacker/unipacker) - Automatic and platform-independent unpacker for Windows binaries based on emulation.
