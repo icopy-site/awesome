@@ -589,6 +589,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 - [graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema.
 - [gqldoc](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL.
+- [spectaql](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation
 
 ### Tools - Editor Plugins
 
@@ -606,6 +607,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [apollo-tracing](https://github.com/apollographql/apollo-tracing) - GraphQL extension that enables you to easily get resolver-level performance information as part of a GraphQL response.
 - [json-graphql-server](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
 - [Prisma](https://github.com/prisma/prisma) - Turn your database into a GraphQL API. Prisma lets you design your data model and have a production ready GraphQL API online in minutes.
+- [Typetta](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
 - [tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from any sqlite database.
 - [Bit](https://github.com/teambit/bit) - Organize GraphQL API as components to be consumed with NPM or modified from any project, [example-explanation](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)).
 - [openapi-to-graphql](https://github.com/ibm/openapi-to-graphql) - Take any OpenAPI Specification (OAS) or swagger and create a GraphQL interface - Two minute video and resources [here](https://developer.ibm.com/open/projects/openapi-to-graphql/)
@@ -654,7 +656,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Books
 
 - [The GraphQL Guide](https://graphql.guide) by John Resig and Loren Sands-Ramshaw
-- [Learning GraphQL](https://www.amazon.com/Learning-GraphQL-Declarative-Fetching-Modern/dp/1492030716/) by Eve Porcello and Alex Banks
+- [Learning GraphQL](https://www.amazon.com/dp/1492030716) by Eve Porcello and Alex Banks
 - [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) by Bruce Williams and Ben Wilson
 - [The Road to GraphQL](https://www.roadtographql.com/)
 - [Fullstack GraphQL](https://www.graphql.college/fullstack-graphql) by Julian Mayorga
@@ -718,6 +720,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Blogs - Security
 
+- [9 GraphQL Security Best Practices](https://blog.escape.tech/9-graphql-security-best-practices/)
 - [Discovering GraphQL Endpoints and SQLi Vulnerabilities](https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e)
 - [Securing GraphQL API](https://lab.wallarm.com/securing-graphql-api/)
 - [How to secure a GraphQL API (The Complete Vulnerability Checklist)](https://leapgraph.com/graphql-api-security)
@@ -756,7 +759,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Fluent GraphQL clients: how to write queries like a boss](https://hasura.io/blog/fluent-graphql-clients-how-to-write-queries-like-a-boss/)
 - [Level up your serverless game with a GraphQL data-as-a-service layer](https://hasura.io/blog/level-up-your-serverless-game-with-a-graphql-data-as-a-service-layer/)
 - [A deep-dive into Relay, the friendly & opinionated GraphQL client](https://hasura.io/blog/deep-dive-into-relay-graphql-client/)
-- [Why use GraphQL, good and bad reasons](https://honest.engineering/posts/why-use-graphql-good-and-bad-reasons)
 - [make your graphql api easier to adopt through components](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)
 
 <a name="workshopper" />
