@@ -82,6 +82,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [yew-wasm-pack-minimal](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
 - [yew-parcel-template](https://github.com/spielrs/yew-parcel-template) - Awesome Yew with Yew-Router and Parcel application.
 - [yew-template-for-github-io](https://github.com/Ja-sonYun/yew-template-for-github-io) - Directly deployable Template of yew project for github.io, using tailwind and webpack for css, trunk for build and serve.
+- [tailwindcss-yew-template](https://github.com/vvcaw/tailwindcss-yew-template) - Simple layout for using Tailwindcss with Yew.
 
 ## Crates
 
@@ -121,6 +122,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [Yew Interop](https://github.com/Madoshakalaka/yew-interop) - Load JavaScript and CSS asynchronously in Yew.
 - [Tailwind RS](https://github.com/oovm/tailwind-rs) - Tailwind style tracer in rust, JIT + AOT interpreter.
 - [yew-style-in-rs](https://github.com/MatchaChoco010/yew-style-in-rs) - Scoped CSS in Rust for Yew.
+- [yew_icons](https://github.com/finnbear/yew_icons) - Easily include a variety of svg icons(Feather/Font Awesome/Octicons) into your Yew app.
 
 ### Wasm
 
