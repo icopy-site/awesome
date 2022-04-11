@@ -49,7 +49,6 @@ The definition of developer-first for this repo is:
 * [Gitpod](https://www.gitpod.io/) - Automated cloud dev environments. 
 
 ## CMS (headless)
-* [Tipe](https://tipe.io/) - Open source headless CMS.
 * [ElegantCMS](https://www.elegantcms.io/) - Headless CMS builder.
 * [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)).
 
@@ -93,10 +92,8 @@ The definition of developer-first for this repo is:
 *Comments and forums.*
 * [Commento](https://commento.io/) - Privacy centric embeddable comment system.
 * [MuutIo](https://muut.io/) - Tools to create a community-driven app.
-* [TurnTo](https://www.turntonetworks.com/) - Ratings, community Q&A, reviews, and comments as a service.
 * [Bazaarvoice](https://www.bazaarvoice.com/ratings-and-reviews/) - Ratings, reviews as a service.
 * [Yotpo](https://www.yotpo.com/platform/reviews/) - Reviews ratings and Q&A as a service.
-* [Gitter](https://gitter.im) - Chat and networking platform for developers.
 
 ## Documentation
 *Documentation solutions.*
@@ -188,7 +185,6 @@ The definition of developer-first for this repo is:
 
 ## Natural Language Processing
 *Interactions with natural language.*
-* [Wit.ai](https://wit.ai) - Voice/text chatbot framework by Facebook.
 * [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
 
 ## Payments
@@ -205,7 +201,7 @@ The definition of developer-first for this repo is:
 
 ## Reports Generation
 *Generating reports, mainly PDFs*
-* [PDFBlade](https://pdfblade.com/#pricing) - HTML to PDF API usage based pricing.
+* [PDFBlade](https://pdfblade.com/) - HTML to PDF API usage based pricing.
 * [Carbone](https://carbone.io/) - JSON into PDF, DOCX, XLSX, PPTX, ODS... API.
 * [Export SDK](https://exportsdk.com) - PDF generator API with visual template editor.
 

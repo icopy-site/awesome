@@ -302,6 +302,7 @@
 - [oclif](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
 - [term-size](https://github.com/sindresorhus/term-size) - Reliably get the terminal window size.
 - [Cliffy](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
+- [zx](https://github.com/google/zx) - Write shell scripts JavaScript.
 
 ### Build tools
 
@@ -672,6 +673,7 @@
 - [RedisSMQ](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
 - [sqs-consumer](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate.
 - [better-queue](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
+- [bullmq](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
 
 ### Node.js management
 

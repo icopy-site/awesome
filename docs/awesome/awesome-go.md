@@ -1526,6 +1526,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 - [golibstemmer](https://github.com/rjohnsondev/golibstemmer) - Go bindings for the snowball libstemmer library including porter 2.
 - [gosentiwordnet](https://github.com/dinopuguh/gosentiwordnet) - Sentiment analyzer using sentiwordnet lexicon in Go.
 - [govader](https://github.com/jonreiter/govader) - Go implementation of [VADER Sentiment Analysis](https://github.com/cjhutto/vaderSentiment).
+- [govader-backend](https://github.com/PIMPfiction/govader_backend) - Microservice implementation of [GoVader](https://github.com/jonreiter/govader).
 - [kagome](https://github.com/ikawaha/kagome) - JP morphological analyzer written in pure Go.
 - [libtextcat](https://github.com/goodsign/libtextcat) - Cgo binding for libtextcat C library. Guaranteed compatibility with version 2.2.
 - [nlp](https://github.com/Shixzie/nlp) - Extract values from strings and fill your structs with nlp.
@@ -2161,6 +2162,7 @@ _Libraries for accessing third party APIs._
 - [dusupay-sdk-go](https://github.com/Kachit/dusupay-sdk-go) - Unofficial Dusupay payment gateway API Client for Go
 - [ethrpc](https://github.com/onrik/ethrpc) - Go bindings for Ethereum JSON RPC API.
 - [facebook](https://github.com/huandu/facebook) - Go Library that supports the Facebook Graph API.
+- [fasapay-sdk-go](https://github.com/Kachit/fasapay-sdk-go) - Unofficial Fasapay payment gateway XML API Client for Golang.
 - [fcm](https://github.com/maddevsio/fcm) - Go library for Firebase Cloud Messaging.
 - [gads](https://github.com/emiddleton/gads) - Google Adwords Unofficial API.
 - [gami](https://github.com/bit4bit/gami) - Go library for Asterisk Manager Interface.

@@ -1844,7 +1844,7 @@ _Date / datetime / time Picker_
 - [vue-datepicker](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
 - [@alireza-ab/vue-persian-datepicker](https://github.com/alireza-ab/vue-persian-datepicker) - A datepicker component for select persian date. **(single and range selection, select date and time, select with keyboard, customizable style, localization)**
 - [vue-easy-range-date-picker](https://github.com/HC200ok/vue-easy-range-date-picker) - A simple and easy VueJS (2.x) component for date range selection
-- [vue3-date-time-picker](https://github.com/Vuepic/vue3-date-time-picker) - The most complete date picker solution for Vue 3
+- [@vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
 - [vue-datepicker-next](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
 
 ##### Select
@@ -2140,6 +2140,7 @@ _Display images_
 - [vue3-signature](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
 - [vue-signature](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
 - [v-perfect-signature](https://github.com/wobsoriano/v-perfect-signature) - Pressure-sensitive signature drawing for Vue 2 and 3.
+- [vue-drawing-grid](https://github.com/MLongz/VueDrawingGrid) - A simple drawing grid lets you create pixel arts using HTML5 canvas.
 
 
 #### Link Preview
@@ -2593,6 +2594,7 @@ _Seamless scrolling_
 - [vue-digital-transform](https://github.com/DakerHub/vue-digital-transform) A vue component for better digital transform animation
 - [vue-typical](https://github.com/Turkyden/vue-typical) 🐡 Vue Animated typing in ~400 bytes of JavaScript.
 - [vue3-lottie](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
+- [@morev/vue-transitions](https://github.com/morevm/vue-transitions) Transitions library for Vue 2 and 3 with no CSS needed
 
 #### Meta Tags
 
