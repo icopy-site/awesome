@@ -1,10 +1,12 @@
 <div class="github-widget" data-repo="ttt30ga/awesome-product-design"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Product Design [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+<div align="center" style="margin: 12px">
+  <a href="https://en.wikipedia.org/wiki/Digital_product_design">
+    <img src="https://raw.githubusercontent.com/ttt30ga/awesome-product-design/master/./images/apd-icon.png" width="140">
+  </a>
+</div>
 
-<a href="https://en.wikipedia.org/wiki/Digital_product_design">
-  <img src="https://rawgit.com/teoga/product-design-bookmarks/master/images/pdb_img.svg" align="right" width="100">
-</a>
+## Awesome Product Design [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > A collection of bookmarks, resources, articles for product designers.
 

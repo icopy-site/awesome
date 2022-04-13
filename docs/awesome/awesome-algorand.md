@@ -28,6 +28,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Algorand FAQ](https://algorand.foundation/faq) - FAQ maintained by the Algorand Foundation.
 - [Algorand Governance](https://governance.algorand.foundation/) - Official website of Algorand Governance program.
 - [Algorand Developer Portal](https://developer.algorand.com/) - Official Algorand developer portal.
+- [Algorand Discord](https://discord.com/invite/YgPTCVk) - Official Algorand Discord server.
 
 ## Wallets
 
@@ -221,7 +222,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [arc3.xyz](https://github.com/barnjamin/arc3.xyz) - Dapp that can be used to mint ARC3 compliant NFTs.
 - [Auction Demo](https://github.com/algorand/auction-demo) - On-chain NFT auction using smart contracts.
 - [Algorand Session Wallet](https://github.com/barnjamin/algorand-session-wallet) - Session wallet to allow persisted wallet connections across multiple wallets.
-- [AlgoWorld-Swapper](https://github.com/algoworldNFT/algoworld-swapper) - Collection of ASC1 contracts in pyteal for creating ASA swappers.
+- [AlgoWorld-Contracts](https://github.com/algoworldNFT/algoworld-contracts) - Collection of all smart contracts used by AlgoWorld, written in PyTeal.
 - [WalletConnect Example DApp](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect demo.
 - [paytx](https://github.com/algorand-devrel/paytx) - Examples of common pay transaction scenarios using the Algorand Python SDK.
 - [TinyBar App](https://tinybar.app) - A tiny macOS menu bar app for tracking ASA prices from TinyMan.
