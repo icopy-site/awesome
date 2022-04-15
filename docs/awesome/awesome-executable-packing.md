@@ -236,10 +236,12 @@
 - [Dataset of Packed ELF](https://github.com/dhondta/dataset-packed-elf) - Dataset of packed ELF samples.
 - [Dataset of Packed PE](https://github.com/dhondta/dataset-packed-pe) - Sanitized version of the original dataset, PackingData, removing packed samples from the Notpacked folder but also samples in packer folders that failed to be packed (having a same hash as the original unpacked executable).
 - [Ember](https://github.com/elastic/ember) - Collection of features from PE files that serve as a benchmark dataset for researchers.
+- [MaleX](https://github.com/Mayachitra-Inc/MaleX) - Curated dataset of malware and benign Windows executable samples for malware researchers containing 1,044,394 Windows executable binaries and corresponding image representations with 864,669 labelled as malware and 179,725 as benign.
 - [Malfease](https://web.archive.org/web/20141221153307/http://malfease.oarci.net) - Dataset of about 5,000 packed malware samples.
 - [Malheur](https://www.sec.cs.tu-bs.de/data/malheur) - Contains the recorded behavior of malicious software (malware) and has been used for developing methods for classifying and clustering malware behavior (see the JCS article from 2011).
 - [Malicia](http://malicia-project.com/dataset.html) - Dataset of 11,688 malicous PE files collected from 500 drive-by download servers over a period of 11 months in 2013 (DISCONTINUED).
 - [MalShare](https://malshare.com) - Free Malware repository providing researchers access to samples, malicious feeds, and Yara results.
+- [MalwareBazaar](https://bazaar.abuse.ch) - Project operated by abuse.ch aimed to collect and share malware samples, helping IT-security researchers and threat analysts protecting their constituency and customers from cyber threats.
 - [MalwareGallery](https://github.com/BaRRaKudaRain/MalwareGallery) - Yet another malware collection in the Internet.
 - [OARC Malware Dataset](https://www.dns-oarc.net) - Semi-public dataset of 3,467 samples captured in the wild from Sep 2005 to Jan 2006 by mail traps, user submissions, honeypots and other sources aggregated by the OARC, available to qualified academic and industry researchers upon request.
 - [Open Malware](https://web.archive.org/web/20190116100735/http://www.offensivecomputing.net/) - Online collection of malware samples.
@@ -372,7 +374,7 @@
 - [624](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/624-11.zip) - COM packer that can compress COM programs shorter than 25000 bytes.
 - [ABK Scrambler](https://defacto2.net/f/a520164?packer=abk-scrambler) - COM file scrambler and protector recoded from ABKprot.
 - [AEP](https://defacto2.net/f/a520164?packer=aep) - Addition Encode-Protective for COM and EXE file.
-- [AINEXE](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/ain232.zip) - DOS executable packer (part of the AIN Archiver suite).
+- [AINEXE](https://defacto2.net/f/a520164?packer=ainexe) - DOS executable packer (part of the AIN Archiver suite).
 - [aPack](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/apack099.zip) - 16-bit real-mode DOS executable ( .EXE and .COM ) compressor.
 - [AVPack](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/avpck122.zip) - Encrypts EXE or COM files so that they'll be able to start on your PC only.
 - [AXE](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/axe22.zip) - Program compression utility.
@@ -485,6 +487,7 @@
 - [PEPack](https://github.com/merces/pev) - PE file packer detection tool, part of the Unix package "pev".
 - [PEscan](https://tzworks.com/prototype_page.php?proto_id=15) - CLI tool to scan PE files to identify how they were constructed.
 - [PETools](https://github.com/petoolse/petools) - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
+- [PEview](http://wjradburn.com/software) - Provides a quick and easy way to view the structure and content of 32-bit Portable Executable (PE) and Component Object File Format (COFF) files.
 - [Pin - A Dynamic Binary Instrumentation Tool](https://www.intel.com/content/www/us/en/developer/articles/tool/pin-a-dynamic-binary-instrumentation-tool.html) - Dynamic binary instrumentation framework for the IA-32, x86-64 and MIC instruction-set architectures that enables the creation of dynamic program analysis tools.
 - [PINdemonium](https://github.com/Phat3/PINdemonium) - Unpacker for PE files exploiting the capabilities of PIN.
 - [PolyUnpack](https://github.com/PlatonovIvan/PolyUnpack) - Implemention attempt of the general approach for extracting the original hidden code of PE files without any heuristic assumptions.
@@ -516,6 +519,7 @@
 - [Uunp (IDA Pro plugin)](https://www.hex-rays.com/blog/unpacking-mpressed-pe-dlls-with-the-bochs-plugin/) - IDA Pro debugger plug-in module automating the analysis and unpacking of packed binaries.
 - [VirusTotal](https://www.virustotal.com/gui/) - File analysis Web service for detecting malware.
 - [VMUnpacker](https://www.leechermods.com/2010/01/vmunpacker-16-latest-version.html) - Unpacker based on the technology of virtual machine.
+- [Winbindex](https://github.com/m417z/winbindex) - An index of Windows binaries, including download links for executables such as exe, dll and sys files.
 
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
 
