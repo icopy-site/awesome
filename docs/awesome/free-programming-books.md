@@ -194,11 +194,11 @@ Write, compile and run your code within a browser. Try it out!
 
 Volunteers have translated many of our Contributing, How-to, and Code of Conduct documents into languages covered by our lists.
 
-- English
-  - [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT.md)
-  - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING.md)
-  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO.md)
-- ... *[More languages](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/README.md#translations)* ...
++ English
+  + [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT.md)
+  + [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING.md)
+  + [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO.md)
++ ... *[More languages](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/README.md#translations)* ...
 
 You might notice that there are [some missing translations here](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/README.md#translations) - perhaps you would like to help out by [contributing a translation](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
 
