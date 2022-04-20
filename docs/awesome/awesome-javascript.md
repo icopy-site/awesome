@@ -207,6 +207,17 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
 * [swig](https://github.com/paularmstrong/swig) - (Archived) A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
 
+## Game Engines
+* [A-Frame](https://aframe.io) - Make WebVR.
+* [Cocos](https://www.cocos.com) - Open Source Cross-Platform Game Development Framework.
+* [Impact](https://impactjs.com) - Impact - HTML5 Canvas & JavaScript Game Engine.
+* [GDevelop](https://gdevelop.io) - Free and Easy Game-Making App.
+* [Kaboom.js](https://kaboomjs.com) - A game programming library that helps you make games fast and fun.
+* [Matter.js](https://brm.io/matter-js) - A 2D rigid body JavaScript physics engine.
+* [Phaser](https://phaser.io) - Phaser - A fast, fun and free open source HTML5 game framework.
+* [PixiJS](https://pixijs.com) - The HTML5 Creation Engine.
+* [PlayCanvas](https://playcanvas.com) - PlayCanvas WebGL Game Engine.
+
 ## Articles and Posts
 
 * [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-voc%C3%AA-deveria-conhecer-b70e94d1d706) - Article about concepts of JavaScript Functional.
