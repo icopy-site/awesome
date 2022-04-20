@@ -4,29 +4,26 @@
 
 [<img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-logo.svg?sanitize=true" align="right" width="250">](http://vertx.io)
 
-*Awesome Vert.x* is a list of awesome frameworks, libraries or other components for use with or that use
-[Vert.x](https://github.com/eclipse/vert.x) version.
+*Awesome Vert.x* is a list of awesome frameworks, libraries or other components related to
+[Vert.x](https://github.com/eclipse/vert.x).
 
-If you want your component to appear here send a pull request to this repository to add it.
+If you want your component to appear here, send a pull request to this repository to add it.
 
 Please note that we can't vouch for the stability or production-worthiness of everything on this list unless it has
 the icon <img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-favicon.svg?sanitize=true" alt="(stack)" title="Vert.x Stack" height="16px">
 next to it. This icon means the component is part of the official
 [Vert.x stack](https://vertx.io/docs/).
 
-For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/blob/master/./vert-x2.md).
-
 
 
 ## Books
 
-* [A gentle guide to asynchronous programming with Eclipse Vert.x for Java developers](http://vertx.io/docs/guide-for-java-devs/) by Julien Ponge, Thomas Segismont and Julien Viet
 * [Building Reactive Microservices in Java](https://developers.redhat.com/promotions/building-reactive-microservices-in-java/) by Clément Escoffier
 * [Vert.x in Action](https://www.manning.com/books/vertx-in-action) by Julien Ponge
 
 ## Build tools
 
-* [Vert.x Maven plugin](https://github.com/fabric8io/vertx-maven-plugin)
+* [Vert.x Maven plugin](https://github.com/reactiverse/vertx-maven-plugin)
 * [Vert.x Gradle plugin](https://plugins.gradle.org/plugin/io.vertx.vertx-plugin)
 * [Vert.x Codegen Gradle plugin](https://github.com/bulivlad/vertx-codegen-plugin) - A Gradle plugin to facilitate the codegen usage for Vert.x Java projects.
 
@@ -110,7 +107,6 @@ For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/
   * [Kafka Service](https://github.com/hubrick/vertx-kafka-service) - Kafka producer and consumer with retry logic.
   * [STOMP](https://github.com/vert-x3/vertx-stomp) <img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-favicon.svg?sanitize=true" alt="(stack)" title="Vert.x Stack" height="16px"> - A Kafka client and server.
   * [ZeroMQ](https://github.com/dano/vertx-zeromq) - ZeroMQ Event Bus bridge.
-  * [MQTT Broker](https://github.com/GruppoFilippetti/vertx-mqtt-broker) - MQTT Broker (MQTT ver. 3.1.1 and 3.1 compliant).
   * [Azure ServiceBus](https://github.com/TextBack/vertx-azure-servicebus) - Azure [ServiceBus](https://azure.microsoft.com/en-us/services/service-bus/) producer and consumer (fully async, doesn't use Microsoft Azure SDK).
   * [AMQP 1.0 - Kafka bridge](https://github.com/rhiot/amqp-kafka-bridge) - Bridge for sending/receiving messages to/from Apache Kafka using the AMQP 1.0 protocol.
   * [Vert.x Kafka Client](https://github.com/vert-x3/vertx-kafka-client) <img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-favicon.svg?sanitize=true" alt="(stack)" title="Vert.x Stack" height="16px"> - Apache Kafka client for reading and sending messages from/to an Apache Kafka cluster.
@@ -145,11 +141,10 @@ For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/
 
 ## Middleware
 
-* [Apache Camel](https://github.com/apache/camel/blob/master/components/camel-vertx/src/main/docs/vertx-component.adoc) - [Apache Camel](http://camel.apache.org/) component for bridging Camel with the Vert.x event bus.
+* [Apache Camel](https://camel.apache.org/components/vertx-component.html) - [Apache Camel](http://camel.apache.org/) component for bridging Camel with the Vert.x event bus.
 * [Gateleen](https://github.com/swisspush/gateleen) - Middleware library based on Vert.x to build advanced JSON/REST communication servers.
 * [Gravitee.io](https://gravitee.io) - An OSS API Platform including an API Gateway and an OAuth2 / OIDC authorization server based on Vert.x Core / Vert.x Web and other modules.
 * [API Framework](https://github.com/vinscom/api-framework) - Vert.x and Glue based microservice framework removing distinction between standalone and serveless application. All services can run in standalone server, but, if required, same codebase can be used to run any service as serverless application.
-
 
 ## Language Support
 
@@ -168,7 +163,7 @@ For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/
 * [vertx-util](https://github.com/cyngn/vertx-util) - Light weight promises & latches for Vert.x.
 * [QBit](https://github.com/advantageous/qbit) - Async typed actor-like lib that runs easily in Vert.x Async Callbacks. Callback management.
 * [VxRifa](https://nsforth.github.io/vxrifa) - Utility library for Vert.X that allows using strong-typed interfaces in communication through EventBus.
-* [Vert.x Effect](https://github.com/imrafaelmerino/vertx-effect) - Pure functional and reactive library based on the IO Monad to implement any complex flow. Full support for retry, fallback and recovery operations. 
+* [Vert.x Effect](https://github.com/imrafaelmerino/vertx-effect) - Pure functional and reactive library based on the IO Monad to implement any complex flow. Full support for retry, fallback and recovery operations.
 
 ## Sync Thread Non Block
 
@@ -292,18 +287,19 @@ For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/
 * [Crabzilla](https://github.com/crabzilla/crabzilla) - Yet another Event Sourcing experiment. A project exploring Vert.x to develop Event Sourcing / CQRS applications.
 * [Vert.x PostgreSQL Starter](https://github.com/BillyYccc/vertx-postgresql-starter) - A starter to build a monolithic CRUD RESTful Web Service with Vert.x stack and PostgreSQL.
 * [Cloud Foundry](https://github.com/amdelamar/vertx-cloudfoundry) - An example Vert.x for deploying to a [Cloud Foundry](https://www.cloudfoundry.org/) service provider.
-* [Knative](https://github.com/knative/docs/tree/master/serving/samples/helloworld-vertx) - An example application on how to use [Reactive Extensions Vert.x](https://github.com/vert-x3/vertx-rx) with [Knative](https://github.com/knative).
+* [Knative](https://github.com/knative/docs/tree/main/code-samples/community/serving/helloworld-vertx) - An example application on how to use [Reactive Extensions Vert.x](https://github.com/vert-x3/vertx-rx) with [Knative](https://github.com/knative).
 * [Starter Single Verticle API](https://github.com/jgarciasm/ssv-api) - REST API Starter and Project Template ready to deploy with lots of plumbing code, examples, and documentation to quickly develope an API with almost no knowledge of vert.x and without any waste of time.
+
 ## Deployment
 
 * [Vert.x Deploy Application](https://github.com/msoute/vertx-deploy-tools) - (Seamless) deploy to AWS based Vert.x application clusters.
 
 ## Utilities
 
-* [Chime](https://github.com/LisiLisenok/Chime) - Time scheduler working on Vert.x event bus allowing for scheduling with _cron-style_ and _interval_ timers.
+* [Chime](https://github.com/LisiLisenok/Chime) - Time scheduler working on Vert.x event bus allowing for scheduling with *cron-style* and *interval* timers.
 * [Vert.x Cron](https://github.com/diabolicallabs/vertx-cron) - Schedule events with cron specifications. Has event bus and Observable versions.
 * [Vert.x CronUtils](https://github.com/NoEnv/vertx-cronutils) - An abstraction of cron-utils for the vertx scheduler. Unix, Cron4j and Quartz style expressions are supported.
-* [Vert.x Scheduler](https://github.com/zero88/vertx-scheduler) - A lightweight plugable scheduler based on plain Vert.x core without any external libs for scheduling with _cron-style_ and _interval_ timers with a detail _monitor_ on both sync and async task.
+* [Vert.x Scheduler](https://github.com/zero88/vertx-scheduler) - A lightweight plugable scheduler based on plain Vert.x core without any external libs for scheduling with *cron-style* and *interval* timers with a detail *monitor* on both sync and async task.
 * [Vert.x POJO config](https://github.com/aesteve/vertx-pojo-config) - Allows for mapping between standard JSON configuration and a (type-safe) configuration Java bean. Also allows the configuration bean to be validated through JSR 303.
 * [Vert.x Async](https://github.com/gchauvet/vertx-async) - Portage of caolan/async nodejs module to Vert.x framework that provides helpers methods for common async patterns.
 * [Vert.x JOLT](https://github.com/lusoalex/vertx-jolt) - JSON to JSON transformation tool based on the original bazaarvoice JOLT project. Helpful to transform different json structure into an expected json format.
@@ -317,39 +313,33 @@ For Vert.x version 2 check [this page](https://github.com/vert-x3/vertx-awesome/
 
 ## Presentations
 
-- [Vert.x Youtube channel](https://www.youtube.com/channel/UCGN6L3tRhs92Uer3c6VxOSA)
+* [Vert.x Youtube channel](https://www.youtube.com/channel/UCGN6L3tRhs92Uer3c6VxOSA)
 
 ## Community
 
-- [User Group](https://groups.google.com/forum/?fromgroups#!forum/vertx) - Discuss all user issues related to *using* Vert.x.
-- [Developer Group](https://groups.google.com/forum/?fromgroups#!forum/vertx-dev) - A group for Vert.x core *developers* and *contributors*.
-- [Discord Server](https://discord.gg/KzEMwP2) - Chat about any Vert.x-related topic.
-- [Issues](https://github.com/vert-x3/issues/issues) - Vert.x core issue tracker.
-- [Wiki](https://github.com/vert-x3/wiki/wiki) - Contains useful information about Vert.x.
-- [Blog](http://vertx.io/blog/) - The official Vert.x blog containing many tutorials and other information.
+* [User Group](https://groups.google.com/forum/?fromgroups#!forum/vertx) - Discuss all user issues related to *using* Vert.x.
+* [Developer Group](https://groups.google.com/forum/?fromgroups#!forum/vertx-dev) - A group for Vert.x core *developers* and *contributors*.
+* [Discord Server](https://discord.gg/KzEMwP2) - Chat about any Vert.x-related topic.
+* [Issues](https://github.com/vert-x3/issues/issues) - Vert.x core issue tracker.
+* [Wiki](https://github.com/vert-x3/wiki/wiki) - Contains useful information about Vert.x.
+* [Blog](http://vertx.io/blog/) - The official Vert.x blog containing many tutorials and other information.
 
 ## Articles
 
-- [Going reactive with Eclipse Vert.x and RX Java ](https://blogs.oracle.com/javamagazine/going-reactive-with-eclipse-vertx-and-rxjava)
-- [First Steps With Vert.x and Infinispan - Part 2: PUSH API ](https://dzone.com/articles/first-steps-with-vertx-and-infinispan-push-api-par)
-- [First Steps With Vert.x and Infinispan - Part 1: REST API ](https://dzone.com/articles/first-steps-with-vertx-and-infinispan-rest-api)
-- [Location Transparency With Vert.x ](https://dzone.com/articles/location-transparency-with-vertx)
-- [Reactive Microservices and Service Discovery with Vert.x ](https://dzone.com/articles/reactive-microservices-and-service-discovery-with)
-- [https://dzone.com/articles/vertx-330-development-automation](https://dzone.com/articles/vertx-330-development-automation)
-- [Vert.x 3.3.0 Features Enhanced Networking Microservices, Testing and More ](https://www.infoq.com/news/2016/06/Vert.x-3.3.0-release-features)
-- [Launching Vert.x Dynamically](https://dzone.com/articles/vertx-launcher)
-- [Secure Your Vertx 3 App With Pac4j](https://dzone.com/articles/secure-your-vertx)
-- [Interview with Tim Fox About Vert.x 3, the Original Reactive, Microservice Toolkit for the JVM ](http://www.infoq.com/articles/vertx-3-tim-fox)
+* [Going reactive with Eclipse Vert.x and RX Java](https://blogs.oracle.com/javamagazine/going-reactive-with-eclipse-vertx-and-rxjava)
+* [First Steps With Vert.x and Infinispan - Part 2: PUSH API](https://dzone.com/articles/first-steps-with-vertx-and-infinispan-push-api-par)
+* [First Steps With Vert.x and Infinispan - Part 1: REST API](https://dzone.com/articles/first-steps-with-vertx-and-infinispan-rest-api)
+* [Location Transparency With Vert.x](https://dzone.com/articles/location-transparency-with-vertx)
+* [Reactive Microservices and Service Discovery with Vert.x](https://dzone.com/articles/reactive-microservices-and-service-discovery-with)
+* [https://dzone.com/articles/vertx-330-development-automation](https://dzone.com/articles/vertx-330-development-automation)
+* [Vert.x 3.3.0 Features Enhanced Networking Microservices, Testing and More](https://www.infoq.com/news/2016/06/Vert.x-3.3.0-release-features)
+* [Launching Vert.x Dynamically](https://dzone.com/articles/vertx-launcher)
+* [Secure Your Vertx 3 App With Pac4j](https://dzone.com/articles/secure-your-vertx)
+* [Interview with Tim Fox About Vert.x 3, the Original Reactive, Microservice Toolkit for the JVM](http://www.infoq.com/articles/vertx-3-tim-fox)
 
 ## Tutorials
 
-- [Vert.x - From zero to (micro-) hero](http://escoffier.me/vertx-hol)
-- [Introduction to Vert.x](https://vertx.io/get-started/)
-
-## Social events / Meetups
-
-- [Amsterdam/The Netherlands](https://www.meetup.com/Vert-x-NL)
-- [Paris](https://www.meetup.com/Paris-vert-x-Meetup/)
+* [Introduction to Vert.x](https://vertx.io/get-started/)
 
 ## Front-End
 
