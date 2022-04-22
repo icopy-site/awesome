@@ -16,7 +16,6 @@ A curated collection of resources covering all aspects of load-testing using [Ga
   - [Gatling](https://gatling.io/open-source/) - Open source version.
   - [Gatling Enterprise](https://gatling.io/enterprise/) - Enterprise version (formerly known as Gatling FrontLine), with advanced analytics and integrations.
 - [Documentation](https://gatling.io/docs/gatling/)
-- [Cheat-sheet](https://gatling.io/docs/gatling/reference/current/cheat-sheet/)
 - [Source code](https://github.com/gatling/gatling)
 
 ## Getting Started
@@ -93,7 +92,8 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 ## Trainings & Courses
 
 - [Gatling Academy](https://gatling.io/academy/)
-- [Gatling Courses by Udemy](https://www.udemy.com/topic/gatling/)
+- [Gatling Courses](https://www.udemy.com/topic/gatling/) - By Udemy.
+- [Performance Test Automation 101: Gatling, Lighthouse, & Jenkins](https://www.educative.io/courses/performance-test-automation-101-gatling-lighthouse-jenkins) - By Educative.
 
 ## Videos
 
