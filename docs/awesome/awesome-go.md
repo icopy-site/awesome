@@ -429,6 +429,7 @@ additional ordered map implementations.
 - [hilbert](https://github.com/google/hilbert) - Go package for mapping values to and from space-filling curves, such as Hilbert and Peano curves.
 - [hyperloglog](https://github.com/axiomhq/hyperloglog) - HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction.
 - [slices](https://github.com/srfrog/slices) - Functions that operate on slices; like `package strings` but adapted to work with slices.
+- [slices](https://github.com/twharmon/slices) - Pure, generic functions for slices.
 
 ### Nullable Types
 
@@ -2766,6 +2767,7 @@ _Software written in Go._
 - [Gitea](https://github.com/go-gitea/gitea) - Fork of Gogs, entirely community driven.
 - [gitea-github-migrator](https://git.jonasfranz.software/JonasFranzDEV/gitea-github-migrator) - Migrate all your GitHub repositories, issues, milestones and labels to your Gitea instance.
 - [go-furnace](https://github.com/go-furnace/go-furnace) - Hosting solution written in Go. Deploy your Application with ease on AWS, GCP or DigitalOcean.
+- [go-rocket-update](https://github.com/mouuff/go-rocket-update) - A simple way to make self updating Go applications - Supports Github and Gitlab.
 - [go-selfupdate](https://github.com/sanbornm/go-selfupdate) - Enable your Go applications to self update.
 - [gobrew](https://github.com/cryptojuice/gobrew) - gobrew lets you easily switch between multiple versions of go.
 - [godbg](https://github.com/sirnewton01/godbg) - Web-based gdb front-end application.
