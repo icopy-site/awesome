@@ -86,6 +86,7 @@ Neovim supports a wide variety of UI's.
 - [fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress.
 - [git.sr.ht/~whynothugo/lsp_lines.nvim](https://git.sr.ht/~whynothugo/lsp_lines.nvim) - A Neovim plugin that renders diagnostics using virtual lines on top of the real line of code.
 - [scalameta/nvim-metals](https://github.com/scalameta/nvim-metals) - Neovim plugin for Metals, the Scala language server, using Neovim's builtin LSP.
+- [junnplus/nvim-lsp-setup](https://github.com/Junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
 
 ##### LSP Installer
 
@@ -118,7 +119,7 @@ Neovim supports a wide variety of UI's.
 - [mini.completion](https://github.com/echasnovski/mini.nvim#minicompletion) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) for asynchronous two-stage completion. Supports showing completion item info and independent function signature.
 - [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet) - A Neovim autocompletion framework written in Rust.
 
-### Markdown
+### Markdown / LaTeX
 
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - Markdown preview using glow.
 - [davidgranstrom/nvim-markdown-preview](https://github.com/davidgranstrom/nvim-markdown-preview) - Markdown preview in the browser using pandoc and live-server through Neovim's job-control API.
@@ -128,6 +129,7 @@ Neovim supports a wide variety of UI's.
 - [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) - A Neovim plugin that evaluates code blocks inside markdown documents.
 - [mjlbach/babelfish.nvim](https://github.com/mjlbach/babelfish.nvim) - A Neovim plugin to convert Markdown to vimdoc using Treesitter.
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - A pandoc to vimdoc GitHub action.
+- [frabjous/knap](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
 
 ### Syntax
 
@@ -298,6 +300,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ### Utility
 
+- [nyngwang/NeoNoName.lua](https://github.com/nyngwang/NeoNoName.lua) - A layout-preserving buffer-deleter for Neovim.
 - [famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim) - Delete Neovim buffers without losing your window layout.
 <!--lint ignore double-link-->
 - [mini.bufremove](https://github.com/echasnovski/mini.nvim#minibufremove) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) for buffer removing (unshow, delete, wipeout) while saving window layout.
@@ -501,6 +504,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [mini.jump](https://github.com/echasnovski/mini.nvim#minijump) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) for smarter jumping to a single character.
 - [mfussenegger/nvim-ts-hint-textobject](https://github.com/mfussenegger/nvim-ts-hint-textobject) - Region selection with hints on the AST nodes of a document powered by treesitter.
 - [rlane/pounce.nvim](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
+- [ziontee113/syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
 
 ### Code Runner
 
@@ -600,6 +604,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 ### Media
 
 - [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - Neovim Lua plugin to paste image from clipboard.
+- [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - A picgo-core-based Neovim plugin, written in Lua, that allows you to upload images to the image bed, which means you can view your images from anywhere on the internet.
 - [gwatcha/reaper-keys](https://github.com/gwatcha/reaper-keys) - Modal keybindings for Reaper DAW.
 - [madskjeldgaard/reaper-nvim](https://github.com/madskjeldgaard/reaper-nvim) - Remote control Reaper DAW from Neovim.
 - [davidgranstrom/scnvim](https://github.com/davidgranstrom/scnvim) - Neovim frontend for SuperCollider.
@@ -652,6 +657,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [CanKolay3499/CNvim](https://github.com/CanKolay3499/CNvim) - A lightweight Neovim config for web development.
 - [jrychn/moduleVim](https://github.com/jrychn/ModuleVim) - A very easy to use
   for backend and frontend, install lsp automatically.
+- [askfiy/nvim](https://github.com/askfiy/nvim) - An excellent Neovim configuration, which is as powerful as Vcode, is lightning fast ⚡️.
 
 ### Keybinding
 
