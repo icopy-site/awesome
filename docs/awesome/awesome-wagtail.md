@@ -63,6 +63,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Blocks](https://github.com/ibrahimawadhamid/wagtail_blocks) - A Collection of awesome Wagtail CMS stream-field blocks and Charts.
 - [Wagtail UI Plus](https://github.com/davidcondenl/wagtailuiplus) - Several UI improvements to the Wagtail editor interface for StreamFields and StreamBlocks.
 - [Wagtail Cache Block](https://github.com/AccordBox/wagtail_cache_block) - A templatetag which add HTML fragment cache to your StreamField block
+- [Wagtail UIKit Block](https://github.com/kpsaurus/wagtail-uikitblocks) - A collection of UIKit components that can be used as a Wagtail StreamField block.
 
 ### Static site generation
 
@@ -79,6 +80,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtailinvoices](https://github.com/SableWalnut/wagtailinvoices) - A Wagtail module for creating invoices.
 - [longclaw](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
 - [django-oscar-wagtail](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?).
+- [django-salesman](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django with Wagtail modeladmin integration.
 
 ### SEO and SMO
 
@@ -115,16 +117,19 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Image Import](https://github.com/jacobtoppm/wagtail-image-import) - A plugin for importing images from Google Drive. 
 - [Wagtail SVG](https://github.com/Aleksi44/wagtailsvg) - A Wagtail module for managing SVG files within the admin.
 - [Wagtail Makeup](https://github.com/kevinhowbrook/wagtail-makeup) - A plugin that replaces all your images with [Unsplash](https://unsplash.com/) images.
+- [Rent Free Media](https://github.com/RentFreeMedia/rentfreemedia) - A media distribution framework built on Django and Wagtail. Premium / subscription-based publishing like Patreon or Substack.
+- [Wagtail CLIP](https://github.com/MattSegal/wagtail-clip) - A module for searching the contents of Wagtail images with natural language queries.
 
 ### Translations
 
 - [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
 - [wagtailtrans](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
+- [Wagtail Localize](https://github.com/wagtail/wagtail-localize) - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
 
 ### Forms
 
-- [wagtailpolls](https://github.com/takeflight/wagtailpolls) - A plugin for adding polling capabilities to the Wagtail CMS.
-- [Wagtailsurveys](https://github.com/torchbox/wagtailsurveys) - A module for Wagtail which provides the ability to build polls and surveys.
+Before looking into form add-ons, take a look at [Wagtail's Form Builder](https://docs.wagtail.org/en/stable/reference/contrib/forms/).
+
 - [Wagtail ReCaptcha](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
 - [Wagtail Simple Captcha](https://github.com/acarasimon96/wagtail-django-simple-captcha) - A self-hosted alternative to Wagtail ReCaptcha that easily integrates a [django-simple-captcha](https://github.com/mbi/django-simple-captcha) field into the Wagtail form builder.
 - [wagtailstreamforms](https://github.com/AccentDesign/wagtailstreamforms) - Build forms in Wagtail's admin for use in streamfields.
@@ -178,6 +183,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail bootstrap blog](https://github.com/AccordBox/wagtail-bootstrap-blog) - A Wagtail blog which has Bootstrap theme, supports writing in `Markdown`, `Latex`. It also has comment workflow, comment form supports `Mention` and `Emoji`. Frontend is built by `Webpack`, `Babel` and `SCSS`.
 - [Wagtail react blog](https://github.com/AccordBox/wagtail-react-blog) - SPA blog built with React, Bootstrap4, Storybook and Wagtail Rest API. It also supports headless preview.
 - [CodeRed CMS](https://github.com/coderedcorp/coderedcms) - a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/) or [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g&t=228s).
+- [Wordpress to Wagtail migration kit](https://github.com/torchbox/wagtail-wordpress-import) - Import WordPress blog content from an XML file into Wagtail.
 
 ## Resources
 
@@ -347,7 +353,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [BVSPCA](https://github.com/nfletton/bvspca) – Bow Valley SPCA website.
 - [Project TIER](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
 - [SecureDrop](https://github.com/freedomofpress/securedrop.org) – Wagtail-powered website of the SecureDrop whistleblower document submission system.
-- [Consumer Financial Protection Bureau](https://github.com/cfpb/cfgov-refresh) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
+- [Consumer Financial Protection Bureau](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
 - [WesternFriend](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
 
 ## Contribute

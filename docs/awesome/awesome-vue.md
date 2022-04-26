@@ -2942,6 +2942,7 @@ _LocalStorage etc._
 - [vue-apollo](https://github.com/Akryum/vue-apollo) - Apollo/GraphQL integration for VueJS.
 - [vue-relay](https://github.com/ntkme/vue-relay) - A framework for building GraphQL-driven Vue.js applications.
 - [vuex-orm-apollo](https://github.com/vuex-orm/vuex-orm-apollo) - Apollo/GraphQL integration for Vuex-ORM.
+- [apollo-vue-devtools](https://github.com/storipress/apollo-vue-devtools) - Apollo integration for Vue-Devtools to inspect GraphQL queries in the vue-devtools timeline
 
 #### Concurrency Management
 
@@ -3137,6 +3138,7 @@ _Integrate with services or other frameworks_
 - [vuetube](https://github.com/webistomin/vuetube) - 🚀 A fast, lightweight, lazyload vue component acting as a thin layer over the YouTube Iframe Player API which renders fast
 - [vue-tweet](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 - [vue-dapp](https://github.com/chnejohnson/vue-dapp) - Vue 3 library for building Dapps with ethers.js.
+- [vue3-recaptcha2](https://github.com/bbonch/vue3-recaptcha2) - Google reCAPTCHA 2 for Vue 3.
 
 #### Vue CLI Plugins
 

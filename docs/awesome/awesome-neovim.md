@@ -364,6 +364,8 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 - [Olical/aniseed](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel (Lisp to Lua).
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - Seamless, transparent Fennel inside Neovim.
+- [udayvir-singh/tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) - Sweet :tangerine: Fennel integration for Neovim, aims to be as fast as possible.
+- [udayvir-singh/hibiscus.nvim](https://github.com/udayvir-singh/hibiscus.nvim) - Flavored :hibiscus: Fennel macro library for Neovim.
 
 ### Tabline
 
@@ -533,6 +535,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 ### Scrolling
 
 - [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling for Neovim.
+- [declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command in Neovim.
 
 ### Mouse
 
@@ -677,6 +680,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [danielpieper/telescope-tmuxinator.nvim](https://github.com/danielpieper/telescope-tmuxinator.nvim) - Integration for tmuxinator with telescope.nvim.
 - [hkupty/nvimux](https://github.com/hkupty/nvimux) - Neovim as tmux replacement.
 - [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - Smoothly navigate between Neovim splits and Tmux panes.
+- [declancm/windex.nvim](https://github.com/declancm/windex.nvim) - Collection of window functions which includes moving between, closing and maximizing Neovim splits and Tmux panes.
 
 ### Remote Development
 
