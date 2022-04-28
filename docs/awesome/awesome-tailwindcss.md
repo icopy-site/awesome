@@ -97,6 +97,7 @@
 - 💼 [Content Placeholder](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
 - 💼 [No Scrollbar](https://github.com/redwebcreation/tailwindcss-no-scrollbar) - Exposes `scrollbar-none` to visually hide a scrollbar.
 - 💼 [Fluid Type](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
+- 💼 [Grid Areas](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
 - 🧬 [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - Adds `touch` variants.
 - 🧬 [Localized](https://github.com/hdodov/tailwindcss-localized) - Adds variants based on the HTML `lang` attribute, to use utilities only with certain languages.
 - 🧬 [Padded Radius](https://github.com/locksten/tailwindcss-padded-radius) - Adds variants for matching nested border radii.
@@ -214,6 +215,7 @@
 - 💼🔧 [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) - Zeplin extension that generates Tailwind configurations.
 - 💼🔧 [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) - Babel macro that transforms Tailwind CSS classes into objects for CSS-in-JS libraries.
 - 💼🔧 [twin.macro](https://github.com/ben-rogerson/twin.macro) - Use Tailwind classes within any CSS-in-JS library.
+- 💼🔧 [tailwindcss-webpack-plugin](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
 - 💼🔧 [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) - Local UI tool for visualizing your Tailwind CSS configuration file.
 - 💼🔧 [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - Blade form components using Tailwind CSS Custom Forms.
 - 💼 [@ngneat/tailwind](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.

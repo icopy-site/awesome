@@ -55,11 +55,15 @@ The first step. The hardest: how to requalify oneself from an Individual Contrib
 
 - [How to be a Manager – A step-by-step guide to leading a team](https://getweeklyupdate.com/manager-guide) - A full, detailed guide on modern management practices.
 
+- [On being an Engineering Manager](https://ruiper.es/f746f5b7fff042c0a2565b6e36d236a4) - Some of these points needs nuance, but others are a good taste of things to come for first-time managers.
+
 - [Responsibility vs. accountability](https://news.ycombinator.com/item?id=21892816) - The biggest difference between manager (accountable) and engineers (responsible): “'Bad things' happen for the person accountable, whereas the person responsible can move on to the next project.”
 
 - “It is a job where your goal is to try disappoint people most slowly.” ([source](https://news.ycombinator.com/item?id=18222488)).
 
 - “So the trick is basically to put them (your direct reports) in charge, not you. You have the supporting role, they can request things from you. But the goal needs to be very clear.” ([source](https://news.ycombinator.com/item?id=23973859)) - A recipe on how to work with your direct reports, from a section of [7 habits of highly effective people](https://amzn.com/B01069X4H0/?tag=kevideld-20).
+
+- [The One Minute Manager Meets the Monkey](https://amzn.com/0688103804/?tag=kevideld-20) - The author use a parable in which problems are monkeys. Unexperienced managers let monkeys being transferred to them, accumulates on their back and compounds. From this, the book teach you how to change from taking on responsibilities to delegating them so you don't become a bottleneck.
 
 ## Building Teams
 
@@ -269,7 +273,7 @@ A critical step to close up the hiring process.
 
 How to get newcomers up to speed with the rest of the team you manage. And how to introduce yourself to teams you just joined or inherited.
 
-- [The Most Important Performance Management Rule For Software Engineers](https://staysaasy.com/startups/2022/04/03/performance-management.html) - “Merge code every week. That’s what you should be saying to your new Software Engineering hire.”
+- [The Most Important Performance Management Rule For Software Engineers](https://staysaasy.com/startups/2022/04/03/performance-management.html) - “Merge code every week. That's what you should be saying to your new Software Engineering hire.”
 
 - [Optimize Onboarding](https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html) - “Your organization has painfully slow onboarding. Endless HR videos, slow security processes, a mountain of fragile technology setup - these all make for a shitty and counterproductive start at a company. Optimize your onboarding to get people doing what you hired them to do.”
 
@@ -505,7 +509,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 Two humans + a (virtual) room = a meeting.
 
-- [Dear Manager, You’re Holding Too Many Meetings](https://hbr.org/2022/03/dear-manager-youre-holding-too-many-meetings) - “Employee productivity was 71% higher when meetings were reduced by 40%. This is largely because employees felt more empowered and autonomous. Rather than a schedule being the boss, they owned their to-do lists and held themselves accountable.”
+- [Dear Manager, You're Holding Too Many Meetings](https://hbr.org/2022/03/dear-manager-youre-holding-too-many-meetings) - “Employee productivity was 71% higher when meetings were reduced by 40%. This is largely because employees felt more empowered and autonomous. Rather than a schedule being the boss, they owned their to-do lists and held themselves accountable.”
 
 - [How to have great meetings, according to 200 scientific studies](https://qz.com/work/1713662/how-to-have-great-meetings-according-to-200-scientific-studies/) - A roadmap for getting meetings right.
 
