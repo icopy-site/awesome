@@ -89,6 +89,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### Entry Point
 - [learn](https://learn.adacore.com/) - Interactive learning platform designed to teach the Ada and SPARK programming languages.
+- [programming-with-ada](https://pyjarrett.github.io/programming-with-ada/) - Anecdotes and summaries from learning Ada 2012.
 
 #### Tutorials
 - [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) - AdaCore University Video Tutorials.
@@ -131,14 +132,14 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ## Community
 
 #### Questions and Answers
+- [gitter-ada](https://gitter.im/ada-lang/Lobby) - Ada channel at Gitter.									   
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet newsgroup/forum.
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Ada at Stack Overflow.
 - [subreddit-ada](https://www.reddit.com/r/ada/) - Ada at Reddit.
 - [subreddit-spark](https://www.reddit.com/r/spark/) - Spark at Reddit.
-- [gitter-ada](https://gitter.im/ada-lang/Lobby) - Ada channel at Gitter.
 - [telegram-ada](https://t.me/ada_lang) - Ada group at Telegram.
-- [#ada on Libera.Chat](https://libera.chat/) - Ada channel at IRC.
-- [matrix-ada](https://matrix.to/#/#ada-lang:matrix.org) - Ada room at Matrix.
+- [libera-chat-ada](https://libera.chat/) - Ada channel at IRC.
+- [matrix-ada](https://matrix.to/#/#ada-lang_Lobby:gitter.im) - Ada room at Gitter via Matrix.
 
 #### News and Resources
 - [adacore-blog](https://blog.adacore.com/) - An insight into the AdaCore ecosystem.
@@ -146,7 +147,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [acm-sig-ada](https://www.sigada.org/) - The Special Interest Group on Ada.
 - [ada-resource-association](http://www.adaic.org/community/) - Since 1990 the Ada Resource Association’s principal mission has been “To ensure continued success of Ada users and promote Ada use in the software industry”.
 - [ada-information-clearinghouse](http://www.adaic.org/) - News and resources for the Ada programming language.
-- [ada-planet](https://www.laeran.pl/adaplanet/i/) - News Aggregator from the Ada programming language world.
+- [ada-planet](https://www.laeran.pl/adaplanet/i/) - News Aggregator from the Ada programming language world. ([RSS feed via Matrix](https://matrix.to/#/#ada-lang:matrix.org))
 
 #### Competition
 <div align="center">
@@ -225,7 +226,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [synth](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).
 - [ada4cmake](https://github.com/mosteo/ada4cmake) - CMake macros for simple gnat project inclusion.
 - [cmake-ada-offa](https://github.com/offa/cmake-ada) - Ada language support for CMake.
-- [cmake-ada-cho3](https://github.com/cho3/cmake-ada) - CMake language support for Ada, fork of PLplot's cross-platform support code.
+- [cmake-ada-cho3](https://github.com/cho3/cmake-ada) - CMake language support for Ada, fork of [plplot]'s cross-platform support code.
 
 #### Continuous Integration
 - [continuous-verification](https://github.com/jklmnn/continuous-verification) - SPARK formal verification automated with Travis CI.
@@ -267,6 +268,9 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [mine-detector](https://github.com/jrcarter/Mine_Detector) - Mine Detector: a mine-finding game that never requires guessing.
 - [play-2048](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using [asfml] for graphics and [ada-toml] for saving state.
 - [bingada](https://github.com/jfuica/bingada) - Bingo application in [gtkada]
+- [civ-klon] - Civilization-style turn-based strategy game. Requires [asfml].
+
+[civ-klon]: https://github.com/HonkiTonk/Civ-Klon
 
 ## Frameworks
 
@@ -288,12 +292,14 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [gwindows](https://github.com/zertovitch/gwindows) - GNU Ada Visual Interface.
 - [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW, a High Level, Portable, Ada 95 Binding for Microsoft Windows.
 - [gtkada] - Ada graphical toolkit based on Gtk3 components.
-- [qt-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/qtada/qt5ada.html) - Ada-2012 port to QT 5 framework.
+- [qt-ada](https://r3fowwcolhrzycn2yzlzzw.on.drv.tw/AdaStudio/qt6ada/qt6ada.html) - Ada-2012 port to Qt 6 framework.
 - [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
 - [fltk-ada](http://jedbarber.id.au/fltkada.html) - Ada-2012 port to FLTK.
+- [ada-gui] - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga].
 
 [gnoga]: https://sourceforge.net/projects/gnoga/
 [gtkada]: https://github.com/AdaCore/gtkada
+[ada-gui]: https://github.com/jrcarter/Ada_GUI
 
 #### Terminal User Interface
 
@@ -501,8 +507,11 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
 - [free-type-ada](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
 - [asfml] - Ada binding to the Simple and Fast Multimedia Library.
+- [plplot] - Cross-platform, scientific graphics plotting library, including an Ada binding.
 
 [asfml]: https://github.com/mgrojo/ASFML
+[plplot]: https://sourceforge.net/projects/plplot/
+
 
 #### General Purpose Computing
 - [cuda](https://github.com/AdaCore/cuda) - CUDA support from AdaCore.
@@ -615,8 +624,12 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada]/Cairo).
 - [ada-3ds](https://github.com/AdaDoom3/Ada3DS) - A simple 3DS Max model renderer.
 - [canta](https://sourceforge.net/projects/canta/) - A tool to help to sing in tune.
+
 #### Automation
 - [acnc](https://github.com/Fabien-Chouteau/ACNC) - A G-code parser and CNC controller (in Ada).
+- [max-home-automation] - [gtkada] application to manage ELV/eQ-3 MAX! cubes for home automation.
+
+[max-home-automation]: https://sourceforge.net/projects/max-home-automation/
 
 #### Simulation
 - [ghdl](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
@@ -640,6 +653,11 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [gnatcoll-scripts-shell](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) - GNATCOLL.Scripts.Shell is a simple embeddable scripting language, part of GNATCOLL Core.
 - [analytical-engine](https://github.com/simonjwright/analytical-engine) - An Ada 2012 emulation of Charles Babbage’s Analytical Engine.
 - [a-shell](https://github.com/charlie5/aShell) - A component to aid in writing shell-like applications in Ada.
+- [dashera] - Data General DASHER terminal emulator using [gtkada].
+- [yotroc] - Assembler/Emulator for a fictional CPU architecture. IDE implemented in [gtkada].
+
+[dashera]: https://github.com/SMerrony/dashera
+[yotroc]: https://github.com/docandrew/YOTROC
 
 #### Programming Languages
 - [para-sail](http://parasail-lang.org/) - ParaSail is a highly parallel experimental language, similar to Go and Erlang. Originaly owned by SofCheck (now AdaCore), it is a test project to try new ideas. Expandable pointers is a sample feature that is about to be introduced to SPARK and Ada. There are in fact 4 experimental languages: ParaSail, Sparkel, Javallel, Parython, all sharing bytecode interpreter and LLVM engine.
@@ -647,6 +665,11 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Misc
 - [dhondt](https://github.com/simonjwright/dhondt) - Ada implementation of D’Hondt electoral result calculator.
 - [septum](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
+- [whitakers-words] - William Whitaker's WORDS, a Latin dictionary.
+- [ada-chess] - Chess engine written in Ada.
+
+[whitakers-words]: https://github.com/mk270/whitakers-words
+[ada-chess]: http://www.adachess.com/
 
 ## Bindings
 
