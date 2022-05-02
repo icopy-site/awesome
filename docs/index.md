@@ -748,7 +748,6 @@
 - [Transit](awesome/awesome-transit.md)
 - [Research Tools](awesome/awesome-research.md)
 - [Data Visualization](awesome/awesome-dataviz.md)
-- [Social Media Share Links](awesome/shareable-links.md)
 - [Microservices](awesome/awesome-microservices.md)
 - [Unicode](awesome/Awesome-Unicode.md) - Unicode standards, quirks, packages and resources.
 	- [Code Points](awesome/awesome-codepoints.md)

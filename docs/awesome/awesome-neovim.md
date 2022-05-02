@@ -115,6 +115,7 @@ Neovim supports a wide variety of UI's.
   - [David-Kunz/cmp-npm](https://github.com/David-Kunz/cmp-npm) - A nvim-cmp source for NPM.
   - [lukas-reineke/cmp-under-comparator](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
   - [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) - A nvim-cmp source for GitHub copilot.
+  - [rcarriga/cmp-dap](https://github.com/rcarriga/cmp-dap) - A nvim-cmp source for nvim-dap.
   <!--lint ignore double-link-->
 - [mini.completion](https://github.com/echasnovski/mini.nvim#minicompletion) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) for asynchronous two-stage completion. Supports showing completion item info and independent function signature.
 - [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet) - A Neovim autocompletion framework written in Rust.
@@ -627,6 +628,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 <!--lint ignore double-link-->
 - [mini.sessions](https://github.com/echasnovski/mini.nvim#minisessions) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) for session management (read, write, delete).
 - [persisted.nvim](https://github.com/olimorris/persisted.nvim) - Simple lua plugin for automated session management, even supporting sessions by git branch.
+- [Shatur/neovim-session-manager](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession.
 
 ### Test
 
@@ -655,7 +657,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [mjlbach/defaults.nvim](https://github.com/mjlbach/defaults.nvim) - An extremely small, single file, and commented configuration template demonstrating LSP integration, autocompletion, snippets, treesitter, and more.
 - [cstsunfu/.sea.nvim](https://github.com/cstsunfu/.sea.nvim) - A modular NeoVim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
 - [shaeinst/roshnivim](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE.
-- [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim) - AstroVim is an aesthetic and feature-rich Neovim config that is extensible and easy to use with a great set of plugins.
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich Neovim config that is extensible and easy to use with a great set of plugins.
 - [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
 - [CanKolay3499/CNvim](https://github.com/CanKolay3499/CNvim) - A lightweight Neovim config for web development.
 - [jrychn/moduleVim](https://github.com/jrychn/ModuleVim) - A very easy to use

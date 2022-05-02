@@ -258,9 +258,10 @@ All about development on EOSIO platform.
 
 ### YouTube Channels
 
+- [EOS Nation](https://www.youtube.com/channel/UCXgAY9DyooykrubRXw3xK1g) - EOS Hot Sauce, ENF, tech, and community content.
+- [Helios](https://www.youtube.com/c/HeliosEOSIO) - Dedicated to growing EOS, interviews and spotlights.
 - [EOS Go](https://www.youtube.com/c/EOSGo) - ESO Go community meetings, podcasts, live streams. News and discussions.
 - [Investing with a difference](https://www.youtube.com/channel/UC6SxkB3kM4uNs_yIU0Lqo_w) - EOSIO ecosystem overview, news and market discussions.
-- [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg) - Dallas Rushing channel. User related content and news.
 - [nsjames](https://www.youtube.com/user/grandmoren1) - Scatter related content.
 - [Crypto Dunker](https://www.youtube.com/user/clamantfever) - Crypto Dunker channel. EOSIO DApps related content and news.
 - [EOS Authority](https://www.youtube.com/channel/UCCBylil96ibgcBC1FDcMouw) - EOS Authority. Useful tutorials, developers related.
