@@ -151,7 +151,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Fearless Utils Android](https://github.com/soramitsu/fearless-utils-Android) - Android Substrate tools.
 
 ## Tools
-
+- [fudge](https://github.com/centrifuge/fudge) - Core lib for accessing and (arbitrarily) manipulating substrate databases, including the building and importing of local blocks.
 - [Polkadot-JS Apps UI](https://polkadot.js.org/apps/) - Semi-official block explorer & front-end
   for Substrate-based chains.
 - [Polkadot-JS Extension](https://github.com/polkadot-js/extension) - Browser extension for
@@ -202,6 +202,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Substrate Faucet Bot](https://github.com/starkleytech/substrate-faucet) - Python-based faucet for
   development purposes.
 - [Hydra](https://github.com/Joystream/hydra) - A GraphQL framework for Substrate nodes.
+- [Subsquid](https://subsquid.io) - An indexing framework (SDK + infrastructure) to quickly and easily
+  turn Substrate and EVM on-chain data into APIs and host them.
 - [Substrate Graph](https://github.com/playzero/substrate-graph) - GraphQL indexer for
   Substrate-based chains.
 - [SubQuery](https://subquery.network) - A GraphQL indexer and query service that allows users to
