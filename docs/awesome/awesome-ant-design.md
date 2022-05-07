@@ -67,6 +67,7 @@ Here are utilities that can help you customize your theme and ability to change 
 - [antd-theme-webpack-plugin](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - A webpack plugin to generate your custom theme file.
 - [antd-theme-generator](https://github.com/mzohaibqc/antd-theme-generator) - A simple script to generate theme specific less file which can be used in any environment.
 - [dynamic-antd-theme](https://github.com/luffyZh/dynamic-antd-theme) - A simple plugin to dynamic change ant-design theme whether less or css.
+- [storybook-addon-customize-antd-theme](https://github.com/letshare/storybook-addon-customize-antd-theme) - a Storybook addon help you visually customize an ant design theme.
 
 ### Themes
 
@@ -122,6 +123,7 @@ A list of UI components built with Ant Design.
 - [ngx-recursive-form](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form based on json input built with Ant Design.
 - [antd-amplify-react](https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication
 - [antd-password-input-strength](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator.
+- [antd-amiya](https://github.com/viewweiwu/amiya) - Page level components and with table and form.
 
 ## React Hooks
 
