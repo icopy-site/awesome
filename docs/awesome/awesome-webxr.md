@@ -18,6 +18,7 @@
 - [Dudes!](https://dudes.gatunes.com/) - A 3D voxel engine built by [Daniel Esteban](https://github.com/danielesteban). Features WebXR support, physics, pathfinding, a multiplayer-enabled VR sculpting mode, and more.
 - [Plockle](https://plockle.com/) - A spatial block puzzle game with over 40 levels.
 - [Castle Builder](https://castle.needle.tools/) - A collaborative and cross-platform castle-building game utilizing a unique Unity-to-three.js pipeline.
+- [Prehistoric Domain](https://www.prehistoricdomain.com/) - A Jurassic Park-esque experience in the browser, with multiple dinosaur exhibits available and more planned for the future.
 
 ## Art
 
@@ -43,7 +44,7 @@
 
 *Resources for creating and utilizing 3D avatars in immersive experiences.*
 
-- [Exokit Avatars](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more.
+- [Exokit Avatars](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here](https://github.com/msub2/avatars).
 - [ReadyPlayerMe](https://readyplayer.me/) - Lets you quickly and easily create a 3D avatar online that you can download in glTF format.
 - [VRoid](https://vroid.com/en) - Lets you create anime-styled 3D avatars that export to the highly-compatible .vrm format.
 
@@ -78,13 +79,14 @@
 - [r/WebVR](https://www.reddit.com/r/WebVR/) - Initially the main subreddit for WebVR discussion, now features general WebXR content along with [r/WebXR](https://www.reddit.com/r/WebXR/).
 - [r/WonderlandEngine](https://www.reddit.com/r/WonderlandEngine/) - Wonderland Engine subreddit.
 
-## Companies
+## Companies and cooperatives
 
-*Companies centered around/doing work in WebXR.*
+*Companies and cooperatives centered around/doing work in WebXR.*
 
 - [Active Replica](https://www.activereplica.com/) - Offers virtual event hosting through Mozilla Hubs.
 - [Active Theory](https://activetheory.net/) - Developed the Dreamwave platform.
 - [Aircards](https://www.aircards.co/) - WebAR advertising/marketing agency.
+- [Immers Space](https://web.immers.space/) - A Distributed Cooperative Organization (DisCO) focused on enabling open and federated immersive web content.
 - [Laguna Labs](https://lagunalabs.io/) - Immersive web tech agency.
 - [Playko Software](https://www.playko.com/) - VR/AR/WebXR agency and WebXR game development studio.
 - [REM5](https://www.rem5forgood.com/) - Digital immersive experience design studio specializing in education and social equity initiatives.
@@ -96,7 +98,7 @@
 
 - [2WSZ](https://2wsz.com/) - An aggregator for WebXR content featuring ratings, a recommendation system, and both English and Korean language support.
 - [Construct Arcade](https://constructarcade.com/) - A curated hub of WebXR games, with games from both outside developers and in-house developers at Vhite Rabbit.
-- [Extended Collection](https://extendedcollection.com/)
+- [Extended Collection](https://extendedcollection.com/) - Another curation hub for WebXR content maintained by [Joseph Simpson](https://github.com/vrhermit/).
 - [XR Swim](https://xrswim.com/) - An aggregator site for both WebXR and Web3 content.
 - [XRSites](https://xrsites.com/) - An aggregator for WebXR games and experiences.
 
@@ -200,6 +202,7 @@
 *YouTube channels with a heavy focus on WebXR.*
 
 - [M3](https://www.youtube.com/channel/UCSNCMWhEojiVjUySdI7J_wg) - Official M3 channel.
+- [Sorskoot](https://youtube.com/sorskoot) - Tutorials and other WebXR related content.
 - [WebXR](https://www.youtube.com/c/WebXR) - Official WebXR channel.
 - [WebXR Summit Series](https://www.youtube.com/channel/UCM5HgDdpKgMejq5HX9EoGHg) - Contains clips, VODs, and other videos from the WebXR Summit Series.
 - [Wonderland Engine](https://www.youtube.com/channel/UCgaPCwqmAmre7mW0J7K8IkA) - Official Wonderland Engine channel.

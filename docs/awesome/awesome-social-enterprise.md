@@ -101,6 +101,7 @@ Academic institutions researching social enterprise:
 * [Wharton Social Entrepreneurship](https://entrepreneurship.wharton.upenn.edu/wharton-social-entrepreneurship/)
 * [Copenhagen Business School Social Entrepreneurship](https://www.cbs.dk/en/knowledge-society/interdisciplinary-initiatives/entrepreneurship/organization/clusters/social-entrepreneurship)
 * [USC Marshall Masters in Social Entrepreneurship](https://www.marshall.usc.edu/programs/specialized-masters-programs/master-science-social-entrepreneurship/)
+* [The Elisabeth Bruyère School of Social Innovation](https://innovationsocialeusp.ca/en/school) - Canada's first school of social innovation
 
 
 ## Tools 🔨
