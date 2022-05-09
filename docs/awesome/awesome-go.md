@@ -132,7 +132,6 @@ _Libraries for implementing authentications schemes._
 - [scs](https://github.com/alexedwards/scs) - Session Manager for HTTP servers.
 - [securecookie](https://github.com/chmike/securecookie) - Efficient secure cookie encoding/decoding.
 - [session](https://github.com/icza/session) - Go session management for web servers (including support for Google App Engine - GAE).
-- [sessiongate-go](https://github.com/f0rmiga/sessiongate-go) - Go session management using the SessionGate Redis module.
 - [sessions](https://github.com/adam-hanna/sessions) - Dead simple, highly performant, highly customizable sessions service for go http servers.
 - [sessionup](https://github.com/swithek/sessionup) - Simple, yet effective HTTP session management and identification package.
 - [sjwt](https://github.com/brianvoe/sjwt) - Simple jwt generator and parser.
@@ -421,6 +420,7 @@ additional ordered map implementations.
 - [conjungo](https://github.com/InVisionApp/conjungo) - A small, powerful and flexible merge library.
 - [count-min-log](https://github.com/seiflotfy/count-min-log) - Go implementation Count-Min-Log sketch: Approximately counting with approximate counters (Like Count-Min sketch but using less memory).
 - [fsm](https://github.com/cocoonspace/fsm) - Finite-State Machine package.
+- [genfuncs](https://github.com/nwillc/genfuncs) - Go 1.18+ generics package inspired by Kotlin's Sequence and Map.
 - [go-geoindex](https://github.com/hailocab/go-geoindex) - In-memory geo index.
 - [go-rquad](https://github.com/aurelien-rainone/go-rquad) - Region quadtrees with efficient point location and neighbour finding.
 - [go-tuple](https://github.com/barweiss/go-tuple) - Generic tuple implementation for Go 1.18+.

@@ -138,7 +138,7 @@ See also [§ Supply chain security](#supply-chain-security).
 
 - [Dependency Combobulator](https://github.com/apiiro/combobulator) - Open source, modular and extensible framework to detect and prevent dependency confusion leakage and potential attacks.
 - [Confusion checker](https://github.com/sonatype-nexus-community/repo-diff) - Script to check if you have artifacts containing the same name between your repositories.
-- [snync](https://github.com/snyk-labs/snync) - Prevent and detect if you're vulnerable to Dependency Confusion supply chain security attacks.
+- [snync](https://github.com/snyk-labs/snync) - Prevent and detect if you're vulnerable to dependency confusion supply chain security attacks.
 
 ### Fuzzing
 
@@ -354,6 +354,11 @@ See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threa
 - [Unfetter](https://nsacyber.github.io/unfetter/) - Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework.
 - [Viper](https://github.com/viper-framework/viper) - Binary analysis and management framework enabling easy organization of malware and exploit samples.
 - [YARA](https://github.com/VirusTotal/yara) - Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples, described as "the pattern matching swiss army knife" for file patterns and signatures.
+
+### Fingerprinting
+
+- [HASSH](https://github.com/salesforce/hassh) - Network fingerprinting standard which can be used to identify specific client and server SSH implementations.
+- [JA3](https://ja3er.com/) - Extracts SSL/TLS handshake settings for fingerprinting and communicating about a given TLS implementation.
 
 ### Threat signature packages and collections
 
