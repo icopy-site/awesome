@@ -164,6 +164,7 @@ Contributions are always welcome!
 * [Chaos Engineering: Crash test your applications](https://www.manning.com/books/chaos-engineering/)
 * [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/)
 * [Four Steps to Creating Effective Game Day Tests](https://shopify.engineering/four-steps-creating-effective-game-day-tests)
+* [The Linux Programming Interface](https://nostarch.com/tlpi)
 
 ## Hiring
 * [SRE Hiring](https://www.usenix.org/conference/srecon15/program/presentation/fong)
@@ -417,7 +418,7 @@ Contributions are always welcome!
 * [Best practices for setting SLOs and SLIs for modern, complex systems](https://newrelic.com/blog/best-practices/best-practices-for-setting-slos-and-slis-for-modern-complex-systems)
 
 ## Performance
-* [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
+* [Performance Checklists for SREs](https://www.brendangregg.com/blog/2016-05-04/srecon2016-perf-checklists-for-sres.html)
 * [South Bay SRE Meetup - Netflix Cloud Performance Team](https://youtu.be/uQ0flQOtQEA)
 * [Software Performance Analysis Guided By SLOs](https://medium.com/dm03514-tech-blog/sre-performance-analysis-tuning-methodology-using-a-simple-http-webserver-in-go-d475460f27ca)
 * [A framework for pragmatic performance engineering](https://mterwill.com/posts/framework-for-performance-engineering/)
