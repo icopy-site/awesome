@@ -13,6 +13,13 @@ If you need to search on this list you can try this great website: [Awesome Blaz
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
 
+## Microsoft Build 2022 (May 24-26, 2022).
+[<img src="https://pbs.twimg.com/media/FSfMMcFWYAAi4Mm?format=jpg&name=medium" align="center" width="100%">](https://mybuild.microsoft.com)
+- Come together at Microsoft Build May 24–26 2022, to explore the latest innovations in code and application development—and to gain insights from peers and experts from around the world.
+- Let’s innovate without compromise, develop creatively, and build the next generation of apps—welcome to Microsoft Build.
+- May 24-26, 2022
+- [mybuild.microsoft.com](https://mybuild.microsoft.com/).
+
 ## Introduction
 
 ### What is Blazor?

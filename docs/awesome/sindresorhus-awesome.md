@@ -104,12 +104,14 @@
 		</a>
 		<br>
 		<br>
+		<br>
 		<a href="https://keygen.sh">
 			<div>
 				<img src="https://sindresorhus.com/assets/thanks/keygen-logo.svg" width="210" alt="Keygen">
 			</div>
 			<b>A dead-simple software licensing and distribution API built for developers</b>
 		</a>
+		<br>
 		<br>
 		<br>
 		<br>
@@ -131,6 +133,7 @@
 				<b>Build Scalable Feeds & Chat Applications with Powerful APIs and Front End Components</b>
 			</div>
 		</a>
+		<br>
 		<br>
 		<br>
 		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-light-mode-only">
@@ -162,6 +165,37 @@
 				allowing you to code faster, better and on-the-go on your favourite IDEs like
 				<br>
 				Android Studio, VS Code, Jupyter and PyCharm using your browser.
+				</sub>
+			</div>
+		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-light-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-light.svg" width="200" alt="Anvil">
+			</div>
+			<br>
+			<b>Paperwork that makes the data work.</b>
+			<div>
+				<sub>
+				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
+				<br>
+				The easiest way to build paperwork automation into your product.
+				</sub>
+			</div>
+		</a>
+		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-dark-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-dark.svg" width="200" alt="Anvil">
+			</div>
+			<br>
+			<b>Paperwork that makes the data work.</b>
+			<div>
+				<sub>
+				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
+				<br>
+				The easiest way to build paperwork automation into your product.
 				</sub>
 			</div>
 		</a>
