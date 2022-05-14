@@ -141,6 +141,7 @@ _Libraries that provide external configuration._
 - [config](https://github.com/lightbend/config) - Configuration library supporting Java properties, JSON or its human optimized superset HOCON.
 - [Configurate](https://github.com/SpongePowered/Configurate) - Configuration library with support for various configuration formats and transformations.
 - [dotenv](https://github.com/shyiko/dotenv) - Twelve-factor configuration library which uses environment-specific files.
+- [Externalized Properties](https://github.com/joeljeremy7/externalized-properties) - Lightweight but powerful configuration library which supports resolution of properties from external sources and an extensible post-processing/conversion mechanism.
 - [ini4j](http://ini4j.sourceforge.net) - Provides an API for handling Windows' INI files.
 - [KAConf](https://github.com/mariomac/kaconf) - Annotation-based configuration system for Java and Kotlin.
 - [microconfig](https://microconfig.io) - Configuration system designed for microservices which helps to separate configuration from code. The configuration for different services can have common and specific parts and can be dynamically distributed.
@@ -208,15 +209,15 @@ _Everything that simplifies interactions with the database._
 - [MapDB](http://www.mapdb.org) - Embedded database engine that provides concurrent collections backed on disk or in off-heap memory.
 - [MariaDB4j](https://github.com/vorburger/MariaDB4j) - Launcher for MariaDB that requires no installation or external dependencies.
 - [Modality](https://github.com/arkanovicz/modality) - Lightweight ORM with database reverse engineering features.
-- [Spring Data JPA MongoDB Expressions](https://github.com/mhewedy/spring-data-jpa-mongodb-expressions) - Allows you to use MongoDB query language to query your relational database.
-- [Trino](https://trino.io) - Distributed SQL query engine for big data.
-- [QuestDB](https://github.com/questdb/questdb) - High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
-- [QueryStream](https://github.com/querystream/querystream) - Build JPA Criteria queries using a Stream-like API.
 - [Querydsl](http://www.querydsl.com) - Typesafe unified queries.
+- [QueryStream](https://github.com/querystream/querystream) - Build JPA Criteria queries using a Stream-like API.
+- [QuestDB](https://github.com/questdb/questdb) - High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
 - [Realm](https://github.com/realm/realm-java) - Mobile database to run directly inside phones, tablets or wearables.
 - [Redisson](https://github.com/redisson/redisson) - Allows for distributed and scalable data structures on top of a Redis server.
 - [requery](https://github.com/requery/requery) - Modern, lightweight but powerful object mapping and SQL generator. Easily map to or create databases, or perform queries and updates from any Java-using platform.
 - [Speedment](https://github.com/speedment/speedment) - Database access library that utilizes Java 8's Stream API for querying.
+- [Spring Data JPA MongoDB Expressions](https://github.com/mhewedy/spring-data-jpa-mongodb-expressions) - Allows you to use MongoDB query language to query your relational database.
+- [Trino](https://trino.io) - Distributed SQL query engine for big data.
 - [Vibur DBCP](https://www.vibur.org) - JDBC connection pool library with advanced performance monitoring capabilities.
 - [Xodus](https://github.com/JetBrains/xodus) - Highly concurrent transactional schema-less and ACID-compliant embedded database.
 
@@ -296,6 +297,7 @@ _Tools that handle the distribution of applications in native formats._
 - [Getdown](https://github.com/threerings/getdown) - A system for deploying Java applications to end-user computers and keeping them up to date. Developed as an alternative to Java Web Start.
 - [IzPack](http://izpack.org) - Setup authoring tool for cross-platform deployments.
 - [JavaPackager](https://github.com/fvarrui/JavaPackager) - Maven and Gradle plugin which provides an easy way to package Java applications in native Windows, Mac OS X or GNU/Linux executables, and generate installers for them.
+- [jDeploy](https://www.jdeploy.com) - Deploy desktop apps as native Mac, Windows or Linux bundles.
 - [jlink.online](https://github.com/cilki/jlink.online) - Builds optimized runtimes over HTTP.
 - [Nexus ![c]](https://www.sonatype.com) - Binary management with proxy and caching capabilities.
 - [packr](https://github.com/libgdx/packr) - Packs JARs, assets and the JVM for native distribution on Windows, Linux and macOS.
@@ -1109,7 +1111,7 @@ _Books that made a big impact and are still worth reading._
 
 _Something to look at or listen to while programming._
 
-- [140 Second Ducklings](https://twitter.com/debugagent/status/1491075324805001219?s=20&t=pJat2j-HN-iRfY3CY5f6qQ) - Short videos on Twitter explaining Java debugging in depth.
+- [140 Second Ducklings](https://twitter.com/debugagent/status/1491075324805001219) - Short videos on Twitter explaining Java debugging in depth.
 - [A Bootiful Podcast](https://bootifulpodcast.fm)
 - [Inside Java](https://inside.java/podcast) (Official)
 - [Java Off Heap](http://www.javaoffheap.com)

@@ -447,6 +447,35 @@
 - [Inertia.js](awesome/awesome-inertiajs.md) - Make single-page apps without building an API.
 - [MDBootstrap](awesome/awesome-mdbootstrap.md) - Templates, layouts, components, and widgets to rapidly build websites.
 
+<br>
+
+---
+
+<br>
+
+<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-light-mode-only">
+	<div>
+		<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-light.svg" width="120" alt="neverinstall">
+	</div>
+	<br>
+	<sup>All your favourite IDE's now available on the cloud</sup>
+	<br>
+</a>
+<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-dark-mode-only">
+	<div>
+		<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-dark.svg" width="120" alt="neverinstall">
+	</div>
+	<br>
+	<sup>All your favourite IDE's now available on the cloud</sup>
+	<br>
+</a>
+
+<br>
+
+---
+
+<br>
+
 ## Back-End Development
 
 - [Flask](awesome/awesome-flask.md) - Python framework.
