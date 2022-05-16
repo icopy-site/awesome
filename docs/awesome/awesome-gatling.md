@@ -88,6 +88,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 ## CI
 
 - [Gatling Jenkins Plugin](https://github.com/jenkinsci/gatling-plugin) - [Jenkins plugin](https://plugins.jenkins.io/gatling/) for Gatling.
+- [run-gatling](https://github.com/liatrio/run-gatling) - GitHub Action to easily integrate Gatling performance tests to GitHub workflows.
 
 ## Trainings & Courses
 
