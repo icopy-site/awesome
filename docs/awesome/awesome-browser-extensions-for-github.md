@@ -194,6 +194,11 @@ Chrome extension which helps you not to miss important changes in your news thre
 Installs: 19 | Stars: 13 | Last update: 1 Oct 2018
 
 
+All your issues, PRs, repos and other work documents right in your new tab
+
+Installs: n/a | Stars: n/a | Last update: n/a
+
+
 A Chrome and Firefox extension to quickly see your notifications in a popup without leaving the current page.
 
 Installs: 498 | Stars: 133 | Last update: 27 Apr 2022
