@@ -205,6 +205,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Algomint](https://algomint.io/) - Centralized BTC and ETH bridge to Algorand.
 - [QUIGON](https://bridge.quigon.com/) - Centralized cross-chain NFT bridge.
 - [GlitterFinance](https://glitter.finance/) - Centralized (soon to be decentralized upon TEAL 6) bridge for Solana, Polygon, Terra and Cudos to Algorand.
+- [ptokens](https://dapp.ptokens.io/swap?asset=btc&from=btc&to=algorand) - pNetwork Officially Launched Cross-Chain Bridges for Algorand.
 
 ## Oracles
 
@@ -239,7 +240,9 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [AgorHash](http://www.agorhash.com/) - Public, permissionless, decentralized and uncensorable free speech protocol.
 - [QRCode Generator](https://github.com/emg110/algorand-qrcode)
 - [algofractals](https://github.com/aorumbayev/algofractals) - Mint randomly generated mandelbrot fractals with embedded ARC69 tags.
-- [algorewards](https://algorewards.github.io/) - Free and unofficial Algorand governance reward calculator. Hosted on GitHub Pages. 
+- [algorewards](https://algorewards.github.io/) - Free and unofficial Algorand governance reward calculator. Hosted on GitHub Pages.
+- [algorand.dev](https://algorand.dev/) - Algorand Developer: The unofficial developer resource. 
+- [daotools](https://daotools.org/) - Manage all your DAO voting sessions in one Dapp.
 
 ## ARCs
 
