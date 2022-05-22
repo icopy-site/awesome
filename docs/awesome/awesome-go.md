@@ -245,6 +245,7 @@ _Libraries for building standard or basic Command Line applications._
 - [argv](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
 - [carapace](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
 - [carapace-bin](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+- [carapace-spec](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
 - [cli](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 - [cli](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
 - [climax](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command.
@@ -933,6 +934,7 @@ _Packages to support functional programming in Go._
 - [go-underscore](https://github.com/tobyhede/go-underscore) - Useful collection of helpfully functional Go collection utilities.
 - [gofp](https://github.com/rbrahul/gofp) - A lodash like powerful utility library for Golang.
 - [underscore](https://github.com/rjNemo/underscore) - Functional programming helpers for Go 1.18 and beyond.
+- [valor](https://github.com/phelmkamp/valor) - Generic option and result types that optionally contain a value.
 
 
 ## Game Development
