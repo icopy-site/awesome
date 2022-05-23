@@ -42,6 +42,7 @@ EdenOS resources.
 Mandel resources.
 
 - [eosnetworkfoundation/mandel](https://github.com/eosnetworkfoundation/mandel) - Official GitHub.
+- [gofractally](https://github.com/gofractally) - Eden team repository with new Mandel resources and tools.
 
 ## Learn
 
@@ -71,7 +72,11 @@ EOSIO learning resources.
 - [EOSIO Resource Library](https://eos.io/resources/) - Official EOSIO Resources. Videos, case studies, and other resources to help you learn and grow with EOSIO.
 - [Learning Blockchain Development with EOS and C++](https://www.udemy.com/learning-blockchain-development-with-eos-and-cpp/) - Udemy Course.
 - [Starting with EOS Blockchain for Developers](https://www.udemy.com/starting-with-eos/) - Udemy Course.
+- [Learn EOS Blockchain Smart Contracts & DApps with C++, EOSJS](https://www.udemy.com/course/learn-eos-blockchain-smart-contracts-dapps-with-c-eosjs/) - Udemy course.
 - [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/services/training/catalog/blockchain/building-dapps-with-eos-workshop) - Workshop.
+- [EOSIO Blockchain Developer Workshop](https://medium.com/@theblockstalk/the-eosio-blockchain-developer-workshop-now-available-on-youtube-ddeba54f0d94) - Free course on YouTube.
+- [EOS Programming 101](https://academy.moralis.io/courses/eos-programming-101) - Ivan on Tech video course.
+- [Introduction to EOSIO for Developers](https://academy.b9lab.com/courses/course-v1:B9lab+EOSIO-FREE+2018-09/about) - Free B1 Labs video course.
 
 ## Tools
 
@@ -120,7 +125,9 @@ Various software and tools.
 
 ### General
 
-- [All Things EOS](http://allthingseos.com/)
+- [All Things EOS](http://allthingseos.com)
+- [Tools from EOS Authority](https://eosauthority.com/tools)
+- [EOSIO Tools and Info](https://www.alohaeos.com/tools)
 
 ## Block Producers
 
@@ -172,8 +179,9 @@ All about development on EOSIO platform.
   - [The Transit API: Connecting dApps & Signature Providers](https://medium.com/eos-new-york/the-transit-api-connecting-dapps-signature-providers-5d816c056f7f) - Article.
 - [greymass/eosio](https://github.com/greymass/eosio-core/) - Strongly typed JavaScript library.
 - [greymass/swift-eosio](https://github.com/greymass/swift-eosio) - Swift SDK with ESR support.
+- [SwiftyEOS](https://github.com/ProChain/SwiftyEOS) - Framework for interacting with EOS, written in Swift.
 
-#### Authentication and Signing libraries
+#### Authentication and Wallet Signing libraries
 
 - [EOSIO/universal-authenticator-library](https://github.com/EOSIO/universal-authenticator-library) - A library for allowing apps to easily use different auth providers.
   - [EOSIO Labs™ Release: The Universal Authenticator Library (UAL) — Increasing the Accessibility of Blockchain Applications](https://eos.io/news/eosio-labs-release-the-universal-authenticator-library-ual%e2%80%8a-%e2%80%8aincreasing-the-accessibility-of-blockchain-applications/) - Article.
@@ -188,18 +196,33 @@ All about development on EOSIO platform.
 - [greymass/eosio-signing-request](https://github.com/greymass/eosio-signing-request) - Library to assist in creating and digesting EOSIO Signing Requests (ESR).
 - [greymass/eosio-signing-request-java](https://github.com/greymass/eosio-signing-request-java) - Java wrapper for the EOSIO Signing Request protocol.
 
-#### Frameworks
+#### History
 
-- [Demux](https://github.com/EOSIO/demux-js) - Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects.
-  - [Introducing Demux — Deterministic Databases Off-Chain Verified by the EOSIO Blockchain](https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017) - Article.
+[Intro blog by @cc32d9](https://cc32d9.medium.com/history-and-notifications-in-eosio-blockchain-8255194af93)
+
+- [EOSIO/history-tools](https://github.com/EOSIO/history-tools) - Official EOSIO history API plugin.
+- [Hyperion History API](https://github.com/eosrio/Hyperion-History-API) - Scalable Full History API Solution for EOSIO based blockchains.
+- [EOSIO Light API](https://github.com/cc32d9/eosio_light_api) - Historic information about EOSIO blockchain accounts and token balances.
+
+#### Testing
+- [EOSIO/eosio.contracts](https://github.com/EOSIO/eosio.contracts/tree/master/tests) - Official C++ system contract test suite (notoriously difficult to use).
 - [tokenika/eosfactory](https://github.com/tokenika/eosfactory) - Python-based EOSIO smart-contract development & unit testing framework.
-- [SwiftyEOS](https://github.com/ProChain/SwiftyEOS) - Framework for interacting with EOS, written in Swift.
 - [infeos](https://github.com/infiniteXLabs/infeos) - JavaScript based framework for development, building, deploying and unit testing EOSIO dApps.
 - [EOSLIME](https://github.com/LimeChain/eoslime) - Truffle like framework for development, deployment and testing on EOS blockchains.
+- [Hydra](https://docs.klevoya.com/hydra/about/getting-started/) - JavaScript framework for testing EOSIO smart contracts.
+- [haderech/vert](https://github.com/haderech/vert) - JavaScript EOS-VM emulation RunTime for WASM-based blockchain contracts. Run and test smart contracts.
+
+#### Services
+- [Demux](https://github.com/EOSIO/demux-js) - Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects.
+- [Introducing Demux — Deterministic Databases Off-Chain Verified by the EOSIO Blockchain](https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017) - Article.
+- [Liquid Apps](https://docs.liquidapps.io) - Smart contract services vRAM, oracles, cron, IPFS and ICB.
+- [WAX Random Number Generator](https://developer.wax.io/es/tutorials/wax-rng)
+- [DelphiOracle](https://github.com/eostitan/delphioracle) - A multi-party source of truth, designed to provide the near-realtime price of the asset pairs to other smart contracts or to external users.
 
 ### Developer Tools
 
 - [EOSIO/eosio.cdt](https://github.com/EOSIO/eosio.cdt) - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts.
+- [Blanc](https://github.com/haderech/blanc) - A toolchain for building WebAssembly-based blockchain contracts. Currently, Blanc supports EOSIO and CosmWasm (experimental).
 - [EOSIO/ricardian-template-toolkit](https://github.com/EOSIO/ricardian-template-toolkit) - Renderer for the Ricardian Contract specification.
 - [EOSIO Ethereum Virtual Machine (EVM)](https://github.com/jafri/eosio.evm) - Ethereum Virtual Machine on EOSIO.
 - [Elliptic curve cryptography functions (ECC)](https://github.com/EOSIO/eosjs-ecc) - Private Key, Public Key, Signature, AES, Encryption / Decryption.
@@ -208,6 +231,9 @@ All about development on EOSIO platform.
 - [Octopus](https://github.com/pventuzelo/octopus) - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS).
 - [greymass/eosio-resources](https://github.com/greymass/eosio-resources) - Tool to assist in network resource calculations.
 - [greymass/abi2core](https://github.com/greymass/abi2core) - Command line utility to convert ABI definitions to greymass/eosio type definitions.
+- [maxifom/eos-abigen](https://github.com/maxifom/eos-abigen) - Typescript and Golang code generator for generating type-safe client and tables for EOS-compatible contracts.
+- [manh-vv/eosjs-name](https://github.com/manh-vv/eosjs-name) - Convert an Eosio name to uint64 and back.
+- [blockchain-etl/eos-etl](https://github.com/blockchain-etl/eos-etl) - Connector for Google's BigQuery Public Datasets.
 
 ### Code examples
 
@@ -224,6 +250,7 @@ All about development on EOSIO platform.
 - [greymass/anchor-link-demo-multipass](https://github.com/greymass/anchor-link-demo-multipass) - Example ReactJS application integrating greymass/anchor-link.
 - [greymass/ual-anchor-demo](https://github.com/greymass/ual-anchor-demo) - Example ReactJS application integrating greymass/ual-anchor.
 - [greymass/eosio-signing-request-demo](https://github.com/greymass/eosio-signing-request-demo) - Example generating transactions using greymass/eosio-signing-request.
+- [theblockstalk/eosio-contracts](https://github.com/theblockstalk/eosio-contracts) - Example smart contracts, dapps and system contract templates.
 
 ### Block Producer tools
 
@@ -233,6 +260,7 @@ All about development on EOSIO platform.
 - [pete001/eos-bp-failover](https://github.com/pete001/eos-bp-failover) - EOSIO Block Producer Failover Scripts.
 - [eosdetroit/bp-playbook](https://github.com/eosdetroit/bp-playbook) - A set of playbooks to make managing EOS.IO nodes easier.
 - [eoseoul/eos-ramcost](https://github.com/eoseoul/eos-ramcost) - Adjusting supply of a token and connector balance of bancor during final phase of boot.
+- [eosdetroit/nodesuite](https://github.com/eosdetroit/nodesuite) - Nodesuite is a tool to simplify the management and configuration of eosio nodes through the use of Ansible playbooks.
 
 ### Other in Developers
 
@@ -241,6 +269,7 @@ All about development on EOSIO platform.
 - [EOS-Sync](https://github.com/EOSpace/eos-sync) - Syncing the EOSIO blockchain data to mongodb database.
 - [OracleChain/EOSBenchTool](https://github.com/OracleChain/EOSBenchTool) - A client side tool for EOS performance testing.
 - [breakstring/savemyeosram](https://github.com/breakstring/savemyeosram) - Saving RAM on EOS.
+- [clsdk](https://github.com/gofractally/Eden/releases?q=clsdk&expanded=true) - EOSIO smart contract C++ testing framework including in-contract debugging during wasm execution with VS code.
 
 ## Community
 
@@ -255,6 +284,8 @@ All about development on EOSIO platform.
 - [EOS Canada](https://steemit.com/@eos-canada) - EOS Canada blog, user related content and videos.
 - [Cypherglass](https://steemit.com/@cypherglass) - Cypherglass blog, user related content and videos. News.
 - [EOS New York](https://medium.com/@eosnewyork) - EOS New York blog, user and developer related content.
+- [Jack Tanner](https://theblockstalk.medium.com) - Jack Tanner blog, EOSIO developer, education and related content.
+- [David Williamson](https://www.varilink.co.uk/) - David Williamson blog, EOSIO node management articles.
 
 ### YouTube Channels
 
@@ -274,6 +305,15 @@ All about development on EOSIO platform.
 - [EOSCommunity.org Forums](https://forums.eoscommunity.org/)
 - [EOS - Reddit](https://www.reddit.com/r/eos/)
 - [EOSDev - Reddit](https://www.reddit.com/r/EOSDev/)
+- [EOSIO Developers Telegram](https://t.me/joinchat/0uhWYfXVpPlkNTA1)
+- [WAX developers Telegram](https://t.me/waxdevelopers)
+- [Teloso developers Telegram](https://t.me/dappstelos)
+
+## EOSIO Ecosystem
+
+- [EOS infographic](https://twitter.com/EOS_Bees/status/1518996327664918531/photo/1) - Infographic for EOS ecosystem.
+- [Public EOSIO chains and their telegram chats](https://github.com/eosio-ecosystem/chains)
+- [EOSIO Ecosystem](https://github.com/eosio-ecosystem/eosio-ecosystem-resources) - EOSIO multi-chain ecosystem information.
 
 ## DApps
 
@@ -283,6 +323,7 @@ DApp resources.
 
 - [EOSindex](https://eosindex.io/)
 - [DappRadar](https://dappradar.com/eos-dapps)
+- [State of the Dapps](https://www.stateofthedapps.com/platforms/eos)
 
 ### Leasing platforms
 

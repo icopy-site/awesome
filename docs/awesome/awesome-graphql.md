@@ -59,7 +59,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Dallas-Fort Worth](https://www.meetup.com/DFW-GraphQL-Meetup/)
 - [Hamburg](https://www.meetup.com/GraphQL-Hamburg/)
 - [London](https://www.meetup.com/GraphQL-London/)
-- [Manchester](https://www.meetup.com/GraphQL-Manchester/)
 - [Melbourne](https://www.meetup.com/GraphQL-Melbourne/)
 - [Montreal](https://www.meetup.com/GraphQL-Montreal/)
 - [Munich](https://www.meetup.com/GraphQL-Munich/)
@@ -173,6 +172,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [GraphVinci](https://github.com/Comcast/graphvinci) - An interactive schema visualizer for GraphQL APIs.
 - [supertest-graphql](https://github.com/alexstrat/supertest-graphql) - Extends [supertest](https://github.com/visionmedia/supertest) to easily test a GraphQL endpoint
 - [schemathesis](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
+- [microfiber](https://github.com/anvilco/graphql-introspection-tools) - Query and manipulate GraphQL introspection query results in useful ways.
 
 <a name="js-example" />
 
@@ -396,7 +396,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 #### Elixir Examples
 
-- [hello_graphql_phoenix](https://github.com/graphql-elixir/hello_graphql_phoenix) - Examples of GraphQL Elixir Plug endpoints mounted in Phoenix - [View demo online](http://playground.graphql-elixir.org).
+- [hello_graphql_phoenix](https://github.com/graphql-elixir/hello_graphql_phoenix) - Examples of GraphQL Elixir Plug endpoints mounted in Phoenix
 
 <a name="haskell" />
 
@@ -617,6 +617,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [raphql-inspector](https://github.com/kamilkisiela/graphql-inspector): alidate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.
 - [amplication](https://github.com/amplication/amplication): Amplication is an open‑source low code development tool. It builds database applications with REST API and GraphQL for CRUD with relations, sorting, filtering, pagination.
 - [Blendbase](https://github.com/blendbase/blendbase): Single open-source GraphQL API to connect CRMs to your SaaS. Query any customer CRM system (Salesforce, Hubspot and more) with a single API query from your SaaS app.
+- [microfiber](https://github.com/anvilco/graphql-introspection-tools) - Query and manipulate GraphQL introspection query results in useful ways.
 
 <a name="databases" />
 

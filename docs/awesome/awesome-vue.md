@@ -1761,6 +1761,7 @@ _Display non-editable events in a Calendar_
 - [vue-mathjax](https://github.com/justforuse/vue-mathjax) - A Vue.js Plugin for Mathjax
 - [vue-mathjax-next](https://github.com/justforuse/vue-mathjax-next) - A Vue 3 plugin for Mathjax
 - [vue-connect-wallet](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
+- [vue-magnifier](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component.
 
 #### Tabs
 
@@ -2996,6 +2997,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-aimg-loader](https://github.com/chenxinan/vue-aimg-loader) - A easy way to use image in Vue template without wirte css.
 - [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 - [vue-sfc-split](https://github.com/gVguy/vue-sfc-split) - Convert SFCs for native browser use without build
+- [webpack-plugin-qiniu-upload](https://github.com/cduyzh/webpack-plugin-qiniu-upload) - Vue3,webpack-plugin-qiniu-upload for qiniu(七牛)|aws(亚马逊) cloud upload. support @vue/cli-service 5.0.x
 
 #### Page Navigation
 
@@ -3048,6 +3050,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [jsx-event-modifiers](https://github.com/nickmessing/babel-plugin-jsx-event-modifiers) - A Babel plugin that adds event modifiers similar to Vue templates to JSX.
 - [jsx-v-model](https://github.com/nickmessing/babel-plugin-jsx-v-model) - A Babel plugin that brings `v-model` to JSX.
 - [vue-jsx-sync](https://github.com/njleonzhang/babel-plugin-vue-jsx-sync) - A Babel plugin that brings vue `sync modifier` to JSX.
+- [vue2-jsx-runtime](https://github.com/LancerComet/vue2-jsx-runtime) - A Vue 2 new JSX transform runtime for TSC/SWC. Use Vue 2 JSX with TSC/SWC directly.
 
 #### Migration
 

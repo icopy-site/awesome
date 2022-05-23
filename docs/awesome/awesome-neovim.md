@@ -198,6 +198,7 @@ Neovim supports a wide variety of UI's.
 - [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) - Draw ASCII diagrams in Neovim.
 - [stevearc/gkeep.nvim](https://github.com/stevearc/gkeep.nvim) - Google Keep integration for Neovim.
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a text-based, markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim.
+- [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk, a plain text note-taking assistant.
 
 ### Color
 
@@ -331,6 +332,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [crusj/structrue-go.nvim](https://github.com/crusj/structrue-go.nvim) - A better structured display of golang symbols information.
 - [someone-stole-my-name/yaml-companion.nvim](https://github.com/someone-stole-my-name/yaml-companion.nvim) - Get, set and autodetect YAML schemas in your buffers.
 - [ghillb/cybu.nvim](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
+- [crusj/bookmarks](https://github.com/crusj/bookmarks.nvim) - Remember file locations and sort by time and frequency.
 
 ### Icon
 
