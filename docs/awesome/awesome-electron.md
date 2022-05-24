@@ -14,7 +14,7 @@ Electron is an open-source framework for creating desktop apps using web technol
 
 <br>
 <br>
-<div align="center"><h3><a href="https://sindresorhus.com/velja">Check out my new app: Velja</a></h3></div>
+<div align="center"><h3><a href="https://www.producthunt.com/posts/folder-peek">Check out my new app: Folder Peek</a></h3></div>
 <br>
 <br>
 

@@ -182,7 +182,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 - [AssemblyScript](https://github.com/LimeChain/as-scale-codec) - Maintained by LimeChain.
 - [C](https://github.com/MatthewDarnell/cScale) - Maintained by Matthew Darnell.
-- [C++](https://github.com/soramitsu/kagome/tree/master/core/scale) - Maintained by Soramitsu.
+- [C++](https://github.com/soramitsu/scale-codec-cpp) - Maintained by Soramitsu.
 - [Codec Definition](https://docs.substrate.io/v3/advanced/scale-codec/) - Official codec documentation.
 - [Go](https://github.com/itering/scale.go) - Maintained by [Itering](https://www.itering.com/).
 - [Haskell](https://github.com/airalab/hs-web3/tree/master/src/Codec) - Maintained by [Robonomics Network](https://robonomics.network/).
@@ -191,5 +191,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Python](https://github.com/polkascan/py-scale-codec) - Maintained by Polkascan Foundation.
 - [Ruby](https://github.com/itering/scale.rb) - Maintained by Itering.
 - [Scales](https://github.com/virto-network/scales) - Serializing SCALE using type information from a type registry.
-- [TypeScript](https://github.com/polkadot-js/api/tree/master/packages/types) - Maintained by Polkadot-JS.
-- [TypeScript](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
+- JavaScript / TypeScript implementations:
+  - [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) - Maintained by Polkadot-JS.
+  - [scale-ts](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
+  - [soramitsu/scale-codec-js-library](https://github.com/soramitsu/scale-codec-js-library) - Maintained by Soramitsu. 
