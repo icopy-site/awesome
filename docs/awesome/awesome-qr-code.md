@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome QR Code [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://raw.githubusercontent.com/make-github-pseudonymous-again/awesome-qr-code/master/repo-link.svg?sanitize=true" align="right" width="100">](https://github.com/aureooms/awesome-qr-code#readme)
+[<img src="https://raw.githubusercontent.com/make-github-pseudonymous-again/awesome-qr-code/master/repo-link.svg?sanitize=true" align="right" width="100">](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme)
 
 A curated list of awesome QR code libraries, software and resources.
 
@@ -29,8 +29,8 @@ A curated list of awesome QR code libraries, software and resources.
 ## CLI
 
 - [qrencode](https://fukuchi.org/works/qrencode) - Command line tool to generate QR codes.
-- [qrap](https://github.com/aureooms/qrap) - Generate a QR code payload for Wi-Fi access point credentials.
-- [spqr](https://github.com/aureooms/spqr) - Generate a QR code payload for initiating a SEPA transfer.
+- [qrap](https://github.com/make-github-pseudonymous-again/qrap) - Generate a QR code payload for Wi-Fi access point credentials.
+- [spqr](https://github.com/make-github-pseudonymous-again/spqr) - Generate a QR code payload for initiating a SEPA transfer.
 
 ## Libraries
 
@@ -106,7 +106,7 @@ that the library allows to generate QR codes.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/aureooms/awesome-qr-code/blob/main/CONTRIBUTING.md).
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/make-github-pseudonymous-again/awesome-qr-code/blob/main/CONTRIBUTING.md).
 
 ---
 
