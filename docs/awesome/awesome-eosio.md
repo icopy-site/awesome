@@ -122,6 +122,7 @@ Various software and tools.
 <!--lint enable awesome-spell-check-->
 - [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) - Vote Proxy explorer.
 - [EOS GO](https://www.eosgo.io/)
+- [bdata.one](https://bdata.one/) - Blockchain data about accounts and tokens for several EOSIO chains.
 
 ### General
 

@@ -243,6 +243,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [algorewards](https://algorewards.github.io/) - Free and unofficial Algorand governance reward calculator. Hosted on GitHub Pages.
 - [algorand.dev](https://algorand.dev/) - Algorand Developer: The unofficial developer resource. 
 - [daotools](https://daotools.org/) - Manage all your DAO voting sessions in one Dapp.
+- [FORUM](https://forum.ax/) - A proof-of-stake social network on the Algorand blockchain.
 
 ## ARCs
 
