@@ -7,6 +7,8 @@ A collection of cool hidden and not so hidden features of Git and GitHub. This c
 
 *Read this in other languages: [English](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md), [한국어](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md), [日本語](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md), [简体中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md), [正體中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-tw.md).*
 
+GitHub Cheat Sheet is sponsored by [Drawpoint: create interactive maps and images for your website with no coding](https://www.drawpoint.io)
+
 
 
 ## GitHub
