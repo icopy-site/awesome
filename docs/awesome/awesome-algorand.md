@@ -244,6 +244,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [algorand.dev](https://algorand.dev/) - Algorand Developer: The unofficial developer resource. 
 - [daotools](https://daotools.org/) - Manage all your DAO voting sessions in one Dapp.
 - [FORUM](https://forum.ax/) - A proof-of-stake social network on the Algorand blockchain.
+- [Pipeline-UI](https://www.pipeline-ui.com/) - A React.js based component library for rapid deployment of Algorand Dapps.
 
 ## ARCs
 

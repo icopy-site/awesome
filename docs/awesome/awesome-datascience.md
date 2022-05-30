@@ -113,9 +113,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
 - [Data Science Degree @ UVA](https://datascience.virginia.edu/)
 - [Data Science Degree @ Wisconsin](https://datasciencedegree.wisconsin.edu/)
-- [MS in Computer Information Systems @ Boston University](https://cisonline.bu.edu/)
+- [MS in Computer Information Systems @ Boston University](https://www.bu.edu/online/programs/graduate-programs/computer-information-systems-masters-degree/)
 - [MS in Business Analytics @ ASU Online](https://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
-- [Data Science Engineer @ BTH](https://www.bth.se/nyheter/bth-startar-sveriges-forsta-civilingenjorsprogram-inom-data-science/)
 - [MS in Applied Data Science @ Syracuse](https://ischool.syr.edu/academics/applied-data-science-masters-degree/)
 - [M.S. Management & Data Science @ Leuphana](https://www.leuphana.de/en/graduate-school/masters-programmes/management-data-science.html)
 - [Master of Data Science @ Melbourne University](https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science/#overview)
@@ -371,7 +370,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Cube](https://square.github.io/cube/)
 - [d3plus](https://d3plus.org/)
 - [Data-Driven Documents(D3js)](https://d3js.org/)
-- [datahero](https://datahero.com/)
 - [dygraphs](https://dygraphs.com/)
 - [ECharts](https://echarts.baidu.com/index-en.html)
 - [exhibit](https://www.simile-widgets.org/exhibit/)
@@ -381,12 +379,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
 - [highcarts](https://www.highcharts.com/)
 - [import.io](https://www.import.io/)
-- [ipychart](https://nicohlr.gitlab.io/ipychart/)
 - [jqplot](https://www.jqplot.com/)
 - [Matplotlib](https://matplotlib.org/)
 - [nvd3](https://nvd3.org/)
 - [Netron](https://github.com/lutzroeder/netron)
-- [Opendata-tools](https://opendata-tools.org/en/visualization/)
 - [Openrefine](https://openrefine.org/)
 - [plot.ly](https://plot.ly/)
 - [raw](https://rawgraphs.io)
@@ -396,7 +392,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [variancecharts](https://variancecharts.com/index.html)
 - [vida](https://vida.io/)
 - [vizzu](https://github.com/vizzuhq/vizzu-lib)
-- [Wrangler](https://vis.stanford.edu/wrangler/)
+- [Wrangler](http://vis.stanford.edu/wrangler/)
 - [r2d3](https://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [NetworkX](https://networkx.org/)
 - [Redash](https://redash.io/)
@@ -491,7 +487,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Mining Massive Datasets](https://www.mmds.org/) - free e-book comprehended by an online course
 - [Pandas in Action](https://www.manning.com/books/pandas-in-action) - Early access
 - [Genetic Algorithms and Genetic Programming](https://www.taylorfrancis.com/books/9780429141973)
-- [Genetic algorithms in search, optimization, and machine learning](https://www2.fiit.stuba.sk/~kvasnicka/Free%20books/Goldberg_Genetic_Algorithms_in_Search.pdf) - Free Download
 - [Advances in Evolutionary Algorithms](https://www.intechopen.com/books/advances_in_evolutionary_algorithms) - Free Download
 - [Genetic Programming: New Approaches and Successful Applications](https://www.intechopen.com/books/genetic-programming-new-approaches-and-successful-applications) - Free Download
 - [Evolutionary Algorithms](https://www.intechopen.com/books/evolutionary-algorithms) - Free Download
@@ -524,7 +519,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Graph Algorithms for Data Science](https://www.manning.com/books/graph-algorithms-for-data-science) - Early access
 - [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - Early access
 - [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - Early access
-
+- [Dive into Deep Learning](https://d2l.ai/)
 
 
 
@@ -551,10 +546,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science London](https://datasciencelondon.org/) Data Science London is a non-profit organization dedicated to the free, open, dissemination of data science.
   We are the largest data science community in Europe.
   We are more than 3,190 data scientists and data geeks in our community.
-- [Datawrangling](https://datawrangling.com/) by Peter Skomoroch. MACHINE LEARNING, DATA MINING, AND MORE
+- [Datawrangling](http://www.datawrangling.org) by Peter Skomoroch. MACHINE LEARNING, DATA MINING, AND MORE
 - [Quora Data Science](https://www.quora.com/topic/Data-Science) - Data Science Questions and Answers from experts
 - [Siah](https://openresearch.wordpress.com/) a PhD student at Berkeley
-- [Data Science Report](https://datasciencereport.com/) MDS, Inc. Helps Build Careers in Data Science, Advanced Analytics, Big Data Architecture, and High Performance Software Engineering
 - [Louis Dorard](https://www.ownml.co/blog/) a technology guy with a penchant for the web and for data, big and small
 - [Machine Learning Mastery](https://machinelearningmastery.com/) about helping professional programmers to confidently apply machine learning algorithms to address complex problems.
 - [Daniel Forsyth](https://www.danielforsyth.me/) - Personal Blog
@@ -562,7 +556,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Revolution Analytics](https://blog.revolutionanalytics.com/) - Data Science Blog
 - [R Bloggers](https://www.r-bloggers.com/) - R Bloggers
 - [The Practical Quant](https://practicalquant.blogspot.com/) Big data
-- [Datascope Analytics](https://datascopeanalytics.com/) data-driven consulting and design
 - [Yet Another Data Blog](https://yet-another-data-blog.blogspot.com/) Yet Another Data Blog
 - [Spenczar](https://spenczar.com/) a data scientist at _Twitch_. I handle the whole data pipeline, from tracking to model-building to reporting.
 - [KD Nuggets](https://www.kdnuggets.com/) Data Mining, Analytics, Big Data, Data, Science not a blog a portal
@@ -572,7 +565,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Tevfik Kosar](https://magnus-notitia.blogspot.com/) - Magnus Notitia
 - [New Data Scientist](https://newdatascientist.blogspot.com/) How a Social Scientist Jumps into the World of Big Data
 - [Harvard Data Science](https://harvarddatascience.com/) - Thoughts on Statistical Computing and Visualization
-- [Data Science 101](https://101.datascience.community/) - Learning To Be A Data Scientist
+- [Data Science 101](https://ryanswanstrom.com/datascience101/) - Learning To Be A Data Scientist
 - [Kaggle Past Solutions](https://www.chioka.in/kaggle-competition-solutions/)
 - [DataScientistJourney](https://datascientistjourney.wordpress.com/category/data-science/)
 - [NYC Taxi Visualization Blog](https://chriswhong.github.io/nyctaxi/)
@@ -580,7 +573,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Dataists](https://www.dataists.com/)
 - [Data-Mania](https://www.data-mania.com/)
 - [Data-Magnum](https://data-magnum.com/)
-- [Map Reduce Blog](https://www.mapr.com/blog)
 - [P-value](https://www.p-value.info/) - Musings on data science, machine learning and stats.
 - [datascopeanalytics](https://datascopeanalytics.com/blog/)
 - [Digital transformation](https://tarrysingh.com/)
@@ -781,7 +773,6 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Analytics Vidhya](https://datahack.analyticsvidhya.com/)
 - [InnoCentive](https://www.innocentive.com/)
-- [TuneedIT](https://tunedit.org/challenges)
 - [Microprediction](https://www.microprediction.com/python-1)
 
 
@@ -819,7 +810,7 @@ Some data mining competition platforms
 - [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
 - [datacite.org](https://datacite.org/)
 - [The official portal for European data](https://data.europa.eu/en)
-- [quandl.com](https://www.quandl.com/) - Get the data you need in the form you want; instant download, API or direct to your app.
+- [NASDAQ:DATA](https://data.nasdaq.com/) - Nasdaq Data Link A premier source for financial, economic and alternative datasets.
 - [figshare.com](https://figshare.com/)
 - [GeoLite Legacy Downloadable Databases](https://dev.maxmind.com/geoip)
 - [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
@@ -834,7 +825,7 @@ Some data mining competition platforms
 - [grouplens.org](https://grouplens.org/datasets/) Sample movie (with ratings), book and wiki datasets
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/) - contains data sets good for machine learning
 - [research-quality data sets](https://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1) by [Hilary Mason](https://web.archive.org/web/20150501033715/https://bitly.com/u/hmason/bundles)
-- [National Climatic Data Center - NOAA](https://www.ncdc.noaa.gov/)
+- [National Centers for Environmental Information](https://www.ncei.noaa.gov/)
 - [ClimateData.us](https://www.climatedata.us/) (related: [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/))
 - [r/datasets](https://www.reddit.com/r/datasets/)
 - [MapLight](https://www.maplight.org/data-series) - provides a variety of data free of charge for uses that are freely available to the general public. Click on a data set below to learn more
@@ -847,11 +838,9 @@ Some data mining competition platforms
 - [NASA SocioEconomic Data and Applications Center - SEDAC](https://sedac.ciesin.columbia.edu/)
 - [The GDELT Project](https://www.gdeltproject.org/)
 - [Sweden, Statistics](https://www.scb.se/en/)
-- [Github free data source list](https://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
 - [StackExchange Data Explorer](https://data.stackexchange.com) - an open source tool for running arbitrary queries against public data from the Stack Exchange network.
 - [SocialGrep](https://socialgrep.com/datasets) - a collection of open Reddit datasets.
 - [San Fransisco Government Open Data](https://datasf.org/opendata/)
-- [IBM Blog about open data](https://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know)
 - [IBM Asset Dataset](https://developer.ibm.com/exchanges/data/)
 - [Open data Index](https://index.okfn.org/)
 - [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive)

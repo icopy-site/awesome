@@ -241,6 +241,10 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [VxWorks](https://github.com/Wind-River/vxworks7-ros2-build) - The Secure, Safe, Reliable, and Certifiable real-time OS for Critical Infrastructure
 - [Zephyr](https://www.zephyrproject.org/) - Linux Foundation Projects RTOS aiming at beeing secure and safe.
 
+## Packaging
+
+- [ros2-snap](https://snapcraft.io/docs/ros2-applications) - Create a snap for your ROS 2 application.
+
 ## Forks
 
 - [Apex.OS](https://www.apex.ai/apex-os) - Apex.OS is a fork of ROS 2 that has been made so robust and reliable that it can be used in safety-critical applications.

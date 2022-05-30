@@ -71,6 +71,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Tabix](https://github.com/tabixio/tabix) - SQL Editor & Open source simple business intelligence for Clickhouse.
 - [TablePlus](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
 - [TeamPostgreSQL](http://www.teampostgresql.com) - PostgreSQL Web Administration GUI - use your PostgreSQL databases from anywhere, with rich, lightning-fast AJAX web interface.
+- [Query.me](https://query.me) - Collaborative SQL editor in Notebook format. Let's you reference query results using JINJA, visualize data, and schedule runs and exports.
 
 
 ## CLI
@@ -81,6 +82,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [pg_top](https://github.com/markwkm/pg_top) - 'top' for PostgreSQL.
 - [pspg](https://github.com/okbob/pspg) - Postgres Pager.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer Command Line (SQLcl) is a free command line interface for Oracle Database.
+- [sqlite-utils](https://github.com/simonw/sqlite-utils) - CLI tools for manipulating SQLite database files - inserting data, running queries, creating indexes, configuring full-text search and more.
 - [SQLLine](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
 - [usql](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and many other databases including NoSQL and non-relational databases!
 
@@ -148,6 +150,7 @@ Building API for your Data
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
 - [Prisma](https://github.com/prismagraphql/prisma) -  Prisma turns your database into a realtime GraphQL API.
+- [PostGraphile](https://github.com/graphile/postgraphile) - Instantly spin-up a GraphQL API server by pointing PostGraphile at your existing PostgreSQL database.
 - [PostgREST](https://github.com/PostgREST/postgrest) - REST API for any Postgres database.
 - [prest](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
 - [restSQL](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
@@ -157,6 +160,7 @@ Building API for your Data
 
 ## Application platforms
 Low-code and no-code platforms for application building
+- [Appsmith](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
 - [Budibase](https://github.com/Budibase/budibase) - Low-code platform for creating internal apps in minutes.
 - [Saltcorn](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
 
@@ -313,6 +317,7 @@ Run SQL queries against anything
 - [Steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).
 - [TextQL](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
+- [Trino](https://github.com/trinodb/trino) - Trino is a distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
 
 ### Language Server Protocol
 - [SQLLanguageServer](https://github.com/joe-re/sql-language-server) - SQL Language Server.

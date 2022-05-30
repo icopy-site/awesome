@@ -1113,6 +1113,10 @@ metadata in media files, including video, audio, and photo formats
 * [Superpower](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
 * [CSLY](https://github.com/b3b00/CSLY) - A light embedded C# lexer/parser generator.
 
+## Source Generator
+* [Supernova.Enum.Generators](https://github.com/EngRajabi/Enum.Source.Generator) - A C# source generator to create an enumeration class from an enum type. With this package, you can work on enums very, very fast without using reflection.
+
+
 ## Other Lists
 
 * [.NET-libraries-that-make-your-life-easier](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
