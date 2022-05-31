@@ -59,6 +59,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [PopSQL](https://popsql.com) - Modern, collaborative SQL editor for your team.
 - [Postico](https://eggerapps.at/postico) - A Modern PostgreSQL Client for the Mac.
 - [Robo 3T](https://github.com/Studio3T/robomongo) - Robo 3T (formerly Robomongo) is a shell-centric cross-platform MongoDB management tool.
+- [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS.
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
 - [SQL Operations Studio](https://github.com/microsoft/sqlopsstudio) - A data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 - [SQLite Expert](http://www.sqliteexpert.com/index.html) - Graphical interface supports all SQLite features.
@@ -359,6 +360,9 @@ Run SQL queries against anything
 Documents, articles, manifestos and other theoretical materials on database tools
 - [The "Database as Code" Manifesto](https://github.com/mgramin/database-as-code) - Treat your database as Code.
 
+## Machine Learning
+- [MindsDB](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
+- [SQLFlow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 
 ## Contributing
 - Your contributions are always welcome! Please read the [contribution guidelines](https://github.com/mgramin/awesome-db-tools/blob/master/contributing.md) first.
