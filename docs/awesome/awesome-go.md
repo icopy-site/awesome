@@ -1954,6 +1954,7 @@ _Libraries and tools for binary serialization._
 _Libraries and tools for stream processing and reactive programming._
 
 - [go-streams](https://github.com/reugn/go-streams) - Go stream processing library.
+- [goio](https://github.com/primetalk/goio) - An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2.
 - [machine](https://github.com/whitaker-io/machine) - Go library for writing and generating stream workers with built in metrics and traceability.
 - [stream](https://github.com/youthlin/stream) - Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce...
 
@@ -1989,6 +1990,7 @@ _Libraries for testing codebases and generating test data._
   - [assert](https://github.com/go-playground/assert) - Basic Assertion Library used along side native go testing, with building blocks for custom assertions.
   - [badio](https://github.com/cavaliercoder/badio) - Extensions to Go's `testing/iotest` package.
   - [baloo](https://github.com/h2non/baloo) - Expressive and versatile end-to-end HTTP API testing made easy.
+  - [be](https://github.com/carlmjohnson/be) - The minimalist generic test assertion library.
   - [biff](https://github.com/fulldump/biff) - Bifurcation testing framework, BDD compatible.
   - [charlatan](https://github.com/percolate/charlatan) - Tool to generate fake interface implementations for tests.
   - [commander](https://github.com/SimonBaeumer/commander) - Tool for testing cli applications on windows, linux and osx.
@@ -2130,6 +2132,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 - [parth](https://github.com/codemodus/parth) - URL path segmentation parsing.
 - [sdp](https://github.com/gortc/sdp) - SDP: Session Description Protocol [[RFC 4566](https://tools.ietf.org/html/rfc4566)].
 - [sh](https://github.com/mvdan/sh) - Shell parser and formatter.
+- [tokenizer](https://github.com/bzick/tokenizer) — Parse any string, slice or infinite buffer to any tokens.
 - [when](https://github.com/olebedev/when) - Natural EN and RU language date/time parser with pluggable rules.
 - [xj2go](https://github.com/stackerzzq/xj2go) - Convert xml or json to go struct.
 
@@ -3109,6 +3112,7 @@ _Where to discover new Go libraries._
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - List of other amazingly awesome lists.
 - [awesome-go-extra](https://github.com/xwjdsh/awesome-go-extra) - Parse awesome-go README file and generate a new README file with repo info.
+- [Code with Mukesh](https://codewithmukesh.com/blog/category/golang) - Software Engineer and Blogs @ codewithmukesh.com.
 - [Coding Mystery](https://codingmystery.com) - Solve exciting escape-room-inspired programming challenges using Go.
 - [CodinGame](https://www.codingame.com/) - Learn Go by solving interactive tasks using small games as practical examples.
 - [Go Blog](https://blog.golang.org) - The official Go blog.
@@ -3177,7 +3181,6 @@ _Where to discover new Go libraries._
 - [How to Benchmark: dbq vs sqlx vs GORM](https://medium.com/@rocketlaunchr.cloud/how-to-benchmark-dbq-vs-sqlx-vs-gorm-e814caacecb5) - Learn how to benchmark in Go. As a case-study, we will benchmark dbq, sqlx and GORM.
 - [How To Deploy a Go Web Application with Docker](https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker) - Learn how to use Docker for Go development and how to build production Docker images.
 - [How to Use Godog for Behavior-driven Development in Go](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go) - Get started with Godog — a Behavior-driven development framework for building and testing Go applications.
-- [Implementing CRUD in Golang REST API with Mux & GORM](https://codewithmukesh.com/blog/implementing-crud-in-golang-rest-api/) - Building a CRUD Golang REST API from scratch using MUX, GORM, MySQL, Viper and clean folder seperation. Entire source code is also included!
 - [Learn Go with 1000+ Exercises](https://github.com/inancgumus/learngo) - Learn Go with thousands of examples, exercises, and quizzes.
 - [Learn Go with TDD](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development.
 - [Learning Go by examples](https://dev.to/aurelievache/learning-go-by-examples-introduction-448n) - Serie of article in order to learn Golang language by concrete applications as example.
