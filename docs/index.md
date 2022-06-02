@@ -287,6 +287,7 @@
 - [Integration](awesome/awesome-integration.md) - Linking together different IT systems (components) to functionally cooperate as a whole.
 - [Node-RED](awesome/awesome-nodered.md) - A programming tool for wiring together hardware devices, APIs, and online services.
 - [Low Code](awesome/awesome-low-code.md) - Allowing business professionals to address their needs on their own with little to no coding skills.
+- [Capacitor](awesome/awesome-capacitor.md) - Cross-platform open source runtime for building Web Native apps.
 
 ## Programming Languages
 
@@ -364,6 +365,7 @@
 - [Vala](awesome/awesome-vala.md) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
 - [Coq](awesome/awesome-coq.md) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 - [V](awesome/awesome-v.md) - Simple, fast, safe, compiled language for developing maintainable software.
+- [Zig](awesome/awesome-zig.md) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## Front-End Development
 
@@ -545,6 +547,7 @@
 - [Information Retrieval](awesome/awesome-information-retrieval.md) - Learn to develop your own search engine.
 - [Quantum Computing](awesome/awesome-quantum-computing.md) - Computing which utilizes quantum mechanics and qubits on quantum computers.
 - [Theoretical Computer Science](awesome/awesome-theoretical-computer-science.md) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
+- [Conversational AI](awesome/awesome-conversational-ai.md) - Build awesome chatbots and digital assistants.
 
 ## Big Data
 
@@ -569,6 +572,7 @@
 - [Competitive Programming](awesome/awesome-competitive-programming.md)
 - [Math](awesome/awesome-math.md)
 - [Recursion Schemes](awesome/awesome-recursion-schemes.md) - Traversing nested data structures.
+- [Audit Algorithms](awesome/awesome-audit-algorithms.md) - Algorithmic audits of algorithms.
 
 ## Books
 
@@ -726,6 +730,7 @@
 - [Craft CMS](awesome/awesome.md) - Content-first CMS.
 - [Sitecore](awesome/Awesome-Sitecore.md) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
 - [Silverstripe CMS](awesome/awesome-silverstripe-cms.md) - PHP MVC framework that serves as a classic or headless CMS.
+- [Directus](awesome/awesome-directus.md) - A real-time API and app dashboard for managing SQL database content.
 
 ## Hardware
 

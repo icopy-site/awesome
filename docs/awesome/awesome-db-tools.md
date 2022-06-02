@@ -212,6 +212,7 @@ Low-code and no-code platforms for application building
 ### Prometheus
 - [pgSCV](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
 - [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
+- [pg_exporter](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 
 ### Zabbix
 - [Mamonsu](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
@@ -270,6 +271,7 @@ Low-code and no-code platforms for application building
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - Full-featured PostgreSQL installation packaged as a standard Mac app.
 - [BigSQL](https://www.bigsql.org) - A developer-friendly distribution of Postgres.
 - [Elephant Shed](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
+- [Pigsty](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
 
 
 ## Security

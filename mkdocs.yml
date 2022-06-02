@@ -70,6 +70,7 @@ nav:
     - Integration: awesome/components.md
     - Node-RED: awesome/awesome-nodered.md
     - Low Code: awesome/awesome-low-code.md
+    - Capacitor: awesome/awesome-capacitor.md
   - Programming Languages:
     - JavaScript: awesome/awesome-javascript.md
     - JavaScript_sub: 
@@ -153,6 +154,7 @@ nav:
     - Vala: awesome/awesome-vala.md
     - Coq: awesome/awesome-coq.md
     - V: awesome/awesome-v.md
+    - Zig: awesome/awesome-zig.md
   - Front-End Development:
     - ES6 Tools: awesome/es6-tools.md
     - Web Performance Optimization: awesome/awesome-wpo.md
@@ -309,6 +311,7 @@ nav:
     - Information Retrieval: awesome/awesome-information-retrieval.md
     - Quantum Computing: awesome/awesome-quantum-computing.md
     - Theoretical Computer Science: awesome/awesome-theoretical-computer-science.md
+    - Conversational AI: awesome/awesome-conversational-ai.md
   - Big Data:
     - Big Data: awesome/awesome-bigdata.md
     - Hadoop: awesome/awesome-hadoop.md
@@ -329,6 +332,7 @@ nav:
     - Competitive Programming: awesome/awesome-competitive-programming.md
     - Math: awesome/awesome-math.md
     - Recursion Schemes: awesome/awesome-recursion-schemes.md
+    - Audit Algorithms: awesome/awesome-audit-algorithms.md
   - Books:
     - Free Programming Books: awesome/free-programming-books.md
     - Go Books: awesome/GoBooks.md
@@ -464,6 +468,7 @@ nav:
     - Craft CMS: awesome/craftcms-awesome.md
     - Sitecore: awesome/Awesome-Sitecore.md
     - Silverstripe CMS: awesome/awesome-silverstripe-cms.md
+    - Directus: awesome/awesome-directus.md
   - Hardware:
     - Robotics: awesome/awesome-robotics.md
     - Internet of Things: awesome/awesome-iot.md
