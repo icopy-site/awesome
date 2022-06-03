@@ -2105,6 +2105,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 - [github_flavored_markdown](https://godoc.org/github.com/shurcooL/github_flavored_markdown) - GitHub Flavored Markdown renderer (using blackfriday) with fenced code block highlighting, clickable header anchor links.
 - [go-output-format](https://github.com/drewstinnett/go-output-format) - Output go structures into multiple formats (YAML/JSON/etc) in your command line app.
 - [go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML format with query support and handy cli tools.
+- [goldmark](https://github.com/yuin/goldmark) - A Markdown parser written in Go. Easy to extend, standard (CommonMark) compliant, well structured.
 - [goq](https://github.com/andrewstuart/goq) - Declarative unmarshaling of HTML using struct tags with jQuery syntax (uses GoQuery).
 - [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [htmlquery](https://github.com/antchfx/htmlquery) - An XPath query package for HTML, lets you extract data or evaluate from HTML documents by an XPath expression.
@@ -2438,6 +2439,7 @@ _General utilities and tools to make your life easier._
 - [UNIS](https://github.com/esemplastic/unis) - Common Architecture™ for String Utilities in Go.
 - [usql](https://github.com/knq/usql) - usql is a universal command-line interface for SQL databases.
 - [util](https://github.com/shomali11/util) - Collection of useful utility functions. (strings, concurrency, manipulations, ...).
+- [wifiqr](https://github.com/reugn/wifiqr) - Wi-Fi QR Code Generator.
 - [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection.
 - [xferspdy](https://github.com/monmohan/xferspdy) - Xferspdy provides binary diff and patch library in golang.
 

@@ -107,6 +107,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [algofi-js-sdk](https://github.com/Algofiorg/algofi-js-sdk) - Algofi JavaScript SDK.
 - [algo-builder](https://github.com/scale-it/algo-builder) - Framework to automate development of Algorand Assets and Smart Contracts.
 - [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) - Dapps templates for Algo Builder.
+- [algonaut.js](https://github.com/thencc/algonautjs) - An easier Algo sdk for front-end dapps (typescript).
 
 ### Java
 
@@ -162,10 +163,11 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Algorand Sandbox](https://github.com/algorand/sandbox) - Fast way to create and configure an Algorand development environment.
 - [Algorand Sandbox Dev](https://github.com/MakerXStudio/algorand-sandbox-dev) - Docker Hub image for faster local development and CI/CD usage.
 
-### Testing 
+### Testing
 
 - [graviton](https://github.com/algorand/graviton) - Algorand's TEAL blackbox testing toolkit.
 - [tealer](https://github.com/crytic/tealer) - Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.
+- [irulan](https://irulan.dev/) - Web app for deploying + testing smart contracts ([open source! + PRs welcome](https://github.com/ncc/irulan)).
 
 ### Nodes and Indexers
 
@@ -241,11 +243,12 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [QRCode Generator](https://github.com/emg110/algorand-qrcode)
 - [algofractals](https://github.com/aorumbayev/algofractals) - Mint randomly generated mandelbrot fractals with embedded ARC69 tags.
 - [algorewards](https://algorewards.github.io/) - Free and unofficial Algorand governance reward calculator. Hosted on GitHub Pages.
-- [algorand.dev](https://algorand.dev/) - Algorand Developer: The unofficial developer resource. 
+- [algorand.dev](https://algorand.dev/) - Algorand Developer: The unofficial developer resource.
 - [daotools](https://daotools.org/) - Manage all your DAO voting sessions in one Dapp.
 - [FORUM](https://forum.ax/) - A proof-of-stake social network on the Algorand blockchain.
 - [Pipeline-UI](https://www.pipeline-ui.com/) - A React.js based component library for rapid deployment of Algorand Dapps.
 - [AlgoCloud](https://algocloud.org/) - Algorand ecosystem dashboard. Connect DeFi apps, display NFTs, account analytics, and more.
+- [STOI](https://stoi.org/) - Song ownership gone decentralized via microDAOs.
 
 ## ARCs
 
