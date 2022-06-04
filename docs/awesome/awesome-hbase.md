@@ -43,6 +43,7 @@ A curated list of awesome HBase projects and resources.
 
 * [DataNucleus](http://www.datanucleus.org) - JPA persistence layer with support for HBase.
 * [Gora](http://gora.apache.org) - Persistence library for big data with support for HBase.
+* [HBase ORM](https://github.com/flipkart-incubator/hbase-orm) - A production-grade HBase ORM library.
 * [HEntityDB](https://github.com/rayokota/hentitydb) - HBase as an entity database.
 * [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase.
 
@@ -53,6 +54,7 @@ A curated list of awesome HBase projects and resources.
 #### Graph
 * [Gradoop](https://github.com/dbs-leipzig/gradoop) - Research framework for scalable graph analytics built on Flink and HBase.
 * [HGraphDB](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database.
+* [HugeGraph](https://github.com/apache/incubator-hugegraph) - A graph database that supports more than 10+ billion data, high performance and scalability.
 * [JanusGraph](http://janusgraph.org/) - Scalable graph database with support for Cassandra, HBase, Google Cloud Bigtable, and BerkeleyDB.
 * [NebulaGraph](https://github.com/vesoft-inc/nebula) - A high performance distributed Graph database.
 * [S2Graph](http://s2graph.incubator.apache.org) - High-performance distributed graph database built on HBase.
@@ -105,6 +107,7 @@ A curated list of awesome HBase projects and resources.
 * [Impala](https://www.cloudera.com/documentation/enterprise/latest/topics/impala_hbase.html) - Impala support for querying HBase tables.
 * [Kafka](https://github.com/apache/hbase-connectors/tree/master/kafka) - HBase Kafka proxy.
 * [Pig](https://github.com/apache/pig/tree/trunk/src/org/apache/pig/backend/hadoop/hbase) - Pig HBase integration.
+* [Presto](https://github.com/analysys/presto-hbase-connector) - Presto-HBase connector.
 * [Pulsar](http://pulsar.apache.org/docs/en/io-hbase/) - HBase connector for Pulsar.
 * [Ranger](https://cwiki.apache.org/confluence/display/RANGER/HBase+Plugin) - HBase plugin for Apache Ranger.
 * [Spark](https://github.com/hortonworks-spark/shc) - Spark-HBase connector.
