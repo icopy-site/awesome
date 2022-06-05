@@ -71,6 +71,7 @@ nav:
     - Node-RED: awesome/awesome-nodered.md
     - Low Code: awesome/awesome-low-code.md
     - Capacitor: awesome/awesome-capacitor.md
+    - ArcGIS Developer: awesome/awesome-arcgis-developer.md
   - Programming Languages:
     - JavaScript: awesome/awesome-javascript.md
     - JavaScript_sub: 
@@ -271,6 +272,7 @@ nav:
     - CDK: awesome/awesome-cdk.md
     - IAM: awesome/awesome-iam.md
     - Slim: awesome/awesome-slim.md
+    - Fiber: awesome/awesome-fiber.md
   - Computer Science:
     - University Courses: awesome/awesome-courses.md
     - Data Science: awesome/awesome-datascience.md
@@ -414,6 +416,7 @@ nav:
     - Database Tools: awesome/awesome-db-tools.md
     - TypeDB: awesome/typedb-awesome.md
     - Cassandra: awesome/awesome-cassandra.md
+    - TDengine: awesome/awesome-tdengine.md
   - Media:
     - Creative Commons Media: awesome/creative-commons-media.md
     - Fonts: awesome/awesome-fonts.md
@@ -461,6 +464,8 @@ nav:
     - GDPR: awesome/awesome-gdpr.md
     - DevOps: awesome/DevOps.md
     - Executable Packing: awesome/awesome-executable-packing.md
+    - Malware Persistence: awesome/awesome-malware-persistence.md
+    - EVM Security: awesome/awesome-evm-security.md
     - Umbraco: awesome/awesome-umbraco.md
     - Refinery CMS: awesome/awesome-refinerycms.md
     - Wagtail: awesome/awesome-wagtail.md
@@ -469,6 +474,7 @@ nav:
     - Sitecore: awesome/Awesome-Sitecore.md
     - Silverstripe CMS: awesome/awesome-silverstripe-cms.md
     - Directus: awesome/awesome-directus.md
+    - Plone: awesome/awesome-plone.md
   - Hardware:
     - Robotics: awesome/awesome-robotics.md
     - Internet of Things: awesome/awesome-iot.md
@@ -478,6 +484,7 @@ nav:
     - Plotters: awesome/awesome-plotters.md
     - Robotic Tooling: awesome/awesome-robotic-tooling.md
     - LIDAR: awesome/awesome-lidar.md
+    - Open Hardware: awesome/awesome-open-hardware.md
   - Business:
     - Open Companies: awesome/awesome-open-company.md
     - Places to Post Your Startup: awesome/PlacesToPostYourStartup.md
@@ -663,6 +670,8 @@ nav:
     - Translations: awesome/awesome-translations.md
     - Scriptable: awesome/awesome-scriptable.md
     - WebXR: awesome/awesome-webxr.md
+    - OpenStreetMap: awesome/awesome-openstreetmap.md
+    - Computational Biology: awesome/awesome-computational-biology.md
     - All Awesome Lists: awesome/topics-awesome.md
     - StumbleUponAwesome: awesome/StumbleUponAwesome.md
     - Awesome CLI: awesome/awesome-cli.md

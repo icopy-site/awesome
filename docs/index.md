@@ -288,6 +288,7 @@
 - [Node-RED](awesome/awesome-nodered.md) - A programming tool for wiring together hardware devices, APIs, and online services.
 - [Low Code](awesome/awesome-low-code.md) - Allowing business professionals to address their needs on their own with little to no coding skills.
 - [Capacitor](awesome/awesome-capacitor.md) - Cross-platform open source runtime for building Web Native apps.
+- [ArcGIS Developer](awesome/awesome-arcgis-developer.md) - Mapping and location analysis platform for developers.
 
 ## Programming Languages
 
@@ -509,6 +510,7 @@
 - [CDK](awesome/awesome-cdk.md) - Open-source software development framework for defining cloud infrastructure in code.
 - [IAM](awesome/awesome-iam.md) - User accounts, authentication and authorization.
 - [Slim](awesome/awesome-slim.md) - PHP framework.
+- [Fiber](awesome/awesome-fiber.md) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
 
 ## Computer Science
 
@@ -667,6 +669,7 @@
 - [Database Tools](awesome/awesome-db-tools.md) - Everything that makes working with databases easier.
 - [TypeDB](awesome/typedb-awesome.md) - Logical database to organize large and complex networks of data as one body of knowledge.
 - [Cassandra](awesome/awesome-cassandra.md) - Open-source, distributed, wide column store, NoSQL database management system.
+- [TDengine](awesome/awesome-tdengine.md) - An open-source time-series database with high-performance, scalability, and SQL support.
 
 ## Media
 
@@ -720,6 +723,8 @@
 - [GDPR](awesome/awesome-gdpr.md) - Regulation on data protection and privacy for all individuals within EU.
 - [DevSecOps](awesome/awesome-devsecops.md) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
 - [Executable Packing](awesome/awesome-executable-packing.md) - Packing and unpacking executable formats.
+- [Malware Persistence](awesome/awesome-malware-persistence.md) - Techniques that adversaries use to keep access to systems across restarts.
+- [EVM Security](awesome/awesome-evm-security.md) - Understanding the Ethereum Virtual Machine security ecosystem.
 
 
 - [Umbraco](awesome/awesome-umbraco.md)
@@ -731,6 +736,7 @@
 - [Sitecore](awesome/Awesome-Sitecore.md) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
 - [Silverstripe CMS](awesome/awesome-silverstripe-cms.md) - PHP MVC framework that serves as a classic or headless CMS.
 - [Directus](awesome/awesome-directus.md) - A real-time API and app dashboard for managing SQL database content.
+- [Plone](awesome/awesome-plone.md) - Open source Python CMS.
 
 ## Hardware
 
@@ -742,6 +748,7 @@
 - [Plotters](awesome/awesome-plotters.md) - Computer-controlled drawing machines and other visual art robots.
 - [Robotic Tooling](awesome/awesome-robotic-tooling.md) - Free and open tools for professional robotic development.
 - [LIDAR](awesome/awesome-lidar.md) - Sensor for measuring distances by illuminating the target with laser light.
+- [Open Hardware](awesome/awesome-open-hardware.md) - Open-source hardware projects.
 
 ## Business
 
@@ -941,6 +948,8 @@
 - [Translations](awesome/awesome-translations.md) - The transfer of the meaning of a text from one language to another.
 - [Scriptable](awesome/awesome-scriptable.md) - An iOS app for automations in JavaScript.
 - [WebXR](awesome/awesome-webxr.md) - Enables immersive virtual reality and augmented reality content on the web.
+- [OpenStreetMap](awesome/awesome-openstreetmap.md) - An open data mapping project utilized by many apps and devices.
+- [Computational Biology](awesome/awesome-computational-biology.md) - Computational approaches applied to problems in biology.
 
 ## Related
 

@@ -228,6 +228,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Auction Demo](https://github.com/algorand/auction-demo) - On-chain NFT auction using smart contracts.
 - [Algorand Session Wallet](https://github.com/barnjamin/algorand-session-wallet) - Session wallet to allow persisted wallet connections across multiple wallets.
 - [AlgoWorld-Contracts](https://github.com/algoworldNFT/algoworld-contracts) - Collection of all smart contracts used by AlgoWorld, written in PyTeal.
+- [AlgoWorld-Swapper](https://github.com/algoworldNFT/algoworld-swapper) - Free and trustless ASA swapper, powered by Algorand Smart Signatures.
 - [WalletConnect Example DApp](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect demo.
 - [paytx](https://github.com/algorand-devrel/paytx) - Examples of common pay transaction scenarios using the Algorand Python SDK.
 - [TinyBar App](https://tinybar.app) - A tiny macOS menu bar app for tracking ASA prices from TinyMan.
