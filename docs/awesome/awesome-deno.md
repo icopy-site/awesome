@@ -81,6 +81,11 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [fresh](https://github.com/lucacasonato/fresh) - Preact, but super edgy. The next-gen web framework.
 - [ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno.
 
+### Game engine
+- [caviar](https://github.com/load1n9/caviar) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
+- [neko](https://github.com/load1n9/neko) - 🐈 caviar's twin frame buffer deno module with a framebuffer canvas implementation
+- [sdl2](https://github.com/littledivy/deno_sdl2) - SDL2 module for Deno
+
 ### Image
 - [ImageScript](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 

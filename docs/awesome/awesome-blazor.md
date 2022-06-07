@@ -13,13 +13,6 @@ If you need to search on this list you can try this great website: [Awesome Blaz
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
 
-## Microsoft Build 2022 (May 24-26, 2022).
-[<img src="https://pbs.twimg.com/media/FSfMMcFWYAAi4Mm?format=jpg&name=medium" align="center" width="100%">](https://mybuild.microsoft.com)
-- Come together at Microsoft Build May 24–26 2022, to explore the latest innovations in code and application development—and to gain insights from peers and experts from around the world.
-- Let’s innovate without compromise, develop creatively, and build the next generation of apps—welcome to Microsoft Build.
-- May 24-26, 2022
-- [mybuild.microsoft.com](https://mybuild.microsoft.com/).
-
 ## Introduction
 
 ### What is Blazor?
@@ -546,6 +539,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2020](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2020.md#articles), [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#articles), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#articles), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#articles).
   
 ## Podcasts
+* [Indexing Video using KlipTok with Jeff Fritz](https://www.dotnetrocks.com/default.aspx?ShowNum=1796) - June 2, 2022 - How do you find a great video clip after the fact? Carl and Richard talk to Jeff Fritz about his work building KlipTok, a tool for making Twitch video clips more discoverable and shareable. Jeff digs into the tricky bits of KlipTok, which is all about fast indexing and searching to get to the right clip. The conversation digs into various data storage techniques and using the cloud in a way that doesn't break the bank. Jeff may be a Microsoft employee, but that doesn't mean he uses only Microsoft tools for his projects. Duration: 57 minutes.
 * [David Ortinau on .NET MAUI](https://herdingcode.com/herding-code-246-david-ortinau-on-net-maui/) - May 27, 2022 - Jon Galloway talks to David Ortinau about [.NET MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui). Duration: 41 minutes. [YouTube video](https://www.youtube.com/watch?v=OyqzWAivI7I).
 * [The Unhandled Exception Podcast: Microsoft Build 2022](https://unhandledexceptionpodcast.com/posts/0037-build/) - May 25, 2022 - Microsoft have just had their annual Build conference - which comes with a whole host of exciting announcements and discussions about hot programming topics in the Microsoft developer space. And each year, I long for a podcast episode to come out straight after Build, overviewing them! Well, this year - this podcast aims to do just that! In this episode, I was joined by both Scott Hunter and Gaurav Seth to chat about various topics. Check out the links below for a guide to what we discussed. Duration: 71 minutes.
 * [ASP.NET, Blogging, Kuberetes, and more](https://unhandledexceptionpodcast.com/posts/0036-andrewlock/) - May 10, 2022 - The Unhandled Exception Podcast with Andrew Lock (andrewlock.net). He’s the author of the Manning ebook, ASP.NET Core in Action, Second Edition. This episode covers a lot - from the different flavours of ASP.NET, to Kubernetes, Blazor, gRPC, testing, Minimal API, MediatR and more.

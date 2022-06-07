@@ -258,7 +258,6 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 - [andersevenrud/nordic.nvim](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
 - [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette.
-- [MordechaiHadad/nvim-papadark](https://github.com/MordechaiHadad/nvim-papadark) - My own Neovim colorscheme.
 - [ishan9299/nvim-solarized-lua](https://github.com/ishan9299/nvim-solarized-lua) - Solarized colorscheme in Lua for Neovim 0.5.
 - [shaunsingh/moonlight.nvim](https://github.com/shaunsingh/moonlight.nvim) - Port of VSCode's Moonlight colorscheme for NeoVim, written in Lua with built-in support for native LSP, Tree-sitter and many more plugins.
 - [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - A One Dark Theme for Neovim 0.5 written in Lua based on Atom's One Dark Theme.
@@ -711,6 +710,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 - [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) - Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment.
 - [jamestthompson3/nvim-remote-containers](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside docker containers, just like VSCode.
+- [esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container) -  Neovim devcontainer.json and general development container support.
 
 ### Split and Window
 
