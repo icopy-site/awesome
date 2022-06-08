@@ -29,6 +29,7 @@ Software, libraries and frameworks for development purposes.
 - [Brian2](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
 - [expyriment](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
  - [BindsNET](https://github.com/Hananel-Hazan/bindsnet) - Package for simulating spiking neural networks for reinforcement & machine learning.
+ - [SpikeInterface](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
  
 ### Matlab
 
@@ -92,6 +93,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [McCulloch & Pitts Neural Net Simulator](https://justinmeiners.github.io/neural-nets-sim/) - Simulator for a historical computational model based on neurons.
 - [ModelDB](https://senselab.med.yale.edu/ModelDB/default.cshtml) - Searchable database for computational neuroscience models.
 - [NeuronDB](https://senselab.med.yale.edu/NeuronDB) - Searchable database for  of three types of neuronal properties: voltage gated conductances, neurotransmitter receptors, and neurotransmitter substances.
+- [NeuroElectro](https://neuroelectro.org/) - Searchable database of neurons and their electrophysiological properties (extracted from literature)
 - [Neuroscience Mindmap](https://learn-anything.xyz/neuroscience) - Interactive mindmap containing curated resources for anyone interested in learning neuroscience.
 - [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonal) summer schools in neuroscience and related fields.
 - [Brain Matters](https://brainpodcast.com/) - Neuroscience podcast where real neuroscientists sit down and talk about the brain.

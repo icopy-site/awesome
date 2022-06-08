@@ -178,6 +178,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Make HTTP requests with a simple web-based HTTP client.
 * [TestMace](https://testmace.com) - Cross-platform simple but powerful IDE for API automation testing.
 * [Milkman](https://github.com/warmuuh/milkman) - Extensible cross-platform request/response workbench, not only for http calls.
+* [Schemathesis](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
 
 ### Mocking
 
@@ -186,10 +187,12 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [FakeRest](https://github.com/marmelab/FakeRest) - Patch XMLHttpRequest to fake a REST API client-side.
 * [json-server](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
 * [Mocky.io](http://www.mocky.io/) - Free online service to create fake HTTP responses.
+* [MockServer](https://www.mock-server.com/) - Easy mocking of any system you integrate with via HTTP or HTTPS.
 * [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) - Mock RESTful API based on swagger schema
 * [Request Baskets](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 * [DuckRails](https://github.com/iridakos/duckrails) - Mock quickly & dynamically API endpoints.
 * [Mockoon](https://mockoon.com) - Easily create mock APIs locally. No remote deployment, no account required, open source.
+* [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
 
 ### Public REST APIs To Use In Tests
 * [Deck of Cards API](http://deckofcardsapi.com) - Open API for simulating a deck of cards.
@@ -213,7 +216,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Kong](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
 * [Tyk API Gateway](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
 * [API Umbrella](https://github.com/NREL/api-umbrella) - API management platform for exposing web services, with web interface and analytics, written in Lua.
-* [WSO2 API Management](https://github.com/wso2/product-apim) - API management tool with lightweight gateway and API lifecycle manangement, written in Java.
+* [WSO2 API Management](https://github.com/wso2/product-apim) - API management tool with lightweight gateway and API lifecycle management, written in Java.
 * [Express Gateway](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
 * [KrakenD](https://github.com/devopsfaith/krakend) Ultra performant API Gateway with middleware. Written in Go.
 
