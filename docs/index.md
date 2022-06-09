@@ -703,6 +703,7 @@
 - [Product Management](awesome/awesome-product-management.md) - Learn how to be a better product manager.
 - [Roadmaps](awesome/awesome-roadmaps.md) - Gives you a clear route to improve your knowledge and skills.
 - [YouTubers](awesome/awesome-youtubers.md) - Watch video tutorials from YouTubers that teach you about technology.
+- [Cyber Security University](awesome/awesome-cyber-security-university.md) - Free educational resources that focus on learning by doing.
 
 ## Security
 

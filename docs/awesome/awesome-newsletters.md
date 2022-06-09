@@ -405,6 +405,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [HN Mail](https://hnmail.io). A customizable weekly newsletter that delivers Hacker News stories based on your interests.
 - [Senior Mindset](https://seniormindset.com). Get a series of curated essays on the mindset of a senior software engineer.
 - [Weekly Robotics](https://weeklyrobotics.com/). A weekly newsletter with news, projects and research related to robotics.
+- [Future Crunch](https://futurecrunch.com). A fortnightly newsletter with all the good news you don't get to hear about, in science, the environment, and across the world. You can see a feed of their good news [here](https://futurecrun.ch/goodnews).
 
 ## Resilience
 
@@ -429,7 +430,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter). A directory of free software solutions and web applications which can be hosted locally.
 - [lkml.wtf](https://lkml.wtf/). A weekly roundup of Linux Kernel Mailing List threads but with a lot more sarcasm.
 - [Kleroteria](https://www.kleroteria.org). A free, unique "lottery" newsletter where a subscriber is picked whose email submission is sent to all of the other subscribers. Subject matter varies in both topic and quality.
-- [tl;dr Marketing](https://tldrmarketing.com/). Weekly newsletter for digital marketers, covering news on SEO, PPC and Social Media.
 - [Startup Watching](https://startupwatching.com/). Curated knowledge, inspiration and background stories for startups. Delivered to your inbox every Monday and Thursday.
 - [Unreadit/Tech](https://unread.it/n/tech/). Hardware and software news for tech junkies from the best posts on Reddit.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/). Cutting edge news regarding entrepreneurship, growth, investing and startups sourced from the best Reddit posts.

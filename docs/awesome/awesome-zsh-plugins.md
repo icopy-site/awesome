@@ -621,6 +621,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 - [fuzzy-search-and-edit](https://github.com/seletskiy/zsh-fuzzy-search-and-edit) - ZSH plugin for fuzzy searching files and instantly opening a matched file on matched line.
 - [fuzzy-wd](https://github.com/spodin/zsh-fuzzy-wd) - Adds fuzzy search for directories warped withe the [WD](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/wd) plugin.
 - [fz](https://github.com/changyuheng/fz) - Seamlessly adds fuzzy search to [z](https://github.com/rupa/z)'s tab completion and lets you easily jump around among directories in your history.
+- [fzf (gimbo)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
 - [fzf (unixorn)](https://github.com/unixorn/fzf-zsh-plugin/tree/master) - Enables [fzf](https://github.com/junegunn/fzf) history and file searches.
 - [fzf-fasd](https://github.com/wookayin/fzf-fasd) - Integrates [fzf](https://github.com/junegunn/fzf) and [fasd](https://github.com/clvv/fasd) --- tab completion of `z` with fzf's fuzzy search!
 - [fzf-finder](https://github.com/leophys/zsh-plugin-fzf-finder) - Plugin to have a cool search keybinding with [fzf](https://github.com/junegunn/fzf) and (optionally) [bat](https://github.com/sharkdp/bat) and [fd](https://github.com/sharkdp/fd). Falls back to `find` and `cat`. Searches in the local tree of subdirectories for files.
@@ -1257,6 +1258,7 @@ These plugins add tab completions without adding extra functions or aliases.
 - [more-completions](https://github.com/MenkeTechnologies/zsh-more-completions) - 10500 zsh compsys completions!
 - [msfvenom](https://github.com/Green-m/msfvenom-zsh-completion) - Tab completions for Metasploit.
 - [mx-honey](https://github.com/mukel/mx-honey) - Provides completions for [mx](https://github.com/graalvm/mx); a command-line tool used for the development of Graal projects. It's meant to improve the usual workflow `build unittest benchmark ...` ease discovery and provide handy aliases.
+- [myincr](https://github.com/gaojunbin/zsh-myincr/) - Speeds up pasting with autosuggest and incr.
 - [newman](https://github.com/selop/newman-autocomplete) - Provides autocompletion for the [Newman CLI](https://github.com/postmanlabs/newman).
 - [nix](https://github.com/spwhitt/nix-zsh-completions) - Completions for [nix](https://nixos.org/nix/), [NixOS](https://nixos.org/), and [NixOps](https://nixos.org/nixops/).
 - [node-ace](https://github.com/romch007/node-ace-zsh-completion) - Completions for `node ace`.
