@@ -231,6 +231,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Quanta Magazine](https://www.quantamagazine.org/tag/computational-complexity) - Features breakthroughs in the field, written in an accessible style for non-experts.
 - [Theory of Computing Blog Aggregator](https://cstheory-feed.org/) - A blog Aggregator for all blogs related to TCS.
 - [CS Theory Jobs](https://cstheory-jobs.org) - TCS Jobs announcements.
+- [Yaroslavtsev. Hires spreadsheet 2022](http://grigory.us/blog/theory-jobs-2022/) - A crowdsourced spreadsheet created to collect information about theory hires in year 2022.
 - [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/~smattw/masters/masters.html) - A list of master programs in TCS.
 - [Barak. Research Masters in TCS](https://docs.google.com/spreadsheets/d/1znVmERIVm2Fz2cbYjXE97VH9eIx7UdaLh5n3FBYb8o8/edit?usp=sharing) - A list of master programs in TCS.
 - [TCS Stack Exchange](https://cstheory.stackexchange.com/) - Stack Exchange (QnA) of theoretical computer science.
@@ -270,6 +271,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - A list of conferences and workshops in theoretical computer science.
 ## Related Awesome Lists<a name=related_awesome_lists></a>
 - [Algorithms](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
-- [Mathematics](https://github.com/rossant/awesome-math#mathematics-for-computer-science) - Awesome list for freely available lecture notes on mathematics
+- [Mathematics](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
+- P.S. See also [Math](https://github.com/ossu/math) and [CS](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
