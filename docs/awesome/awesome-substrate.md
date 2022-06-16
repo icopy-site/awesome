@@ -80,6 +80,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Sunshine Bounty](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) - Distributed autonomous organization (DAO) for administering a bounty program.
 - [Sunshine Identity](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) - Keybase-inspired identity management.
 - [Sunshine Faucet](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/faucet/pallet) - Dispense resources for a development chain.
+- [RMRK Pallets](https://github.com/rmrk-team/rmrk-substrate) - Nested, conditional & Multi-resourced NFTs.
 
 ## Framework Extensions
 
@@ -132,6 +133,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [`substrate-graph-benchmarks`](https://github.com/shawntabrizi/substrate-graph-benchmarks) - Graph the benchmark output of FRAME pallets.
 - [`substrate-js-utils`](https://github.com/shawntabrizi/substrate-js-utilities) - A set of useful JavaScript utilities for Substrate that uses the Polkadot{JS} API; Also [deployed as a website](https://www.shawntabrizi.com/substrate-js-utilities/).
 - [`substrate-society`](https://github.com/shawntabrizi/substrate-society) - A basic front-end for the FRAME Society pallet.
+- [`substrate-toml-lint`](https://github.com/shawntabrizi/substrate-toml-lint) - A toml parser and checker to avoid common errors in Substrate projects.
 - [`subwasm`](https://github.com/chevdor/subwasm) - CLI to inspect a runtime WASM blob offline. It shows information, metadata and can compare runtimes. It can also help you fetch a runtime directly from a node.
 - [`sup`](https://github.com/clearloop/sup) - Command line tool for generating or upgrading a Substrate node.
 - [Aleph.im](https://aleph.im) - Scalable, decentralized database, file storage, and computation services for Substrate chains and more.
@@ -192,6 +194,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Ruby](https://github.com/itering/scale.rb) - Maintained by Itering.
 - [Scales](https://github.com/virto-network/scales) - Serializing SCALE using type information from a type registry.
 - JavaScript / TypeScript implementations:
+  - [paritytech/parity-scale-codec-ts](https://github.com/paritytech/parity-scale-codec-ts) - Maintained by Parity Technologies.
   - [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) - Maintained by Polkadot-JS.
   - [scale-ts](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
   - [soramitsu/scale-codec-js-library](https://github.com/soramitsu/scale-codec-js-library) - Maintained by Soramitsu. 

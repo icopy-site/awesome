@@ -111,7 +111,6 @@ _Libraries for implementing authentications schemes._
 - [branca](https://github.com/essentialkaos/branca) - branca token [specification implementation](https://github.com/tuupola/branca-spec) for Golang 1.15+.
 - [casbin](https://github.com/hsluoyz/casbin) - Authorization library that supports access control models like ACL, RBAC, ABAC.
 - [cookiestxt](https://github.com/mengzhuo/cookiestxt) - provides parser of cookies.txt file format.
-- [go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address.
 - [go-guardian](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token and Certificate based authentication.
 - [go-jose](https://github.com/square/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
 - [gologin](https://github.com/dghubble/gologin) - chainable handlers for login with OAuth1 and OAuth2 authentication providers.
@@ -791,6 +790,7 @@ _Libraries and tools that implement email creation and sending._
 - [email](https://github.com/jordan-wright/email) - A robust and flexible email library for Go.
 - [email-verifier](https://github.com/AfterShip/email-verifier) - A Go library for email verification without sending any emails.
 - [go-dkim](https://github.com/toorop/go-dkim) - DKIM library, to sign & verify email.
+- [go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address.
 - [go-email-validator](https://github.com/go-email-validator/go-email-validator) - Modular email validator for syntax, disposable, smtp, etc... checking.
 - [go-imap](https://github.com/emersion/go-imap) - IMAP library for clients and servers.
 - [go-mail](https://github.com/wneessen/go-mail) - A simple Go library for sending mails in Go.
@@ -2758,6 +2758,7 @@ _Plugin for text editors and IDEs._
 - [go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API.
 - [godbg](https://github.com/tylerwince/godbg) - Implementation of Rusts `dbg!` macro for quick and easy debugging during development.
 - [gomodrun](https://github.com/dustinblackman/gomodrun/) - Go tool that executes and caches binaries included in go.mod files.
+- [gotemplate.io](https://gotemplate.io/) - Online tool to preview `text/template` templates live.
 - [gotestdox](https://github.com/bitfield/gotestdox) - Show Go test results as readable sentences.
 - [gothanks](https://github.com/psampaz/gothanks) - GoThanks automatically stars your go.mod github dependencies, sending this way some love to their maintainers.
 - [igo](https://github.com/rocketlaunchr/igo) - An igo to go transpiler (new language features for Go language!)

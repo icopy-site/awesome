@@ -162,6 +162,7 @@ fit your needs or taste better._
 
 - [Font Awesome Icons](https://github.com/thomasloven/hass-fontawesome) - Use the free icons from Font Awesome in your frontend.
 - [Hass Hue Icons](https://github.com/arallsopp/hass-hue-icons) - Additional Philips Hue bulbs and fixtures icons.
+- [simpleicons](https://github.com/vigonotion/hass-simpleicons) - Use the free icons from the simpleicons set.
 
 ### Themes
 
@@ -194,7 +195,6 @@ which you can easily add to your instance._
 - [Mini Media Player](https://github.com/kalkih/mini-media-player) - A minimalistic media player card.
 - [Mini Graph Card](https://github.com/kalkih/mini-graph-card) - A minimalistic sensor graph card.
 - [Button card](https://github.com/kuuji/button-card) - Button card for your entities.
-- [Swiper card](https://community.home-assistant.io/t/lovelace-swiper-card/72447?u=frenck) - Flick/swipe through multiple cards.
 - [Slider Entity Row](https://github.com/thomasloven/lovelace-slider-entity-row) - Add a slider to adjust, e.g., the brightness of lights in lovelace entity cards.
 - [Power Wheel Card](https://github.com/gurbyz/power-wheel-card) - An intuitive way to represent the power that your home is consuming or producing.
 - [Simple Thermostat](https://github.com/nervetattoo/simple-thermostat) - A simpler and more flexible thermostat card.
@@ -229,7 +229,6 @@ which you can easily add to your instance._
 
 _Additional integrations for Home Assistant, that were created by the community._
 
-- [Google Geocode](https://github.com/michaelmcarthur/GoogleGeocode-HASS) - Converts a device tracker location into a human-readable address.
 - [Lutron Caseta Pro](https://github.com/upsert/lutron-caseta-pro) - Integrates Lutron Caseta Smart Bridge PRO / RA2 Select.
 - [SmartIR](https://github.com/smartHomeHub/SmartIR) - Integrates devices using Broadlink IR.
 - [Xiaomi Hygrothermo](https://github.com/dolezsa/Xiaomi_Hygrothermo) - Sensor platform for Xiaomi Mijia BT Hygrothermo temperature and humidity sensor.
@@ -244,6 +243,8 @@ _Additional integrations for Home Assistant, that were created by the community.
 - [HASS Aarlo](https://github.com/twrecked/hass-aarlo) - Asynchronous Arlo integration. Similar to the Arlo web site; monitors events and states for all base stations, cameras and doorbells.
 - [Xiaomi Cloud Map Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) - Presents a live view of a map for Xiaomi (Roborock/Viomi/Roidmi/Dreame) vacuums without a need for rooting.
 - [WebRTC Camera](https://github.com/AlexxIT/WebRTC) - View RTSP streams from IP Cameras in real-time through WebRTC or MSE with Pan/Zoom controls.
+- [Sonoff LAN](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff devices with eWeLink (original) firmware over LAN and/or Cloud.
+- [Spotcast](https://github.com/fondberg/spotcast) - Start Spotify playback on an idle Chromecast device as well as control Spotify connect devices.
 
 ## DIY
 
