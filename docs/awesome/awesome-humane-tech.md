@@ -130,7 +130,8 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/apparition47/MailTrackerBlocker) - An email tracker, read receipt and spy pixel blocker plugin for macOS Apple Mail.
 - [Warden](https://gitlab.com/AuroraOSS/AppWarden) - App management utility for Android that detects and disables trackers and loggers.
 - [TrackerControl](https://trackercontrol.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/OxfordHCC/tracker-control-android) - Monitor and control trackers and ads.
-- [Tracker Zapper](https://rknight.me/apps/tracker-zapper/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rknightuk/TrackerZapper) - A menubar app for Mac to remove link tracking parameters automatically. 
+- [Tracker Zapper](https://rknight.me/apps/tracker-zapper/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rknightuk/TrackerZapper) - A menubar app for Mac to remove link tracking parameters automatically.
+- [TBlock](https://tblock.codeberg.page/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/tblock/tblock) - A system-wide, platform-independent ad-blocker written in Python and released under GPLv3.
 
 ## Consent
 
@@ -229,6 +230,8 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [LibRedirect](https://libredirect.github.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/libredirect/libredirect) - A simple extension that redirects to alternative privacy-friendly frontends.
 - [Farside](https://farside.link/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/benbusby/farside) - A smart redirecting gateway for various frontend services.
 - [LibMedium](https://libmedium.batsense.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/realaravinth/libmedium) - Privacy-focused, high-performance front end for Medium.com written in Rust.
+- [SponsorBlock](https://sponsor.ajay.app/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ajayyy/SponsorBlock) - Browser extension that allows you to skip YouTube video sponsors.
+- [Quetre](https://quetre.herokuapp.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/zyachel/quetre/) - A libre front-end for Quora.
 
 ## Translation
 

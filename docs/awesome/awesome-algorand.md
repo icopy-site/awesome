@@ -108,6 +108,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [algo-builder](https://github.com/scale-it/algo-builder) - Framework to automate development of Algorand Assets and Smart Contracts.
 - [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) - Dapps templates for Algo Builder.
 - [algonaut.js](https://github.com/thencc/algonautjs) - An easier Algo sdk for front-end dapps (typescript).
+- [perawallet-connect](https://github.com/perawallet/connect) - JavaScript SDK for integrating Pera Wallet to web applications.
 
 ### Java
 

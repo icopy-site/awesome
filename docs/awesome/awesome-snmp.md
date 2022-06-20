@@ -62,6 +62,7 @@ _Helpful to write SNMP applications._
 - [hnmp](https://github.com/trehn/hnmp) - HNMP is a high-level Python library to ease the pain of retrieving and processing data from SNMP-capable devices such as network switches, routers, and printers.
 - [aiosnmp](https://github.com/hh-h/aiosnmp) - Python package aiosnmp is an asynchronous SNMP client for use with asyncio. Only SNMP v2c is supported.
 - [robotframework-snmplibrary](https://github.com/kontron/robotframework-snmplibrary) - SNMPLibrary is a Robot Framework test library for testing SNMP.
+- [Scapy](https://github.com/secdev/scapy) - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) to build/dissect SNMP packets.
 
 ### Ruby
 - [ruby-netsnmp](https://github.com/swisscom/ruby-netsnmp) - SNMP library in ruby (v1, v2c, v3).

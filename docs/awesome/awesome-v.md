@@ -43,7 +43,8 @@
 - [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
 - [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 - [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - Deploy V apps on Heroku.
-- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for *[Is V still fast?](https://fast.vlang.io/)*. 
+- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for *[Is V still fast?](https://fast.vlang.io/)*.
+- [Vieter](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V
 
 ### Graphics
 
@@ -201,6 +202,7 @@
 - [random](https://github.com/Delta456/random) - An all purpose random library written in V.
 - [vdotenv](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
 - [vaker](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
+- [vexc](https://github.com/div72/vexc) - Exceptions for V using setjmp/longjmp.
 
 ## Other
 
@@ -250,7 +252,6 @@
 ### Articles
 
 - [An introduction to V](https://simonknott.de/articles/VLang.html)
-- [The Book of V](https://github.com/KeyWeeUsr/the-book-of-v/)
 - [Todo App with V](https://practicaldime.org/docs/v-fresh-take/v-todo-implementation)
 
 ### Books
