@@ -3,7 +3,7 @@
 ## Awesome .NET!
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://api.travis-ci.org/quozd/awesome-dotnet.svg)](https://travis-ci.org/quozd/awesome-dotnet)
+[![Build Status](https://github.com/quozd/awesome-dotnet/actions/workflows/awesome-bot.yml/badge.svg)](https://github.com/quozd/awesome-dotnet/actions/workflows/awesome-bot.yml)
 [![Join the chat at https://gitter.im/quozd/awesome-dotnet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/quozd/awesome-dotnet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A collection of awesome .NET libraries, tools, frameworks, and software.
@@ -853,7 +853,6 @@ metadata in media files, including video, audio, and photo formats
 ## Query Builders
 * [SqlKata](https://sqlkata.com) - Elegant SQL query builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
 
-
 ## Queue
 
 * [CAP](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
@@ -879,6 +878,7 @@ metadata in media files, including video, audio, and photo formats
 * [gRPC](https://github.com/grpc/grpc-dotnet)  An RPC library and framework for .NET Core. Read more about it on [Docs Microsoft](https://docs.microsoft.com/en-us/aspnet/core/grpc)
 * [CoreRPC](https://github.com/kekekeks/CoreRPC) - Extensible library for WCF-like RPC targeting netstandard1.3. Compatible with .NET, Mono and .NET Core.
 * [BloomRPC](https://github.com/bloomrpc/bloomrpc) - BloomRPC aims to provide the simplest and most efficient developer experience for exploring and querying your GRPC services.
+* [gRPCurl](https://github.com/fullstorydev/grpcurl) - gRPCurl is a command-line tool that lets you interact with gRPC servers. It's basically curl for gRPC servers.
 
 ## Reactive Programming
 
@@ -934,7 +934,7 @@ metadata in media files, including video, audio, and photo formats
 * [Jil](https://github.com/kevin-montrose/Jil) - Fast .NET JSON serializer, built on Sigil (used by StackOverflow)
 * [ProtoBuf](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
 * [FlatSharp](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
-* [F# Data](https://fsharp.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
+* [F# Data](https://fsprojects.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 * [Bond](https://github.com/Microsoft/bond) - cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data.
 * [Hyperion](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
 * [FileHelpers](https://github.com/MarcosMeli/FileHelpers) - free and easy to use .NET library to import or export data from fixed length or delimited records in files, strings or streams.

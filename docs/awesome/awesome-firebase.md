@@ -87,6 +87,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 - 🔧 [Typesaurus](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
 - 🔌 [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - Kotlin-first SDK for Firebase supporting multiplatform projects (`ios`, `android` & `js`).
 - 🔌 [GeoFirestore](https://github.com/MichaelSolati/geofirestore-js) - Location-based querying and filtering using Firebase Firestore.
+- 🔧 [FirelordJS](https://github.com/tylim88/FirelordJS) - Extremely High Precision Typescript Wrapper for Firestore Web.
 
 ## Mobile
 
@@ -195,7 +196,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 ### Community
 
 - :fire: [Firebase Developers Discord](https://discord.gg/BN2cgc3) - an open community dedicated to Firebase and its services, where you can to socialize and help other web and app developers from around the world.
-- 📹 [Fireship - AngularFirebase](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+- 📹 [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) - A YouTube channel by Jeff Delaney, a Google Firebase expert and creator of the famous "X in 100 Seconds" videos.
 - 📹 ru [@firebase_ru - Telegram friendly chat](https://t.me/firebase_ru)
 
 Who else should we be following!?

@@ -468,7 +468,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 - [azure-subscription](https://github.com/dmakeienko/azure-subscription-prompt) - Displays information about the Azure current Subscription and tenant.
 - [backcountry](https://github.com/jvzaniolo/zsh-backcountry) - Manage backcountry projects.
 - [background](https://github.com/zpm-zsh/background) - ZSH plugin which executes functions in the background.
-- [base16](https://github.com/chriskempson/base16-shell) - Adds script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
+- [base16](https://github.com/chriskempson/base16-shell) - Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
 - [baseballfunfacts](https://github.com/richardmoyer/baseballfunfacts) - Print random baseball related "fun facts" in your shell. Depends on `fortune` and `cowsay` being installed.
 - [basex](https://github.com/dirkk/zsh-basex) - Adds several [BaseX](http://basex.org/) aliases for simplified usage.
 - [bash-quote](https://github.com/jtprog/bash-quote) - Get random quote from Bash.im.
@@ -987,7 +987,8 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 - [stashy](https://github.com/MisterRios/stashy) - Plugin that simplifies using `git stash`.
 - [statify](https://github.com/vladmrnv/statify) - Plugin that does basic statistical analysis.
 - [sublime](https://github.com/valentinocossar/sublime) - Same as the official Sublime plugin for Oh My Zsh, but this opens files in the current Sublime window, if there is one already open.
-- [sudo](https://github.com/hcgraf/zsh-sudo) - The `sudo` plugin from oh-my-zsh, extracted to a standalone. Toggles `sudo` before the current/previous command by pressing *ESC-ESC- in emacs-mode or vi-command mode.
+- [sudo (hcgraf)](https://github.com/hcgraf/zsh-sudo) - The `sudo` plugin from oh-my-zsh, extracted to a standalone. Toggles `sudo` before the current/previous command by pressing *ESC-ESC- in emacs-mode or vi-command mode.
+- [sudo (none9632)](https://github.com/none9632/zsh-sudo/) - Adds `sudo` as a prefix to the current command by typing `ESC`-`ESC`.
 - [suffix-alias](https://github.com/srijanshetty/zsh-suffix-alias) - Directly open files in the shell using ZSH's suffix aliases.
 - [svn-n-zsh](https://github.com/khrt/svn-n-zsh-plugin) - Rewrite of the stock oh-my-zsh svn plugin.
 - [switch-git](https://github.com/robin-mbg/switch-git) - Easy switching between `git` repositories. Just type `sgr <some part of you repo's name>`, press enter and you're there.
@@ -1502,6 +1503,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 - [dkniffin](https://github.com/dkniffin/zsh-theme) - Includes `ruby` version and `git` status.
 - [dmx](https://github.com/domix/dmx.zsh-theme) - Optimized for dark terminal windows.
 - [doodleshell](https://github.com/cdodd/doodleshell-zsh-theme) - Minimalist theme, includes `git`, `terraform` and `aws` status decorations.
+- [doom](https://github.com/CMOISDEAD/doom-zsh) - Doom-inspired. Looks similar to powerline. Has customizable segments, decorators for `git` status, `rust`, `node.js`, `python` and `ruby` versions.
 - [dp](https://github.com/davidparsson/zsh-dp-theme) - Low contrast theme that shows current git branch, if the repository is dirty and the value of `$PYENV_VERSION`.
 - [dr4kk0nnys_v2](https://github.com/Dr4kk0nnys/Dr4kk0nnys_theme_ohmyzsh_v2/) - Works well on dark backgrounds, includes `git` status decorations.
 - [dracula](https://github.com/dracula/zsh) - A dark theme for Atom, Alfred, Chrome DevTools, iTerm 2, Sublime Text, Textmate, Terminal.app, Vim, Xcode, and ZSH.
@@ -1561,6 +1563,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 - [garden](https://github.com/fecat233/garden) - Works better with a dark terminal background, includes `git` status decorations.
 - [garrett](https://github.com/chauncey-garrett/zsh-prompt-garrett) - Prezto prompt with the information you need the moment you need it.
 - [gawaine](https://github.com/nicolaracco/gawaine.zsh-theme) - Nicola Racco's theme. Requires `rvm` & `git` plugins.
+- [gazelle](https://github.com/mfurkanndemir/gazelle) - Minimalist theme with `git` status decorations.
 - [gbt](https://github.com/jtyr/gbt) - Go Bullet Train is a very customizable prompt builder inspired by Bullet Train that runs much faster. Includes many different status cars.
 - [gentoo](https://github.com/ikelos/gentoo-zsh-theme) - Breaks out the oh-my-zsh gentoo theme into a separate repo for non-omz users.
 - [geometryHostInfo](https://github.com/Fuzen-py/GeometryHostInfo) - Adds host info to the [geometry](https://github.com/geometry-zsh/geometry) theme.

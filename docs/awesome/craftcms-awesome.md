@@ -167,8 +167,11 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 
 ##### Security
 - [Securing Front-End User Profile and Entry Forms in Craft](https://putyourlightson.com/articles/securing-front-end-user-profile-and-entry-forms-in-craft) by Ben Croker/PutYourLightsOn - `4 May 2021`
+- [Securing Your Craft Site in 2022—Part 3](https://putyourlightson.com/articles/securing-your-craft-site-in-2022-part-3) by Ben Croker/PutYourLightsOn - `24 May 2022`
 - [Securing Your Craft Site in 2021—Part 2](https://putyourlightson.com/articles/securing-your-craft-site-in-2021-part-2) by Ben Croker/PutYourLightsOn - `26 Jan 2021`
 - [Securing Your Craft Site in 2021—Part 1](https://putyourlightson.com/articles/securing-your-craft-site-in-2021-part-1) by Ben Croker/PutYourLightsOn - `13 Jan 2021`
+- [Storing Secrets in Craft CMS](https://putyourlightson.com/articles/storing-secrets-in-craft-cms) by Ben Croker/PutYourLightsOn - `6 July 2021`
+- [Common Security Vulnerabilities in Craft CMS Plugins](https://putyourlightson.com/articles/common-security-vulnerabilities-in-craft-cms-plugins) by Ben Croker/PutYourLightsOn - `31 Oct 2021`
 - [Enforcing better passwords in Craft CMS](https://rias.be/blog/enforcing-better-passwords-in-craft-cms) - Rias
 - [Hardening Craft CMS Permissions](https://nystudio107.com/blog/hardening-craft-cms-permissions) by Andrew Welch/nystudio107 - `19 Mar 2017`
 - [Hashing Redirect Params in Craft](https://mijingo.com/blog/hashing-redirect-params-in-craft) by Ryan Irelan/Mijingo
@@ -325,6 +328,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 - [A Review of Craft Commerce](http://www.newmediacampaigns.com/blog/a-review-of-craft-commerce) by Adam Fairholm/New Media Campaigns - `19 May 2017`
 - [A love letter to Craft CMS](https://medium.com/diesdas-direct/a-love-letter-to-craft-cms-737f60d756cc) by Harry Keller/diesdas.digital - `18 Apr 2017`
 - [An Overview of Pixel & Tonic’s Craft CMS](https://medium.com/@msoyka91/an-overview-of-pixel-tonics-craft-cms-4bd9d5768ed0) by Matthew Soyka - `21 Feb 2017`
+- [Craft CMS vs WordPress: A comparison & why we love Craft CMS](https://www.madebybridge.com/blog/craft-cms-vs-wordpress-a-comparison) by Chris Cox/Made by Bridge - `17 Nov 2021`
 - [Craft CMS Vs WordPress: Why Choose Craft?](https://medium.com/@galaxyweblinks/craft-cms-vs-wordpress-why-choose-craft-7a557cdb604d) - `19 June 2018`
 - [Crazy About Craft](http://www.newmediacampaigns.com/blog/review-of-craft-cms-tips-to-get-started) by Nathan Huening/New Media Campaigns - `27 Feb 2017`
 - [How we chose Craft CMS for our product websites](https://wildbit.com/blog/2016/11/01/how-we-chose-craft-cms-for-products-websites) by Eugene Fedorenko/Wildbit - `1 Nov 2016`
