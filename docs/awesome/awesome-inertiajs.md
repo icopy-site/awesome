@@ -90,6 +90,9 @@
 
 ### Packages
 
+- [Page loader](https://github.com/ycs77/inertia-plugin) - Unplugin for loading Inertia pages from configured namespaces.
+- [Flash](https://github.com/igerslike/inertia-flash) - Laravel package for sharing properties from anywhere.
+- [Dry requests](https://github.com/dive-be/laravel-dry-requests) - Generic Laravel package for real-time form validation.
 - [Kakunin](https://github.com/Juhlinus/kakunin) - Laravel package for real-time form validation.
 - [Resource Links](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
 - [Navigation](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.

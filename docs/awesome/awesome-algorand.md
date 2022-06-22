@@ -46,6 +46,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Algorand Multiverse](https://algo3d.live/) - Algorand accounts' 3D graphs.
 - [Algoscan](https://algoscan.app/) - Algoscan is a Blockchain Explorer and Analytics Platform. Built on top of the Algorand Network.
 - [Asalytic](https://www.asalytic.app/) - Analyze the Algorand NFT space.
+- [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer (supports Sandbox in `localhost`).
 
 ## Portfolio Trackers
 
@@ -174,6 +175,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 - [Algorand - The Undocumented Docs](https://github.com/AlgoChads/algorand-undoc-docs) - Dev Notes for Archival Node, Indexer Setup (and more).
 - [AlgoNode](https://algonode.cloud) - Node running FAQ, Node/Indexer daily snapshots, Free Node/Indexer APIs.
+- [Algorand Node UI](https://github.com/algorand/node-ui) - Terminal UI for remote Algorand node management.
 
 ## NFT Marketplaces
 
@@ -255,6 +257,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 ## ARCs
 
 > Standards and specs defined in *finalized* ARCs.
+> The list of all the ARCs can be found on https://arc.algorand.foundation
 
 - [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
 - [ARC69](https://github.com/algokittens/arc69) - Unofficial Algorand Standart Asset Parameters Convention popular in Algorand NFT community, inspired by [Open Sea's metadata standards](https://docs.opensea.io/docs/metadata-standards) and [EIP-1155](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema), created by [@algokittens](https://twitter.com/AlgoKittens).
