@@ -490,6 +490,7 @@ additional ordered map implementations.
 ### Caches
 
 _Data stores with expiring records, in-memory distributed data stores, or in-memory subsets of file-based databases._
+
 - [2q](https://github.com/floatdrop/2q) - 2Q in-memory cache implementation.
 - [bcache](https://github.com/iwanbk/bcache) - Eventually consistent distributed in-memory  cache Go library.
 - [BigCache](https://github.com/allegro/bigcache) - Efficient key/value cache for gigabytes of data.
@@ -2230,6 +2231,7 @@ _Libraries for accessing third party APIs._
 - [go-unsplash](https://github.com/hbagdi/go-unsplash) - Go client library for the [Unsplash.com](https://unsplash.com) API.
 - [go-xkcd](https://github.com/nishanths/go-xkcd) - Go client for the xkcd API.
 - [go-yapla](https://git.iglou.eu/Production/go-yapla) - Go client library for the Yapla v2.0 API.
+- [goagi](https://github.com/staskobzar/goagi) - Go library to build Asterisk PBX agi/fastagi applications.
 - [gogtrends](https://github.com/groovili/gogtrends) - Google Trends Unofficial API.
 - [golang-tmdb](https://github.com/cyruzin/golang-tmdb) - Golang wrapper for The Movie Database API v3.
 - [golyrics](https://github.com/mamal72/golyrics) - Golyrics is a Go library to fetch music lyrics data from the Wikia website.
