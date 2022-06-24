@@ -91,7 +91,8 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [Jupytext](https://github.com/mwouts/jupytext) - Convert and synchronize notebooks with text formats (e.g. Python or Markdown files) that work well under version control.
 - [jut](https://github.com/kracekumar/jut) - CLI to nicely display notebooks in the terminal.
 - [Kapitsa](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
-- [nbconvert](https://nbconvert.readthedocs.io) - Convert Notebooks to other formats.
+- [Mercury](https://github.com/mljar/mercury) - Convert notebooks into web applications.
+- [nbconvert](https://nbconvert.readthedocs.io) - Convert notebooks to other formats.
 - [nbdev](https://github.com/fastai/nbdev) - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
 - [nbflow](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
 - [nbinteract](https://www.nbinteract.com) - Create interactive webpages from Jupyter notebooks.
@@ -136,6 +137,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [jupyterlab_miami_nights](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night themes.
 - [jupyterlab_templates](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
 - [latex](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
+- [lineapy](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
 - [lsp](https://github.com/krassowski/jupyterlab-lsp) - IDE-like features (code navigation, hover suggestions, linters, diagnostics, kernel-less autocompletion etc.)
 - [nb_black](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black](https://github.com/psf/black).
 - [python-bytecode](https://github.com/jtpio/jupyterlab-python-bytecode) - Explore CPython Bytecode in JupyterLab.
