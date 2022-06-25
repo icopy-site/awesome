@@ -9,7 +9,7 @@
 		<sup>Maintained by:</sup>
 		<br>
 		<br>
-		<a href="https://zenity.io">
+		<a href="https://www.zenity.io">
 			<img src="https://raw.githubusercontent.com/zenitysec/awesome-low-code/master/media/zenity_logo.svg?sanitize=true"/>
 		</a>
         <p>

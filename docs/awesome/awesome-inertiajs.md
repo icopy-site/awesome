@@ -46,7 +46,7 @@
 - 💜 [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/inertia-vue)
 - 💜 [React](https://github.com/inertiajs/inertia/tree/master/packages/inertia-react)
 - 💜 [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/inertia-svelte)
-- [Mithril](https://github.com/tbreuss/inertia-mithril)
+- [Mithril](https://github.com/maicol07/inertia-mithril)
 - [Preact](https://github.com/jrson83/inertia-preact)
 
 ### Server-side
