@@ -379,9 +379,9 @@
 	- [Must-Watch Talks](awesome/must-watch-css.md)
 	- [Protips](awesome/css-protips.md)
 	- [Frameworks](awesome/awesome-css-frameworks.md)
-- [React](awesome/awesome-react.md) - App framework.
+- [React](awesome/awesome-react.md) - JavaScript library for building user interfaces.
 	- [Relay](awesome/awesome-relay.md) - Framework for building data-driven React apps.
-	- [React Hooks](awesome/awesome-react-hooks.md) - A new feature that lets you use state and other React features without writing a class.
+	- [React Hooks](awesome/awesome-react-hooks.md) - Lets you use state and other React features without writing a class.
 - [Web Components](awesome/webcomponents-the-right-way.md)
 - [Polymer](awesome/awesome-polymer.md) - JavaScript library to develop Web Components.
 - [Angular](awesome/awesome-angular.md) - App framework.
