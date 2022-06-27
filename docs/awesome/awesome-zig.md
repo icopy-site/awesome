@@ -146,6 +146,8 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 ### HTTP
 * [Luukdegram/apple_pie](https://github.com/Luukdegram/apple_pie) - HTTP 1.0/1.1 Server implementation.
+* [truemedian/zfetch](https://github.com/truemedian/zfetch) - HTTP(S) client based on iguanaTLS.
+* [ducdetronquito/requestz](https://github.com/ducdetronquito/requestz) - HTTP client based on h11.
 * [ducdetronquito/h11](https://github.com/ducdetronquito/h11) - I/O-free HTTP/1.1 implementation inspired by hyper/h11.
 * [lun-4/ziget](https://github.com/lun-4/ziget) - Simple wget without libc.
 * [Vexu/routez](https://github.com/Vexu/routez) - HTTP server.
@@ -201,6 +203,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [gernest/base32](https://github.com/gernest/base32) - Base32 encoding/decoding.
 * [caolan/zig-netstring](https://git.sr.ht/~caolan/zig-netstring) - Netstring parser.
 * [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
+* [iddev5/inon](https://github.com/iddev5/inon) - Data configuration file format.
 
 ## Learning resources
 * [belse-de/zig-tut](https://github.com/belse-de/zig-tut) - A collection of small projects and tutorials to learn Zig.

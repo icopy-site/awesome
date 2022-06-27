@@ -6,6 +6,7 @@
 
 
 
+  
 ## Projects
 
 * [Arduino](https://www.arduino.cc/) - Arduino is an open-source electronics platform.
@@ -19,17 +20,19 @@
 * [OpenMV](https://github.com/openmv/openmv) - Open-source, low-cost machine vision platform.
 * [OpenSPIM](https://openspim.org/) - Open Access platform for Three-dimensional (3D) microscopy.
 * [mesoSPIM](http://mesospim.org/) - Open-source light-sheet microscopes for imaging in cleared tissue.
+* [Mutable Instruments](https://mutable-instruments.net/) - Open-source eurorack classics.
 * [openUC2](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
 * [OpenFlexure](https://openflexure.org/) - Open-source, 3D-printed microscope, including a precise mechanical stage.
 * [Biohack Academy](http://biohackacademy.github.io/) - Open-source biotechnological hardware such as Incubator, Thermocycler, Centrifuge, Microscope, etc.
 * [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - Open-source hardware projects for biology laboratories.
+* [Winterbloom](https://winterbloom.com) - Open-source eurorack modules, Thea has some stellar design write-ups on her blog.
 
 ## Talks
 
 * [How Open Hardware will Take Over the World](https://www.youtube.com/watch?v=Rfu_MKgu2Ik) - TEDx talk by Nathan Seidle.
 * [Revolution of the open hardware](https://www.youtube.com/watch?v=t56bojFAnUg) - TEDx talk by Bram Geenen.
 * [Why do open hardware](https://www.youtube.com/watch?v=UYRhupdnUcY) - Talk by Limor Fried (ladyada).
-* [Get your open hardware manufactured](https://www.youtube.com/watch?v=ifTaGRTPwLc) - Tips by Ian Tube, dangerous prototypes.
+* [Get your open hardware manufactured](https://www.youtube.com/watch?v=ifTaGRTPwLc) - Tips by Ian of Dangerous Prototypes.
 * [Open Hardware Projects to Fight COVID-19](https://www.youtube.com/watch?v=c1pwbnDAub0) - Collection video from N-O-D-E.
 * [Designing Open Hardware for 21st century science](https://www.youtube.com/watch?v=Od_9yJqc098) - Presentation by Andre Maia Chagas.
 * [Why open source hardware is(n't) working](https://www.youtube.com/watch?v=7ifGu22bhd4) - Presentation by David Cuartielles.
@@ -41,6 +44,8 @@
 * [Emerging Business Models for Open Source Hardware](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3331121) - Paper by Joshua M. Pearce.
 * [Towards national policy for open source hardware research: The case of Finland](https://doi.org/10.1016/j.techfore.2020.119986) - Paper by I. T. S. Heikkinen, H. Savin, J. Partanen, J. SeppäläJ, M. Pearce.
 * [Open-Source Hardware in Education: A Systematic Mapping Study](http://dx.doi.org/10.1109/ACCESS.2018.2881929) - Paper by Ruben Heradio, Jesus Chacon, Hector Vargas, Daniel Galan, Jacobo Saenz, Luis De La Torre, Sebastian Dormido.
+* [Haves and have nots must find a better way: The case for open scientific hardware](https://doi.org/10.1371/journal.pbio.3000014) - Paper by Andre Maia Chagas
+* [Open Labware: 3-D Printing Your Own Lab Equipment](https://doi.org/10.1371/journal.pbio.1002086) - Paper by Tom Baden, Andre Maia Chagas, Greg Gage, Timothy Marzullo, Lucia L. Prieto-Godino, Thomas Euler
 
 ## Conferences
 
@@ -59,6 +64,7 @@
 * [Openhardware.science](https://openhardware.science/) - Make open science hardware ubiquitous by 2025.
 * [Openlifescience](https://openlifesci.org/) - Program to make Open Science ambassadors in research.
 * [Thingiverse](https://www.thingiverse.com/) - A platform for sharing and contributing to design hardware for 3D printing, laser cutting and CNC milling.
+* [Kitspace.org](https://kitspace.org) - A place to build and share electronics projects. 
 
 ## Podcasts
 
@@ -77,6 +83,12 @@
 * [Free to Make](https://books.google.nl/books?id=jz1bCwAAQBAJ&lpg=PA93&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) -  Book by Dale Dougherty, how the maker movement is chaning our schools, our jobs, and our minds.
 * [The bridge](https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware) - Issue of the national academy of engineering on open source hardware.
 
+
+## Training programs
+
+* [Open Hardware Makers](https://openhardware.space)
+* [Open Hardware Academy](https://openhardware.academy/)
+
 ## Further Readings
 
 * [Open Source Guide](https://opensource.guide/) - A website created by GitHub to help people work on open source projects.
@@ -90,6 +102,7 @@
 
 * [Awesome Open Electronics](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
 * [Awesome Open](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
+* [Aweomse Electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
 ## Contributing
 

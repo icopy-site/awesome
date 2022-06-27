@@ -73,6 +73,7 @@
 - [Babylon.js Forum](https://forum.babylonjs.com/) - Official Babylon.js forum.
 - [three.js Forum](https://discourse.threejs.org/) - Official three.js forum.
 - [PlayCanvas Forum](https://forum.playcanvas.com/) - Official PlayCanvas forum.
+- [WebXR Community Forum](https://www.webxr.community/) - Official forum for all things WebXR. Sister community to the WebXR Discord.
 
 ### Reddit
 

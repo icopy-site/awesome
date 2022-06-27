@@ -209,6 +209,7 @@ Neovim supports a wide variety of UI's.
 - [xiyaowong/nvim-transparent](https://github.com/xiyaowong/nvim-transparent) - Make your Neovim transparent.
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
 - [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) - Focus only the function your cursor is in.
+- [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
 
 ### Colorscheme Creation
 
@@ -490,6 +491,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [rafaelsq/nvim-goc.lua](https://github.com/rafaelsq/nvim-goc.lua) - Highlight your buffer with Golang Code Coverage.
 - [crusj/hierarchy-tree-go.nvim](https://github.com/crusj/hierarchy-tree-go.nvim) - Neovim plugin for go, callHierarchy ui tree.
 - [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim/) - Plugin for making golang development easiest.
+- [gbprod/phpactor.nvim](https://github.com/gbprod/phpactor.nvim) - Lua version of the Phpactor vim plugin to take advantage of the latest Neovim features.
 
 ### Comment
 
@@ -609,7 +611,6 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
 - [Allendang/nvim-expand-expr](https://github.com/AllenDang/nvim-expand-expr) - Expand and repeat expression to multiple lines.
 - [h-hg/fcitx.nvim](https://github.com/h-hg/fcitx.nvim) - Switching and restoring fcitx state for each buffer separately.
-- [McAuleyPenney/tidy.nvim](https://github.com/McAuleyPenney/tidy.nvim) - Clear trailing whitespace and empty lines at end of file on every save.
 <!--lint ignore double-link-->
 - [echasnovski/mini.nvim#mini.trailspace](https://github.com/echasnovski/mini.nvim#minitrailspace) - Module of `mini.nvim` for automatic highlighting of trailing whitespace with functionality to remove it.
 - [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI for Neovim, written in Lua.
@@ -629,6 +630,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [lukas-reineke/lsp-format.nvim](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
 - [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - A (Neo)vim plugin for formatting code.
 - [cappyzawa/trim.nvim](https://github.com/cappyzawa/trim.nvim) - This plugin trims trailing whitespace and lines.
+- [mcauley-penney/tidy.nvim](https://github.com/mcauley-penney/tidy.nvim) - Clear trailing whitespace and empty lines at end of file on every save.
 
 ### Web development
 
