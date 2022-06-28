@@ -78,6 +78,9 @@ This section contains libraries that are well-made and useful, but have not nece
 - [Diffrax](https://raw.githubusercontent.com/patrick-kidger/diffrax) - Numerical differential equation solvers in JAX. <img src="https://img.shields.io/github/stars/patrick-kidger/diffrax?style=social" align="center">
 - [tinygp](https://raw.githubusercontent.com/dfm/tinygp) - The _tiniest_ of Gaussian process libraries in JAX. <img src="https://img.shields.io/github/stars/dfm/tinygp?style=social" align="center">
 - [gymnax](https://raw.githubusercontent.com/RobertTLange/gymnax) - Reinforcement Learning Environments with the well-known gym API. <img src="https://img.shields.io/github/stars/RobertTLange/gymnax?style=social" align="center">
+- [Mctx](https://raw.githubusercontent.com/deepmind/mctx) - Monte Carlo tree search algorithms in native JAX. <img src="https://img.shields.io/github/stars/deepmind/mctx?style=social" align="center">
+- [KFAC-JAX](https://raw.githubusercontent.com/deepmind/kfac-jax) - Second Order Optimization with Approximate Curvature for NNs. <img src="https://img.shields.io/github/stars/deepmind/kfac-jax?style=social" align="center">
+- [TF2JAX](https://raw.githubusercontent.com/deepmind/tf2jax) - Convert functions/graphs to JAX functions. <img src="https://img.shields.io/github/stars/deepmind/tf2jax?style=social" align="center">
 
 
 <a name="models-and-projects" />

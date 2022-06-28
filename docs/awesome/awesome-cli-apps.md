@@ -70,6 +70,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
 - [Cataclysm-DDA](https://cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
+- [pokete](https://github.com/lxgr-linux/pokete) - Pokemon-like.
 
 ### Books
 
@@ -293,6 +294,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [speed-test](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
 - [bandwhich](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
+- [neoss](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
 
 ### Theming and Customization
 
@@ -481,6 +483,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
+- [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 
 ### GitHub
 

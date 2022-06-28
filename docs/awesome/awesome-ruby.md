@@ -16,24 +16,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), you're awesome and this wouldn't be possible without you!
 
-<div align="center">
-  <hr>
-  <sup><b>Supported by:</b></sup>
-  <br>
-  <br>
-  <a href="https://railsdevs.com?utm_source=AwesomeRuby">
-    <div>
-      <img src="https://raw.githubusercontent.com/markets/awesome-ruby/master/media/sponsors/railsdevs.png" width="90" alt="railsdevs">
-    </div>
-    <div>
-      Find your next freelance gig on railsdevs,<br>
-      the reverse job board for Ruby on Rails developers.
-    </div>
-  </a>
-  <br>
-  <hr>
-</div>
-
 
 ## Admin Interface
 
@@ -169,8 +151,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Clamp](https://github.com/mdub/clamp) - A command-line application framework.
 * [cmdparse](http://cmdparse.gettalong.org) - An advanced command line parser supporting nested commands.
 * [Commander](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
+* [dry-cli](https://github.com/dry-rb/dry-cli) - General purpose Command Line Interface (CLI) framework for Ruby.
 * [GLI](https://github.com/davetron5000/gli) - Git-Like Interface Command Line Parser.
-* [Hanami CLI](https://github.com/hanami/cli) - General purpose Command Line Interface (CLI) framework for Ruby.
 * [Main](https://github.com/ahoward/main) - A class factory and DSL for generating command line programs real quick.
 * [Optimist](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
 * [Rake](https://github.com/ruby/rake) - A make-like build utility for Ruby.

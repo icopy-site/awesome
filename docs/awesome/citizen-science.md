@@ -40,6 +40,8 @@ Below is a curated list of awesome software and other resources to enable those 
  * [LibraryThing](https://www.librarything.com/) - an online platform for organizing your library.
  * [PECE](http://www.worldpece.org/) - The Platform for Experimental and Collaborative Ethnography.  This project provides an online platform for academic collaboration that helps keep track of complex attribution of credit.  It is geared toward anthropologists but is expanding to become more broad.
  * [RapidPro](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
+ * [eu-citizen.science](https://eu-citizen.science/) - links to 200 projects
+ * [Zooniverse](https://github.com/zooniverse) - website for zoo & universe projects
  
 ## Educational
 
