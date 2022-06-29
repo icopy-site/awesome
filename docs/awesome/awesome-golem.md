@@ -67,6 +67,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 - [Golem Completion Engine](https://github.com/krunch3r76/gc__enhanced_completion) - Enhanced bash completion engine that extends built-in completions by providing contextual help for golemsp and yagna.
 - [Golocity](https://github.com/davidstyers/golocity) - Build and deploy your dockerized applications on the Golem Network in just two commands.
+- [gc__push_image](https://github.com/figurestudios/gc__push_image) - A CLI tool that publishes the GVMI image to Skynet, making users able to change the image_url without self-hosting/giving up control.
 
 ### Video Transcoding and Editing
 
@@ -149,6 +150,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - Use the Yagna tag if you have an interesting question you'd like answered.
 - [Breakdown of blender.js](https://docs.google.com/document/d/e/2PACX-1vRONc0RRaqImJumYQ3SmILtLo4jiCYgtE0AO3JfpMy0b0-BjAU8TvlIHdtbrs5cDrMbuPFv7khE47MO/pub) - JS guide for developers to get a better idea of how to run a task with the JavaScript API.
 - [EasyYagnaJS](https://github.com/figurestudios/easy-yagna-js) - Copies over Node.js dependencies directly to the provider, making developers not have to use Docker in their workflow.
+- [push-gvmi](https://github.com/figurestudios/push-gvmi) - A GitHub action that automatically builds and uploads the GVMI image to Golem plus a way to scrape the newest hash for local usage.
 
 ## Provider Resources
 
