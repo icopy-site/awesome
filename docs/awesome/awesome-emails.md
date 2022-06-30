@@ -71,7 +71,7 @@
 
 ## Services
 
-- [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
+- [Mailchimp](https://mailchimp.com/) - Mailchimp provides email marketing for more than 15 million people globally.
 - [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
 - [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
 - [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
@@ -97,6 +97,7 @@
 
 ## Workflows
 
+- [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) - My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails by Josh W. Comeau
 - [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 - [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
 - [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) - A Typical Email Development Workflow by Sitepoint.
@@ -137,7 +138,7 @@
 - [Litmus Resources](https://litmus.com/resources) - Stay up to date with the latest email news and trends with Litmus resources.
 - [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) - Campaign Monitor resources will turn you into an expert in no time.
 - [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
-- [Mailchimp](http://templates.mailchimp.com/) - MailChimp Email Design Reference
+- [Mailchimp](http://templates.mailchimp.com/) - Mailchimp Email Design Reference
 - [Arstechnica](https://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/) - Tutorial on how to build your own email server
 
 ## Inspirations
@@ -152,7 +153,7 @@
 ## Statistics
 
 - [Myemma Email Stats](http://myemma.com/brainiac/gate-free-stats) - 18 must-know stats for modern email marketers by Emma, Inc.
-- [Mailchimp Research](http://mailchimp.com/resources/research/) - MailChimp's researchers are constantly analyzing data to help you make the most of your email campaigns.
+- [Mailchimp Research](http://mailchimp.com/resources/research/) - Mailchimp's researchers are constantly analyzing data to help you make the most of your email campaigns.
 - [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) - 2015 Report: The new rules of email marketing
 - [Campaign Monitor 2016 Report](https://www.campaignmonitor.com/company/annual-report/2016/) - 2016 Report: Campaign Monitor 2016 Year in Review
 

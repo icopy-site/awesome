@@ -80,7 +80,7 @@
 - [r/WebVR](https://www.reddit.com/r/WebVR/) - Initially the main subreddit for WebVR discussion, now features general WebXR content along with [r/WebXR](https://www.reddit.com/r/WebXR/).
 - [r/WonderlandEngine](https://www.reddit.com/r/WonderlandEngine/) - Wonderland Engine subreddit.
 
-## Companies and cooperatives
+## Companies and Cooperatives
 
 *Companies and cooperatives centered around/doing work in WebXR.*
 
