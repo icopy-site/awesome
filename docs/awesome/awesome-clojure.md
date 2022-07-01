@@ -3,7 +3,7 @@
 ## Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
   - [Penpot](https://penpot.app/): design and prototyping platform
-  - [LightTable (IDE)](http://lighttable.com/)
+  - [LightTable (IDE)](http://lighttable.com/) (archived)
   - [Maria.cloud (Online IDE for beginners)](https://www.maria.cloud/)
   - [Riemann (Monitoring)](http://riemann.io/)
   - [Precursor (Online prototyping tool)](https://precursorapp.com/)
@@ -12,7 +12,6 @@
   - [Metabase](https://github.com/metabase/metabase)
   - [Metabase Datomic](https://github.com/lambdaisland/metabase-datomic)
   - [CircleCI](https://circleci.com/)
-  - [asciinema](https://asciinema.org/)
   - [Avi (vim rewrite)](https://github.com/maitria/avi)
   - [Liquid (Text Editor)](https://github.com/mogenslund/liquid)
   - [Clojupyter](https://github.com/clojupyter/clojupyter)
@@ -91,6 +90,7 @@
 
   * [Leiningen](https://github.com/technomancy/leiningen)
   * [Boot](https://github.com/boot-clj/boot)
+  * [tools.build](https://www.clojure.org/guides/tools_build)
   * [clojurephant](https://github.com/clojurephant/clojurephant) (Gradle plugin)
   * [shadow-cljs](https://github.com/thheller/shadow-cljs) (Clojurescript)
 
@@ -180,6 +180,11 @@
 
   * [cheshire](https://github.com/dakrone/cheshire)
   * [jsonista](https://github.com/metosin/jsonista)
+
+## Protocol Buffers and gRPC
+
+  * [pronto](https://github.com/AppsFlyer/pronto)
+  * [lein-protodeps](https://github.com/AppsFlyer/lein-protodeps)
 
 ## Database Cli
 
@@ -285,6 +290,7 @@
   * [Midje](https://github.com/marick/Midje)
   * [test-doubles](https://github.com/GreenPowerMonitor/test-doubles) 
   * [kaocha](https://github.com/lambdaisland/kaocha)
+  * [StateFlow](https://github.com/nubank/state-flow)
 
 ## Webdriver automation
 
@@ -371,6 +377,7 @@ anylysis and visualization.*
   * [Dire](https://github.com/MichaelDrogalis/dire)
 
 ## Rule-based Programming
+  * [O'Doyle Rules](https://github.com/oakes/odoyle-rules)
   * [Clara Rules](https://github.com/cerner/clara-rules)
   * [Arete](https://github.com/yipeeio/arete)
 
@@ -482,6 +489,7 @@ anylysis and visualization.*
   * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos): Understand concepts such as list comprehension, threading macros, generative testing, destructuring, core.match and introductions to Light Table, Datomic and Game development with Clojure
   * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure): Introductions to Functional programming and TDD with Clojure
   * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos): Introduction to Clojure one function at a time
+  * [Clojure Pills screencast](https://www.youtube.com/c/onthecodeagain/videos): Fun and beginner friendly content related to the overall clojure ecosystem
   * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
   * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos): More advanced videos on core.async, transducers, transients, logic programming and a "Function of the day" series.
 
