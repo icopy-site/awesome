@@ -140,6 +140,7 @@ Neovim supports a wide variety of UI's.
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Create your own textobjects using tree-sitter queries.
 - [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which _do what you mean_.
 <!--lint ignore double-link-->
+- [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) - A plugin for adding/changing/deleting surrounding delimiter pairs.
 - [echasnovski/mini.nvim#mini.surround](https://github.com/echasnovski/mini.nvim#minisurround) - Module of `mini.nvim` for working with text surroundings (add, delete, replace, find, highlight). Fully supports dot-repeat.
 - [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
 
@@ -337,6 +338,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [xiyaowong/virtcolumn.nvim](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as colorcolumn.
 - [m-demare/attempt.nvim](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
 - [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim) - Utils to work with YAML files.
+- [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) - Ultra fold in Neovim with modern looking and performance boosting.
 
 ### Icon
 
@@ -375,6 +377,8 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [nanotee/luv-vimdocs](https://github.com/nanotee/luv-vimdocs) - The luv docs in vimdoc format.
 - [milisims/nvim-luaref](https://github.com/milisims/nvim-luaref) - A reference for builtin lua functions.
 - [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template) - Another neovim plugin template, using GitHub's template feature.
+<!--lint ignore double-link-->
+- [echasnovski/mini.nvim#mini.test](https://github.com/echasnovski/mini.nvim#minitest) - Module of `mini.nvim` with framework for writing extensive Neovim plugin tests. Supports hierarchical tests, hooks, parametrization, filtering, screen tests, "busted-style" emulation, customizable reporters, and more.
 
 ### Fennel
 
