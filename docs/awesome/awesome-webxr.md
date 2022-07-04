@@ -9,6 +9,7 @@
 [WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API) comprises a group of standards that allow browsers to access virtual and augmented reality devices, enabling developers to create immersive content that's easily accessible online without the need for installations or storefront curation.
 
 
+
 ## Standout Projects
 
 *Impressive and notable WebXR projects.*
