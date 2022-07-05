@@ -250,6 +250,10 @@
 - [V by Example](https://github.com/v-community/v_by_example) - V book as [GitBook](https://v-community.gitbook.io/v-by-example/).
 - [V learning notes](https://github.com/lydiandy/vlang_note) - Personal learning notes in Chinese.
 
+### IDEs with V
+
+- [Vide](https://github.com/IsaiahPatton/Vide)
+
 ### Online IDEs with V
 
 - [V Playground](https://v-wasm.now.sh/)
