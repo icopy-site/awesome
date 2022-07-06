@@ -13,6 +13,13 @@ If you need to search on this list you can try this great website: [Awesome Blaz
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
 
+## Flavors of State Management with Blazor WebAssembly - ASP.NET Community Standup (July 12, 2022).
+[<img src="https://i.ytimg.com/vi/ovgNl_ck22w/maxresdefault.jpg?v=62bb6f44" align="center" width="100%">](https://dotnet.microsoft.com/en-us/live/community-standup)
+- In this session, I will cover the simple state management flavours and then progress towards something more tasty like the Redux pattern. We will see what there is to like and dislike about each flavour. Next, we will take a step back and determine the appropriate seasoning of state management to pair with our application. You will leave this session having sampled all the wonderful flavours and be able to make great decisions to have the best development experience.
+- July 12, 2022.
+- [Community links](https://www.theurlist.com/blazor_community_standup_july_2022)
+- [ASP.NET Community Standup](https://dotnet.microsoft.com/en-us/live/community-standup), [YouTube](https://www.youtube.com/watch?v=ovgNl_ck22w&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=3).
+
 ## Introduction
 
 ### What is Blazor?
@@ -366,6 +373,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 ## Real-World applications
 
 ## Videos
+* [Test the new Blazor experimental tutorial INSIDE Visual Studio](https://www.youtube.com/watch?v=NXtaepJsWp8) - ![duration](https://img.shields.io/badge/Duration:%20-9%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) June 29, 2022 - Grace Taylor from the Visual Studio team joins James to talk about a new experiment that they are running to improve tutorial inside of Visual Studio! Their first experiment is going to help developers get started learning and building web apps with Blazor. Install Visual Studio, and you may have the opportunity to test out this new experimental feature from the team.
 * [Test-Driving CSS Styles in Blazor](https://www.youtube.com/watch?v=06chSzVeuls) - ![duration](https://img.shields.io/badge/Duration:%20-32%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=microsoft) June 20, 2022 - This video is about test-driving CSS styles in Blazor.
 * [Should I Focus on Blazor or ASP.NET Core?](https://www.youtube.com/watch?v=YbH2n4FZAP4) - ![duration](https://img.shields.io/badge/Duration:%20-13%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=microsoft) June 16, 2022 - Should I learn Blazor in more depth or should I better understand ASP.NET Core? Which one is the better one to learn well first? Should I bounce back and forth or specialize in one?
 * [Persisting Data in Blazor WebAssembly](https://www.youtube.com/watch?v=9i7XPpMcztM) - June 3, 2022 - Carl uses a client-side repository based on IndexedDB to persist data even without an Internet connection.

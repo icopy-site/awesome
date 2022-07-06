@@ -129,6 +129,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 
 ## Misc libraries
+* [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Bindings for the Lua C API.
 * [BraedonWooding/Lazy-Zig](https://github.com/BraedonWooding/Lazy-Zig) - Linq.
 * [DutchGhost/maybeuninit](https://github.com/DutchGhost/maybeuninit) - MaybeUninit.
 * [emekoi/log.zig](https://github.com/emekoi/log.zig) - A thread-safe logging library.
@@ -157,6 +158,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 ## Web
 * [andrewrk/lua-in-the-browser](https://github.com/andrewrk/lua-in-the-browser) - Using Zig to build Lua for WebAssembly.
+* [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig) - A WebSocket implementation.
 * [kivikakk/htmlentities.zig](https://github.com/kivikakk/htmlentities.zig) - HTML5 entity data.
 * [meheleventyone/zig-wasm-test](https://github.com/meheleventyone/zig-wasm-test) - A minimal WebAssembly example using Zig's build system.
 * [shritesh/zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) - Zig + WebAssembly + JS + DOM.
@@ -193,7 +195,8 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [kivikakk/libpcre.zig](https://github.com/kivikakk/libpcre.zig) - Bindings to libpcre for Perl-compatible regular expressions.
 * [kivikakk/koino](https://github.com/kivikakk/koino) - CommonMark/GitHub Flavored Markdown parser and HTML renderer.
 * [kubkon/zig-yaml](https://github.com/kubkon/zig-yaml) - YAML parser.
-* [prostomarkeloff/zigini](https://github.com/prostomarkeloff/zigini) - Simple, small (~220 loc) library for parsing .INI files.
+* [sreehax/zig-ini](https://github.com/sreehax/zig-ini) - .ini parser.
+* [Nulo/ini-parser](https://gitea.nulo.in/Nulo/ini-parser) - .ini parser.
 * [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) - A regex implementation.
 * [tiehuis/zig-ryu](https://github.com/tiehuis/zig-ryu) - Port of [ryu](https://github.com/ulfjack/ryu).
 * [Vexu/zuri](https://github.com/Vexu/zuri) - URI parser.
@@ -211,6 +214,8 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 
 ## Other
+* [All Your Codebase](https://allyourcodebase.com/) - Development status of Zig and its' ecosystem.
+* [fubark/cosmic](https://github.com/fubark/cosmic) - A general purpose runtime for Javascript/WASM.
 * [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) - Geteltorito re-write in Zig.
 * [momumi/x86-zig](https://github.com/momumi/x86-zig) - Library for assembling x86.
 * [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - ILO license key library.
