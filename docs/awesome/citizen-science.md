@@ -43,6 +43,9 @@ Below is a curated list of awesome software and other resources to enable those 
  * [eu-citizen.science](https://eu-citizen.science/) - links to 200 projects
  * [Zooniverse](https://github.com/zooniverse) - website for zoo & universe projects
  
+ ### Graphs and Visualization
+ * [GraphViz](https://graphviz.org/) - tool for creating scientific graphs
+ 
 ## Educational
 
  * [Light and Matter](http://lightandmatter.com/) - Benjamin Crowell's free-to-download, cheap-to-buy open source physics textbooks.
