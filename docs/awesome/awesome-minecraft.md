@@ -24,6 +24,11 @@
 - [Planet Minecraft](https://www.planetminecraft.com/forums/) - Creative community fansite.
 - [Minecraft Chinese Forum](http://www.mcbbs.net/) - Largest Chinese players community of Minecraft.
 
+### Mod Libraries
+
+- [Modrinth](https://modrinth.com/) - Open source Minecraft mod library with powerful filtering.
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods) - The largest repository for Minecraft mods.
+
 ### Archives
 
 - [MCArchive](https://mcarchive.net/) - Archives old, lost and forgotten Minecraft mods. Various other mods and stuff can be found on their Discord.

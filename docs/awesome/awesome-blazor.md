@@ -20,6 +20,11 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 - [Community links](https://www.theurlist.com/blazor_community_standup_july_2022)
 - [ASP.NET Community Standup](https://dotnet.microsoft.com/en-us/live/community-standup), [YouTube](https://www.youtube.com/watch?v=ovgNl_ck22w&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=3).
 
+## Blazor Hybrid - .NET beginner series (July 28, 2022).
+[<img src="https://i.ytimg.com/vi/iI058EA_maE/maxresdefault.jpg?v=62c5f798" align="center" width="100%">](https://www.youtube.com/watch?v=iI058EA_maE)
+- In this month’s .NET beginner series, learn how to blend desktop and mobile native client frameworks with .NET and Blazor! We'll get you up to speed with building .NET MAUI apps that can take advantage of native capabilities, using your web skills.
+- Watch on [YouTube](https://www.youtube.com/watch?v=iI058EA_maE).
+
 ## Introduction
 
 ### What is Blazor?
@@ -374,6 +379,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 ## Real-World applications
 
 ## Videos
+* [What’s next for Blazor, and .NET on WASI](https://www.youtube.com/watch?v=lP_qdhAHFlg) - ![duration](https://img.shields.io/badge/Duration:%20-61%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) July 7, 2022 - What’s next for Blazor, and .NET on WASI, talk by Steve Sanderson at the NDC Porto. In this demo-centric talk, Microsoft developer/architect Steve will show the current state-of-the-art in Blazor for building rich web-based UI for browsers and native apps. This will include powerful new features shipped in .NET 6, as well as upcoming enhancements under development for .NET 7 and .NET MAUI. We’ll also look at more experimental future possibilities, including running .NET Core on WASI (WebAssembly on the server) which creates entirely new cloud and edge hosting options and lets you bring .NET code to places it’s never been before.
 * [Test the new Blazor experimental tutorial INSIDE Visual Studio](https://www.youtube.com/watch?v=NXtaepJsWp8) - ![duration](https://img.shields.io/badge/Duration:%20-9%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) June 29, 2022 - Grace Taylor from the Visual Studio team joins James to talk about a new experiment that they are running to improve tutorial inside of Visual Studio! Their first experiment is going to help developers get started learning and building web apps with Blazor. Install Visual Studio, and you may have the opportunity to test out this new experimental feature from the team.
 * [Test-Driving CSS Styles in Blazor](https://www.youtube.com/watch?v=06chSzVeuls) - ![duration](https://img.shields.io/badge/Duration:%20-32%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=microsoft) June 20, 2022 - This video is about test-driving CSS styles in Blazor.
 * [Should I Focus on Blazor or ASP.NET Core?](https://www.youtube.com/watch?v=YbH2n4FZAP4) - ![duration](https://img.shields.io/badge/Duration:%20-13%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=microsoft) June 16, 2022 - Should I learn Blazor in more depth or should I better understand ASP.NET Core? Which one is the better one to learn well first? Should I bounce back and forth or specialize in one?

@@ -14,6 +14,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
 * [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs
 * [travis-groovy](https://github.com/kdabir/travis-groovy) - execute groovy scripts on travis-ci
+* [Android Groovy Shell](https://play.google.com/store/apps/details?id=com.tambapps.android.grooidshell) - code and execute groovy scripts directly on your smartphone
 
 ## IDE and Editor Support
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) - The Most Intelligent IDE for the Java Platform
@@ -51,6 +52,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [HTTP Builder NG Gradle Plugin](https://github.com/http-builder-ng/gradle-http-plugin) - Gradle plugin providing HTTP Builder NG support in a Gradle build configuration.
 * [AsyncRestClient](https://github.com/eginez/AsyncRestClient) - Combine the power of RESTClient with RxGroovy for async http calls
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
+* [Hyperpoet](https://github.com/tambapps/hyperpoet) - Easy-to-use and customizable HTTP client for Groovy
 
 ## Testing
 * [Spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
