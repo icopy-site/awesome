@@ -278,6 +278,7 @@ Table of Contents
  * [jitpack.io](https://jitpack.io/) — Maven repository for JVM and Android projects on GitHub, free for public projects.
  * [packagecloud.io](https://packagecloud.io/users/new?plan=free_usage_plan) — Easy to use repository hosting for: Maven, RPM, DEB, PyPi, NPM, and RubyGem packages (has free tier).
  * [repsy.io](https://repsy.io) — 1 GB Free private/public Maven Repository.
+ * [Gemfury](https://gemfury.com) — Private and public artifact repos for Maven, PyPi, NPM, Go Module, Nuget, APT, RPM repositories. Free for public projects.
 
 
 ## Tools for Teams and Collaboration
@@ -1016,6 +1017,7 @@ Table of Contents
   * [Storj](https://storj.io/) — Decentralised Private Cloud Storage for Apps and Developers. Free plan provides 3 Projects, 50 GB storage per project/month , 50 GB bandwidth per project/month.
   * [Tebi](https://tebi.io/) - S3 compatibility object storage.Free 25 GB storage and 250GB outbound transfer.
   * [Idrive e2](https://www.idrive.com/e2/) - S3 compatibility object storage. 10 GB free storage and unlimited bandwidth.
+  * [C2 Object Storage](https://c2.synology.com/en-us/pricing/object-storage) - S3 compatibility object storage. 15 GB free storage and 15 GB download per month.
 
 
 ## DBaaS
@@ -1379,6 +1381,7 @@ Table of Contents
    * [counter.dev](https://counter.dev) — Web analytics made simple and therefore privacy friendly. Free or pay what you want by donation.
    * [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month
    * [Uptrace](https://uptrace.dev) - Distributed Tracing Tool that helps developers pinpoint failures and find performance bottlenecks. Has a free plan, offers a free Personal subscription for open source projects, and has an open source version.
+   * [Microsoft Clarity](https://clarity.microsoft.com/) - Clarity is a free, easy-to-use tool that captures how real people actually use your site.
 
 
 ## Visitor Session Recording

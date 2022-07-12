@@ -135,7 +135,8 @@ The field changes rapidly enough that tutorials any older than a few years are m
 ### Annotation Tools
 
 * [Anafora](https://github.com/weitechen/anafora) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5657237/) - An annotation tool with adjudication and progress tracking features.
-* [brat](https://brat.nlplab.org/) - [paper](https://www.aclweb.org/anthology/E12-2021/) - [code](https://github.com/nlplab/brat) - The brat rapid annotation tool. Supports producing text annotations visually, through the browser. Not subject specific; appropriate for many annotation projects. Visualization is based on that of the [_stav_ tool](https://github.com/nlplab/stav/). 
+* [brat](https://brat.nlplab.org/) - [paper](https://www.aclweb.org/anthology/E12-2021/) - [code](https://github.com/nlplab/brat) - The brat rapid annotation tool. Supports producing text annotations visually, through the browser. Not subject specific; appropriate for many annotation projects. Visualization is based on that of the [_stav_ tool](https://github.com/nlplab/stav/).
+* [MedTator](https://ohnlp.github.io/MedTator/) - [paper](https://academic.oup.com/bioinformatics/article-abstract/38/6/1776/6496915) - [code](https://github.com/OHNLP/MedTator) - An annotation tool designed to have minimal dependencies.
 
 
 ## Techniques
@@ -187,6 +188,7 @@ The following resources contain indexed text documents in the biomedical science
 * [Clinical Questions Collection](https://www.nlm.nih.gov/databases/download/CQC.html) - also known as CQC or the Iowa collection, these are several thousand questions posed by physicians during office visits along with the associated answers.
 * [BioNLP ST 2013 datasets](http://2013.bionlp-st.org/) - data from six shared tasks, though some may not be easily accessible; try the CG task set (BioNLP2013CG) for extensive entity and event annotations.
 * [BioScope](https://rgai.inf.u-szeged.hu/node/105) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2586758/) - a corpus of sentences from medical and biological documents, annotated for negation, speculation, and linguistic scope.
+* [BioRED](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioRED/) - [paper](https://arxiv.org/abs/2204.04263) - a set of >6.5K biomedical relation annotations, plus labels for novel findings.
 
 ### Protein-protein Interaction Annotated Corpora
 Protein-protein interactions are abbreviated as PPI. The following sets are available in [BioC format](http://bioc.sourceforge.net/). The older sets (AIMed, BioInfer, HPRD50, IEPA, and LLL) are available courtesy of the [WBI corpora repository](http://corpora.informatik.hu-berlin.de) and were originally derived from the original sets by a [group at Turku University](http://mars.cs.utu.fi/PPICorpora/).
