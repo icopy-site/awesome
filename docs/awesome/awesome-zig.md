@@ -55,10 +55,11 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 
 ## Compilers and interpreters
-* [CurtisFenner/zsmol](https://github.com/CurtisFenner/zsmol) - The new Smol compiler and reference.
-* [squeek502/zua](https://github.com/squeek502/zua) - An implementation of Lua 5.1 for learning purposes.
+* [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 * [Vexu/bog](https://github.com/Vexu/bog) - Small, strongly typed, embeddable language.
 * [LoLa Programming Language](https://lola.random-projects.net/) - ([GitHub](https://github.com/MasterQ32/LoLa)) An embeddable programming language for game scripting.
+* [squeek502/zua](https://github.com/squeek502/zua) - An implementation of Lua 5.1 for learning purposes.
+* [CurtisFenner/zsmol](https://github.com/CurtisFenner/zsmol) - The new Smol compiler and reference.
 * [dantecatalfamo/brainfuck-zig](https://github.com/dantecatalfamo/brainfuck-zig) - Brainfuck interpreter.
 
 
