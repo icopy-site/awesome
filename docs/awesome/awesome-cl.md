@@ -138,6 +138,9 @@ Persistent object databases
   * an example web application using bknr.datastore: [screenshotbot-oss](https://github.com/screenshotbot/screenshotbot-oss).
 * [ubiquitous](https://github.com/Shinmera/ubiquitous) - A library providing easy-to-use persistent configuration storage. [zlib][33].
 * [cl-prevalence](https://common-lisp.net/project/cl-prevalence/) - in-memory database system. Implementation of Object Prevalence, in which business objects are kept live in memory and transactions are journaled for system recovery. [github fork](https://github.com/40ants/cl-prevalence). [LLGPL][8]. See also [cl-prevalence-multimaster](https://github.com/40ants/cl-prevalence-multimaster), to syncronize multiple cl-prevalence systems state.
+* [cl-naive-store](https://gitlab.com/Harag/cl-naive-store) - a naive persisted, in memory (lazy loading), indexed, document store for Common Lisp. [MIT][200].
+  - see [the introductory blog post](https://zaries.wordpress.com/2022/05/31/cl-naive-store/)
+  - dare we add: used in production by the author's company (ASTN Group, see awesome-lisp-companies)
 
 See also [Clache](#caching), that can save any object on disk.
 
@@ -149,11 +152,11 @@ Graph databases
 * [neo4cl](https://github.com/equill/neo4cl) - a library for interacting with Neo4J. Sends Cypher queries to a Neo4J server, and decodes the responses into something useful for processing in CL. [Apache2][89].
   * and maybe: [cl-neo4j](https://github.com/kraison/cl-neo4j) - a thin neo4j RESTFUL client interface.
 * [vivace-graph](https://github.com/kraison/vivace-graph-v3) - graph database & Prolog implementation. Takes design inspiration from CouchDB, neo4j and AllegroGraph. It implements an ACID-compliant object graph model with user-defined indexes and map-reduce views. It also implements a master / slave replication scheme for redundancy and horizontal read scaling. Querying the graph is accomplished via a number of Lisp methods or via a Prolog-like query language. [MIT][200].
-* [facts](https://github.com/cl-facts/facts) - an in-memory graph database with transactions and rollbacks, logging/replay and dumping/loading to/from disk. BSD-style license (ISC).
 
 and also:
 
 * [restagraph](https://github.com/equill/restagraph) - an app that dynamically generates REST APIs for a Neo4j database, using a schema defined within the database. [GPL3][2].
+* [facts](https://github.com/cl-facts/facts) - an in-memory graph database with transactions and rollbacks, logging/replay and dumping/loading to/from disk. BSD-style license (ISC).
 
 
 Wrappers
@@ -833,6 +836,7 @@ Websockets
 ----------
 
 * 👍 [usocket](https://github.com/usocket/usocket) - A portable TCP and UDP socket interface. [Expat][14].
+* [Hunchensocket](https://github.com/joaotavora/hunchensocket) -  RFC6455 compliant WebSockets for Common Lisp. [MIT][200].
 * [websocket-driver](https://github.com/fukamachi/websocket-driver) - a WebSocket server/client implementation, backend agnostic (Clack). [3-clause BSD][15].
 * [Portal](https://github.com/charJe/portal) - Portable websockets for Common Lisp using usocket. [LLGPL][8].
 
@@ -1371,7 +1375,7 @@ Git
 
 * [legit](https://shinmera.github.io/legit/) - an interface to the Git binary. [zlib][33].
 * [git-api](https://github.com/fourier/git-api) - Common Lisp library
-to access git repository. It doesn't need git or libgit installed. [BSD][15].
+to access a git repository. It doesn't need git or libgit installed. [BSD][15].
 
 i18n
 ----

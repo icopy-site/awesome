@@ -24,6 +24,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystaledge](https://github.com/unn4m3d/crystaledge) - A pure Vector Math library
  * [crystalg](https://github.com/tobyapi/crystalg) - A Generic Algorithm Library
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
+ * [csuuid](https://github.com/wyhaines/csuuid.cr) - A Chronologically Sortable UUID
  * [edits.cr](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
  * [fzy](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
  * [graphlb](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
@@ -35,6 +36,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [qr-code](https://github.com/spider-gazelle/qr-code) - QR Code generator
  * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
  * [s2_cells](https://github.com/spider-gazelle/s2_cells) - [S2 Geometry](https://s2geometry.io/devguide/s2cell_hierarchy.html) for spatial indexing
+ * [secure-remote-password](https://github.com/spider-gazelle/secure-remote-password) - SRP-6a protocol for authentication over an insecure network
  * [splay_tree_map](https://github.com/wyhaines/splay_tree_map.cr) - Splay Tree implementation that conforms to the Hash ducktype
 
 ## Blockchain
