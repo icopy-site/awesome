@@ -113,6 +113,7 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
 Independents plugins are listed here.
 
 - [OTA Updater](https://github.com/Cap-go/capacitor-updater) - Over the air update for capacitor app.
+- [Apple Pay](https://github.com/fresha/capacitor-plugin-applepay) - Get Apple Pay payments in your app
 - [App Tracking Transparency](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) - Request user authorization to access app-related data for tracking the user or the device. iOS only.
 - [Background tasks](https://github.com/robingenz/capacitor-background-task) - A native plugin for running background tasks.
 - [Badge](https://github.com/robingenz/capacitor-badge) - Access and update the badge number of the app icon.
@@ -146,6 +147,7 @@ Independents plugins are listed here.
 - [Jitsi](https://github.com/calvinckho/capacitor-jitsi-meet) - Make video calls through the free, open-sourced Jitsi video platform.
 - [Lightsensor](https://github.com/Elvincth/capacitor-plugin-lightsensor) - Get the illuminance level on the device.
 - [Mute](https://github.com/riderx/capacitor-mute) - Detect silent mode and mute audio.
+- [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
 - [Native settings](https://github.com/RaphaelWoude/capacitor-native-settings) - Open native settings screens.
 - NativeScript
     - [NativeScript Capacitor](https://github.com/NativeScript/capacitor) - Empower Capacitor with native APIs.
