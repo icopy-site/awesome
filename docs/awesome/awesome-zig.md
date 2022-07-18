@@ -191,8 +191,9 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 ## Parser
 * [darithorn/zig-toml](https://github.com/darithorn/zig-toml) - A TOML parser.
 * [chwayne/rem](https://github.com/chwayne/rem) - An HTML parsing library.
-* [goto-bus-stop/ziguid](https://github.com/goto-bus-stop/ziguid) - GUID parsing/stringifying with zig.
+* [goto-bus-stop/ziguid](https://github.com/goto-bus-stop/ziguid) - GUID parsing/stringifying.
 * [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library.
+* [sam701/zig-cli](https://github.com/sam701/zig-cli) - Package for building command line apps.
 * [kivikakk/libpcre.zig](https://github.com/kivikakk/libpcre.zig) - Bindings to libpcre for Perl-compatible regular expressions.
 * [kivikakk/koino](https://github.com/kivikakk/koino) - CommonMark/GitHub Flavored Markdown parser and HTML renderer.
 * [kubkon/zig-yaml](https://github.com/kubkon/zig-yaml) - YAML parser.
