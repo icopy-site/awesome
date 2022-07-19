@@ -61,6 +61,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Keynote](https://apps.apple.com/app/keynote/id409183694?mt=12) - Build stunning presentations. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keynote/id409183694?mt=12)
 * [Numbers](https://apps.apple.com/app/numbers/id409203825?mt=12) - Create impressive spreadsheets. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/numbers/id409203825?mt=12)
 * [Microsoft Office](https://products.office.com/en-us/mac/microsoft-office-for-mac) - Unmistakably Office, designed for Mac. [![App Store][app-store Icon]](https://www.apple.com/search/office?page=1&sel=accessories&f=software#!&f=software&fh=4649)
+* [OnlyOffice](https://www.onlyoffice.com/) -  An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents. [![Open-Source Software][OSS Icon]](https://github.com/ONLYOFFICE/DesktopEditors) ![Freeware][Freeware Icon]
 * [SoftMaker Office](https://www.softmaker.com/en/softmaker-office) - A complete office suite that aims for full compatibility with Microsoft Office documents
 
 #### Markdown Tools
@@ -80,6 +81,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [TextNut](http://www.textnutwriter.com/) - Rich-format editor featuring Markdown export and Markdown syntax hints. ![Freeware][Freeware Icon]
 * [Typora](http://www.typora.io/) - Truly minimal Markdown editor featuring seamless live preview. ![Freeware][Freeware Icon]
 * [Ulysses](https://www.ulyssesapp.com/features/) - The Ultimate Writing App for Mac, iPad and iPhone.
+* [Zettlr](https://www.zettlr.com/) - A markdown editor for the 21st century. [![Open-Source Software][OSS Icon]](https://github.com/Zettlr/Zettlr) ![Freeware][Freeware Icon]
 
 #### Note-taking
 
@@ -93,6 +95,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Gooba](https://goobapp.com/) - Writing app and task manager with a simple and interactive design.
 * [Inkdrop](https://www.inkdrop.info/) - Notebook app for Markdown lovers built on top of Electron.
 * [Joplin](https://joplin.cozic.net/) - Cross platform open-source notepad with markdown support and todo list manager with synchronisation capabilities. [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
+* [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. [![Open-Source Software][OSS Icon]](https://github.com/logseq/logseq) ![Freeware][Freeware Icon]
 * [MarginNote](https://marginnote.com/) - In-depth PDF and EPUB reading, learning, managing and note taking app.
 * [massCode](https://github.com/massCodeIO/massCode) - Cross platform open-source code snippets manager for developers with markdown and mermaid support. [![Open-Source Software][OSS Icon]](https://github.com/massCodeIO/massCode) ![Freeware][Freeware Icon]
 * [Notable](https://github.com/notable/notable) - The markdown-based note-taking app that doesn't suck.
@@ -105,6 +108,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [OneNote](https://www.onenote.com/) - Note-taking app by Microsoft. ![Freeware][Freeware Icon]
 + [OutlineEdit 3](https://outlineedit.com) - Fully-featured outline editor, for everyone who loves great structured notes. [![App Store][app-store Icon]]
 * [SideNotes](https://www.apptorium.com/sidenotes) - Quick notes on the screen side. Take notes while working with other apps. Use Markdown for text formatting.
+* [Standard Notes](https://standardnotes.com/) - An end-to-end encrypted notes app for digitalists and professionals. [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon]
 * [QOwnNotes](http://www.qownnotes.org/) - Open-source notepad with markdown support and todo list manager. [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
 * [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook, lets you easily mix text, code, Markdown and LaTeX within one note, edit code with an awesome code editor and live preview Markdown and LaTeX.
 * [AliYuQue](https://www.yuque.com/install/desktop) - Cloud note-taking knowledge management, collaboration platform, Markdown based writing, support embedded flow chart, brain diagram, timing sequence, code rendering, Sketch board creation, personal knowledge sharing, etc. Compared to youdao cloud note and evernote similar products, which include all of its functions, support knowledge sharing and more powerful creation, collaboration and editor, it comes from alibaba ant financial.![Freeware][Freeware Icon]
@@ -242,7 +246,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Insomnia](https://insomnia.rest/) - The most intuitive cross-platform REST API Client. [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
 * [Paw](https://paw.cloud/) - Advanced HTTP client.
 * [Postman](https://www.getpostman.com) - Powerful GUI platform to make your API development faster & easier, from building API requests through testing, documentation and sharing.![Freeware][Freeware Icon]
-* [Katalon Studio](https://www.katalon.com) - Simplify API, Web, Mobile Automation Tests Free. Robust. Cross-platform. Automation testers from 160 countries with YouTube channels, GitHub repositories.![Freeware][Freeware Icon]
+* [Katalon Studio](https://www.katalon.com) - Simplify API, Web, Mobile Automation Tests Free. Robust. Cross-platform. Automation testers from 160 countries with channels, GitHub repositories.![Freeware][Freeware Icon]
 
 #### Network Analysis
 
@@ -557,8 +561,10 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 #### Email Clients
 
 * [Airmail](http://airmailapp.com) - Fast email client. For both Mac OS and iOS.
+* [ElectronMail](https://github.com/vladimiry/ElectronMail) - An Electron-based unofficial desktop client for ProtonMail. [![Open-Source Software][OSS Icon]](https://github.com/vladimiry/ElectronMail) ![Freeware][Freeware Icon]
 * [Foxmail](http://www.foxmail.com/mac/en) - Fast email client. ![Freeware][Freeware Icon]
 * [MailTags](https://smallcubed.com/mt/) - Use tags to organize email and schedule.
+* [Mailspring](https://getmailspring.com/) - A beautiful, fast, and fully open source mail client. [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring) ![Freeware][Freeware Icon]
 * [N1](https://www.nylas.com/) - Extensible, open-source mail app, free for developers and $7/month for Pro. ![Open-Source Software][OSS Icon]
 * [Nylas Mail](https://nylas.com/nylas-mail/) - Extensible desktop mail app built on the modern web.  [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
 * [Polymail](https://polymail.io/) - Simple, beautiful and powerful email client. ![Freeware][Freeware Icon]
@@ -593,6 +599,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Cog](http://cogx.org/) - Free, open-source audio player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://bitbucket.org/mamburu/cog/)
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)  - Free, cross-platform video editing, color grading, video effects and audio editing software.
 * [Elmedia Player](https://mac.eltima.com/media-player.html) - This media player is a super versatile app for any file format you probably may think of: FLV, MP4, AVI, MOV, DAT, MKV, MP3, FLAC, M4V are all supported as well as many others.
+* [FreeTube](https://freetubeapp.io/) - Open source desktop YouTube client built with privacy in mind. [![Open-Source Software][OSS Icon]](https://github.com/FreeTubeApp/FreeTube) ![Freeware][Freeware Icon]
 * [Gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/no/app/gifski/id1351639930?mt=12)
 * [HandBrake](https://handbrake.fr/) - Tool for converting video from nearly any format to a selection of modern, widely supported codecs. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 * [Hydrogen](http://hydrogen-music.org/) - Professional yet simple and intuitive pattern-based drum programming for GNU/Linux. [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen)
@@ -602,6 +609,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [LMMS](https://www.lmms.io) - Formerly "Linux MultiMedia Studio", LMMS is a powerful Digital Audio Workstation designed like FL Studio (formerly Fruity Loops). [![Open-Source Software][OSS Icon]](https://github.com/lmms/lmms) ![Freeware][Freeware Icon]
 * [LosslessCut](https://github.com/mifi/lossless-cut) - Cross platform tool for quick and lossless video and audio trimming using ffmpeg. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mifi/lossless-cut)
 * [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. [![Open-Source Software][OSS Icon]](https://github.com/ddddxxx/LyricsX) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/lyricsx/id1254743014?mt=12) ![Freeware][Freeware Icon]
+* [MacYTDL](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software][OSS Icon]](https://github.com/section83/MacYTDL) ![Freeware][Freeware Icon]
 * [Metadatics](http://markvapps.com/metadatics) - Advanced Audio Metadata Editor. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/tincta/id448340648)
 * [Mp3tag](https://mp3tag.app/) - A powerful and easy-to-use tool to edit metadata of audio files. [![App Store][app-store Icon]](https://apps.apple.com/app/id1532597159/)
 * [Mixxx](http://mixxx.org/) - The most advanced free DJ software. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mixxxdj/mixxx)
@@ -612,6 +620,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Natron](https://natrongithub.github.io/) - Open-source compositing software. Node-graph based. Similar in functionality to Adobe After Effects and Nuke by The Foundry. [![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron)
 * [Nuclear](https://nuclear.js.org/) -  Streaming music player that finds free music for you. [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) ![Freeware][Freeware Icon]
 * [Perian](http://perian.org/#download) - (**No longer under active development**) ~~Let QuickTime play all the common formats of free plug-ins~~. [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian)
+* [MusicBrainz Picard](https://picard.musicbrainz.org/) -  Cross-platform music tagger written in Python. [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) ![Freeware][Freeware Icon]
 * [Playback](https://mafintosh.github.io/playback/) - Experimental video player. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/mafintosh/playback)
 * [Plug](https://plugformac.com) - Discover and listen to music from Hype Machine. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/Plug) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1514182074)
 * [Popcorn Time](https://popcorn-time.tw/) - Watch torrent movies instantly, This Popcorn Time service will never be taken down. Download and enjoy. ![Freeware][Freeware Icon]
@@ -673,7 +682,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. [![Open-Source Software][OSS Icon]](https://github.com/brave/) ![Freeware][Freeware Icon]
 * [Chrome](https://www.google.com/chrome/) - Chrome, developed by Google ![Freeware][Freeware Icon]
 * [Chromium](https://www.chromium.org/Home) - Open-source, free web browser project by Google, to provide the source code for Google Chrome. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
+* [LibreWolf](https://librewolf.net) - A fork of Firefox, focused on privacy, security and freedom. [![Open-Source Software][OSS Icon]](https://gitlab.com/librewolf-community) ![Freeware][Freeware Icon]
 * [Microsoft Edge](https://www.microsoft.com/edge) - Microsoft Edge, based on Chromium, but built by MS ![Freeware][Freeware Icon]
+* [Min](https://minbrowser.org/) -  Fast, minimal browser that protects your privacy. [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min) ![Freeware][Freeware Icon]
 * [Firefox](https://www.firefox.com/) - Meet Firefox Quantum. Fast, free, open-source web browser developed by the Mozilla Foundation. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://hg.mozilla.org/)
 * [Safari](https://www.apple.com/safari/) - Native browser for Macs. ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
 * [TorBrowser](https://www.torproject.org/projects/torbrowser.html) - Anonymity Online. Protect your privacy. Defend against network surveillance and traffic analysis. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitweb.torproject.org/tor-browser.git)
@@ -787,6 +798,8 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 #### General Tools
 
 * [AirServer](http://www.airserver.com/Download) - Most advanced screen mirroring software receiver for Mac, PC and Xbox One.
+* [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily. [![Open-Source Software][OSS Icon]](https://github.com/balena-io/etcher) ![Freeware][Freeware Icon]
+* [Cloudflare WARP](https://1.1.1.1/) - Replaces the connection between your device and the Internet with a modern, optimized, protocol. ![Freeware][Freeware Icon]
 * [ControlPlane](http://www.controlplaneapp.com/) - Manages configuration profiles for your Mac. Determines where you are or what you are doing based on a number of available evidence sources and then automatically reconfigures your Mac based on your preferences. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
 * [DNS Heaven](https://github.com/greenboxal/dns-heaven) - Unifies macOS DNS so applications using glibc can resolve DNS with the native stack. Mainly for use with VPNs. [![Open-Source Software][OSS Icon]](https://github.com/greenboxal/dns-heaven) ![Freeware][Freeware Icon]
 * [Google Assistant (Unofficial Desktop Client)](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform desktop client for Google Assistant based on Google Assistant SDK. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -824,6 +837,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 #### Productivity
 
 * [1440 Minutes Left Today](https://1440app.com/) - Keep a track of how many minutes you have left until the day is over, right in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/1440/id1483764819)
+* [ActivityWatch](https://activitywatch.net/) - Cross-platform, extensible, and privacy-focused time-tracker. [![Open-Source Software][OSS Icon]](https://github.com/ActivityWatch/activitywatch) ![Freeware][Freeware Icon]
 * [Alfred](https://www.alfredapp.com/) - Award-winning app which boosts efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [BetterMouse](https://better-mouse.com) - Smooth scroll, cursor acceleration prohibition, and powerful button/gesture remapping in one utility for 3rd-party mice. Aims for replacing those bulky and intrusive official drivers.
 * [BetterTouchTool](https://folivora.ai/) - Great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice.
@@ -831,6 +845,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Clovery](https://clovery.app) - Integrate all your favorite Google services tightly with your Mac, let you access these services quickly and work more productively. [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/neutron) [![App Store][app-store Icon]](https://apps.apple.com/us/app/clovery-for-google-apps/id1552618413)
 * [CursorSense](https://www.plentycom.jp/en/cursorsense/index.html) - Mouse & trackpad driver that lets you tweak the acceleration curve and more.
 * [Dropzone](https://aptonic.com) - Create a popup grid of customizable actions. Scriptable in Ruby & Python.
+* [Focalboard](https://www.focalboard.com/) - Open source, self-hosted alternative to Trello, Notion, and Asana. [![Open-Source Software][OSS Icon]](https://github.com/mattermost/focalboard) ![Freeware][Freeware Icon]
 * [Hammerspoon](http://www.hammerspoon.org/) - Tool for powerful OSX automation with the Lua scripting engine. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 * [HapticKey](https://github.com/niw/HapticKey/releases) - A simple utility application for MacBook with Touch Bar that triggers a haptic feedback when tapping Touch Bar. [![Open-Source Software][OSS Icon]](https://github.com/niw/HapticKey) ![Freeware][Freeware Icon]
 * [HazeOver](https://hazeover.com) - App that dims your background app windows so you can focus more on your main task! [![App Store][app-store Icon]](https://apps.apple.com/ph/app/hazeover-distraction-dimmer/id430798174?mt=12)

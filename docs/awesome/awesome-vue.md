@@ -989,6 +989,7 @@
 - [Scrumfast](https://www.scrumfast.com) - Extremely intuitive project management scrum tool.
 - [CryptoTracks](https://cryptotracks.io) - Unleash and discover musical creativity on the Ethereum blockchain.
 - [CodeSnippet](https://www.codesnippet.fr) - A collaborative code editor for teachers and students. 
+- [Gradientos](https://www.gradientos.app) - Gradientos makes finding gradients easy.
 
 ### Interactive Experiences
 
@@ -2268,6 +2269,7 @@ _Set of components + responsive layout system_
 - [AgnosticUI](https://www.agnosticui.com/) - Accessible Vue 3 Component Primitives that also work with React, Svelte, and Angular!
 - [Unge UI](https://github.com/UngeUI/ungeui) - A Vue 3.x Component Library. Complete documentation support and both Chinese and English.
 - [Vexip UI](https://github.com/qmhc/vexip-ui) - A Vue 3 UI Library, Highly customizable property values, Full TypeScript, Performance should be good.
+- [Anu](https://github.com/jd-solanki/anu) - Build better interfaces faster. DX focused utility based vue component library ⚛️
 
 #### Mobile
 

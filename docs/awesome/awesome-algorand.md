@@ -16,7 +16,9 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 <a href="https://awesomealgo.com"><img src="https://img.shields.io/badge/Web 2.0-Website-yellow.svg" /></a>
 <a href="https://ipfs.io/ipfs/QmS6dTFMddKkNnPmixhXRLLCfhURYnnnWJupz5tRPbJg81" style="pointer-events: none;  cursor: default;"><img src="https://img.shields.io/badge/Web 3.0-Website-blue.svg"/></a>
 <a href="https://anchor.fm/awesomealgo"><img src="https://img.shields.io/badge/AwesomeAlgo-Podcast-purple.svg" /></a>
-
+<br/>
+<a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/github/stars/aorumbayev/awesome-algorand?style=social" /></a>
+<a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?style=social" /></a>
 </div>
 <br/>
 
@@ -277,10 +279,6 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 Contributions welcome! Read the [contribution guidelines](https://github.com/aorumbayev/Awesome-Algorand/blob/main/contributing.md) first.
 
 Special thanks to everyone who forked or starred the repository ❤️
-
-[![Stargazers repo roster for @aorumbayev/Awesome-Algorand](https://reporoster.com/stars/dark/aorumbayev/Awesome-Algorand)](https://github.com/aorumbayev/Awesome-Algorand/stargazers)
-
-[![Forkers repo roster for @aorumbayev/AwesomeAlgorand](https://reporoster.com/forks/dark/aorumbayev/Awesome-Algorand)](https://github.com/aorumbayev/Awesome-Algorand/network/members)
 
 ---
 

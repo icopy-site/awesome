@@ -612,7 +612,6 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to autoclose and autorename xml,html,jsx tag.
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - A minimalist autopairs for Neovim written by Lua.
 - [ZhiyuanLck/smart-pairs](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs for Neovim written by Lua.
-- [steelsojka/pears.nvim](https://github.com/steelsojka/pears.nvim) - Auto pair plugin for Neovim.
 <!--lint ignore double-link-->
 - [echasnovski/mini.nvim#mini.pairs](https://github.com/echasnovski/mini.nvim#minipairs) - Module of `mini.nvim` for autopairs which has minimal defaults and functionality to do per-key mapping.
 - [autoclose.nvim](https://github.com/max-0406/autoclose.nvim) - A minimalist autoclose plugin for Neovim written by lua.
@@ -728,7 +727,8 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [slugbyte/unruly-worker](https://github.com/slugbyte/unruly-worker) - A ridiculously fun alternative keymap for the workman keyboard layout with nvim features like LSP support, built and configured with lua.
 - [FeiyouG/command_center.nvim](https://github.com/FeiyouG/command_center.nvim) - Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope.
 - [linty-org/key-menu.nvim](https://github.com/linty-org/key-menu.nvim) - Key mapping hints in a floating window.
-- [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim) - Bind a bunch of key bindings together. Port of Emacs Hydra.
+- [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim) - Create custom submodes and menus. Port of Emacs Hydra.
+- [anuvyklack/keymap-amend.nvim](https://github.com/anuvyklack/keymap-amend.nvim) - Amend the existing keymap.
 
 ### Tmux
 
