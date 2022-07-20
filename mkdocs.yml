@@ -446,14 +446,15 @@ nav:
     - Product Management: awesome/awesome-product-management.md
     - Roadmaps: awesome/awesome-roadmaps.md
     - YouTubers: awesome/awesome-youtubers.md
-    - Cyber Security University: awesome/awesome-cyber-security-university.md
   - Security:
     - Application Security: awesome/awesome-appsec.md
     - Security: awesome/awesome-security.md
     - CTF: awesome/awesome-ctf.md
+    - Cyber Security University: awesome/awesome-cyber-security-university.md
     - Malware Analysis: awesome/awesome-malware-analysis.md
     - Android Security: awesome/android-security-awesome.md
     - Hacking: awesome/awesome-hacking.md
+    - Hacking Spots: awesome/awesome-hacking-locations.md
     - Honeypots: awesome/awesome-honeypots.md
     - Incident Response: awesome/awesome-incident-response.md
     - Vehicle Security and Car Hacking: awesome/awesome-vehicle-security.md
@@ -591,7 +592,6 @@ nav:
     - Tools for Activism: awesome/toolsforactivism.md
     - Citizen Science: awesome/citizen-science.md
     - MQTT: awesome/awesome-mqtt.md
-    - Hacking Spots: awesome/awesome-hacking-locations.md
     - For Girls: awesome/awesome4girls.md
     - Vorpal: awesome/awesome-vorpal.md
     - Vulkan: awesome/awesome-vulkan.md

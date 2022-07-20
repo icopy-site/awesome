@@ -703,16 +703,17 @@
 - [Product Management](awesome/awesome-product-management.md) - Learn how to be a better product manager.
 - [Roadmaps](awesome/awesome-roadmaps.md) - Gives you a clear route to improve your knowledge and skills.
 - [YouTubers](awesome/awesome-youtubers.md) - Watch video tutorials from YouTubers that teach you about technology.
-- [Cyber Security University](awesome/awesome-cyber-security-university.md) - Free educational resources that focus on learning by doing.
 
 ## Security
 
 - [Application Security](awesome/awesome-appsec.md)
 - [Security](awesome/awesome-security.md)
 - [CTF](awesome/awesome-ctf.md) - Capture The Flag.
+- [Cyber Security University](awesome/awesome-cyber-security-university.md) - Free educational resources that focus on learning by doing.
 - [Malware Analysis](awesome/awesome-malware-analysis.md)
 - [Android Security](awesome/android-security-awesome.md)
 - [Hacking](awesome/awesome-hacking.md)
+- [Hacking Spots](awesome/awesome-hacking-locations.md)
 - [Honeypots](awesome/awesome-honeypots.md) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
 - [Incident Response](awesome/awesome-incident-response.md)
 - [Vehicle Security and Car Hacking](awesome/awesome-vehicle-security.md)
@@ -867,7 +868,6 @@
 - [Tools for Activism](awesome/toolsforactivism.md)
 - [Citizen Science](awesome/citizen-science.md) - For community-based and non-institutional scientists.
 - [MQTT](awesome/awesome-mqtt.md) - "Internet of Things" connectivity protocol.
-- [Hacking Spots](awesome/awesome-hacking-locations.md)
 - [For Girls](awesome/awesome4girls.md)
 - [Vorpal](awesome/awesome-vorpal.md) - Node.js CLI framework.
 - [Vulkan](awesome/awesome-vulkan.md) - Low-overhead, cross-platform 3D graphics and compute API.

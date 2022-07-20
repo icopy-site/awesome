@@ -36,13 +36,12 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [node-red-contrib-tdengine](https://github.com/kp45-tech/node-red-contrib-tdengine) - TDengine connector plugin for Node-RED.
 
 ## ORM
-
 - [sqli](https://github.com/x-ream/sqli) - ORM SQL Interface, Criteria, CriteriaBuilder, ResultMapBuilder.
 - [TDengine ORM Framework](https://github.com/hxshun/TDengineORM) - ORM framework of TAOS Data's time-series database TDengine.
 - [IoTSharp.EntityFrameworkCore.Taos](https://github.com/IoTSharp/EntityFrameworkCore.Taos) - Entity, Framework, EF, Core, Data, O/RM, entity-framework-core, TDengine.
-- [taodbi](https://github.com/genelet/taodbi) - An abstract interface package to use the big data system TDengine.
 - [tdengine-orm](https://github.com/Yurunsoft/tdengine-orm) - TDengine ORM based on tdengine-restful-connector & php-tdengine.<!--lint ignore awesome-list-item-->
 - [crown](https://github.com/machine-w/crown) - crown is a simple and small ORM for TDengine.
+- [APIJSON](https://github.com/Tencent/APIJSON) - A JSON Transmission Protocol and an ORM Library for providing APIs and Docs without writing any code.
 
 ## Connector
 
