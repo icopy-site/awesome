@@ -6,12 +6,16 @@
 
 ## Must-Watch CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a collection of well-received talks about CSS, covering topics such as CSS Grid, flexbox, frameworks, variables, Sass, SVG, performance, tooling, and more.
+This is a collection of well-received talks about CSS covering topics such as CSS Grid, flexbox, custom variables, performance, frameworks, Sass, tooling, and more.
 
 > **Like JavaScript? Check out [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
 
 * [Contribution Guidelines](https://github.com/AllThingsSmitty/must-watch-css/blob/master/CONTRIBUTING.md)
+
+
+### 2022
+1. [**CSS Variable Secrets**](https://www.youtube.com/watch?v=ZuZizqDF4q8): Lea Verou, CSS Day `59:06`
 
 
 ### 2020
@@ -36,7 +40,6 @@ This is a collection of well-received talks about CSS, covering topics such as C
 
 ### 2017
 
-1. [**CSS [Variable] Secrets**](https://www.youtube.com/watch?v=UQRSaG1hQ20): Lea Verou, SmashingConf Barcelona `49:57`
 1. [**CSS Grid Layout**](https://www.youtube.com/watch?v=N5Lt1SLqBmQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Rachel Andrew, Frontend NE `59:14`
 1. [**The Power of CSS**](https://www.youtube.com/watch?v=IRI1H5tyEAo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Una Kravets, Front-Trends `30:57`
 1. [**CSS and the First Meaningful Paint**](https://www.youtube.com/watch?v=4pQ2byAoIX0&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Patrick Hamann, CSSConf EU `37:56`
@@ -46,7 +49,6 @@ This is a collection of well-received talks about CSS, covering topics such as C
 ### 2016
 
 1. [**CSS in 2016 and Beyond**](https://www.youtube.com/watch?v=9AG35HCBpo4&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Christian Vuerings, SFHTML5 `17:15`
-1. [**CSS Variables: var(--subtitle)**](https://www.youtube.com/watch?v=2an6-WVPuJU&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, CSSConf US `56:57`
 1. [**Laying out the Future with Grid and Flexbox**](https://www.youtube.com/watch?v=ibeF6rbzD70&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Rachel Andrew, View Source Conference `25:45`
 1. [**Reactive Animations with CSS Variables**](https://www.youtube.com/watch?v=lTCukb6Zn3g&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): David Khourshid, JSConf Iceland `31:02`
 1. [**Practical Blend Modes in CSS**](https://vimeo.com/184235576): Una Kravets, SmashingConf Freiburg `47:04`

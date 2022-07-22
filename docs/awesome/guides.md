@@ -114,6 +114,10 @@ coding style guides and development practices across the web.
 + [The Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide#readme)
 + [Ruby Style Guidelines](http://www.caliban.org/ruby/rubyguide.shtml#style)
 
+### Rust
+
++ [The Rust Style Guide](https://github.com/rust-dev-tools/fmt-rfcs/blob/master/guide/guide.md)
+
 ### Scala
 
 + [Scala Style Guide](https://docs.scala-lang.org/style/)
@@ -151,10 +155,6 @@ coding style guides and development practices across the web.
 ### Rails
 
 + [The Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide#readme)
-
-### Rust
-
-+ [The Rust Style Guide](https://github.com/rust-dev-tools/fmt-rfcs/blob/master/guide/guide.md)
 
 ### Vue
 
