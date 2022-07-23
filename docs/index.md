@@ -575,6 +575,7 @@
 - [Math](awesome/awesome-math.md)
 - [Recursion Schemes](awesome/awesome-recursion-schemes.md) - Traversing nested data structures.
 - [Audit Algorithms](awesome/awesome-audit-algorithms.md) - Algorithmic audits of algorithms.
+- [AGI & CoCoSci](awesome/awesome-agi-cocosci.md) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 
 ## Books
 
