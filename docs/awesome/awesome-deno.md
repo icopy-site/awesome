@@ -9,6 +9,7 @@ Deno is a simple, modern and secure runtime for JavaScript and TypeScript that u
 This list is a collection of the best Deno modules and resources.
 
 
+  - [Cloud APIs](https://github.com/denolib/awesome-deno/blob/master/cloud-apis)
 
 ## Docs
 
@@ -51,6 +52,10 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [terminal_images](https://github.com/mjrlowe/terminal_images) -  A Deno module and CLI tool for displaying images in the terminal.
 - [with-env](https://github.com/bcheidemann/with-env) - Simple command line utilty for executing commands with one or more .env files.
 - [yargs](https://github.com/yargs/yargs) - The modern, pirate-themed successor to optimist.
+
+### Cloud APIs
+- [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
+- [googleapis](https://googleapis.deno.dev/) - Auto-generated Google API clients for Deno.
 
 ### Database
 - [cotton](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno

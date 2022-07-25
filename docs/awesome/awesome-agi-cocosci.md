@@ -365,7 +365,6 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Statistical Predicate Invention](https://alchemy.cs.washington.edu/papers/kok07/kok07.pdf) - ***ICML'07***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=17009312281859401704&hl=en&as_sdt=2005&sciodt=0,5)]. Treating predicate invention as a non-parametric problem, in the account of statistics.
 
 
-<span id = "bayesian-optimization"></span>
 #### Bayesian Optimization
 
 * [A Tutorial on Bayesian Optimization](https://arxiv.org/abs/1807.02811) - 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7971934771645047583&hl=en&as_sdt=0,5)]. 
