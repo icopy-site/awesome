@@ -12,6 +12,10 @@ The author of this repo has been struggling to taxonomize related topics, since 
 
 Obviously this reading list is far from covering the every aspect of AGI and CoCoSci. Since the list is a by-product of literature reviews when the author is working on Abduction, other non-Abduction topics are also collected with biases, more or less. Abduction is the way humans explain the world with the known, and discover the unknown, requiring much more investigations into its computational basis, cognitive underpinnings and applications to AI. Please feel free to reach out.
 
+## Contributing
+
+Contributing is greatly welcomed! Please read the [Contributing Guidelines](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/Contributing.md) before taking actions.
+
 
 <span id = "c"></span>
       * [Quantitative Analysis](#quantitative-analysis) 
@@ -92,6 +96,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Foam](https://foambubble.github.io/foam/) - ***Foambubble***. For linked document management, visualization, and sharing, opensourced softward built on VSCode.
 
 * [Building a Second Brain](https://www.buildingasecondbrain.com/) - ***Forte Labs, LLC***. Connecting ideas in graphs.
+
+* [Zotero](https://www.zotero.org/) - ***Digital Scholar***. For reference management to manage bibliographic data and research related materials.
 
 * [Niklas Luhmann's Card Index: Thinking Tool, Communication Partner, Publication Machine](https://pdfs.semanticscholar.org/88f8/fa9dfbc0c2b296758dd932b871917c5c775a.pdf%C2%A0) - ***Forgetting Machines: Knowledge Management Evolution in Early Modern Europe, Brill***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=1786807670077004336&hl=en&as_sdt=0,5)].
 
@@ -1154,6 +1160,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 * [Causal Reasoning](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195376746.001.0001/oxfordhb-9780195376746-e-46) - ***The Oxford Handbook of Cognitive Psychology***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5)].
 
+* [Reasoning with cause and effect](https://ftp.cs.ucla.edu/pub/stat_ser/R265.pdf) - 1998. Judea Pearl's tutorials on causal reasoning with operations on Bayesian networks.
+
 * [The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3241036) - ***Communications of the ACM***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=13296019510897277617&hl=en&as_sdt=0,5)]. Judea Pearl's review on causal inference in probabilistic graph models.
 
 * [Toward Causal Representation Learning](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/toward_causal_representation_learning.pdf) - ***Proceedings of the IEEE***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15629454810797806102&hl=en&as_sdt=0,5)]. Yoshua Bengio's review on the perspective of treating causal inference as a representation learning problem.
@@ -1620,17 +1628,19 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 
 ### Stanford
 
-* [Noah Goodman](https://cocolab.stanford.edu/ndg.html) - ***Stanford***, [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***Department of Psychology, Department of Computer Science, Stanford***.
+* [Li Fei-Fei](https://profiles.stanford.edu/fei-fei-li) - ***Computer Science Department, Human-Centered AI Institute, Stanford***, [Stanford Vision and Learning Lab](https://svl.stanford.edu/) - ***Stanford***.
+
+* [Noah Goodman](https://cocolab.stanford.edu/ndg.html) - ***Stanford***, [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***Department of Psychology, Computer Science Department, Stanford***.
 
 * [Michael Frank](https://web.stanford.edu/~mcfrank/) - ***Stanford***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***Department of Psychology, Stanford***.
 
 * [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) - ***Stanford***, [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/) - ***Department of Psychology, Stanford***.
 
-* [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) - ***Stanford***, [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***Department of Computer Science, Stanford***.
+* [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) - ***Stanford***, [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***Computer Science Department, Stanford***.
 
 * [Jeremy Bailenson](https://comm.stanford.edu/faculty-bailenson/) - ***Department of Communication, Stanford***, [Virtual Human Interaction Lab (VHIL)](https://stanfordvr.com/) - ***Stanford***.
 
-* [Jiajun Wu](https://jiajunwu.com/) - ***Department of Computer Science, Stanford***.
+* [Jiajun Wu](https://jiajunwu.com/) - ***Computer Science Department, Stanford***.
 
 
 ### Princeton
@@ -1647,6 +1657,8 @@ Obviously this reading list is far from covering the every aspect of AGI and CoC
 * [Tomer Ullman](https://www.tomerullman.org/) - ***Harvard***, [Computation, Cognition, and Development Lab (CoCoDev)](https://cocodev.fas.harvard.edu/) - ***Department of Psychology, Harvard***.
 
 * [Samuel Gershman](https://psychology.fas.harvard.edu/people/samuel-j-gershman) - ***Harvard***, [Computational Cognitive Neuroscience Lab (CCN Lab)](https://gershmanlab.com/) - ***Department of Psychology, Harvard***.
+
+* [Fiery Cushman](https://psychology.fas.harvard.edu/people/fiery-cushman) - ***Department of Psychology, Harvard***, [Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/) - ***Harvard***.
 
 
 ### UCLA

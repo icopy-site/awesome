@@ -37,6 +37,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 - [Practical Introduction to Wardley Mapping](https://leanpub.com/practicalintroductiontowardleymapping) - A step-by-step guide to creating and using Wardley Maps by [E. Alex Hudson](https://twitter.com/ealexhudson). PDF/iPad/Kindle.
 - [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu, Boyd & Wardley on situational awareness, OODA "Loops" and Wardley mapping by [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud](https://www.goodreads.com/book/show/53503300-reaching-cloud-velocity) - Chapter 2.3 Mapping Your Way Through.
+- [Draw your company strategy: A practical workbook for mapping business strategy](https://www.amazon.com/-/es/Joaqu%C3%ADn-Pe%C3%B1a-Fern%C3%A1ndez/dp/B09QFJ4QDG/) - Visual cards reviewing concepts as user needs, climatic patterns, doctrines, gameplays. Revision of concepts, examples and other strategy topics.
 
 ## Videos
 
@@ -61,6 +62,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
 - [Zalando, a Wardley map about how they play the game](https://joapen.com/blog/2021/09/16/zalando-a-wardley-map-about-how-they-play-the-game/) - By Joaquín Peña Fernández. Sep 16, 2021.
 - [Those virtual battlegrounds…](https://swardley.medium.com/those-virtual-battlegrounds-feb3da18e0f0) - Why video games will become a new battleground for the soul of a country by Simon Wardley. Sep 8, 2021.
+- [Skills as a System](https://www.linkedin.com/pulse/skills-system-guy-dickinson/) the way we use job rolesis prone to bias, blocks innovation, and slows down organisations. by Guy Dickinson. June 13, 2021
 - [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a) - Look before you leap by Simon Wardley. Oct 22, 2020.
 - [How to use Wardley Mapping to understand how you deliver customer value](https://medium.com/@stephanwillemse/how-to-use-wardley-mapping-to-understand-how-you-deliver-customer-value-43abdad264cf) - Sep 15, 2020.
 - [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/) - A conversation with Simon Wardley. Aug 4, 2020.

@@ -14,22 +14,17 @@ Official projects and resources of MDBootstrap.
 Free
 
 - [MDB Standard Free](https://mdbootstrap.com/docs/standard/) - Free to download, open-source Bootstrap 5 UI Kit.
-- [MDB Angular Free](https://mdbootstrap.com/docs/b5/angular/) - Bootstrap 5 & Angular 11 Free UI KIT with Material Design.
-- [MDB React Free](https://mdbootstrap.com/docs/b5/react/) - Bootstrap 5 & React 17 Free UI KIT with Material Design.
-- [MDB Vue Free](https://mdbootstrap.com/docs/b5/vue/) - Bootstrap 5 & Vue 3 Free UI KIT with Material Design.
+- [MDB Angular Free](https://mdbootstrap.com/docs/angular/) - Bootstrap 5 & Angular 11 Free UI KIT with Material Design.
+- [MDB React Free](https://mdbootstrap.com/docs/react/) - Bootstrap 5 & React 17 Free UI KIT with Material Design.
+- [MDB Vue Free](https://mdbootstrap.com/docs/vue/) - Bootstrap 5 & Vue 3 Free UI KIT with Material Design.
 
 Pro
 
 - [MDB Standard Pro](https://mdbootstrap.com/docs/standard/pro/) - Premium UI Kit for the latest Bootstrap 5. Lifetime usage of 5000+ premium components, thousands of templates, plugins, design blocks.
-- [MDB Angular Pro](https://mdbootstrap.com/docs/b5/angular/pro/) - Material Design for Bootstrap 5 with Angular.
-- [MDB React Pro](https://mdbootstrap.com/docs/b5/react/pro/) - Material Design for Bootstrap 5 with React.
-- [MDB Vue Pro](https://mdbootstrap.com/docs/b5/vue/pro/) - Material Design for Bootstrap 5 with Vue.
+- [MDB Angular Pro](https://mdbootstrap.com/docs/angular/pro/) - Material Design for Bootstrap 5 with Angular.
+- [MDB React Pro](https://mdbootstrap.com/docs/react/pro/) - Material Design for Bootstrap 5 with React.
+- [MDB Vue Pro](https://mdbootstrap.com/docs/vue/pro/) - Material Design for Bootstrap 5 with Vue.
 
-Mobile
-
-- [MDB Angular Mobile](https://mdbootstrap.com/docs/angular/mobile/) - Based on the latest NativeScript-Angular version.
-- [MDB React Mobile](https://mdbootstrap.com/docs/react/mobile/) - Based on the latest React Native 0.61 version.
-- [MDB Vue Mobile](https://mdbootstrap.com/docs/vue/mobile/) -  Based on the latest NativeScript-Vue 2.4.0 version.
 
 ## Community
 
@@ -50,8 +45,15 @@ Official projects and resources of MDBootstrap.
 
 Contribute to the community and share your technical knowledge - or just read the articles written by others.
 
-- [Technology comparision](https://mdbootstrap.com/docs/technology-comparison/) - What will be the best JavaScript framework in 2021?
+- [Technology comparision](https://mdbootstrap.com/docs/technology-comparison/) - What will be the best JavaScript framework in 2022?
 - [Articles](https://mdbootstrap.com/articles/) - Contribute to the community and share your technical knowledge - or just read the articles written by others.
+
+## Rankings
+
+- [UI Kits & Themes](https://mdbootstrap.com/publications/ui-kits/) - Bootstrap, Angular, React, Vue UI Kits.
+- [Free Bootstrap Templates & Themes](https://mdbootstrap.com/publications/free-templates/) - Stunning, Responsive Material Design Themes.
+- [Premium Bootstrap Templates & Themes](https://mdbootstrap.com/publications/templates/) - Blog, Portfolio, eCommerce, Magazine, Admin Angular & React & Vue Templates.
+- [Backend Bootstrap Templates & Themes](https://mdbootstrap.com/publications/backend/) - Jamstack, PHP, MySQL, Python, NodeJS, Tailwind, Laravel Backend Integrations UI Kits.
 
 ## Tools
 
