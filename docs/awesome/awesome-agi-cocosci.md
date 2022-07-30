@@ -270,7 +270,7 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](http
 
 
 ### Bayesian Modeling
-<span id = "bayesian-induction"></span>
+
 #### Bayesian Induction
 
 * [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/) - ***Plato Stanford***. A computational philosophy account on the nature of uncertainty modeling in Bayesian Epistemology.

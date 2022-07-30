@@ -81,6 +81,7 @@ _Studies and research on the Svelte framework._
 - [modular-css](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Preprocessor support for modular-css.
 - [svelte-preprocess-postcss](https://github.com/TehShrike/svelte-preprocess-postcss) - Use PostCSS to preprocess your styles in Svelte components.
 - [svelte-preprocess-sass](https://github.com/ls-age/svelte-preprocess-sass) - Preprocessor for sass.
+- [svelte-switch-case](https://github.com/l-portet/svelte-switch-case) - Switch case syntax for Svelte.
 
 ### Mobile
 
@@ -98,6 +99,7 @@ _UI frameworks for mobile._
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
 - [attractions](https://github.com/illright/attractions) - A pretty cool and modern UI kit
 - [svelte-chota](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
+- [ionic-svelte](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 
 ## UI Components
 
@@ -117,6 +119,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) - Toast notifications component that can be used in any JS application.
 - [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
 - [@zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
+- [svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
 
 ### Grid
 
@@ -130,6 +133,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
 - [svelte-icons](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
 - [svelte-heroicons](https://github.com/krowten/svelte-heroicons) - Icons, crafted by the creators of Tailwind CSS.
+- [svelte-icomoon](https://github.com/aykutkardas/svelte-icomoon) - It makes it very simple to use SVG icons in your Svelte projects.
 
 ### Calendar
 
@@ -196,6 +200,7 @@ _SSR framework._
 
 ### Animations
 
+- [AutoAnimate](https://auto-animate.formkit.com/) - A zero-config, drop-in animation utility that adds smooth transitions to your Svelte app.
 - [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 
 ### Form
