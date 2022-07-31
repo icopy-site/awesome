@@ -695,7 +695,6 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](http
 * [Inverse Constrained Reinforcement Learning](https://proceedings.mlr.press/v139/malik21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Inverse+Constrained+Reinforcement+Learning+S+Malik&btnG=)].
 
 
-<span id = "nsl"></span>
 ### System 1 & System 2
 
 #### Dual-Coding Theory

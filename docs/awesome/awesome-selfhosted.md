@@ -351,7 +351,7 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 **[`^        back to top        ^`](#)**
 
-[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software
+[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software.
 
 - [Convos](https://convos.chat/) - Always online web IRC client. ([Demo](https://convos.chat/#instant-demo), [Source Code](https://github.com/nordaaker/convos)) `Artistic-2.0` `Perl`
 - [Dispatch](https://github.com/khlieng/dispatch) - Self-hosted web IRC client written in Go. `MIT` `Go`
@@ -373,7 +373,7 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 **[`^        back to top        ^`](#)**
 
-[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software
+[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software.
 
 - [Asterisk](https://www.asterisk.org/) - Easy to use but advanced IP PBX system, VoIP gateway and conference server. `GPL-2.0` `C`
 - [ASTPP](https://www.astppbilling.org/) - VoIP Billing Solution for Freeswitch. It supports prepaid and postpaid billing with call rating and credit control. It also provides many other features. ([Source Code](https://github.com/iNextrix/ASTPP)) `AGPL-3.0` `PHP`
@@ -395,7 +395,7 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 **[`^        back to top        ^`](#)**
 
-[Social Networking](https://en.wikipedia.org/wiki/Social_networking_service) and [Forum](https://en.wikipedia.org/wiki/Internet_forum) software
+[Social Networking](https://en.wikipedia.org/wiki/Social_networking_service) and [Forum](https://en.wikipedia.org/wiki/Internet_forum) software.
 
 - [Abilian SBE](https://github.com/abilian/abilian-sbe) - Open Source Collaboration and Social Networking framework and platform. `LGPL-2.1` `Python`
 - [Anahita](https://www.getanahita.com/) - Open Source Social Networking Framework and Platform. ([Source Code](https://github.com/anahitasocial)) `GPL-3.0` `PHP`
@@ -459,7 +459,7 @@ Mailing lists servers and mass mailing software - one message to many recipients
 
 **[`^        back to top        ^`](#)**
 
-[Video / Web Conferencing](https://en.wikipedia.org/wiki/Web_conferencing) tools and software
+[Video/Web Conferencing](https://en.wikipedia.org/wiki/Web_conferencing) tools and software.
 
 _Related: [Conference Management](#conference-management)_
 
@@ -475,7 +475,7 @@ _Related: [Conference Management](#conference-management)_
 
 **[`^        back to top        ^`](#)**
 
-[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) software
+[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) software.
 
 
 ### Communication - XMPP - Servers
@@ -508,7 +508,7 @@ _Related: [Conference Management](#conference-management)_
 
 **[`^        back to top        ^`](#)**
 
-Management and administration tools for community supported agriculture and food cooperatives
+Management and administration tools for community supported agriculture and food cooperatives.
 
 _Related: [E-commerce](#e-commerce)_
 
@@ -1225,7 +1225,6 @@ _See also: [awesome-sysadmin/IT Asset Management](https://github.com/awesome-fos
 
 _Related: [Wikis](#wikis)_
 
-- [BulletNotes](https://bulletnotes.io/) - Workflowy / Dynalist clone with Kanban (Trello) and Calendar functionality. Organize everything. ([Source Code](https://gitlab.com/NickBusey/BulletNotes)) `MIT` `Nodejs`
 - [DailyNotes](https://github.com/m0ngr31/DailyNotes) - App for taking notes and tracking tasks on a daily basis in Markdown. `MIT` `Python`
 - [dillinger](https://dillinger.io/) - The last Markdown editor, ever. ([Source Code](https://github.com/joemccann/dillinger)) `MIT` `Nodejs`
 - [Dnote](https://www.getdnote.com) - A simple command line notebook with multi-device sync and web interface. ([Source Code](https://github.com/dnote/dnote)) `AGPL-3.0` `Go`
@@ -1567,7 +1566,7 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 **[`^        back to top        ^`](#)**
 
-[Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing)
+[Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing).
 
 - [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `PHP`
 - [fx](https://github.com/metrue/fx) - A tool to help you do Function as a Service with painless on your own servers. `MIT` `Go`

@@ -98,6 +98,7 @@ Various software and tools.
   - [eosrio/simpleos](https://github.com/eosrio/simpleos) - Official GitHub.
 - [EOS Authority Web Wallet](https://eosauthority.com/dashboard)
 - [eoscanada/eosc](https://github.com/eoscanada/eosc)
+- [Wax Cloud Wallet](https://all-access.wax.io/)
 
 #### Mobile
 
@@ -153,6 +154,8 @@ All about development on EOSIO platform.
 - [The EOSIO Testnet](https://testnet.eos.io/) - Block.one's official EOSIO Testnet. Test on fully-featured EOSIO stable releases.
 - [Jungle Testnet](https://jungletestnet.io/) - The Jungle TestNet was initiated by and has served as sandbox for many development teams and EOS Block Producers since the birth of EOSIO.
 - [CryptoKylin Testnet](https://www.cryptokylin.io/) - CryptoKylin Testnet is a developer-friendly testnet maintained by a group of EOS Mainnet Block Producers.
+- [Wax Testnet](https://wax-testnet.eosio.online/) - Wax's official Testnet. 
+  - [Account Creation and Faucet](https://waxsweden.org/testnet/) - Wax Sweden's testnet page.
 
 ### Libraries and Frameworks
 
@@ -196,6 +199,7 @@ All about development on EOSIO platform.
 - [greymass/anchor-link](https://github.com/greymass/anchor-link) - Persistent, fast and secure signature provider for EOSIO chains built on top of EOSIO Signing Requests (EEP-7).
 - [greymass/eosio-signing-request](https://github.com/greymass/eosio-signing-request) - Library to assist in creating and digesting EOSIO Signing Requests (ESR).
 - [greymass/eosio-signing-request-java](https://github.com/greymass/eosio-signing-request-java) - Java wrapper for the EOSIO Signing Request protocol.
+- [eosdac/ual-wax](https://github.com/eosdac/ual-wax) - UAL authenticator for Wax Cloud Wallet.
 
 #### History
 
