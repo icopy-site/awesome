@@ -113,6 +113,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 
 ## GUI
+* [capy-ui/capy](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
 * [andrewrk/zig-sdl](https://github.com/andrewrk/zig-sdl) - Self-contained SDL2 package for Zig.
 * [Snektron/vulkan-zig](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
 * [Avokadoen/zig_vulkan](https://github.com/Avokadoen/zig_vulkan) - Toy renderer using Vulkan and GLFW.

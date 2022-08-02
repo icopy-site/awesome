@@ -42,7 +42,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [tdengine-orm](https://github.com/Yurunsoft/tdengine-orm) - TDengine ORM based on tdengine-restful-connector & php-tdengine.<!--lint ignore awesome-list-item-->
 - [crown](https://github.com/machine-w/crown) - crown is a simple and small ORM for TDengine.
 - [APIJSON](https://github.com/Tencent/APIJSON) - A JSON Transmission Protocol and an ORM Library for providing APIs and Docs without writing any code.
-
+- [ZORM](https://gitee.com/chunanyong/zorm) - ORM support TDenging by Go.
 ## Connector
 
 - [PDO_TAOS](https://github.com/bearlord/pdo_taos) - TDengine driver for PDO.
