@@ -1,7 +1,10 @@
 <div class="github-widget" data-repo="bcoe/awesome-cross-platform-nodejs"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/master/logo.svg?sanitize=true" width="500"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo_dark.svg?sanitize=true"/>
+    <img alt="awesome-cross-platform-nodejs logo" src="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/master/logo.svg?sanitize=true" width="500"/>
+  </picture>
   <br>
   <a href="https://awesome.re">
 	  <img src="https://awesome.re/badge.svg" alt="Awesome">
@@ -102,6 +105,7 @@
 
 - [fkill](https://github.com/sindresorhus/fkill) - Kill processes. Cross-platform.
 - [signal-exit](https://github.com/tapjs/signal-exit) - Cross-platform `exit` handler.
+- [human-signals](https://github.com/ehmicky/human-signals) - Human-friendly process signals.
 
 ### Processes
 

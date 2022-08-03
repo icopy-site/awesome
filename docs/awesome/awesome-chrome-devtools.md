@@ -10,7 +10,7 @@
 
 ## Learning
 - [Dev Tips](https://umaar.com/dev-tips/) - Large collection of tips as animated gifs.
-- [DevTools Snippets](https://github.com/bahmutov/code-snippets) - Collection of snippets.
+- [DevTools Tips](https://devtoolstips.org/) - Collection of illustrated tips as mini tutorials.
 - [Can I DevTools?](https://www.canidev.tools/) - Various workflows, documented.
 
 ---
