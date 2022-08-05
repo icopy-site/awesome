@@ -17,7 +17,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [EtherCIS](http://ethercis.org) - Enterprise Clinical Data Repository.
   * [FreeMedForms EMR](https://freemedforms.com/fr/start) - Electronic Medical Record software.
   * [HospitalRun](https://hospitalrun.io) - Helps provide the most modern Hospital Information System possible to the least resourced environments.
-  * [Hospital OS](http://www.hospital-os.com) - Thai Hospital Information System.
   * [HOSxP](https://hosxp.net/joomla25/) - Thai Hospital Information System that aims to ease the healthcare workflow of health centers and central hospitals.
   * [LibreHealth EHR](https://librehealth.io/projects/lh-ehr/) - Clinically-focused Electronic Health Record System.
   * [MedinTux](https://medintux.org/) - French Medical Practice Management System.
@@ -66,6 +65,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [ITK](https://itk.org/) - Toolkit used for the development of image segmentation and image registration programs with leading-edge algorithms in 2 and 3 dimensions.
   * [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php) - Interactive software for 3 dimensional image navigation, annotation, and automatic segmentation with an emphasis on user-friendliness.
   * [LibreHealth Radiology](https://librehealth.io/projects/lh-radiology/) - Customized version of LibreHealth Toolkit with additional tools for radiology and imaging professionals.
+  * [Kaapana](https://github.com/kaapana/kaapana) - Open source toolkit for state of the art platform provisioning in the field of medical data analysis.
   * [OHIF](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
   * [OpenREM](https://openrem.org/) - Radiation Exposure Monitoring for physicists.
   * [Orthanc](https://www.orthanc-server.com) - Lightweight DICOM server for healthcare and medical research.
@@ -90,8 +90,8 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [FHIR Proxy](https://github.com/microsoft/fhir-proxy) - secure application that acts as an intermediary in the transfer of FHIR data to and from Azure API.
   * [FHIR Works on AWS](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR Works on AWS deployment.
   * [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
-  * [IBM FHIR Server](https://github.com/IBM/FHIR) - Modular Java implementation of version 4 of the HL7 FHIR specification.
   * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
+  * [LinuxForHealth FHIR Server](https://github.com/LinuxForHealth/FHIR) - Modular Java implementation of version 4 of the HL7 FHIR specification.
   * [Opal](https://opal.openhealthcare.org.uk/) - Framework for building clinical applications.
   * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - Software framework that makes it easy to create apps for medical research or for other research projects.
   * [Spark](https://github.com/FirelyTeam/spark) - Public domain FHIR server developed in C#.
@@ -101,7 +101,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Libraries
   * [Android FHIR SDK](https://github.com/google/android-fhir) - The Android FHIR SDK 
   * [Archie](https://github.com/openehr/archie) - OpenEHR Library written in Java.
-  * [Asymmetrik FHIR API Server](https://github.com/Asymmetrik/node-fhir-server-core) - A secure REST implementation for the HL7 FHIR Specification.
+  * [Asymmetrik FHIR API Server](https://github.com/bluehalo/node-fhir-server-core) - A secure REST implementation for the HL7 FHIR Specification.
   * [Datamol](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
   * [dicom](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
@@ -122,6 +122,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [pynetdicom](https://github.com/pydicom/pynetdicom) - A Python implementation of the DICOM networking protocol.
   * [Python HL7](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
   * [Python SMART on FHIR client](https://github.com/smart-on-fhir/client-py) - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol.
+  * [Python 835 Parser](https://github.com/keironstoddart/edi-835-parser) - A simple-to-use Python interface to EDI 835 Health Care Claim Payment and Remittance Advice files.
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
   * [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.

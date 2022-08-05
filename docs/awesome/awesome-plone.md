@@ -5,19 +5,18 @@
 <!--lint ignore double-link-->
 [<img align="right" src="https://raw.githubusercontent.com/collective/awesome-plone/master/logo.png" height="64">](https://plone.org)
 
-> A community-curated list of _awesome_ Plone add-ons. From developers for developers.
+> A community-curated list of _awesome_ Plone add-ons.
 
 <!--lint ignore double-link-->
 [Plone](https://plone.org) is a open source CMS written in Python with a focus on functionality, customizability and security out of the box.
 
-If you want to know if there is already a add-on for Plone that fits your needs, searching for it on GitHub or pypi can be a real pain.
-There are plenty of add-ons, but it's hard to understand which one could be a good solution or not.
+There are over [3000 add-ons for Plone on pypi](https://pypi.org/search/?q=&o=&c=Framework+%3A%3A+Plone) and over 1500 repositories in the [collective](https://github.com/collective/). If you want to know if there is already a add-on for Plone that fits your needs, searching for it on GitHub or pypi can be hard. It's hard to understand which one could be a good solution or not.
 
 This list is intended to fill that gap, and create a shared knowledge about common products and techniques.
 
-This list only covers add-ons and resources that work with the latest major versions of Plone (currently 5.2 and 6) and only those that support Python 3.
+This list only covers add-ons that work with the latest major versions of Plone (currently 5.2 and 6) and only those that support Python 3.
 
-Plone 6 comes with a new default frontend called Volto, which is written in React and uses plone.restapi to communicate with Plone. Volto is very extendable in itself. Checkout the [awesome-volto list](https://github.com/collective/awesome-volto) for add-ons to Volto.
+Plone 6 comes with a new default frontend called Volto, which is written in React and uses `plone.restapi` to communicate with Plone. Volto is very extendable in itself. Checkout the [awesome-volto list](https://github.com/collective/awesome-volto) for add-ons to Volto.
 
 
 
@@ -171,6 +170,37 @@ _Add-ons that help admins deploying and maintaining Plone_
 * [dm.historical](https://pypi.org/project/dm.historical) - Access any historical state of your database. Can be useful to find out what happened to objects in the past and to restore accidentally deleted or modified objects.
 * [haufe.requestmonitoring](https://github.com/collective/haufe.requestmonitoring) - Detailed request logging functionality on top of the publication events. Useful to find out what takes longer than it should.
 
+
+## Finding more add-ons
+
+It can be hard to find the right add-on for your requirements.
+Here are some tips:
+
+* Make a list of required features.
+* Look in this list first.
+* Search pypi: https://pypi.org/search/?c=Framework+%3A%3A+Plone
+* Search the collective organization on github: https://github.com/collective
+* Search the plone organization on github: https://github.com/plone
+* Google for your requirements
+
+Once you have a shortlist, test these add-ons. Here are the main issues you need to test before you install an add-on on a production site:
+
+* Test all required features. Read but do not trust the documentation
+* Check if the add-on runs on your required version
+* Check if it is maintained
+* Does it have i18n-support, i.e. is the user-interface translated to your language?
+* Does it uninstall cleanly?
+* Check for unwanted dependencies
+
+Once you found an add-on you like, you can ask the community if you made a good choice or if you missed something:
+
+* Message Board: https://community.plone.org
+
+If you can't find something that fits your requirements 100% you can:
+
+* Adapt your requirements to what is available.
+* Invest the time & money to customize an existing add-ons to better fit your needs.
+* Create a new add-on that does exactly what you need.
 
 ## Official resources
 

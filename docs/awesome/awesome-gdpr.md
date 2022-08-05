@@ -84,6 +84,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Developers Guide to HIPAA Compliance](https://github.com/truevault/hipaa-compliance-developers-guide)
 * [Analytics without cookies](https://www.gocookieless.com/)
 * [European web analytics services](https://european-alternatives.eu/category/web-analytics-services)
+* [EU Alternatives](https://dasprive.be/eu-alternatives/)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
