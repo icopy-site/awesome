@@ -83,6 +83,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) - Learn generative art and Processing with art with Joshua Davis.
 - [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/) - Workshop by Matt DesLauriers. that teaches you about generative art, interactive animations, 3D graphics, and shaders.
 - [Advanced Creative Coding with WebGL & Shaders](https://frontendmasters.com/courses/webgl-shaders/) - Workshop by Matt DesLauriers that go deeper into graphics programming, math and shaders.
+- [Three.js Journey](https://threejs-journey.com/) - This course by Bruno Simon will teach you the secrets to create the coolest WebGL websites with Three.js whether your are a beginner or an advanced developer.
 
 ## Tools
 
@@ -116,7 +117,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Vuo](http://vuo.org/) [Mac] - Live interactive-media programming environment.
 - [Max](https://cycling74.com/products/max/) [Mac, Win] - Visual programming language for media.
 - [Pure Data](https://puredata.info/) [Cross-platform] - Open source visual programming language for multimedia.
-- [i-score](http://www.i-score.org) [Cross-platform] - Interactive sequencer to control creative coding libraries and toolkits.
+- [ossia score](https://ossia.io) [Cross-platform] - Interactive, intermedia audio-visual sequencer.
 - [tooll](http://tooll.io/) [Win] - Open source tool for creating interactive 3d content and animations.
 - [XOD](https://xod.io/) [Cross-platform] - Open source visual programming language and environment for microcontroller-based projects.
 - [Isadora](https://troikatronix.com) [Cross-platform] - Scene based media control software with integrated projection mapper.
@@ -135,7 +136,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Sonic Pi](http://sonic-pi.net/) - The live coding music synth for everyone.
 - [Csound](https://csound.com/) - A sound and music computing system.
 - [Orca](https://100r.co/pages/orca.html) - Live coding environment to quickly create procedural sequencers.
-- [handel](https://handel-pl.github.io/) - A small procedural programming language for writing songs in browser. 
+- [handel](https://handel-pl.github.io/) - A small procedural programming language for writing songs in browser.
+- [Melrōse](https://melrōse.org/) - A MIDI producing environment for creating (live) music.
 
 ### Web Programming • Libraries
 
@@ -181,6 +183,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 ### Online
 
 - [Shadertoy](https://www.shadertoy.com/) - Build and share shaders with the world and get inspired.
+- [Shader Park](https://shaderpark.com/) - A JavaScript library for creating interactive procedural 2D and 3D shaders.
 - [GLSLbin](http://glslb.in/) - Fragment shader sandbox with support for glslify.
 - [GLSL Sandbox](http://glslsandbox.com/) - Online shader editor and gallery.
 - [Shdr Editor](http://shdr.bkcore.com/) - Online shader editor.
