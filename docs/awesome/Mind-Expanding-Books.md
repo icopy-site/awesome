@@ -40,6 +40,7 @@
 | Nail it then Scale it: The Entrepreneur's Guide to Creating and Managing Breakthrough | Nathan Furr | [4.13](https://www.goodreads.com/book/show/12236649-nail-it-then-scale-it) | 2011 |
 | Outliers: Story of Success | Malcolm Gladwell | [4.11](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) | 2008 |  
 | The Strategy and Tactics of Pricing : A Guide to Move More Profitable | Thomas Nagle, John Hogan, Joseph Zale | [4.09](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) | 2005 |  
+| Principles: Life and Work | Ray Dalio | [4.07](https://www.goodreads.com/book/show/34536488-principles) | 2017 |
 | Start with Why: How Great Leaders Inspire Everyone to Take Action | Simon Sinek | [4.07](https://www.goodreads.com/book/show/7108725-start-with-why) | 2009 |  
 | Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children | John Wood | [4.07](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) | 2006 |  
 | Hackers and Painters | Paul Graham | [4.06](https://www.goodreads.com/book/show/41793.Hackers_Painters) | 2004 |  
@@ -350,7 +351,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|
 | Educated: A Memoir | Tara Westover| [4.47](https://www.goodreads.com/book/show/35133922-educated) | 2018 |
 | Mindstorms: Children, Computers, And Powerful Ideas | Seymour A. Papert | [4.32](https://www.goodreads.com/book/show/703532.Mindstorms) | 1993 |  
-| The Little Prince | Antoine de Saint-Exupéry | [4,31](https://www.goodreads.com/book/show/71091.Il_piccolo_principe) | 1943 |
+| The Little Prince | Antoine de Saint-Exupéry | [4.31](https://www.goodreads.com/book/show/71091.Il_piccolo_principe) | 1943 |
 | How Children Fail | John Holt | [4.22](https://www.goodreads.com/book/show/573009.How_Children_Fail) | 1995 |  
 | Deep Work: Rules for Focused Success in a Distracted World | Cal Newport | [4.20](https://www.goodreads.com/book/show/25744928-deep-work) | 2016 |
 | Make It Stick: The Science of Successful Learning | Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel | [4.20](https://www.goodreads.com/book/show/18770267.make-it-stick) | 2014 |

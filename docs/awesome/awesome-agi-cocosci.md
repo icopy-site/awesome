@@ -30,6 +30,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](http
 
 * [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) - ***MIT***. Armando Solar-Lezama's elementary course on program synthesis.
 
+* [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/) - ***MIT***. [[Book: SICP](https://web.mit.edu/6.001/6.037/sicp.pdf)]. Classic course on applying structural, procedural, and meta-linguistic abstraction to solve computational problems.
+
 
 ### Programming
 
@@ -1393,6 +1395,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](http
 * [A probabilistic model of theory formation](http://www.charleskemp.com/papers/kemptng09.pdf) - ***Cognition***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=7705799129887482041&hl=en&as_sdt=0,5)].
 
 * [Bootstrapping in a language of thought: A formal model of numerical concept learning](https://core.ac.uk/display/78064072) - ***Cognition***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=13046606910781656302&hl=en&as_sdt=0,5)].
+
+* [Concepts in a Probabilistic Language of Thought](http://cbmm-dev.mit.edu/sites/default/files/publications/CBMM-Memo-010.pdf) - ***Center for Brains, Minds, and Machines MEMO No.010***, 2014. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14593712389828476130)].
 
 * [Exploring the Conceptual Universe](http://www.charleskemp.com/papers/kemp_exploringtheconceptualuniverse.pdf) - ***Psychological Review***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=17824067813343816306&hl=en&as_sdt=0,5)].
 
