@@ -216,6 +216,7 @@ Neovim supports a wide variety of UI's.
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
 - [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) - Focus only the function your cursor is in.
 - [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
+- [lcheylus/overlength.nvim](https://github.com/lcheylus/overlength.nvim) - A small plugin to highlight too long lines.
 
 ### Colorscheme Creation
 
@@ -305,6 +306,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [meliora-theme/neovim](https://github.com/meliora-theme/neovim) - Warm and cozy theme for Neovim.
 - [Yazeed1s/minimal.nvim](https://github.com/yazeed1s/minimal.nvim) - Two tree-sitter supported colorschemes that are inspired by base16-tomorrow-night and monokai-pro.
 - [lewpoly/sherbet.nvim](https://github.com/lewpoly/sherbet.nvim) - A soothing colorscheme with support for popular plugins and tree-sitter.
+- [kaiuri/github-vscode-theme.nvim](https://github.com/kaiuri/github-vscode-theme.nvim) - Port of [GitHub's VS Code themes](https://github.com/primer/github-vscode-theme) to Neovim with Tree-sitter support.
 
 #### Lua Colorscheme
 

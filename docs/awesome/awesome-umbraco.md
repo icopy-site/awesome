@@ -15,8 +15,9 @@ Please read the [contribution guidelines and quality standard](https://github.co
 Thank you to all [contributors](https://github.com/umbraco-community/awesome-umbraco/graphs/contributors), you are awesome and this list wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 ### Versions
-This list is for Umbraco v9 packages. However, we also have lists for older versions! Check them out too.
+This list is for Umbraco v10 packages. However, we also have lists for older versions! Check them out too.
 
+[![UmbracoV9](https://img.shields.io/badge/Umbraco-v9-blue)](https://github.com/umbraco-community/awesome-umbraco/blob/master/UMBRACO-V9.md)
 [![UmbracoV8](https://img.shields.io/badge/Umbraco-v8-blue)](https://github.com/umbraco-community/awesome-umbraco/blob/master/UMBRACO-V8.md)
 [![UmbracoV7](https://img.shields.io/badge/Umbraco-v7-blue)](https://github.com/umbraco-community/awesome-umbraco/blob/master/UMBRACO-V7.md)
 
@@ -53,17 +54,19 @@ Please note * indicates that the package is commercial or may require a license 
 * [SimpleRedirects](https://our.umbraco.com/packages/backoffice-extensions/simpleredirects/) - Redirects manager for Umbraco.
 * [Newsletter Studio*](https://our.umbraco.com/packages/backoffice-extensions/newsletter-studio-the-email-studio/) - Responsive email editor to create emails for all clients.
 * [Backoffice Themes](https://our.umbraco.com/packages/backoffice-extensions/backoffice-themes/) - Allows choosing your own themes for in the backoffice.
-* [MemberListView](https://our.umbraco.com/packages/backoffice-extensions/memberlistview/) - Adds a dashboard for the members area for easier management.
 
 ### Form Builders
 
-* [Umbraco Forms*](https://umbraco.com/products/umbraco-forms/) - The new Contour, use this to add forms to your site. **(Developed by Umbraco HQ)**
+* [Umbraco Forms*](https://umbraco.com/products/umbraco-forms/) - A package to easily add customisable forms to your website. **(Developed by Umbraco HQ)**
 
 ### Property Editors
 
-* [Meganav](https://our.umbraco.com/packages/backoffice-extensions/umbnav/) - A flexible, draggable link picker for constructing site navigation menus, big or small.
-* [Switcher](https://our.umbraco.org/projects/backoffice-extensions/switcher/) - A simple property editor that works as an alternative to the core true/false datatype.
-* [Open or closed](https://our.umbraco.com/packages/backoffice-extensions/open-or-closed/) - Property editor to allow setting up business hours.
+* [Meganav](https://our.umbraco.com/packages/website-utilities/meganav/) - A flexible, draggable link picker for constructing site navigation menus, big or small.
+
+### SEO Tools
+
+* [SEO Checker*](https://soetemansoftware.nl/seo-checker) - find common SEO issues in your Umbraco website.
+* [SeoToolkit](https://our.umbraco.com/packages/backoffice-extensions/seotoolkit/) - Package that provides SEO features like meta fields, redirects, etc.
 
 ## Developer tools
 
@@ -71,6 +74,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [Diplo God Mode](https://our.umbraco.com/packages/developer-tools/diplo-god-mode/) - Exposes a lot of information for developers.
 * [DateFolders](https://our.umbraco.com/packages/developer-tools/datefolders/) - Creates Datefolders (year/month(/day)) for the specified doctype for Umbraco
 * [AlphabetFolders](https://our.umbraco.com/packages/developer-tools/alphabetfolders/) - Creates AlphabetFolders for the specified doctype for Umbraco
+* [Konstrukt*](https://our.umbraco.com/packages/backoffice-extensions/konstrukt/) - Backoffice UI builder through code.
 
 ### Deployment
 
@@ -85,13 +89,11 @@ Please note * indicates that the package is commercial or may require a license 
 
 ## Website Utilities
 
-* [InboundLinkErrors](https://our.umbraco.com/packages/website-utilities/inbound-link-errors/) - Tracks 404 responses so you can easily add new redirects.
 * [Full Text Search](https://our.umbraco.com/packages/website-utilities/full-text-search-for-umbraco/) - Fast and easy way to setup search for your website.
 
 ## Code Libraries
 
-* [Skybrud.Umbraco.GridData](https://our.umbraco.org/projects/developer-tools/skybrudumbracogriddata/) - a package for making the Umbraco grid strongly typed.
-
+None yet :(. But if you have any, then please feel free to make a pull request for it!
 
 ---
 

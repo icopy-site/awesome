@@ -7,7 +7,7 @@
 	</div>
 	<br>
 	<br>
-	<h2><a href="https://sindresorhus.com/velja">Check out my latest app — Velja</a></h2>
+	<h2><a href="https://www.producthunt.com/posts/one-thing">Check out my latest app — One Thing</a></h2>
 	<br>
 	<br>
 	<br>

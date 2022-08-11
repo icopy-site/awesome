@@ -24,9 +24,13 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) - Materials for self-paced "Introduction to Quantum Computing" workshop presented at Grace Hopper Celebration 2018 and Hopper x1 Seattle 2019.
 - [Quantum Perceptron](https://github.com/Microsoft/MLADS2018-QuantumML) - Materials for self-paced "Introduction to Quantum Machine Learning" workshop presented at MLADS 2018.
 - [Quantum Classification](https://github.com/microsoft/MLADS2020-QuantumClassification) - Materials for self-paced "Introduction to Quantum Classification" lab presented at MLADS 2020.
+- [Quantum Computing with Microsoft QDK](https://www.manning.com/liveprojectseries/quantum-computing-with-microsoft-qdk) - Manning liveProject series that guides the learner through implementation of a variety of protocols and algorithms using Q# and Microsoft QDK.
 
 ## Books
 - [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Manning, 2021, [Sarah Kaiser](https://www.sckaiser.com/) and [Chris Granade](https://www.cgranade.com/).
+- [Q# Pocket Guide](https://www.oreilly.com/library/view/q-pocket-guide/9781098108854/) - O'Reilly, 2022, Mariia Mykhailova.
+- [Introduction to Quantum Computing with Q# and QDK](https://link.springer.com/book/10.1007/978-3-030-99379-5) - Springer, 2022, Filip Wojcieszyn.
+- [Introducing Microsoft Quantum Computing for Developers](https://link.springer.com/book/10.1007/978-1-4842-7246-6) - Apress, 2022, Johnny Hooyberghs.
 
 ## Videos
 <!--lint ignore double-link-->
@@ -80,6 +84,8 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Microsoft Quantum Blog](https://cloudblogs.microsoft.com/quantum/) - Official blog of Microsoft Quantum team.
 - [Q# Advent Calendar 2018](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2018/) - Collection of Q#-related blog posts.
 - [Q# Advent Calendar 2019](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2019/) - Collection of Q#-related blog posts.
+- [Q# Advent Calendar 2020](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2020/) - Collection of Q#-related blog posts.
+- [Q# Advent Calendar 2021](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2021/) - Collection of Q#-related blog posts.
 - [The Hitchhiker's Guide to the Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)
 - [El Bruno's blog posts](https://elbruno.com/tag/q/)
 - [Q# Community](https://qsharp.community)
