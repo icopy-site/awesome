@@ -167,6 +167,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [deno_random_interval](https://github.com/zekth/deno_random_interval) - Helper to generate random interval.
 - [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) - A simple tokenizer for deno.
 - [deno-using](https://github.com/hayd/deno-using) - An python-style with statements for deno.
+- [deno-validation](https://github.com/ethandunford/deno-validation) - A general purpose validation library for Deno.
 - [dinoenv](https://deno.land/x/dinoenv) - tiny library to manage environment variables with deno.
 - [durationjs](https://github.com/nekooftheabyss/duration.js) - Get time duration from a timestamp or a human-readable string.
 - [ensure](https://github.com/eankeen/ensure) - Ensure you are running a minimum version of Deno, Typescript, or V8.
@@ -192,6 +193,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) - Perform gzip operations for Deno.
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
+- [PLS](https://github.com/roj1512/pls) - Use 2 lines to persist localStorage in any database, including, but not limited to, MongoDB, PostgreSQL and Redis.
 
 ### Validation
 

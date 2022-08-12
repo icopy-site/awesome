@@ -32,6 +32,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 ## Audio
 * [Hejsil/zig-midi](https://github.com/Hejsil/zig-midi)
 * [hazeycode/zig-alsa](https://github.com/hazeycode/zig-alsa) - Bindings for ALSA (libasound).
+* [dantecatalfamo/sndio-zig](https://github.com/dantecatalfamo/sndio-zig) - Bindings for [sndio](https://sndio.org).
 
 
 ## Bootables
@@ -61,6 +62,8 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [squeek502/zua](https://github.com/squeek502/zua) - An implementation of Lua 5.1 for learning purposes.
 * [CurtisFenner/zsmol](https://github.com/CurtisFenner/zsmol) - The new Smol compiler and reference.
 * [dantecatalfamo/brainfuck-zig](https://github.com/dantecatalfamo/brainfuck-zig) - Brainfuck interpreter.
+* [dantecatalfamo/mruby-zig](https://github.com/dantecatalfamo/mruby-zig) - [mruby](https://mruby.org/) bindings.
+* [dantecatalfamo/wren-zig](https://github.com/dantecatalfamo/wren-zig) - [wren](https://wren.io/) bindings.
 
 
 ## Database

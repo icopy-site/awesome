@@ -181,6 +181,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Algorand - The Undocumented Docs](https://github.com/AlgoChads/algorand-undoc-docs) - Dev Notes for Archival Node, Indexer Setup (and more).
 - [AlgoNode](https://algonode.cloud) - Node running FAQ, Node/Indexer daily snapshots, Free Node/Indexer APIs.
 - [Algorand Node UI](https://github.com/algorand/node-ui) - Terminal UI for remote Algorand node management.
+- [SubQuery](https://subquery.network) - Open, fast, flexible, and decentralised cross-chain data indexer for Algorand ([getting started guide](https://academy.subquery.network/quickstart/quickstart_chains/algorand.html)).
 
 ## NFT Marketplaces
 
