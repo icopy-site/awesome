@@ -4,23 +4,25 @@
 
 <br/>
 <div align="center">
-<a href="https://awesomealgo.com" target="_blank"> <img width="100%" src="https://i.imgur.com/Z6kSoCr.png"> </a>
+<a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://i.imgur.com/EMRYFqZ.png"></a>
 </div>
 <br/>
 <div align="center">
 ⚡ A curated list of awesome resources related to the <a href='https://www.algorand.com/'>Algorand</a> Blockchain.
 <br />
+<br />
 Algorand is an open-source, proof of stake blockchain and smart contract computing platform.
-<br/>
-<a><img src="https://visitor-badge.glitch.me/badge?page_id=aorumbayev.awesome-algorand&right_color=green" /></a>
-<a href="https://awesomealgo.com"><img src="https://img.shields.io/badge/Web 2.0-Website-yellow.svg" /></a>
-<a href="https://ipfs.io/ipfs/QmS6dTFMddKkNnPmixhXRLLCfhURYnnnWJupz5tRPbJg81" style="pointer-events: none;  cursor: default;"><img src="https://img.shields.io/badge/Web 3.0-Website-blue.svg"/></a>
-<a href="https://anchor.fm/awesomealgo"><img src="https://img.shields.io/badge/AwesomeAlgo-Podcast-purple.svg" /></a>
-<br/>
-<a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/github/stars/aorumbayev/awesome-algorand?style=social" /></a>
-<a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?style=social" /></a>
 </div>
-<br/>
+
+
+<p align="center">
+    <img  src="https://visitor-badge.glitch.me/badge?page_id=aorumbayev.awesome-algorand&right_color=black" />
+    <img  href="https://awesomealgo.com" src="https://img.shields.io/badge/Web2.0-Website-yellow.svg" />
+    <a href="https://anchor.fm/awesomealgo"><img src="https://img.shields.io/badge/AwesomeAlgo-Podcast-teal.svg" /></a>
+    <a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/github/stars/aorumbayev/awesome-algorand?color=gold" /></a>
+    <a  href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?color=blue" /></a>
+</p>
+
 
 
 
@@ -264,7 +266,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 ## ARCs
 
 > Standards and specs defined in *finalized* ARCs.
-> The list of all the ARCs can be found on https://arc.algorand.foundation
+> The list of all the ARCs can be found [here](https://arc.algorand.foundation).
 
 - [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
 - [ARC69](https://github.com/algokittens/arc69) - Unofficial Algorand Standart Asset Parameters Convention popular in Algorand NFT community, inspired by [Open Sea's metadata standards](https://docs.opensea.io/docs/metadata-standards) and [EIP-1155](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema), created by [@algokittens](https://twitter.com/AlgoKittens).
@@ -291,14 +293,4 @@ License
 
 To the extent possible under law, [@aorumbayev](https://github.com/aorumbayev) has waived all copyright and related or neighboring rights to `Awesome Algorand.`
 
-For the full license, see [LICENSE](https://github.com/aorumbayev/Awesome-Algorand/blob/main/LICENSE).
-
-Credits
-
-This awesome list is inspired by:
-
-- https://github.com/ghostbits/awesome-algorand
-
-- https://github.com/ttumiel/Awesome-Ethereum
-
-- https://github.com/igorbarinov/awesome-bitcoin
+For the full license, see [LICENSE](https://github.com/aorumbayev/Awesome-Algorand/blob/main/LICENSE.md).

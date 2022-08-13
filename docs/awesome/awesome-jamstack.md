@@ -105,6 +105,7 @@
 - [ButterCMS](https://buttercms.com/) - Headless CMS and Content API.
 - [Scrivito](https://scrivito.com) - Cloud-based JavaScript CMS built for digital agencies and medium to large-sized businesses.
 - [GraphCMS](https://graphcms.com) - The GraphQL Headless CMS.
+- [Apito](https://apito.io) - A Cloud Based Headless CMS with CDN, Webhooks, Team Collaborations, Content Revision, Cloud Functions.
 - [Prismic](https://prismic.io) - Headless API CMS for both developers and marketers.
 - [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site.
 - [DatoCMS](https://datocms.com) - The API-based CMS your editors will love.
@@ -151,6 +152,7 @@
 
 ### E-commerce
 
+- [Astro Snipcart](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
 - [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
 - [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for Jamstack sites.
 - [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
