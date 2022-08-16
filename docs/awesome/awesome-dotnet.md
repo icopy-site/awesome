@@ -465,6 +465,14 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Veldrid](https://github.com/mellinoe/veldrid) - A low-level, portable graphics and compute library for .NET
 * [RealTimeGraphX](https://github.com/royben/RealTimeGraphX) - RealTimeGraphX is a data type agnostic, high performance plotting library for WPF, UWP and soon, Xamarin Forms.
 
+## GraphQL
+* [GraphQL.NET](https://github.com/graphql-dotnet/graphql-dotnet) - Implementation of [Facebook's GraphQL](https://github.com/graphql/graphql-spec) in .Net
+* [HotChocolate](https://github.com/ChilliCream/hotchocolate) - GraphQL server compatible to all GraphQL compliant clients like Strawberry Shake, Relay, Apollo Client, and various other clients and tools.
+* [graphql-net](https://github.com/chkimes/graphql-net) - GraphQL to IQueryable for .NET.
+* [EntityGraphQL](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to easily bring multiple data sources together in the single GraphQL schema (EF is not a requirement - any ORM working with LinqProvider or an in-memory object will work).
+
+
+
 ## GUI
 
 * [HandyControl](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
