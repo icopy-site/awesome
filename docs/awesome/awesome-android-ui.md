@@ -11,9 +11,6 @@ A curated list of awesome Android UI/UX libraries.
   <a href="https://github.com/wasabeef">
     <img src="https://avatars1.githubusercontent.com/u/1833474?s=48" />
   </a>
-  <a href="https://github.com/pgreze">
-    <img src="https://avatars3.githubusercontent.com/u/14812354?s=48" />
-  </a>
 </p>
 
 ## Index
@@ -29,6 +26,7 @@ Name | License | Demo
 [ComposeClock](https://raw.githubusercontent.com/adibfara/ComposeClock) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/adibfara/ComposeClock/master/demo.gif" width="49%">
 [ComposeCookBook](https://raw.githubusercontent.com/Gurupreet/ComposeCookBook) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://media.giphy.com/media/WOlo2cTDdjGkgdAJQK/giphy.gif" width="46%"> <img src="https://media.giphy.com/media/pZfwwwOlKQtiyJFPr2/giphy.gif" width="46%">
 [Compose Neumorphism UI](https://raw.githubusercontent.com/CuriousNikhil/neumorphic-compose) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/CuriousNikhil/neumorphic-compose/blob/main/static/complete_screen.png?raw=true" height=400>
+[SSComposeCookBook](https://raw.githubusercontent.com/SimformSolutionsPvtLtd/SSComposeCookBook) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/gif/canvas/canvas.gif" width="46%"> <img src="https://raw.githubusercontent.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/gif/Animation/BasicAnim.gif" width="46%">
 
 Layout
 ======================
