@@ -56,6 +56,12 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Snowpack](https://www.snowpack.dev/) - A lightning-fast frontend build tool, designed for the modern web.
 
 
+## Minimizers
+
+* [Terser](https://github.com/terser/terser) - parser, mangler and compressor toolkit for ES6+
+* [Uglify](https://github.com/mishoo/UglifyJS) - parser / mangler / compressor / beautifier toolkit
+
+
 ## Type Checkers
 
 * [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript.

@@ -167,6 +167,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [iOS Goodies](https://ios-goodies.com). Weekly iOS newsletter. [Archive](https://ios-goodies.com/archive).
 - [Indie iOS Focus Weekly](https://indieiosfocus.com). Best iOS development, marketing, Swift, design, and Xcode links.
 - [Swift Developments](https://andybargh.com/swiftdevelopments/). Weekly curated newsletter containing a hand picked selection of the latest links, videos, tools and tutorials for people interested in designing and developing their own iOS, macOS, watchOS and tvOS apps using Swift.
+- [iOS Dev Tools Newsletter](https://iosdev.tools/). The best tools for iOS developers, updated weekly.
 
 ### Go
 
@@ -258,7 +259,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [Lua Digest](https://luadigest.immortalin.com). A regular newsletter for the Lua Programming Language.
 
-## OS
+## Open Source
 
 - [TinyOpenSource](https://tinyopensource.email). Top 5 updates from the Open-Source world, straight to your inbox. Short and Sweet.
 - [BSD Weekly](https://bsdweekly.com/). A free, once–weekly e-mail round-up of BSD news and articles.
