@@ -113,6 +113,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [tiehuis/zstack](https://github.com/tiehuis/zstack) - Line-race tetris mode.
 * [kooparse/zalgebra](https://github.com/kooparse/zalgebra) - Linear algebra library for games and real-time computer graphics.
 * [floooh/pacman.zig](https://github.com/floooh/pacman.zig) - A Pacman clone.
+* [dantecatalfamo/OpenCSE](https://github.com/dantecatalfamo/OpenCSE) - Free implementation of the Can't Stop Express dice game.
 
 
 ## GUI
