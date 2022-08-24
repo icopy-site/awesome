@@ -33,6 +33,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Builders Program](https://substrate.io/ecosystem/substrate-builders-program/) - White-glove solutions and dedicated support team for visionary teams using Substrate.
 - [Stack Exchange](https://substrate.stackexchange.com/) - The best place for all technical questions.
 - [Web3 Foundation Grants](https://web3.foundation/grants) - Funding for ecosystem development.
+- [Polkadot Treasury](https://wiki.polkadot.network/docs/learn-treasury#creating-a-treasury-proposal) - The Treasury funds are allocated through the voting on spending proposal.
 
 ## Social
 
@@ -95,7 +96,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## Client Libraries
 
 - [.Net API](https://github.com/usetech-llc/polkadot_api_dotnet) - Maintained by [Usetech](https://usetech.com/blockchain/).
-- [.NET Standard API](https://github.com/dotmog/SubstrateNetApi) - Used in [nuget](https://www.nuget.org/packages/SubstrateNetApi/), and [Unity 3D integration example](https://github.com/darkfriend77/Unity3DExample); Maintained by [DOTMog](https://dotmog.com/).
+- [.NET Substrate API](https://github.com/ajuna-network/Ajuna.NetApi) - Used in [nuget](https://www.nuget.org/packages/Ajuna.NetApi/), and [Unity Example](https://github.com/ajuna-network/SubstrateNET/tree/master/SubstrateNET.UnityDemo); Maintained by [Ajuna Network](https://ajuna.io/).
+- [.NET Toolchain/SDK](https://github.com/ajuna-network/Ajuna.SDK) - Toolchain for Substrate .NET. Pre-generated [SubstrateNET](https://github.com/ajuna-network/SubstrateNET); Maintained by [Ajuna Network](https://ajuna.io/).
 - [`go-substrate-gen`](https://github.com/Aphoh/go-substrate-gen) - Generate go (de)serialization/client code from substrate metadata.
 - [`sube`](https://github.com/virto-network/sube) - Lightweight Rust client library and CLI with support for type information.
 - [`subxt`](https://github.com/paritytech/substrate-subxt) - Official Rust client.
@@ -111,13 +113,15 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 - [Fearless Utils Android](https://github.com/soramitsu/fearless-utils-Android) - Android Substrate tools.
 - [Fearless Utils iOS](https://github.com/soramitsu/fearless-utils-iOS) - iOS Substrate tools.
+- [Nova Substrate SDK Android](https://github.com/nova-wallet/substrate-sdk-android) - Substrate SDK and tools for Android.
+- [Nova Substrate SDK iOS](https://github.com/nova-wallet/substrate-sdk-ios) - Substrate SDK and tools for iOS.
 - [Polkadot-Dart](https://github.com/Pocket4D/Polkadot-Dart) - Dart Substrate API.
 - [PolkaWallet SDK](https://github.com/polkawallet-io/sdk) - Flutter SDK for Substrate-based App.
 - [React-Native-Substrate-Sign](https://github.com/paritytech/react-native-substrate-sign) - Rust library for React Native.
 
 ## Tools
 
-  [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election), which is a tool that is used to predict nominated proof-of-stake elections.
+- [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election), which is a tool that is used to predict nominated proof-of-stake elections.
 - [`offchain::ipfs`](https://rs-ipfs.github.io/offchain-ipfs-manual/) - Substrate infused with [IPFS](https://ipfs.io/).
 - [`polkadot-js-bundle`](https://github.com/shawntabrizi/polkadot-js-bundle) - A standalone JS bundle that contains Polkadot{JS} libraries.
 - [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - Simple CLI tool to launch a local Polkadot test network.
@@ -128,6 +132,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [`srtool-cli`](https://github.com/chevdor/srtool-cli) - CLI frontend for the `srtool` Docker image.
 - [`srtool`](https://github.com/paritytech/srtool) - Docker image to deterministically build a runtime.
 - [`subsee`](https://github.com/ascjones/subsee) - CLI to inspect metadata of a Substrate node as JSON.
+- [`subalfred`](https://github.com/hack-ink/subalfred) - An all-in-one Substrate development toolbox.
 - [`substrate-balance-calculator`](https://github.com/shawntabrizi/substrate-balance-calculator) - Breakdown the balances of your Substrate account.
 - [`substrate-balance-graph`](https://github.com/shawntabrizi/substrate-balance-graph) - Create a graph of the token balance over time of a Substrate address.
 - [`substrate-graph-benchmarks`](https://github.com/shawntabrizi/substrate-graph-benchmarks) - Graph the benchmark output of FRAME pallets.
@@ -147,6 +152,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Hydra](https://github.com/Joystream/hydra) - A GraphQL framework for Substrate nodes.
 - [Jupiter](https://github.com/patractlabs/jupiter) - Testnet for smart contracts written for the FRAME Contracts pallet and ink!.
 - [Megaclite](https://github.com/patractlabs/megaclite) - Zero-knowledge tools for the Polkadot ecosystem.
+- [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
 - [Parity Signer](https://www.parity.io/signer/) - Upcycle an unused mobile phone into an air-gapped hardware wallet.
 - [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains. 
 - [Polkadot Tool Index](https://wiki.polkadot.network/docs/build-tools-index) - List of tools available for your development with Polkadot and any Substrate chain including Block Explorers, Wallets, Network Monitoring & Reporting, Clients, Benchmarking, Fuzzing, Forking, SCALE Codec, CLI Tools and much more.
@@ -160,6 +166,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) - A script to parse and output staking rewards for a given Kusama or Polkadot address and cross-reference them with daily price data.
 - [Subkey](https://substrate.dev/docs/en/knowledgebase/integrate/subkey) - Command line utility for working with cryptographic keys.
 - [SubQuery](https://subquery.network) - A GraphQL indexer and query service that allows users to easily create indexed data sources and host them online for free.
+  - [Nova SubQuery API](https://github.com/nova-wallet/subquery-nova) - A SubQuery API implementation for operation history and staking analytics.
 - [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
 - [Subsquid](https://subsquid.io) - An indexing framework (SDK + infrastructure) to quickly and easily turn Substrate and EVM on-chain data into APIs and host them.
 - [Substate](https://github.com/arrudagates/substate) - 100% no-std/wasm compatible Substrate storage key generator library for Rust.
@@ -169,6 +176,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Substrate Graph](https://github.com/playzero/substrate-graph) - GraphQL indexer for Substrate-based chains.
 - [TxWrapper](https://github.com/paritytech/txwrapper) - Helpful library for offline transaction creation.
 - [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Plugin for Visual Studio Code.
+- [Polkaholic.io](https://polkaholic.io) - Multi-chain block explorer with API and DeFi support across 40+ parachains.
 
 ## Products and Services
 

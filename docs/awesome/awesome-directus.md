@@ -19,6 +19,10 @@
 - [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
 - [Community Repositories](https://github.com/directus-community)
 
+## Community Resources
+
+- [Portuguese YouTube Channel](https://www.youtube.com/c/DirectusBR)
+
 ## Integration
 
 - [Offical JS SDK](https://www.npmjs.com/package/@directus/sdk) - The JS SDK provides an intuitive interface for the Directus API from within a JavaScript-powered project (Browsers and Node.js).
@@ -27,6 +31,7 @@
 - [Flutter SDK](https://pub.dev/packages/directus) - Flutter SDK to provide interface for Directus API.
 - [PHP SDK](https://github.com/alantiller/directus-php-sdk) - PHP SDK to provide easy access to the Directus API.
 - [Lite SDK (TypeScript)](https://github.com/jacoborus/directus-lite-sdk) - Query builder for the Directus API (Browser, Deno, Node.js). Bring your own fetch.
+- [Nuxtus](https://nuxtus.com) - Provides a Nuxt boilerplate and set of tools to automatically create Nuxt pages from Directus Collections.
 
 ## Extensions
 

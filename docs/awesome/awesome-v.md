@@ -231,7 +231,7 @@
 
 ### GitHub actions
 
-- [setup-v-action](https://github.com/marketplace/actions/setup-v-environment) - GitHub action automation to use V in your workflow.
+- [setup-v](https://github.com/marketplace/actions/setup-vlang) - GitHub action to install and use V in your workflow.
 - [action-create-v-docs](https://github.com/marketplace/actions/create-documentation-for-v-modules) - GitHub action to create documentation for V modules.
 
 ### Videos
@@ -250,6 +250,7 @@
 - [Learn V in Y Minutes](https://github.com/v-community/learn_v_in_y_minutes)
 - [V by Example](https://github.com/v-community/v_by_example) - V book as [GitBook](https://v-community.gitbook.io/v-by-example/).
 - [V learning notes](https://github.com/lydiandy/vlang_note) - Personal learning notes in Chinese.
+- [V for Node Devs](https://github.com/Thigidu/vlang-for-nodejs-developers) - Vlang for node js developers.
 
 ### IDEs with V
 

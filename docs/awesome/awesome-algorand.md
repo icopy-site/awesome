@@ -84,6 +84,10 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 > Awesome client libraries, tools, and community utilities sorted by the language of implementation.
 
+### C/C++
+
+- [vertices-algorand-sdk](https://github.com/vertices-network/c-vertices-sdk) - The Vertices SDK provides developers with easy device access to interact with Blockchains.
+
 ### Dart
 
 - [dart-algorand-sdk](https://pub.dev/packages/algorand_dart) - Dart Algorand SDK.
@@ -136,9 +140,9 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [algorand-wallet](https://github.com/algorand/algorand-wallet) - Algorand wallet official implementation in Swift.
 - [swift-algorand-sdk](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
 
-### Vertices
+### Ruby
 
-- [vertices-algorand-sdk](https://github.com/vertices-network/c-vertices-sdk) - The Vertices SDK provides developers with easy device access to interact with Blockchains.
+- [TEALrb](https://github.com/joe-p/TEALrb) - A Ruby DSL for writing Algorand smart contracts.
 
 ## IDEs
 
