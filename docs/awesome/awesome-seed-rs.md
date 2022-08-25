@@ -61,7 +61,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Music composer](https://github.com/ethanboxx/planters-rdconf-hackathon-project) - A basic music composition app.
 - [Play Seed](https://play-seed.dev) - Website about Play Seed, playground to demo Seed apps.
 - [Typesync](https://typesync.rutrum.net) - Test your typing speed on song lyrics.  Uses [`Seed`](https://seed-rs.org/), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
-- [CalcuPi](https://divykj.github.io/CalcuPi) - A beautiful Monte Carlo simulation for approximating the value of pi.
+- [CalcuPi](https://dvjn.github.io/CalcuPi) - A beautiful Monte Carlo simulation for approximating the value of pi.
 - [Love Letter Tracker](https://www.fosskers.ca/en/tools/love-letter) - A knowledge tracker for the card game _Love Letter_.
 - [Whatlang.org](https://whatlang.org/) - An interactive demo for whatlang (language recognition library).
 - [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses [`Seed`](https://seed-rs.org/), [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx).
