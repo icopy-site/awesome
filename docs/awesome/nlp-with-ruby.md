@@ -80,6 +80,8 @@ An NLP Pipeline starts with a plain text.
   the original [Berkeley Parser](https://github.com/slavpetrov/berkeleyparser).
 - [open_nlp](https://github.com/hck/open_nlp) -
   JRuby Bindings for the [OpenNLP](https://opennlp.apache.org/) Toolkit.
+- [ruby-spacy](https://github.com/yohasebe/ruby-spacy) &mdash;
+  Wrapper module for spaCy NLP library via [PyCall](https://github.com/mrkn/pycall.rb).
 
 #### On-line APIs
 
