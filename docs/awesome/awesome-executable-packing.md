@@ -7,6 +7,7 @@
 *Packing* is the action of modifying an executable in a way that does not modify its purpose. It is generally one or a combination of the following operations:
 - bundling: makes a single executable with multiple files
 - compression: compresses the executable to reduce its original size
+- encoding: obfuscates the executable by encoding it
 - encryption: obfuscates the executable by encrypting it
 - mutation: alters the executable's code so that it uses a modifided instruction set and architecture (e.g. using oligomorphism)
 - protection: makes the reversing of the executable harder (i.e. using anti-debugging, anti-tampering or other tricks)

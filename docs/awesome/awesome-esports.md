@@ -81,6 +81,7 @@ Unmaintained projects, now only relevant for educational purposes are in the [Ar
 
 **League of Legends**
 
+- [Foldy Sheet](https://github.com/chhopsky/foldysheet) - A Python script to determine whether teams can make playoffs or not.
 - [LeagueDirector](https://github.com/RiotGames/leaguedirector) - A desktop application for staging and recording videos from League of Legends replays.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners stats.
 ## Contributing

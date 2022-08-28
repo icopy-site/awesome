@@ -812,6 +812,9 @@ Table of Contents
   * [Fontshare](https://www.fontshare.com/) - is a free fonts service. It’s a growing collection of professional grade fonts that are 100% free for personal and commercial use.
   * [Befonts](https://befonts.com/) - Provides several unqiue fonts for personal or commercial use.
   * [Font of web](https://fontofweb.com/) - Identify all the fonts used on a website and how they are used.
+  * [Bunny](https://bunny.net)
+    * [Bunny Fonts](https://fonts.bunny.net/) - All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!.
+    * [Bunny DNS](https://bunny.net/dns/) - DNS hosting, 20 million free queries
 
 
 ## Forms
@@ -873,6 +876,9 @@ Table of Contents
   * [UNPKG](https://unpkg.com/) — CDN for everything on npm
   * [weserv](https://images.weserv.nl/) — An image cache & resize service. Manipulate images on-the-fly with a worldwide cache.
   * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) — Free DDoS protection
+  * [Gcore](https://gcorelabs.com/)
+    * [CDN](https://gcorelabs.com/cdn/) — Global content delivery network, 1 TB and 1 million requests per month free.
+    * [DNS Hosting](https://gcorelabs.com/dns/) — Free DNS hosting.
 
 
 ## PaaS
