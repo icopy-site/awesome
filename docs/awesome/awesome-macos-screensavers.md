@@ -304,7 +304,7 @@ Free (Open Source)
 
 Free (pay what you want)
 
-[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/johansson.png)](https://johansson.design/screensavers/)
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/johansson.png)](https://johansson.design/projects/)
 
 ---
 

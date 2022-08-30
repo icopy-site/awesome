@@ -364,6 +364,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Seed dump](https://github.com/rroblak/seed_dump) - Rails 4 task to dump (parts) of your database to db/seeds.rb.
 * [Seed Fu](https://github.com/mbleigh/seed-fu) - Advanced seed data handling for Rails.
 * [Standby](https://github.com/kenn/standby) - Read from standby databases for ActiveRecord (formerly Slavery).
+* [Strong Migrations](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development.
 * [Upsert](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
 
 ## Date and Time Processing
@@ -614,6 +615,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 ## GUI
 
+* [FXRuby](https://github.com/larskanis/fxruby) - A Ruby library that provides an interface to the FOX GUI toolkit.
 * [Glimmer](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
 * [qtbindings](https://github.com/ryanmelt/qtbindings) - Allows the QT Gui toolkit to be used from Ruby.
 * [Ruby-GNOME](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
@@ -1165,6 +1167,7 @@ Online tools, services and APIs to simplify development.
 
 ## Third-party APIs
 
+* [Ably](https://github.com/ably/ably-ruby) - Ruby library for realtime communication over Ably.
 * [Buffer](https://github.com/bufferapp/buffer-ruby) - Buffer API Ruby Library
 * [discordrb](https://github.com/meew0/discordrb) - An implementation of the Discord API.
 * [Dropbox](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.

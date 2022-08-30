@@ -57,6 +57,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [googleapis](https://googleapis.deno.dev/) - Auto-generated Google API clients for Deno.
 
 ### Database
+- [aloedb](https://github.com/Kirlovon/AloeDB) - Light, Embeddable, NoSQL database for Deno without dependencies.
 - [cotton](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
 - [dangoDB](https://github.com/oslabs-beta/dangoDB) - A MongoDB ODM for Deno.
 - [denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
