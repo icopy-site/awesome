@@ -121,6 +121,8 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Road Curvature](https://roadcurvature.com/map/) - Helps to find curvy roads for those who enjoy them. ([Source Code](https://github.com/adamfranco/curvature))
 * [OpenLevelUp!](https://openlevelup.net/) - An OSM based indoor viewer.([Wiki](https://wiki.openstreetmap.org/wiki/OpenLevelUp))
 * [AccessMap](https://www.accessmap.io/) - A web map project to enable accessible, safe sidewalk trip planning for people with limited mobility. Currently rendering senveral cities in Washington State. ([Source Code](https://github.com/accessmap))
+* [OSM Landuse](https://osmlanduse.org) - OSM based landuse and landcover WebGIS application.
+* [OsmAPP](https://osmapp.org) - A browsable map showing data and offering simple POI-editing capabilities. ([Source Code](https://github.com/zbycz/osmapp))
 
 ### Mobile Maps
 
@@ -142,6 +144,12 @@ This section is a great place to start if you want to get into improving OpenStr
 
 * [Back Of Your Hand](https://backofyourhand.com/) - A web map game that tests your knowledge by having you find a street in a given area. ([Source Code](https://github.com/adam-lynch/back-of-your-hand))
 * [PraxisMapper](https://github.com/drakewill-CRL/PraxisMapper) - GPS Game server, for making mobile games around exploring the real world. ([Source Code](https://github.com/drakewill-CRL/PraxisMapper))
+
+### Goal Tracking
+
+The services in this category allow you to track personal and fitness goals utilizing OpenStreetMap data.
+
+* [CityStrides](https://citystrides.com/) - A web platform that encourages the user to run every street in their city. Based on your Strava data it shows where you have and have not run, provides challenges, a leaderboard, and a forum.
 
 ## Libraries
 
@@ -166,6 +174,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [osmcha](https://github.com/willemarcel/osmcha) - Python package to detect suspicious OSM changesets.
 * [osmnx](https://github.com/gboeing/osmnx) - Visualizer for street networks. ([Wiki](https://wiki.openstreetmap.org/wiki/OSMnx))
 * [python-mapnik](https://github.com/mapnik/python-mapnik) - Python wrapper for mapnik.
+* [prettymapp](https://github.com/chrieke/prettymapp) - Create beautiful maps from OpenStreetMap data.
 
 ### Java
 

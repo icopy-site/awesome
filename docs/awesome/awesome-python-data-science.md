@@ -90,7 +90,6 @@
 * [Dataset](https://github.com/analysiscenter/dataset) - Helps you conveniently work with random or sequential batches of your data and define data processing.
 * [meza](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - Build system for data science pipelines.
-* [CircleCi](https://circleci.com/): Automates your software builds, tests, and deployments.
 
 ## Feature Engineering
 

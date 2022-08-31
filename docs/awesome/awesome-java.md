@@ -589,6 +589,7 @@ _Everything else._
 - [Maven Wrapper](https://github.com/takari/maven-wrapper) - Analogue of Gradle Wrapper for Maven, allows building projects without installing maven.
 - [Membrane Service Proxy](https://github.com/membrane/service-proxy) - Open-source, reverse-proxy framework.
 - [MinimalFTP](https://github.com/Guichaguri/MinimalFTP) - Lightweight, small and customizable FTP server.
+- [LittleProxy](https://github.com/adamfisk/LittleProxy) - High performance HTTP proxy atop Netty's event-based networking library.
 - [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial) - Popular Java 8 guide.
 - [Modernizer](https://github.com/gaul/modernizer-maven-plugin) - Detect uses of legacy Java APIs.
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) - Browser extension which allows to navigate through code on GitHub more efficiently.
@@ -1130,6 +1131,7 @@ _Active accounts to follow. Descriptions from Twitter._
 - [Arun Gupta](https://twitter.com/arungupta) - Java Champion, JavaOne Rockstar, JUG Leader, Devoxx4Kids-er, VP of Developer Advocacy at Couchbase.
 - [Brian Goetz](https://twitter.com/BrianGoetz) - Java Language Architect at Oracle.
 - [Bruno Borges](https://twitter.com/brunoborges) - Product Manager/Java Jock at Oracle.
+- [Chris Engelbert](https://twitter.com/noctarius2k) - Open Source Enthusiast, Speaker, Developer, Developer Advocacy at TimescaleDB.
 - [Chris Richardson](https://twitter.com/crichardson) - Software architect, consultant, and serial entrepreneur, Java Champion, JavaOne Rock Star, \*POJOs in Action- author.
 - [Ed Burns](https://twitter.com/edburns) - Consulting Member of the Technical Staff at Oracle.
 - [Eugen Paraschiv](https://twitter.com/baeldung) - Author of the Spring Security Course.
