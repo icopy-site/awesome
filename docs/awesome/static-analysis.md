@@ -6,7 +6,7 @@
    <img width="400px" alt="Analysis Tools" src="https://raw.githubusercontent.com/analysis-tools-dev/website/master/static/logo.png" />
  </a>
 
-This repository lists **static analysis tools** for all programming languages, build tools, config files and more.  
+This repository lists **static analysis tools** for all programming languages, build tools, config files and more. The focus is on tools which improve code quality such as linters and formatters. 
 The official website, [analysis-tools.dev](https://analysis-tools.dev/) is based on this repository and adds rankings, user comments, and additional resources like videos for each tool.
 
 ![CI](https://github.com/analysis-tools-dev/static-analysis/workflows/CI/badge.svg)
@@ -536,6 +536,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [pytype](https://google.github.io/pytype) — A static type analyzer for Python code.
 - [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode) :warning: — Automated code review & repair. It helps you to keep track of issues and metrics in your software projects, and can be easily extended to support new types of analyses.
 - [radon](https://radon.readthedocs.io/en/latest) — A Python tool that computes various metrics from the source code.
+- [ruff](https://github.com/charliermarsh/ruff) — Fast Python linter, written in Rust. 10-100x faster than existing linters. Compatible with Python 3.10. Supports file watcher.
 - [unimport](https://unimport.hakancelik.dev) — A linter, formatter for finding and removing unused import statements.
 - [vulture](https://github.com/jendrikseipp/vulture) — Find unused classes, functions and variables in Python code.
 - [wemake-python-styleguide](https://wemake-python-stylegui.de) — The strictest and most opinionated python linter ever.

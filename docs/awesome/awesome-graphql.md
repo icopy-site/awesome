@@ -299,6 +299,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Elide](https://elide.io): A Java library that can expose a JPA annotated data model as a GraphQL service over any relational database.
 - [federation-jvm](https://github.com/apollographql/federation-jvm) - Apollo Federation on the JVM.
 - [graphql-java-extended-validation](https://github.com/graphql-java/graphql-java-extended-validation) - Provides extended validation of fields and field arguments for graphql-java.
+- [dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases.
 
 #### Custom Scalars
 
@@ -571,6 +572,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Firecamp - GraphQL Playground](https://firecamp.io/graphql) - The fastest collaborative GraphQL playground.
 - [CraftQL](https://github.com/yamafaktory/craftql) - A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.
 - [gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
+- [Graph Proxy](https://graphproxy.com/) - Graph Proxy detects and displays all GraphQL network traffic.
 
 <a name="tool-security" />
 
@@ -589,7 +591,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Tools - Browser Extensions
 
 - [Apollo Client Developer Tools](https://github.com/apollographql/apollo-client-devtools) - GraphQL debugging tools for Apollo Client in the Chrome developer console
-- [GraphQL Network](https://github.com/Ghirro/graphql-network) - A chrome dev-tools extension for debugging GraphQL network requests.
+- [GraphQL Network Inspector](https://chrome.google.com/webstore/detail/graphql-network-inspector/ndlbedplllcgconngcnfmkadhokfaaln) - A simple and clean chrome dev-tools extension for GraphQL network inspection.
 
 ### Tools - Prototyping
 
@@ -651,7 +653,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Hypi](https://hypi.io/) - Low-code, scalable, serverless backend as a service. Your GraphQL & REST over GraphQL backend in minutes.
 - [Nhost](https://nhost.io/) - Open source Firebase alternative with GraphQL
 - [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first headless e-commerce platform.
-- [Stargate](https://stargate.io/docs/stargate/1.0/quickstart/quick_start-graphql.html) - Open source data gateway currently supporting Apache Cassandra&reg; and DataStax Enterprise.
+- [Stargate](https://stargate.io/docs/stargate/1.0/quickstart/qs-graphql-cql-first.html) - Open source data gateway currently supporting Apache Cassandra&reg; and DataStax Enterprise.
 
 ### CDN
 
@@ -703,6 +705,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Build a GraphQL Server](https://www.youtube.com/watch?v=PEcJxkylcRM&list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68)
 - [GraphQL Tutorial](https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 - [Five years of GraphQL](https://www.youtube.com/watch?v=s8meG38iZAM)
+- [GraphQL is for Everyone by Moon Highway](https://moonhighway.teachable.com/p/graphql-is-for-everyone)
 
 <a name="podcast" />
 
