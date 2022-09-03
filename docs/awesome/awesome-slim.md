@@ -6,7 +6,7 @@
 [<img src="https://raw.githubusercontent.com/nekofar/awesome-slim/master/assets/slim-logo.png" align="right" width="260" alt="Slim Framework">](https://www.slimframework.com)
 
 <!--lint ignore double-link-->
-> A curated list of awesome [Slim](https://www.slimframework.com) framework packages and resources. 
+> A curated list of awesome [Slim](https://www.slimframework.com) framework packages and resources.
 
 <!--lint ignore double-link-->
 [Slim](https://www.slimframework.com) is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
@@ -27,6 +27,7 @@
 - [Slim 4 Skeleton](https://github.com/adriansuter/Slim4-Skeleton) - Web application skeleton that uses the PHP-DI, Nyholm PSR7 and Twig.
 - [Slim 4 Skeleton](https://github.com/odan/slim4-skeleton) - This is a skeleton to quickly set up a new Slim 4 application.
 - [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - The official Slim Framework 4 Skeleton Application.
+- [Slim 4 Starter](https://github.com/nbayramberdiyev/slim-4-starter) - An opinionated Slim 4 starter template for the small-to-medium PHP applications.
 
 ## Middlewares
 
@@ -57,7 +58,7 @@
 - [Slim Console](https://github.com/slimphp/Slim-Console) - Slim Framework Console.
 - [Slim Flash](https://github.com/slimphp/Slim-Flash) - Slim Framework flash messages service provider.
 - [Slim JSON API](https://github.com/entomb/slim-json-api) - Slim extension to implement fast JSON API's.
-- [Slim Validation](https://github.com/DavidePastore/Slim-Validation) - A validation library for the Slim Framework. 
+- [Slim Validation](https://github.com/DavidePastore/Slim-Validation) - A validation library for the Slim Framework.
 - [IntelliJ Slim](https://plugins.jetbrains.com/plugin/18751-slim) - Provides boilerplate codes for easier new project creation using skeleton.
 
 ## Contributing

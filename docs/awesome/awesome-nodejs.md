@@ -7,10 +7,6 @@
 	</div>
 	<br>
 	<br>
-	<h2><a href="https://www.producthunt.com/posts/one-thing">Check out my latest app — One Thing</a></h2>
-	<br>
-	<br>
-	<br>
 	<hr>
 	<p>
 		<p>
@@ -139,6 +135,21 @@
 				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
 				<br>
 				The easiest way to build paperwork automation into your product.
+				</sub>
+			</div>
+		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://sizzy.co?ref=sindre">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/sizzy-logo.png" width="240" alt="Sizzy">
+			</div>
+			<div>
+				<sub>
+				<b>Before Sizzy:</b> web development is stressing you out, responsive design is hard, you have an overwhelming amount of opened tabs & apps.
+				<br>
+				<b>After Sizzy:</b> all the tools you need in one place, responsive design is a breeze, no more context switching.
 				</sub>
 			</div>
 		</a>
