@@ -29,6 +29,7 @@
   - [mal](https://github.com/kanaka/mal/tree/master/impls/clojure)
   - [scheje](https://github.com/turbopape/scheje)
   - [eden](https://github.com/benzap/eden)
+  - [ferret](https://ferret-lang.org)
 
 
 ## Awesome macros usage
@@ -271,6 +272,7 @@
   * [core.async](https://github.com/clojure/core.async/)
   * [pulsar](https://github.com/puniverse/pulsar)
   * [manifold](https://github.com/ztellman/manifold)
+  * [goose](https://github.com/nilenso/goose)
 
 ## Monads
 
@@ -470,6 +472,7 @@ anylysis and visualization.*
   * [viz.cljc](https://github.com/jebberjeb/viz.cljc)
   * [fsmviz](https://github.com/jebberjeb/fsmviz)
   * [rhizome](https://github.com/ztellman/rhizome)
+  * [re-frame-flow](https://github.com/ertugrulcetin/re-frame-flow) - Graph based visualization tool for re-frame event chains (ClojureScript)
 
 ## Guides
 
