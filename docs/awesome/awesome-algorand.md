@@ -14,7 +14,6 @@
 Algorand is an open-source, proof of stake blockchain and smart contract computing platform.
 </div>
 
-
 <p align="center">
     <img  src="https://visitor-badge.glitch.me/badge?page_id=aorumbayev.awesome-algorand&right_color=black" />
     <img  href="https://awesomealgo.com" src="https://img.shields.io/badge/Web2.0-Website-yellow.svg" />
@@ -22,7 +21,6 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
     <a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/github/stars/aorumbayev/awesome-algorand?color=gold" /></a>
     <a  href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?color=blue" /></a>
 </p>
-
 
 
 
@@ -217,6 +215,17 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Folks.finance](https://folks.finance/) - Decentralized capital markets protocol.
 - [C3](https://c3.io/) - Cross-margin cross-collateralization clearing engine protocol.
 
+## Security Audits
+
+> This section is not aimed to promote any of the companies below, please do your due diligence when researching on options available for audits. Instead, the following is simply aimed to highlight an expanding variety of companies offering smart contract audits for Algorand ecosystem.
+
+- [Certik](https://www.certik.com/ecosystems/algorand) - CertiK provides the gold standard in web3 security tools, from its industry-leading smart contract audits, to its blockchain analytics tools such as Skynet and SkyTrace, making it the ideal partner in ensuring the end-to-end security of Algorand projects.
+- [AlgoBuilder Audits](https://algobuilder.dev/auditing.html) - The team behind AlgoBuilder offering to consult your project, have smart contracts done by professionals, write automated tests or audit your existing project.
+- [UlamLabs](https://www.ulam.io/software-services/smart-contract-audits) - A blockchain lab based in Poland, offering auditing services for Algorand smart contracts.
+- [Runtime Verification](https://runtimeverification.com/smartcontract) - Smart contract analysis and verification by the team who audited platforms like Algofi, FolksFinance, Yieldly and other prominent DeFi platforms in the ecosystem.
+- [Immunebytes](https://www.immunebytes.com) - Secure your Algorand Smart Contract with credible security auditing solutions.
+- [KudelskiSecurity](https://kudelskisecurity.com) - Move your blockchain project securely and successfully into production or onto mainnet. Company can help you assess, design, customize, deploy and manage blockchain and digital ledger technology systems so you can confidently leverage security as a powerful differentiator in this dynamic market.
+
 ## Bridges
 
 - [Algomint](https://algomint.io/) - Centralized BTC and ETH bridge to Algorand.
@@ -269,7 +278,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 ## ARCs
 
-> Standards and specs defined in *finalized* ARCs.
+> Standards and specs defined in _finalized_ ARCs.
 > The list of all the ARCs can be found [here](https://arc.algorand.foundation).
 
 - [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
