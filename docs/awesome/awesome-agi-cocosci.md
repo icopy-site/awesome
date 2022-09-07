@@ -1198,6 +1198,8 @@ Personality and Social Psychology Bulletin***, 2005. [[All Versions](https://sch
 
 * [Analogy as Nonparametric Bayesian Inference over Relational Systems](https://arxiv.org/pdf/2006.04156.pdf) - ***CogSci'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1798148167130120057&hl=en&as_sdt=0,5)].
 
+* [Visual Analogy: Deep Learning Versus Compositional Models](https://www.cs.jhu.edu/~alanlab/Pubs21/ichien2021visual.pdf) - ***CogSci'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1187822306970312749&hl=en&as_sdt=0,5)]. A human-deep-learning comparison on similarity judgement.
+
 
 
 <span id = "caus"></span>

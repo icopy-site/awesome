@@ -103,6 +103,7 @@
 
 - [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) - Simple, but well working Blog Extension.
 - [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
+- [Opengento GDPR](https://github.com/opengento/magento2-gdpr) - Magento 2 GDPR module is a must have extension for the largest e-commerce CMS used in the world. The module helps to be GDPR compliant.
 
 ### Marketing
 
@@ -178,6 +179,7 @@
 - [M.academy](https://m.academy/blog/)
 - [integer_net blog](https://www.integer-net.com/blog/)
 - [MageComp](https://magecomp.com/blog/category/magento-2/)
+- [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento)
 
 #### Other
 
