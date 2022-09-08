@@ -60,6 +60,10 @@ This is a list of awesome resources about VLC and LibVLC.
 - [RTSP mosaic tutorial](https://mfkl.github.io/libvlc/rtsp/xamarin/forms/2018/12/05/crossplatform-RTSP-mosaic-views-with-libvlcsharp.html) - Cross-platform RTSP Mosaic views with LibVLCSharp.
 - [MediaElement tutorial](https://doumer.me/vlc-media-player-in-xamarinforms-alternative-avplayer-andmediaplayer) - VLC Media Player control in Xamarin Forms.
 
+## Ebook
+
+- [The Good Parts of LibVLC](https://mfkl.gumroad.com/l/libvlc-good-parts)
+
 ## Community
 
 - [Stack Overflow - LibVLC](https://stackoverflow.com/questions/tagged/libvlc) - LibVLC on Stack Overflow.
