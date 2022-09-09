@@ -30,7 +30,6 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Hiring and Interviewing Candidates](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Hiring-and-Interviewing.md)
 - [For Developers: Software Craftspersonship, Teamwork, Technical Debt](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/For-Developers-Teamwork-TechDebt.md)
 - [Influencing Others](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Influencing-Others.md)
-- [Leader List](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leader-List.md)
 - [Leadership Forums](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Forums.md)
 - [Leadership Philosophies and Styles](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Philosophies-and-Styles.md)
 - [Leading Leaders](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leading-Leaders.md)
