@@ -36,6 +36,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [Wisepops](https://wisepops.com/) - Contextual popups, banners and bars for mobile and desktop visitors.
 - [Listagram](https://www.listagram.com) - Interactive opt-in form for collecting email addresses.
 - [Poptin](https://www.poptin.com) - Popups and forms that can be integrated anywhere in the website.
+- [Embedery](https://www.embedery.com) - Popups to engage visitors.
 
 ## Auth
 - [Auth0](https://auth0.com/) - Authentication management with native support for Angular, React and VueJS.
