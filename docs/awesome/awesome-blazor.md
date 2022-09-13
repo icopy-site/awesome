@@ -13,11 +13,11 @@ If you need to search on this list you can try this great website: [Awesome Blaz
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
 
-## Blazor in .NET 7 - .NET Community Standup (August 23, 2022).
-[<img src="https://pbs.twimg.com/media/FayhpIkVUAEPAGC?format=jpg&name=small" align="center" width="100%">](https://dotnet.microsoft.com/en-us/live)
-- Overview of Blazor in .NET 7.
-- With Daniel Roth, Jon Galloway, Mackinnon Buck and Tanay Parikh.
-- Watch on [live.dot.net](https://dotnet.microsoft.com/en-us/live) or [YouTube](https://www.youtube.com/watch?v=mDKvgpD8YM0&feature=emb_imp_woyt).
+## Blazor in .NET 7, part 2 - .NET Community Standup (September 13, 2022).
+[<img src="https://pbs.twimg.com/media/FcfURZOXEAAGvc1?format=jpg&name=small" align="center" width="100%">](https://dotnet.microsoft.com/en-us/live)
+- Overview of Blazor in .NET 7, part 2.
+- With Daniel Roth, Pavel Savara, Jon Galloway, Tanay Parikh, and Thays Grazia.
+- Watch on [live.dot.net](https://dotnet.microsoft.com/en-us/live) or [YouTube](https://www.youtube.com/watch?v=-ZSscIhQaRk&feature=emb_imp_woyt).
 
 ## Introduction
 

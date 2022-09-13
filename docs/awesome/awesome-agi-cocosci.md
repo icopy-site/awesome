@@ -304,6 +304,7 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](http
 
 
 
+
 #### Generative Model
 
 * [Bayesian Data Analysis](https://www.taylorfrancis.com/books/mono/10.1201/9780429258411/bayesian-data-analysis-andrew-gelman-donald-rubin-john-carlin-hal-stern) - ***Chapman and Hall/CRC***, 1995. [[All Versions](https://scholar.google.com/scholar?cluster=5067275302121330689&hl=en&as_sdt=0,5)]. Don Rubin's introductory book on Bayesian models.
@@ -931,6 +932,8 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](http
 
 #### Scaling Up Behavioral Studies
 
+* [Scaling up experimental social, behavioral, and economic science](https://osf.io/wksv8) - ***Open Science Foundation Preprints***. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Scaling+up+experimental+social%2C+behavioral%2C+and+economic+science&btnG=)]. A white paper on scaling up social, behavioral, and econimic experiments.
+
 * [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***Brain and Behavioral Sciences***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5)]. The original paper on rethinking and tackling the sample bias in behaivoral studies, where most subjects are drawn from Western, Educated, Industrialized, Rich, and Democratic (WEIRD) societies.
 
 * [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944&hl=en&as_sdt=0,5)]. The statistical and ecological basis for scaling up behavioral studies.
@@ -944,6 +947,11 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](http
 * [Exploring human cognition using large image databases](https://cocosci.princeton.edu/josh/papers/griffiths-largeimagedatabases-topics2016.pdf) - ***Topics in Cognitive Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3629906005701226294&hl=en&as_sdt=0,5)].
 
 * [Visual Search at Pinterest](https://web.archive.org/web/20170809024454id_/http://www.kevinjing.com/visual_search_at_pinterest.pdf) - ***KDD'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=2051024301293529405&hl=en&as_sdt=0,5)]. Large scale user study in the development of the recommendations system by Pinterest.
+
+
+#### Decision Making
+
+* [A computational process-tracing method for measuring people’s planning strategies and how they change over time](https://link.springer.com/article/10.3758/s13428-022-01789-5) - ***Behavior Research Methods***, 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=10405935000926098041)]. Model-based strategy identification.
 
 
 #### Question Answering
@@ -1063,6 +1071,8 @@ Personality and Social Psychology Bulletin***, 2005. [[All Versions](https://sch
 * [Computational rationality: A converging paradigm for intelligence in brains, minds, and machines](https://gershmanlab.com/pubs/GershmanHorvitzTenenbaum15.pdf) - ***Science***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=7744057022238735461&hl=en&as_sdt=0,5)]. A comprehensive review on the rationality of Bayesian computational models.
 
 * [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://cocosci.princeton.edu/papers/lieder_resource.pdf) - ***Behavioral and Brain Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1642626865293965288&hl=en&as_sdt=0,5)]. A resource-rational account on interpreting human intelligence.
+
+* [Understanding Human Intelligence through Human Limitations](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf) - ***Trends in Cognitive Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6469796133334580403)]. Tom Griffiths's review on understanding the uniqueness of human intelligence through three aspects of human limitations.
 
 
 <span id = "cogarch"></span>
