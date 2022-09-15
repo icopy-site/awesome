@@ -92,6 +92,9 @@
 - [TS-PICO-8](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games using TypeScript.
 - [Shrinko8](https://github.com/thisismypassport/shrinko8) - A minifier that aggressively shrinks Pico-8 code size. Also includes a linter and other tools.
 
+### Assets
+- [midilib](https://www.lexaloffle.com/bbs/?cat=7#tag=midilib) - Custom SFX instruments
+
 ### Text Editors Language Support
 
 - Visual Studio Code: [pico8-ls](https://github.com/japhib/pico8-ls) - PICO-8 Language Server, providing full language support for the PICO-8 dialect of Lua.
