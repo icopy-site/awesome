@@ -58,6 +58,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Tutorials
 
+- [Building A Retro Draggable Web Component Using Lit](https://www.smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/)
 - [Building a Rich Text Editor with Lit](https://rodydavis.com/posts/lit-rich-text-editor/)
 - [Draggable DOM with Lit](https://rodydavis.com/posts/lit-draggable-dom/)
 - [Getting started with LitElement and TypeScript](https://labs.thisdot.co/blog/getting-started-with-litelement-and-typescript)
@@ -77,7 +78,6 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Examples
 
-- [Lit Basics](https://vaadin.com/docs/latest/fusion/application/lit) - Overview of general Lit concepts with some examples.
 - [Lit Native](https://github.com/rodydavis/lit-native) - Reuse Lit web components on native platforms.
 - [Lit Node Editor](https://github.com/rodydavis/lit-node-editor) - Node editor built with canvas API and simple graph data structure.
 - [Lit 3D Piano](https://github.com/rodydavis/lit-3d-piano/) - 3D Piano built with Lit, Three.js and Tone.js.
