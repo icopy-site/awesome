@@ -532,10 +532,16 @@ nav:
     - Golem: awesome/awesome-golem.md
     - Stacks: awesome/awesome-stacks-chain.md
     - Algorand: awesome/awesome-algorand.md
-  - Higher Education:
+  - Health and Social Science:
+    - Biomedical Information Extraction: awesome/awesome-bioie.md
     - Computational Neuroscience: awesome/awesome-computational-neuroscience.md
+    - Diversity: awesome/awesome-diversity.md
     - Digital History: awesome/awesome-digital-history.md
-    - Scientific Writing: awesome/awesome-scientific-writing.md
+    - Empathy in Engineering: awesome/empathy-in-engineering.md
+    - Healthcare: awesome/awesome-healthcare.md
+    - Humane Technology: awesome/awesome-humane-tech.md
+    - Mental Health: awesome/awesome-mental-health.md
+    - Neuroscience: awesome/awesome-neuroscience.md
   - Events:
     - Creative Tech Events: awesome/awesome-creative-tech-events.md
     - Events in Italy: awesome/awesome-italy-events.md
@@ -552,6 +558,7 @@ nav:
     - Quality Assurance Roadmap: awesome/awesome-quality-assurance-roadmap.md
     - Gatling: awesome/awesome-gatling.md
   - Miscellaneous:
+    - Scientific Writing: awesome/awesome-scientific-writing.md
     - JSON: awesome/awesome-json.md
     - JSON_sub: 
       - GeoJSON: awesome/awesome-geojson.md
@@ -604,7 +611,6 @@ nav:
     - Steam: awesome/awesome-steam.md
     - Bots: awesome/bots.md
     - Site Reliability Engineering: awesome/awesome-sre.md
-    - Empathy in Engineering: awesome/empathy-in-engineering.md
     - DTrace: awesome/awesome-dtrace.md
     - Userscripts: awesome/awesome-userscripts.md
     - Pokémon: awesome/awesome-pokemon.md
@@ -619,10 +625,8 @@ nav:
     - Framer: awesome/awesome-framer.md
     - Markdown: awesome/awesome-markdown.md
     - Dev Fun: awesome/awesome-dev-fun.md
-    - Healthcare: awesome/awesome-healthcare.md
     - Magento 2: awesome/awesome-magento2.md
     - TikZ: awesome/awesome-tikz.md
-    - Neuroscience: awesome/awesome-neuroscience.md
     - Ad-Free: awesome/awesome-ad-free.md
     - Esolangs: awesome/awesome-esolangs.md
     - Prometheus: awesome/awesome-prometheus.md
@@ -631,7 +635,6 @@ nav:
     - Web Monetization: awesome/awesome-web-monetization.md
     - Uncopyright: awesome/awesome-uncopyright.md
     - Crypto Currency Tools & Algorithms: awesome/awesome-coins.md
-    - Diversity: awesome/awesome-diversity.md
     - Open Source Supporters: awesome/awesome-open-source-supporters.md
     - Design Principles: awesome/awesome-design-principles.md
     - Theravada: awesome/awesome-theravada.md
@@ -641,13 +644,11 @@ nav:
     - Captcha: awesome/awesome-captcha.md
     - Jupyter: awesome/awesome-jupyter.md
     - FIRST Robotics Competition: awesome/awesome-frc.md
-    - Humane Technology: awesome/awesome-humane-tech.md
     - Speakers: awesome/awesome-speakers.md
     - Board Games: awesome/awesome-board-games.md
     - Software Patreons: awesome/awesome-software-patreons.md
     - Parasite: awesome/awesome-parasite.md
     - Food: awesome/awesome-food.md
-    - Mental Health: awesome/awesome-mental-health.md
     - Bitcoin Payment Processors: awesome/awesome-bitcoin-payment-processors.md
     - Scientific Computing: awesome/awesome-scientific-computing.md
     - Amazon Sellers: awesome/awesome-amazon-seller.md
@@ -662,7 +663,6 @@ nav:
     - Advertising: awesome/awesome-ads.md
     - Earth: awesome/awesome-earth.md
     - Naming: awesome/awesome-naming.md
-    - Biomedical Information Extraction: awesome/awesome-bioie.md
     - Web Archiving: awesome/awesome-web-archiving.md
     - WP-CLI: awesome/awesome-wp-cli.md
     - Credit Modeling: awesome/awesome-credit-modeling.md

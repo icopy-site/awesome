@@ -765,11 +765,17 @@
 - [Stacks](awesome/awesome-stacks-chain.md) - A smart contract platform secured by Bitcoin.
 - [Algorand](awesome/awesome-algorand.md) - An open-source, proof of stake blockchain and smart contract computing platform.
 
-## Higher Education
+## Health and Social Science
 
+- [Biomedical Information Extraction](awesome/awesome-bioie.md) - How to extract information from unstructured biomedical data and text.
 - [Computational Neuroscience](awesome/awesome-computational-neuroscience.md) - A multidisciplinary science which uses computational approaches to study the nervous system.
+- [Diversity](awesome/awesome-diversity.md) - Creating a more inclusive and diverse tech community.
 - [Digital History](awesome/awesome-digital-history.md) - Computer-aided scientific investigation of history.
-- [Scientific Writing](awesome/awesome-scientific-writing.md) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
+- [Empathy in Engineering](awesome/empathy-in-engineering.md) - Building and promoting more compassionate engineering cultures.
+- [Healthcare](awesome/awesome-healthcare.md) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
+- [Humane Technology](awesome/awesome-humane-tech.md) - Open source projects that help improve society.
+- [Mental Health](awesome/awesome-mental-health.md) - Mental health awareness and self-care in the software industry.
+- [Neuroscience](awesome/awesome-neuroscience.md) - Study of the nervous system and brain.
 
 ## Events
 
@@ -792,6 +798,7 @@
 
 ## Miscellaneous
 
+- [Scientific Writing](awesome/awesome-scientific-writing.md) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 - [JSON](awesome/awesome-json.md) - Text based data interchange format.
 	- [GeoJSON](awesome/awesome-geojson.md)
 	- [Datasets](awesome/awesome-json-datasets.md)
@@ -842,7 +849,6 @@
 - [Steam](awesome/awesome-steam.md) - Digital distribution platform.
 - [Bots](awesome/bots.md) - Building bots.
 - [Site Reliability Engineering](awesome/awesome-sre.md)
-- [Empathy in Engineering](awesome/empathy-in-engineering.md) - Building and promoting more compassionate engineering cultures.
 - [DTrace](awesome/awesome-dtrace.md) - Dynamic tracing framework.
 - [Userscripts](awesome/awesome-userscripts.md) - Enhance your browsing experience.
 - [Pokémon](awesome/awesome-pokemon.md) - Pokémon and Pokémon GO.
@@ -858,10 +864,8 @@
 - [Framer](awesome/awesome-framer.md) - Prototyping interactive UI designs.
 - [Markdown](awesome/awesome-markdown.md) - Markup language.
 - [Dev Fun](awesome/awesome-dev-fun.md) - Funny developer projects.
-- [Healthcare](awesome/awesome-healthcare.md) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 - [Magento 2](awesome/awesome-magento2.md) - Open Source eCommerce built with PHP.
 - [TikZ](awesome/awesome-tikz.md) - Graph drawing packages for TeX/LaTeX/ConTeXt.
-- [Neuroscience](awesome/awesome-neuroscience.md) - Study of the nervous system and brain.
 - [Ad-Free](awesome/awesome-ad-free.md) - Ad-free alternatives.
 - [Esolangs](awesome/awesome-esolangs.md) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [Prometheus](awesome/awesome-prometheus.md) - Open-source monitoring system.
@@ -870,7 +874,6 @@
 - [Web Monetization](awesome/awesome-web-monetization.md) - A free open web standard service that allows you to send money directly in your browser.
 - [Uncopyright](awesome/awesome-uncopyright.md) - Public domain works.
 - [Crypto Currency Tools & Algorithms](awesome/awesome-coins.md) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
-- [Diversity](awesome/awesome-diversity.md) - Creating a more inclusive and diverse tech community.
 - [Open Source Supporters](awesome/awesome-open-source-supporters.md) - Companies that offer their tools and services for free to open source projects.
 - [Design Principles](awesome/awesome-design-principles.md) - Create better and more consistent designs and experiences.
 - [Theravada](awesome/awesome-theravada.md) - Teachings from the Theravada Buddhist tradition.
@@ -880,13 +883,11 @@
 - [Captcha](awesome/awesome-captcha.md) - A type of challenge–response test used in computing to determine whether or not the user is human.
 - [Jupyter](awesome/awesome-jupyter.md) - Create and share documents that contain code, equations, visualizations and narrative text.
 - [FIRST Robotics Competition](awesome/awesome-frc.md) - International high school robotics championship.
-- [Humane Technology](awesome/awesome-humane-tech.md) - Open source projects that help improve society.
 - [Speakers](awesome/awesome-speakers.md) - Conference and meetup speakers in the programming and design community.
 - [Board Games](awesome/awesome-board-games.md) - Table-top gaming fun for all.
 - [Software Patreons](awesome/awesome-software-patreons.md) - Fund individual programmers or the development of open source projects.
 - [Parasite](awesome/awesome-parasite.md) - Parasites and host-pathogen interactions.
 - [Food](awesome/awesome-food.md) - Food-related projects on GitHub.
-- [Mental Health](awesome/awesome-mental-health.md) - Mental health awareness and self-care in the software industry.
 - [Bitcoin Payment Processors](awesome/awesome-bitcoin-payment-processors.md) - Start accepting Bitcoin.
 - [Scientific Computing](awesome/awesome-scientific-computing.md) - Solving complex scientific problems using computers.
 - [Amazon Sellers](awesome/awesome-amazon-seller.md)
@@ -901,7 +902,6 @@
 - [Advertising](awesome/awesome-ads.md) - Advertising and programmatic media for websites.
 - [Earth](awesome/awesome-earth.md) - Find ways to resolve the climate crisis.
 - [Naming](awesome/awesome-naming.md) - Naming things in computer science done right.
-- [Biomedical Information Extraction](awesome/awesome-bioie.md) - How to extract information from unstructured biomedical data and text.
 - [Web Archiving](awesome/awesome-web-archiving.md) - An effort to preserve the Web for future generations.
 - [WP-CLI](awesome/awesome-wp-cli.md) - Command-line interface for WordPress.
 - [Credit Modeling](awesome/awesome-credit-modeling.md) - Methods for classifying credit applicants into risk classes.
