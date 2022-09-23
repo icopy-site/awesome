@@ -117,12 +117,14 @@
 - [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 - [V Earcut](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
 - [vgui](https://github.com/BenStigsen/vgui) - Minimal, lightweight and cross-platform GUI library.
+- [V_sokol_gp](https://github.com/mohamedLT/V_sokol_gp) - A V wrapper for the sokol_gp library for easy and fast 2d graphics.
 
 ### Game development
-
+- [V_ecs](https://github.com/mohamedLT/V_ecs) - ECS library made in V inspired by Bevy ECS.
 - [engine](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
 - [raylib.v](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
 - [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for raylib, the C game development framework.
+- [vraylib](https://github.com/mohamedLT/vraylib) - A V wrapper for the awesome raylib library.
 
 ### Web
 
@@ -146,7 +148,7 @@
 
 - [vave](https://github.com/thecodrr/vave) - A crazy simple library for reading/writing WAV files in V. 🌊
 - [vspeech](https://github.com/thecodrr/vspeech) - Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📢📜
-- [v-miniaudio](https://github.com/Larpon/v-miniaudio) - Bindings for the excellent miniaudio C audio library.
+- [miniaudio](https://github.com/Larpon/miniaudio) - Bindings for the excellent miniaudio C audio library.
 
 ### Operating system
 
