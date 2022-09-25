@@ -60,7 +60,6 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 ### Global
 
 - [Bitsavers.org](http://bitsavers.trailing-edge.com/) - Computer code, reference manuals, and magazines.
-- [British Library](https://www.bl.uk/catalogues-and-collections/digital-collections) - Maps, manuscripts and sounds.
 - [Classic Computer Magazine Archive](https://www.atarimagazines.com/) - Preserving information from early personal computer magazines.
 - [fxtop.com](https://fxtop.com/) - Forex rate history since 1953.
 - [gotpapers.scene.org](https://gotpapers.scene.org/?page_id=73) - Resources on the history of games, cracking, and the demoscene.
@@ -77,8 +76,11 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 ### Great Britain
 
+- [British Library](https://www.bl.uk/catalogues-and-collections/digital-collections) - Maps, manuscripts and sounds.
 - [The Proceedings of the Old Bailey](https://www.oldbaileyonline.org/) - London's Central Criminal Court, 1674 to 1913.
+- [The National Archives](https://www.nationalarchives.gov.uk/) - A non-ministerial department, and the official archive and publisher for the UK Government, and for England and Wales. 
 - [NLS](https://data.nls.uk/data/) - Data collections from the National Library of Scotland.
+- [National Records of Scotland](https://www.nrscotland.gov.uk/) - Collect, preserve and produce information about Scotland's people and history and make it available to inform current and future generations.
 
 ### Netherlands
 
@@ -140,6 +142,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 - [Local Linkages](https://locallinkages.org/) - How to frame questions about the past, identify sources to answer those questions, place them in context, and present that historical interpretation online in a digital form.
 - [The CTP Book](https://comp-think.github.io/) - A book for teaching Computational Thinking and Programming skills to people with a background in the Humanities.
 - [The Programming Historian](https://programminghistorian.org/) - Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
+- [Python für Historiker:innen](https://digital-history-berlin.github.io/Python-fuer-Historiker-innen/home.html) - The Jupyter Book (in German language) is aimed at historians who are looking for a first application-oriented and interactive introduction to the Python programming language.
 - [UCI Digital History](https://guides.lib.uci.edu/history/history_dh) - Overview on the field of Digital History and Digital Humanities.
 - [We think History](https://wethink.hypotheses.org/) - News about and innovations from digital history.
 
