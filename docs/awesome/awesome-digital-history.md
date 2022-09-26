@@ -71,6 +71,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 - [OpenCat](https://opencat.io/) - Search engine for libraries around the globe.
 - [OpenHistoricalMap](https://openhistoricalmap.org/) - A time travel map created by a community of mappers and historians.
 - [Public Books Database](http://www.publicbooks.org/public-books-database/) - Open access academic literature.
+- [United Nations Archive](https://archives.un.org/) - Archives and records from the United Nations regarding Secretaries-Generals, departments and missions.
 - [WayBackMachine](https://archive.org/web/) - Explore more than 486 billion web pages saved over time.
 - [World Historical Gazeteer](https://whgazetteer.org/) - Collection of content and services that permit world historians to do spatial and temporal reasoning and visualization in a data rich environment at global and trans-regional scales.
 
@@ -85,6 +86,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 ### Netherlands
 
 - [Delpher](https://www.delpher.nl/) - More than 100 million pages from Dutch newspapers, books and magazines.
+- [Nationaal Archief](https://www.nationaalarchief.nl/) - The National Archives of the Netherlands consisting of 137 km of documents, 15 million photographs and nearly 300,000 historical maps and drawings and 800 terabyte of digital files.
 
 ### North America
 
@@ -96,6 +98,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 - [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/) - An International LGBTQ+ Linked Data Vocabulary.
 - [Eugenics Archive](https://eugenicsarchive.ca/) - Scholars, survivors, students, and community partners in challenging eugenics.
 - [Perry-Castañeda Library Map Collection](https://legacy.lib.utexas.edu/maps/) - More than 250,000 maps.
+- [National Archives](https://www.archives.gov/) - The official archives regarding veteran records, founding documents and presidential libraries of the United States.
 - [Women Working 1800-1930](https://library.harvard.edu/collections/women-working-1800-1930) - An exploration of women's impact on the economic life of the United States between 1800 and the Great Depression.
 - [World Digital Library](https://www.wdl.org/) - WDL is an international digital library operated by UNESCO and the United States Library of Congress.
 

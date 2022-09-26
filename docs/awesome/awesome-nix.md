@@ -71,6 +71,7 @@
 * [nix-index](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 * [nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
+* [nvd](https://gitlab.com/khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
 * [statix](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
 
 ## Development
@@ -82,6 +83,7 @@
 * [dream2nix](https://github.com/nix-community/dream2nix) - A framework for automatically converting packages from other build systems to Nix.
 * [flake.parts](https://github.com/hercules-ci/flake-parts) - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.
 * [flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
+* [flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - A lightweight Nix library flake for painless NixOS flake configuration.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
 * [lorri](https://github.com/nix-community/lorri/) - A much better `nix-shell` for development that augments direnv.
 * [Makes](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere. 
@@ -166,6 +168,17 @@
 * [NixVim](https://github.com/pta2002/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 * [Stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
+
+## NixOS Configuration Editors
+
+### Desktop apps
+
+* [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) - Graphical editor for NixOS configuration. Desktop app in Rust and GTK.
+* [Nix Software Center](https://github.com/vlinkz/nix-software-center) - Install and manage Nix packages. Desktop app in Rust and GTK.
+
+### Webinterface
+
+* [MyNixOS](https://mynixos.com/) - Graphical editor for Nix flakes. Create and manage configurations and modules for NixOS and Nix home-manager. Rather a Nix generator than a Nix editor, because it does not allow to import Nix files.
 
 ## Overlays
 
