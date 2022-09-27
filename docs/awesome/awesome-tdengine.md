@@ -23,7 +23,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 
 ## GUI
 
-- [TDengineGUI](https://github.com/skye0207/TDengineGUI) - A simple TDengine Desktop Manager.
+- [TDengineGUI](https://github.com/arielyang/TDengineGUI) - A simple TDengine Desktop Manager.
 - [Taos.Studio](https://github.com/maikebing/Taos.Studio) - A GUI tool for viewing and editing data for TDengine.
 - [balloonfish](https://github.com/xielaoshi99/balloonfish) - Electron + Vue3 + Vite2.0 based TDengine time-series database visualized management tool.
 - [tdengine-client](https://github.com/wurong1420/tdengine-client) - A simple TDengine interface.
@@ -57,6 +57,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [taos-rs](https://github.com/yuerrd/taos-rs) - TDengine Java RESTful Client.
 - [TDengine Rust bindings](https://github.com/songtianyi/tdengine-rust-bindings) - It's a Rust bindings project for TDengine.
 - [TDenginex](https://github.com/lizhaochao/TDenginex) - TDengine Connector for Elixir.
+- [DBUtility.TDengine](https://github.com/cockroach888/GSA.MOLLE.ToolKits/tree/main/src/ToolKits.DBUtility) - C# Connector for TDengine. (.NET 6+)
 
 ## Stack
 

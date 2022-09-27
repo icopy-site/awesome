@@ -561,7 +561,7 @@
 - [Game Development](awesome/magictools.md)
 - [Game Talks](awesome/awesome-gametalks.md)
 - [Godot](awesome/awesome-godot.md) - Game engine.
-- [Open Source Games](awesome/games.md)
+- [Open Source Games](awesome/awesome-open-source-games.md)
 - [Unity](awesome/awesome-unity.md) - Game engine.
 - [Chess](awesome/awesome-chess.md)
 - [LÖVE](awesome/awesome-love2d.md) - Game engine.

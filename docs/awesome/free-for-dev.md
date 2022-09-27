@@ -1032,7 +1032,7 @@ Table of Contents
 
    * [airtable.com](https://airtable.com/) — Looks like a spreadsheet, but it's a relational database, unlimited bases, 1,200 rows/base and 1,000 API requests/month
    * [Astra](https://www.datastax.com/products/datastax-astra/) — Cloud Native Cassandra as a Service with [80GB free tier](https://www.datastax.com/products/datastax-astra/pricing)
-   * [bit.io](https://bit.io) — Managed PostgreSQL database service. 1 database, 10GB storage, 1 CPU and 1GB Memory (burst).
+   * [bit.io](https://bit.io) — Managed PostgreSQL database service. 3 database, 3GB storage per database, 1 CPU and 1GB Memory (burst), 1B rows queried per month
    * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service, up to 1M messages/month and 20 connections free
    * [elephantsql.com](https://www.elephantsql.com/) — PostgreSQL as a service, 20 MB free
    * [FaunaDB](https://fauna.com/) — Serverless cloud database, with native GraphQL, multi-model access and daily free tiers up to 100 MB
@@ -1213,6 +1213,7 @@ Table of Contents
   * [easyvectors.com](https://easyvectors.com/) — EasyVectors.com is a stock of quality free SVG vector art. Download best vector graphics absolutely for free.
   * [figma.com](https://www.figma.com) — Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and 3 projects.
   * [framer.com](https://www.framer.com/) - Framer helps you iterate and animate interface ideas for your next app, website, or product—starting with powerful layouts. For anyone validating Framer as a professional prototyping tool: unlimited viewers, up to 2 editors, up to 3 projects.
+  * [freeforcommercialuse.net](https://freeforcommercialuse.net/) — FFCU Worry-free model/property release stock photos
   * [Gradientos](https://www.gradientos.app) - Makes choosing a gradient fast and easy.
   * [Icon Horse](https://icon.horse) – Get the highest resolution favicon for any website from our simple API.
   * [Icons8](https://icons8.com) — Icons, illustrations, photos, music, and design tools. Free Plan offers Limited formats in lower resolution. Link to Icons8 when you use our assets.
