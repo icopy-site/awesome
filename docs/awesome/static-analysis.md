@@ -832,6 +832,8 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [radon](https://radon.readthedocs.io/en/latest) — A Python tool that computes various metrics from the source code.
 
+- [refurb](https://github.com/dosisod/refurb) — A tool for refurbishing and modernizing Python codebases. Refurb is heavily inspired by clippy, the built-in linter for Rust.
+
 - [ruff](https://github.com/charliermarsh/ruff) — Fast Python linter, written in Rust. 10-100x faster than existing linters. Compatible with Python 3.10. Supports file watcher.
 
 - [unimport](https://unimport.hakancelik.dev) — A linter, formatter for finding and removing unused import statements.

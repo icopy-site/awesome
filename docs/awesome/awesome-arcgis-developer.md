@@ -122,11 +122,17 @@ ArcGIS Platform is Esri's Platform as a Service (PaaS) for mapping and location 
 
 ## Design and styling
 
-- [ArcGIS Vector Tile Style Editor](https://developers.arcgis.com/documentation/mapping-apis-and-services/tools/vector-tile-style-editor/) - Style vector tile basemap layers for applications.
-- [arcgis-vectortile-style-editor](https://github.com/Esri/arcgis-vectortile-style-editor) - Minimalistic tool to update the styles of Esri Vector Basemaps through JSON.
-- [Calcite Design System](https://developers.arcgis.com/calcite-design-system/) - Collection of mapping icons, web components, and good practices.
-- [EsriUK mapstyler](https://github.com/EsriUK/mapstyler) - Quickly style an Esri vector tile layer using an image.
-- [MapUIPatterns](https://www.mapuipatterns.com/) - Best practices & design principles. UI Patterns describe solutions to observed and recurring design problems.
+- Best practices, books, videos and training:
+	- [Cartography and Making Stunning Maps](https://www.youtube.com/watch?v=AGf_DjZZwXc) - Short video showing some examples on what can be achieved using different blend modes effects.
+	- [How to style using ArcGIS Online](https://www.youtube.com/watch?v=6vy-kVkIcRg&list=PLPjPOZQjCWEn6ezKrwN11L8NWhZ2JdpYd) - Playlist with a collection of short videos showcasing some ArcGIS styling capabilities.
+	- [Photoshop-style Graphics Effects for Your Layers and Data](https://www.youtube.com/watch?v=crmWm80hwKI) - Video explaining how to use blend modes as well as layer and feature effects to create unique and stunning web maps using the ArcGIS API for JavaScript 4.x. 
+	- [MapUIPatterns](https://www.mapuipatterns.com/) - Best practices & design principles. UI Patterns describe solutions to observed and recurring design problems.
+- Developer tools:
+	- [Calcite Design System](https://developers.arcgis.com/calcite-design-system/) - Collection of mapping icons, web components, and good practices.
+- GUIs:
+	- [ArcGIS Vector Tile Style Editor](https://developers.arcgis.com/documentation/mapping-apis-and-services/tools/vector-tile-style-editor/) - Style vector tile basemap layers for applications.
+	- [arcgis-vectortile-style-editor](https://github.com/Esri/arcgis-vectortile-style-editor) - Minimalistic tool to update the styles of Esri Vector Basemaps through JSON.
+	- [EsriUK mapstyler](https://github.com/EsriUK/mapstyler) - Quickly style an Esri vector tile layer using an image.
 
 ## Developer guides
 

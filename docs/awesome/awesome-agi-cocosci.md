@@ -1099,6 +1099,19 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](http
 * [A Theoretical Computer Science Perspective on Consciousness](https://www.worldscientific.com/doi/abs/10.1142/S2705078521500028) - ***Journal of Artificial Intelligence and Consciousness***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16430561748075101972&hl=en&as_sdt=0,5)].
 
 
+### Science of Science
+
+* [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***Wikipedia***.
+
+* [Science of Science](https://www.science.org/doi/abs/10.1126/science.aao0185) - ***Science***, 2018. A comprehensive large-scale review on the science of science.
+
+* [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5)]. Thomas L. Griffiths's analysis of scientific topics using Bayesian model.
+
+* [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***Proceedings of the National Academy of Sciences***, 2017. [[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028&hl=zh-CN&as_sdt=0,5)]. An analysis of bias patterns and risk factors in science.
+
+* [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***Proceedings of the National Academy of Sciences***, 2021. [[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487&hl=zh-CN&as_sdt=0,5)]. An analysis of why too many papers published each year in a field can lead to stagnation rather than advance. 
+
+
 <span id = "tom"></span>
 ### Theory of Mind
 
@@ -1607,19 +1620,6 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](http
 * [Compositional Few-Shot Recognition with Primitive Discovery and Enhancing](https://dl.acm.org/doi/10.1145/3394171.3413849) - ***MM'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=15817839338790433509&hl=en&as_sdt=0,5)].
 
 * [Learning Unseen Concepts via Hierarchical Decomposition and Composition](https://ieeexplore.ieee.org/document/9156655) - ***CVPR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14161656227038242300&hl=en&as_sdt=0,5)].
-
-
-### Science of Science
-
-* [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***Wikipedia***.
-
-* [Science of Science](https://www.science.org/doi/abs/10.1126/science.aao0185) - ***Science***, 2018. A comprehensive large-scale review on the science of science.
-
-* [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5)]. Thomas L. Griffiths's analysis of scientific topics using Bayesian model.
-
-* [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***Proceedings of the National Academy of Sciences***, 2017. [[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028&hl=zh-CN&as_sdt=0,5)]. An analysis of bias patterns and risk factors in science.
-
-* [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***Proceedings of the National Academy of Sciences***, 2021. [[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487&hl=zh-CN&as_sdt=0,5)]. An analysis of why too many papers published each year in a field can lead to stagnation rather than advance. 
 
 
 <!--<span id = "te"></span>
