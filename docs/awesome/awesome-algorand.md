@@ -169,6 +169,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [tealang](https://github.com/pzbitskiy/tealang) - A high level language for Algorand ASC1 and TEAL.
 - [ASC Builder](https://ascbuilderapp.com) - A GUI (drag and drop) tool for developing & deploying Algorand smart contracts developed by [Algoknox](https://twitter.com/Algoknox).
 - [tealish](https://github.com/Hipo/tealish) - Tealish is a readable language for the Algorand Virtual Machine. It enables developers to write TEAL in a procedural style optimized for readability.
+- [avm-semantics](https://github.com/runtimeverification/avm-semantics) - Algorand Virtual Machine and TEAL Semantics in K framework. Aids with testing and formal verification of smart contracts.
 
 ### Docker
 

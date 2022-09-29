@@ -25,6 +25,8 @@ ArcGIS Platform is Esri's Platform as a Service (PaaS) for mapping and location 
 - [ArcGIS API for Python](https://developers.arcgis.com/python/) - Guides, sample notebooks and API reference to do mapping, spatial analysis, data science, geospatial AI and automation using Python.
 - [ArcGIS Earth Automation API](https://doc.arcgis.com/en/arcgis-earth/automation-api/get-started.htm) - Guide, API reference and samples to communicate with ArcGIS Earth.
 - [ArcGIS Enterprise SDK](https://developers.arcgis.com/enterprise-sdk/) - Guides, API reference and sample code to extent ArcGIS Enterprise.
+- [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/) - Guides, API reference and sample code to use ArcGIS data and services to develop for Unity.
+- [ArcGIS Maps SDK for Unreal Engine](https://developers.arcgis.com/unreal-engine/) - Guides, API reference and sample code to use ArcGIS data and services to develop for Unreal Engine.
 - [ArcGIS Pro SDK for Microsoft .NET](https://pro.arcgis.com/en/pro-app/latest/sdk/) - Documentation, tutorials, API reference, FAQ, etc. to extend ArcGIS Pro Desktop.
 - [ArcGIS REST APIs](https://developers.arcgis.com/rest/) - General documentation about ArcGIS REST APIs: location services, content management, portal administration, and more.
 - [ArcGIS REST APIs collections](https://github.com/esri-es/ArcGIS-REST-API) - Postman collections to work with some of the REST APIs: location services, hosted feature layers, ArcGIS Online, ArcGIS Hub, etc.
@@ -62,6 +64,8 @@ ArcGIS Platform is Esri's Platform as a Service (PaaS) for mapping and location 
 - [ArcGIS API for Python Sample Notebooks](https://developers.arcgis.com/python/sample-notebooks/) - Esri's official Python API product team samples.
 - [ArcGIS Arcade Expression Templates](https://github.com/Esri/arcade-expressions) - Collection of reusable Arcade expressions across all supported profiles.
 - [ArcGIS Code Sharing](http://codesharing.arcgis.com/) - Search, browse, and use code, scripts, models, add-ins, widgets, and more.
+- [ArcGIS Maps SDK for Unity samples](https://developers.arcgis.com/unity/sample-code/) - Esri's official ArcGIS Maps SDK for Unity product team samples.
+- [ArcGIS Maps SDK for Unreal Engine samples](https://developers.arcgis.com/unreal-engine/sample-code/) - Esri's official ArcGIS Maps SDK for Unreal Engine product team samples.
 - [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) - Demo apps built by Esri's REST JS maintainers.
 - [ArcGIS Runtime API for .NET Android samples](https://developers.arcgis.com/net/android/sample-code/) - Esri's official ArcGIS Runtime Android product team samples.
 - [ArcGIS Runtime API for .NET iOS samples](https://developers.arcgis.com/net/ios/sample-code/) - Esri's official ArcGIS Runtime .NET product team samples.

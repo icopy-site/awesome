@@ -1044,6 +1044,13 @@ Featured playlists: `Full Series | 200-301 CCNA | Free Cisco Video Training 2020
 Content about: Networking hardware with other concepts with helpful the visuals. There is also a crash course on A+ and Net+. \
 Featured playlists: `Information Technology`, `CompTIA Certification`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy96DtZPu2EJwh5eXuSn6-ru4wz1C4xFTs8GBcwYA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ALLABOUTELECTRONICS)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**All About Electronics**](https://www.youtube.com/c/ALLABOUTELECTRONICS) \
+Content about: Electronics and Communication \
+Featured playlists: `BJT`, `Analog Electronics`, `Network Analysis`. \
+<br />
+
 
 ## Software in general
 
@@ -1441,18 +1448,6 @@ Featured playlists: `AWWWARDS`, `Front End`, `Freelancing`. \
 [<img height="16px" width="16px" alt="Badge for French-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-fr.svg?sanitize=true" title="This YouTuber speaks French"/>](badges/README.md#french-speaking-youtubers) [**Qu'est-ce que Tu GEEKes ?**](https://www.youtube.com/QuestcequetuGEEKes) \
 Content about: Vulgarisation de l'informatique au grand public curieux avec des réalisations sourcées, libres de droits et sans publicité. \
 Featured playlists: `Man`, `Rumeurs`, `A chaud`, `Questions GEEKes`.
-
-
-## Electronics and communication
-
-All tutorials and videos of every single old as well as new electronic components available in the market. How to get started with electronics stuff, every useful resource, and also get advice/recommendation which product to use and why from persons having much more experience in this field.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy96DtZPu2EJwh5eXuSn6-ru4wz1C4xFTs8GBcwYA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ALLABOUTELECTRONICS)
-
-[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**All About Electronics**](https://www.youtube.com/c/ALLABOUTELECTRONICS) \
-Content about: Electronics and Communication \
-Featured playlists: `BJT`, `Analog Electronics`, `Network Analysis`. \
-<br />
 
 
 <details>
