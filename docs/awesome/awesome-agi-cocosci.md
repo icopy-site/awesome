@@ -1277,7 +1277,6 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](http
 * [Do six-month-old infants perceive causality?](http://fitelson.org/woodward/leslie.pdf) - ***Cognition***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=14270905342434182186&hl=en&as_sdt=0,5)].
 
 
-<span id = "cms"></span>
 ### Commonsense
 
 #### Intuitive Physics
