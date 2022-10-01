@@ -49,10 +49,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [LightTable](https://github.com/LightTable/LightTable) _(label: good-first-issue)_ <br> The Next Generation code editor! One of the top funded projects on KickStarter.
 
-## CSS
-
-- [sButtons](https://github.com/shahednasser/sbuttons) _(label: good-first-issue)_ <br> Simple buttons you can easily use for your next project.
-
 ## Dart
 
 - [dart.dev](https://github.com/dart-lang/site-www) _(label: beginner)_ <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
