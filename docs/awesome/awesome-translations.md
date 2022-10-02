@@ -31,6 +31,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [PO file editor](https://pofile.net/free-po-editor) - A free tool for translating PO files for localization with Gettext.
 - [Tolgee](https://tolgee.io) - Open-source, developer & translator friendly platform enabling users to translate directly in the app they develop.
 - [Lokalise](https://lokalise.com/) - Translation platform for developers.
+- [Locize](https://locize.com/) - The continuous localization management platform that powers up your development and translation.
 
 ## Apps
 
@@ -66,6 +67,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
 - [Moment.js](https://momentjs.com/) - Parse, validate, manipulate and display dates and times in JavaScript.
 - [WPML](https://wpml.org/) - A WordPress plugin that allows running multilingual websites with a single WordPress install.
+- [FormatJS](https://formatjs.io/) - A modular collection of JavaScript libraries for internationalization that are focused on formatting numbers, dates, and strings for displaying to people.
 
 ## Articles
 
@@ -83,6 +85,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [What is 'hreflang'?](https://simplelocalize.io/blog/posts/what-is-hreflang/) - What is `hreflang` attribute and how it can affect your SERP.
 - [In context translation with Respresso](https://blog.respresso.io/index.php/2020/06/22/in-context-translation-with-respresso/) - Real-time preview how the translations will look like in your mobile app or web. No need to wait for the next deployment.
 - [Internationalization vs. Localization: The Difference Between l10n and I18n](https://blog.crowdin.com/2022/07/14/internationalization-vs-localization) - Blog post about the difference between l10n and I18n from Crowdin.
+- [Globalization and localization in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-6.0) - Article about Globalization and localization in ASP.NET Core.
 
 ## Blogs
 
@@ -116,6 +119,8 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Pontoon](https://pontoon.mozilla.org/) - Various Mozilla localization projects.
 - [Watson Language Translator](https://www.ibm.com/cloud/watson-language-translator) - A service on the IBM Cloud that enables dynamically translation news, patents, or conversational documents.
 - [Project Fluent](https://projectfluent.org) - A localization paradigm designed to unleash the entire expressive power of natural language translations.
+- [ICU - International Components for Unicode](https://icu.unicode.org/) - A mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
+- [Django docs - i18n](https://docs.djangoproject.com/en/4.1/topics/i18n/) - Part of the Django docs, focused on internationalization and localization.
 
 ## Contributing
 
