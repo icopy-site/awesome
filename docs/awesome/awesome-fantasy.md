@@ -732,6 +732,27 @@ This is a book that doesn't take away from the classic movie rendition of it, bu
 
 > What happens when the most beautiful girl in the world marries the handsomest prince of all time and he turns out to be...well...a lot less than the man of her dreams? As a boy, William Goldman claims, he loved to hear his father read the S. Morgenstern classic, The Princess Bride. But as a grown-up he discovered that the boring parts were left out of good old Dad's recitation, and only the "good parts" reached his ears. Now Goldman does Dad one better. He's reconstructed the "Good Parts Version" to delight wise kids and wide-eyed grownups everywhere. What's it about? Fencing. Fighting. True Love. Strong Hate. Harsh Revenge. A Few Giants. Lots of Bad Men. Lots of Good Men. Five or Six Beautiful Women. Beasties Monstrous and Gentle. Some Swell Escapes and Captures. Death, Lies, Truth, Miracles, and a Little Sex. In short, it's about everything.
 
+### [A Series of Unfortunate Events](https://en.wikipedia.org/wiki/A_Series_of_Unfortunate_Events) _by [Lemony Snicket AKA Daniel Handler](https://en.wikipedia.org/wiki/Daniel_Handler) 🔥 [4.00]
+
+A Series of Unfortunate Events follows the story of the Baudelaire kids Violet, Klaus and Sunny as they navigate the aftermath of their parents' death and try to escape the evil clutches of their distant relative Count Olaf. - [@umadhatri](https://github.com/umadhatri)
+
+> These books were my childhood. I love the dry and satirical humor as the author puts these kids through incerdibly campy situations and they find increasingly clever ways to escape the evil Count. The kids are just the sweetest charecters and as a kid I enjoyed the adventures that they went on in each of the books. The narrator Lemony Snicket almost enjoys reliving the tales of the kids' adventures in a sort of devilish way. The Netflix adaptation was just as deliciously good as the books. People might not agree with me, but then, everybody has their own opinions.
+
+Books:
+- [The Bad Beginging](https://www.goodreads.com/book/show/78411.The_Bad_Beginning)
+- [The Reptile Room](https://www.goodreads.com/book/show/78418.The_Reptile_Room) 🔥
+- [The Wide Window](https://www.goodreads.com/book/show/438492.The_Wide_Window) 🔥
+- [The Miserable Mill](https://www.goodreads.com/book/show/65119.The_Miserable_Mill) 🔥
+- [The Austere Academy](https://www.goodreads.com/book/show/131123.The_Austere_Academy) 🔥
+- [The Ersatz Elevator](https://www.goodreads.com/book/show/172327.The_Ersatz_Elevator) 🔥
+- [The Vile Village](https://www.goodreads.com/book/show/150037.The_Vile_Village) 🔥
+- [The Hostile Hospital](https://www.goodreads.com/book/show/65118.The_Hostile_Hospital) 🔥
+- [The Carnivorous Carnival](https://www.goodreads.com/book/show/324277.The_Carnivorous_Carnival) 🔥
+- [The Slippery Slope](https://www.goodreads.com/book/show/297792.The_Slippery_Slope) 🔥
+- [The Grim Grotto](https://www.goodreads.com/book/show/65111.The_Grim_Grotto) 🔥
+- [The Penultimate Peril](https://www.goodreads.com/book/show/65110.The_Penultimate_Peril)
+- [The End](https://www.goodreads.com/book/show/65112.The_End)
+
 ### Horror
 
 #### [The Call of Cthulhu and Other Weird Stories](https://www.goodreads.com/book/show/160149.The_Call_of_Cthulhu_and_Other_Weird_Stories) _by [H.P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft)_ [4.3]
@@ -802,6 +823,12 @@ Gorgeous comic based on a classic Scottish fairy tale, with lots of diversity re
 > Sibylla always wanted adventure, but she didn't know it would come in the form of a giant, magical bull. Is he a man or a monster? And who knew a prophecy could be so literal?
 
 ## Movies
+
+#### [Interstellar](https://www.imdb.com/title/tt0816692/) [8.6]
+Best movie for SciFi lovers an Space enthusiast.
+All important science fiction concepts combied together feels like magic of astronomy and science.-[@yuvihere23](https://github.com/yuvihere23)
+
+>A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
 
 #### [Birth](https://www.imdb.com/title/tt0337876/) [6.1]
 
@@ -988,6 +1015,8 @@ If you are looking for romance, teenagers figuring out life and guys removing th
 The natural choice for those who read the Witcher book series, The Witcher tv adaption is mostly faithful to the books, in theme if not in actual screenplaying, with Henry Cavill in the main role, great acting and a tone similar to Game of Thrones. Bonus point for the captivating soundtrack. [@Donearm](https://github.com/Donearm)
 
 > Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.
+ 
+
 
 ---
 
