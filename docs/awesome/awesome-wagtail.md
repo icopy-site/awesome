@@ -68,7 +68,8 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Static site generation
 
 - [Wagtail-bakery](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
-- [Wagtail-Netlify](https://github.com/tomdyson/wagtail-netlify) - Easilly publish your statically rendered Wagtail site to Netlify.
+- [Wagtail-Netlify](https://github.com/tomdyson/wagtail-netlify) - Easily publish your statically rendered Wagtail site to Netlify.
+- [wagtail-freezer](https://github.com/gasman/wagtail-freezer) - Generates static HTML sites from a Wagtail project.
 
 ### Settings management
 
@@ -120,6 +121,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Rent Free Media](https://github.com/RentFreeMedia/rentfreemedia) - A media distribution framework built on Django and Wagtail. Premium / subscription-based publishing like Patreon or Substack.
 - [Wagtail CLIP](https://github.com/MattSegal/wagtail-clip) - A module for searching the contents of Wagtail images with natural language queries.
 - [Wagtail Stock Images](https://github.com/vicktornl/wagtail-stock-images) - Search stock images (e.g. via Unsplash) and save them to your Wagtail image library.
+- [Wagtail Transcription](https://github.com/LilJack118/wagtail-transcription) - Provides a field to automatically creates transcriptions from YouTube videos.
 
 ### Translations
 
@@ -216,6 +218,8 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Drupal Front End WTF, Wagtail Front End FTW](https://medium.com/@kevinhowbrook/drupal-front-end-wtf-wagtail-front-end-ftw-17712628df3e) - Comparing Drupal and Wagtail Markup and approach to each CMS
 - [How to Create and Manage Menus of Wagtail application](https://www.accordbox.com/blog/wagtail-tutorial-12-how-create-and-manage-menus-wagtail-application/)
 - [PythonEatsTail](https://pythoneatstail.com) - Complete written and video tutorials to create a Wagtail site with multiple languages, authentication and more
+- [Upgrading to Wagtail 3.0](https://enzedonline.com/en/tech-blog/upgrading-to-wagtail-3-0/) - General tips to migrate your codebase to Wagtail 3.0.
+- [Upgrading to Wagtail 3.0 Part 1](https://cynthiakiser.com/blog/2022/06/01/wagtail-3-upgrade-part-1.html) & [Upgrading to Wagtail 3.0 Part 2](https://cynthiakiser.com/blog/2022/06/02/wagtail-3-upgrade-part-2.html) - Two part series in how to migrate to Wagtail 3.0 with specific code examples.
 
 ### Recipes
 
@@ -294,6 +298,31 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Thoughtful Code Review – Wagtail Space US 2019](https://www.youtube.com/watch?v=RY0K1BEV-_U&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=9) by Naomi Morduch Toubman. [Slides](https://docs.google.com/presentation/d/1b_Hda8381G6mMc7uzYDc2EYjocfwSi2TYiRMI7d4e3I/).
 - [Solving your problems by spelunking the Wagtail code – Wagtail Space US 2019](https://www.youtube.com/watch?v=BMoOhjgirFM&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=10) by Harris Lapiroff. [Slides](https://harrislapiroff.github.io/wagtail-space-us-2019/)
 - [The State of Wagtail: 2019 – Wagtail Space US 2019](https://www.youtube.com/watch?v=s29vaGnFcq8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=11) by Tom Dyson.
+- [Wagtail Guide - Getting started - Wagtail Space US 2022](https://www.youtube.com/watch?v=E3-kFY6jPPY) by Coen van der Kamp.
+- [A New Approach to Multitenant Wagtail - Wagtail Space US 2022](https://www.youtube.com/watch?v=WN0L4YNrWes) by Stephanie C. Smith and Addison Hardy.
+- [The Wagtail Marketplace for Games-based Courses - Wagtail Space 2022](https://www.youtube.com/watch?v=ueou6CxiR3Y) by Sarah Toms.
+- [The Wagtail Ecosystem - Wagtail Space US 2022](https://www.youtube.com/watch?v=4Qd43nsxmoc) by Vince Salvino.
+- [Wagtail charts and graphs - Wagtail Space US 2022](https://www.youtube.com/watch?v=QK-Vhlpos3Q) by Sævar Öfjörð Magnússon & Arnar Tumi Þorsteinsson.
+- [Wagtail as a headless CMS for JavaScript frontends - Wagtail Space US 2022](https://www.youtube.com/watch?v=bYRQ492BED0) by Tommaso Amici.
+- [Adding a GraphQL API to Wagtail - Wagtail Space US 2022](https://www.youtube.com/watch?v=_O5isU354vg) by Patrick Arminio.
+- [Bringing JSONField into Wagtail Core - Wagtail Space US 2022](https://www.youtube.com/watch?v=XtazMDNdlK8) by Sage Abdullah.
+- [Wagtail vs. WordPress - Wagtail Space US 2022](https://www.youtube.com/watch?v=Vl2g7H3aodw) by Kalob Taulien.
+- [Designing the new page editor - Wagtail Space US 2022](https://www.youtube.com/watch?v=t2xiPJ91UCE) by Phil Dexter and Ben Enright.
+- [5 Things I Learned About Wagtail the Hard Way - Wagtail Space US 2022](https://www.youtube.com/watch?v=LNqVzLkZkig) by Meagen Voss.
+- [Tips for Maintaining Wagtail Packages - Wagtail Space US 2022](https://www.youtube.com/watch?v=Zh608nVBrEw) by Tim Allen.
+- [Wagtail Guide - Wagtail Space US 2022](https://www.youtube.com/watch) by Coen van der Kamp.
+- [The state of Wagtail 2022 - Wagtail Space NL 2022](https://www.youtube.com/watch?v=4D49RENHfoM) by Tom Dyson.
+- [Choosers - Wagtail Space NL 2022](https://www.youtube.com/watch?v=nSjVAISLr4M) by Matthew Westcott.
+- [Working with Image Filters - Wagtail Space NL 2022](https://www.youtube.com/watch?v=gCGT51BcTdM) by Arnar Tumi Þorsteinsson.
+- [Things I learned - Wagtail Space NL 2022](https://www.youtube.com/watch?v=xG5-s48TZt8) by Dan Braghis.
+- [Wagtail Roadrunner Beep Beep - Wagtail Space NL 2022](https://www.youtube.com/watch?v=ynlFUcutSWQ) by Lars van de Kerkhof.
+- [Dockerising wagtail projects in 5 minutes - Wagtail Space NL 2022](https://www.youtube.com/watch?v=PgkpBMoN4UY) by Sævar Öfjörð Magnússon.
+- [Wagtail in the News Room - Wagtail Space NL 2022](https://www.youtube.com/watch?v=B85HwmX5uaw) by Sævar Öfjörð Magnússon & Arnar Tumi Þorsteinsson.
+- [Digital Nomad - Wagtail Space NL 2022](https://www.youtube.com/watch?v=9Evrwzpg-dw) by Maikel Martens.
+- [Unobtrusive internationalisation - Wagtail Space NL 2022](https://www.youtube.com/watch?v=_dhScxTdtjA) by Lars van de Kerkhof.
+- [Moving Wagtail pages - Wagtail Space NL 2022](https://www.youtube.com/watch?v=OFqPKffSVWI) by Viggo de Vries.
+- [Wagtail architecture options, or should I go headless - Wagtail Space NL 2022](https://www.youtube.com/watch?v=JMULuz6RzjQ) by Dan Braghis.
+- [Wagtail headless and NextJS frontend - Wagtail Space NL 2022](https://www) by Lucas Moeskops.
 
 ### Podcasts
 
@@ -317,6 +346,10 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Books
 
 - [Wagtail CMS in Action](https://www.manning.com/books/wagtail-cms-in-action) - Book about creating powerful, simple web applications using the Wagtail content management system.
+- [The Definitive Guide to Next.js and Wagtail](https://leanpub.com/the-definitive-guide-to-nextjs-and-wagtail/) - Build a Jamstack web app with Next.js and Wagtail CMS.
+- [Build a Blog With Wagtail CMS (3.0.0)](https://leanpub.com/buildblogwithwagtailcms) - This book will teach you how to build a modern blog with Wagtail CMS.
+- [Build SPA with React and Wagtail (2.0.0)](https://leanpub.com/react-wagtail) - This book will teach you how to build a SPA (single-page application) with React and Wagtail CMS.
+- [Build a Blog with React (SSR) and Wagtail](https://leanpub.com/react-wagtail-ssr) - This book will teach you how to build a blog with React, Wagtail CMS and SSR (Server-Side Rendering).
 
 ### Showcases
 
@@ -334,6 +367,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Editor's manual](https://docs.wagtail.org/en/stable/editor_manual/index.html) - Wagtail documentation for editors
 - [CCA Wagtail Editor Portal](https://portal.cca.edu/help/wagtail-documentation/) - User facing documentation for Wagtail by California College of the Arts
 - [Caltech Wagtail Editor Portal](https://sites.caltech.edu/) - User facing documentation for Wagtail by Caltech
+- [IoGT Wagtail CMS](https://goodinternet.org/cms-manual/intro/intro-to-cms/) - User facing documentation for Wagtail by What is the IoGT (Internet of Good Things).
 
 ## Community
 
@@ -341,6 +375,8 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wellington Wagtail CMS Meetup](https://www.meetup.com/Wellington-Wagtail-CMS-Meetup/) - The first Wagtail CMS meetup in New Zealand!
 - [Wagtail Space](https://www.wagtail.space/) - Wagtail training sessions, Wagtail (lightning) talks and a Wagtail sprint. From March 13th until 15th 2019, Wagtail Space takes place in Arnhem, The Netherlands.
 - [Wagtail’s first hatch](https://www.kickstarter.com/projects/noripyt/wagtails-first-hatch) – Kickstarter campaign to accelerate the development of Wagtail.
+- [Wagtail updates on Telegram](https://telegram.me/wagtail) - Unofficial Telegram channel for general Wagtail updates.
+- [Wagtail support on Telegram](https://telegram.me/wagtailcms) - Unofficial Telegram channel for support questions and discussions.
 
 ## Open-source sites
 
@@ -367,6 +403,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Consumer Financial Protection Bureau](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
 - [WesternFriend](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
 - [WagtailParadise](https://github.com/abrahamrome/WagtailParadise) - demo Wagtail site showing common features and recipes
+- [Outreachy website](https://github.com/outreachy/website/) - Website for Outreachy, who provide internships in open source and open science.
 
 ## Contribute
 

@@ -62,7 +62,7 @@ This is a list of awesome resources about VLC and LibVLC.
 
 ## Ebook
 
-- [The Good Parts of LibVLC](https://mfkl.gumroad.com/l/libvlc-good-parts)
+- [The Good Parts of LibVLC](https://mfkl.gumroad.com/l/libvlc-good-parts) - The first ebook about the VideoLAN non-profit organization and the opensource LibVLC developer SDK.
 
 ## Community
 

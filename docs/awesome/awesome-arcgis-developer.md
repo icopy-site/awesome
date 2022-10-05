@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="Esri/awesome-arcgis-developer"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome ArcGIS Developer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome ArcGIS Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <img src="https://raw.githubusercontent.com/Esri/awesome-arcgis-developer/master/arcgis-platform-logo.svg?sanitize=true" align="right" width="100">
 
@@ -82,6 +82,7 @@ ArcGIS Platform is Esri's Platform as a Service (PaaS) for mapping and location 
 - [Esri/developer-support](https://github.com/Esri/developer-support) - Community samples to help be successful with all ArcGIS developer products (Python, NET, JavaScript, Android…).
 - [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) - A collection of resources for developers using the ArcGIS API for JavaScript.
 - [esri-loader Examples](https://github.com/Esri/esri-loader#examples) - Examples of how to use the ArcGIS API for JavaScript via esri-loader in applications built with React, Angular, Vue, and other frameworks.
+- [EsriDevSummit](https://github.com/esridevsummit/) - Supplemental source code, example projects, and resources supporting DevSummit technical sessions.
 - [esrinederland/CoolMaps](https://github.com/esrinederland/CoolMaps) - Shows cool example maps you can use.
 - [esrinederland/CoolScripts](https://github.com/esrinederland/CoolScripts) - Esri Netherlands scripts and snippets for reuse.
 - [RalucaNicola/code-snippets-arcgis-api-js](https://github.com/RalucaNicola/code-snippets-arcgis-api-js) - A collection of code snippets for ArcGIS API for JavaScript.
