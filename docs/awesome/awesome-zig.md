@@ -136,6 +136,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 ## Misc libraries
 * [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Bindings for the Lua C API.
+* [ryoppippi/zigcv](https://github.com/ryoppippi/zigcv) - Bindings for OpenCV4.
 * [BraedonWooding/Lazy-Zig](https://github.com/BraedonWooding/Lazy-Zig) - Linq.
 * [DutchGhost/maybeuninit](https://github.com/DutchGhost/maybeuninit) - MaybeUninit.
 * [emekoi/log.zig](https://github.com/emekoi/log.zig) - A thread-safe logging library.

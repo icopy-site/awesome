@@ -1112,7 +1112,6 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](http
 
 
 
-<span id = "tom"></span>
 ### Theory of Mind
 
 * [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) - ***Wikipedia***. Wikipedia on Theory of Mind (ToM), a cognitive capability that estimating others' goal, belief, and desire.
