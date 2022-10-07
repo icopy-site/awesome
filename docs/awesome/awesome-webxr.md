@@ -196,6 +196,7 @@
 ### Realms
 
 - [Cryptovoxels](https://www.cryptovoxels.com/) - A virtual world powered by Ethereum where players can buy land, build stores, display art, and more.
+- [Hyperfy](https://hyperfy.io/) - A platform hosting up to 10,000 customizable, cross-platform, and immersive virtual worlds. Built on three.js, powered by Ethereum.
 - [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
 - [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
 - [Webaverse](https://webaverse.com/) - An open-source virtual world powered by Ethereum with support for custom avatars. Focused on digital ownership, an open economy, and interoperability.
