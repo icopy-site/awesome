@@ -880,6 +880,8 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [Fukuzatsu](https://github.com/CoralineAda/fukuzatsu) — A tool for measuring code complexity in Ruby class files. Its analysis generates scores based on cyclomatic complexity algorithms with no added "opinions".
 
+- [htmlbeautifier](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
+
 - [laser](https://github.com/michaeledgar/laser) :warning: — Static analysis and style linter for Ruby code.
 
 - [pelusa](https://github.com/codegram/pelusa) — Static analysis Lint-type tool to improve your OO Ruby code.
@@ -1577,6 +1579,8 @@ It is inspired by, contains code from and is designed to stay close to [Kubeval]
 
 - [ERB Lint](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
 
+- [htmlbeautifier](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
+
 
 <h2 id="gherkin">Gherkin</h2>
 
@@ -1602,6 +1606,8 @@ It is inspired by, contains code from and is designed to stay close to [Kubeval]
 - [HTML Tidy](http://www.html-tidy.org) — Corrects and cleans up HTML and XML documents by fixing markup errors and upgrading legacy code to modern standards.
 
 - [HTML-Validate](https://html-validate.org/) — Offline HTML5 validator.
+
+- [htmlbeautifier](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 
 - [HTMLHint](https://htmlhint.com) — A Static Code Analysis Tool for HTML.
 

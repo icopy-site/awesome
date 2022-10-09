@@ -1098,7 +1098,9 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](http
 * [A Theoretical Computer Science Perspective on Consciousness](https://www.worldscientific.com/doi/abs/10.1142/S2705078521500028) - ***Journal of Artificial Intelligence and Consciousness***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16430561748075101972&hl=en&as_sdt=0,5)].
 
 
-### Science of Science
+### Metascience
+
+#### Science of Science
 
 * [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***Wikipedia***.
 
@@ -1110,6 +1112,11 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](http
 
 * [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***Proceedings of the National Academy of Sciences***, 2021. [[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487&hl=zh-CN&as_sdt=0,5)]. An analysis of why too many papers published each year in a field can lead to stagnation rather than advance. 
 
+
+
+#### Literature Mining
+
+* [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
 
 
 ### Theory of Mind
