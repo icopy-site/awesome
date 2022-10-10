@@ -868,6 +868,8 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [cane](https://github.com/square/cane) — Code quality threshold checking as part of your build.
 
+- [Churn](https://github.com/danmayer/churn) — A Project to give the churn file, class, and method for a project for a given checkin. Over time the tool adds up the history of churns to give the number of times a file, class, or method is changing during the life of a project.
+
 - [dawnscanner](https://github.com/thesp0nge/dawnscanner) — A static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
 
 - [ERB Lint](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
@@ -884,6 +886,8 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [laser](https://github.com/michaeledgar/laser) :warning: — Static analysis and style linter for Ruby code.
 
+- [MetricFu](https://github.com/metricfu/metric_fu) — MetricFu is a set of tools to provide reports that show which parts of your code might need extra work.
+
 - [pelusa](https://github.com/codegram/pelusa) — Static analysis Lint-type tool to improve your OO Ruby code.
 
 - [quality](https://github.com/apiology/quality) — Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
@@ -895,6 +899,8 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 - [rails_best_practices](https://rails-bestpractices.com) — A code metric tool for Rails projects
 
 - [reek](https://github.com/troessner/reek) — Code smell detector for Ruby.
+
+- [Roodi](https://github.com/roodi/roodi) — Roodi stands for Ruby Object Oriented Design Inferometer. It parses your Ruby code and warns you about design issues you have based on the checks that it has configured.
 
 - [RuboCop](https://docs.rubocop.org/rubocop) — A Ruby static code analyzer, based on the community Ruby style guide.
 
