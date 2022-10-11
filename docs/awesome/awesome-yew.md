@@ -81,6 +81,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [Rust Audio](https://github.com/austintheriot/audio) - Realtime audio processing / synthesis using Rust/WASM in the browser, [Live Demo](https://austintheriot.github.io/audio/).
 - [Kiomet](https://kiomet.com) - An online real-time strategy game in which you expand your territory by capturing towers.
 - [Portfolio website](https://github.com/simbleau/website) - A portfolio SPA with accessibility built-in by Spencer Imbleau.
+- [tchatche.rs](https://github.com/nag763/tchatchers) - A Websocket chat based application built in Yew and Axum.
 
 ## Templates
 
@@ -142,6 +143,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [Tailwind RS](https://github.com/oovm/tailwind-rs) - Tailwind style tracer in rust, JIT + AOT interpreter.
 - [yew-style-in-rs](https://github.com/MatchaChoco010/yew-style-in-rs) - Scoped CSS in Rust for Yew.
 - [yew_icons](https://github.com/finnbear/yew_icons) - Easily include a variety of svg icons(Feather/Font Awesome/Octicons) into your Yew app.
+- [Yew-Template](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
 
 ### Wasm
 

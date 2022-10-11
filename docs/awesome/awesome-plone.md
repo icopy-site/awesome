@@ -41,6 +41,7 @@ _Add-ons that provide content-types or additional functionality for content_
 ## Searching and Categorizing
 
 * [collective.bookmarks](https://github.com/collective/collective.bookmarks) - Bookmarks/ favorites/ wish-list for Plone.
+* [collective.elasticsearch](https://github.com/collective/collective.elasticsearch) - Use ElasticSearch as the search backend for Plone.
 * [collective.solr](https://github.com/collective/collective.solr) - Solr search engine integration for Plone.
 * [Products.PloneKeywordManager](https://github.com/collective/Products.PloneKeywordManager) - Change, merge and delete keywords/tags/subjects).
 

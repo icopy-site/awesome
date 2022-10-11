@@ -71,6 +71,8 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 - [XRay: Enhancing the Web's Transparency with Differential Correlation](https://www.usenix.org/node/184394) - (USENIX Security) *Audits which user profile data were used for targeting a particular ad, recommendation, or price.*
 ### 2013
 - [Measuring Personalization of Web Search](https://dl.acm.org/citation.cfm?id=2488435) - (WWW) *Develops a methodology for measuring personalization in Web search result.*
+- [Auditing: Active Learning with Outcome-Dependent Query Costs](https://www.cs.bgu.ac.il/~sabatos/papers/SabatoSarwate13.pdf) - (NIPS) *Learns from a binary classifier paying only for negative labels.*
+
 ### 2012
 - [Query Strategies for Evading Convex-Inducing Classifiers](http://www.jmlr.org/papers/v13/nelson12a.html) - (JMLR) *Evasion methods for convex classifiers. Considers evasion complexity.*
 ### 2008

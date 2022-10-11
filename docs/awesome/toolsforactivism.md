@@ -22,7 +22,6 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [Crowdring](https://github.com/therules/CrowdRing) - web app where people around the world can place a free missed call to sign a petition
  * [Self Starter](https://github.com/lockitron/selfstarter) - roll your own crowdfunding site
  * [TakeCharge.io](https://github.com/controlshift/prague-server) - opensource or SaaS online donations powered by Stripe.
- * [VictoryKit](http://www.victorykitapp.com) - Optimize petition campaign content. Not actively maintained.
  * [Countdown](https://github.com/drewrwilson/countdown) - A quick & simple tool for making your own webpage with a countdown to your upcoming event.
  * [CiviCRM](https://civicrm.org/) - Contact management system for non-profit / activist sector, including donations, memberships, events, SMS, bulk mail & full CRM.
  * [Spoke](https://github.com/Elizabeth-Warren/Spoke) - Text-distribution tool for organizations to mobilize supporters and members into action. Spoke allows you to upload phone numbers, customize scripts and assign volunteers to communicate with supporters while allowing organizations to manage the process.
@@ -37,6 +36,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [Action Network](https://actionnetwork.org) - A nonprofit digital organizing toolset for progressive organizations. Includes petitions, advocacy, fundraising, mass email, and more for free or cheap.
  * [Democracy.io](https://democracy.io) ([code](https://github.com/sinak/democracy.io)) - Send messages to members of the US Senate and House of Representatives. 
  * [MoveOn's Petition Platform](https://petitions.moveon.org/) - Start your own petition on MoveOn's hosted platform. If your petition gains traction, MoveOn staff may help support you.
+ * [CiviWiki](https://civi.wiki/) - An open-source, non-profit community, working to develop a democratic engagement web system.
  
 ## Operating Systems:
 
@@ -45,6 +45,8 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  ## Browsers:
 
  * [Tor Browser](https://github.com/TheTorProject/gettorbrowser) - Free software for enabling anonymous communication. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked.
+ 
+
 
 ## Projects to keep an eye on (ie projects in development)
 
