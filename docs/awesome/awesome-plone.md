@@ -44,6 +44,7 @@ _Add-ons that provide content-types or additional functionality for content_
 * [collective.elasticsearch](https://github.com/collective/collective.elasticsearch) - Use ElasticSearch as the search backend for Plone.
 * [collective.solr](https://github.com/collective/collective.solr) - Solr search engine integration for Plone.
 * [Products.PloneKeywordManager](https://github.com/collective/Products.PloneKeywordManager) - Change, merge and delete keywords/tags/subjects).
+* [zopyx.typesense](https://github.com/zopyx/zopyx.typesense) - Plone integration with the external Typesense search server (open-source). This is an alternative to collective.solr or Elasticsearch.
 
 
 ## Layout
