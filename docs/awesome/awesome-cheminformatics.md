@@ -86,6 +86,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [DeepChem](https://github.com/deepchem/deepchem) - Deep learning library for Chemistry based on Tensorflow
 * [ChemML](https://github.com/hachmannlab/chemml) - ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data. (based on Tensorflow)
+* [olorenchemengine](https://github.com/Oloren-AI/olorenchemengine) - Molecular property prediction with unified API for diverse models and respresentations,
+  with integrated uncertainty quantification, interpretability, and hyperparameter/architecture tuning.
 * [OpenChem](https://github.com/Mariewelt/OpenChem) - OpenChem is a deep learning toolkit for Computational Chemistry with PyTorch backend.
 * [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
 * [pytorch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/) - A PyTorch library provides implementation of many graph convolution algorithms.
@@ -126,7 +128,9 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [eiR](https://github.com/girke-lab/eiR) - Accelerated similarity searching of small molecules
 * [OPSIN](https://github.com/dan2097/opsin) - Open Parser for Systematic IUPAC nomenclature
 * [Cookiecutter for Computational Molecular Sciences](https://github.com/MolSSI/cookiecutter-cms) - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
-
+* [Auto-QChem](https://github.com/PrincetonUniversity/auto-qchem) - an automated workflow for the generation and storage of DFT calculations for organic molecules.
+ 
+ 
 ## Journals
 
 * [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/)
