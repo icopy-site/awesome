@@ -157,6 +157,7 @@ This project lists books and other resources grouped by genres:
 + [Sinhala / සිංහල](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-si.md)
 + [Spanish / español / castellano](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-es.md)
 + [Swedish / svenska](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-sv.md)
++ [Telugu / తెలుగు](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-te.md)
 + [Tamil / தமிழ்](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ta.md)
 + [Thai / ภาษาไทย](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-th.md)
 + [Turkish / Türkçe](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-tr.md)
@@ -200,6 +201,7 @@ Free Podcasts and Screencasts:
 + [Spanish / español / castellano](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-es.md)
 + [Swedish / Svenska](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-sv.md)
 + [Turkish / Türkçe](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-tr.md)
++ [Ukrainian / Українська](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-uk.md)
 
 
 ### Programming Playgrounds
