@@ -49,7 +49,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * AppsThunder - http://appsthunder.com/submit-your-app/
 * AppStorm - http://appstorm.net/
 * Appvita - http://www.appvita.com/
-* AppZapp - http://www.appzapp.net/en/app-review-request/
 * Arctic Startup - http://arcticstartup.com/
 * Awesome Indie - https://awesomeindie.com
 * Beta Bound - http://www.betabound.com/announce/
@@ -66,6 +65,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Collaborizm - https://www.collaborizm.com
 * Crazy About Startups - http://www.crazyaboutstartups.com/index.php/share-your-startup-form
 * CrozDesk - https://vendor.crozdesk.com/user/signup
+* CtrlAlt.cc - https://ctrlalt.cc/
 * Crunch Base - https://www.crunchbase.com/#/home/index
 * Designer News - https://www.designernews.co/
 * Discova - http://www.discova.co/
@@ -151,6 +151,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * VB Profiles - http://vbprofiles.com/
 * Venture Beat - http://venturebeat.com/news-tips/
 * Web App Rater - https://webapprater.com/submit-your-web-application-for-review-html
+* Website Hunt - https://www.websitehunt.co
 * Ycombinator - https://news.ycombinator.com/
 * YouNoodle - https://ww2.younoodle.com/startups/
 

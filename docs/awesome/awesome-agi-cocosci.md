@@ -463,7 +463,7 @@ Contributing is greatly welcomed! Please read the [Contributing Guidelines](http
 * [Identifying concept libraries from language about object structure](https://arxiv.org/pdf/2205.05666.pdf) - ***CogSci'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=4019205027627496528&hl=en&as_sdt=0,5)].
 
 
-<span id = "lcp"></span>
+
 ### Learning with Cognitive Plausibility
 
 * [Accuracy and Precision](https://en.wikipedia.org/wiki/Accuracy_and_precision) - ***Wikipedia***. Wikipedia on the distinctions and the trade-off between accuracy and precision.
