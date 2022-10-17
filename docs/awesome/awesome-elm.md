@@ -146,9 +146,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Listen to podcasts about Elm*
 
-* [Elm Town](https://elmtown.github.io/) - A podcast about the people in the Elm community.
-* [Implementing Elm](https://www.implementingelm.com/) - A deep dive into specific problems to help the Elm community.
 * [Elm Radio](https://elm-radio.com) - Tune in to the tools and techniques in the Elm ecosystem.
+* [Elm Town](https://elmtown.github.io/) - A podcast about the people in the Elm community (Outdated).
 
 ### Individual Podcast episodes
 
@@ -178,15 +177,20 @@ Tools and libraries to test your Elm applications
 
 ## Code generators
 
-* [HTML to Elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
-* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) - Generate OpenApi types for Elm.
+* [Elm Bridge](https://github.com/agrafix/elm-bridge) - Generate Elm types from Haskell
+* [Elm CodeGen](https://github.com/mdgriffith/elm-codegen) - Generate Elm code
 * [Elm TS Interop](https://github.com/dillonkearns/elm-ts-json) - Build up Encoders/Decoders between Elm and TypeScript.
 * [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate TypeScript definitions from Elm (`Elm TS Interop` is an improved version of this).
-* [Quicktype](https://github.com/quicktype/quicktype) - Generate JSON decoders and encoders from JSON
-* [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) - Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications
-* [Elm Bridge](https://github.com/agrafix/elm-bridge) - Generate Elm types from Haskell
+* [elm-gql](https://github.com/vendrinc/elm-gql) - Generate GraphQl client code from GraphQL queries
+* [elm-graphql](https://github.com/dillonkearns/elm-graphql) - Generate GraphQl client code from GraphQL schemas
 * [haskell-to-elm](https://github.com/folq/haskell-to-elm) - Generate Elm types, encoders, and decoders from Haskell types
+* [HTML to Elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
+* [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) - Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications
+* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) - Generate OpenApi types for Elm.
 * [PostCSS Elm Tailwind](https://github.com/monty5811/postcss-elm-tailwind) - Put some Tailwind in your Elm
+* [Protoc Gen Elm](https://github.com/andreasewering/protoc-gen-elm) - Generate Protobuf En/Decoders from .proto files
+* [Quicktype](https://github.com/quicktype/quicktype) - Generate JSON decoders and encoders from JSON
+* [Travelm Agency](https://github.com/andreasewering/travelm-agency) - Generate typesafe Elm code from translation files
 
 
 ---
@@ -241,8 +245,9 @@ You can find hundreds of high quality packages at:
 
 *Projects that bring a framework approach to Elm (scaffolding, route generation, etc)*
 
-- [elm-spa](https://www.elm-spa.dev/) - single page apps made easy
-- [Spades](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world
+- [elm-spa](https://www.elm-spa.dev/) - Framework for making single page apps in Elm.
+- [Elm Land](https://elm.land/) - A framework for building Elm applications.
+- [Spades](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world.
 
 ---
 
@@ -285,9 +290,13 @@ You can find hundreds of high quality packages at:
 
 ## Compile and bundle
 
-* [elm-compiler](https://github.com/elm/compiler) - Compiler for the Elm programming language.
-* [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) - Webpack loader for the Elm programming language.
-* [Parcel](https://parceljs.org/languages/elm/) - Bundle Elm using Parcel
+* [elm-compiler](https://github.com/elm/compiler) - The official Elm compiler.
+* [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) - Webpack loader Elm.
+* [Parcel](https://parceljs.org/languages/elm/) - Bundle Elm using Parcel.
+* [vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) - Vite plugin for Elm.
+
+### Unmaintained
+
 * [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
 
 
@@ -391,7 +400,7 @@ You can find hundreds of high quality packages at:
 ### Games
 
 * [elm-games](https://github.com/rofrol/elm-games) - An excellent list of games made in Elm
-
+* [TheSpace App](https://github.com/thematters/thespace-app) - A reddit place like DApp with blockchain and canvas(through port) integration in Elm.
 
 
 ---
@@ -405,7 +414,7 @@ You can find hundreds of high quality packages at:
 * [Discourse](https://discourse.elm-lang.org/) - Elm Discourse instance (official forum).
 * [Reddit](https://www.reddit.com/r/elm) - Elm board on reddit.
 * [IRC](http://webchat.freenode.net/?channels=elm) - Ask questions on elm freenode.
-* [Slack](http://elmlang.herokuapp.com/) - Elm slack community.
+* [Slack](https://elm-lang.org/community/slack) - Elm slack community.
 
 
 ---
