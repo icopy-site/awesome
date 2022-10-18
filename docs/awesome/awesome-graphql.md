@@ -275,6 +275,7 @@ If you want to contribute to this list (please do), send me a pull request.
 #### Python Examples
 
 - [swapi-graphene](https://github.com/graphql-python/swapi-graphene) - A GraphQL schema and server using [Graphene](https://graphene-python.org).
+- [Python Backend Tutorial](https://hasura.io/learn/graphql/backend-stack/languages/python/) - A tutorial on creating a GraphQL server with [Strawberry](https://strawberry.rocks/) and a client with [Qlient](https://qlient-org.github.io/python-qlient/site/).
 
 <a name="java" />
 
@@ -317,6 +318,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [graphql-java-kickstart_samples](https://github.com/graphql-java-kickstart/samples) - Samples for using the GraphQL Java Kickstart projects.
 - [graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example.
 - [dgs-federation-example](https://github.com/Netflix/dgs-federation-example) - A Netflix DGS federation example.
+- [Spring Boot backend tutorial](https://hasura.io/learn/graphql/backend-stack/languages/java/) - A tutorial creating a GraphQL server and client using Spring Boot and Netflix DGS.
 
 <a name="kotlin" />
 
@@ -359,6 +361,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - Barebones starting point for a Relay application with Golang GraphQL server.
 - [todomvc-relay-go](https://github.com/sogko/todomvc-relay-go) - Port of the React/Relay TodoMVC app, driven by a Golang GraphQL backend.
 - [go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - A GraphQL schema and server that demonstrates GraphQL [subscriptions](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) (over Websocket) to consume [Apache Kafka](https://kafka.apache.org/) messages.
+- [Go Backend Tutorial](https://hasura.io/learn/graphql/backend-stack/languages/go/) - A tutorial showing how to make a Go GraphQL server and client using code generation.
 
 <a name="scala" />
 
@@ -385,6 +388,12 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Snowflaqe](https://github.com/Zaid-Ajaj/Snowflaqe) - Type-safe GraphQL code generator for F# and [Fable](https://github.com/fable-compiler/Fable)
 - [EntityGraphQL](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to bring multiple data sources together in the single GraphQL schema.
 - [ZeroQL](https://github.com/byme8/ZeroQL) - type-safe GraphQL client with Linq-like interface for C#
+
+<a name="net-example" />
+
+#### .NET Examples
+
+- [.NET backend tutorial](https://hasura.io/learn/graphql/backend-stack/languages/dotnet/) - A tutorial creating a GraphQL server and client with .NET.
 
 <a name="elixir" />
 

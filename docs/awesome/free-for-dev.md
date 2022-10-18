@@ -201,6 +201,7 @@ Table of Contents
   * [IPList](https://www.iplist.cc) — Lookup details about any IP address, such as Geo IP information, tor addresses, hostnames and ASN details. Free for personal and business users.
   * [BigDataCloud](https://www.bigdatacloud.com/) - Provides fast, accurate and free (Unlimited or up to 10K-50K/month) APIs for modern web like IP Geolocation, Reverse Geocoding, Networking Insights, Email and Phone Validation, Client Info and more.
   * [IPTrace](https://iptrace.io) — An embarrassingly simple API that provides reliable and useful IP geolocation data for your business.
+  * [JSON2Video](https://json2video.com) - A video editing API to automate video marketing and social media videos, programmatically or with no-code.
   * [JSON IP](https://getjsonip.com) — Returns the Public IP address of the client it is requested from. No registration required for free tier. Using CORS data can be requested using client side JS directly from browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.
   * [konghq.com](https://konghq.com/) — API Marketplace and powerful tools for private and public APIs. With the free tier, some features are limited such as monitoring, alerting and support.
   * [Kreya](https://kreya.app) — Free gRPC GUI client to call and test gRPC APIs. Can import gRPC APIs via server reflection.
@@ -925,6 +926,7 @@ Table of Contents
   * [pushbots.com](https://pushbots.com/) — Push notification service. Free for up to 1.5 million pushes/month
   * [pushcrew.com](https://pushcrew.com/) — Push notification service. Unlimited notifications up to 2000 Subscribers
   * [pusher.com](https://pusher.com/beams) — Free, unlimited push notifications for 2000 monthly active users. A single API for iOS and Android devices.
+   * [engagespot.co](https://engagespot.co/) — Notification infrastructure for developers. Free for upto 100 monthly active users.
   * [pushtechnology.com](https://www.pushtechnology.com/) — Real-time Messaging for browsers, smartphones and everyone. 100 concurrent connections. Free 10 GB data/month
   * [quickblox.com](https://quickblox.com/) — A communication backend for instant messaging, video and voice calling and push notifications
   * [restspace.io](https://restspace.io/) - Configure a server with services for auth, data, files, email API, templates etc, then compose into pipelines and transform data.
@@ -1004,6 +1006,7 @@ Table of Contents
   * [is-a.dev](https://www.is-a.dev/) — Free is-a.dev subdomain for developers.
   * [is-a-good.dev](https://is-a-good.dev) — A free is-a-good-dev subdomain for developers.
   * [cluster.ws & wip.la](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
+  * [Dee.al](https://domain.dee.al) — Free .dee.al,.gal.aw,.devz.id instant domain for your blog site & Other, ENJOY
 
 
 ## IaaS
@@ -1048,7 +1051,7 @@ Table of Contents
    * [Macrometa](https://www.macrometa.com/) - a noSQL database, Pub/Sub, event processing, and serverless edge computing platform for building geo-distributed and real-time applications. Free dev account gives access to 10,000 Operations/Day & 200MB Storage.
    * [Planetscale](https://planetscale.com/) - PlanetScale is a MySQL compatible, serverless database platform powered by Vitess, 1 databases for free with 1 Production branch and 1 Development branch, 5GB storage, 1 Billion rows read/mo per database, and 10 Million rows written/mo per database.
    * [YugabyteDB](https://cloud.yugabyte.com) - YugabyteDB is a distributed SQL database compatible with PostgresSQL. The cloud free tier is a 2 vCPU, 4GB RAM, 10GB Disk.
-   * [filess.io](https://filess.io) - filess.io is a platform where you can create upto 5 databases of the following DBMS for free: MySQL, MariaDB, MongoDB, PostgreSQL.
+   * [filess.io](https://filess.io) - filess.io is a platform where you can create 1 database of the following DBMS for free: MySQL, MariaDB, MongoDB, PostgreSQL.
 
 
 ## Tunneling, WebRTC, Web Socket Servers and Other Routers
