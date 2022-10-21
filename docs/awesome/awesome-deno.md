@@ -374,6 +374,11 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 - [Matías Insaurralde - Deno: an experimental approach on V8 interoperability [EN subtitles] - NodeConf Argentina 2019](https://www.youtube.com/watch?v=N0BRE-0n2cU)
   - [Slides](https://speakerdeck.com/matiasinsaurralde/deno-an-experimental-approach-on-v8-interoperability)
 
+## Resources
+
+### Books
+- [Modern Web Development with Deno](https://bpbonline.com/products/modern-web-development-with-deno)
+
 ## Resources in Other Languages
 
 ### Chinese

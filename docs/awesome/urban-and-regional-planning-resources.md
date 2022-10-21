@@ -129,6 +129,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 ### Transportation
 - [Accessibility Observatory](http://access.umn.edu/data/datasets/) - As part of the Access Across America series the Accessibility Observatory at UMN evaluates multiple modes of transportation accessibility in major U.S. metropolitan areas. Reports are published annually, and select data sets are available through the University of Minnesota's Digital Conservatory.
 - [BTS Open Data Site](https://data-usdot.opendata.arcgis.com/) - On the BTS Open Data site, browse geospatial data that is part of the BTS National Transportation Atlas Database (NTAD) product. NTAD is a set of nationwide (United States) geographic databases of public spatial information for transportation facilities and networks; flows of people, goods, vehicles, and craft over the transportation networks; and social, economic, and environmental conditions that affect or are affected by the transportation networks.
+- [City Access Map](https://www.cityaccessmap.com/) - CityAccessMap was developed by urban scientists, for urban planners. It uses open data from OpenStreetMap and the Global Human Settlement Layer (GHSL), to quantify and visualize walking accessibility to a variety of services for any city in the world.
 - [CTPP](https://ctpp.transportation.org/) - The CTPP Program procures tabulations of American Community Survey (ACS) 5-year (and historical Census decennial) data. The chief differences between ACS data and CTPP data are FLOWS from home to work and WORKPLACE BASED data at small Geographies.
 - [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm0) - The HPMS is a national level highway information system that includes data on the extent, condition, performance, use and operating characteristics of the nation's highways.
 - [Transitland](https://transit.land) - Transitland is an open data platform that collects GTFS, GTFS Realtime, and other open data feeds from over 2,500 transit operators in over 55 countries. Additional Information: [Interline](https://www.interline.io/), [GitHub](https://github.com/transitland).
@@ -314,6 +315,7 @@ Software, tools, and platforms for geospatial visualization.
 - [ScapeToad](http://scapetoad.choros.place/index.php) - ScapeToad is a cross-platform, open-source application designed to adjust the size of polygons based on some attribute. Use a shapefile as input and output to generate cartograms, geometries whose sizes are distorted based on data. 
 - [Omnisci](https://www.omnisci.com/) - Geotemporal enabled high performance database capable of doing GPU accelerated queries.
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS) - BlenderGIS is a free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
+- [Felt](https://felt.com/) - A web based mapping application that enables multple users to colloboratively edit and view in data in real-time. 
 
 ### Public Engagement Tools and Platforms
 Software, tools, and platforms intended to aid with public engagement and outreach activities. 
