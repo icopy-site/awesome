@@ -2,9 +2,8 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Algorand [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<br/>
 <div align="center">
-<a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://i.imgur.com/EMRYFqZ.png"></a>
+<a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://ipfs.algonode.xyz/ipfs/bafybeibsc2khpnpurdz43uunrxnbttes5skbeftnsjtm5axq2vqv7bwz3q"></a>
 </div>
 <br/>
 <div align="center">
