@@ -46,14 +46,11 @@ Material-UI Design family of projects.
 - [Material Theme Editor](https://material.io/resources/theme-editor/) - Create and customize your Material theme.
 - [Components Extra](https://github.com/alexandre-lelain/components-extra) - Provides a set of "molecule" components built on top of Material-UI such as a Footer, a CookiesBanner, a BackToTop button and other complex elements highly customizable to help developers build the macro parts of their UI very quickly. Those components are often duplicated across sites - this library solves this exact problem.
 - [React Admin](https://marmelab.com/react-admin/) - A frontend Framework for building admin applications running in the browser, on top of REST/GraphQL APIs, using ES6, React and Material Design.
-- [React Github Repo Cards](https://react-github-repo-cards.vercel.app/) - 8 best GitHub repositories of Sabesan Sathananthan.
-- [Material-UI Medium Blog](https://material-ui-medium-blog.vercel.app/) - Sabesan Sathananthan's last 10 Medium blogs.
 
 ## Components
 
 A list of UI components built with Material-UI Design.
 
-- [Material-UI Pickers](https://github.com/mui-org/material-ui-pickers) - Date and time pickers built for @material-ui/core.
 - [Material-UI Chip Input](https://github.com/TeamWertarbyte/material-ui-chip-input) - Material-UI chip input inspired by Angular Material chip input.
 - [Material-UI Password field](https://github.com/TeamWertarbyte/material-ui-password-field) - A password field using Material-UI.
 - [Fullscreen Dialog](https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog) - A fullscreen dialog for Material-UI.
@@ -82,7 +79,6 @@ A list of UI components built with Material-UI Design.
 A list of mature apps built with Material-UI Design.
 
 - [bethesda.net](https://bethesda.net/) - The official site for Bethesda, publisher of Fallout, DOOM, Dishonored, Skyrim, Wolfenstein, The Elder Scrolls, more.
-- [NEO Tracker](https://neotracker.io/) - NEO blockchain explorer and wallet.
 - [TagSpaces](https://www.tagspaces.org/) - An offline, open source, file manager.
 - [Builder Book](https://builderbook.org/) - Books that teach you how to build full stack, production-ready web apps.
 - [NPM registry browser](https://topheman.github.io/npm-registry-browser/) - An open source web app that lets you search the npm registry and browse packages details.

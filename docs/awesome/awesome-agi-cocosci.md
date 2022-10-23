@@ -601,7 +601,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 * [Word formation supports efficient communication: The case of compounds](http://www.charleskemp.com/papers/hanrpk_humanlikepropertyinductionisachallengeforlargelanguagemodels.pdf) - ***CogSci'22***, 2022.
 
 
-<span id = "probsol"></span>
+
 ### Problem Solving
 
 <span id = "hmprobsol"></span>

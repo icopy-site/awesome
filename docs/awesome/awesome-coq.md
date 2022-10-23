@@ -129,6 +129,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Roosterize](https://github.com/EngineeringSoftware/roosterize) - Tool for suggesting lemma names in Coq projects.
 - [Sail](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture semantics of processors and generating Coq definitions.
 - [SerAPI](https://github.com/ejgallego/coq-serapi) - Tools and OCaml library for (de)serialization of Coq code to and from JSON and S-expressions.
+- [Trakt](https://github.com/ecranceMERCE/trakt) - Generic goal preprocessing tool for proof automation tactics.
 
 ### Type Theory and Mathematics
 
@@ -223,8 +224,9 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 
 - [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - Introduction to using separation logic to reason about sequential imperative programs in Coq.
 - [Floating-Point Numbers and Formal Proof](https://github.com/thery/FlocqLecture) - Introductory course on Coq real numbers and floating-point numbers from the Flocq library.
-- [Proofs and Reliable Programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2021/) - Introduction to developing and verifying programs with Coq.
+- [Introduction to the Theory of Computation](https://gitlab.com/umb-svl/turing) - Formalization to support an undergraduate course on the theory of computation, including languages and Turing machines.
 - [Lectures on Software Foundations](https://github.com/clarksmr/sf-lectures) - Material on the Software Foundations series of textbooks, including a series of YouTube videos.
+- [Proofs and Reliable Programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2021/) - Introduction to developing and verifying programs with Coq.
 
 ### Tutorials and Hints
 

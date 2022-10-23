@@ -1161,7 +1161,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [cqc](https://github.com/xcatliu/cqc) — Check your code quality for js, jsx, vue, css, less, scss, sass and styl files.
 
-- [DeepCode](https://www.deepcode.ai) :copyright: — DeepCode finds bugs, security vulnerabilities, performance and API issues based on AI. DeepCode's speed of analysis allow us to analyse your code in real time and deliver results when you hit the save button in your IDE. Supported languages are Java, C/C++, JavaScript, Python, and TypeScript. Integrations with GitHub, BitBucket and Gitlab.
+- [DeepCode](https://www.deepcode.ai) :copyright: — DeepCode was acquired by Snyk is now Snyk Code.
 
 - [DeepSource](https://deepsource.io) :copyright: — In-depth static analysis to find issues in verticals of bug risks, security, anti-patterns, performance, documentation and style. Native integrations with GitHub, GitLab and Bitbucket. Less than 5% false positives.
 
@@ -1170,6 +1170,8 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 - [DevSkim](https://github.com/microsoft/devskim) — Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
 
 - [Embold](https://embold.io) :copyright: — Intelligent software analytics platform that identifies design issues, code issues, duplication and metrics. Supports Java, C, C++, C#, JavaScript, TypeScript, Python, Go, Kotlin and more.
+
+- [emerge](https://github.com/glato/emerge) — Emerge is a source code and dependency visualizer that can be used to gather insights about source code structure, metrics, dependencies and complexity of software projects. After scanning the source code of a project it provides you an interactive web interface to explore and analyze your project by using graph structures.
 
 - [ESLint](https://github.com/eslint/eslint) — An extensible linter for JS, following the ECMAScript standard.
 
@@ -1271,7 +1273,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Similarity Tester](https://dickgrune.com/Programs/similarity_tester/) — A tool that finds similarities between or within files to support you encountering DRY principle violations.
 
-- [Snyk](https://snyk.io) :copyright: — Vulnerability scanner for dependencies of node.js apps (free for Open Source Projects).
+- [Snyk Code](https://snyk.io) :copyright: — Snyk Code finds security vulnerabilities based on AI. Its speed of analysis allow us to  analyse your code in real time and deliver results when you hit the save button in your IDE.  Supported languages are Java, JavaScript, Python, PHP, C#, Go and TypeScript. Integrations with  GitHub, BitBucket and Gitlab. It is free to try and part of the Snyk platform also covering SCA,  containers and IaC.
 
 - [SonarCloud](https://sonarcloud.io) :copyright: — Multi-language cloud-based static code analysis. History, trends, security hot-spots, pull request analysis and more. Free for open source.
 
