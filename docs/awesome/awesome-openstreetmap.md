@@ -125,6 +125,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [OSM Landuse](https://osmlanduse.org) - OSM based landuse and landcover WebGIS application.
 * [OsmAPP](https://osmapp.org) - A browsable map showing data and offering simple POI-editing capabilities. ([Source Code](https://github.com/zbycz/osmapp))
 * [Tracesmap](https://tracesmap.com/) - A map allowing for planning routes on OsmCarto and OpenTopoMap-derived retina maps.
+* [Visit Sights](https://visitsights.com/) - Suggestions for self-guided sightseeing tours by foot and overview of individual sights all around the world.
 
 ### Mobile Maps
 
@@ -195,6 +196,7 @@ The services in this category allow you to track personal and fitness goals util
 ## Miscellaneous
 
 * [OpenGeofiction](https://opengeofiction.net/) - A completely fictional user-made world map, created using the OSM software platform. ([Wiki](https://wiki.openstreetmap.org/wiki/OpenGeofiction))
+* [OSM Monitor](https://osm-monitor.com/) - A website to monitor and display new OSM edits. ([Source Code](https://github.com/johanmorganti/osm-datadog))
 
 ## Video
 

@@ -187,6 +187,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Raspberry PI Hadoop Cluster](http://www.widriksson.com/raspberry-pi-hadoop-cluster/) - Big Data cluster running on the Raspberry Pi.
 - [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - Fastest and cheapest way to get your own Lightning Node running.
 - [RaspiBolt](https://github.com/Stadicus/guides/tree/master/raspibolt) - Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi.
+- [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - An advanced project to receive weather imagery from the GOES-16 satellite using software defined radio (SDR). 
 - [Relayboard Control](https://github.com/leinir/relayboard-control) - A Qt application to connect a Waveshare 8-channel relay board to an MQTT server.
 - [Rhasspy](https://rhasspy.readthedocs.io) - Open source, fully offline set of voice assistant services that works well with Home Assistant, Node-RED, MQTT and more.
 - [RPi Motor Library](https://github.com/gavinlyonsrepo/RpiMotorLib) - Python 3 library to connect various motors & servos to the Pi.
@@ -214,6 +215,8 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ### Useful Apps
 
+#### Android
+
 - **AndFTP** - Alternative FTP client app. [Android](https://play.google.com/store/apps/details?id=lysesoft.andftp)
 - **Home Remote Control** - Control mouse/keyboard, volume, manage download/upload files, custom commands, terminal, execute tasks in future, control media. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
 - **Kore Remote** - Official remote to control Kodi. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
@@ -226,6 +229,10 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - **Tubio** - Cast web videos directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.aesoftware.tubio)
 - **Turbo FTP** - A good FTP client app for accessing files on raspberry. [Android](https://play.google.com/store/apps/details?id=turbo.client)
 - **VNC Viewer** - To remotely control Raspberry Pi desktop. [Android](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android&hl=en)
+
+#### iOS
+
+- **RaspController** - Allows you to easily manage your Raspberry Pi remotely, control the GPIO ports, send commands directly through the terminal and so much more. [iOS](https://apps.apple.com/app/raspcontroller/id1584315865)
 
 ### Articles
 

@@ -155,6 +155,7 @@ _Add-ons that help developing Plone_
 * [plone.reload](https://github.com/plone/plone.reload) - Code and configuration reload without server restarts.
 * [Products.PrintingMailHost](https://github.com/collective/Products.PrintingMailHost) - Log mail messages instead of sending mail.
 * [experimental.gracefulblobmissing](https://github.com/collective/experimental.gracefulblobmissing/) - Gracefully handle missing binary files in Plone.
+* [collective.patchwatcher](https://github.com/collective/collective.patchwatcher) - A great companion for keeping track of patched or overridden files.
 * [collective.relationhelpers](https://github.com/collective/collective.relationhelpers) - Helpers to manage, create, export and rebuild relations in Plone 5.x. For Plone 6 this was merged into Plone core.
 
 
