@@ -77,7 +77,8 @@ These are books that you'll have to buy, or borrow from a library.
 - [Common Lisp Recipes by Edmund Weitz](http://weitz.de/cl-recipes/) - A great set of Common Lisp patterns.
 - [Object-Oriented Programming in Common Lisp by Sonya E. Keene](https://www.amazon.com/Object-Oriented-Programming-COMMON-LISP-Programmers/dp/0201175894) - An in-depth description of the CLOS, and shows how to use it with example applications.
 - [The Art of the Metaobject Protocol by Gregor Kiczales, Jim des Rivieres, and Daniel G. Bobrow](https://www.amazon.com/Art-Metaobject-Protocol-Gregor-Kiczales/dp/0262610744/) - Describes the CLOS Metaobject Protocol (MOP).
-  - [Chapters 5 and 6 (available online)](http://metamodular.com/CLOS-MOP/) - The specification of a metaobject protocol extension to CLOS.
+  - [Chapters 5 and 6 (available online)](http://metamodular.com/CLOS-MOP/) - The specification of a metaobject protocol extension to CLOS, by Robert Strandh.
+    - Superseded by the [modern public domain CLOS MOP specification](https://clos-mop.hexstreamsoft.com/) by Jean-Philippe Paradis ([Hexstream](https://github.com/Hexstream)).
   - [Adam Tornhill on AMOP](http://www.adamtornhill.com/reviews/amop.htm) - Recommends reading Practical Common Lisp, then  Object-Oriented Programming in Common Lisp, and then AMOP.
 
 ## Online Community
