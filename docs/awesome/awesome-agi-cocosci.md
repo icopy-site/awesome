@@ -1872,7 +1872,6 @@ Developmental psychologist, proposed *object* as a core knowledge of human intel
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***MIT Press***, 1985. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=)].
 
 
-<span id = "dk"></span>
 ### Daniel Kahneman
 
 Computational cognitive scientist and Economist, set up the foundations for Decision Theory.

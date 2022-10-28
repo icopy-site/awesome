@@ -105,6 +105,7 @@ A curated list of awesome niche job boards.
 * [React Jobs](https://reactjsjob.com)
 * [Svelte Jobs](https://sveltejobs.com/)
 * [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source.
+* [JSJobbs](https://jsjobbs.com/)
 
 ### Perl
 
@@ -116,6 +117,7 @@ A curated list of awesome niche job boards.
 * [jobs.wordpress.net](https://jobs.wordpress.net/)
 * [LaraJobs](https://larajobs.com/)
 * [WPhired](https://www.wphired.com/) - WordPress Jobs
+* [Jobbsy](https://jobbsy.dev) - Symfony Jobs
 
 ### Python
 
