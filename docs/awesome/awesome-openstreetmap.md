@@ -88,6 +88,7 @@ We also have a list of <a href="UNMAINTAINED.md">unmaintained projects</a>. If y
 * [Suspicious OSM Changesets](https://resultmaps.neis-one.org/osm-suspicious) - Find suspicious OSM changesets.
 * [Changeset Text Search](https://resultmaps.neis-one.org/osm-changesets) - Filter OSM changesets by comment.
 * [Latest Changeset Discussions](https://resultmaps.neis-one.org/osm-discussions) - Show latest discussions on OSM changesets.
+* [latest-changes](https://rene78.github.io/latest-changes/#2/15.0/-15.0) - Visualize latest OSM changesets within a certain geographic boundary. Includes a simple vandalism checker. ([Source Code](https://github.com/rene78/latest-changes/))
 
 
 ## Tasking Managers
@@ -109,7 +110,6 @@ This section is a great place to start if you want to get into improving OpenStr
 
 ### Web Maps
 
-* [last-week-on-osm](https://tyrasd.github.io/latest-changes/#2/15.0/-15.0) - Map for exploring latest changesets. ([Source Code](https://github.com/tyrasd/latest-changes/))
 * [Baato Before-After Maps](https://beforeafter.baato.io/) - Generate before-after maps to visualize the work your local community has done. ([Source Code](https://github.com/baato/before-after))
 * [Show me the way](https://osmlab.github.io/show-me-the-way/) - Live map showing latest changes on aerial imagery. ([Source Code](https://github.com/osmlab/show-me-the-way/) / [Wiki](https://wiki.openstreetmap.org/wiki/Show_Me_The_Way))
 * [OSM In Realtime](https://osm-in-realtime.jwestman.net/) - Visualization of the changes made to OpenStreetMap as they happen. ([Source Code](https://gitlab.com/jwestman/osm-in-realtime) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM-in-realtime))
@@ -126,6 +126,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [OsmAPP](https://osmapp.org) - A browsable map showing data and offering simple POI-editing capabilities. ([Source Code](https://github.com/zbycz/osmapp))
 * [Tracesmap](https://tracesmap.com/) - A map allowing for planning routes on OsmCarto and OpenTopoMap-derived retina maps.
 * [Visit Sights](https://visitsights.com/) - Suggestions for self-guided sightseeing tours by foot and overview of individual sights all around the world.
+* [Defikarte.ch](https://www.defikarte.ch) - A Map that shows all available defibrillators in Switzerland and Liechtenstein, also used by emergency dispatch centers and rescue services. (ℹ️ German only)
 
 ### Mobile Maps
 

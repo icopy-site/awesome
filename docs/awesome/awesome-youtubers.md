@@ -1306,6 +1306,14 @@ Content about: Raspberry Pi, Electronics, Operation System \
 Featured playlists: `Artificial Intelligence`, `Pi Zero Projects`, `Migrating to Linux`, `many more`. \
 <br />
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu_MySAuuGYGYlGD62nLVgaZHGYFAMSTJh7D3YPIMQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ETAPRIME)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**ETA PRIME**](https://www.youtube.com/c/ETAPRIME) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: Raspberry Pi, Electronics, Operation System, Single Board Computers, Gaming \
+Featured playlists: `Single Board Computer Reviews`, `Gaming on SBCs`, `many more`. \
+<br />
+
+
 
 ## Competitive programming
 

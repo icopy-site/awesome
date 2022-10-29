@@ -193,8 +193,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 * [Scientific Discovery](https://plato.stanford.edu/entries/scientific-discovery/) - ***Plato Stanford***. A computational philosophy account on Scientific Discovery, the process or product of successful scientific inquiry, sometimes an Abduction-like (Explanation) thinking pattern.
 
-* [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect) - ***Wikipedia***. Wikipedia on Eureka effect (a.k.a. Aha! moment), the common human experience of suddenly understanding a previously incomprehensible problem or concept.
-
 * [Models of Discovery: And Other Topics in the Methods of Science](https://hk1lib.org/book/2241843/c5d7b3?id=2241843&secret=c5d7b3) - ***Springer***, 1977. [[All Versions](https://scholar.google.com/scholar?cluster=9932701864897299105&hl=en&as_sdt=0,5)]. The original book on search as scientific thinking.
 
 * [Scientific discovery: Computational explorations of the creative processes](https://hk1lib.org/book/970300/6b0ff7?id=970300&secret=6b0ff7) - ***MIT Press***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=11327000316248254911&hl=en&as_sdt=0,5)]. A computational account unifying Scientific Discovery with the creativity feature of Abduction.
@@ -1038,7 +1036,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 * [On Effective Scheduling of Model-based Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/1e4d36177d71bbb3558e43af9577d70e-Abstract.html) - ***NIPS'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11128521607771619105&hl=en&as_sdt=0,5)].
 
 
-#### Marr Levels of Analysis
+#### Marr's Levels of Analysis
 
 * [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142&hl=en&as_sdt=0,44)]. David Marr's original book on the levels of analysis.
 
@@ -1066,6 +1064,11 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 * [Thoughts beyond words: When language overshadows insight](https://psycnet.apa.org/record/1993-36184-001) - ***Journal of Experimental Psychology***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=13773440938721955384&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Deep Learning: How the Mind Overrides Experience](https://hk1lib.org/book/1244721/20ddc5) - ***Cambridge University Press***, 2011. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=231021877034210140)]. 
+
+
+#### The Aha! Moment
+
+* [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect) - ***Wikipedia***. Wikipedia on Eureka effect (a.k.a. Aha! moment, insight, and epiphany), the common human experience of suddenly understanding a previously incomprehensible problem or concept.
 
 
 #### Rationality
