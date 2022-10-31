@@ -34,6 +34,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [DG-IoT](https://github.com/dgiot/dgiot-dashboard) - DG-IoT platform industry application extension plugin.
 - [dgiot_tdengine](https://github.com/dgiot/dgiot_tdengine) - TDengine adapter plugin.
 - [node-red-contrib-tdengine](https://github.com/kp45-tech/node-red-contrib-tdengine) - TDengine connector plugin for Node-RED.
+- [IoTSharp](https://github.com/IoTSharp/IoTSharp/blob/master/IoTSharp.Data.TimeSeries/TaosStorage.cs) - IoTSharp is an open-source IoT platform for data collection,It supports storing time series data to TDengine. 
 
 ## ORM
 - [sqli](https://github.com/x-ream/sqli) - ORM SQL Interface, Criteria, CriteriaBuilder, ResultMapBuilder.
@@ -43,6 +44,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [crown](https://github.com/machine-w/crown) - crown is a simple and small ORM for TDengine.
 - [APIJSON](https://github.com/Tencent/APIJSON) - A JSON Transmission Protocol and an ORM Library for providing APIs and Docs without writing any code.
 - [ZORM](https://gitee.com/chunanyong/zorm) - ORM support TDenging by Go.
+ 
 ## Connector
 
 - [PDO_TAOS](https://github.com/bearlord/pdo_taos) - TDengine driver for PDO.
@@ -57,7 +59,8 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [taos-rs](https://github.com/yuerrd/taos-rs) - TDengine Java RESTful Client.
 - [TDengine Rust bindings](https://github.com/songtianyi/tdengine-rust-bindings) - It's a Rust bindings project for TDengine.
 - [TDenginex](https://github.com/lizhaochao/TDenginex) - TDengine Connector for Elixir.
-- [DBUtility.TDengine](https://github.com/cockroach888/GSA.MOLLE.ToolKits/tree/main/src/ToolKits.DBUtility) - C# Connector for TDengine. (.NET 6+)
+- [DBUtility.TDengine](https://github.com/cockroach888/GSA.MOLLE.ToolKits/tree/main/src/ToolKits.DBUtility) - C# Connector for TDengine. (.NET 6+). 
+- [IoTSharp.Data.Taos](https://www.nuget.org/packages/IoTSharp.Data.Taos/)  - TDengine's ADO.Net provider. (.Net Framework 4.6+, .Net Standard2.0+,.Net 5.0+). 
 
 ## Stack
 
@@ -114,3 +117,4 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [auto_taos_cfg](https://github.com/glzhao89/auto_taos_cfg) - Auto generate TDengine log/data/cfg.
 - [Sentinel Console](https://github.com/wenhao/sentinel-dashboard-tdengine) - Sentinel-Dashboard with TDengine.
 - [Davinci](https://github.com/edp963/davinci) - Davinci is a DVsaaS (Data Visualization as a Service) Platform.
+- [IoTSharp.HealthChecks.Taos](https://www.nuget.org/packages/IoTSharp.HealthChecks.Taos/) - TDengine's HealthChecks provider. (.Net 5.0+). 
