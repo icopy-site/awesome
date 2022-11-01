@@ -41,7 +41,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework.
 * [Brackets](http://brackets.io) - A modern, open source text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
-* [Chocolat](https://chocolatapp.com/) - Native text editor.
 * [CotEditor](https://coteditor.com) - Lightweight plain-text editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - A popular text editor used mainly on Unix-based systems by programmers, scientists, engineers, students, and system administrators. [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/emacs-tw/awesome-emacs#readme)
 * [Lapce](https://lapce.dev/) - Lightning-fast and powerful code editor. [![Open-Source Software][OSS Icon]](https://github.com/lapce/lapce) ![Freeware][Freeware Icon]
@@ -119,7 +118,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 #### Journaling
 
 * [Day One](https://dayoneapp.com/) - Excellent journaling app using text, photos, video, audio, location data, and more. [![App Store][app-store Icon]](https://apps.apple.com/us/app/day-one/id1055511498?mt=12)
-* [Journey](https://journey.cloud/) - Journaling app with many features and with apps for every platform available. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-diary-journal/id1265425422?mt=12)
+* [Journey](https://journey.cloud/) - Journaling app with many features and with apps for every platform available. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-diary-journal/id1300202543)
 * [linked](https://github.com/lostdesign/linked) - Link your thoughts to days, distraction free. ![Open-Source Software][OSS Icon]
 
 
@@ -177,7 +176,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
   * [Rider](https://www.jetbrains.com/rider/) - Cross-Platform C# IDE. It is an alternative to Visual Studio by Microsoft with the additional benefit of getting Resharper features that are not available on Visual Studio for Mac.
   * [WebStorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
 * [Haskell for Mac](http://haskellformac.com) - A Modern Development Environment for Haskell. [![App Store][app-store Icon]](https://itunes.apple.com/app/haskell-development-platform/id841285201)
-* [NetBeans IDE](https://netbeans.org/) - Free and open-source IDE, mainly used for Java development, but supports many other languages and frameworks. [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
+* [NetBeans IDE](https://netbeans.org/) - Free and open-source IDE, mainly used for Java development, but supports many other languages and frameworks. [![Open-Source Software][OSS Icon]](https://github.com/apache/netbeans) ![Freeware][Freeware Icon]
 * [Nova](https://nova.app/) - From the creators of Coda and Transmit, bring you a beautiful, fast, flexible, native Mac code editor from [Panic](https://panic.com/).
 * [Visual Studio Community for Mac](https://visualstudio.microsoft.com/free-developer-offers/) - **Free** version. It supports classroom learning, individual developers and small companies. ![Freeware][Freeware Icon]
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
@@ -187,7 +186,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 #### Developer Utilities
 
-* [BetterRename](http://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/better-rename-9/id414209656)
+* [BetterRename](http://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market. [![App Store][app-store Icon]](https://apps.apple.com/us/app/better-rename-11/id1501308038)
 * [Beyond Compare](http://www.scootersoftware.com/) - Compare files and folders using simple, powerful commands that focus on the differences you are interested in and ignore those you are not. ![Freeware][Freeware Icon]
 * [Bidbar](https://www.getbidbar.com) - Manage bash commands from the menu bar and run them with keyboard shortcuts.
 * [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and Mac/Windows/Linux/Web clients.
@@ -257,7 +256,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [James](https://github.com/james-proxy/james) - Open-source proxy tool for checking and mapping requests with http as well as https. [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - Network monitor with a world map for visualizing network connections.
 * [mitmproxy](https://mitmproxy.org/) - Interactive intercepting HTTP proxy for penetration testers and software developers. [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
-* [Proxie](https://proxieapp.com/) - HTTP debugging proxy. [![App Store][app-store Icon]](https://itunes.apple.com/app/cellist/id897814548)
+* [Proxie](https://proxie.app) - HTTP debugging proxy. [![App Store][app-store Icon]](https://apps.apple.com/us/app/proxie/id897814548)
 * [Proxyman](https://proxyman.app) - Modern and intuitive HTTP debugging proxy for macOS. ![Freeware][Freeware Icon]
 * [Wireshark](https://www.wireshark.org) - The world’s foremost and widely-used network protocol analyzer. [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 * [Apidog](https://www.apidog.com/) - All-in-One workspace for API Design, Documentation, Debug, Mock, Test.
@@ -388,11 +387,10 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - MDB tool to open, read, export your MDB files to other formats and databases.
 * [Medis](http://getmedis.com) - GUI Manager for Redis. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis)
 * [Mingo](https://mingo.io/) - Easy to use MongoDB GUI with mind-blowing features.
-* [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - Simple MongoDB GUI.
 * [mongoDB.app](https://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gcollazo/mongodbapp)
 * [MongoDB](https://www.mongodb.com) - MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need. [![Open-Source Software][OSS Icon]](https://github.com/gcollazo/mongodbapp) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/ramnes/awesome-mongodb#desktop)
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - The official MySQL GUI.
-* [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - Powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models. [![App Store][app-store Icon]](https://itunes.apple.com/app/navicat-data-modeler-essentials-visual-database-designer/id532423082)
+* [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - Powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models.
 * [neo4j](https://neo4j.com) - The leading graph database! [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/neo4j/neo4j)
 * [pgModeler](https://pgmodeler.io) -  pgModeler is an open source data modeling tool designed for PostgreSQL. [![Open-Source Software][OSS Icon]](https://github.com/pgmodeler/pgmodeler) ![Freeware][Freeware Icon]
 * [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL on the Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PostgresApp/PostgresApp)
@@ -419,11 +417,10 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Amadine](https://amadine.com) - A vector drawing app that has everything a graphic designer needs wrapped in an uncluttered and intuitive interface.
 * [Art Text 3](https://www.belightsoft.com/art-text/) - This is graphic design software specifically tuned for lettering, typography, text mockups and various artistic text effects.
 * [Blender](https://www.blender.org/) - Free and open 3D creation software. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
-* [Colorpicker](https://colorpicker.crea-th.at) - Colorpicker is a complete open-source colors manipulation tool with picking! [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
+* [Colorpicker](https://colorpicker.fr/) - Colorpicker is a complete open-source colors manipulation tool with picking! [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
 * [Figma](https://www.figma.com/) - The collaborative interface design tool, for vector graphics and UI prototyping. ![Freeware][Freeware Icon]
 * [FontForge](http://fontforge.github.io/) - Free, open-source font editor. [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [GIMP](https://www.gimp.org) - The GNU Image Manipulation Program. [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
-* [Gravit Designer](https://designer.io/) - Full featured free vector design app right at your fingertips. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1207744923)
 * [inklet](https://tenonedesign.com/inklet.php) - Turn your Mac trackpad into drawing board.
 * [Inkscape](https://inkscape.org/en/) - Professional vector graphics editor. [![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
 * [Krita](https://krita.org/en/) - Open-source digital painting software for concept artists, digital painters, and illustrators. [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
@@ -434,7 +431,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Nik Collection](https://nikcollection.dxo.com/) - Nik Collection by DxO.
 * [Paintbrush](http://paintbrush.sourceforge.net/) - Bitmap image editor. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
 * [Pencil2D](https://www.pencil2d.org) - A easy, intuitive tool to make 2D hand-drawn animations. [![Open-Source Software][OSS Icon]](https://github.com/pencil2d/pencil) ![Freeware][Freeware Icon]
-* [Pixel Perfect](http://pixelperfect-app.com/) - Tool to overlay design images over implementation and make it pixel perfect. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/pixel-perfect/id916097243) ![Freeware][Freeware Icon]
 * [Pixelmator](http://www.pixelmator.com/mac/) - Full-featured image editor for Mac.
 * [Principle](http://principleformac.com/) -  Application for designing animated and interactive user interfaces.
 * [ScreenToLayers](https://github.com/duyquoc/ScreenToLayers) - Easily export your screen into a layered PSD file. [![Open-Source Software][OSS Icon]](https://github.com/duyquoc/ScreenToLayers) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/screentolayers/id1077317077)
@@ -461,7 +457,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Justinmind](http://www.justinmind.com) - Prototyping platform for web and mobile apps.
 * [Kite](https://kiteapp.co/) - Powerful animation and prototyping application for Mac & iOS.
 * [Lighten](http://lighten.xmind.net/) - The best way to clarify thinking, boost productivity, brainstorm, and visualize concepts.
-* [Loremify](http://loremify.com) - Great Lorem ipsum generator.![Freeware][Freeware Icon][![App Store][app-store Icon]](https://itunes.apple.com/app/loremify/id1028877632)
 * [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration.![Freeware][Freeware Icon]
 * [MindNode](https://mindnode.com/) - Mind-mapping software with an emphasis on simplicity and ease-of-use.
 * [MockFlow](https://www.mockflow.com) - Online prototyping suite for web-design and usability testing.
@@ -482,14 +477,13 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [CleanShot](https://getcleanshot.com/) - Discover a superior way to capture your Mac's screen.
 * [CloudApp](https://www.getcloudapp.com/) - Work at the speed of sight. ![Freeware][Freeware Icon]
 * [Flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-* [Gifox](https://gifox.io/) - Gif Recording and Sharing. [![App Store][app-store Icon]](https://itunes.apple.com/app/gifox-gif-recording-and-sharing/id1082624744)
+* [Gifox](https://gifox.app) - Gif Recording and Sharing.
 * [Kap](https://getkap.co/) - Open-source screen-recorder built with web technology. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Kyapchar](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/Kyapchar) ![Freeware][Freeware Icon]
 * [Licecap](http://www.cockos.com/licecap/) - Record your screen and export to GIF. You can change the recording area anytime during recording. [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Lightshot](https://app.prntscr.com/) - The fastest way to take a customizable screenshot. ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - Make screenshots. Draw on it. Shoot video and share your files. It's fast, easy and free. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/monosnap/id540348655)
-* [ScreenShot PSD](http://txtlabs.com/) - Capture the screen as a layered PSD for easy editing. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/screenshot-psd/id489880259)
 * [Shottr](https://shottr.cc/) - Screen capture application with features like Scrolling capture, OCR and markup. ![Freeware][Freeware Icon]
 * [Skitch](https://evernote.com/skitch/) - Screen capture application with a powerful annotation capabilities. ![Freeware][Freeware Icon]
 * [Snip](http://snip.qq.com/) - Application for sharing captured images on QQ Mail. ![Freeware][Freeware Icon]
@@ -501,7 +495,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 #### Other Tools
 
 * [APNGb](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
-* [Assetizr](https://assetizr.com) - Resizing images and optimising them for web and mobile applications.  ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/de/app/assetizr/id1449126727?l=en&mt=12)
+* [Assetizr](https://assetizr.com) - Resizing images and optimising them for web and mobile applications.  ![Freeware][Freeware Icon]
 * [Couleurs](http://couleursapp.com) - Simple app for grabbing and tweaking the colors you see on your screen. ![Freeware][Freeware Icon]
 * [Eagle App](https://en.eagle.cool/) - Simple and intuitive file manager with tag and annotaion for all your design files. Supports all major source, image, RAW, video, 3D, audio, font, and office files.
 * [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/szTheory/exifcleaner)
@@ -514,7 +508,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [ImageAlpha](https://pngmini.com/) - Compress images with PNG format and remove transparency. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 * [ImageOptim](https://imageoptim.com/mac) - Compress images and remove EXIF information. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ImageOptim/ImageOptim)
 * [iPic](https://en.toolinbox.net/iPic/) - Easily upload images with Markdown supported. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_me)
-* [JPEGmini](http://www.jpegmini.com/) - Reduce image size by up to 80%, without compromising quality. [![App Store][app-store Icon]](https://itunes.apple.com/app/jpegmini-lite/id525742250) ![Freeware][Freeware Icon]
+* [JPEGmini](http://www.jpegmini.com/) - Reduce image size by up to 80%, without compromising quality. 
 * [Mark Man](http://getmarkman.com/) - Measure & Spec Fast.
 * [Nucleo](https://nucleoapp.com/) - Icon manager. Import, export, customize and convert icon libraries.
 * [Preset Brewery](https://www.presetbrewery.com) - Tool to convert Lightroom presets to Adobe Camera Raw.
@@ -523,7 +517,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [RightFont](http://rightfontapp.com/) - Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive.
 * [Sip](http://theolabrothers.com/) - The best way to collect, organize & share your colors.
 * [Snagit](https://www.techsmith.com/snagit.html) - Simple, Powerful Screen Capture Software and Screen Recorder.
-* [Spectrum](http://www.eigenlogik.com/spectrum/mac) - Easily and intuitively creating beautiful color schemes. [![App Store][app-store Icon]](https://itunes.apple.com/app/spectrum/id518156125?mt=12)
 * [svgus](http://www.svgs.us/) - Organize, clean and transform your SVGs. [![App Store][app-store Icon]](https://itunes.apple.com/app/svgsus/id1106867065)
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Open-source tool to compress images. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kyleduo/TinyPNG4Mac)
 * [Tropy](https://tropy.org/) - Research Photo Management. [![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon]
@@ -570,7 +563,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Airmail](http://airmailapp.com) - Fast email client. For both Mac OS and iOS.
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - An Electron-based unofficial desktop client for ProtonMail. [![Open-Source Software][OSS Icon]](https://github.com/vladimiry/ElectronMail) ![Freeware][Freeware Icon]
 * [Foxmail](http://www.foxmail.com/mac/en) - Fast email client. ![Freeware][Freeware Icon]
-* [MailTags](https://smallcubed.com/mt/) - Use tags to organize email and schedule.
+* [MailTags](https://smallcubed.com/) - Use tags to organize email and schedule.
 * [Mailspring](https://getmailspring.com/) - A beautiful, fast, and fully open source mail client. [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring) ![Freeware][Freeware Icon]
 * [N1](https://www.nylas.com/) - Extensible, open-source mail app, free for developers and $7/month for Pro. ![Open-Source Software][OSS Icon]
 * [Nylas Mail](https://nylas.com/nylas-mail/) - Extensible desktop mail app built on the modern web.  [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
@@ -598,7 +591,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 ## Audio and Video Tools
 
 * [Adapter](https://macroplant.com/adapter) -  Free audio, video and image conversion software. ![Freeware][Freeware Icon]
-* [Aegisub](http://www.aegisub.org/) - Free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview. [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
+* [Aegisub](https://github.com/Aegisub/Aegisub) - Free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview. [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
 * [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12) - Allows you to pin input/output devices for each particular combination of connected devices. May suppress HDMI displays from being chosen. [![App Store][app-store Icon]](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12)
 * [Ardour](https://ardour.org/) - Cross-platform audio software for multi-track recording and editing. [![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
 * [Audacity](http://www.audacityteam.org/) - Free, open-source, cross-platform audio software for multi-track recording and editing. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/audacity/audacity)
@@ -606,7 +599,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [BeMyEars](https://www.bemyears.io/) - Free for hearing impaired, System wide on-device live caption, multi language support, just like you have YouTube subtitles everywhere.
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Freemium, open-source virtual output/input audio driver for recording/routing internal audio. [![Open-Source Software][OSS Icon]](https://github.com/ExistentialAudio/BlackHole) [![Freeware][Freeware Icon]](https://github.com/ExistentialAudio/BlackHole)
 * [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app for macOS. [![Open-Source Software][OSS Icon]](https://github.com/AnaghSharma/Carol) ![Freeware][Freeware Icon]
-* [Cog](http://cogx.org/) - Free, open-source audio player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://bitbucket.org/mamburu/cog/)
+* [Cog](http://cogx.org/) - Free, open-source audio player. [![Open-Source Software][OSS Icon]](https://github.com/losnoco/cog) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cog-kode54/id1630499622)
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)  - Free, cross-platform video editing, color grading, video effects and audio editing software.
 * [Elmedia Player](https://mac.eltima.com/media-player.html) - This media player is a super versatile app for any file format you probably may think of: FLV, MP4, AVI, MOV, DAT, MKV, MP3, FLAC, M4V are all supported as well as many others.
 * [FreeTube](https://freetubeapp.io/) - Open source desktop YouTube client built with privacy in mind. [![Open-Source Software][OSS Icon]](https://github.com/FreeTubeApp/FreeTube) ![Freeware][Freeware Icon]
@@ -616,11 +609,11 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [ffWorks](https://www.ffworks.net/) - Comprehensive Media Tool for macOS. Making High Quality Video Encoding Accessible for Everyone.
 * [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS. Based on mpv, the powerful media player project. [![Open-Source Software][OSS Icon]](https://github.com/lhc70000/iina) ![Freeware][Freeware Icon]
 * [Kodi](https://kodi.tv/) - Award-winning free and open-source (GPL) software media center for playing videos, music, pictures, games, and more. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
-* [LMMS](https://www.lmms.io) - Formerly "Linux MultiMedia Studio", LMMS is a powerful Digital Audio Workstation designed like FL Studio (formerly Fruity Loops). [![Open-Source Software][OSS Icon]](https://github.com/lmms/lmms) ![Freeware][Freeware Icon]
+* [LMMS](https://lmms.io) - Formerly "Linux MultiMedia Studio", LMMS is a powerful Digital Audio Workstation designed like FL Studio (formerly Fruity Loops). [![Open-Source Software][OSS Icon]](https://github.com/lmms/lmms) ![Freeware][Freeware Icon]
 * [LosslessCut](https://github.com/mifi/lossless-cut) - Cross platform tool for quick and lossless video and audio trimming using ffmpeg. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mifi/lossless-cut)
-* [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. [![Open-Source Software][OSS Icon]](https://github.com/ddddxxx/LyricsX) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/lyricsx/id1254743014?mt=12) ![Freeware][Freeware Icon]
+* [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. [![Open-Source Software][OSS Icon]](https://github.com/ddddxxx/LyricsX) ![Freeware][Freeware Icon]
 * [MacYTDL](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software][OSS Icon]](https://github.com/section83/MacYTDL) ![Freeware][Freeware Icon]
-* [Metadatics](http://markvapps.com/metadatics) - Advanced Audio Metadata Editor. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/tincta/id448340648)
+* [Metadatics](http://markvapps.com/metadatics) - Advanced Audio Metadata Editor. [![App Store][app-store Icon]](https://apps.apple.com/us/app/metadatics/id554883654?mt=12)
 * [Mp3tag](https://mp3tag.app/) - A powerful and easy-to-use tool to edit metadata of audio files. [![App Store][app-store Icon]](https://apps.apple.com/app/id1532597159/)
 * [Mixxx](http://mixxx.org/) - The most advanced free DJ software. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mixxxdj/mixxx)
 * [Movie Catcher](https://evilcult.github.io/moviecatcher/) - Movie movie and online viewing offline download software, with Baidu cloud to make offline download and online playback. [![Open-Source Software][OSS Icon]](https://github.com/EvilCult/moviecatcher)
@@ -646,7 +639,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [VLC](http://www.videolan.org/index.html) - Free, open-source, cross-platform multimedia player as well as framework that plays most multimedia files, DVDs, Audio CDs, VCDs and various streaming protocols. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/videolan/vlc)
 * [VOX Player](https://vox.rocks/mac-music-player) - High-definition audio player for Mac and iPhone. Music just sounds better! ![Freeware][Freeware Icon]
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode, convert and play various 'lossless' audio files. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://code.google.com/archive/p/xld/source)
-* [MusicPlus](https://musicplus.io) - Search, play & download music for free. ![Freeware][Freeware Icon]
 * [Recordia](https://sindresorhus.com/recordia) - Record audio directly from the menu bar or with a global keyboard shortcut. [![App Store][app-store Icon]](https://apps.apple.com/app/id1529006487)
 * [Omniplayer](https://okaapps.com/product/1470926410#) - Best media player on Mac, support almost all format. [![App Store][app-store Icon]](https://github.com/jaywcjlove/awesome-mac/blob/master/macappstore://itunes.apple.com/app/id1470926410?pt=119209922&l=en&mt=12&ct=newhomepage)
 * [YouTube Music Desktop](https://ytmdesktop.app/) -  Free cross platform Desktop Player for YouTube Music. [![Open-Source Software][OSS Icon]](https://github.com/ytmdesktop/ytmdesktop) ![Freeware][Freeware Icon]
@@ -748,7 +740,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [ShadowsocksX](http://shadowsocks.org/) - Secure socks5 proxy, designed to protect your internet traffic. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shadowsocks/shadowsocks)
 * [Shimo](https://www.shimovpn.com/) - VPN Client for Mac.
 * [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Rule-based proxy app for macOS.  [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon]
-* [Surge](https://nssurge.com/) - Web developer tool and proxy utility for iOS 9. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637)
+* [Surge](https://nssurge.com/) - Web developer tool and proxy utility for iOS 9.
 * [tinc](https://www.tinc-vpn.org) - Secure mesh VPN software. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
 * [Tunnelbear](https://www.tunnelbear.com) - Really simple VPN to browse the web privately & securely. Unblock websites around the world with applications for Mac, PC, iOS, Android & Chrome.
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - Free, open-source graphic user interface for OpenVPN on OS X. ![Freeware][Freeware Icon]
@@ -793,7 +785,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jamieweavis/streaker)
 * [SwiftBar](https://github.com/swiftbar/SwiftBar/) - Powerful macOS menu bar customization tool. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/swiftbar/SwiftBar/)
 * [UTC Time](https://sindresorhus.com/utc-time) - Show the time in UTC in the menu bar or a widget. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1538245904)
-* [Vanilla](http://vanilla.matthewpalmer.net) - Hide menu bar icons on your Mac. ![Freeware][Freeware Icon]
+* [Vanilla](https://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac. ![Freeware][Freeware Icon]
 * [Jiffy](https://sindresorhus.com/jiffy) - Discover and share the best GIFs on GIPHY. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1502527999)
 * [Work Hours](https://github.com/niteoweb/work-hours-mac) - Simple app that tracks your work hours from the menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/niteoweb/work-hours-mac)
 * [Xbar](https://xbarapp.com/) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/matryer/xbar)
@@ -807,7 +799,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Keka](https://www.keka.io) - File archiver for macOS. Compression: 7Z, ZIP, TAR, GZIP, BZIP2, XZ LZIP, DMG, ISO. Extraction: 7Z, ZIP, RAR, TAR, GZIP, BZIP2, XZ, LZIP, DMG, ISO, LZMA, EXE, CAB, WIM, PAX, JAR, APK, APPX, CPGZ, CPIO. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/keka/id470158793)
 * [muCommander](http://www.mucommander.com) - Lightweight file manager with a dual-pane interface. [![Open-Source Software][OSS Icon]](https://github.com/mucommander/mucommander) ![Freeware][Freeware Icon]
 * [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Nice tool for tagging and archiving tasks. [![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver) [![App Store][app-store Icon]](https://itunes.apple.com/app/pdf-archivar/id1352719750)
-* [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/kosovan/theunarchiver) ![Freeware][Freeware Icon]
+* [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/the-unarchiver/id425424353)
 * [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Quickly decompress multiple different types of compressed files/compressed files to various scene compression formats. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1127253508?pt=444218&ct=GitHub&mt=8)
 * [Marta](https://marta.sh) - File Manager for macOS written entirely in Swift ![Freeware][Freeware Icon]
 
@@ -815,7 +807,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [AirServer](http://www.airserver.com/Download) - Most advanced screen mirroring software receiver for Mac, PC and Xbox One.
 * [Cloudflare WARP](https://1.1.1.1/) - Replaces the connection between your device and the Internet with a modern, optimized, protocol. ![Freeware][Freeware Icon]
-* [ControlPlane](http://www.controlplaneapp.com/) - Manages configuration profiles for your Mac. Determines where you are or what you are doing based on a number of available evidence sources and then automatically reconfigures your Mac based on your preferences. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
 * [DNS Heaven](https://github.com/greenboxal/dns-heaven) - Unifies macOS DNS so applications using glibc can resolve DNS with the native stack. Mainly for use with VPNs. [![Open-Source Software][OSS Icon]](https://github.com/greenboxal/dns-heaven) ![Freeware][Freeware Icon]
 * [DevUtils.app](https://devutils.com/) - All-in-one Toolbox for Developers. Format/Validate JSON, encode/decode Base64, convert timestamps, debug JWT… with just one click! Native macOS app and works offline. [![Open-Source Software][OSS Icon]](https://github.com/DevUtilsApp/DevUtils-app) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/devutils-app/id1533756032)
 * [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily. [![Open-Source Software][OSS Icon]](https://github.com/balena-io/etcher) ![Freeware][Freeware Icon]
@@ -831,7 +822,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Plash](https://sindresorhus.com/plash) - Make any website your desktop wallpaper. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Plash) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/plash/id1494023538)
 * [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - An OS X app that adds a global delay of 1 second to the Cmd-Q shortcut. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dteoh/SlowQuitApps)
 * [Speediness](https://sindresorhus.com/speediness) - Check your internet speed. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1596706466)
-* [Torimori Sweeper](https://web.archive.org/web/20190515060747/https://coffeeboo.itch.io/sweeper) - MacOS app that lets you declutter your Downloads, one file at a time. [![Freeware][Freeware Icon]](https://coffeeboo.itch.io/sweeper)
 * [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swift-open-source/UltraTabSaver)
 
 #### To-Do Lists
@@ -876,7 +866,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Keytty](http://keytty.com) - App to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes.
 * [Lazy](https://www.lazy-app.com/) - Keyboard-driven commands to manage your surroundings directly from your mac.
 * [Mos](https://mos.caldis.me/) - Simple tool can offer the smooth scrolling and reverse the mouse scrolling direction on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
-* [Mouseless](https://mouseless.app/) - Master all of the magic keystrokes for your favorite apps & tools.
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - The best way to visualize, maintain, and simplify your projects. Project Management made easy.
 * [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 * [Raycast](https://raycast.com) - Raycast lets you control your tools with a few keystrokes. It’s designed to keep you focused.
@@ -919,7 +908,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Authy](https://authy.com) - Two-factor authentication token manager that backs up and syncs across your devices. ![Freeware][Freeware Icon]
 * [Bitwarden](https://bitwarden.com) - Open source password management tool for Mac OS, iOS and browsers. [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon]
 * [Buttercup](https://buttercup.pw/) - The Password Manager You Deserve ![Freeware][Freeware Icon]
-* [Dashlane](https://www.dashlane.com) - Cloud-based password manager with award-winning design. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/dashlane-password-manager/id552383089)
+* [Dashlane](https://www.dashlane.com) - Cloud-based password manager with award-winning design.
 * [Enpass](https://www.enpass.io/) - Cross-platform password management tool with cloud integration. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/enpass-password-manager/id455566716)
 * [Keeweb](https://keeweb.info/) - Free, cross-platform password manager compatible with KeePass. [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
 * [KeepassXC](https://keepassxc.org/) - Free, open source, cross-platform password manager. [![Open-Source Software][OSS Icon]](https://github.com/keepassxreboot/keepassxc) ![Freeware][Freeware Icon]
@@ -945,7 +934,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) -  Hold the ⌘-Key to get a list of all active shortcuts of the current application. It's as simple as that. ![Freeware][Freeware Icon]
 * [f.lux](https://justgetflux.com/) - Makes the color of your computer's display adapt to the time of day. ![Freeware][Freeware Icon]
 * [Lunar](https://lunar.fyi/) -  Help you adujst brightness, contrast and volumn of your external display. [![Open-Source Software][OSS Icon]](https://github.com/alin23/Lunar) ![Freeware][Freeware Icon]
-* [Grayscale Mode](https://grayscalemode.com/) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). [![Open-Source Software][OSS Icon]](https://github.com/rkbhochalya/grayscale-mode) ![Freeware][Freeware Icon]
+* [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). [![Open-Source Software][OSS Icon]](https://github.com/rkbhochalya/grayscale-mode) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - Open-source keystroke visualizer.  [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [NightOwl](https://nightowl.kramser.xyz/) - Automatically switch between macOS Mojave's light and dark themes by time of day or with a menu bar or keyboard shortcut. ![Freeware][Freeware Icon]
 * [One Switch](https://fireball.studio/oneswitch) - Mac menu bar app that adds various switches to the Mac's menu bar.
@@ -964,11 +953,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8) - All-in-one Disk Cleaning Manager: Clean up your Mac and optimize its performance. Run a quick scan now to verify what's taking up your storage. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8)
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - Helps make your Xcode faster by removing unwanted and deprecated files. [![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner) ![Freeware][Freeware Icon]
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Shows live information about the battery in your Mac. Includes: manufacture date, capacity, cycle count, battery status, temperature, discharging power.
-* [Coolant](https://coolantformac.com) - Menubar app that lets you know when an app is consuming 100% CPU or more than a gigabyte of memory (or any arbitrary limits you choose).
 * [DaisyDisk](https://daisydiskapp.com/) - Gives a great overview of disk usage. Can also make more disk-space available by cleaning up your disk.
 * [gfxCardStatus](https://gfx.io/) - Unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics. ![Freeware][Freeware Icon]
 * [Gray](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/zenangst/Gray)
-* [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - HTML 5 video player. Keep your Mac from "burning".
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced Mac system monitor on the menubar.
 * [iStats](https://github.com/Chris911/iStats) - Command-line tool that allows you to easily grab the CPU temperature, fan speeds and battery information on OSX. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
 * [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
@@ -981,7 +968,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [OnyX](https://www.titanium-software.fr/en/onyx.html) - Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more. ![Freeware][Freeware Icon]
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - Read/write access to NTFS in macOS Sierra.
 * [Sensei](https://sensei.app/) - Sensei is a multi-tool for Mac performance, with features spanning across both hardware and software.
-* [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - Application for managing SSH connections.
+* [Core Tunnel](https://codinn.com/tunnel/) - Application for managing SSH connections. [![App Store][app-store Icon]](https://apps.apple.com/us/app/core-tunnel/id1354318707)
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - Temperature monitoring, fan control & hardware diagnostics to help keep your Mac cool and healthy.
 * [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software][OSS Icon]](https://github.com/probablykasper/time-machine-inspector) ![Freeware][Freeware Icon]
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
@@ -998,14 +985,13 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [RustDesk](https://rustdesk.com/) - Yet another remote desktop software. [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
 * [AnyDesk](https://anydesk.com) - Provides Remote access across multiple machines.
-* [Microsoft Remote Deskto‪p](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466) - Connect to a remote PC or virtual apps and desktops made available by your admin. ![Freeware][Freeware Icon]
+* [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466) - Connect to a remote PC or virtual apps and desktops made available by your admin. ![Freeware][Freeware Icon]
 * [RealVNC](https://www.realvnc.com) - The original and best software for remote access across desktop and mobile.
 * [RoyalTSX](https://www.royalapps.com/ts/mac/features) - Royal TSX is an ideal tool for system engineers and other IT professionals who need remote access to system with different protocols. ![Freeware][Freeware Icon]
 * [TeamViewer](https://www.teamviewer.com/en) - Proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. ![Freeware][Freeware Icon]
 
 ## Social Networking
 
-* [Chirper](https://arguiot.com/Chirper/) - A simple and tiny menu bar app for Buffer/Twitter that helps you tweet your thoughts without opening anything.
 * [Flume](https://flumeapp.com) - A beautiful Instagram experience for your Mac. The free version is good enough if you only want to do the browsing instead of posting.![Freeware][Freeware Icon]
 
 ## QuickLook Plugins
