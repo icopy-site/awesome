@@ -1261,6 +1261,7 @@ These plugins add tab completions without adding extra functions or aliases.
 - [expressvpn](https://github.com/tk7r/zsh-expressvpn) - Adds tab completions for the [expressVPN](https://www.expressvpn.com/support/vpn-setup/app-for-linux/) client.
 - [extract (le0me55i)](https://github.com/le0me55i/zsh-extract) - Defines a function called extract that extracts the archive file you pass it, and supports a wide variety of archive filetypes.
 - [extract (thetic)](https://github.com/thetic/extract) - Fork of the oh-my-zsh extract plugin.
+- [fancy-completions](https://github.com/z-shell/zsh-fancy-completions) - Provides various completions tools, libraries and integrations.
 - [fly-zsh-autocomplete](https://github.com/Sbodiu-pivotal/fly-zsh-autocomplete-plugin) - Adds autocompletion options for all [Concourse CLI](https://concourse-ci.org/fly.html) commands.
 - [fzf-gcloud](https://github.com/mbhynes/fzf-gcloud) - Fuzzy completion to navigate and preview all Google Cloud SDK `gcloud` CLI commands
 - [fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Add tab completion for ZSH, bash & applications using GNU Readline.
@@ -1769,6 +1770,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 - [leon](https://github.com/prince-an/Leon_zshTheme) - Works well on light background. Includes `git` status, time, username@host, working directory and last command exit status decorations.
 - [leverage](https://github.com/gschnall/leverage) - Based on [minimal](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/minimal.zsh-theme), uses colors, and an extra `¬` character, to better distinguish the command line prompt from your output.
 - [lewis](https://github.com/lewisflude/oh-my-lewis) - Black, white and red theme. Shows `git` status information.
+- [lgbtq](https://github.com/PhoenixSmaug/zsh-lgbtq-themes) - A collection of lgbtq themes for your terminal.
 - [lightbulb](https://github.com/lightbulb703/lightbulb-zsh-theme) - Includes decorations for kernel, OS version, uptime and `git`.
 - [lighthaus](https://github.com/lighthaus-theme/zsh) - A prompt that compliments the [Lighthaus](https://github.com/lighthaus-theme/lighthaus) theme. Shows `git` information, github/gitlab logo and shows changes as and when they occur.
 - [lila](https://github.com/raphaelivan/lila-zsh-theme) - Minimalist theme, best on a dark terminal background.
