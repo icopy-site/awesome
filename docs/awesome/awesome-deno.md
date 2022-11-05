@@ -330,6 +330,11 @@ This list is a collection of the best Deno modules and resources.
 - [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions are server-side TypeScript functions, distributed globally at the edge.
 - [Astro](https://docs.astro.build/en/guides/deploy/deno/) - Deploy a server-side rendered Astro site to Deno Deploy.
 
+## Blogs/Newsletters
+- [Craig's Deno Diary](https://deno-blog.com) - A blog focussing on Deno tech & lib howtos.
+- [Deno Blog](https://deno.com/blog) - The official blog of the Deno Company.
+- [Deno News](https://deno.news) - A newsletter of Deno articles, news and cool projects.
+
 ## Articles
 
 - [Develop with Deno and Visual Studio Code](https://medium.com/@kitsonk/develop-with-deno-and-visual-studio-code-225ce7c5b1ba)
