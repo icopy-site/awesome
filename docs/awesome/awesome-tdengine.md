@@ -35,6 +35,8 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [dgiot_tdengine](https://github.com/dgiot/dgiot_tdengine) - TDengine adapter plugin.
 - [node-red-contrib-tdengine](https://github.com/kp45-tech/node-red-contrib-tdengine) - TDengine connector plugin for Node-RED.
 - [IoTSharp](https://github.com/IoTSharp/IoTSharp/blob/master/IoTSharp.Data.TimeSeries/TaosStorage.cs) - IoTSharp is an open-source IoT platform for data collection,It supports storing time series data to TDengine. 
+- [WumeiSmart](https://github.com/kerwincui/wumei-smart) - WumeiSmart is an intelligent life IoT platform.
+- [JetLinks](https://github.com/jetlinks/jetlinks-community) - JetLinks is a fully responsive, enterprise-class IoT platform.
 
 ## ORM
 - [sqli](https://github.com/x-ream/sqli) - ORM SQL Interface, Criteria, CriteriaBuilder, ResultMapBuilder.
@@ -61,6 +63,7 @@ Offical Website: [tdengine.com](https://tdengine.com)
 - [TDenginex](https://github.com/lizhaochao/TDenginex) - TDengine Connector for Elixir.
 - [DBUtility.TDengine](https://github.com/cockroach888/GSA.MOLLE.ToolKits/tree/main/src/ToolKits.DBUtility) - C# Connector for TDengine. (.NET 6+). 
 - [IoTSharp.Data.Taos](https://www.nuget.org/packages/IoTSharp.Data.Taos/)  - TDengine's ADO.Net provider. (.Net Framework 4.6+, .Net Standard2.0+,.Net 5.0+). 
+- [taos-odbc](https://github.com/freemine/taos_odbc) - ODBC Driver for TDengine 3.0, very much early stage.
 
 ## Stack
 
