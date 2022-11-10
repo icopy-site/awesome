@@ -538,8 +538,6 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [qulice](https://www.qulice.com) — Combines a few (pre-configured) static analysis tools (checkstyle, PMD, Findbugs, ...).
 
-- [Reshift](https://www.reshiftsecurity.com) :copyright: — A source code analysis tool for detecting and managing Java security vulnerabilities.
-
 - [Soot](https://soot-oss.github.io/soot) — A framework for analyzing and transforming Java and Android applications.
 
 - [Spoon](http://spoon.gforge.inria.fr) — Spoon is a metaprogramming library to analyze and transform Java source code (incl Java 9, 10, 11, 12, 13, 14). It parses source files to build a well-designed AST with powerful analysis and transformation API. Can be integrated in Maven and Gradle.
@@ -583,6 +581,8 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 - [plato](https://github.com/es-analysis/plato) :warning: — Visualize JavaScript source complexity.
 
 - [Polymer-analyzer](https://github.com/Polymer/tools/tree/master/packages/analyzer) — A static analysis framework for Web Components.
+
+- [Reshift](https://www.reshiftsecurity.com) :copyright: — A source code analysis tool for detecting and managing JavaScript security vulnerabilities.
 
 - [retire.js](http://retirejs.github.io/retire.js) — Scanner detecting the use of JavaScript libraries with known vulnerabilities.
 
@@ -1793,7 +1793,7 @@ It does this by running periodic diff outputs against heuristically crafted rege
 
 - [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode) :warning: — Automated code review & repair. It helps you to keep track of issues and metrics in your software projects, and can be easily extended to support new types of analyses.
 
-- [Reshift](https://www.reshiftsecurity.com) :copyright: — A source code analysis tool for detecting and managing Java security vulnerabilities.
+- [Reshift](https://www.reshiftsecurity.com) :copyright: — A source code analysis tool for detecting and managing JavaScript security vulnerabilities.
 
 - [Rezilion](https://www.rezilion.com/) :copyright: — Discovers vulnerabilities for all components in your environment, filters out 85% non-exploitable vulnerabilities and creates a  remediation plan and open tickets to upgrade components that violate your security policy and/or patch automatically in CI.
 

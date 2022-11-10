@@ -26,7 +26,7 @@ Want to know more about this process? Check out the [Codeless Contributions with
 
 Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
 
-Installs: 160 | Stars: 74 | Last update: 4 Jun 2022
+Installs: 161 | Stars: 74 | Last update: 4 Jun 2022
 
 
 Removes clutter from your pull request by automatically marking as viewed files that aren't worth reviewing.
@@ -46,7 +46,7 @@ Installs: 193 | Stars: 12 | Last update: 26 Apr 2022
 
 The CoderStats link for GitHub Chrome extension displays a link to the CoderStats page for the currently displayed user or organization profile page on GitHub.
 
-Installs: 757 | Stars: 18 | Last update: 20 Nov 2020
+Installs: 758 | Stars: 18 | Last update: 20 Nov 2020
 
 
 Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.
@@ -56,12 +56,12 @@ Installs: 361 | Stars: 436 | Last update: 1 Mar 2021
 
 Displays size of each file, download link and an option of copying file contents directly to clipboard
 
-Installs: 40691 | Stars: 1691 | Last update: 25 Dec 2021
+Installs: 40690 | Stars: 1692 | Last update: 25 Dec 2021
 
 
 Easily search GIPHY to add a GIF into any GitHub comment box.
 
-Installs: 6392 | Stars: 126 | Last update: 17 Mar 2022
+Installs: 6395 | Stars: 126 | Last update: 17 Mar 2022
 
 
 Find the best GIFs for your awesome pull requests.
@@ -96,7 +96,7 @@ Installs: 212 | Stars: 19 | Last update: 24 Jun 2020
 
 A browser extension which gives different filetypes different icons on GitHub.
 
-Installs: 10000 | Stars: 1159 | Last update: 30 Jun 2022
+Installs: 10000 | Stars: 1160 | Last update: 30 Jun 2022
 
 
 Highlight selected word in GitHub source view like Sublime Text.
@@ -106,7 +106,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 Neat hovercards for GitHub.
 
-Installs: 24981 | Stars: 1715 | Last update: 12 May 2021
+Installs: 24985 | Stars: 1714 | Last update: 12 May 2021
 
 
 Colorize issue and PR links to see their status (open, closed, merged).
@@ -151,12 +151,12 @@ Installs: 1119 | Stars: 303 | Last update: 13 Aug 2022
 
 Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) in the repository browser.
 
-Installs: 2000 | Stars: 230 | Last update: 30 Sep 2021
+Installs: 2000 | Stars: 229 | Last update: 30 Sep 2021
 
 
 It can make the sub-directories and files of github repository as zip and download it
 
-Installs: 93016 | Stars: 23 | Last update: 19 Jul 2022
+Installs: 93030 | Stars: 24 | Last update: 19 Jul 2022
 
 
 Create, save, edit, pin, search and delete filters that you commonly use on the Github Issues and Pull Requests pages. You are able to scope filters to be shown globally (on each repo) or only have them show up on the repo you create them on. Pinning filters is also a feature that this extension allows you to do. So if you have several filters you use daily - you have a way to quickly access them, at the top of your list.
@@ -191,12 +191,12 @@ Installs: 63 | Stars: 229 | Last update: 26 May 2018
 
 See forks with the most stars under the names of repositories.
 
-Installs: 1288 | Stars: 473 | Last update: 1 Sep 2021
+Installs: 1290 | Stars: 473 | Last update: 1 Sep 2021
 
 
 Show Material icons for files/folders in repository file viewer. Display the same icons from vscode-material-icon-theme VSCode extension.
 
-Installs: 6400 | Stars: 253 | Last update: 6 Nov 2022
+Installs: 6402 | Stars: 254 | Last update: 6 Nov 2022
 
 
 An extension that creates direct links to imported modules, external or internal, on source code on GitHub. Supports multiple languages, including common ones like Rust, Go, Python and Ruby, but also odd ones like Nim, Haskell, Julia and Elm.
@@ -216,7 +216,7 @@ Installs: 470 | Stars: 136 | Last update: 9 May 2022
 
 Displays your GitHub notifications unread count. Supports GitHub Enterprise and an option to only show unread count for issues you're participating in. You can click the icon to quickly see your unread notifications.
 
-Installs: 10522 | Stars: 1598 | Last update: 2 Mar 2022
+Installs: 10525 | Stars: 1598 | Last update: 2 Mar 2022
 
 
 Filter your pull requests/issues in different categories giving you a big boost in productivity. Also suggests new trending repositories.
@@ -226,7 +226,7 @@ Installs: 104 | Stars: 118 | Last update: 5 Mar 2020
 
 OctoLinker is the easiest and best way to navigate between files and projects on GitHub. It supports languages such as JavaScript, Ruby, Go, PHP, JAVA and more. It works with package.json as well as with Gemfiles.
 
-Installs: 31978 | Stars: 5063 | Last update: 15 Jul 2022
+Installs: 31985 | Stars: 5065 | Last update: 15 Jul 2022
 
 
 OctoPermalinker is a browser extension that searches GitHub comments/files for links to files on branches, and adds a link to where the branch pointed when the comment/file was made/updated. This helps you avoid following a link that was broken after being posted. For context, here's some discussion about broken GitHub links: [Don't link to line numbers in GitHub](https://news.ycombinator.com/item?id=8046710).
@@ -243,12 +243,12 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.
 
-Installs: 437993 | Stars: 22244 | Last update: 20 Oct 2022
+Installs: 438019 | Stars: 22241 | Last update: 20 Oct 2022
 
 
 Revert GitHub's UI back to its classic look (before the June 23, 2020 update that has a flat, rounded and more whitespaced design).
 
-Installs: 329 | Stars: 211 | Last update: 8 Aug 2021
+Installs: 330 | Stars: 211 | Last update: 8 Aug 2021
 
 
 This browser extension allows you to open files in your IDE directly from GitHub, assuming the repository you are working on is cloned on your computer. When a fragment of a file is displayed, your IDE opens the file and puts the cursor at the desired line.
@@ -268,7 +268,7 @@ Installs: 50 | Stars: 96 | Last update: 15 Oct 2020
 
 Extension that simplifies the GitHub interface and adds useful features.
 
-Installs: 67485 | Stars: 19245 | Last update: 6 Nov 2022
+Installs: 67523 | Stars: 19258 | Last update: 6 Nov 2022
 
 
 Are they tabs? Are they spaces? How many? Never wonder again! Renders spaces as `·` and tabs as `→` in all the code on GitHub.
@@ -289,7 +289,7 @@ The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewi
 4. Hover tooltips
 5. File tree navigation
 
-Installs: 101245 | Stars: 7099 | Last update: 18 Oct 2022
+Installs: 101248 | Stars: 7100 | Last update: 18 Oct 2022
 
 
 Make tab indented code more readable by forcing the tab size to 4 instead of 8.
@@ -314,12 +314,12 @@ Installs: 80000 | Stars: n/a | Last update: 2 Nov 2022
 
 All your issues, PRs, repos and other work documents right in your new tab
 
-Installs: 7101 | Stars: n/a | Last update: 8 Nov 2022
+Installs: 7102 | Stars: n/a | Last update: 8 Nov 2022
 
 
 file tree for github, and more than that.
 
-Installs: 10784 | Stars: n/a | Last update: 29 Aug 2022
+Installs: 10785 | Stars: n/a | Last update: 29 Aug 2022
 
 
 Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large screens. Also removes the truncating of file and directory names in the repository browser.
@@ -329,7 +329,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 gitpod streamlines developer workflows by providing ready-to-code development environments in your browser - powered by vs code.
 
-Installs: 62946 | Stars: 107 | Last update: 24 Oct 2022
+Installs: 62957 | Stars: 107 | Last update: 24 Oct 2022
 
 
 When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.
