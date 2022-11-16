@@ -32,6 +32,7 @@
 
 ### Automated Machine Learning
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
+* [AutoGluon](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 
 ### Ensemble Methods
 
@@ -90,6 +91,11 @@
 * [Dataset](https://github.com/analysiscenter/dataset) - Helps you conveniently work with random or sequential batches of your data and define data processing.
 * [meza](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - Build system for data science pipelines.
+
+### Data-centric AI
+* [cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. 
+* [snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
+* [dataprep](https://github.com/sfu-db/dataprep) - Collect, clean and visualization your data in python with a few lines of code.
 
 ## Feature Engineering
 
@@ -279,6 +285,9 @@
 * [sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators to C, Java, JavaScript and others.
 * [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange.
 * [MMdnn](https://github.com/Microsoft/MMdnn) -  A set of tools to help users inter-operate among different deep learning frameworks.
+
+## Related Resources
+* [Best of Machine Learning Libraries](https://kandi.openweaver.com/collections/machine-learning/python-machine-learning) - A curated list of best Machine Learning libraries in Python.
 
 ## Contributing
 Contributions are welcome! :sunglasses: </br>

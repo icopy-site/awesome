@@ -35,6 +35,7 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 - [TensorLy](https://raw.githubusercontent.com/tensorly/tensorly) - Tensor learning made simple. <img src="https://img.shields.io/github/stars/tensorly/tensorly?style=social" align="center">
 - [NetKet](https://raw.githubusercontent.com/netket/netket) - Machine Learning toolbox for Quantum Physics. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
 
+
 <a name="new-libraries" />
 
 ### New Libraries
@@ -86,6 +87,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [Jumanji](https://raw.githubusercontent.com/instadeepai/jumanji) - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX. <img src="https://img.shields.io/github/stars/instadeepai/jumanji?style=social" align="center">
 - [Eqxvision](https://raw.githubusercontent.com/paganpasta/eqxvision) - Equinox version of Torchvision. <img src="https://img.shields.io/github/stars/paganpasta/eqxvision?style=social" align="center">
 - [JAXFit](https://raw.githubusercontent.com/dipolar-quantum-gases/jaxfit) - Accelerated curve fitting library for nonlinear least-squares problems (see [arXiv paper](https://arxiv.org/abs/2208.12187)). <img src="https://img.shields.io/github/stars/dipolar-quantum-gases/jaxfit?style=social" align="center">
+- [econpizza](https://raw.githubusercontent.com/gboehl/econpizza) - Solve macroeconomic models with hetereogeneous agents using JAX. <img src="https://img.shields.io/github/stars/gboehl/econpizza?style=social" align="center">
 
 <a name="models-and-projects" />
 

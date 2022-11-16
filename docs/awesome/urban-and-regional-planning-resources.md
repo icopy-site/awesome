@@ -170,7 +170,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 ### Resilience and Natural Hazards
 
 - [Climate Engine](https://climateengine.com/) - Provides data and insights to support financial and operational resilience for a changing planet across a variety of climate related hazards.
-- [FloodFactor](https://firststreet.org/flood-factor/) - Provided by the First Street Foundation, this tool makes it easy to determine if a property has flooded from major events in the past, is currently at risk, and how that risk changes over time. It can also help estimate damage costs associated with flooding.
+- [RiskFactor](https://firststreet.org/risk-factor/) - Provided by the First Street Foundation, this tool enables users to understand properties' environmental risks from flooding, wildfire and extreme heat. The tool communicates historic events, current risks, and future projections for properties based on peer-reviewed research.  Additional Information: [Access Census Tract Risk Data](https://firststreet.org/data-access/), [First Street Foundation Website](https://firststreet.org/)
 - [Jupiter Intelligence](https://jupiterintel.com/) - Provides global high resolution climate projections out to 2100 for a variety of hazards (flood, precipitation, wind, heat/cold, wildfire, thunderstorms, drought) as well as asset-level estimates of damage and financial loss.
 
 ### Urban Observation
@@ -273,6 +273,8 @@ R Packages & Related Resources.
 - [Stars](https://cran.r-project.org/web/packages/stars/index.html) - Reading, manipulating, writing and plotting spatiotemporal arrays (raster and vector data cubes) in 'R'.
 - [stplanr](https://cran.r-project.org/web/packages/stplanr/index.html) - Tools for transport planning with an emphasis on spatial transport data and non-motorized modes including OD data processing and other functions. 
 - [Tmap](https://cran.r-project.org/web/packages/tmap/) - Thematic maps are geographical maps in which spatial data distributions are visualized. This package offers a flexible, layer-based, and easy to use approach to create thematic maps, such as choropleths and bubble maps.
+- [tidytransit](https://cran.r-project.org/web/packages/tidytransit/vignettes/introduction.html) - A tidy approach to accessing and manipulating GTFS data, including transit routes, schedules, and stops.
+- [tidycensus](https://walker-data.com/tidycensus/) - A tidy approach to accessing data from the US Census Bureau API for manipulation or spatial analysis.
 
 ### Other
 Other coding libraries & resources.
