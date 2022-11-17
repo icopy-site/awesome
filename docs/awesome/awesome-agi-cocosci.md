@@ -547,7 +547,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 ### Problem Solving
 
-<span id = "hmprobsol"></span>
 #### Human-Level Problem Solving
 
 * [Elements of a theory of human problem solving](https://psycnet.apa.org/record/1959-07883-001) - ***Psychological Review***, 1958. [[All Versions](https://scholar.google.com/scholar?cluster=6226995019045187501&hl=en&as_sdt=0,5)]. Herbert Simon's original idea on human problem solving.
