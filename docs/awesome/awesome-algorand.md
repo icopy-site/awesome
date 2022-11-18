@@ -68,6 +68,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Introduction to PyTeal](https://www.youtube.com/watch?v=zXDqJHK_Bqs) - Introduction to PyTeal, a Python framework to develop Smart Contract on Algorand (with [@matteojug](https://twitter.com/matteojug)).
 - [PyTeal ABI Smart Contracts](https://www.youtube.com/watch?v=USLcyfVD_ws) - Using PyTeal to develop _ABI-compliant_ Smart Contracts on Algorand. Final live coding section (with [@_deanste](https://twitter.com/_deanste)).
 - [Beaker](https://www.youtube.com/watch?v=031VvOxvuxY) - Framework for Algorand Smart Contract development, client and testing based on PyTeal. Live coding session (with [@HGKimChris](https://twitter.com/HGKimChris)).
+- [Dissecting Algorand](https://medium.com/coinmonks/dissecting-algorand-e962f48f8c72) - Introduction Algorand and an analysis on Algorand's inner workings.
 
 ### General courses
 
