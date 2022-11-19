@@ -156,6 +156,7 @@ nav:
     - Coq: awesome/awesome-coq.md
     - V: awesome/awesome-v.md
     - Zig: awesome/awesome-zig.md
+    - Move: awesome/awesome-move.md
   - Front-End Development:
     - ES6 Tools: awesome/es6-tools.md
     - Web Performance Optimization: awesome/awesome-wpo.md
@@ -239,6 +240,7 @@ nav:
     - Design systems: awesome/awesome-design-systems.md
     - Inertia.js: awesome/awesome-inertiajs.md
     - MDBootstrap: awesome/awesome-mdbootstrap.md
+    - Hydrogen: awesome/awesome-hydrogen.md
   - Back-End Development:
     - Flask: awesome/awesome-flask.md
     - Docker: awesome/awesome-docker.md
@@ -518,6 +520,7 @@ nav:
     - PCAPTools: awesome/awesome-pcaptools.md
     - Real-Time Communications: awesome/awesome-rtc.md
     - SNMP: awesome/awesome-snmp.md
+    - Scapy: awesome/awesome-scapy.md
   - Decentralized Systems:
     - Bitcoin: awesome/awesome-bitcoin.md
     - Ripple: awesome/awesome-ripple.md
@@ -673,6 +676,7 @@ nav:
     - Translations: awesome/awesome-translations.md
     - Scriptable: awesome/awesome-scriptable.md
     - WebXR: awesome/awesome-webxr.md
+    - Computational Geometry: awesome/awesome-computational-geometry.md
     - OpenStreetMap: awesome/awesome-openstreetmap.md
     - Computational Biology: awesome/awesome-computational-biology.md
     - All Awesome Lists: awesome/topics-awesome.md

@@ -357,6 +357,7 @@
 - [Coq](awesome/awesome-coq.md) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 - [V](awesome/awesome-v.md) - Simple, fast, safe, compiled language for developing maintainable software.
 - [Zig](awesome/awesome-zig.md) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [Move](awesome/awesome-move.md) - Domain-specific programming language for writing safe smart contracts.
 
 ## Front-End Development
 
@@ -439,6 +440,7 @@
 - [Design systems](awesome/awesome-design-systems.md) - Collection of reusable components, guided by rules that ensure consistency and speed.
 - [Inertia.js](awesome/awesome-inertiajs.md) - Make single-page apps without building an API.
 - [MDBootstrap](awesome/awesome-mdbootstrap.md) - Templates, layouts, components, and widgets to rapidly build websites.
+- [Hydrogen](awesome/awesome-hydrogen.md) - Edge-first framework for building Shopify storefronts with React.
 
 ## Back-End Development
 
@@ -748,6 +750,7 @@
 - [PCAPTools](awesome/awesome-pcaptools.md)
 - [Real-Time Communications](awesome/awesome-rtc.md) - Network protocols for near simultaneous exchange of media and data.
 - [SNMP](awesome/awesome-snmp.md) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
+- [Scapy](awesome/awesome-scapy.md) - Python-based interactive packet manipulation.
 
 ## Decentralized Systems
 
@@ -912,6 +915,7 @@
 - [Translations](awesome/awesome-translations.md) - The transfer of the meaning of a text from one language to another.
 - [Scriptable](awesome/awesome-scriptable.md) - An iOS app for automations in JavaScript.
 - [WebXR](awesome/awesome-webxr.md) - Enables immersive virtual reality and augmented reality content on the web.
+- [Computational Geometry](awesome/awesome-computational-geometry.md) - Computational approaches for problems in geometry.
 - [OpenStreetMap](awesome/awesome-openstreetmap.md) - An open data mapping project utilized by many apps and devices.
 - [Computational Biology](awesome/awesome-computational-biology.md) - Computational approaches applied to problems in biology.
 
