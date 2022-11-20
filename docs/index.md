@@ -582,6 +582,7 @@
 - [CHIP-8](awesome/awesome-chip-8.md) - Virtual computer game machine from the 70s.
 - [Games of Coding](awesome/awesome-games-of-coding.md) - Learn a programming language by making games.
 - [Esports](awesome/awesome-esports.md) - Video games played as a sport.
+- [Learn Gamedev](awesome/awesome-learn-gamedev.md) - The craft of video game creation.
 
 ## Development Environment
 

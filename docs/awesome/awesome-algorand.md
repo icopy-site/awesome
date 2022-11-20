@@ -320,6 +320,10 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/aor
 
 Special thanks to everyone who forked or starred the repository ❤️
 
+[![Stargazers repo roster for @aorumbayev/Awesome-Algorand](https://reporoster.com/stars/dark/aorumbayev/Awesome-Algorand)](https://github.com/aorumbayev/Awesome-Algorand/stargazers)
+
+[![Forkers repo roster for @aorumbayev/AwesomeAlgorand](https://reporoster.com/forks/dark/aorumbayev/Awesome-Algorand)](https://github.com/aorumbayev/Awesome-Algorand/network/members)
+
 ---
 
 License
