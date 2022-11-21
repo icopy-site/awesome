@@ -1401,7 +1401,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 * [Synthesizing theories of human language with Bayesian program induction](http://cap.csail.mit.edu/sites/default/files/research-pdfs/Synthesizing%20theories%20of%20human%20language%20with%20Bayesian%20program%20induction.pdf) - ***Nature Communications***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=8603772394100237159&hl=en&as_sdt=0,5)].
 
 
-<span id = "kr"></span>
+
 ### Knowledge Representation
 
 * [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86) - ***Elsevier***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5)]. A pragmatical handbook for all kinds of knowledge representation modes.
