@@ -38,7 +38,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 ### Climate
 - [NCCS Data Services](https://www.nccs.nasa.gov/services/climate-data-services) - The NASA Center for Climate Simulation houses curated data collections that include atmosphere, ocean, land, and flood data, both current and historical, as well as operational Global Modeling and Assimilation Office (GMAO) weather analysis data and forecasts that are updated four times daily.
 - [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - United States storm data provided by the National Weather Service (NWS) and contain statistics on personal injuries and damage estimates.
-- [NOAA Severe Weather Inventory](https://www.ncdc.noaa.gov/severe-weather/severe-weather-data-inventory) - The Severe Weather Data Inventory (SWDI) is an integrated database of severe weather records for the United States. The formats currently supported are Shapefile (for GIS), KMZ (for Google Earth), CSV (comma-separated), and XML.
+- [NOAA Severe Weather Inventory](https://www.ncei.noaa.gov/products/severe-weather-data-inventory) - The Severe Weather Data Inventory (SWDI) is an integrated database of severe weather records for the United States. The formats currently supported are Shapefile (for GIS), KMZ (for Google Earth), CSV (comma-separated), and XML.
 - [NREL Solar Radiation](https://nsrdb.nrel.gov/) - The National Solar Radiation Database (NSRDB) is a serially complete collection of hourly and half-hourly values of meteorological data and the three most common measurements of solar radiation: global horizontal, direct normal and diffuse horizontal irradiance.
 - [Temperature Severity Indicators](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about) - The Temperature Severity Indicator data distills observational information of prolonged temperature events to inform housing and community development policy and decision making provided by US HUD. 
 - [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - Census Tract level temperature data derived from a [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) use remotely sensed land surface temperature measurements to explore the distribution of the United States urban heating burden by demographic group.
@@ -56,7 +56,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 ### Education 
 
--[Education Demographics & Geographic Estimates (EDGE)](https://nces.ed.gov/programs/edge/Home) - EDGE provides access to demographic and school related geographic data such as locations and districts. 
+- [Education Demographics & Geographic Estimates (EDGE)](https://nces.ed.gov/programs/edge/Home) - EDGE provides access to demographic and school related geographic data such as locations and districts. 
 
 - [National Center for Educational Statistics](https://nces.ed.gov/datalab/index.aspx) - The National Center for Education Statistics (NCES) is the primary federal entity for collecting and analyzing data related to education. Their data lab provides access to other 30+ education datasets and provides quick reporting and charting functionality for users. 
   
@@ -70,7 +70,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape displays data from the USDA Cropland Data Layer (CDL), an annual, remote-sensing snapshot of crop cover during the main growing season across the contiguous United States.
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas is a collection of interactive tools and resources that allows users to explore the many benefits people receive from nature, often referred to as ecosystem services within the United States.
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products) - The NHDPlus High Resolution (NHDPlus HR), National Hydrography Dataset (NHD), and Watershed Boundary Dataset (WBD) are available for download and as map services. These datasets can help inform environmental planning and storm water management efforts in the US. 
-- [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) -  The US Fish & Wildlife Service (FWS) National Wetlands Inventory (NWI) is a publicly available resource that provides detailed information on the abundance, characteristics, and distribution of US wetlands.
+- [National Wetland Inventory](https://www.fws.gov/program/national-wetlands-inventory) -  The US Fish & Wildlife Service (FWS) National Wetlands Inventory (NWI) is a publicly available resource that provides detailed information on the abundance, characteristics, and distribution of US wetlands.
 - [Park Score](https://www.tpl.org/parkscore) - The Trust for Public Land curates a comprehensive evaluation of park access and quality in the 100 largest U.S. cities. 
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - The U.S. Forest Service (USFS) Geospatial Technology and Applications Center (GTAC) builds and maintains tree canopy cover (TCC) datasets.
 - [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - The Nature Conservancy's geospatial portal includes web maps, apps, a map gallery, local initiative portals, conservation data, and other resources.
@@ -134,7 +134,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [BTS Open Data Site](https://data-usdot.opendata.arcgis.com/) - On the BTS Open Data site, browse geospatial data that is part of the BTS National Transportation Atlas Database (NTAD) product. NTAD is a set of nationwide (United States) geographic databases of public spatial information for transportation facilities and networks; flows of people, goods, vehicles, and craft over the transportation networks; and social, economic, and environmental conditions that affect or are affected by the transportation networks.
 - [City Access Map](https://www.cityaccessmap.com/) - CityAccessMap was developed by urban scientists, for urban planners. It uses open data from OpenStreetMap and the Global Human Settlement Layer (GHSL), to quantify and visualize walking accessibility to a variety of services for any city in the world.
 - [CTPP](https://ctpp.transportation.org/) - The CTPP Program procures tabulations of American Community Survey (ACS) 5-year (and historical Census decennial) data. The chief differences between ACS data and CTPP data are FLOWS from home to work and WORKPLACE BASED data at small Geographies.
-- [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm0) - The HPMS is a national level highway information system that includes data on the extent, condition, performance, use and operating characteristics of the nation's highways.
+- [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm) - The HPMS is a national level highway information system that includes data on the extent, condition, performance, use and operating characteristics of the nation's highways.
 - [Transitland](https://transit.land) - Transitland is an open data platform that collects GTFS, GTFS Realtime, and other open data feeds from over 2,500 transit operators in over 55 countries. Additional Information: [Interline](https://www.interline.io/), [GitHub](https://github.com/transitland).
 - [National Noise Map](https://www.bts.gov/geospatial/national-transportation-noise-map) - Data within the National Transportation Noise Map represent potential noise levels across the nation for an average annual day for the specified year. 
 - [National Transit Database](https://www.transit.dot.gov/ntd/ntd-data) - Repository of operations, financial, and asset data that US transit agencies are required to report to the Federal Transit Administration. 
@@ -179,7 +179,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 - [Transoft](https://safety.transoftsolutions.com/) - Transoft ITS Safety solutions utilize computer vision to identify 'near-miss' behavior on streets. This technology was featured Planning Magazine in the [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
 - [Automotus](https://www.automotus.co/) - Computer vision based platform that helps cities, airports, fleets, and businesses monitor the curb in real time. Enables curbside management policies that increase revenue while making streets less congested, more sustainable, and more equitable. 
 - [curbFlow](https://www.curbflow.com/) - Computer vision based services to quantify events occurring in the built environment affordably and quickly. 
-- [Vade](https://www.vadepark.com/) - Using custom IoT cameras and computer vision to bring real time parking availability easily queryable via web-based API's. 
+- [Vade](https://www.vade.ai/) - Using custom IoT cameras and computer vision to bring real time parking availability easily queryable via web-based API's. 
 - [StreetSimplified](https://www.streetsimplified.com/) - Deploys temporary cameras utilizing computer vision to examine various transportation behaviors such as speeding, crossing rule compliance, and red-light running.  
 
 ### Travel Behavior
@@ -208,7 +208,7 @@ A collection of urban planning related data specifications and standards for use
 - [IFC](https://technical.buildingsmart.org/standards/ifc/) - IFC is a standardized, digital description of the built environment, including buildings and civil infrastructure. It is an open, international standard (ISO 16739-1:2018).
 
 ### Environmental 
-- [EPA Data Standards](https://www.epa.gov/data-standards/epa-data-standards) - A chart with links to the diversity of data standards adopted by EPA.
+- [EPA Data Standards](https://www.epa.gov/data-standards) - A chart with links to the diversity of data standards adopted by EPA.
 
 ### Transportation
 

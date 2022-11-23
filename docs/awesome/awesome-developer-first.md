@@ -27,6 +27,7 @@ The definition of developer-first for this repo is:
 * [Segment](https://segment.com/) - Collect user data and send it to your other tools.
 * [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
 * [Pirsch](https://pirsch.io/) - Privacy-friendly web analytics with a backend integration and API.
+* [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, blazingly fast analytics tool.
 
 ## Authentication & Identity
 *Products that handle authentication and user identity for you.*
@@ -72,6 +73,7 @@ The definition of developer-first for this repo is:
 * [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
 * [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase.
 * [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
+* [upstash](https://upstash.com/) - Serverless tailored redis provider.
 
 ## Debugging 
 *Tools that help in tracking bugs.*

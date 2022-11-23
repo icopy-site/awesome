@@ -412,6 +412,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [Stanford Classifier](https://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
 * [Smile](https://haifengl.github.io/) - Statistical Machine Intelligence & Learning Engine.
 * [SystemML](https://github.com/apache/systemml) - flexible, scalable machine learning (ML) language.
+* [Tribou](https://tribuo.org) - a machine learning library written in Java by Oracle.
 * [Weka](https://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks.
 * [LBJava](https://github.com/CogComp/lbjava) - Learning Based Java is a modelling language for the rapid development of software systems, offers a convenient, declarative syntax for classifier and constraint definition directly in terms of the objects in the programmer's application.
 * [knn-java-library](https://github.com/felipexw/knn-java-library) - Just a simple implementation of K-Nearest Neighbors algorithm using with a bunch of similarity measures.
@@ -804,6 +805,14 @@ on MNIST digits[DEEP LEARNING].
 * [Libra-Tk](https://libra.cs.uoregon.edu) - Algorithms for learning and inference with discrete probabilistic models.
 * [TensorFlow](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
 
+<a name="opencv"></a>
+## OpenCV
+
+<a name="opencv-ComputerVision and Text Detection"></a>
+### OpenSource-Computer-Vision
+
+* [OpenCV](https://github.com/opencv/opencv) - A OpenSource Computer Vision Library
+
 <a name="perl"></a>
 ## Perl
 
@@ -1098,6 +1107,7 @@ be
 * [Upgini](https://github.com/upgini/upgini): Free automated data & feature enrichment library for machine learning - automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features.
 * [AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics): A tutorial to help machine learning researchers to automatically obtain optimized machine learning models with the optimal learning performance on any specific task.
 * [SKBEL](https://github.com/robinthibaut/skbel): A Python library for Bayesian Evidential Learning (BEL) in order to estimate the uncertainty of a prediction.
+* [NannyML](https://bit.ly/nannyml-github-machinelearning): Python library capable of fully capturing the impact of data drift on performance. Allows estimation of post-deployment model performance without access to targets. 
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
@@ -1230,6 +1240,14 @@ be
 * [TResNet: Simple and powerful neural network library for python](https://github.com/zueve/neurolab) - Variety of supported types of Artificial Neural Network and learning algorithms.
 * [Jina AI](https://jina.ai/) An easier way to build neural search in the cloud. Compatible with Jupyter Notebooks.
 * [sequitur](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
+
+
+<a name="python-spiking-neural-networks"></a>
+#### Spiking Neural Networks
+
+* [Rockpool](https://github.com/synsense/rockpool) - A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware. 
+* [Sinabs](https://github.com/synsense/sinabs) - A deep learning library for spiking neural networks which is based on PyTorch, focuses on fast training and supports inference on neuromorphic hardware.
+* [Tonic](https://github.com/neuromorphs/tonic) - A library that makes downloading publicly available neuromorphic datasets a breeze and provides event-based data transformation/augmentation pipelines.
 
 <a name="python-survival-analysis"></a>
 #### Python Survival Analysis
