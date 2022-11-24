@@ -254,6 +254,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [QUIGON](https://bridge.quigon.com/) - Centralized cross-chain NFT bridge.
 - [GlitterFinance](https://glitter.finance/) - Centralized (soon to be decentralized upon TEAL 6) bridge for Solana, Polygon, Terra and Cudos to Algorand.
 - [ptokens](https://dapp.ptokens.io/swap?asset=btc&from=btc&to=algorand) - pNetwork Officially Launched Cross-Chain Bridges for Algorand.
+- [Messina](https://messina.one/) - The ALGO — ETH two-way Messina.one's Bridge will open the doors for interoperability between Ethereum and ERC-20 tokens with Algorand.
 
 ## Oracles
 
