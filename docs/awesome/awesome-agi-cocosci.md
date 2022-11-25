@@ -771,7 +771,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 * [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=17735027444431750346&hl=en&as_sdt=0,5)]. [[Project](https://github.com/deepmind/dm_fast_mapping?s=05)].
 
 
-<span id = "xai"></span>
 ### Explainability
 
 #### Trustworthy AI
