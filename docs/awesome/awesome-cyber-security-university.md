@@ -169,6 +169,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Windows Fundamentals](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/windowsfundamentals1xbx>) -  Intro to Windows.
 * [Nessus](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/rpnessusredux>) - Intro to nessus scan.
 * [Mitre](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/mitre>) -  Intro to Mitre attack framework.
+* [IntroSIEM](https://tryhackme.com/room/introtosiem) - Introduction to SIEM.
 * [Yara](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/yara>) -  Intro to yara for malware analysis.
 * [OpenVAS](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/openvas>) - Intro to openvas.
 * [Intro to Honeypots](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/introductiontohoneypots>) -  Intro to honeypots.
@@ -188,6 +189,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Splunk Boss of the SOC V1](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/bpsplunk>) - Part of the Blue Primer series, learn how to use Splunk to search through massive amounts of information.
 * [Splunk Boss of the SOC V2](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://cyberdefenders.org/blueteam-ctf-challenges/16>) - Splunk analysis vol 2.
 * [Splunk Boss of the SOC V3](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://cyberdefenders.org/blueteam-ctf-challenges/8>) - Splunk analysis vol 3.
+* [Hunt Conti with Splunk](https://tryhackme.com/room/contiransomwarehgh) - An Exchange server was compromised with ransomware. Use Splunk to investigate how the attackers compromised the server.
 
 <!--lint disable double-link-->
 <!--lint enable double-link-->
