@@ -1749,7 +1749,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 *[Back to Top](#c)-->
 
 
-<span id = "r&l"></span>
 ## Institute & Researcher
 
 ### MIT
