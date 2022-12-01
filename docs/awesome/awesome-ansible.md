@@ -40,6 +40,7 @@
 - [Ansible Tutorials on DigitalOcean](https://www.digitalocean.com/community/tags/ansible?subtype=tutorial) - Basic tutorials on DigitalOcean.com.
 - [Ansible Tutorial by BlueBanquise team](http://bluebanquise.com/documentation/releases/1.5.0/training_ansible.html) - Basic Ansible tutorial.
 - [Ansible Tutorial for Beginners: Playbook & Examples](https://spacelift.io/blog/ansible-tutorial) - Introduction to Ansible for beginners.
+- [Ansible Tutorials for Beginners and Advanced](https://ansible.puzzle.ch/) - Workshop on multiple topics with different levels of difficulty.
 
 ## Books
 
@@ -88,6 +89,7 @@
 - [Ansible Playbook Grapher](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
 - [ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) - A tool that extracts documentation from Ansible modules in the HTML form.
 - [Ansible Semaphore](https://github.com/ansible-semaphore/semaphore) - Ansible Semaphore is a modern UI for Ansible.
+- [Steampunk Spotter](https://steampunk.si/spotter/) - Provides an Assisted Automation Writing tool that analyzes and offers recommendations for your Ansible Playbooks.
 
 ## Blog posts and opinions
 
@@ -116,3 +118,11 @@
 - [DebOps](https://docs.debops.org/en/master/) - A extensive collection of Debian based Ansible Playbooks.
 - [ansible-ssm](https://github.com/HQarroum/ansible-ssm) - An ansible role to provision physical and virtual hosts with the AWS SSM agent.
 - [BlueBanquise](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
+
+## Editor and IDE Integrations
+
+> Awesome Integrations into Text Editors and IDE's to make development with/for Ansible easier.
+
+- [Ansible Language Server](https://github.com/ansible/ansible-language-server) - Language Server that adds support for Ansible, to compatible Editors.
+- [Emacs - Ansible client for Language Server Protocol](https://emacs-lsp.github.io/lsp-mode/page/lsp-ansible/) - Emacs support for Ansible Language Server Protocol.
+- [VS Code - official Ansible Extension](https://marketplace.visualstudio.com/items?itemName=redhat.ansible) - Adds language support for Ansible to Visual Studio Code and OpenVSX compatible editors by leveraging ansible-language-server.

@@ -59,6 +59,7 @@ Hydrogen is a React-based framework for building dynamic, Shopify-powered custom
 - [Okendo](https://github.com/okendo/okendo-shopify-hydrogen-demo/wiki) - Customer reviews.
 - [Dynamic Yield](https://www.dynamicyield.com/integration/shopify-plus) - Personalization.
 - [Gorgias](https://docs.gorgias.com/en-US/shopify-hydrogen-96240) - Customer support.
+- [Search, Filters & Discovery](https://www.npmjs.com/package/@fast-simon/shopify-hydrogen) - Search, merchandising and filters.
 
 ## Blog Posts
 
@@ -78,7 +79,7 @@ Hydrogen is a React-based framework for building dynamic, Shopify-powered custom
 ## Conference Talks
 
 - [Anthony Frehner at Remix Conf 2022](https://www.youtube.com/watch?v=4_nxvVTNY9s)
-  
+
 
 ## Vite Plugins
 
