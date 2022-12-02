@@ -196,6 +196,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [graviton](https://github.com/algorand/graviton) - Algorand's TEAL blackbox testing toolkit.
 - [tealer](https://github.com/crytic/tealer) - Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.
 - [irulan](https://irulan.dev/) - Web app for deploying + testing smart contracts ([open source! + PRs welcome](https://github.com/ncc/irulan)).
+- [algojig](https://github.com/Hipo/algojig) - A tool for testing Algorand smart contracts.
 
 ### Nodes and Indexers
 
@@ -235,6 +236,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Lofty.ai](https://www.lofty.ai/) - Tokenized real estate investing platform.
 - [Folks.finance](https://folks.finance/) - Decentralized capital markets protocol.
 - [C3](https://c3.io/) - Cross-margin cross-collateralization clearing engine protocol.
+- [Cometa.farm](https://cometa.farm/) - Decentralized liquidity-as-a-service.
 
 ## Security Audits
 

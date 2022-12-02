@@ -457,7 +457,7 @@ Table of Contents
   * [Mergify](https://mergify.io) — workflow automation and merge queue for GitHub — Free for public GitHub repositories
   * [Make](https://www.make.com/en) — Workflow automation tool which lets you connect apps and automate workflows using UI, it supports many apps and most popular APIs. Free for public GitHub repositories, and free tier with 100 Mb, 1000 Operations and 15 minutes of minimum interval.
   * [Spacelift](https://spacelift.io/) - Management platform for Infrastructure as Code. Free plan features: IaC collaboration, Terraform module registry, ChatOps integration, Continuous resource compliance with Open Policy Agent, SSO with SAML 2.0 and access to public worker pools: up to 200 minutes/month
-  * [microtica.com](https://microtica.com/) - Spin up environments with ready-made infrastructure components, deploy apps on Kubernetes for free and support your production workloads. Free tier includes 2 services, 100 build minutes/month and 20 deployments/month on a shared Kubernetes Cluster provided by us.
+  * [microtica.com](https://microtica.com/) - Spin up environments with ready-made infrastructure components, deploy apps on AWS for free and support your production workloads. The free tier includes 1 Environment (on your AWS account), 2 Kubernetes Services, 100 build minutes per month, and 20 deployments per month.
 
 
 
@@ -1008,7 +1008,7 @@ Table of Contents
 
 
 ## Domain
-  * [freenom](https://freenom.com) — Free .tk,.ml,.ga,.cf and .gq domain.
+  * [Freenom](https://freenom.com) — Free .tk,.ml,.ga,.cf and .gq domain.
   * [eu.org](https://nic.eu.org) — Free eu.org domain. Request is usually approved in 14 days.
   * [js.org](https://js.org) - Free js.org subdomains for GitHub Pages for the JavaScript community.
   * [js.cool](https://github.com/willin/js.cool) - Free js.cool subdomains for GitHub Pages and Vercel.
@@ -1016,9 +1016,10 @@ Table of Contents
   * [thedev.id](https://thedev.id) — A free thedev.id subdomain for developers.
   * [is-a.dev](https://www.is-a.dev/) — Free is-a.dev subdomain for developers.
   * [is-a-good.dev](https://is-a-good.dev) — A free is-a-good-dev subdomain for developers.
+  * [is-not-a.dev & localplayer.dev](https://github.com/open-domains/register) - Free subdomains for personal sites, open-source projects, and more.
   * [cluster.ws & wip.la](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
   * [Dee.al](https://domain.dee.al) — Free .dee.al,.gal.aw,.devz.id instant domain for your blog site & Other, ENJOY
-  * [is-an.app](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).
+  * [is-an.app & 1bt.uk](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).
 
 
 ## IaaS

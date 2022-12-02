@@ -125,6 +125,7 @@
 - [Evolution of Vue - Part II (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/7068499-evolucion-de-vue-parte-ii)
 - [Evolution of Vue - Part III (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/7136740-evolucion-de-vue-parte-iii)
 - [React vs Vue - their communities (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/6151663-react-vs-vue-las-comunidades)
+- [Views on Vue (weekly podcast on Vue)](https://topenddevs.com/podcasts/views-on-vue)
 
 ### Youtube Channels
 
@@ -1125,6 +1126,7 @@ _Tables / data grids_
 - [jz-gantt](https://github.com/jeremyjone/jz-gantt) - A high-performance Vue gantt component, which includes highly customizable table columns, dynamic update data, freely drag the progress bar, switch header, etc.
 - [vue3-easy-data-table](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
 - [lv2-datatable](https://github.com/HELMAB/lv2-datatable) - Integrate the Laravel datatables with your Vue app without using JQuery.
+- [vuetify-resize-drawer](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - Vuetify v2. The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
 
 #### Notification
 
@@ -1771,7 +1773,7 @@ _Display non-editable events in a Calendar_
 - [tsParticles](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
 - [@bananajs/vue3-book-component](https://github.com/bananajs-is-already-taken/vue3-book-component) - Book component for Vue 3. It provides easy, flexible API and great customizability.
 - [@bananajs/vue2-book-component](https://github.com/bananajs-is-already-taken/vue2-book-component) - Book component for Vue 2. It provides easy, flexible API and great customizability.
-- [vue-image-zoomer](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2, that also works on touch devices.
+- [vue-image-zoomer](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
 - [vue-show-more-text](https://github.com/limlt/vue-show-more-text) - Vue multiline sentence ellipsis component. The text in the component will be truncated.
 - [vue-copy-to-clipboard](https://github.com/meforma/vue-copy-to-clipboard) - Vue.js 3 plugin to copy text to clipboard (Vue 3)
 - [vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customizable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
@@ -1902,7 +1904,7 @@ _Date / datetime / time Picker_
 - [vue-select-sides](https://github.com/juliorosseti/vue-select-sides) - A component for Vue.js to select double-sided data (2-sides).
 - [vue-selectize](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla js select component
 - [@vueform/multiselect](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
-- [vue-country-code](https://github.com/denfedweb/vue-country-code) - Country Code Select
+- [vue-country-code](https://github.com/hantrongbinh/vue-country-code) - Vue 2 Country Code Select
 
 ##### Slider
 

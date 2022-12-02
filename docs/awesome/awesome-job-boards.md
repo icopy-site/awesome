@@ -50,7 +50,6 @@ A curated list of awesome niche job boards.
 
 ## DevOps
 
-* [Jobs For DevOps](https://jobsfordevops.com)
 * [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies.
 
 ## Gaming
@@ -159,6 +158,7 @@ A curated list of awesome niche job boards.
 * [Werkington](https://www.werkington.com/)
 * [Just Remote](https://justremote.co/remote-jobs)
 * [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
+* [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
 
 ### Aggregator
 
@@ -204,3 +204,6 @@ A curated list of awesome niche job boards.
 ## Writing
 
 * [Write the Docs Job Board](https://jobs.writethedocs.org/) - Jobs for people who care about documentation
+
+## Various
+* [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
