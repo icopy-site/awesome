@@ -253,6 +253,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 <!-- ignore is to keep "github" lower-case -->
 <!--lint ignore awesome-spell-check-->
 
+- [html](https://github.com/shuoshubao/eslint-formatter-html) - A enhanced ESLint formatter
 - [badger](https://github.com/brettz9/eslint-formatter-badger) - Make SVG-based badges summarizing ESLint results (e.g., for use on a README).
 - [git-log](https://github.com/JamieMason/eslint-formatter-git-log) - ESLint Formatter featuring Git Author, Date, and Hash.
 - [github](https://github.com/hipstersmoothie/eslint-formatter-github) - See ESLint errors and warnings directly in pull requests.
