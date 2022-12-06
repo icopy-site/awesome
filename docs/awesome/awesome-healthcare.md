@@ -20,6 +20,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [HOSxP](https://hosxp.net/joomla25/) - Thai Hospital Information System that aims to ease the healthcare workflow of health centers and central hospitals.
   * [LibreHealth EHR](https://librehealth.io/projects/lh-ehr/) - Clinically-focused Electronic Health Record System.
   * [MedinTux](https://medintux.org/) - French Medical Practice Management System.
+  * [Medplum](https://github.com/medplum/medplum) - Developer platform that enables flexible and rapid development of healthcare apps.
   * [Odoo Medical](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
   * [OpenClinic](https://github.com/jact/openclinic) - Medical Records System.
   * [OpenEMR](https://www.open-emr.org) - Electronic Health Records and Medical Practice Management application.
@@ -126,6 +127,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Python 835 Parser](https://github.com/keironstoddart/edi-835-parser) - A simple-to-use Python interface to EDI 835 Health Care Claim Payment and Remittance Advice files.
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
+  * [Rust FHIR](https://github.com/itsbalamurali/rust-fhir) - Rust SDK for HL7 FHIR
   * [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
   * [Z-Anatomy](https://www.z-anatomy.com) - The libre atlas of anatomy
 
@@ -162,6 +164,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Wregex](https://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix.
 
 ### Data
+  * [Atlas BI Library](https://github.com/atlas-bi/atlas-bi-library) The unified report library.
   * [Caisis](http://www.caisis.org/) - Oncology research software with a Patient Data Management System.
   * [Cedar](https://projectcedar.org/) - Open source tool for testing the strength of Electronic Clinical Quality Measure.
   * [cTAKES](https://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
