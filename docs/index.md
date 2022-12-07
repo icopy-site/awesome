@@ -395,6 +395,7 @@
 - [Design systems](awesome/awesome-design-systems.md) - Collection of reusable components, guided by rules that ensure consistency and speed.
 - [Inertia.js](awesome/awesome-inertiajs.md) - Make single-page apps without building an API.
 - [MDBootstrap](awesome/awesome-mdbootstrap.md) - Templates, layouts, components, and widgets to rapidly build websites.
+- [Master CSS](awesome/awesome-master-css.md) - A virtual CSS language with enhanced syntax.
 - [Hydrogen](awesome/awesome-hydrogen.md) - Edge-first framework for building Shopify storefronts with React.
 
 ## Back-End Development

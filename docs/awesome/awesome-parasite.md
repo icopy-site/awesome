@@ -57,6 +57,7 @@ Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and 
 * [GBIF Backbone Taxonomy](https://www.gbif.org/en/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c) - Aggregation and synonymization of taxonomy for animals, bacteria, protozoa, and viruses that synthesizes 56 taxonomy sources.
 * [ICTV](https://talk.ictvonline.org/taxonomy/) - The viral taxonomy authority with excellent archives and [open reports](https://talk.ictvonline.org/ictv-reports/).
 * [IUCN Redlist](http://www.iucnredlist.org/) - Online database that provides taxonomic information for wild hosts. You can use the R package `rredlist` and the [API](http://apiv3.iucnredlist.org/api/v3/docs) to access the data directly. 
+* [Mammal Diversity Database](https://www.mammaldiversity.org/) - Mammal taxonomic authority maintained by American Society of Mammalogists. Versions are updated and recorded on Zenodo. Full desrciption by [Burgin et al. (2018)](https://academic.oup.com/jmammal/article/99/1/1/4834091?login=false). 
 * [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) - The Taxonomy Database is a curated classification and nomenclature for all of the organisms in the public sequence databases, both parasites and hosts.
 
 ## Scientific Journals 
