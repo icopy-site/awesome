@@ -166,9 +166,10 @@
 * [Slow TV Map](https://slowtvmap.com) - A fun way to discover relaxing virtual experiences. Next.js + Chakra UI + MySQL hosted on Vercel.
 
 ## Books
-* [Hands On Next.js](https://www.honext.io/) - A practical fullstack book on universal (server) rendering for react applications.
+* [Hands On Next.js](https://leanpub.com/hands-on-nextjs) - A practical fullstack book on universal (server) rendering for react applications.
 * [Next.js Quick Start Guide](https://www.packtpub.com/web-development/nextjs-quick-start-guide) - Create, build and deploy universal JavaScript applications using Next.js
 * [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Build a frontend React application that transparently handles server-side rendering for you.
+* [Serverless Web Applications with React and Next.js](https://www.amazon.com/dp/B0BHRPMF74) - Use Next.js serverless features to access databases and authenticate users in your React applications
 
 ## Videos
 
