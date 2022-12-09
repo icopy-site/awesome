@@ -70,8 +70,11 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OHIF](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
   * [Omero](https://github.com/ome/openmicroscopy) - open source client/server system written in Java for visualizing, managing, and annotating microscope images and metadata
   * [OpenREM](https://openrem.org/) - Radiation Exposure Monitoring for physicists.
+  * [OpenSlide](https://github.com/openslide/openslide) - is a C library for reading whole slide image files.
   * [Orthanc](https://www.orthanc-server.com) - Lightweight DICOM server for healthcare and medical research.
   * [Papaya](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
+  * [Slim](https://github.com/herrmannlab/slim) - Interoperable web viewer and annotation tool for computational pathology.
+  * [Viv](https://github.com/hms-dbmi/viv) - multiscale visualization of high-resolution multiplexed bioimaging data on the web.
   * [VTK](https://vtk.org) - 3 dimensional visualization toolkit supporting a variety of algorithms and modeling techniques.
 
 ### Dental
@@ -166,7 +169,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Data
   * [Atlas BI Library](https://github.com/atlas-bi/atlas-bi-library) The unified report library.
   * [Caisis](http://www.caisis.org/) - Oncology research software with a Patient Data Management System.
-  * [Cedar](https://projectcedar.org/) - Open source tool for testing the strength of Electronic Clinical Quality Measure.
+  * [Cedar](https://github.com/mitre/cedar) - Open source tool for testing the strength of Electronic Clinical Quality Measure.
   * [cTAKES](https://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
   * [IHRIS](https://www.ihris.org/toolkit-new/) - Health Information System for management of human resources for health.
   * [Inferno](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface.
