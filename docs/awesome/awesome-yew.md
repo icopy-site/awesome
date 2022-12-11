@@ -154,6 +154,10 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [stdweb](https://github.com/koute/stdweb) - Provides Rust bindings to the Web APIs and to allow a high degree of interoperability between Rust and JavaScript.
 - [tauri-sys](https://github.com/JonasKruckenberg/tauri-sys) - Raw bindings to the Tauri API for projects using wasm-bindgen.
 
+### Frameworks
+
+- [stackable](https://github.com/futursolo/stackable) - A framework experience for Yew.
+
 ## Tooling
 
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) - Your favorite Rust -> WebAssembly workflow tool.
