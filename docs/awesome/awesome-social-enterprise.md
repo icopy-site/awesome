@@ -65,6 +65,7 @@ Wikipedia is a great place to explore and find related topics.
 |-------|--------|------|-------|
 | Social Entrepreneurship: What Everyone Needs To Know | David Bornstein | 2010 | Great introduction to social entrepreneurship. Short and sweet with lots of great answers to common questions. |
 | [Ladderworks books](https://www.ladderworks.co/) | various | 2022 | Diverse picture books for empowering over a million kids to become social entrepreneurs. |
+| Becoming a Social Entrepreneur: Starting Out, Scaling Up and Staying True | Michael Gordon | 2019 |  | 
 
 ## Podcasts 🎧
 * [The Tech Matters Podcast](https://techmatters.org/introducing-the-tech-matters-podcast/) - Talking about social enterprise structure and interviewing folks running them. Hosted by social entreprenur and engineer [Jim Fruchterman](https://en.wikipedia.org/wiki/Jim_Fruchterman).
@@ -86,6 +87,7 @@ edX
 Coursera  
 * [Social Entrepreneurship](https://www.coursera.org/learn/wharton-social-entrepreneurship) - By Wharton Business School. One course, approximately nine hours of work.
 * [Social Entrepreneurship Specialization](https://www.coursera.org/specializations/social-entrepreneurship-cbs) - By Copenhagen Business School. Three courses to complete over four months.
+* [Becoming a Social Entrepreneur: Getting Started](https://www.coursera.org/learn/social-entrepreneurship-getting-started) - By University Of Michigan.
 
 [Acumen Academy](https://acumenacademy.org/learn)
 * Offers free and paid courses to help individuals create social change.
