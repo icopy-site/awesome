@@ -817,7 +817,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 
 
-<span id = "ei"></span>
+
 ### Embodied Intelligence
 
 * [Embodied Cognition](https://plato.stanford.edu/entries/embodied-cognition/) - ***Plato Stanford***. A computational philosophy account on Embodied Cognition, which emphasizes the significance of an agent's physical body in cognitive abilities.

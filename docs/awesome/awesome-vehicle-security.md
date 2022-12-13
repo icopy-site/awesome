@@ -59,6 +59,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [Car Infotainment Hacking Methodology and Attack Surface Scenario](https://www.youtube.com/watch?v=F0mYkI2FJ_4) - A guide on how to attack, hunt bugs or hack your IVI by Jay Turla which was presented at the Packet Hacking Village / Wall of Sheep during DEF CON 26.
 - [TR19: Automotive Penetration Testing with Scapy](https://www.youtube.com/watch?v=7D7uNqPWrXw) - Overview on how Scapy can be used for automotive penetration testing at Troopers Conference 2019.
 - [Analysis and Defense of Automotive Networks](https://www.youtube.com/watch?v=a1huGwMjjd4) - Overview of CAN, security, and potential intrusion detection approaches at BSides Knoxville 2020
+- [Remote Exploitation of Honda Cars](https://www.youtube.com/watch?v=y4Uzm-CTa0I&ab_channel=CarHackingVillage) - The Honda Connect app used by Honda City 5th generation used weak security mechanisms in its APIs for access control which would allow a malicious user to perform actions like starting the car, locking/unlocking car etc. remotely by interacting with it's Telematics Control Unit (TCU)
 
 ## Books
 
@@ -109,6 +110,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [I Am The Cavalry](https://www.iamthecavalry.org/) - Global grassroots (eg. volunteer) initiative focused on the intersection of security and human life/public safety issues, such as cars. Participation from security researchers, OEMs, Tier 1s, and many others. Published [Automotive 5-Star Cyber Safety Framework](https://iamthecavalry.org/5star).
 - [Carloop Community](https://community.carloop.io/) - Community of people interested in car hacking and connecting vehicles to the cloud.
 - [Python Security](http://www.pythoncarsecurity.com/) - A website for browsing and buying python-integrated cars having certain vehicular security features.
+- [Automotive Security Research Group](https://asrg.io/knowledge/) - The Automotive Security Research Group (ASRG) is a non-profit initiative to promote the development of security solutions for automotive products.
 
 
 ## Newsletters
@@ -277,6 +279,7 @@ Libraries and tools that don't fall under the larger class of applications above
 - [CanCat](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
 - [Scapy](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
 - [CanoPy](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
+- [canTot](https://github.com/shipcod3/canTot) - A python-based cli framework based on sploitkit and is easy to use because it similar to working with Metasploit. This similar to an exploit framework but focused on known CAN Bus vulnerabilities or fun CAN Bus hacks.
 
 ### Go
 

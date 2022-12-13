@@ -246,6 +246,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Tulsa Remote](https://tulsaremote.com/) - Get $10,000 cash to work from Tulsa.
   1. [Vermont Remote Worker Grant Program](https://www.thinkvermont.com/relocate/) - Receive up to a max of $5,000 per year to work from Vermont. Cannot exceed $10,000 for life of the program per individual.
   1. [Remote Shoals](https://remoteshoals.com/) - Work remotely? Get $10,000 to do your job from the Shoals.
+  1. [Visto](https://visto.ai/find-a-job) - We relocate developers to canada and help companies to bring developers outside the world!
 
 ## Interviewing
   1. [andreis/interview](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
@@ -490,6 +491,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   124. [Surevine](https://www.surevine.com/jobs/)
   125. [Surge](https://www.surgeforward.com/careers/) - 100% remote consulting company working primarily in Node.JS, iOS, .NET, PHP, and Android
   126. [Square](https://careers.squareup.com/us/en/jobs?location%5B%5D=Remote) - Square helps millions of sellers run their business-from secure credit card processing to point of sale solutions. Products: Square and Cash App.
+  127. [Svix](https://www.svix.com/careers/) - Open source and hosted webhook service so you can launch webhooks in days, not months.
   127. [Sysdig Cloud](https://sysdig.com/jobs/)
   128. [Taskade](https://www.taskade.com/contact/) - Remote team building real-time collaboration & collaborative editing for teams.
   129. [TaxJar](https://www.taxjar.com/jobs/) - Eliminate sales tax headaches.

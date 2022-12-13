@@ -95,6 +95,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Containers & AKS](https://github.com/bplasmeijer/Sitecore-Symposium-2020-Containers-AKS) - Taking Sitecore 10 to the next level into Azure AKS.
 - [PaaS to AKS](https://github.com/robhabraken/paas-to-aks) - Boilerplate project for deploying Sitecore 10.0.* to Azure AKS coming from an Azure PaaS architecture for Sitecore. That includes ARM templates for External Data Services, required to run Sitecore k8s in production and scripts to support a full Infrastructure-as-Code setup for Sitecore on AKS.
 - [Sitecore Deployment on Kubernetes Example](https://github.com/georgechang/sitecore-k8s) - An example of a Sitecore 10.1 XP0 deployment onto AKS with SolrCloud. It should deploy: 1)Sitecore 10.1 XP0; 2)Microsoft SQL Server 2019; 3)Zookeeper 3.4 (3 replicas); 4)Solr 8.4 (3 replicas)
+- [Sitecore Module Docker Asset Image Creator](https://github.com/KayeeNL/sitecore-module-docker-asset-image-creator) - A script to handle the auto creation of a Docker Asset Image for a given Sitecore module
 
 
 - [Sitecore Content Hub Importer](https://github.com/vasiliyfomichev/content-hub-importer) - Sitecore Content Hub Asset Importer; allows importing image assets from various data sources into Sitecore Content Hub.
@@ -103,6 +104,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Sitecore.SharedSource.CMP.Connector.Extensions](https://github.com/josedbaez/Sitecore.SharedSource.CMP.Connector.Extensions) - Extends Sitecore Connect for Sitecore CMP 2.0.0 so images set on CMP entities can be synchronised using the xml format used by Sitecore Connect™ for Sitecore DAM 2.0.0, so this module is required.
 - [Starter Kit for Content Hub with Next.js and GraphQL](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - Content Hub headless starter kit.
 - [Focal point cropping](https://github.com/robhabraken/content-hub-focal-point-cropping) - Focal point cropping for Content Hub.
+- [VS Solution Example for Content Hub](https://github.com/Sitecore/ContentHub-VS-Solution-Example) - A visual Studio Solution Example to download and base any Content Hub Development on, featuring Intellisense, Sync of scripts, Debugging and Unit-Testing.
 
 
 - [Sitecore spatial geojson polygons](https://github.com/josedbaez/sitecore-spatial-geojson-polygons) - Implementation of a Linq extension to be able to query on points that intercept GeoJson polygons in solr indexes. The demo provides a template with the spatial field, couple of sample items with polygons from openstreetmap that cover some cities; and a controller rendering that reads lat and lng from the querystring and returns the polygon of the item found (e.g. Big Ben's coordinates return London).
@@ -138,12 +140,19 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Sitecore User Group UK](https://github.com/steviemcg/scuguk) - A demo of JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution, built with Gatsby v2.
 - [Sitecore DXP Demo](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
 - [Sitecore Developer Portal](https://github.com/Sitecore/developer-portal) - Sitecore developer portal is built with Next.js, Typescript, Tailwind CSS, and is hosted on Vercel. It uses static site generation (SSG) to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. Many pages are written in Markdown and converted to HTML at build time. Images that are used are managed in Sitecore DAM and are published to a CDN.
+- [Play Summit](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) - Play Summit demo featurin XM Cloud, Content Hub DAm, CMP, Next.js with Versel hosting, etc.
+- [Developer Portal](https://github.com/Sitecore/developer-portal) - The Sitecore developer portal built with Next.js, Typescript, Tailwind CSS, and hosted on Vercel, uses static site generation to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. With much of the page content written in Markdown and converted to HTML at build time, images are however used managed in Sitecore DAM and
+ published to a CDN.
 
 ## Deployment
 
 - [PostDeploySteps](https://github.com/jst-cyr/NonlinearPostDeploySteps) - Post deploy steps for use with TDS. 1) TDS Example project that triggers the post deploy step; 2) Sample web project to show pulling in the deploy step; 3) DeployStep class library that you can add to your solution.
 - [Sitecore Devops with AppVeyor](https://github.com/steviemcg/Sitecore.Devops.AppVeyor) - Sample solution which shows how to develop an open-source Sitecore module and hook it up with AppVeyor, a Continuous Delivery solution hosted in the cloud.
 - [Cake.Sitecore](https://github.com/asmagin/Cake.Sitecore) - Provides a set of pre-build [CAKE build] tasks to be used to simplify a configuration of CI/CD for Helix-based Sitecore projects.
+
+## Edge
+
+- [Sitecore Demo Edge](https://github.com/Sitecore/Sitecore.Demo.Edge) - A repository used for the primary Sitecore Edge for Content Hub and Experience Management.
 
 ## Editing
 
@@ -199,12 +208,18 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [How to GraphQL](https://github.com/kamsar/howtographql) - A fullstack tutorial website to learn all about GraphQL.
 - [JSS with Vue.js](https://github.com/KayeeNL/sitecore-jss-getting-started-vuejs) - A starting template for JSS using Vue.js framework.
 - [Headless Examples](https://github.com/Sitecore/headless-examples) - A repository with valuable examples, such as JSS embedded app and Next.js using federated authentication.
+- [SVG Images for JSS](https://github.com/KayeeNL/Sitecore.Extensions.JSS.SVG) - Adds support for images rendered by SVG tags in Sitecore JSS.
 
 ## JAMstack
 
 - [Next.js Starter kit using GraphQL and Sitecore Experience Edge for Content Hub](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - This is a great example of Sitecore Experience Edge Content as-a-Service approach using NextJS upon React, using a demo instance of the latest Content Hub.
 - [Uniform, JSS and Next.js starter kit](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A starter kit of Uniform, JSS and Next.JS with content items and required configuration files, great to start a vanilla project with.
 - [Uniform, MVC and Next.js starter kit](https://github.com/uniformdev/sitecore-mvc-nextjs-starterkit) - A starter kit of Uniform, MVC and Next.JS with content items and required configuration files, great to start a vanilla project with.
+
+## Headless
+
+- [Sample](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A headless sample TODO
+
 
 ## Helix
 
@@ -317,6 +332,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [MasterKey](https://github.com/islaytitans/MasterKey) - A module for Unlocking Sitecore Items.
 - [Security Rights Reporting](https://github.com/jbluemink/Sitecore-Security-Rights-Reporting) - A module showing a grid with all users and all their rights in a friendly way with exporting options.
 - [Sitecore Delete Access Rights](https://github.com/mikaelnet/sitecore-access-rights) - Enables the "item:removeVersion" access right, allowing authors to remove individual item versions without allowing authors to delete the entire item. It also allows the initial creator of an item to delete his/her own item, unless an explicit deny delete access right is applied to the item.
+- [ASP.NET 2.0 Membership Database as Identity Server User Store](https://github.com/Sitecore/sitecore-identityserver-contrib-membership) - Validate user logins and passwords against an existing ASP.NET 2.0 membership database containing user data for existing systems.
 
 ## SEO
 
@@ -379,6 +395,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Token Set](https://github.com/retohugi/SitecoreExtension-TokenSet) - Provides additional standard value tokens for Sitecore Data Templates, icludes future date and obtaining the value by executing a query.
 
+## Tooling
+
+- [Terminal DevEx Improvements](https://github.com/Sitecore/Windows-Terminal-DevEx-improvements) - A Sitecore branded Windows Termial and VS Code Theme and Profile to unlock helpful tooling for working with XM Cloud such as autocompletion, command history list and directory improvements.
+
 ## Universal Tracker
 
 - [UniversalTracker SDK](https://github.com/Sitecore/Sitecore.UniversalTracker.MobileSDK) - .Net Standard library that provides the interactions and events writing API for client .NET applications that serves as an interface that connects the Universal Tracker service and an application to let users work with native objects rather than with HTTP requests and JSON responses.
@@ -389,6 +409,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Odata.SitecoreExample](https://github.com/ianjohngraham/Odata.SitecoreExample) - An example of a Sitecore oData Repository.
 - [Web API Session-Enabled Routes](https://github.com/coreyasmith/WebApiEnableSessionHandler) - Sitecore pipeline processor and extensions to the HttpRouteCollection to enable session in Web API 2.
 - [Sitecore Shared Source: Web API Client](https://github.com/thinkfreshnick/SitecoreSharedSource) - Sitecore WebAPI client.
+- [Sitecore Services Client Publish](https://github.com/peplau/SscPublish) - A Web API method to securely trigger a Sitecore publish of an item or tree.
 
 ## Workflows
 
@@ -403,3 +424,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [xconnect-odata-proxy](https://github.com/ianjohngraham/xconnect-odata-proxy) - A simple Node.js proxy to access xConnect's oData API in Sitecore 9.
 - [xConnectDeployer](https://github.com/boro2g/xConnectDeployer) - An example console application you can use to deploy the Marketing Automation Engine.
 - [Right To Be Forgotten](https://github.com/steviemcg/SitecoreComms.RTBF) - A "Execute Right To Be Forgotten" plugin for Marketing Automation Action.
+
+## XM Cloud
+
+- [Next.js Styleguide for XM Cloud](https://github.com/KayeeNL/XmCloudNextJsJssStyleguide) - A solution designed to help developers learn and get started quickly with Sitecore Containers, the Sitecore Next.js SDK, and Sitecore Content Serialization.
+- [Play Summit](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) - Play Summit demo featurin XM Cloud, Content Hub DAm, CMP, Next.js with Versel hosting, etc.
+- [XM Cloud Starter Kit](https://github.com/sitecorelabs/xmcloud-foundation-head-staging) - A solution designed to help developers learn and get started quickly with XMCLoud + SXA + Next.js.
+- [XM Cloud Introduction](https://github.com/Sitecore/XM-Cloud-Introduction) - A codebase for a series of XM Cloud sites managed by the Technical Marketing Team at Sitecore: new MVP website along with 3 websites of SUGCON events.

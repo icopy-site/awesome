@@ -36,6 +36,10 @@ Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM
 
 
 ### The Network and Distributed System Security Symposium (NDSS)
+- [Semantic-Informed Driver Fuzzing Without Both the Hardware Devices and the Emulators, 2022](https://www.ndss-symposium.org/wp-content/uploads/2022-345-paper.pdf)
+- [MobFuzz: Adaptive Multi-objective Optimization in Gray-box Fuzzing, 2022](https://www.ndss-symposium.org/wp-content/uploads/2022-314-paper.pdf)
+- [Context-Sensitive and Directional Concurrency Fuzzing for Data-Race Detection, 2022](https://www.ndss-symposium.org/wp-content/uploads/2022-296-paper.pdf)
+- [EMS: History-Driven Mutation for Coverage-based Fuzzing, 2022](https://www.ndss-symposium.org/wp-content/uploads/2022-162-paper.pdf)
 - [WINNIE : Fuzzing Windows Applications with Harness Synthesis and Fast Cloning, 2021](https://taesoo.kim/pubs/2021/jung:winnie.pdf)
 - [Reinforcement Learning-based Hierarchical Seed Scheduling for Greybox Fuzzing, 2021](https://www.cs.ucr.edu/~heng/pubs/afl-hier.pdf)
 - [PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles, 2021](https://beerkay.github.io/papers/Berkay2021PGFuzzNDSS.pdf)
@@ -60,6 +64,11 @@ Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM
 
 
 ### IEEE Symposium on Security and Privacy (IEEE S&P)
+- [PATA: Fuzzing with Path Aware Taint Analysis, 2022](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/sp22.pdf)
+- [Jigsaw: Efficient and Scalable Path Constraints Fuzzing, 2022](https://www.cs.ucr.edu/~csong/oakland22-jigsaw.pdf)
+- [FuzzUSB: Hybrid Stateful Fuzzing of USB Gadget Stacks, 2022](https://github.com/purseclab/fuzzusb/blob/main/paper/fuzzusb.pdf)
+- [Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis, 2022](https://arxiv.org/pdf/2203.12064.pdf)
+- [BEACON : Directed Grey-Box Fuzzing with Provable Path Pruning, 2022](https://qingkaishi.github.io/public_pdfs/SP22.pdf)
 - [STOCHFUZZ: Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting, 2021](https://www.cs.purdue.edu/homes/zhan3299/res/SP21b.pdf)
 - [One Engine to Fuzz 'em All: Generic Language Processor Testing with Semantic Validation, 2021](https://huhong789.github.io/papers/polyglot-oakland2021.pdf)
 - [NTFUZZ: Enabling Type-Aware Kernel Fuzzing on Windows with Static Binary Analysis, 2021](https://softsec.kaist.ac.kr/~jschoi/data/oakland2021.pdf)
@@ -84,6 +93,20 @@ Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM
 
 
 ### USENIX Security
+- [StateFuzz: System Call-Based State-Aware Linux Driver Fuzzing, 2022](https://www.usenix.org/system/files/sec22-zhao-bodong.pdf)
+- [FIXREVERTER: A Realistic Bug Injection Methodology for Benchmarking Fuzz Testing, 2022](https://www.usenix.org/system/files/sec22-zhang-zenong.pdf)
+- [SGXFuzz: Efficiently Synthesizing Nested Structures for SGX Enclave Fuzzing, 2022](https://www.usenix.org/system/files/sec22-cloosters.pdf)
+- [AmpFuzz: Fuzzing for Amplification DDoS Vulnerabilities, 2022](https://www.usenix.org/system/files/sec22-krupp.pdf)
+- [Stateful Greybox Fuzzing, 2022](https://www.usenix.org/system/files/sec22-ba.pdf)
+- [BrakTooth: Causing Havoc on Bluetooth Link Manager via Directed Fuzzing, 2022](https://www.usenix.org/system/files/sec22-garbelini.pdf)
+- [Fuzzing Hardware Like Software, 2022](https://www.usenix.org/system/files/sec22-trippel.pdf)
+- [Drifuzz: Harvesting Bugs in Device Drivers from Golden Seeds, 2022](https://www.usenix.org/system/files/sec22-shen-zekun.pdf)
+- [FuzzOrigin: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing, 2022](https://www.usenix.org/system/files/sec22-kim.pdf)
+- [TheHuzz: Instruction Fuzzing of Processors Using Golden-Reference Models for Finding Software-Exploitable Vulnerabilities, 2022](https://www.usenix.org/system/files/sec22-kande.pdf)
+- [MundoFuzz: Hypervisor Fuzzing with Statistical Coverage Testing and Grammar Inference, 2022](https://www.usenix.org/system/files/sec22-myung.pdf)
+- [Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing, 2022](https://www.usenix.org/system/files/sec22-scharnowski.pdf)
+- [SyzScope: Revealing High-Risk Security Impacts of Fuzzer-Exposed Bugs in Linux kernel, 2022](https://www.usenix.org/system/files/sec22-zou.pdf)
+- [Morphuzz: Bending (Input) Space to Fuzz Virtual Devices, 2022](https://www.usenix.org/system/files/sec22-bulekov.pdf)
 - [Breaking Through Binaries: Compiler-quality Instrumentation for Better Binary-only Fuzzing, 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/nagy)
 - [ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICS Control Applications, 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/tychalas)
 - [Android SmartTVs Vulnerability Discovery via Log-Guided Fuzzing, 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/aafer)
@@ -114,6 +137,12 @@ Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM
 
 
 ### ACM Conference on Computer and Communications Security (ACM CCS)
+- SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities. 2022](https://compsec.snu.ac.kr/papers/jaewon-specdoctor.pdf)
+- [SFuzz: Slice-based Fuzzing for Real-Time Operating Systems, 2022](https://huhong789.github.io/papers/chen:sfuzz.pdf)
+- [MC^2: Rigorous and Efficient Directed Greybox Fuzzing, 2022](https://arxiv.org/pdf/2208.14530.pdf)
+- [LibAFL: A Framework to Build Modular and Reusable Fuzzers, 2022](https://www.s3.eurecom.fr/docs/ccs22_fioraldi.pdf)
+- [JIT-Picking: Differential Fuzzing of JavaScript Engines, 2022](https://publications.cispa.saarland/3773/1/2022-CCS-JIT-Fuzzing.pdf)
+- [DriveFuzz: Discovering Autonomous Driving Bugs through Driving Quality-Guided Fuzzing, 2022](https://chungkim.io/doc/ccs22-drivefuzz.pdf)
 - [SoFi: Reflection-Augmented Fuzzing for JavaScript Engines, 2021](https://dl.acm.org/doi/pdf/10.1145/3460120.3484823)
 - [T-Reqs: HTTP Request Smuggling with Differential Fuzzing, 2021](https://bahruz.me/papers/ccs2021treqs.pdf)
 - [V-SHUTTLE: Scalable and Semantics-Aware Hypervisor Fuzzing, 2021](https://nesa.zju.edu.cn/download/ppt/pgn_slides_V-SHUTTLE.pdf)
@@ -163,6 +192,7 @@ Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM
 - [Complementing Model Learning with Mutation-Based Fuzzing, 2016](https://arxiv.org/abs/1611.02429)
 
 ### The others
+- [Fuzzle: Making a Puzzle for Fuzzers, 2022](https://softsec.kaist.ac.kr/~sangkilc/papers/lee-ase22.pdf)
 - [Ifuzzer: An evolutionary interpreter fuzzer using genetic programming, 2016](https://www.cs.vu.nl/~herbertb/download/papers/ifuzzer-esorics16.pdf)
 - [Hybrid fuzz testing: Discovering software bugs via fuzzing and symbolic execution, 2012](https://pdfs.semanticscholar.org/488a/b1e313f5109153f2c74e3b5d86d41e9b4b71.pdf)
 - [Call-Flow Aware API Fuzz Testing for Security of Windows Systems, 2008](https://www.computer.org/csdl/proceedings/iccsa/2008/3243/00/3243a019-abs.html)
