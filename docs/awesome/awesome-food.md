@@ -26,6 +26,7 @@
 - [hasgluten](https://github.com/hasgluten/hasgluten) - Quick and Accurate Gluten-Free Foods List.
 - [diy-proofing-box](https://github.com/hendricius/diy-proofing-box) - Build your own DIY proofing box for sourdough, yoghurt and pizza. Featuring a raspberry pi and night vision.
 - [Mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner.
+- [RasPiBrew](https://github.com/steve71/RasPiBrew) - Raspberry Pi Temperature Controller for homebrewing and sous vide cooking .
 
 ## Cookbooks
 
@@ -40,6 +41,16 @@
 - [mozzarella](https://github.com/hendricius/mozzarella) - Learn how to make homemade mozzarella.
 - [lactofermentation](https://github.com/tirimia/lactofermentation) - Experiments with wild lactobacillus.
 - [bread](https://github.com/dgryski/bread) - Notes on bread baking.
+- [El Fuego Viviente Chili Open Sauce](https://github.com/aweijnitz/recipe-el_fuego_viviente) - Fermented Chili "Open Sauce".
+- [Chowdown](https://github.com/clarklab/chowdown) - A simple, plaintext markdown recipe database for hackers.
+- [Cooking-Recipes](https://github.com/Donearm/Cooking-Recipes) - Mostly italian recipes.
+- [bagels](https://github.com/andrewkern/bagels) - open source bagel recipe; let's raise the quality of bagels worldwide !
+
+## Addresses
+
+- [awesome-kacchi](https://github.com/s4kibs4mi/awesome-kacchi) - A curated list of awesome Kacchi Biryani available throughout the world.
+- [awesome-berlin](https://github.com/AwesomeCities/awesome-berlin) - A curated list of Berlin's awesomeness.
+- [Berlín para mexicanos](https://github.com/carlosyslas/berlin-para-mexicanos) - Berlin guide for mexicans. 
 
 ## API for Food services
 

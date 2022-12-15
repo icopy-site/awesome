@@ -1187,7 +1187,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 * [Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration](https://openreview.net/forum?id=w_7JMpGZRh0) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=16340001407726295133)].
 
 
-<span id = "anl"></span>
+
 ### Analogy
 
 * [Metaphor](https://plato.stanford.edu/entries/metaphor/) - ***Plato Stanford***. A computational philosophy account on Metaphor, a poetically or rhetorically ambitious use of words, a figurative as opposed to literal use.

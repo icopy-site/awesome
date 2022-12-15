@@ -21,23 +21,23 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 ## APIs and SDKs
 
-- [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/latest/) - Guides, sample code, API references and showcase to build 2D and 3D interactive web apps unlocking geospatial data.
 - [ArcGIS API for Python](https://developers.arcgis.com/python/) - Guides, sample notebooks and API reference to do mapping, spatial analysis, data science, geospatial AI and automation using Python.
 - [ArcGIS CityEngine SDKs (C++)](https://github.com/esri/cityengine-sdk) - C++ APIs, documentation and examples for the Procedural Runtime (PRT).
 - [ArcGIS CityEngine SDKs (Python)](https://github.com/Esri/pyprt) - Python bindings for the "Procedural Runtime" (PRT) of CityEngine.
 - [ArcGIS Earth Automation API](https://doc.arcgis.com/en/arcgis-earth/automation-api/get-started.htm) - Guide, API reference and samples to communicate with ArcGIS Earth.
 - [ArcGIS Enterprise SDK](https://developers.arcgis.com/enterprise-sdk/) - Guides, API reference and sample code to extent ArcGIS Enterprise.
+- [ArcGIS Maps SDK for .NET](https://developers.arcgis.com/net/) - Guides, sample codes and API reference to build desktop and mobile apps using .Net.
+- [ArcGIS Maps SDK for Java](https://developers.arcgis.com/java/) - Guides, sample codes and API reference to build desktop apps.
+- [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/latest/) - Guides, sample code, API references and showcase to build 2D and 3D interactive web apps unlocking geospatial data.
+- [ArcGIS Maps SDK for Kotlin](https://developers.arcgis.com/kotlin/) - Guides, sample codes and API reference to build mobile apps using Kotlin.
+- [ArcGIS Maps SDK for Qt](https://developers.arcgis.com/qt/) - Guides, sample codes and API reference to build mobile and desktop apps.
+- [ArcGIS Maps SDK for Swift](https://developers.arcgis.com/swift/) - Guides, sample codes and API reference to build mobile apps using Swift.
 - [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/) - Guides, API reference and sample code to use ArcGIS data and services to develop for Unity.
 - [ArcGIS Maps SDK for Unreal Engine](https://developers.arcgis.com/unreal-engine/) - Guides, API reference and sample code to use ArcGIS data and services to develop for Unreal Engine.
 - [ArcGIS Pro SDK for Microsoft .NET](https://pro.arcgis.com/en/pro-app/latest/sdk/) - Documentation, tutorials, API reference, FAQ, etc. to extend ArcGIS Pro Desktop.
 - [ArcGIS REST APIs](https://developers.arcgis.com/rest/) - General documentation about ArcGIS REST APIs: location services, content management, portal administration, and more.
 - [ArcGIS REST APIs collections](https://github.com/esri-es/ArcGIS-REST-API) - Postman collections to work with some of the REST APIs: location services, hosted feature layers, ArcGIS Online, ArcGIS Hub, etc.
 - [ArcGIS REST JS](https://developers.arcgis.com/arcgis-rest-js/) - Key concepts, tutorials and API reference of a collection of JavaScript modules for accessing location services, ArcGIS Online, and ArcGIS Enterprise REST APIs.
-- [ArcGIS Runtime API for .NET](https://developers.arcgis.com/net/) - Guides, sample codes and API reference to build desktop and mobile apps using .Net.
-- [ArcGIS Runtime API for Android](https://developers.arcgis.com/android/) - Guides, sample codes and API reference to build mobile apps using Java or Kotlin.
-- [ArcGIS Runtime API for iOS](https://developers.arcgis.com/ios/) - Guides, sample codes and API reference to build mobile apps using Swift or Objective-C.
-- [ArcGIS Runtime API for Java](https://developers.arcgis.com/java/) - Guides, sample codes and API reference to build desktop apps.
-- [ArcGIS Runtime API for Qt](https://developers.arcgis.com/qt/) - Guides, sample codes and API reference to build mobile and desktop apps.
 - [ArcGIS Urban API](https://developers.arcgis.com/arcgis-urban-api/) - Public GraphQL web service that can be used to interact with ArcGIS Urban data directly.
 - [ArcObjects SDK for .Net](https://desktop.arcgis.com/en/arcobjects/latest/net/webframe.htm#RoadmapToExtendingArcObjects.htm) - Documentation about the .Net SDK for the library of Component Object Model (COM) components that make up the foundation of ArcGIS.
 - [ArcObjects SDK for Java](https://desktop.arcgis.com/en/arcobjects/latest/java/#80146cac-6b50-4c82-a9f5-7a5be3406c5b.htm) - Documentation about the Java SDK for the library of Component Object Model (COM) components that make up the foundation of ArcGIS.
