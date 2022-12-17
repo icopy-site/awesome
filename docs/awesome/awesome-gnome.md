@@ -192,6 +192,7 @@
 - [Blur-my-shell](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
 - [Transparent Shell](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
 - [Compiz alike windows effect](https://github.com/hermes83/compiz-alike-windows-effect) - Adds wobbly effects to windows.
+- [Useless Gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
 
 ### Services integration
 - [GMail Message Tray](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
@@ -259,8 +260,8 @@
 ### Libraries
 
 - [libadwaita](https://gitlab.gnome.org/GNOME/libadwaita/) - Library that contain official GNOME patterns and widgets (GTK4)
-- [libdazzle](https://gitlab.gnome.org/GNOME/libdazzle) - Companion library to GObject and Gtk+, providing various new features. (GTK3)
 - [libhandy](https://gitlab.gnome.org/GNOME/libhandy) - Building blocks for modern adaptive GNOME apps (GTK3)
+- [Relm4](https://relm4.org/) - Building native applications with Rust and GTK4
 
 ### Examples
 

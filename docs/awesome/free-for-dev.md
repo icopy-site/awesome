@@ -603,7 +603,7 @@ Table of Contents
   * [papertrailapp.com](https://papertrailapp.com/) — 48 hours search, 7 days archive, 50 MB/month
   * [sematext.com](https://sematext.com/logsene) — Free up to 500 MB/day, 7 days retention
   * [sumologic.com](https://www.sumologic.com/) — Free up to 500 MB/day, 7 days retention
-  * [logflare.app](https://logflare.app/) — Free for upto 12,960,000 enteries per app per month, 3 days retention
+  * [logflare.app](https://logflare.app/) — Free for upto 12,960,000 entries per app per month, 3 days retention
   * [logtail.com](https://logtail.com/) — ClickHouse-based SQL-compatible log management. Free up to 1 GB per month, 3 days retention.
   * [logzab.com](https://logzab.com/) — Audit trail management system. Free 1.000 user activity log per month, 1 month retention, for up-to 5 projects.
 
@@ -1334,7 +1334,6 @@ Table of Contents
    * [Android Studio](https://d.android.com/studio) — Android Studio provides the fastest tools for building apps on every type of Android device. Open Source IDE, free for everyone and the best to develop Android apps. Available for Windows,Mac,Linux and even ChromeOS!
    * [Apache Netbeans](https://netbeans.apache.org/) — Development Environment, Tooling Platform and Application Framework.
    * [apiary.io](https://apiary.io/) — Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation).
-   * [Atom](https://atom.io/) - Atom is a hackable text editor built on Electron.
    * [Binder](https://mybinder.org/) - Turn a Git repo into a collection of interactive notebooks. It is a free, public service.
    * [BlueJ](https://bluej.org) — A free Java Development Environment designed for beginners, used by millions worldwide. Powered by Oracle & simple GUI to help beginners.
    * [Bootify.io](https://bootify.io/) - Spring Boot app generator with custom database and REST API.

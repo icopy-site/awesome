@@ -591,6 +591,7 @@
 - [TypeDB](awesome/typedb-awesome.md) - Logical database to organize large and complex networks of data as one body of knowledge.
 - [Cassandra](awesome/awesome-cassandra.md) - Open-source, distributed, wide column store, NoSQL database management system.
 - [TDengine](awesome/awesome-tdengine.md) - An open-source time-series database with high-performance, scalability, and SQL support.
+- [Supabase](awesome/awesome-supabase.md) - An open-source alternative to Firebase.
 
 ## Media
 
@@ -687,6 +688,7 @@
 - [Engineering Team Management](awesome/awesome-engineering-team-management.md) - How to transition from software development to engineering management.
 - [Developer-First Products](awesome/awesome-developer-first.md) - Products that target developers as the user.
 - [Billing](awesome/awesome-billing.md) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
+- [Engineering Strategy](awesome/awesome-engineering-strategy.md) - How to design and execute engineering strategies for tech leadership.
 
 ## Work
 

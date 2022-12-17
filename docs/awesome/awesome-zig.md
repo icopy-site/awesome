@@ -144,6 +144,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [mlarouche/zigimg](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
 * [ziglibs/known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 * [SasLuca/zig-nanoid](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
+* [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) - Zig bindings for libVLC media framework.
 
 ## Network
 * [euantorano/ip.zig](https://github.com/euantorano/ip.zig) - Library for working with IP Addresses.

@@ -422,6 +422,7 @@ nav:
     - TypeDB: awesome/typedb-awesome.md
     - Cassandra: awesome/awesome-cassandra.md
     - TDengine: awesome/awesome-tdengine.md
+    - Supabase: awesome/awesome-supabase.md
   - Media:
     - Creative Commons Media: awesome/creative-commons-media.md
     - Fonts: awesome/awesome-fonts.md
@@ -505,6 +506,7 @@ nav:
     - Engineering Team Management: awesome/awesome-engineering-team-management.md
     - Developer-First Products: awesome/awesome-developer-first.md
     - Billing: awesome/awesome-billing.md
+    - Engineering Strategy: awesome/awesome-engineering-strategy.md
   - Work:
     - Slack: awesome/awesome-slack.md
     - Slack_sub: 

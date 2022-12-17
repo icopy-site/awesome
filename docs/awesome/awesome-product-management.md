@@ -185,6 +185,19 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 | Platform  | Web                                                                |
 | URL       | https://hellonext.co                                               |
 
+### Screeb
+
+Screeb is a product-led user research platform helping product teams to build better products by helping understand their users.
+
+![screeb](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/screeb.png)
+
+| Property  | Value                                                              |
+|-----------|--------------------------------------------------------------------|
+| Developer | [Screeb, Inc.](https://screeb.app)                            |
+| Cost      | Freemium (_start $0-39/month_)                                                   |
+| Platform  | Web                                                                |
+| URL       | https://screeb.app                                               |
+
 ## Articles
 
 - [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://medium.com/@waynechang/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://twitter.com/Wayne).
@@ -230,8 +243,8 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 - [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - By Glenn Gillen.
 - [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/product-management-2/jobs-cat/remote-product-manager/) - By [Roy Cobby](https://twitter.com/roycobby).
 - [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - By [Christine Itwaru](https://twitter.com/christineitwaru).
-- [It’s Time to Fight for a Dual Product Management Career Path](https://newsletter.bringthedonuts.com/p/dual-product-management-career-path) - By [Ken Norton](https://twitter.com/kennethn).
-- [The Tools Don't Matter](https://newsletter.bringthedonuts.com/p/the-tools-dont-matter) - By [Ken Norton](https://twitter.com/kennethn).
+- [It’s Time to Fight for a Dual Product Management Career Path](https://newsletter.bringthedonuts.com/p/dual-product-management-career-path) - By [Ken Norton](https://www.bringthedonuts.com/).
+- [The Tools Don't Matter](https://newsletter.bringthedonuts.com/p/the-tools-dont-matter) - By [Ken Norton](https://www.bringthedonuts.com/).
 
 ## Books
 
