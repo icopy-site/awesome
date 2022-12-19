@@ -1089,6 +1089,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 * [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
 
+* [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://www.scienceopen.com/document_file/e37c7746-02db-481e-b6f5-8b2bf44728df/PubMedCentral/e37c7746-02db-481e-b6f5-8b2bf44728df.pdf) - ***Bioinformatics***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=2783127196632783403&hl=en&as_sdt=0,5)].
+
 
 #### Literature Visualization
 
@@ -1336,7 +1338,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 * [Acquiring Comparative Commonsense Knowledge from the Web](https://people.mpi-inf.mpg.de/~ntandon/papers/aaai-2014-tandon.pdf) - ***AAAI'14***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=16641273554706459553&hl=en&as_sdt=0,5)].
 
 
-<span id = "lp"></span>
+
 ### Inductive Logic & Program Synthesis
 
 * [Inductive Logic](https://plato.stanford.edu/entries/logic-inductive/) - ***Plato Stanford***. A computational philosophy account on Inductive Logic, which is a logic of evidential support.

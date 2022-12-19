@@ -27,6 +27,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Tech Strategy: You Need it, But What is it? by Nick Tune](https://medium.com/nick-tune-tech-strategy-blog/tech-strategy-you-need-it-but-what-is-it-af292421e422) - In-depth reflection of what is a tech strategy. 
 - [🗺🧭 Using Wardley Mapping to understand why Google made G. Appointments to compete in the Calendly market by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/-using-wardley-mapping-to-understand) - Using wardley mapping to understand google appointments.
 - [What is a Strategy? Why do you need one in Tech?](https://www.linkedin.com/pulse/what-strategy-why-do-you-need-one-tech-rui-felgueiras) - Introduction to what is a strategy for tech.
+- [Delivering on an Architecture Strategy](https://blog.thepete.net/blog/2019/12/09/delivering-on-an-architecture-strategy/) - Describes strategic architectural initiatives, a framework which allowing product peeps and techies to make progress on big technical improvements via aligned autonomy.
 
 
 ## Templates
@@ -37,7 +38,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 
 > Open Engineering Strategies section aims to provide a relevant set of public available Engineering Strategies so we can learn from each other.
 
-- [Community Startup by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/community-startup-engineering-strategy?s=w) - Prove Product Market Fit with an MVP.
+- [Community Startup by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/community-startup-engineering-strategy?s=w) - Prove product market fit with an MVP.
 - [GitLab Strategy](https://about.gitlab.com/company/strategy/) - Complete GitLab three-year strategy. Containing direction, customer focus, and team dynamics.
 - [Flutter in 2022 Strategy](https://flutter.dev/go/strategy-2022) - Flutter annual strategy document for 2022.
 - [Gitpod Strategy](https://gitpod.notion.site/Gitpod-s-Direction-be35d064c0704fbda61c542b84e07ef6) - Gitpod purpose, vision, and strategy.
