@@ -328,7 +328,7 @@
 - [React](awesome/awesome-react.md) - JavaScript library for building user interfaces.
 	- [Relay](awesome/awesome-relay.md) - Framework for building data-driven React apps.
 	- [React Hooks](awesome/awesome-react-hooks.md) - Lets you use state and other React features without writing a class.
-- [Web Components](awesome/webcomponents-the-right-way.md)
+- [Web Components](awesome/awesome-web-components.md)
 - [Polymer](awesome/awesome-polymer.md) - JavaScript library to develop Web Components.
 - [Angular](awesome/awesome-angular.md) - App framework.
 - [Backbone](awesome/awesome-backbone.md) - App framework.

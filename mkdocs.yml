@@ -172,7 +172,7 @@ nav:
     - React_sub: 
       - Relay: awesome/awesome-relay.md
       - React Hooks: awesome/awesome-react-hooks.md
-    - Web Components: awesome/webcomponents-the-right-way.md
+    - Web Components: awesome/awesome-web-components.md
     - Polymer: awesome/awesome-polymer.md
     - Angular: awesome/awesome-angular.md
     - Backbone: awesome/awesome-backbone.md
