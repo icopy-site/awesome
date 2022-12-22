@@ -2,20 +2,20 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <br/><br/>
 <div align="center">
-	<img width=450px"  src="https://raw.githubusercontent.com/ohenley/files/master/awesome-ada/awesome_ada_logo.svg" alt="Awesome">
+	<img width="450px"  src="https://raw.githubusercontent.com/ohenley/files/master/awesome-ada/awesome_ada_logo.svg" alt="Awesome"/>
 </div>
 
-<br><br>
+<br/><br/>
 
 
-> <font size="7">[Ada is powering satellites, aircrafts, ships, power plants, surgical robots](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html), drones, CNCs, servers, games and coffee makers.</font>   
-> Ada is arguably the most { <b>performant</b> &cap; <b>capable</b> &cap; <b>precise</b> &cap; <b>readable</b> &cap; <b>mature</b> } programming language.   
+> <font size="7">[Ada is powering satellites, aircrafts, ships, power plants, surgical robots](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html), drones, CNCs, servers, games and coffee makers.</font>
+> Ada is arguably the most { <b>performant</b> &cap; <b>capable</b> &cap; <b>precise</b> &cap; <b>readable</b> &cap; <b>mature</b> } programming language.
 > Ada is alive and kicking!
 >
 > Long live Ada/SPARK.
 
 
-<br><br>
+<br/><br/>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)    
 A curated list of awesome resources related to the Ada and SPARK programming language.      
@@ -51,7 +51,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	5. [Web](#Web)   
 	6. [Unit Test](#Unit-Test)   
 11. [Tools](#Tools) 
-	1. [Verification](#Verification)   
+	2. [Verification](#Verification)   
 12. [Libraries](#Libraries)   
 	2. [Science](#Science)  
 13. [Hardware and Embedded](#Hardware-and-Embedded)   
@@ -72,15 +72,15 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 <div align="center">
 
 <a href="https://www.youtube.com/embed/yUqJkAZofZs">
-<img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
+<img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;"/>
 </a>
   
 <a href="https://www.youtube.com/embed/3e-BGblAMC4">
-<img border="0" src="https://img.youtube.com/vi/3e-BGblAMC4/2.jpg" style="max-width:100%;">	
+<img border="0" src="https://img.youtube.com/vi/3e-BGblAMC4/2.jpg" style="max-width:100%;"/>	
 </a>
   
 <a href="https://www.youtube.com/embed/0yXwnk8Cr0c">
-<img border="0" src="https://img.youtube.com/vi/0yXwnk8Cr0c/3.jpg" style="max-width:100%;">
+<img border="0" src="https://img.youtube.com/vi/0yXwnk8Cr0c/3.jpg" style="max-width:100%;"/>
 </a>
    
 </div>
@@ -154,13 +154,13 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 #### Competition
 <div align="center">
 	<a href="https://www.makewithada.org/">
-		<img width="800px" src="https://hackster.imgix.net/uploads/attachments/1164282/_UAa0j7WX8u.blob?auto=compress%2Cformat&w=800&h=200&fit=min">
+		<img width="800px" src="https://hackster.imgix.net/uploads/attachments/1164282/_UAa0j7WX8u.blob?auto=compress%2Cformat&w=800&h=200&fit=min"/>
 	</a>
 </div>
 
 <div align="center">
 	<a href="https://blog.adacore.com/announcing-the-first-ada-spark-crate-of-the-year-award">
-		<img width="800px" src="https://raw.githubusercontent.com/AdaCore/Ada-SPARK-Crate-Of-The-Year/master/banner.jpg">
+		<img width="800px" src="https://raw.githubusercontent.com/AdaCore/Ada-SPARK-Crate-Of-The-Year/master/banner.jpg"/>
 	</a>
 </div>
 
@@ -201,7 +201,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ## Edit
 
 #### Integrated Development Editor
-<img width="120px" hspace="10px" src="http://docs.adacore.com/live/wave/gps/html/gps_ug/_images/gps-main-window.png"> [The GNAT Programming Studio](https://raw.githubusercontent.com/AdaCore/gps)
+<img width="120px" hspace="10px" src="http://docs.adacore.com/live/wave/gps/html/gps_ug/_images/gps-main-window.png"/> [The GNAT Programming Studio](https://raw.githubusercontent.com/AdaCore/gps)
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) - Ada language integration for Visual Studio 2017.
 
 #### Editors
@@ -357,6 +357,10 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ## Tools
 
+#### DevOps
+- [septum](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
+- [power-joular](https://gitlab.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
+
 #### Verification
 - [gnat-coverage](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage.
 - [adacontrol](http://www.adalog.fr/en/adacontrol.html) - Ada constructs lint tool.
@@ -496,6 +500,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [tomi-4-ada](https://sourceforge.net/projects/tomi4ada) - Wrappers for various client/server and pub/sub messaging protocols (AMQP, STOMP and ZeroMQ), focusing exclusively on text message communications.
 - [mosquitto-ada](https://github.com/persan/mosquitto-ada) - Binding for the MQTT broker Mosquitto.
 - [tlsada](https://git.sr.ht/~nytpu/tlsada) - Bindings to the libtls TLS/SSL library.
+- [kafka-ada](https://github.com/Latence-Technologies/Kafka-Ada) - Binding for the C librdkafka library, allows sending and receiving from a Kafka bus.
+- [adare-net](https://gitlab.com/daresoft/network/adare_net) - This is a small, portable and easy to use Ada network lib. It supports ipv4 ipv6 udp and tcp, and can 'listen' with ipv6, too.
 
 #### Chatting and Communication
 - [axmpp](https://github.com/coopht/axmpp) - With the AXMPP library you can connect to a Jabber server to send and receive messages.
@@ -674,7 +680,6 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Misc
 - [dhondt](https://github.com/simonjwright/dhondt) - Ada implementation of D’Hondt electoral result calculator.
-- [septum](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
 - [whitakers-words] - William Whitaker's WORDS, a Latin dictionary.
 - [ada-chess] - Chess engine written in Ada.
 

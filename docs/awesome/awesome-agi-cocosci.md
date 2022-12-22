@@ -1868,9 +1868,9 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 * [Mark Ho](https://markkho.github.io/) - ***Department of Computer Science, Stevens Institute of Technology (SIT)***.
 
 
-<span id = "bk"></span>
+
 ## People & Book
-<span id = "ug"></span>
+
 ### Ulf Grenander
 
 Applied mathematician, the founder of General Pattern Theory.

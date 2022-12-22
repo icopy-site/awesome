@@ -53,6 +53,7 @@ This is a list of awesome resources about VLC and LibVLC.
 - [flutter_vlc_player](https://github.com/solid-software/flutter_vlc_player) - Flutter bindings to LibVLC.
 - [dart_vlc](https://github.com/alexmercerind/dart_vlc) - Dart bindings for libvlc.
 - [WebChimera.js](https://github.com/RSATom/WebChimera.js) - Electron bindings for libvlc.
+- [libvlc-zig](https://github.com/kassane/libvlc-zig) - Zig bindings for libVLC.
 
 ## Tutorials
 
