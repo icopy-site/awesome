@@ -1887,7 +1887,7 @@ Computational Cognitive Neuroscientist, the establisher of the Levels of Analysi
 * [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142&hl=en&as_sdt=0,44)].
 
 
-<span id = "mt"></span>
+
 ### Michael Tomasello
 
 Cognitive scientist, set up the foundations of studying human communications. 
