@@ -649,6 +649,7 @@
 - [Executable Packing](awesome/awesome-executable-packing.md) - Packing and unpacking executable formats.
 - [Malware Persistence](awesome/awesome-malware-persistence.md) - Techniques that adversaries use to keep access to systems across restarts.
 - [EVM Security](awesome/awesome-evm-security.md) - Understanding the Ethereum Virtual Machine security ecosystem.
+- [Password Cracking](awesome/awesome-password-cracking.md) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
 
 
 - [Umbraco](awesome/awesome-umbraco.md)

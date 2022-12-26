@@ -56,6 +56,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Algoscan](https://algoscan.app/) - Algoscan is a Blockchain Explorer and Analytics Platform. Built on top of the Algorand Network.
 - [Asalytic](https://www.asalytic.app/) - Analyze the Algorand NFT space.
 - [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer (supports Sandbox in `localhost`).
+- [Bitquery](https://explorer.bitquery.io/algorand) - Actionable, insightful blockchain GraphQL APIs for more than 30 blockchains. One of the highlighted features is the ability to query a list of Algorand block proposers.
 
 ## Portfolio Trackers
 

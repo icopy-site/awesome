@@ -41,6 +41,7 @@ To add something to this list, please see the [contribution guidelines](https://
 ### Testing
 
 * [chip8-test-rom](https://github.com/corax89/chip8-test-rom) - corax89's CHIP-8 test program, which tests most instructions for correct (Super-CHIP compliant) behavior.
+* [CHIP-8 test suite](https://github.com/Timendus/chip8-test-suite) - Timendus' collection of tests, including an improved version of corax89's test rom, a test for the behaviour of the flags and a CHIP-8 / Super-CHIP / XO-CHIP quirks test.
 * [Delay timer test](https://github.com/mattmikolay/chip-8/tree/master/delaytimer) - Test program that checks the delay timer's behavior.
 * [Random number test](https://github.com/mattmikolay/chip-8/tree/master/randomnumber) - Test program that checks the spread and mask for random number generation.
 
