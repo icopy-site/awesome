@@ -29,6 +29,10 @@ platform.
   - [Online version.](http://js.mikedx.co.uk/DIV1.html)
 - [T3X](https://t3x.org/t3x/#t3x7) - A small, portable, procedural, block-structured, recursive, almost typeless, and to some degree object-oriented programming language by Nils M. Holm.
 
+### Memory managers
+
+- [386MAX](https://github.com/sudleyplace/386MAX) - Memory manager for DOS PCs with 386 or higher CPUs, [released by Qualitas company in 1992](https://winworldpc.com/product/386max/6x). Source code was released in June 2022 on GitHub with GPL-3.0 license.
+
 ### Scripting languages and interpreters for DOS
 
 - [DOjS](https://github.com/SuperIlu/DOjS) - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
@@ -147,7 +151,7 @@ platform.
 - [Allegro 4.2](https://www.allegro.cc/files/?v=4.2) - Game development library for DOS, Windows and Linux.
 - [LoveDOS](https://github.com/rxi/lovedos) - A framework for making 2D DOS games in Lua. API based on a subset of the LÖVE API.
 - [DOS-VGA-Game](https://github.com/marcomarrero/DOS-VGA-Game) - Marco A. Marrero's DOS VGA/hardware library implemented in assembly and Turbo Pascal.
-- [DIGIPAK sound drivers source code](https://github.com/jratcliff63367/digpak) - Original source code for the DIGIPAK sound drivers uploaded to GitHub by John W. Ratcliff.
+- [DIGPAK sound drivers source code](https://github.com/jratcliff63367/digpak) - Original source code for the DIGPAK sound drivers uploaded to GitHub by John W. Ratcliff.
 
 ## Open source DOS games
 

@@ -813,7 +813,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 * [This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.NeurIPS.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf) - ***NeurIPS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=9461838581952136719&hl=en&as_sdt=0,5)].
 
 
-* [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088&hl=en&as_sdt=0,5)]. [[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
+* [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088&hl=en&as_sdt=0,5)]. [[Code & Data](https://github.com/MadryLab/backgrounds_challenge)]. [[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 
 * [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NeurIPS'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502&hl=en&as_sdt=0,5)]. Maching the learned pattern of neurons in different neural networks.
 
