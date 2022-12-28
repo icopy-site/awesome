@@ -12,16 +12,21 @@ To **enhance** this list, please refer to [https://github.com/lyqht/awesome-supa
 
 ## Official Starters
 
-- [Expo, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/expo-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [Next.js (TS), supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/nextjs-ts-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [Nuxt3, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/nuxt3-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [Nuxt, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/nuxtjs-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [React, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/react-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [Solid, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/solid-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [Svelte, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/svelte-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [Flutter, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/flutter-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [Next.js, supabase-js-v2, Slack Clone](https://github.com/supabase/supabase/tree/master/examples/slack-clone/nextjs-slack-clone) - ![realtime](https://img.shields.io/badge/-realtime-orange)
-- [Svelte, supabase-js-v2, Todo list](https://github.com/supabase/supabase/tree/master/examples/todo-list/sveltejs-todo-list) - ![database](https://img.shields.io/badge/-database-9cf)
+The following starters supports the `@supabase/supabase-js` v2 library.
+
+- [Angular](https://github.com/supabase/supabase/tree/master/examples/user-management/angular-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Expo](https://github.com/supabase/supabase/tree/master/examples/user-management/expo-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Flutter](https://github.com/supabase/supabase/tree/master/examples/user-management/flutter-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Next.js (TS)](https://github.com/supabase/supabase/tree/master/examples/user-management/nextjs-ts-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Nuxt](https://github.com/supabase/supabase/tree/master/examples/user-management/nuxtjs-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Nuxt3](https://github.com/supabase/supabase/tree/master/examples/user-management/nuxt3-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [React](https://github.com/supabase/supabase/tree/master/examples/user-management/react-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Solid](https://github.com/supabase/supabase/tree/master/examples/user-management/solid-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Svelte](https://github.com/supabase/supabase/tree/master/examples/user-management/svelte-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Svelte Kit](https://github.com/supabase/supabase/tree/master/examples/user-management/sveltekit-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Vue 3](https://github.com/supabase/supabase/tree/master/examples/user-management/vue3-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Next.js, Slack Clone](https://github.com/supabase/supabase/tree/master/examples/slack-clone/nextjs-slack-clone) - ![realtime](https://img.shields.io/badge/-realtime-orange)
+- [Svelte, Todo list](https://github.com/supabase/supabase/tree/master/examples/todo-list/sveltejs-todo-list) - ![database](https://img.shields.io/badge/-database-9cf)
 - [React Native, Stripe Payments](https://github.com/supabase-community/expo-stripe-payments-with-supabase-functions) - ![edge functions](https://img.shields.io/badge/-edge%20functions-darkgreen)
 - [Flutter, Stripe Payments](https://github.com/supabase-community/flutter-stripe-payments-with-supabase-functions) - ![edge functions](https://img.shields.io/badge/-edge%20functions-darkgreen)
 
@@ -62,6 +67,8 @@ To **enhance** this list, please refer to [https://github.com/lyqht/awesome-supa
 - [Supabase Happy Hours](https://www.youtube.com/watch?v=IJoc6dKy03c&list=PL5S4mPUpp4Ouyw8bMupHgxC3VL9BLZzvV) - A signature ongoing series of livestreams hosted by the Supabase core team, where they try to create side projects using Supabase APIs and engage with the community. Hosted by core members [Thor Schaeff](https://thorweb.dev/), [Jon Meyers](https://jonmeyers.io/), Alaister Young and [Tyler Shukert](https://dshukertjr.dev/).
 - [Supabase Developer Stories](https://www.youtube.com/watch?v=QAm1x7KaLq4&list=PL5S4mPUpp4OuzQN-a_FY3OZQuYo4NmXvb) - An ongoing series where SaaS founders/co-founders that use Supabase to showcase their products.
 - [CityJS 2022 Talk on Building Billy with Supabase](https://www.youtube.com/watch?v=UiANV3uqT04&t=6841s) - A talk on how a React Native expense tracker side project is built with Supabase, by a SupaSquad member [Estee Tey](https://esteetey.dev/).
+- [Build An Image Gallery With Supabase Storage and React](https://www.youtube.com/watch?v=8tfdY0Sf2rA) - A tutorial on using Supabase to upload & serve images.
+
 
 ## Online Courses
 
