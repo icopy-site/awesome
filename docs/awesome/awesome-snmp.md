@@ -126,6 +126,7 @@ _You use these to work with SNMP easier._
 - [SECFORCE/SNMP-Brute](https://github.com/SECFORCE/SNMP-Brute) - Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script.
 - [hatlord/snmpwn](https://github.com/hatlord/snmpwn) - An SNMPv3 User Enumerator and Attack tool.
 - [zabbix-tools/mib2zabbix](https://github.com/zabbix-tools/mib2zabbix) - This Perl script will generate a Zabbix v3 Template in XML format from an OID tree in a SNMP MIB file.
+- [OIDrage](https://github.com/patrickscottbest/OIDrage) - A lightweight standalone SNMPd mimic server based on any snmpwalk output. Easily scales to mock thousands of servers.
 
 ### GUIs
 - [tkmib](http://www.net-snmp.org/) - A perl/Tk interactive graphical MIB browser for SNMP.
