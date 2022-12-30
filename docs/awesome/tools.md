@@ -4,6 +4,15 @@
 
 >An awesome list of hosted tools for web development.
 
+## Sponsors
+
+<p>
+  <a href="https://sailboatui.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/sailboatui/sailboatui/main/.github/logo-light.svg"  height="50" alt="Sailboat UI">
+  </a>
+</p>
+
+
 ### Response
 
 * [Responsinator](http://www.responsinator.com/)

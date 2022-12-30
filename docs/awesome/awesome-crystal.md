@@ -245,6 +245,7 @@ described in [RFC 8032]
 
 ## Image processing
  * [celestine](https://github.com/celestinecr/celestine) - Create SVG images using a DSL
+ * [ffmpeg](https://github.com/spider-gazelle/ffmpeg) - FFmpeg bindings that works with StumpyPNG to extract frames
  * [stumpy_png](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
 
 ## Implementations/Compilers
@@ -422,6 +423,7 @@ described in [RFC 8032]
  * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
 ## Third-party APIs
+ * [amazonite](https://github.com/rjnienaber/amazonite) - An unofficial SDK supporting popular AWS APIs
  * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
  * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) - Sign HTTP::Request objects and generate presigned post forms
