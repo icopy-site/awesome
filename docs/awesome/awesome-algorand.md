@@ -43,6 +43,8 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [MyAlgo Connect](https://github.com/randlabs/myalgo-connect) - Web Wallet and JS library for signing transactions in the browser.
 - [AlgoSigner](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser.
 - [Method Wallet](https://methodwallet.app/) - Algorand Wallet you'll love.
+- [Defly Wallet](https://defly.app/) - Defly is an Algorand wallet with great suit of integrated DeFi features.
+- [Exodus](https://www.exodus.com/) - Exodus is a multi-cryptocurrency wallet that supports Algorand.
 
 ## Blockchain Explorers
 
@@ -144,6 +146,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) - Dapps templates for Algo Builder.
 - [algonaut.js](https://github.com/thencc/algonautjs) - An easier Algo sdk for front-end dapps (typescript).
 - [perawallet-connect](https://github.com/perawallet/connect) - JavaScript SDK for integrating Pera Wallet to web applications.
+- [defly-connect](https://github.com/blockshake-io/defly-connect) - JavaScript SDK for integrating Defly Wallet to web applications.
 
 #### Java
 
