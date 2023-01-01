@@ -1,8 +1,6 @@
 <div class="github-widget" data-repo="web-padawan/awesome-web-components"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Web Components
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Web Components [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Web Components resources.
 
@@ -490,17 +488,17 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) - Feature in Chrome platform status.
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated)
 
-### Custom State Pseudo class
-
-- [Blink: Intent to implement](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/CApU9QIu3TM)
-- [`ElementInternals`'s `states` property and the `:state()` pseudo class](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/custom-states-and-state-pseudo-class.md)
-
 ### Constructable Stylesheet Objects
 
 - [Specification Draft](https://wicg.github.io/construct-stylesheets/)
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html)
 - [Explainer](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
 - [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) - Feature in Chrome platform status.
+
+### Custom State Pseudo Class
+
+- [Blink: Intent to implement](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/CApU9QIu3TM)
+- [`ElementInternals`'s `states` property and the `:state()` pseudo class](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/custom-states-and-state-pseudo-class.md)
 
 ## Miscellaneous
 
@@ -748,7 +746,3 @@ These materials are here for historical reasons only, they are grouped by years 
 
 - Created by [@mateusortiz](https://github.com/mateusortiz) in 2014.
 - Maintained by [@web-padawan](https://github.com/web-padawan) since 2018.
-
-## License
-
-[![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
