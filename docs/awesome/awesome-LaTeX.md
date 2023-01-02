@@ -209,6 +209,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 
 - [LaTeX templates](https://www.latextemplates.com) - Collection of templates for papers, posters, resumés, theses, books, presentations, … for LaTeX.
 - [Ultimate Beamer Theme List](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
+- [LaTeX Beamer Theme Overview](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) - Visual overview of beamer themes included in TeXLive
 
 ## Symbols
 
@@ -264,6 +265,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [LinkedIn: TeX/LaTeX User Group](https://www.linkedin.com/groups/1600297)
 - [Twitter: @TeXtip](https://twitter.com/TeXtip) - Tips related to (La)TeX by [John D. Cook](https://www.johndcook.com/).
 - [TeX.StackExchange](https://tex.stackexchange.com) - StackExchange TeX section.
+- [TopAnswers TeX](https://topanswers.xyz/tex) - a free and open source Q&A site for TeX and friends
 
 ---
 

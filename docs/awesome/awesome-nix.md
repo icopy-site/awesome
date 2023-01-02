@@ -55,10 +55,14 @@
 * [Nixery](https://github.com/tazjin/nixery) - A Docker-compatible container registry which builds images ad-hoc via Nix.
 * [Nixinate](https://github.com/MatthewCroughan/nixinate) - A Nix flake library to provide app outputs for managing existing NixOS hosts over SSH.
 * [NixOps](https://github.com/NixOS/nixops) - The official Nix deployment tool, compatible with AWS, Hetzner, and more.
-* [nixos-shell](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 * [pushnix](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
 * [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
 * [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
+
+## Virtualisation
+* [nixos-shell](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
+* [extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers from the command line.
+* [microvm](https://github.com/astro/microvm.nix) - NixOS-based MicroVMs.
 
 ## Command-Line Tools
 
@@ -74,6 +78,7 @@
 * [nix-index](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 * [nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
+* [nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
 * [nvd](https://gitlab.com/khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
 * [statix](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
 
@@ -89,8 +94,10 @@
 * [flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - A lightweight Nix library flake for painless NixOS flake configuration.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
 * [lorri](https://github.com/nix-community/lorri/) - A much better `nix-shell` for development that augments direnv.
+* [nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
 * [niv](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects with package pinning.
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
+* [nix-update](https://github.com/Mic92/nix-update) - Update versions/source hashes of nix packages.
 * [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.
 * [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 * [rnix-lsp](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.

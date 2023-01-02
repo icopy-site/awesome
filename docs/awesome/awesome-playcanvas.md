@@ -74,12 +74,13 @@
 - [Adidas ZX Game](https://zx-game.de) - Branded rhythm action game (German).
 - [Ally Racing](https://www.allyracer.com/) - Retro NASCAR racing adver-game for Ally Bank.
 - [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - Promotional 3D experience themed on Call of Duty.
+- [Childhood on the Move](https://gallery.familyforeverychild.org/Childhood-on-The-Move/) - Virtual art exhibition from charity Family for Every Child.
 - [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
 - [DOOH Invaders](https://vimeo.com/136313614) - World's largest Space Invaders clone unveiled at Cannes Lions.
 - [Fatal System Error](https://playcanv.as/p/A5qC9ftM/?overlay=false) - Interactive opera experience created by Dumbworld from the Royal Opera House.
 - [How Not To Suck At Money](https://hntsam.com/) - Educational game from Invesco about personal finance.
 - [Life During COVID-19](https://gallery.familyforeverychild.org/) - Virtual art exhibition from charity Family for Every Child.
-- [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) - Interactive 3D ad for a popular mobile game.
+- [MMX Racing](https://playcanv.as/p/ika9sdKu/?truck=johncena) - Interactive 3D ad for a popular mobile game.
 - [Party Space](https://www.party.space/) - Virtual events platform.
 - [Pocketverse](https://pocketverse.net/) - Procedurally generated star systems.
 - [Ride Along 2](https://vimeo.com/152996271) - Using WebGL to promote a Hollywood movie release.
