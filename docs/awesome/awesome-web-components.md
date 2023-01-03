@@ -309,6 +309,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ### Class Based
 
 - [DNA](https://github.com/chialab/dna) - Progressive Web Components library.
+- [element-js](https://github.com/webtides/element-js) - Simple and lightweight base classes for web components with a beautiful API.
 - [FAST Element](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-element) - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
 - [Forge Core](https://github.com/tyler-technologies-oss/forge-core) - Building blocks and utilities that are used when building Forge Web Components.
 - [Joist](https://github.com/joist-framework/joist) - Set of small libraries designed to add the bare minimum to web components to make you productive.
@@ -373,6 +374,15 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Svelte Web Component — 5.4KB](https://itnext.io/svelte-web-component-5-4kb-4afe46590d99)
 
 ## Ecosystem
+
+## Meta Frameworks
+
+- [AMP](https://github.com/ampproject/amphtml) - Web component framework to easily create user-first experiences for the web.
+- [Enhance](https://enhance.dev/docs/) - Web standards-based HTML framework for building lightweight web applications.
+- [luna-js](https://github.com/webtides/luna-js) - SSR framework that makes working with the WebComponents standard a breeze.
+- [Rocket](https://rocket.modern-web.dev) - Modern web setup for static sites with a sprinkle of JavaScript.
+- [Web Components Compiler](https://github.com/ProjectEvergreen/wcc) - Compiler to make server-side rendering of native web components easier.
+- [WebC](https://github.com/11ty/webc) - Framework-independent standalone HTML serializer for generating markup for web components.
 
 ### Starter Kits
 

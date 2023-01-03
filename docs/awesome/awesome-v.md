@@ -244,7 +244,9 @@
 ### Editor plugins
 
 - [sublime-v](https://github.com/onerbs/sublime-v) - Fully-featured Sublime Text 3 package for the V Programming Language.
+- [vscode-vlang](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
 - [vim-vtools](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
+- [IntelliJ V](https://github.com/intellij-v/intellij-v) - Plugin for IntelliJ IDEA and other JetBrains IDEs.
 
 ### Forums
 
@@ -262,7 +264,8 @@
 
 ### Online IDEs with V
 
-- [V Playground](https://v-wasm.now.sh/)
+- [V Playground](https://play.vlang.io)
+- [V Playground (old)](https://v-wasm.now.sh/)
 
 ### Operating Systems & OS Development Examples
 
@@ -270,6 +273,7 @@
 
 ### Programming contests
 
+- [Advent of Code 2022](https://github.com/vlang/adventofcode) - Solution of Advent of Code 2022 in V.
 - [Advent of Code 2019](https://github.com/mvlootman/aoc2019) - Solution of Advent of Code 2019 in V.
 - [Rosetta Code V](https://github.com/RustemB/rosetta-code-v) - Solutions for Rosetta Code in V.
 - [SoloLearn Coding Challenges](https://github.com/Serkonda/v-sololearn-coding-challenges) - Implementation of the SoloLearn coding challenges in V.
@@ -283,7 +287,6 @@
 - [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
 - [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 Support for the Vlang Programming Language.
 - [v-mode](https://github.com/damon-kwok/v-mode) - Emacs major mode for the V programming language.
-- [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - V Language extension for Visual Studio Code.
 - [v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
 
 ### Tutorials

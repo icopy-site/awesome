@@ -72,6 +72,7 @@ You can find them listed on the [Neovim wiki](https://github.com/neovim/neovim/w
 - [Kasama/nvim-custom-diagnostic-highlight](https://github.com/Kasama/nvim-custom-diagnostic-highlight) - Inline diagnostics popup-highlight much like coc-nvim but based on `vim.diagnostic`.
 - [MrcJkb/haskell-tools.nvim](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
 - [ranjithshegde/ccls.nvim](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
+- [idanarye/nvim-buffls](https://github.com/idanarye/nvim-buffls) - Add LSP functionality to specific Neovim buffers.
 
 ##### LSP Installer
 
@@ -440,6 +441,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [jghauser/papis.nvim](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor.
 - [ostralyan/scribe.nvim](https://github.com/ostralyan/scribe.nvim) - Take notes, easily.
 - [phaazon/mind.nvim](https://github.com/phaazon/mind.nvim) - The power of trees at your fingertips.
+- [RutaTang/quicknote.nvim](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
 
 ### Utility
 
@@ -494,6 +496,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [m00qek/baleia.nvim](https://github.com/m00qek/baleia.nvim) - Colorize text with ANSI escape sequences (8, 16, 256 or TrueColor).
 - [samjwill/nvim-unception](https://github.com/samjwill/nvim-unception) - Automatic unnesting of Neovim sessions started from terminal buffers.
 - [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
+- [idanarye/nvim-channelot](https://github.com/idanarye/nvim-channelot) - Operate Neovim jobs from Lua coroutines.
 
 ### Debugging
 
@@ -532,6 +535,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [Shatur/neovim-tasks](https://github.com/Shatur/neovim-tasks) - A stateful task manager focused on integration with build systems.
 - [hkupty/iron.nvim](https://github.com/hkupty/iron.nvim) - Interactive REPLs of over 30 languages embedded.
 - [Civitasv/cmake-tools.nvim](https://github.com/Civitasv/cmake-tools.nvim) - CMake integration.
+- [idanarye/nvim-moonicipal](https://github.com/idanarye/nvim-moonicipal) - Task runner with focus on rapidly changing personal tasks.
 
 ### Neovim Lua Development
 
