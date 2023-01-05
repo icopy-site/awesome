@@ -104,11 +104,13 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [CIRpy](http://cirpy.readthedocs.org/) - Python wrapper for the [NCI Chemical Identifier Resolver (CIR)](https://cactus.nci.nih.gov/chemical/structure).
 * [Beaker](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) and [OSRA](https://cactus.nci.nih.gov/osra/) in the [Bottle](http://bottlepy.org/docs/dev/) on [Tornado](http://www.tornadoweb.org/en/stable/).
 * [chemminetools](https://github.com/girke-lab/chemminetools) - Open source web framework for small molecule analysis based on Django.
+* [ambit](http://ambit.sourceforge.net/) - offers chemoinformatics functionality via REST web services.
 
 <a id="lib-db"></a>
 ### Databases
 
 * [razi](https://github.com/rvianello/razi) - Cheminformatic extension for the SQLAlchemy database.
+* [Chemical Translation Service](https://bitbucket.org/fiehnlab/fiehnlab-cts/src/master/) - Source code of the [Chemical Translation Service](https://cts.fiehnlab.ucdavis.edu/) web service.
 
 <a id="lib-dock"></a>
 ### Docking
@@ -122,6 +124,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [NAMD](https://www.ks.uiuc.edu/Research/namd/) - a parallel molecular dynamics code designed for high-performance simulation of large biomolecular systems.
 * [MDTraj](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories.
 * [cclib](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles.
+* [ProDy](https://github.com/prody/ProDy) - A Python package for protein dynamics analysis 
 
 <a id="lib-others"></a>
 ### Others
@@ -130,6 +133,9 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [OPSIN](https://github.com/dan2097/opsin) - Open Parser for Systematic IUPAC nomenclature
 * [Cookiecutter for Computational Molecular Sciences](https://github.com/MolSSI/cookiecutter-cms) - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
 * [Auto-QChem](https://github.com/PrincetonUniversity/auto-qchem) - an automated workflow for the generation and storage of DFT calculations for organic molecules.
+* [Gypsum-DL](https://git.durrantlab.pitt.edu/jdurrant/gypsum_dl) - a program for converting 2D SMILES strings to 3D models.
+* [RDchiral](https://github.com/connorcoley/rdchiral) - Wrapper for RDKit's RunReactants to improve stereochemistry handling
+* [confgen](https://github.com/Et9797/confgen-webapp) - Webapp for generating conformers
  
  
 ## Journals
