@@ -277,6 +277,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ### Vim
 
 - [Mastering Vim Quickly](https://masteringvim.com/). Best Vim stuff, once a week.
+- [VimTricks](https://vimtricks.com/). Weekly tips and tricks.
 
 ### VSCode
 
