@@ -334,6 +334,8 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [STOI](https://stoi.org/) - Song ownership gone decentralized via microDAOs.
 - [AlgoTables](https://github.com/algotables/algotables.github.io) - A suite of tools designed to aid everyday hodlers of ALGO who participate in the Algorand ecosystem.
 - [AlgoPing](https://github.com/aorumbayev/algoping) - A tiny cron job that issues a [tweet](https://twitter.com/algoping) if public Algorand Nodes (AlgoExplorer, AlgoNode and etc) are not healthy.
+- [SliceSwap](https://app.sliceswap.com) - One place to trade your assets across major Dex's. All swaps are powered by @deflexfi.
+
 ## Algorand Request for Comments
 
 > Standards and specs defined in _finalized_ ARCs.

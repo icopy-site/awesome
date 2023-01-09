@@ -40,7 +40,7 @@ Move is a programming language for writing safe smart contracts originally devel
 
 ## Community
 
-- [Move Language Discord](https://discord.gg/9K7ca8Vnr7)
+- [Move Language Discord](https://discord.gg/cPUmhe24Mz)
 - [Move @ Sui by Mysten Labs Discord](https://discord.gg/sui)
 - [Move @ 0L Discord](https://discord.gg/0lnetwork)
 - [Move @ Starcoin Discord](https://discord.gg/starcoin)
@@ -151,6 +151,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 ### Miscellaneous
 
 - [Move-on-EVM](https://github.com/move-language/move/tree/main/language/evm) - Experimental project to compile Move source code to EVM bytecode.
+- [aoc-move](https://github.com/whonore/aoc-move) - Advent of Code solutions in Move with some formal verification.
 
 ## Tools
 
@@ -180,6 +181,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [bcs-js](https://github.com/pontem-network/lcs-js) - JavaScript implementation of the [BCS](https://github.com/diem/bcs) serialization scheme used by Move, may be useful for implementing wallets.
 - [ComingChat](https://coming.chat/) - A decentralized social finance/web3 portal.  Supporting public chain wallets, such as Sui and Aptos wallets.
 - [Suiet Wallet](https://github.com/suiet/suiet) - A open-source wallet for Sui. ([Chrome Webstore](https://chrome.google.com/webstore/detail/suiet/khpkpbbcccdmmclmpigdgddabeilkdpd), [Website](https://suiet.app)) 
+- [Ethos Wallet](https://github.com/EthosWallet/chrome-extension) - Open-source chrome extension wallet for Sui ([Chrome Webstore](https://chrome.google.com/webstore/detail/ethos-sui-wallet/mcbigmjiafegjnnogedioegffbooigli), [Website](https://ethoswallet.xyz/)).
 
 ### Wallet Adapters
 
@@ -189,6 +191,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 ### Wallet Kits
 
 - [Suiet Wallet Kit](https://github.com/suiet/wallet-kit) - A package support all Sui wallets with customizable UI.
+- [Ethos Connect](https://github.com/EthosWallet/ethos-connect) - UI with built-in wallet adapter and Email option for supporting all wallets and wallet-less users on Sui.
 
 ## SDKs
 - [go-sui-sdk](https://github.com/coming-chat/go-sui-sdk) - Sui Golang SDK.
@@ -213,8 +216,16 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 ## Videos
 
+- [The Move Programming Language](https://github.com/MystenLabs/awesome-move/blob/master/youtu.be/J1U_0exNFu0)
+- [Move on Sui](https://www.youtube.com/watch?v=xMsE1X4wio4)
+- [Move on Aptos](https://www.youtube.com/watch?v=gvRJdJTQd8U)
 - [Move: A Safe Language for Programming with Money](https://www.youtube.com/watch?v=EG2-7bQNPv4&ab_channel=FieldsInstitute) - Talk from [@sblackshear](https://github.com/sblackshear) at the [Fields Institute Blockchain](http://www.fields.utoronto.ca/activities/seminar_series/blockchain-research-seminar-series) research seminar series.
 - [Formal Verification of Move Programs for the Libra Blockchain](http://www.fields.utoronto.ca/talks/Formal-verification-Move-programs-Libra-blockchain) - Talk from [@DavidLDill](https://github.com/DavidLDill) at the [Fields Institute Blockchain](http://www.fields.utoronto.ca/activities/seminar_series/blockchain-research-seminar-series) research seminar series.
+- [Move for the Masses](https://www.youtube.com/watch?v=b_2jZ4YEfWc) from [Converge '22](https://converge.circle.com/event/4ea0d06f-3900-4b6d-a9cd-aeaedda9ef2e/summary)
+
+## Slides
+- [Move deep dive](https://docs.google.com/presentation/d/1Tb2iZD0xrQSlwXIJNL1djNYc0_p0szfB2STgURgHgls/edit?usp=sharing)
+- [Move overview](https://docs.google.com/presentation/d/1gU-M42Juz7ARc61unPXphJ_BX1OlQrBwR1VdaPT4M5w/edit?usp=sharing) from [Reasoning About Financial Systems](https://reasoningaboutfinancialsystems.org/) workshop at [SBC '22](https://cbr.stanford.edu/sbc22/)
 
 ## Podcasts
 
