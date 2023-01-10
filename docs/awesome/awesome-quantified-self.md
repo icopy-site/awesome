@@ -39,6 +39,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [QS on LiveScience](http://www.livescience.com/topics/quantified-self) - Quantified Self articles on LiveScience.
 - [Gwern](http://www.gwern.net/) - Esoteric blog which includes blinded self-experiments & Quantified Self analyses amongst other topics.
 - [beepb00p](https://beepb00p.xyz) - Writing about Quantified Self, owning the data and building the infrastructure.
+- [QS Experiments](https://blog.kto.to) - Science-based approach for Quantified Self, sharing raw data and analysis, modelling physical processes, health trackers comparison and analysis.
 
 ## Books
 
@@ -75,6 +76,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Gyroscope](https://gyrosco.pe/) - Quantified Self health dashboard (web, iOS, & Android).
 - [Exist](https://exist.io/) - Track everything in one place (web, iOS & Android).
 - [Zenobase](https://zenobase.com/) - Store, aggregate and visualize your data from multiple 3rd party sources (web).
+- [Vital](https://tryvital.io/) - Plaid like widget that joins together all your fitness data, wearables data and at home lab tests.
 - [Validic](https://validic.com/) - Cloud-based platform that connects patient-recorded data from digital health applications, devices, and wearables.
 - [FitnessSyncer](https://www.fitnesssyncer.com/) - Joins health and fitness data into a single centralized platform.
 - [IoTool](https://iotool.io/) - Smartphone IoT platform for automation and data collection.
@@ -195,6 +197,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
 - [Actual](https://actualbudget.com/) - Personal home budget software.
 - [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
+- [Firefly III](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 
 ## Devices and Wearables
 

@@ -95,8 +95,9 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 
 ## Game tools and libraries
-* [floooh/sokol-zig](https://github.com/floooh/sokol-zig) - [Sokol](https://github.com/floooh/sokol) bindings.
+* [hexops/mach](https://github.com/hexops/mach) - Game engine and graphics toolkit.
 * [michal-z/zig-gamedev](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
+* [floooh/sokol-zig](https://github.com/floooh/sokol-zig) - [Sokol](https://github.com/floooh/sokol) bindings.
 * [TM35-Metronome/metronome](https://github.com/TM35-Metronome/metronome) - A set of tools for modifying and randomizing Pokémon games.
 * [TM35-Metronome/tm35-nds](https://github.com/TM35-Metronome/tm35-nds) - A library for working with Nintendo DS roms.
 * [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - Simple and robust sudoku solver.
@@ -118,12 +119,15 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 ## GUI
 * [capy-ui/capy](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
+* [david-vanderson/gui](https://github.com/david-vanderson/gui) - Immediate mode GUI for Zig.
+* [Aransentin/ZWL](https://github.com/Aransentin/ZWL) - Zig Windowing Library.
+* [prime31/zig-upaya](https://github.com/prime31/zig-upaya) - GUI toolkit.
+* [fubark/cosmic](https://github.com/fubark/cosmic) - GUI toolkit.
+* [batiati/IUPforZig](https://github.com/batiati/IUPforZig) - Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit.
 * [andrewrk/zig-sdl](https://github.com/andrewrk/zig-sdl) - Self-contained SDL2 package for Zig.
 * [Snektron/vulkan-zig](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
 * [Avokadoen/zig_vulkan](https://github.com/Avokadoen/zig_vulkan) - Toy renderer using Vulkan and GLFW.
 * [andrewrk/zig-vulkan-triangle](https://github.com/andrewrk/zig-vulkan-triangle) - Simple triangle displayed using Vulkan, GLFW, and Zig.
-* [batiati/IUPforZig](https://github.com/batiati/IUPforZig) - Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit.
-* [zenith391/zgt](https://github.com/zenith391/zgt) - Zig GUI Toolkit: Portable library for making native GUIs in Zig.
 * [kassane/QML-zig](https://github.com/kassane/qml_zig) - QML bindings.
 * [cshenton/learnopengl](https://github.com/cshenton/learnopengl) - [Learn OpenGL](https://learnopengl.com) tutorials ported to Zig.
 * [ifreund/river](https://github.com/ifreund/river) - Dynamic wayland compositor that takes inspiration from dwm and bspwm.
@@ -217,6 +221,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [caolan/zig-netstring](https://git.sr.ht/~caolan/zig-netstring) - Netstring parser.
 * [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
 * [iddev5/inon](https://github.com/iddev5/inon) - Data configuration file format.
+* [naneros/ztoml](https://codeberg.org/naneros/ztoml.git) - TOMLv1.0.0 parser and convert TOML to JSON.
 
 ## Learning resources
 * [belse-de/zig-tut](https://github.com/belse-de/zig-tut) - A collection of small projects and tutorials to learn Zig.
@@ -225,7 +230,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 ## Other
 * [All Your Codebase](https://allyourcodebase.com/) - Development status of Zig and its' ecosystem.
-* [fubark/cosmic](https://github.com/fubark/cosmic) - A general purpose runtime for Javascript/WASM.
+* [zig.pm](https://zig.pm/) - A community-maintained repository of Zig packages.
 * [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) - Geteltorito re-write in Zig.
 * [momumi/x86-zig](https://github.com/momumi/x86-zig) - Library for assembling x86.
 * [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - ILO license key library.
