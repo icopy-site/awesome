@@ -15,11 +15,13 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 <p align="center">
     <img  src="https://visitor-badge.glitch.me/badge?page_id=aorumbayev.awesome-algorand&right_color=black" />
-    <a target="_blank" href="https://awesomealgo.com"><img src="https://img.shields.io/badge/Browse-Website-black.svg" /></a>
-    <a target="_blank" href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/badge/Browse-Repository-black.svg" /></a>
-    <a target="_blank" href="https://rss.com/podcasts/the-awesomealgo-podcast"><img src="https://img.shields.io/badge/AwesomeAlgoPodcast-Listen-gold.svg" /></a>
-    <a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/github/stars/aorumbayev/awesome-algorand?color=black" /></a>
-    <a  href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?color=black" /></a>
+    <a target="_blank" href="https://awesomealgo.com"><img src="https://img.shields.io/badge/url-website-black.svg" /></a>
+    <a target="_blank" href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/badge/url-repository-black.svg" /></a>
+    <br />
+    <a target="_blank" href="https://rss.com/podcasts/the-awesomealgo-podcast"><img src="https://img.shields.io/badge/podcast-rss-black.svg?color=gold" /></a>
+    <a target="_blank" href="https://developer.algorand.org"><img src="https://img.shields.io/coincap/price-usd/algorand?color=teal" /></a>
+    <a target="_blank" href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/github/stars/aorumbayev/awesome-algorand?color=teal" /></a>
+    <a target="_blank" href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?color=gold" /></a>
 </p>
 
 
@@ -53,6 +55,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [AlgoExplorer](https://www.algoexplorer.io/) - Algorand blockchain explorer built by [RandLabs](https://randlabs.io/).
 - [Goalseeker](https://goalseeker.purestake.io/algorand/mainnet) - Algorand blockchain explorer built by [PureStake](https://www.purestake.com/).
 - [NFTExplorer](https://www.nftexplorer.app/) - Algorand Standard Asset (ASA) explorer built by [@TomassoAE](https://twitter.com/TommasoAE) and [JoshLmao](https://twitter.com/JoshLmao).
+- [Pera Explorer](https://explorer.perawallet.app/) - Algorand Accounts, Standard Asset (ASA) explorer built by [Pera Wallet](https://perawallet.app/)
 - [Algorand Ballet](https://akaalias.github.io/algorand-ballet/) - Algorand accounts' 2D graphs.
 - [Algorand Multiverse](https://algo3d.live/) - Algorand accounts' 3D graphs.
 - [Algoscan](https://algoscan.app/) - Algoscan is a Blockchain Explorer and Analytics Platform. Built on top of the Algorand Network.
@@ -105,6 +108,10 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 ## Development Tools
 
 > Awesome client libraries, tools, and community utilities.
+
+### CLI
+
+- [AlgoKit CLI](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network. Official tooling maintained by the Algorand Foundation.
 
 ### Languages
 
@@ -303,7 +310,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 ### Projects
 
-> A list of open source projects that are built on top of Algorand.
+> A list of open source projects, blogs, websites that are built on top of Algorand.
 
 - [arc3.xyz](https://github.com/barnjamin/arc3.xyz) - Dapp that can be used to mint ARC3 compliant NFTs.
 - [Auction Demo](https://github.com/algorand/auction-demo) - On-chain NFT auction using smart contracts.
@@ -335,6 +342,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [AlgoTables](https://github.com/algotables/algotables.github.io) - A suite of tools designed to aid everyday hodlers of ALGO who participate in the Algorand ecosystem.
 - [AlgoPing](https://github.com/aorumbayev/algoping) - A tiny cron job that issues a [tweet](https://twitter.com/algoping) if public Algorand Nodes (AlgoExplorer, AlgoNode and etc) are not healthy.
 - [SliceSwap](https://app.sliceswap.com) - One place to trade your assets across major Dex's. All swaps are powered by @deflexfi.
+- [algodaddy](https://www.algodaddy.org) - A blog website for Algorand community.
 
 ## Algorand Request for Comments
 

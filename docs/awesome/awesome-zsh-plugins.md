@@ -1314,7 +1314,6 @@ These plugins add tab completions without adding extra functions or aliases.
 - [ipfs](https://github.com/hellounicorn/zsh-ipfs) - Completions for the [Interplanetary File System](https://ipfs.io).
 - [joe](https://github.com/corvofeng/joe-completion) - Adds completions for [joe](https://github.com/karan/joe) gitignore editor.
 - [jtool-completion](https://github.com/beaugalbraith/jtool-completion) - ZSH completions for jtool.
-- [jumpstorm-completion](https://github.com/netresearch/jumpstorm-zsh-plugin) - Adds autocompletion for [jumpstorm](https://github.com/netresearch/jumpstorm)
 - [jx](https://github.com/haysclark/zsh-jx) - Adds tab completions for the Jenkins-X cli.
 - [kafka](https://github.com/Dabz/kafka-zsh-completions) - Completions for Apache [kafka](https://kafka.apache.org).
 - [keybase](https://github.com/rbirnie/oh-my-zsh-keybase) - Completions for [keybase](https://keybase.io/docs/command_line).
@@ -2047,6 +2046,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 - [repo](https://github.com/gkide/zsh-repo-theme) - Shows detailed `git` status information
 - [rho](https://github.com/andrejreznik/rho-zsh-theme) - Minimalist theme.
 - [ribbon](https://github.com/pyjamafish/ribbon-prompt) - Reminiscent of powerline. Includes Python `virtualenv` decorator.
+- [rigel](https://github.com/othiagos/rigel-zsh-theme/) - Includes decorators for `git` information, user@hostname and current directory.
 - [risbow](https://github.com/waddupp00/risbow) - A [risto](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/risto.zsh-theme) inspired ZSH theme with a lolcat like rainbow effect.
 - [river](https://github.com/revir/river-zsh-config) - Dark theme with `git` information.
 - [robbyolivier](https://github.com/YuyeQingshan/robbyolivier) - Based on ideas from the the [robbyrussell](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme and the project [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt).
@@ -2143,6 +2143,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 - [staples](https://github.com/dersam/staples) - Based on bureau, displays user@host if connected through SSH.
 - [starboy](https://github.com/prdpx7/Starboy) - A simple ZSH theme.
 - [starship](https://starship.rs/) - Minimal, fast, extremely customizable.
+- [starship (wintermi)](https://github.com/wintermi/zsh-starship) - A simple plugin to use the Starship prompt, along with a powerline theme.
 - [statusline](https://github.com/el1t/statusline) - A responsive ZSH theme that provides informational segments when you need them.
 - [steef (danihodovic)](https://github.com/danihodovic/steeef) - Oh-my-zsh steeef theme as a standalone repository. The purpose behind this repo is avoid having a dependency on oh-my-zsh when using the steeef theme. ZSH plugin managers such as Antibody can use the theme without having to use oh-my-zsh.
 - [steef (zimfw)](https://github.com/zimfw/steeef) - A customizable version of [steeef's](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/steeef.zsh-theme) theme.

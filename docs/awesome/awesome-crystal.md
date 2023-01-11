@@ -468,11 +468,11 @@ described in [RFC 8032]
 ## Community
  * [Chicago Crystal Podcast](https://podcast.chicagocrystal.org)
  * [Chicago Crystal YouTube](https://www.youtube.com/channel/UCI1RvHPG6S9mw4eRoJfH2kA)
+ * [Crystal Forum](https://forum.crystal-lang.org/)
  * [Crystal weekly newsletters](http://crystalweekly.com/)
  * [Gitter](https://gitter.im/crystal-lang/crystal)
  * [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
  * [IRC](http://irc.lc/freenode/crystal-lang) - #crystal-lang on Freenode
- * [Metaruby](https://metaruby.com/c/crystal-forum) - Crystal Forum on Metaruby
  * [Reddit](https://www.reddit.com/r/crystal_programming/)
  * [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
 
