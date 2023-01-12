@@ -126,11 +126,17 @@ Plugins owned by [Capawesome organisation](https://github.com/capawesome-team) a
     - [Performance](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - Capacitor plugin for Firebase Performance Monitoring.
     - [Crashlytics](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Capacitor plugin for Firebase Crashlytics.
 - [Screen orientation](https://github.com/capawesome-team/capacitor-screen-orientation) - Lock/unlock the screen orientation.
-- [Android dark mode](https://github.com/capawesome-team/capacitor-android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
 - [Native updates](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
 - [File picker](https://github.com/capawesome-team/capacitor-file-picker) - Capacitor plugin that allows the user to select a file.
 - [Managed configuration](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
 - [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
+
+## [Transistor Software plugins](https://www.transistorsoft.com//)
+Plugins owned by [Transistor Software plugins](https://github.com/transistorsoft) and maintained by [@christocracy](https://github.com/christocracy).
+
+- [Background Geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
+- [Background Fetch](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android.
+- [Background Geolocation Firebase](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) - Firebase adapter for Capacitor Background Geolocation.
 
 ## Other plugins
 

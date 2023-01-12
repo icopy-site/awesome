@@ -1223,6 +1223,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
 * [nothings/single_file_libs](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
+## Jobs
+
+* This list is currently empty, but you can add to it by opening a merge request.
+
+## Sponsors
+
+* Please reach out if you are interested in sponsoring this repo. Your company's name and logo will be prominently displayed here.
+
 ## Contributing
 Please take a quick gander at the [contribution guidelines](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.
 Thanks to all [contributors](https://github.com/fffaraz/awesome-cpp/graphs/contributors); you rock!
