@@ -85,6 +85,7 @@ List of middlewares that are created by the Fiber community.
 - [witer33/fiberpow](https://github.com/witer33/fiberpow) - Anti DDoS/Bot Middleware with a customizable Proof Of Work challenge.
 - [joffref/opa-middleware](https://github.com/Joffref/opa-middleware) - Provides an OPA middleware integration for fiber.
 - [vladfr/fiber-servertiming](https://github.com/vladfr/fiber-servertiming) - A middleware to add Server-Timing headers based on the W3C Server-Timing Spec.
+- [airbrake/gobrake](https://github.com/airbrake/gobrake/tree/master/examples/fiber) - An Airbrake middleware that reports performance data (route stats).
 
 ## 🚧 Boilerplates
 Premade boilerplates for Fiber.
@@ -109,7 +110,6 @@ Recipes for Fiber.
 
 ## 🛠️ Tools
 Several tools to make Fiber usage easier.
-- [gofiber/cli](https://github.com/gofiber/cli) - Fiber Command Line Interface.
 - [go-dawn/dawn](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
 - [tompston/gomakeme](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
 
