@@ -1324,6 +1324,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [blogit](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
 * [glayu](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
 * [medusa](https://github.com/Vesuvium/medusa) - Elixir static site generator that supports Pug.
+* [NimblePublisher](https://github.com/dashbitco/nimble_publisher) - Minimal filesystem-based publisher with markdown and syntax highlighting.
 * [obelisk](https://github.com/BennyHallett/obelisk) - Static blog and website generator.
 * [serum](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
 
@@ -1584,7 +1585,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mmExchangeRate](https://github.com/Arkar-Aung/mmExchangeRate) - A simple exchange rate checker and calculator based on Central Bank of Myanmar Api.
 * [nacha](https://github.com/RiverFinancial/nacha) - Elixir library for generating and parsing NACHA files for US ACH transfers.
 * [nadia](https://github.com/zhyu/nadia) - Telegram Bot API Wrapper written in Elixir.
-* [omise](https://github.com/teerawat1992/omise-elixir) - Omise client library for Elixir.
+* [omise](https://github.com/omise/omise-elixir) - Omise client library for Elixir.
 * [opbeat](https://github.com/teodor-pripoae/opbeat) - Elixir client for Opbeat.
 * [pagexduty](https://github.com/ride/pagexduty) - A Pagerduty client for Elixir.
 * [parse_client](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.

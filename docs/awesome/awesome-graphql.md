@@ -21,6 +21,8 @@ If you want to contribute to this list (please do), send me a pull request.
 - [GraphQL Relay](https://relay.dev/docs/guides/graphql-server-specification/) - Relay-compliant GraphQL server specification.
 - [OpenCRUD](https://github.com/opencrud/opencrud) - OpenCRUD is a GraphQL CRUD API specification for databases.
 - [Apollo Federation](https://www.apollographql.com/docs/federation/federation-spec/) - Apollo Federation specification
+- [GraphQXL](https://gabotechs.github.io/graphqxl/) - GraphQXL is an extension of the GraphQL language with some additional features that help creating big and scalable server-side schemas.
+- [GraphQL Scalars](https://www.graphql-scalars.com/) - hosts community defined custom Scalar specifications for use with @specifiedBy.
 
 <a name="foundation" />
 
@@ -32,8 +34,10 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Communities
 
-- [Discord](https://discord.graphql.org/) - Official GraphQL.org discord channel.
-- [Discord](http://join.reactiflux.com/) - Join `#help-graphql` on the Reactiflux Discord server.
+- [Discord - GraphQL](https://discord.graphql.org/) - Official GraphQL.org discord channel.
+- [GraphQL Weekly](https://www.graphqlweekly.com/) - A weekly newsletter highlighting resources and news from the GraphQL community.
+- [Apollo GraphQL Community](https://community.apollographql.com/) - Connect with other developers and share knowledge about every part of the Apollo GraphQL platform.
+- [Discord - Reactiflux](http://join.reactiflux.com/) - Join `#help-graphql` on the Reactiflux Discord server.
 - [Facebook](https://www.facebook.com/groups/795330550572866/) - Group for discussions, articles and knowledge sharing.
 - [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag `#graphql`.
 - [StackOverflow](https://stackoverflow.com/questions/tagged/graphql) - Questions and answers. Use the tag `graphql`.
@@ -41,8 +45,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [/r/GraphQL](https://old.reddit.com/r/graphql/) - A Subreddit for interesting and informative GraphQL content and discussions.
 - [GraphQL Jobs](https://graphql.jobs) - A list of GraphQL-based jobs in startups all over the world.
 - [Codever](https://www.codever.land/search?q=graphql) - Dev bookmarks. Use the tag [graphql](https://www.codever.land/bookmarks/t/graphql).
-- [GraphQL Weekly](https://www.graphqlweekly.com/) - A weekly newsletter highlighting resources and news from the GraphQL community.
-- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
 
 <a name="meetup" />
 
@@ -752,6 +754,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Blogs - Security
 
+- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
 - [9 GraphQL Security Best Practices](https://blog.escape.tech/9-graphql-security-best-practices/)
 - [Discovering GraphQL Endpoints and SQLi Vulnerabilities](https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e)
 - [Securing GraphQL API](https://lab.wallarm.com/securing-graphql-api/)
@@ -795,13 +798,14 @@ If you want to contribute to this list (please do), send me a pull request.
 - [make your graphql api easier to adopt through components](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)
 - [Undocumented: keeping parts of your GraphQL schema hidden from introspection](https://www.useanvil.com/blog/engineering/undocumented-directive/)
 
-<a name="workshopper" />
+<a name="tutorials" />
 
-## Workshoppers
+## Tutorials
 
 - [How to GraphQL](https://www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more.
 - [Apollo Odyssey](https://odyssey.apollographql.com/) - Apollo's free interactive learning platform.
 - [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
+- [GraphQL Roadmap](https://roadmap.sh/graphql/) - Step by step guide to learn GraphQL.
 
 ## License
 

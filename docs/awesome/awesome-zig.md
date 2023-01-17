@@ -151,6 +151,8 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) - Zig bindings for libVLC media framework.
 
 ## Network
+* [MasterQ32/zig-network](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
+* [dantecatalfamo/zig-dns](https://github.com/dantecatalfamo/zig-dns) - Experimental DNS library implemented in zig.
 * [euantorano/ip.zig](https://github.com/euantorano/ip.zig) - Library for working with IP Addresses.
 * [lun-4/zigdig](https://github.com/lun-4/zigdig) - Naive DNS client library.
 * [marler8997/netpunch](https://github.com/marler8997/netpunch) - Outbound proxy protocol.

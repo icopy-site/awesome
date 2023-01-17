@@ -124,6 +124,7 @@
 
 - [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
 - [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - PhpStorm/Intellij Ultimate plugin for Inertia.js.
+- [Code extension](https://marketplace.visualstudio.com/items?itemName=nhedger.inertia) - Visual Studio Code extension for Inertia.js.
 
 <p align="center">
   <br />

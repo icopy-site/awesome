@@ -89,6 +89,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 * [Library of Congress Classification](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html) - ***Library of Congress***. Classification system of USA (PDF only).
 
+* [Chinese Library Classification](http://cct.nlc.cn/) - ***National Library of China***. Classification system of P. R. China (online user interface in Chinese). [[English introduction at ISKO](https://www.isko.org/cyclo/clc)]. [[Wikipedia-EN](https://en.wikipedia.org/wiki/Chinese_Library_Classification#:~:text=The%20Chinese%20Library%20Classification%20(CLC,as%20well%20as%20public%20libraries.)].
+
 * [DDC at German National Library](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) - ***Deutsche National Bibliothek***. Deway Decimal Classification (DDC) based classification system of Germany (online user interface). [[DNB Website](https://www.dnb.de/EN/Professionell/DDC-Deutsch/DDCinDNB/ddcindnb_node.html)].
 
 * [National Dite Library Classification](https://www.ndl.go.jp/jp/data/catstandards/classification_subject/ndlc.html) - ***National Diet Library of Japan***. Classification system of Japan (PDF only).
@@ -1072,7 +1074,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 * [A Theoretical Computer Science Perspective on Consciousness](https://www.worldscientific.com/doi/abs/10.1142/S2705078521500028) - ***Journal of Artificial Intelligence and Consciousness***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16430561748075101972&hl=en&as_sdt=0,5)].
 
 
-### Metascience
+### Science Logology
 
 #### Science of Science
 
@@ -1089,7 +1091,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 * [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***Proceedings of the National Academy of Sciences***, 2017. [[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028&hl=zh-CN&as_sdt=0,5)]. An analysis of bias patterns and risk factors in science.
 
 * [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***Proceedings of the National Academy of Sciences***, 2021. [[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487&hl=zh-CN&as_sdt=0,5)]. An analysis of why too many papers published each year in a field can lead to stagnation rather than advance. 
-
 
 * [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***Methodological Innovations Online***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152&hl=en&as_sdt=0,5)]. 
 
@@ -1122,6 +1123,9 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 
 * [Speech Acts of Argumentation: Inference Anchors and Peripheral Cues in Dialogue](https://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/viewFile/3940/4244) - ***AAAI'12***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=9761955212933152906&hl=en&as_sdt=0,5)]. The original paper introducing the Information Anchoring Theory (IAT) as an alternate for AIF. 
+
+#### Science Education
+
 
 
 ### Theory of Mind
