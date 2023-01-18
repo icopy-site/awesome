@@ -80,6 +80,11 @@ A curated collection of resources covering all aspects of load testing using [Ga
 - [gatling-report](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 - [gatling2allure](https://github.com/biski/gatling2allure) - Convert Gatling log to Allure report.
 
+### Sandbox
+
+- [gatling-scaffold](https://github.com/robsonbittencourt/gatling-scaffold) - Base for load test project using Gatling, InfluxDB and Grafana.
+- [perfiz](https://github.com/znsio/perfiz) - A dockerised API performance test setup based on Gatling with Grafana dashboards and Prometheus monitoring.
+
 ### Miscellaneous
 
 - [dakiya](https://github.com/rupeshmore/dakiya) - Convert Postman collections to Gatling scripts.
