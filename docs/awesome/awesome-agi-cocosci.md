@@ -570,6 +570,10 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 * [Judgment under Uncertainty: Heuristics and Biases: Biases in judgments reveal some heuristics of thinking under uncertainty](https://www.science.org/doi/abs/10.1126/science.185.4157.1124) - ***Science***, 1974. [[All Versions](https://scholar.google.com/scholar?cluster=17040257859216791312&hl=en&as_sdt=0,5)]. Daniel Kahneman's classic idea of prospective theory.
 
 
+* [Hierarchical reasoning by neural circuits in the frontal cortex](https://www.cnbc.cmu.edu/braingroup/papers/sarafyazd_jazayeri_2019.pdf) - ***Science***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=9875733886908769773&hl=en&as_sdt=0,5)]. Neuroscience evidence supporting rule switch.
+
+* [The importance of mixed selectivity in complex cognitive tasks](https://oar.princeton.edu/rt4ds/file/11875/2161) - ***Nature***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=2707751672275136220&hl=en&as_sdt=0,5)]. The original paper introducing mixed selectivity with high-dimensional neural representations.
+
 * [People construct simplified mental representations to plan](https://www.nature.com/articles/s41586-022-04743-9) - ***Nature***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=12068944400080889789&hl=en&as_sdt=0,5)]. A computational account on rational problem representation in human planning.
 
 * [Goals, usefulness and abstraction in value-based choice](https://www.sciencedirect.com/science/article/pii/S1364661322002819) - ***Trends in Cognitive Sciences***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=6256990098976657651&hl=en&as_sdt=2005&sciodt=0,5)]. A review that outlines the computational and biological principles that enable the brain to compute the usefulness of an option or action by creating abstractions that flexibly adapt to changing goals.
@@ -582,7 +586,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 * [The nature of external representations in problem solving](https://www.sciencedirect.com/science/article/abs/pii/S0364021399800226) - ***Cognitive Science***, 1997. [[All Versions](https://scholar.google.com/scholar?cluster=10698887231200401430&hl=en&as_sdt=0,5)].
 
 
-* [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cogsci.mindmodeling.org/2020/papers/0764/) - ***CogSci'20***, 2020. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.&btnG=)].
+* [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cognitivesciencesociety.org/cogsci20/papers/0765/0765.pdf) - ***CogSci'20***, 2020. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.&btnG=)].
 
 * [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://openreview.net/forum?id=CXyZrKPz4CU) - ***NeurIPS'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8733318111076645893&hl=en&as_sdt=0,5)].
 
@@ -1155,6 +1159,10 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 * [Memory](https://plato.stanford.edu/entries/memory/) - ***Plato Stanford***.-->
 
 * [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/) - ***Plato Stanford***. A computational philosophy account on ToM.
+
+* [The naïve utility calculus: Computational principles underlying commonsense psychology](http://sll.stanford.edu/docs/2016_JaraEttinger_Gweon_Schulz_Tenenbaum_TiCS.pdf) - ***Trends in Cognitive Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=6894095575934067763&hl=en&as_sdt=0,5)]. A perspective on understanding social interactions through the naïve utility calculus framework.
+
+* [Planning with theory of mind](https://saxelab.mit.edu/sites/default/files/publications/HoSaxeCushman2022.pdf) - ***Trends in Cognitive Sciences***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=8461125353366208047&hl=en&as_sdt=0,5)]. A perspective on understanding Theory of Mind through planning that consists of abstract structured causal representations and supports efficient search and selection from innumerable possible actions. 
 
 
 * [Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf) - ***CogSci'11***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=7454981153033683025&hl=en&as_sdt=0,5)]. 

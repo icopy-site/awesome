@@ -41,7 +41,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 > List of wallet providers for Algorand.
 
-- [Pera Wallet](https://github.com/perawallet) - Secure, open source and community driven wallet for mobile devices. Maintained by the team behind official Algorand Wallet.
+- [Pera Wallet](https://github.com/perawallet) - Secure, open source and community driven wallet for both mobile and desktop devices. Maintained by the team behind official Algorand Wallet.
 - [MyAlgo Connect](https://github.com/randlabs/myalgo-connect) - Web Wallet and JS library for signing transactions in the browser.
 - [AlgoSigner](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser.
 - [Method Wallet](https://methodwallet.app/) - Algorand Wallet you'll love.
@@ -210,7 +210,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [pyteal](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
 - [beaker](https://github.com/algorand-devrel/beaker) - A tool for smart contract development on the Algorand blockchain. Inspired by `flask`.
 - [beaker-ts](https://github.com/algorand-devrel/beaker-ts) - Generate typescript clients for your beaker applications.
-- [pyteal-utils](https://github.com/algorand/pyteal-utils) - PyTEAL utilites library.
+- [pyteal-utils](https://github.com/algorand/pyteal-utils) - PyTEAL utilities library.
 - [reach](https://docs.reach.sh) - A domain-specific language for building cross chain decentralized applications (DApps).
 - [aqua-compiler](https://github.com/optio-labs/aqua-compiler) - An expressive high level language for the Algorand block chain that compiles to TEAL code.
 - [algoml](https://github.com/petitnau/algoml) - A domain-specific language for specifying Algorand smart contracts, which compiles into TEAL scripts.
@@ -247,7 +247,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 > Awesome NFT marketplaces and galleries on Algorand.
 
 - [AB2](https://ab2.gallery/) - decentralized marketplace for crypto art assets secured on the Algorand blockchain created by [@ab2_gallery](https://twitter.com/AB2_Gallery).
-- [Rand Gallery](https://www.randgallery.com/) - Algorand Standard Asset (ASA) explorer and markeplace developed by [Chris Antaki](https://github.com/ChrisAntaki).
+- [Rand Gallery](https://www.randgallery.com/) - Algorand Standard Asset (ASA) explorer and marketplace developed by [Chris Antaki](https://github.com/ChrisAntaki).
 - [AlgoGems](https://algogems.io/) - Algorand Standard Asset (ASA) markeplace and trading platform for NFT collectors.
 - [AlgoWorldExplorer](https://algoworldexplorer.io/) - NFT marketplace, explorer and gallery for AlgoWorld NFTs developed by [@aorumbayev](https://twitter.com/aorumbayev).
 - [AlgoMart](https://github.com/deptagency/algomart) - Opensource NFT marketplace whitelabel solution.
