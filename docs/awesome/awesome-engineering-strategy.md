@@ -18,7 +18,8 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud by  Jonathan Allen, Thomas Blood, Werner Vogels, Adrian Cockcroft, Mark Schwartz](https://www.goodreads.com/book/show/53503300-reaching-cloud-velocity) - A high-level book on business strategy, people, culture, data and architecture and how this drives cloud velocity.
 - [UN Global Platform Handbook on Information Technology Strategy by  Mark Craddock, Rob McLellan, Simon Wardley, Matjaz Jug, Jan Murdoch](https://www.goodreads.com/book/show/55047345-un-global-platform-handbook-on-information-technology-strategy) - A set of wardley maps on IT. Bringing situational awareness to different contexts.
 - [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.goodreads.com/en/book/show/11721966) - Understand the core components of a strategy.
-- [The Value Flywheel Effect: Power the Future and Accelerate Your Organization to the Modern Cloud](https://www.goodreads.com/book/show/61167316-the-value-flywheel-effect?ac=1&from_search=true&qid=donxleC2tR&rank=1) - Using Wardley Mapping and other sensemaking approaches to help organizations anticip[ate market changes and user needs.
+- [The Value Flywheel Effect: Power the Future and Accelerate Your Organization to the Modern Cloud](https://www.goodreads.com/book/show/61167316-the-value-flywheel-effect) - Using Wardley Mapping and other sensemaking approaches to help organizations anticip[ate market changes and user needs.
+- [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/44135420-team-topologies) - Team Topologies is a practical, step-by-step, adaptive model for organizational design and team interaction based on four fundamental team types and three team interaction patterns.
 
 ## Posts
 
@@ -35,7 +36,10 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 
 ## Videos
 
-- [Experimentation and Evolution with Wardley Maps](https://www.youtube.com/watch?v=gAh7rK2F9pk) - How Cat has used Wardley Maps to inform her always evolving strategy for the modernization of Ticketmaster’s core ticketing platform not only in terms of technical capabilities and architecture but also process maturity, organizational design, and more.
+- [Experimentation and Evolution with Wardley Maps - Cat Swetel](https://www.youtube.com/watch?v=gAh7rK2F9pk) - How Cat has used Wardley Maps to inform her always evolving strategy for the modernization of Ticketmaster’s core ticketing platform not only in terms of technical capabilities and architecture but also process maturity, organizational design, and more.
+- [Crossing the River by Feeling the Stones - Simon Wardley](https://www.youtube.com/watch?v=oZZKjxeg5W0) - Simon Wardley examines the issue of situational awareness and explains how it applies to technology.
+- [Complex Adaptive Systems - Dave Snowden](https://www.youtube.com/watch?v=l4-vpegxYPg)
+- [Systems are communication structures - Diana Montalion](https://www.youtube.com/watch?v=U_0B-aY_L0c)
 
 ## Templates
 

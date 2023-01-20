@@ -79,3 +79,6 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 - [Privacy Oracle: a System for Finding Application Leakswith Black Box Differential Testing](https://dl.acm.org/citation.cfm?id=1455806) - (CCS) *Privacy Oracle: a system that uncovers applications' leaks of personal information in transmissions to remoteservers.*
 ### 2005
 - [Adversarial Learning](https://dl.acm.org/citation.cfm?id=1081950) - (KDD) *Reverse engineering of remote linear classifiers, using membership queries.*
+
+## Related Events
+* [Workshop on Algorithmic Audits of Algorithms (WAAA)](https://algorithmic-audits.github.io)
