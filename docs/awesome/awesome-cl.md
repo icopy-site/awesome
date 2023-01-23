@@ -1446,7 +1446,7 @@ code must look pretty, documentation is code. [MIT][200].
 * [QBook](https://github.com/mmontone/qbook) - generates HTML (or LaTeX) formatted code listings of Common Lisp source files. [BSD_3Clause][15].
   - all comments started with 4 `;` (";;;;") are interpreted as documentation. Enhance the documentation with headings and directives.
   - QBook acts as "a lightweight literate programming system, where Lisp code is not rendered inline, but in separate sections, and that makes the document more pleasant to navigate." @mmontone
-* [sphinxcontrib-cldomain](https://github.com/russell/sphinxcontrib-cldomain) -
+* [sphinxcontrib-cldomain](https://sphinxcontrib-cldomain.russellsim.org/) -
   Extending Sphinx to cover Common Lisp. To build documentation with
   the same ease as sphinx would a Python project. [GPL3][2]
 * [cl-bibtex](https://github.com/mkoeppe/cl-bibtex) - A compatible re-implementation of the BibTeX program in Common Lisp, with a BST-to-CL compiler. [GNU LGPL2.1][11].
@@ -1484,7 +1484,7 @@ File watching libraries:
 Git
 ---
 
-* [cl-git](https://github.com/russell/cl-git) - a CFFI interface to the libgit2 library. [LGPL3][9].
+* [cl-git](https://cl-git.russellsim.org/) - a CFFI interface to the libgit2 library. [LGPL3][9].
 * [legit](https://shinmera.github.io/legit/) - an interface to the Git binary. [zlib][33].
 * [git-api](https://github.com/fourier/git-api) - Common Lisp library to access a git repository. It doesn't need git or libgit installed. [BSD][15].
 
