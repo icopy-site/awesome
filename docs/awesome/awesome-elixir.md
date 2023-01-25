@@ -149,6 +149,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Runhyve](https://runhyve.app) - Runhyve is complete virtual machines manager for bhyve on FreeBSD. It's written in Elixir and uses Phoenix framework.
 * [simple_bayes](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 * [Synapses](https://mrdimosthenis.github.io/Synapses/?elixir) - A lightweight library for neural networks.
+* [Beaver](https://github.com/beaver-lodge/beaver) - Beaver is a LLVM/MLIR Toolkit in Elixir and Zig.
 
 ## Audio and Sounds
 *Libraries working with sounds and tones.*
@@ -993,6 +994,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ex_phone_number](https://github.com/socialpaymentsbv/ex_phone_number) - Format, normalize, and validate phone numbers.
 * [ex_rated](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
 * [exfcm](https://github.com/Hajto/ExFCM) - Simple wrapper for posting Firebase Cloud Messages.
+* [exisbn](https://github.com/solar05/exisbn) - ISBN validation and formatting library. 
 * [exldap](https://github.com/jmerriweather/exldap) - A module for working with LDAP from Elixir.
 * [exlibris](https://github.com/pragdave/exlibris) - A collection of random library functions.
 * [expool](https://github.com/whitfin/expool) - A small process pooling library for parallel tasks in Elixir.
@@ -1180,6 +1182,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [triplex](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications!
 * [triton](https://github.com/blitzstudios/triton) - Pure Elixir Cassandra ORM built on top of Xandra.
 * [udpflux](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
+* [unreal](https://github.com/cart96/unreal) - Unofficial SurrealDB driver for Elixir.
 * [xandra](https://github.com/lexhide/xandra) - Cassandra driver built natively in Elixir and focused on speed, simplicity, and robustness.
 * [yar](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
