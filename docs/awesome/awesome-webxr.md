@@ -115,12 +115,18 @@
 - [Godot](https://godotengine.org/) - A cross-platform, open-source engine with WebXR support as of version 3.2.4.
   - [Official Documentation](https://docs.godotengine.org/en/stable/classes/class_webxrinterface.html)
 
+- [Needle](https://needle.tools/) - An engine and exporter for Blender and Unity.
+  - [Official Documentation](https://engine.needle.tools/docs/)
+
 - [nunuStudio](https://www.nunustudio.org/) - A multiplatform, open-source engine built on three.js that can be used natively or in the browser.
   - [Official Documentation](https://www.nunustudio.org/docs/)
 
 - [PlayCanvas](https://playcanvas.com/) - A browser-based WebGL engine with support for WebXR content, mobile browsers, collaborative editing, and more.
   - [Official Documentation](https://developer.playcanvas.com/en/)
 
+- [Rogue Engine](https://rogueengine.io/) - An HTML5 Game Engine based on Three.js and TypeScript.
+  - [Official Documentation](https://rogueengine.io/docs/manual/getting-started/installation/) 
+  
 - [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
   - [WebXR Export](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
   - [SimpleWebXR](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
