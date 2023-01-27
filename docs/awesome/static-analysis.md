@@ -1535,6 +1535,9 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [Code Climate](https://codeclimate.com) — The open and extensible static analysis platform, for everyone.
 
+- [Codecov](https://about.codecov.io/) :copyright: — Codecov is a company that provides code coverage tools for developers and engineering leaders  to gain visibility into their code coverage.
+They offer flexible and unified reporting, seamless coverage insights, and robust coverage controls. Codecov supports over 20 languages and is CI/CD agnostic. Over 29,000 organizations and 1 million developers use Codecov. Codecov has recently joined Sentry.
+
 - [exakat](https://www.exakat.io) — An automated code reviewing engine for PHP.
 
 - [Goblint](https://goblint.in.tum.de) — A static analyzer for the analysis of multi-threaded C programs. Its primary focus is the  detection of data races, but it also reports other runtime errors, such as buffer overflows and null-pointer dereferences.

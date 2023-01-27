@@ -41,6 +41,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [OpenGameArt](http://opengameart.org/) - a media repository intended for use with free software game projects.
 - :moneybag: [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites
 - :money_with_wings: [PlainTextures](http://www.plaintextures.com/) - Free high resolution textures, brushes and photos
+- :free: [Pixelicious](https://www.pixelicious.xyz/) - Image-to-Pixel Art converter.
 - :free: [Poly Pizza](https://poly.pizza) - 6000+ free low poly models
 - :free: [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics.
 - :free: [Sketchfab](https://sketchfab.com/) - Publish & embed interactive 3D models.
@@ -159,6 +160,7 @@ _Set of game frameworks, engines and platforms_
 
 ### Engines and Frameworks
 
+- :tada: [6502 Unit Test executor](https://github.com/AsaiYusuke/6502_test_executor) - A cross-platform unit testing tool for MOS 6502 assembly. (i.e. NES)
 - :tada: [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers.
 - :tada: [Amethyst](https://www.amethyst.rs/) - Data-driven game engine written in Rust for 2D & 3D using `gfx-rs`.
 - :tada: [amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation. It runs on Windows, Mac, Linux, HTML5 and iOS.

@@ -86,6 +86,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [theiskaa.com](https://github.com/theiskaa/theiskaa.com) - A real world implementation of Yew framework. [Live at theiskaa.com](https://theiskaa.com).
 - [live-ask.com](https://github.com/liveask/liveask) - Realtime Event/Meetup Q&A Platform. [Live at live-ask.com](https://live-ask.com).
 - [Sumi](https://github.com/vgwidt/sumi) - Multi-user issue tracking and knowledge base app built with Yew & Actix.
+- [hurlurl](https://github.com/lucasmerlin/hurlurl) - A randomizing link shortener, [Live Demo](https://hurlurl.com/).
 
 ## Templates
 
@@ -116,6 +117,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [yew-components](https://github.com/angular-rust/yew-components) - Material Design Components for the Yew framework.
 - [yew-chart](https://github.com/titanclass/yew-chart) - A Yew-based charting library that provides SVG based components for rendering charts.
 - [tailyew](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
+- [yew-duskmoon-ui](https://github.com/gsmlg-dev/yew-duskmoon-ui) - Duskmoon UI Component Library. This package use `stylist` to embbed css in components, so no extra CSS file is needed. [Live Demo](https://gsmlg-dev.github.io/yew-duskmoon-ui/).
 
 ### Components
 
