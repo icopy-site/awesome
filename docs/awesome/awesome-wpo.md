@@ -17,7 +17,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 
 
-
 ## Articles
 
 > Go to [ARTICLES.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/ARTICLES.md).
@@ -61,10 +60,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) - A guide created by PageSpeed Team.
   Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is the latest and provides both real-world data from the Chrome User Experience Report and lab data from Lighthouse.
 - [Best Practices for Speeding Up Your site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
-
-## People
-
-> Go to [https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/PEOPLE.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/PEOPLE.md).
 
 ## Events
 
@@ -118,9 +113,9 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 - [Datadog APM](https://www.datadoghq.com/product/apm/) - End-to-end distributed tracing and APM at scale, correlated to all telemetry. 
 - [BetterUptime](https://betteruptime.com) - A good website monitoring tool (bundling status page, incident notification)
-- [Nodown](https://nodown.io) - Also, a monitoring tool, but that focuses on feature testing
 - [Pingdom](https://pingdom.com) - A tool to get the uptime of your website (with probes from different locations)
 - [UptimeRobot](https://uptimerobot.com) - Another uptime monitoring tool (with a generous free plan)
+- [RoboMiri](https://robomiri.com) - RoboMiri is a stable Uptime Monitor that offer a wide range of monitors: cronjob, keyword, website, port, ping. 25 uptime checks with a 3 minutes interval checks for free. Alerts via Phone Call, SMS, Email and Web Hook.
 
 ## Bundle Analyzer
 

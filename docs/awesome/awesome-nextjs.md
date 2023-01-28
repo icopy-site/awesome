@@ -141,6 +141,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [next-joi](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with _joi_.
 - [next-transpile-modules](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node_modules. Useful for monorepos.
 - [Destack for Next.js](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
+- [UseSIWE](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
 
 ## Apps
 
@@ -148,7 +149,6 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Feednext](https://github.com/feednext/feednext) - An open source social media application.
 - [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
 - [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
-- [Next News](https://github.com/now-examples/next-news) - HackerNews written in Next.js.
 - [Password](https://github.com/dotcypress/password) - One password, right way.
 - [Next Todos](https://github.com/lipp/next-todos) - Todo list written in Next.js.
 - [Hacker News](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.

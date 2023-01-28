@@ -9,14 +9,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 *Please read the [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) before contributing.*
 
----
-
-⭐ **Don't know where to start?** Check out **[Creative Coding course on Frontend Masters](https://frontendmasters.com/courses/canvas-webgl/)**. ⭐
-
-🌟 **Want to go deeper?** Check out **[Advanced Creative Coding with WebGL & Shaders on Frontend Masters](https://frontendmasters.com/courses/webgl-shaders/)**. 🌟
-
----
-
 
 
 ## Books
@@ -167,6 +159,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Oimo.js](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript
 - [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten
 - [Theatre.js](https://github.com/ariaminaei/theatre) - Motion design library with visual tools
+- [GraphicsJS](http://www.graphicsjs.org) - A lightweight open-source JavaScript library for graphics and animations (SVG/VML).
 
 ### Projection Mapping • VJing
 
@@ -545,10 +538,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
 - [Awesome creative technology](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
-
-## Special Thanks
-
-[<img src="https://static.frontendmasters.com/assets/fm/js/frontendmasters.478a4e60fe.svg" height="35">](https://frontendmasters.com)
 
 ## License
 
