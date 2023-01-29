@@ -308,6 +308,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [ClickHouse](https://github.com/ClickHouse/clickhouse-cpp) - C++ client for ClickHouse DBMS. [Apache2]
 * [hiberlite](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. [BSD]
 * [Hiredis](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database. [BSD]
+* [Kvrocks](https://github.com/apache/incubator-kvrocks) - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. [Apache2]
 * [LevelDB](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. [BSD]
 * [libpqxx](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL. [BSD-3-Clause]
 * [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics. [OpenLDAP]
@@ -1198,7 +1199,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
 * [c-algorithms](https://github.com/fragglet/c-algorithms) - C algorithms library.
-* [C++ Awesome Pack](https://github.com/juniandotnet/cpp-awesome-pack) - Contains some awesome c++ codes, packed in one.
 * [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 
 ## Other Awesome Lists

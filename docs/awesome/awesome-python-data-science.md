@@ -1,14 +1,14 @@
 <div class="github-widget" data-repo="krzjoa/awesome-python-data-science"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
-	<a href="https://krzjoa.github.io/awesome-python-data-science/"><img width="250" height="250" src="https://raw.githubusercontent.com/krzjoa/awesome-python-data-science/master/img/py-datascience.png" alt="pyds"></a>
-	<br>
-	<br>
-	<br>
+    <a href="https://krzjoa.github.io/awesome-python-data-science/"><img width="250" height="250" src="https://raw.githubusercontent.com/krzjoa/awesome-python-data-science/master/img/py-datascience.png" alt="pyds"></a>
+    <br>
+    <br>
+    <br>
 </div>
 
 <h1 align="center">
-	Awesome Python Data Science
+    Awesome Python Data Science
 </h1>
 <div align="center"><a href="https://github.com/sindresorhus/awesome">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" border="0">
@@ -16,18 +16,18 @@
 </div>
 </br>
 
-> Probably the best curated list of data science software in Python
+> Probably the best-curated list of data science software in Python
 
 
 ## Machine Learning
 
-### General Purpouse Machine Learning
+### General Purpose Machine Learning
 * [Shogun](http://www.shogun-toolbox.org/) - Machine learning toolbox.
 * [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package.
 * [mlpack](https://github.com/mlpack/mlpack) - A scalable C++ machine learning library (Python bindings).
-* [dlib](https://github.com/davisking/dlib) - Toolkit for making real world machine learning and data analysis applications in C++ (Python bindings).
+* [dlib](https://github.com/davisking/dlib) - Toolkit for making real-world machine learning and data analysis applications in C++ (Python bindings).
 * [pyGAM](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python.
-* [Karate Club](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph structured data.
+* [Karate Club](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph-structured data.
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 
 ### Automated Machine Learning
@@ -68,10 +68,10 @@
 
 ## Web Scraping
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): The easiest library to scrape static websites for beginners
-* [Scrapy](https://scrapy.org/): Fast and extensible scraping library. Can write rules and create customized scraper without touching the coure
+* [Scrapy](https://scrapy.org/): Fast and extensible scraping library. Can write rules and create customized scraper without touching the core
 * [Selenium](https://selenium-python.readthedocs.io/installation.html#introduction): Use Selenium Python API to access all functionalities of Selenium WebDriver in an intuitive way like a real user.
 * [Pattern](https://github.com/clips/pattern): High level scraping for well-establish websites such as Google, Twitter, and Wikipedia. Also has NLP, machine learning algorithms, and visualization
-* [twitterscraper](https://github.com/taspinar/twitterscraper): Efficient library to scrape twitter
+* [twitterscraper](https://github.com/taspinar/twitterscraper): Efficient library to scrape Twitter
 
 ## Data Manipulation
 
@@ -79,26 +79,27 @@
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - Powerful Python data analysis toolkit.
 * [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 * [xpandas](https://github.com/alan-turing-institute/xpandas) - Universal 1d/2d data containers with Transformers .functionality for data analysis by [The Alan Turing Institute](https://www.turing.ac.uk/).
-* [Arctic](https://github.com/manahl/arctic) - High performance datastore for time series and tick data.
-* [swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner.
-* [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - A package which allow to write your own flavor of Pandas easily.
-* [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - A package which allow to provide feedback about basic pandas operations and find both buisness logic and performance issues.
+* [Arctic](https://github.com/manahl/arctic) - High-performance datastore for time series and tick data.
+* [swifter](https://github.com/jmcarpenter2/swifter) - A package that efficiently applies any function to a pandas dataframe or series in the fastest available manner.
+* [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - A package that allows writing your own flavor of Pandas easily.
+* [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - A package that allows providing feedback about basic pandas operations and finds both business logic and performance issues.
 * [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second.
 * [xarray](https://github.com/pydata/xarray) - Xarray combines the best features of NumPy and pandas for multidimensional data selection by supplementing numerical axis labels with named dimensions for more intuitive, concise, and less error-prone indexing routines.
+* [polars](https://github.com/pola-rs/polars) - A fast multi-threaded, hybrid-out-of-core DataFrame library.
 
 
 ### Pipelines
 * [pdpipe](https://github.com/shaypal5/pdpipe) - Sasy pipelines for pandas DataFrames.
-* [SSPipe](https://sspipe.github.io/) - Python pipe (|) operator with support for DataFrames and Numpy and Pytorch.
+* [SSPipe](https://sspipe.github.io/) - Python pipe (|) operator with support for DataFrames and Numpy, and Pytorch.
 * [Dataset](https://github.com/analysiscenter/dataset) - Helps you conveniently work with random or sequential batches of your data and define data processing.
 * [meza](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - Build system for data science pipelines.
 * [Hamilton](https://github.com/stitchfix/hamilton) - A microframework for dataframe generation that applies Directed Acyclic Graphs specified by a flow of lazily evaluated Python functions.
 
 ### Data-centric AI
-* [cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. 
+* [cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 * [snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
-* [dataprep](https://github.com/sfu-db/dataprep) - Collect, clean and visualization your data in python with a few lines of code.
+* [dataprep](https://github.com/sfu-db/dataprep) - Collect, clean, and visualize your data in Python with a few lines of code.
 
 ### Synthetic Data
 
@@ -109,19 +110,19 @@
 * [Featuretools](https://github.com/Featuretools/featuretools) - Automated feature engineering.
 
 ### Feature Selection
-* [scikit-feature](https://github.com/jundongl/scikit-feature) - Feature selection repository in python.
+* [scikit-feature](https://github.com/jundongl/scikit-feature) - Feature selection repository in Python.
 
 ## Visualization
 ### General Purposes
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - Plotting with Python.
 * [seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib.
 * [prettyplotlib](https://github.com/olgabot/prettyplotlib) - Painlessly create beautiful matplotlib plots.
-* [python-ternary](https://github.com/marcharper/python-ternary) - Ternary plotting library for python with matplotlib.
+* [python-ternary](https://github.com/marcharper/python-ternary) - Ternary plotting library for Python with matplotlib.
 * [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python.
 * [chartify](https://github.com/spotify/chartify/) - Python library that makes it easy for data scientists to create charts.
 * [physt](https://github.com/janpipek/physt) - Improved histograms.
 ### Interactive plots
-* [animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
+* [animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
 * [plotly](https://plot.ly/python/) - A Python library that makes interactive and publication-quality graphs.
 * [Bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
 * [Altair](https://altair-viz.github.io/) - Declarative statistical visualization library for Python. Can easily do many data transformation within the code to create graph
@@ -139,15 +140,15 @@
 
 
 ## Deployment
-* [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), web framework for building APIs with Python
-* [streamlit](https://www.streamlit.io/) - Make it easy to deploy machine learning model
+* [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), a web framework for building APIs with Python
+* [streamlit](https://www.streamlit.io/) - Make it easy to deploy the machine learning model
 * [gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes.
 * [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
 * [binder](https://mybinder.org/) - Enable sharing and execute Jupyter Notebooks
 
 ## Model Explanation
 
-* [Shapley](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble. 
+* [Shapley](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
 * [Alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models.
 * [anchor](https://github.com/marcotcr/anchor) - Code for "High-Precision Model-Agnostic Explanations" paper.
 * [aequitas](https://github.com/dssg/aequitas) - Bias and Fairness Audit Toolkit.
@@ -162,11 +163,11 @@
 * [lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
 * [Netron](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).
 * [FlashLight](https://github.com/dlguys/flashlight) - Visualization Tool for your NeuralNetwork.
-* [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for pytorch (and chainer, mxnet, numpy, ...).
+* [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for PyTorch (and chainer, mxnet, numpy, ...).
 
 ## Reinforcement Learning
 * [OpenAI Gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
-* [Coach](https://github.com/NervanaSystems/coach) - Easy experimentation with state of the art Reinforcement Learning algorithms.
+* [Coach](https://github.com/NervanaSystems/coach) - Easy experimentation with state-of-the-art Reinforcement Learning algorithms.
 * [garage](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
 * [OpenAI Baselines](https://github.com/openai/baselines) - High-quality implementations of reinforcement learning algorithms.
 * [Stable Baselines](https://github.com/hill-a/stable-baselines) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
@@ -203,14 +204,14 @@
 * [POT](https://github.com/rflamary/POT) - Python Optimal Transport library.
 * [Talos](https://github.com/autonomio/talos) - Hyperparameter Optimization for Keras Models.
 * [nlopt](https://github.com/stevengj/nlopt) - Library for nonlinear optimization (global and local, constrained or unconstrained).
-* [OR-Tools](https://developers.google.com/optimization) - An open source software suite for optimization by Google; provides a unified programming interface to a half dozen solvers: SCIP, GLPK, GLOP, CP-SAT, CPLEX, and Gurobi.
+* [OR-Tools](https://developers.google.com/optimization) - An open-source software suite for optimization by Google; provides a unified programming interface to a half dozen solvers: SCIP, GLPK, GLOP, CP-SAT, CPLEX, and Gurobi.
 
 ## Time Series
 * [darts](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
-* [statsforecast](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models. 
-* [mlforecast](https://github.com/Nixtla/mlforecast) - Scalable machine learning based time series forecasting.
-* [neuralforecast](https://github.com/Nixtla/neuralforecast) - Scalable machine learning based time series forecasting.
-* [greykite](https://github.com/linkedin/greykite) - A flexible, intuitive and fast forecasting librarynext.
+* [statsforecast](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
+* [mlforecast](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
+* [neuralforecast](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
+* [greykite](https://github.com/linkedin/greykite) - A flexible, intuitive, and fast forecasting library next.
 * [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
 * [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
 * [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
@@ -224,7 +225,7 @@
 * [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkik.
 * [gensim](https://radimrehurek.com/gensim/) - Topic Modelling for Humans.
 * [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - Python binding for <a href="https://github.com/morfologik/morfologik-stemming">Morfologik</a>.
-* [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text to phonemes converter for multiple languages.
+* [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text-to-phonemes converter for multiple languages.
 * [flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP.
 * [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing.
 
@@ -232,9 +233,9 @@
 * [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
 * [Yaafe](https://github.com/Yaafe/Yaafe) - Audio features extraction.
 * [aubio](https://github.com/aubio/aubio) - A library for audio and music analysis.
-* [Essentia](https://github.com/MTG/essentia) - Library for audio and music analysis, description and synthesis.
+* [Essentia](https://github.com/MTG/essentia) - Library for audio and music analysis, description, and synthesis.
 * [LibXtract](https://github.com/jamiebullock/LibXtract) - A simple, portable, lightweight library of audio feature extraction functions.
-* [Marsyas](https://github.com/marsyas/marsyas) - Music Analysis, Retrieval and Synthesis for Audio Signals.
+* [Marsyas](https://github.com/marsyas/marsyas) - Music Analysis, Retrieval, and Synthesis for Audio Signals.
 * [muda](https://github.com/bmcfee/muda) - A library for augmenting annotated audio data.
 * [madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library.
 
@@ -244,7 +245,7 @@
 * [imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
 * [imgaug_extension](https://github.com/cadenai/imgaug_extension) - Additional augmentations for imgaug.
 * [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning.
-* [albumentations](https://github.com/albu/albumentations) - Fast image augmentation library and easy to use wrapper around other libraries.
+* [albumentations](https://github.com/albu/albumentations) - Fast image augmentation library and easy-to-use wrapper around other libraries.
 
 ## Statistics
 * [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
@@ -262,21 +263,21 @@
 
 ## Experimentation
 * [mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle.
-* [Neptune](https://neptune.ai) - A lightweight ML experiment tracking, results visualization and management tool.
+* [Neptune](https://neptune.ai) - A lightweight ML experiment tracking, results visualization, and management tool.
 * [dvc](https://github.com/iterative/dvc) - Data Version Control | Git for Data & Models | ML Experiments Management.
 * [envd](https://github.com/tensorchord/envd) - 🏕️ machine learning development environment for data science and AI/ML engineering teams.
-* [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log and reproduce experiments.
+* [Sacred](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log, and reproduce experiments.
 
 ## Data Validation
 * [great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-* [pandera](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library.
+* [pandera](https://github.com/unionai-oss/pandera) - A lightweight, flexible, and expressive statistical data testing library.
 * [evidently](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
 * [TensorFlow Data Validation](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
 
 ## Evaluation
 * [recmetrics](https://github.com/statisticianinstilettos/recmetrics) - Library of useful metrics and plots for evaluating recommender systems.
 * [Metrics](https://github.com/benhamner/Metrics) - Machine learning evaluation metric.
-* [AI Fairness 360](https://github.com/IBM/AIF360) - Fairness metrics for datasets and ML models, explanations and algorithms to mitigate bias in datasets and models.
+* [AI Fairness 360](https://github.com/IBM/AIF360) - Fairness metrics for datasets and ML models, explanations, and algorithms to mitigate bias in datasets and models.
 
 ## Computations
 * [numpy](http://www.numpy.org/) - The fundamental package needed for scientific computing with Python.
@@ -293,12 +294,12 @@
 
 ## Quantum Computing
 * [qiskit](https://github.com/krzjoa/awesome-python-data-science/blob/master/Qiskit/qiskit) - Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.
-* [cirq](https://github.com/quantumlib/Cirq) - A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits. 
+* [cirq](https://github.com/quantumlib/Cirq) - A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 * [PennyLane](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 * [QML](https://github.com/qmlcode/qml) - A Python Toolkit for Quantum Machine Learning.
 
 ## Conversion
-* [sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators to C, Java, JavaScript and others.
+* [sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators to C, Java, JavaScript, and others.
 * [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange.
 * [MMdnn](https://github.com/Microsoft/MMdnn) -  A set of tools to help users inter-operate among different deep learning frameworks.
 
@@ -313,6 +314,6 @@ Read the <a href=https://github.com/krzjoa/awesome-python-datascience/blob/maste
 This work is licensed under the Creative Commons Attribution 4.0 International License - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 <div align="center">
-	<a href="other/deprecated.md">Deprecated Libs</a>&nbsp;&nbsp;&nbsp;
-	<a href="other/waiting-room.md">Waiting Room</a>&nbsp;&nbsp;&nbsp;
+    <a href="other/deprecated.md">Deprecated Libs</a>&nbsp;&nbsp;&nbsp;
+    <a href="other/waiting-room.md">Waiting Room</a>&nbsp;&nbsp;&nbsp;
 <div>
