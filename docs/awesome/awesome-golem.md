@@ -76,7 +76,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Golem Auto Editor](https://github.com/jedbrooke/golem-auto-editor) - Run Auto-Editor to automatically perform some video editing functions, offload the video processing to Golem.
 
 ### Data Analysis
-
+- [Coacervate](https://github.com/pryce-turner/coacervate/) - Coacervate is a free and open-source public good that lets you easily run genomic analyses on an extremely low-cost global supercomputer; democratizing access to the knowledge and infrastructure required to carry out groundbreaking research.
 - [Flan](https://github.com/nestorbonilla/flan) - Tool for entrepreneurs that provide customized analysis of millions of worldwide trade value records giving them a bold guideline about what sectors they would need to take more attention to.
 - [Golem Lorenz-attractor](https://github.com/hhio618/golem-lorenz-attractor) - A system of three coupled, first-order, nonlinear differential equations which describe the trajectory of a particle through time.
 - [Golem Geomandel](https://github.com/Edhendil/golem-geomandel) - Python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image.
