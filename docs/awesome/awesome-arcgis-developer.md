@@ -85,7 +85,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) - A collection of resources for developers using the ArcGIS API for JavaScript.
 - [Esri/pyprt-examples](https://github.com/Esri/pyprt-examples) - Example for PyPRT (Python Bindings for the CityEngine SDK).
 - [esri-loader Examples](https://github.com/Esri/esri-loader#examples) - Examples of how to use the ArcGIS API for JavaScript via esri-loader in applications built with React, Angular, Vue, and other frameworks.
-- [EsriDevSummit](https://github.com/esridevsummit/) - Supplemental source code, example projects, and resources supporting DevSummit technical sessions.
+- [EsriDevEvents](https://github.com/esridevevents) - Supplemental source code, example projects, and resources supporting Esri Developer Summits, Developer Day at Esri UC, FedGIS, #GeoDev webinars, meetups, etc.
 - [esrinederland/CoolMaps](https://github.com/esrinederland/CoolMaps) - Shows cool example maps you can use.
 - [esrinederland/CoolScripts](https://github.com/esrinederland/CoolScripts) - Esri Netherlands scripts and snippets for reuse.
 - [RalucaNicola/code-snippets-arcgis-api-js](https://github.com/RalucaNicola/code-snippets-arcgis-api-js) - A collection of code snippets for ArcGIS API for JavaScript.
