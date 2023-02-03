@@ -42,14 +42,18 @@
 - [expect-playwright](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
 - [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 - [Moon](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+- [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.
 - [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - Official Playwright test extension for VS Code.
 - [Maestro for IntelliJ](https://plugins.jetbrains.com/plugin/18100-maestro) - Playwright plugin for IntelliJ.
+- [playwright-elements](https://www.npmjs.com/package/playwright-elements) - Playwright test extension for more powerful page object implementation.
+
 
 ## Reporters
 
 - [playwright-tesults-reporter](https://github.com/tesults/playwright-tesults-reporter) - A library for uploading test results to Tesults from Playwright.
 - [monocart-reporter](https://github.com/cenfun/monocart-reporter) - A playwright test reporter, shows suites/cases/steps in html grid.
 - [allure-playwright](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure integration with Playwright Test framework.
+- [playwright-xray](https://github.com/inluxc/playwright-xray) - Playwright Xray Reporter, send test executions to Jira / Xray
 
 ## Showcases
 
