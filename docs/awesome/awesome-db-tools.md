@@ -85,8 +85,8 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [ipython-sql](https://github.com/catherinedevlin/ipython-sql) - Connect to a database for issue SQL commands within IPython or IPython Notebook.
 - [iredis](https://github.com/laixintao/iredis) - A Cli for Redis with AutoCompletion and Syntax Highlighting.
 - [pgcenter](https://github.com/lesovsky/pgcenter) - Top-like admin tool for PostgreSQL.
-- [pg_activity](https://github.com/julmon/pg_activity) - Top like application for PostgreSQL server activity monitoring.
-- [pg_top](https://github.com/markwkm/pg_top) - 'top' for PostgreSQL.
+- [pg_activity](https://github.com/julmon/pg_activity) - Top-like application for PostgreSQL server activity monitoring.
+- [pg_top](https://github.com/markwkm/pg_top) - Top for PostgreSQL.
 - [pspg](https://github.com/okbob/pspg) - Postgres Pager.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer Command Line (SQLcl) is a free command line interface for Oracle Database.
 - [sqlite-utils](https://github.com/simonw/sqlite-utils) - CLI tools for manipulating SQLite database files - inserting data, running queries, creating indexes, configuring full-text search and more.
@@ -173,6 +173,7 @@ Building API for your Data
 Low-code and no-code platforms for application building
 - [Appsmith](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
 - [Budibase](https://github.com/Budibase/budibase) - Low-code platform for creating internal apps in minutes.
+- [ILLA Cloud](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
 - [Nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [Saltcorn](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
 - [Tooljet](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.

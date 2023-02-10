@@ -527,7 +527,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [forbidden-apis](https://github.com/policeman-tools/forbidden-apis) — Detects and forbids invocations of specific method/class/field (like reading from a text stream without a charset). Maven/Gradle/Ant compatible.
 
-- [google-java-format](https://github.com/google/google-java-format) — Google Style Reformat.
+- [google-java-format](https://github.com/google/google-java-format) — Reformats Java source code to comply with Google Java Style
 
 - [HuntBugs](https://github.com/amaembo/huntbugs) :warning: — Bytecode static analyzer tool based on Procyon Compiler Tools aimed to supersede FindBugs.
 
