@@ -460,6 +460,7 @@
 - [Quantum Computing](awesome/awesome-quantum-computing.md) - Computing which utilizes quantum mechanics and qubits on quantum computers.
 - [Theoretical Computer Science](awesome/awesome-theoretical-computer-science.md) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 - [Conversational AI](awesome/awesome-conversational-ai.md) - Build awesome chatbots and digital assistants.
+- [Generative AI](awesome/awesome-generative-ai.md) - Automatically generate a wide range of unique content in text, image and audio format.
 
 ## Big Data
 
@@ -731,6 +732,7 @@
 - [Humane Technology](awesome/awesome-humane-tech.md) - Open source projects that help improve society.
 - [Mental Health](awesome/awesome-mental-health.md) - Mental health awareness and self-care in the software industry.
 - [Neuroscience](awesome/awesome-neuroscience.md) - Study of the nervous system and brain.
+- [Digital Humanities](awesome/awesome-digital-humanities.md) - Software for humanities scholars using quantitative or computational methods.
 
 ## Events
 
