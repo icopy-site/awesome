@@ -720,6 +720,7 @@
 - [Golem](awesome/awesome-golem.md) - Open source peer-to-peer marketplace for computing resources.
 - [Stacks](awesome/awesome-stacks-chain.md) - A smart contract platform secured by Bitcoin.
 - [Algorand](awesome/awesome-algorand.md) - An open-source, proof of stake blockchain and smart contract computing platform.
+- [ZeroNet](awesome/awesome-zeronet.md) - A decentralized web-like network of peer-to-peer users.
 
 ## Health and Social Science
 

@@ -630,6 +630,7 @@ _Libraries for building and using SQL._
 
 - [cayley](https://github.com/google/cayley) - Graph database with support for multiple backends.
 - [dsc](https://github.com/viant/dsc) - Datastore connectivity for SQL, NoSQL, structured files.
+- [go-transaction-manager](https://github.com/avito-tech/go-transaction-manager) - Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries.
 - [gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more).
 
 ### Relational Database Drivers
@@ -3030,6 +3031,7 @@ _Where to discover new Go libraries._
 - [For the Love of Go](https://bitfieldconsulting.com/books/love) - An introductory book for Go beginners.
 - [Go Faster](https://leanpub.com/gofaster) - This book seeks to shorten your learning curve and help you become a proficient Go programmer, faster.
 - [Know Go: Generics](https://bitfieldconsulting.com/books/generics) - A guide to understanding and using generics in Go.
+- [Lets-Go](https://lets-go.alexedwards.net) - A step-by-step guide to creating fast, secure and maintanable web applications with Go.
 - [The Power of Go: Tests](https://bitfieldconsulting.com/books/tests) - A guide to testing in Go.
 - [The Power of Go: Tools](https://bitfieldconsulting.com/books/tools) - A guide to writing command-line tools in Go.
 - [Writing A Compiler In Go](https://compilerbook.com)
