@@ -971,6 +971,7 @@ _Everything related to the creation and handling of random data._
 - [Beanmother](https://github.com/keepcosmos/beanmother) - Sets up beans from YAML fixtures.
 - [Fixture Factory](https://github.com/six2six/fixture-factory) - Generates fake objects from a template.
 - [jFairy](https://github.com/Devskiller/jfairy) - Fake data generator.
+- [Instancio](https://github.com/instancio/instancio) - Automates data setup in unit tests by generating fully-populated, reproducible objects. Includes JUnit 5 extension.
 - [Randomized Testing](https://github.com/randomizedtesting/randomizedtesting) - JUnit test runner and plugins for running JUnit tests with pseudo-randomness.
 - [Java Faker](https://github.com/DiUS/java-faker) - Port of Ruby's fake data generator.
 - [Mockneat](https://github.com/nomemory/mockneat) - Another fake data generator.
@@ -996,6 +997,7 @@ _Libraries that provide custom matchers._
 - [AssertJ](https://joel-costigliola.github.io/assertj/) - Fluent assertions that improve readability.
 - [Hamcrest](http://hamcrest.org/JavaHamcrest/) - Matchers that can be combined to create flexible expressions of intent.
 - [JSONAssert](http://jsonassert.skyscreamer.org) - Simplifies testing JSON strings.
+- [JsonUnit](https://github.com/lukas-krecan/JsonUnit) - Library that simplifies JSON comparison in tests.
 - [Truth](https://truth.dev) - Google's fluent assertion and proposition framework.
 - [XMLUnit](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
 
