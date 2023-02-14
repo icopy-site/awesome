@@ -46,6 +46,7 @@ Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and 
  * [Project Monarch Health](https://www.monarchparasites.org/) - A citizen science project running since 2006 to test adult monarch butterflies from the U.S. and Canada for the protozoan parasite _Ophryocystis elektroscirrha_. Participants submit spore samples collected from adult abdomems with tape for laboratory assessment at University of Georgia. 
 
 ## Reporting Systems 
+* [EMPRES-i+ Global Animal Disease Information System](https://empres-i.apps.fao.org/) - A web platform maintained by FAO that provides geolocated data on animal diseases such as rabies, foot-and-mouth disease, or MERS coronavirus. This is a tracking service in which countries and veterinarians can opt-in to reporting.  
 * [Healthmap](https://www.healthmap.org/en/) - A web platform that provides infectious disease outbreak alerts for humans and animals.
 * [NORS](https://wwwn.cdc.gov/norsdashboard/) - A web platform that provides human foodborne, waterborne, and other enteric infectious disease outbreaks  for the United States. Available from 1971. 
 * [Program for Monitoring Emerging Diseases (ProMed)](http://www.promedmail.org/) - An early warning of outbreaks of emerging and re-emerging diseases. Sources of information include media reports, official reports, online summaries, local observers, and others. [EIDR-Connect](https://eidr-connect.eha.io/events/auto) parses ProMed reports into disease outbreak events, curated by disease experts. 

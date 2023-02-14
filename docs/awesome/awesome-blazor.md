@@ -13,6 +13,13 @@ If you need to search on this list you can try this great website: [Awesome Blaz
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
 
+## .NET Community Standup - Blazor United in .NET 8 (February 14, 2023).
+[<img src="https://pbs.twimg.com/media/Fo4GbRnacAAyTEh?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/en-us/live)
+- The Blazor team shares early thoughts on Blazor United in .NET 8, an effort to create a single unified model for all your web UI scenarios that combines the best of Razor Pages, Blazor Server, and Blazor WebAssembly.
+- With Steve Sanderson, Dan Roth, Mackinnon Buck, Javier Calvarro Nelson, Jon Galloway.
+- 10:00 AM Pacific | 18:00 UTC
+- [live.dot.net](https://live.dot.net)
+
 ## Introduction
 
 ### What is Blazor?
