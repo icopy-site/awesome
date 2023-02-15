@@ -6,22 +6,20 @@
 
 A curated list of awesome <a href='https://hydrogen.shopify.dev/'>Hydrogen</a> things.
 
-Hydrogen is a React-based framework for building dynamic, Shopify-powered custom storefronts.
+Hydrogen is Shopify’s stack for headless commerce. It provides a set of tools, utilities, and best-in-class examples for building dynamic and performant commerce applications. Hydrogen is designed to dovetail with Remix, Shopify’s full stack web framework, but it also provides a React library portable to other supporting frameworks.
 
 
 
 ## Official Resources
 
-- [Hydrogen framework docs](https://shopify.dev/custom-storefronts/hydrogen/framework)
-- [Hydrogen reference](https://shopify.dev/api/hydrogen)
+- [Hydrogen docs](https://shopify.dev/docs/custom-storefronts/hydrogen)
+- [Hydrogen API reference](https://shopify.dev/docs/api/hydrogen)
 - [GitHub](https://github.com/Shopify/hydrogen)
 
 ## Getting Started
 
-- [Quickstart](https://shopify.dev/custom-storefronts/hydrogen/getting-started/quickstart) - Create a Hydrogen app locally.
-- [Tutorial](https://shopify.dev/custom-storefronts/hydrogen/getting-started/tutorial) - From "Hello World" to a fully built out Shopify custom storefront.
-- [Experiment on StackBlitz - Demo Store](https://hydrogen.new) - A complete Hydrogen storefront template on StackBlitz.
-- [Experiment on StackBlitz - Hello World](https://stackblitz.com/fork/github/shopify/hydrogen/tree/stackblitz/templates/hello-world-js) - A minimal template on StackBlitz.
+- [Quickstart](https://shopify.dev/docs/custom-storefronts/hydrogen/getting-started/quickstart) - Create a Hydrogen app locally.
+- [Tutorial](https://shopify.dev/docs/custom-storefronts/hydrogen/building) - From "Hello World" to a fully built out Shopify custom storefront.
 
 ## Tools
 
@@ -29,21 +27,8 @@ Hydrogen is a React-based framework for building dynamic, Shopify-powered custom
 
 ## Community
 
-- [Discord](https://discord.gg/ppSbThrFaS)
+- [Discord](https://discord.gg/shopifydevs)
 - [GitHub Discussions](https://github.com/Shopify/hydrogen/discussions)
-
-## Examples
-
-- [API routes](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/api-routes)
-- [CSS modules](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/css-modules)
-- [Google Analytics](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/google-analytics)
-- [Meta Pixel](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/meta-pixel)
-- [Rust](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/rust)
-- [TypeScript](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/typescript)
-- [Sanity](https://github.com/Shopify/hydrogen/tree/v1.x-2022-07/examples/sanity)
-- [Klaviyo](https://github.com/klaviyo-labs/klaviyo-shopify-hydrogen-example)
-- [Okendo](https://github.com/okendo/okendo-shopify-hydrogen-demo)
-- [Builder.io](https://github.com/BuilderIO/builder-shopify-hydrogen)
 
 ## Apps & Integrations
 
