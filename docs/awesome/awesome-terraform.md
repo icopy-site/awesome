@@ -8,10 +8,6 @@
 
 Terraform enables you to safely and predictably create, change, and improve production infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
-Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://scalr.com/?utm_source=awesome-terraform)
-
-<a href="https://www.scalr.com/?utm_source=awesome-terraform" target="_blank"><img src="https://bit.ly/2VPBJDv" alt="Scalr - Terraform Automation & Collaboration Software" width="175" height="40" /></a>
-
 
 
 ## Legend
@@ -180,6 +176,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [anthology](https://github.com/erikvanbrakel/anthology) - Private Terraform registry implementation as an alternative to the official registry.
 - [citizen](https://github.com/outsideris/citizen) - Private Terraform Module Registry
 - [modulehub](https://www.modulehub.io) - Private Terraform Module Registry and State backend.
+- [tapir](https://github.com/PacoVK/tapir) - Modular Private Terraform Registry platform with provider and modules support. Provides powerful UI generates security metrics, dependency visualization and autogenerates documentation.
 - [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - Simple implementation of the Terraform registry protocols.
 - [terraform-registry](https://github.com/philips-labs/terraform-registry) - Serve terraform provider registry backed by GitHub releases.
 - [terrareg](https://github.com/matthewjohn/terrareg) - Private Terraform module registry with UI and git-backed indexing/import

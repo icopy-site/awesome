@@ -12,7 +12,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 ## Contributing
 
-Contributing is greatly welcomed! Please read the [Contribution Guidelines](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/Contributing.md) before taking any action.
+Contributions are greatly welcomed! Please read the [Contribution Guidelines](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/Contributing.md) before taking any action.
 
 
 <span id = "c"></span>

@@ -81,6 +81,7 @@ Different environments (platforms, browsers, versions) have different capabiliti
 * [Device Bugs & Quirks](https://github.com/scottjehl/Device-Bugs) - Crowd sourced collection of weird HTML, CSS, and JS quirks in mobile devices, which you won't find in the other support tables.
 * [Can I Email?](https://www.caniemail.com/) - Support tables for HTML and CSS in emails. Inspired by [Can I use](http://caniuse.com/).
 * [Project Fugu API tracker](https://fugu-tracker.web.app/) - Browser support status overview of web API's filling the "app gap".
+* [iOS PWA Compatibility](https://firt.dev/notes/pwa-ios/) - Support table for PWA features including service worker, manifest, background sync and push notifications (Unofficial, maintained by Maximiliano Firtman).
 
 
 ## Testing Methods
