@@ -18,9 +18,9 @@ Electron is an open-source framework for creating desktop apps using web technol
 	<sub>Check out my latest app</sub>
 	<br>
 	<h2>
-		<a href="https://www.producthunt.com/posts/any-text">Any Text</a>
+		<a href="https://www.producthunt.com/posts/today-14">Today</a>
 		<br>
-		<sup>Put any text on your iPhone's Lock Screen</sup>
+		<sup>Quickly view your schedule in the macOS menu bar</sup>
 	</h2>
 </div>
 <br>
