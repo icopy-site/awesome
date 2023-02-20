@@ -14,7 +14,8 @@
 
 *Impressive and notable WebXR projects.*
 
-- [Hello WebXR](https://mixedreality.mozilla.org/hello-webxr/) - Made to commemorate the release of the WebXR 1.0 API, showcases some of what's possible with WebXR.
+- [Hello WebXR](https://msub2.github.io/hello-webxr/) - Made to commemorate the release of the WebXR 1.0 API, showcases some of what's possible with WebXR.
+  - This links to a mirror of the experience on my own fork, as it is no longer accessible at its original domain.
 - [Moonrider](https://moonrider.xyz/) - A rhythm game built by Supermedium similar to Beat Saber.
 - [Plockle](https://plockle.com/) - A spatial block puzzle game with over 40 levels.
 - [Castle Builder](https://castle.needle.tools/) - A collaborative and cross-platform castle-building game utilizing a unique Unity-to-three.js pipeline.

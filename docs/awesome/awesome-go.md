@@ -138,6 +138,7 @@ _Tools for building blockchains._
 
 _Libraries for building and working with bots._
 
+- [bot](https://github.com/go-telegram/bot) - Zero-dependencies Telegram Bot library with additional UI components
 - [echotron](https://github.com/NicoNex/echotron) - An elegant and concurrent library for Telegram Bots in Go.
 - [ephemeral-roles](https://github.com/ewohltman/ephemeral-roles) - A Discord bot for managing ephemeral roles based upon voice channel member presence.
 - [go-chat-bot](https://github.com/go-chat-bot/bot) - IRC, Slack & Telegram bot written in Go.
@@ -179,6 +180,7 @@ _Libraries and tools help with build automation._
 - [realize](https://github.com/tockins/realize) - Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths.
 - [Task](https://github.com/go-task/task) - simple "Make" alternative.
 - [taskctl](https://github.com/taskctl/taskctl) - Concurrent task runner.
+- [xc](https://github.com/joerdav/xc) - Task runner with README.md defined tasks, executable markdown.
 
 
 ## Command Line
@@ -586,6 +588,7 @@ _Data stores with expiring records, in-memory distributed data stores, or in-mem
 - [hasql](https://golang.yandex/hasql) - Library for accessing multi-host SQL database installations.
 - [kingshard](https://github.com/flike/kingshard) - kingshard is a high performance proxy for MySQL powered by Golang.
 - [octillery](https://github.com/knocknote/octillery) - Go package for sharding databases ( Supports every ORM or raw SQL ).
+- [onedump](https://github.com/liweiyi88/onedump) - Database backup from different drivers to different destinations with one command and configuration.
 - [orchestrator](https://github.com/github/orchestrator) - MySQL replication topology manager & visualizer.
 - [pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) - Advanced scheduling for PostgreSQL.
 - [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser.
@@ -860,6 +863,7 @@ _Libraries for handling errors._
 - [errorx](https://github.com/joomcode/errorx) - A feature rich error package with stack traces, composition of errors and more.
 - [exception](https://github.com/rbrahul/exception) - A simple utility package for exception handling with try-catch in Golang.
 - [Falcon](https://github.com/SonicRoshan/falcon) - A Simple Yet Highly Powerful Package For Error Handling.
+- [Fault](https://github.com/Southclaws/fault) - An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.
 - [go-multierror](https://github.com/hashicorp/go-multierror) - Go (golang) package for representing a list of errors as a single error.
 - [tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
 
@@ -1892,6 +1896,7 @@ _Libraries that are used to help make your application more secure._
 - [argon2pw](https://github.com/raja/argon2pw) - Argon2 password hash generation with constant-time password comparison.
 - [autocert](https://godoc.org/golang.org/x/crypto/acme/autocert) - Auto provision Let's Encrypt certificates and start a TLS server.
 - [BadActor](https://github.com/jaredfolkins/badactor) - In-memory, application-driven jailer built in the spirit of fail2ban.
+- [booster](https://github.com/anatol/booster) - Fast initramfs generator with full-disk encryption support.
 - [Cameradar](https://github.com/Ullaakut/cameradar) - Tool and library to remotely hack RTSP streams from surveillance cameras.
 - [certificates](https://github.com/mvmaasakkers/certificates) - An opinionated tool for generating tls certificates.
 - [CertMagic](https://github.com/caddyserver/certmagic) - Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal.
@@ -3034,6 +3039,7 @@ _Where to discover new Go libraries._
 - [Go Faster](https://leanpub.com/gofaster) - This book seeks to shorten your learning curve and help you become a proficient Go programmer, faster.
 - [Know Go: Generics](https://bitfieldconsulting.com/books/generics) - A guide to understanding and using generics in Go.
 - [Lets-Go](https://lets-go.alexedwards.net) - A step-by-step guide to creating fast, secure and maintanable web applications with Go.
+- [Lets-Go-Further](https://lets-go-further.alexedwards.net) - Advanced patterns for building APIs and web applications in Go.
 - [The Power of Go: Tests](https://bitfieldconsulting.com/books/tests) - A guide to testing in Go.
 - [The Power of Go: Tools](https://bitfieldconsulting.com/books/tools) - A guide to writing command-line tools in Go.
 - [Writing A Compiler In Go](https://compilerbook.com)

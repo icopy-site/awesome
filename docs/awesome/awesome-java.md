@@ -39,6 +39,7 @@ _Libraries to manipulate bytecode programmatically._
 - [Byteman](https://byteman.jboss.org) - Manipulate bytecode at runtime via DSL (rules); mainly for testing/troubleshooting. (LGPL-2.1-or-later)
 - [cglib](https://github.com/cglib/cglib) - Bytecode generation library.
 - [Javassist](https://github.com/jboss-javassist/javassist) - Tries to simplify bytecode editing.
+- [Maker](https://github.com/cojen/maker) - Provides low level bytecode generation.
 - [Mixin](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
 - [Perses](https://github.com/nicolasmanic/perses) - Dynamically injects failure/latency at the bytecode level according to principles of chaos engineering.
 - [Recaf](https://www.coley.software/Recaf/) - JVM reverse engineering toolkit, essentially an IDE for Java bytecode.
@@ -951,6 +952,7 @@ _Tools that simplify testing asynchronous services._
 - [Hoverfly Java](https://github.com/SpectoLabs/hoverfly-java) - Native bindings for Hoverfly, a proxy which allows you to simulate HTTP services.
 - [Karate](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
 - [REST Assured](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
+- [WebTau](https://github.com/testingisdocumenting/webtau) - Test across REST-API, Graph QL, Browser, Database, CLI and Business Logic with consistent set of matchers and concepts.
 
 #### BDD
 

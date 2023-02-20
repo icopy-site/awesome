@@ -96,6 +96,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [PaaS to AKS](https://github.com/robhabraken/paas-to-aks) - Boilerplate project for deploying Sitecore 10.0.* to Azure AKS coming from an Azure PaaS architecture for Sitecore. That includes ARM templates for External Data Services, required to run Sitecore k8s in production and scripts to support a full Infrastructure-as-Code setup for Sitecore on AKS.
 - [Sitecore Deployment on Kubernetes Example](https://github.com/georgechang/sitecore-k8s) - An example of a Sitecore 10.1 XP0 deployment onto AKS with SolrCloud. It should deploy: 1)Sitecore 10.1 XP0; 2)Microsoft SQL Server 2019; 3)Zookeeper 3.4 (3 replicas); 4)Solr 8.4 (3 replicas)
 - [Sitecore Module Docker Asset Image Creator](https://github.com/KayeeNL/sitecore-module-docker-asset-image-creator) - A script to handle the auto creation of a Docker Asset Image for a given Sitecore module
+- [Test Sitecore Packages](https://github.com/michaellwest/test-sitecore-packages) - Provides a way to quickly and conveniently install packages as part of a docker image build or after startup of your containers. Useful for module developers or teams that need to verify build artifacts work in a vanilla instance of XM. Supports XM, SPE, SXA, and any custom module zip/scwdp or generic zip files.
 
 
 - [Sitecore Content Hub Importer](https://github.com/vasiliyfomichev/content-hub-importer) - Sitecore Content Hub Asset Importer; allows importing image assets from various data sources into Sitecore Content Hub.
@@ -337,6 +338,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Security Rights Reporting](https://github.com/jbluemink/Sitecore-Security-Rights-Reporting) - A module showing a grid with all users and all their rights in a friendly way with exporting options.
 - [Sitecore Delete Access Rights](https://github.com/mikaelnet/sitecore-access-rights) - Enables the "item:removeVersion" access right, allowing authors to remove individual item versions without allowing authors to delete the entire item. It also allows the initial creator of an item to delete his/her own item, unless an explicit deny delete access right is applied to the item.
 - [ASP.NET 2.0 Membership Database as Identity Server User Store](https://github.com/Sitecore/sitecore-identityserver-contrib-membership) - Validate user logins and passwords against an existing ASP.NET 2.0 membership database containing user data for existing systems.
+- [Certz](https://github.com/michaellwest/certz) - Utility built on .net 7 and compiled to a self-contained exe, aimed to simplify certificates management, as a better alternative to mkcert.
 
 ## SEO
 
