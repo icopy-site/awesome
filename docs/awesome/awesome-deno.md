@@ -25,6 +25,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Online Playgrounds
 
+- [Deno Starter in Codesandbox](https://codesandbox.io/s/y56n2)
 - [myCompiler.io](https://www.mycompiler.io/new/deno)
 - [Repl.it](https://repl.it/languages/deno)
 
@@ -59,6 +60,7 @@ This list is a collection of the best Deno modules and resources.
 - [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) - A dead simple persistant key-value database utilizing the JSON format.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
+- [nessie](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 - [postgres](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
 - [r2d2](https://github.com/iuioiua/r2d2) - Fast, lightweight Redis client library for Deno.
 - [redis](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
@@ -103,6 +105,10 @@ This list is a collection of the best Deno modules and resources.
 ### Math
 - [neo](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
 
+### Static site generator
+- [lume](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
+- [pagic](https://github.com/xcatliu/pagic) - The easiest way to generate static html page from markdown, built with Deno.
+
 ### String utils
 - [camelcase](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 - [deno_case_style](https://github.com/zekth/deno_case_style) - String validator and formater for different case style. eg: camelCase etc.
@@ -137,6 +143,7 @@ This list is a collection of the best Deno modules and resources.
 - [tepi](https://deno.land/x/tepi) - A .http Test Runner
 - [tincan](https://github.com/gcaptn/tincan) - A Jest-like testing library for Deno.
 - [unexpected](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
+- [unitest](https://github.com/TomokiMiyauci/unitest) - Deno-first universal unit testing framework.
 
 ### Utils
 - [bettermap](https://github.com/retraigo/bettermap) - A TypeScript extension of the JavaScript Map with Array-like features.
@@ -210,14 +217,11 @@ This list is a collection of the best Deno modules and resources.
 - [aqua](https://github.com/l2ig/aqua) - A minimal and fast web framework for Deno.
 - [danet](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 - [deno-express](https://github.com/NMathar/deno-express) - Node Express ported to Deno.
-- [denotrain](https://github.com/Caesar2011/denotrain) - All-in-One web framework like express or fastify for Node.js with middleware support.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
-- [doa](https://github.com/johannlai/doa) - A middleware framework for Deno's http serve🦕. Transplanted from Koa with ❤️
 - [drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
 - [fast](https://github.com/danteissaias/fast) - Small web framework with near-native performance.
 - [faster](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
 - [hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
-- [microraptor](https://github.com/matteocrippa/microraptor) - Lightweight framework for easy network routing with validation.
 - [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
   - [oak-http-proxy](https://github.com/asos-craigmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
 - [opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
@@ -292,9 +296,7 @@ This list is a collection of the best Deno modules and resources.
 - [denoversion](https://github.com/lucascaro/denoversion) - SemVer and git version management for Deno.
 - [denox](https://github.com/BentoumiTech/denox) - Like packages.json scripts, but for Deno with permissions support.
 - [deno.mk](https://github.com/MarkTiedemann/deno.mk) - Cross-platform Makefile for installing and running Deno.
-- maxmcd's [deno-docker](https://github.com/maxmcd/deno-docker) A docker image.
-- hayd's [deno-docker](https://github.com/hayd/deno-docker) Several docker images.
-- [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - Leverage the typedef and intellisense built into vscode using this extension.
+- [deno_docker](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu.
 - [dev_server](https://github.com/zhmushan/dev_server) - Let TypeScript files be used directly in the script tag.
 - [dmm](https://github.com/drashland/dmm) - Lightweight Deno Module Manager
 - [dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
@@ -306,14 +308,9 @@ This list is a collection of the best Deno modules and resources.
   - [axetroy/dvm](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
   - [dvm.cmd](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows. Written as a single batch file.
   - [ghosind/dvm](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
-- [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 - [kopo-cli](https://github.com/littletof/kopo-cli) - A Deno registry browser in the terminal.
-- [lume](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
 - [make-deno-edition](https://github.com/bevry/make-deno-edition) - Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.
-- [nessie](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 - [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
-- [pagic](https://github.com/xcatliu/pagic) - The easiest way to generate static html page from markdown, built with Deno.
-- [pika Deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
 - [pre-commit-deno](https://github.com/nozaq/pre-commit-deno) - pre-commit git hooks for Deno projects.
 - [starter](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
 - [trex](https://github.com/crewdevio/Trex) - Package management like npm for deno.
@@ -350,7 +347,6 @@ This list is a collection of the best Deno modules and resources.
 - [Building API's using Deno, Oak and MYSQL](https://codeforgeek.com/building-api-server-using-deno-and-mysql/)
 - [Create your first News CLI app using Deno](https://medium.com/javascript-in-plain-english/creating-your-first-news-cli-app-using-deno-e1470398c627)
 - [Continuous Integration with Deno](https://semaphoreci.com/blog/continuous-integration-with-deno)
-- [Build A Simple Covid19 CLI Tool using Deno](https://blog.loginradius.com/engineering/build-a-cli-tool-using-deno/)
 - [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
 - [Test coverage in Deno with Codecov and GitHub Actions](https://v1rtl.site/blog/coverage-in-deno)
 - Deno REST API with Oak Tutorial Series [0](https://www.robinwieruch.de/deno-tutorial), [1](https://www.robinwieruch.de/deno-oak), [2](https://www.robinwieruch.de/deno-oak-rest-api)

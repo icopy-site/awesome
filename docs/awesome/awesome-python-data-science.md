@@ -111,6 +111,7 @@
 
 ### Feature Selection
 * [scikit-feature](https://github.com/jundongl/scikit-feature) - Feature selection repository in Python.
+* [zoofs](https://github.com/jaswinder9051998/zoofs) - A feature selection library based on evolutionary algorithms.
 
 ## Visualization
 ### General Purposes
@@ -190,6 +191,7 @@
 
 <a name="opt"></a>
 ## Optimization
+* [Optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework.
 * [Spearmint](https://github.com/HIPS/Spearmint) - Bayesian optimization.
 * [scikit-opt](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
 * [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration.
@@ -221,13 +223,14 @@
 * [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
 
 ## Natural Language Processing
+* [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing.
 * [NLTK](https://github.com/nltk/nltk) -  Modules, data sets, and tutorials supporting research and development in Natural Language Processing.
 * [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkik.
 * [gensim](https://radimrehurek.com/gensim/) - Topic Modelling for Humans.
 * [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - Python binding for <a href="https://github.com/morfologik/morfologik-stemming">Morfologik</a>.
 * [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text-to-phonemes converter for multiple languages.
 * [flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP.
-* [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing.
+
 
 ## Computer Audition
 * [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
