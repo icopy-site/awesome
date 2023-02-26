@@ -1,5 +1,7 @@
 <div class="github-widget" data-repo="ohenley/awesome-ada"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+## Awesome Ada [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 <br/><br/>
 <div align="center">
 	<img width="350px"  src="https://raw.githubusercontent.com/ohenley/files/master/awesome-ada/logo_ada_awesome.svg" alt="Awesome"/>
@@ -14,10 +16,8 @@
 >
 > Long live Ada/SPARK.
 
-
 <br/><br/>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
 A curated list of awesome resources related to the Ada and SPARK programming language.      
 
 <details>
@@ -501,7 +501,6 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [oto](https://github.com/darkestkhan/oto) - Ada binding to OpenAL which tries to mimic original API while using Ada types.
 - [coreland-openal-ada] - Ada binding to OpenAL
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - Sound Synthetizer Library implemented in Ada.
-- [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library.
 - [scala](http://www.huygens-fokker.org/scala) - Scala is a powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
 - [portable-openal-sound](https://github.com/fastrgv/portable-openal-sound) - A linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.
 
@@ -564,7 +563,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ### Libraries
 - [giza](https://github.com/Fabien-Chouteau/Giza) - Giza is trying to be a simple widget tool kit for embedded platforms.
-- [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library.
+- [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library that can run on bareboard devices.
 - [geste](https://github.com/Fabien-Chouteau/GESTE) - GESTE is a sprite and tile 2D render engine designed to run on micro-controllers.
 - [sancta](https://github.com/mosteo/sancta) - SANCTA multi-robot task allocation library.
 
