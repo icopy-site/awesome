@@ -29,6 +29,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Docker daemon metrics in Prometheus](https://medium.com/lucjuggery/docker-daemon-metrics-in-prometheus-7c359c7ff550) - Docker daemon metrics in Prometheus by Luc Juggery.
 - [Prometheus Monitoring Tutorial (10 minutes)](https://pagertree.com/2017/12/01/prometheus-tutorial/) - Simple tutorial to create a Prometheus monitoring stack with Grafana, AlertManager, and PagerTree by Austin Miller.
 - [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - Beginner friendly introduction to Prometheus by [yolossn](https://github.com/yolossn).
+- [Setting up Prometheus Monitoring On a Kubernetes Cluster](https://spacelift.io/blog/prometheus-kubernetes) - Setting up Prometheus Monitoring On a Kubernetes Cluster by James Walker.
 
 ## Books
 - [Monitoring with Prometheus](https://www.prometheusbook.com/) - Monitoring with Prometheus by James Turnbull.
