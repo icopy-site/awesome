@@ -1926,7 +1926,6 @@ Computational Cognitive Neuroscientist, the establisher of the Levels of Analysi
 * [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142&hl=en&as_sdt=0,44)].
 
 
-
 ### Michael Tomasello
 
 Cognitive scientist, set up the foundations of studying human communications. 
@@ -1943,7 +1942,6 @@ Applied mathematician, proposed causal intervention on siamese bayesian networks
 * [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/) - ***Basic Books***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2505901292485349932&hl=en&as_sdt=0,5)].
 
 * [Causality: Models, Reasoning and Inference](https://hk1lib.org/book/2780725/2ec8f1?id=2780725&secret=2ec8f1) - ***Cambridge University Press***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=10996260119229499611&hl=en&as_sdt=0,5&as_vis=1)].
-
 
 
 ### Susan Carey

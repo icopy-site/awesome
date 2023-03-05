@@ -60,7 +60,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Hamburg](https://www.meetup.com/GraphQL-Hamburg/)
 - [London](https://www.meetup.com/GraphQL-London/)
 - [Melbourne](https://www.meetup.com/GraphQL-Melbourne/)
-- [Montreal](https://www.meetup.com/GraphQL-Montreal/)
 - [Munich](https://www.meetup.com/GraphQL-Munich/)
 - [New York City](https://www.meetup.com/GraphQL-NYC/)
 - [Portland](https://www.meetup.com/GraphQLPDX/)
@@ -138,7 +137,6 @@ If you want to contribute to this list (please do), send me a pull request.
 #### Custom Scalars
 
 - [graphql-scalars](https://github.com/Urigo/graphql-scalars) - A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
-- [graphql-tools-types](https://github.com/rse/graphql-tools-types) - Custom GraphQL types for use with GraphQL-Tools (Void, Int, Float, String, Date, UUID, JSON).
 
 #### Type
 
@@ -174,6 +172,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [supertest-graphql](https://github.com/alexstrat/supertest-graphql) - Extends [supertest](https://github.com/visionmedia/supertest) to easily test a GraphQL endpoint
 - [schemathesis](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
 - [microfiber](https://github.com/anvilco/graphql-introspection-tools) - Query and manipulate GraphQL introspection query results in useful ways.
+- [graphql-armor](https://github.com/Escape-Technologies/graphql-armor) - An instant security layer for production GraphQL Endpoints.
 
 <a name="js-example" />
 
@@ -269,6 +268,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [strawberry](https://github.com/strawberry-graphql/strawberry) - A new GraphQL library for Python.
 - [turms](https://github.com/jhnnsrs/turms) - A pythonic graphql codegenerator built around graphql-core and pydantic
 - [rath](https://github.com/jhnnsrs/rath) - An apollo like graphql client with async and sync interface
+- [sgqlc](https://github.com/profusion/sgqlc) - Simple GraphQL Client makes working with GraphQL API responses easier in Python.
 
 <a name="py-example" />
 
@@ -660,7 +660,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [EdgeDB](https://edgedb.com/) - The next generation object-relational database with native GraphQL support.
 - [FaunaDB](https://fauna.com) - Relational NoSQL database with [GraphQL schema import.](https://fauna.com/blog/getting-started-with-graphql-part-1-importing-and-querying-your-schema) Supports joins, indexes, and multi-region ACID transactions with serverless pay-per-use pricing.
 - [ArangoDB](https://arangodb.com/) - Native multi-model database with [GraphQL integration](https://www.arangodb.com/docs/3.4/foxx-reference-modules-graph-ql.html) via the built-in [Foxx Microservices Framework](https://www.arangodb.com/docs/stable/foxx.html).
-- [Weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine with a [GraphQL interface](https://www.semi.technology/developers/weaviate/current/graphql-references/) built to scale your machine learning models.
+- [Weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine with a [GraphQL interface](https://weaviate.io/developers/weaviate/api/graphql) built to scale your machine learning models.
 - [LunaSec](https://www.lunasec.io/) - Key-Value Database for encrypting/tokenizing sensitive data with [GraphQL support](https://www.lunasec.io/docs/pages/getting-started/dedicated-tokenizer/graphql/) to authorize requests. - [Source Code](https://github.com/lunasec-io/lunasec)
 
 <a name="services" />
