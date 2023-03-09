@@ -356,7 +356,6 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 * [Where do hypotheses come from?](https://gershmanlab.com/pubs/Dasgupta17.pdf) - ***Cognitive Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=17480320046655923235&hl=en&as_sdt=2005&sciodt=0,5)]. A Bayesian account for modeling basic rules as the hypothesis space.
 
 
-
 #### Nonparametric Model
 
 * [A Bayesian Analysis of Some Non-parametric Problems](https://people.stat.sc.edu/hansont/stat740/Ferguson1973.pdf) - ***The Annals of Statistics***, 1973. [[All Versions](https://scholar.google.com/scholar?cluster=3969163427460060902&hl=en&as_sdt=0,5)]. A classic review on non-parametric problems.
