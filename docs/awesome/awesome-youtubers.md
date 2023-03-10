@@ -27,8 +27,6 @@ This repository only lists awesome YouTubers that speak English. Awesome contrib
 -   [Spanish](https://github.com/rcarubbi/awesome-spanish-youtubers)
 
 
-	- [Frontend](#)
-	- [Backend](#)
 
 ## Programming in general
 
@@ -97,11 +95,6 @@ Featured playlists: `DevOps Tutorial for Beginners`, `Artificial Intelligence Tu
 Content about: Backend, APIs \
 Featured playlists: `Node.js Tutorial for Beginners`, `Python 3 Tutorial for Beginners`, `C++ Programming Tutorial for Beginners`, `other videos about different programming languages`.
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJytmpnop1rJ8bYYGvdWXbs4er2kRUUmBT0udDAcIA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CodingTech)
-
-[**Coding Tech**](https://www.youtube.com/c/CodingTech) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-Content about: All programming, Talks \
-Featured playlists: `Frontend development videos`, `Backend development videos`, `Theoretical videos`, `a lot more tech topics playlists!`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwXTGNb9fHAe65rAIHAHkq0D227_WF4IsvdIXw-6Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/smartherd)
 
@@ -476,6 +469,12 @@ Featured playlists: `AWS Amplify`. \
 Content about: Databases, Networking, Backend Development, Security, Protocols, Concepts \
 Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message Queues & PubSub Systems`, `Proxies`, `many more video tutorials`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJWZhcYZ5Mr0HuK-Zyd2v1cJ27OvlwSDlZ0aNLOE=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ThePrimeagen)
+
+[**ThePrimeagen**](https://www.youtube.com/@ThePrimeagen) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: Backend Development, Concepts, Optimization techniques, Tools, Languages, Microservices \
+Featured playlists: `Rust For TypeScript Devs`, `Performance`, `Vim As Your Editor`, `Building Great Tools`.
+
 
 ## Computer science
 
@@ -718,7 +717,7 @@ Content about: DevOps, Docker, Kubernetes, Ansible \
 Featured playlists: `Complete Docker Course`, `Complete Ansible Course`, `Complete Vagrant Course`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/q6zfipPaPAkFtlbgI6SRTt6VujqdbykLfzn36-0WLOPZfRhbJZO_Rd2Rv0kpCyIocZifThhXHA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/kRxC322HFMMQ8KQzb5zB2C4JDbMarHkXizae8znxrdPBxRdmrMsz24ft0PfSHoOcEkEa5lRM2Q=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
 
 [**DevOps Toolkit**](https://www.youtube.com/c/DevOpsToolkit) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: GitOps, Docker, Kubernetes, Rancher, AWS \
@@ -1039,6 +1038,55 @@ Featured playlists: `How To Build An App`, `The Basics (Code)`, `other science v
 <br />
 
 
+## Conferences
+
+This section is about all the amazing tech conferences and the talks that they put online.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJytmpnop1rJ8bYYGvdWXbs4er2kRUUmBT0udDAcIA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CodingTech)
+
+[**Coding Tech**](https://www.youtube.com/c/CodingTech) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: All programming, Talks \
+Featured playlists: `Frontend development videos`, `Backend development videos`, `Theoretical videos`, `a lot more tech topics playlists!`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJVQptvOS9IbdF_r5ePIwbXAUNYoHlg8L7YY9WevRw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevoxxForever)
+
+[**Devoxx**](https://www.youtube.com/@DevoxxForever) \
+Content about: Devoxx is a series of tech events organised by local community groups \
+Featured playlists: `Devoxx UK`, `Devoxx Belgium`, `Devoxx Poland`, `Devoxx France`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJXTvgnQRNcUwB6Pp6X6mcxILphi2BNfWTdeEZxs7Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ddd_eu)
+
+[**Domain-Driven Design Europe**](https://www.youtube.com/@ddd_eu) \
+Content about: Conference for senior software developers and architects interested in software design. \
+Featured playlists: `DDD Foundations`, `Eventsourcing`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/qgTWM66BUH2STKGd-jTl5DMoIZXnDhKpmo_Cyp3yBEEUwdYMeHvjrulSl1wioLz-rm1mNhg6VA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@GOTO-)
+
+[**GOTO Conferences**](https://www.youtube.com/@GOTO-) \
+Content about: Brightest minds sharing their knowledge to create a better future \
+Featured playlists: `Sustainable Software`, `Software Architecture`, `Recommendations`, `Greatest Hits`, and many more.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJWLFdZolJp2YsKH3wO742DVMpo-OkH-_agdkRVLRw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@infoq)
+
+[**InfoQ**](https://www.youtube.com/@infoq) \
+Content about: Innovator and early adopter stage techniques and technologies with the wider industry \
+Featured playlists: `InfoQ Trend Reports`, `Culture & Methods`, `DevOps`, `Emerging languages and development trends`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJXuXpA0Lil-SD7rDAS7sQev-rYD8r5CzAnub1g2VQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@NDC)
+
+[**NDC Conferences**](https://www.youtube.com/@NDC) \
+Content about: .NET & Agile development, evolved to encompass all technologies relevant to Software Developers. \
+Featured playlists: `NDC Sydney`, `NDC Oslo`, `NDC London`, `NDC Minnesota`, `NDC Melbourne`, `NDC Copenhagen`, `DevOps`, `Security`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJVbkZF43DOQpyCMY4jIhNXCJmN33xnMUyemTPqo=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@NLJUG1)
+
+[**NLJUG**](https://www.youtube.com/@NLJUG1) \
+Content about: All things related to Java from the Dutch Java User Group. (most content in english) \
+Featured playlists: `J-Fall`, `J-Spring`. \
+<br/>
+
+
 ## Operating systems
 
 Includes videos and tutorials for the correct management and understanding of Windows, Linux, Mac and other operating systems. Learn about useful commands and settings to keep your OS up-to-date and secure. Understand how do these systems work in-deep to allow you to control them using the best methods.
@@ -1197,6 +1245,14 @@ Content about: Blender, 3D modeling \
 Featured playlists: `Blender 2.9 Beginner Tutorial Series`, `CG Fast Track`. \
 <br />
 
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJUS0B38G8QpJm-h4PDd3wtrYFuSup0a3ZqD_a8uLw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CGGeek)
+
+[**CG Geek**](https://www.youtube.com/@CGGeek) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
+Content about: Animation, Blender, 3D modeling, Visual Effects \
+Featured playlists: `Blender beginner tutorial series`, `Bob Ross with Realistic 3D graphics`, `Blender Nature tutorials`, `Star wars 3D tutorials`.
+
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjrGM34PR7NdULgvDghJw8TqcbhPEVB35CxlbbhFw=s176-c-k-c0x00ffffff-no-rj"/>](hhttps://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ)
 
 [**DUCKY 3D**](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
@@ -1268,6 +1324,13 @@ Featured playlists: `Artificial Intelligence`, `Pi Zero Projects`, `Migrating to
 Content about: Raspberry Pi, Electronics, Operation System, Single Board Computers, Gaming \
 Featured playlists: `Single Board Computer Reviews`, `Gaming on SBCs`, `many more`. \
 <br />
+
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJXg0un1rLvqfNvehwVVtDq_1pxwsx3BOCc9PA-1KQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ServeTheHomeVideo)
+
+[**ServeTheHome**](https://www.youtube.com/@ServeTheHomeVideo) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: Server Hardware, Networking and other hardware for the professional \
+Featured playlists: `About Servers`, `Fanless`, `Mini PC`, `Workstations`, `Current Events`, `Storage`, `Server Processors`, `Networking`, `Cool server hardware`.
 
 
 
@@ -1373,6 +1436,14 @@ Your professional side can be reinforced while watching these tutorials. It's im
 [**GCFLearnFree.org**](https://www.youtube.com/c/GcflearnfreeOrgplus) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: Job searching, General skills, Life tips \
 Featured playlists: `Searching For A Job`, `Economic thinking playlists`, `Office Suite tutorials`, `Making Decisions`, `Life skills playlists`, `and more!`.
+
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/3dhST2suIfX5hbfWZixmdxRBUDyGx01B-_IE3wqBp2tBjgBpBWbF-m5rltC_RbWEq4_2pqlV=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@EngineeringwithUtsav)
+
+[**Engineering with Utsav**](https://www.youtube.com/@EngineeringwithUtsav) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
+Content about: Career, Productivity, Software engineering, Life tips \
+Featured playlists: `Finance`, `Start ups`, `Book reviews & recommendations`, `Productivity`, `Technical interview preparation`, `Career & success`, `Software engineering`.
+
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyC_QqT1Fm-GExDj7psvvDxEK6k8G4zqJo6Q0SXwg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/hellomayuko)
 
