@@ -39,61 +39,13 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 
 
+
+
+
 <details>
- <summary>Show languages</summary>
-  <!-- Please use HTML syntax here so that it works for Github and mkdocs -->
-  <ul>
-    <li><a href="#abap">ABAP</a></li>
-    <li><a href="#ada">Ada</a></li>
-    <li><a href="#asm">Assembly</a></li>
-    <li><a href="#awk">Awk</a></li>
-    <li><a href="#c">C</a></li>
-    <li><a href="#csharp">C#</a></li>
-    <li><a href="#cpp">C++</a></li>
-    <li><a href="#clojure">Clojure</a></li>
-    <li><a href="#coffeescript">CoffeeScript</a></li>
-    <li><a href="#coldfusion">ColdFusion</a></li>
-    <li><a href="#crystal">Crystal</a></li>
-    <li><a href="#dart">Dart</a></li>
-    <li><a href="#delphi">Delphi</a></li>
-    <li><a href="#dlang">Dlang</a></li>
-    <li><a href="#elixir">Elixir</a></li>
-    <li><a href="#elm">Elm</a></li>
-    <li><a href="#erlang">Erlang</a></li>
-    <li><a href="#fsharp">F#</a></li>
-    <li><a href="#fortran">Fortran</a></li>
-    <li><a href="#go">Go</a></li>
-    <li><a href="#groovy">Groovy</a></li>
-    <li><a href="#haskell">Haskell</a></li>
-    <li><a href="#haxe">Haxe</a></li>
-    <li><a href="#java">Java</a></li>
-    <li><a href="#javascript">JavaScript</a></li>
-    <li><a href="#julia">Julia</a></li>
-    <li><a href="#kotlin">Kotlin</a></li>
-    <li><a href="#lua">Lua</a></li>
-    <li><a href="#matlab">MATLAB</a></li>
-    <li><a href="#nim">Nim</a></li>
-    <li><a href="#ocaml">Ocaml</a></li>
-    <li><a href="#php">PHP</a></li>
-    <li><a href="#plsql">PL/SQL</a></li>
-    <li><a href="#perl">Perl</a></li>
-    <li><a href="#python">Python</a></li>
-    <li><a href="#r">R</a></li>
-    <li><a href="#ruby">Ruby</a></li>
-    <li><a href="#rust">Rust</a></li>
-    <li><a href="#sql">SQL</a></li>
-    <li><a href="#scala">Scala</a></li>
-    <li><a href="#shell">Shell</a></li>
-    <li><a href="#swift">Swift</a></li>
-    <li><a href="#tcl">Tcl</a></li>
-    <li><a href="#typescript">TypeScript</a></li>
-    <li><a href="#verilog">Verilog/SystemVerilog</a></li>
-    <li><a href="#vim-script">Vim Script</a></li>
-    </ul>
+ <summary>Show Other</summary>
+
 </details>
-
-
-
 
 ---
 
@@ -1037,6 +989,8 @@ It removes a feature of a dependency and then compiles the project to see if it 
 
 - [dbcritic](https://github.com/channable/dbcritic) — dbcritic finds problems in a database schema, such as a missing primary key constraint in a table.
 
+- [holistic](https://holistic.dev/) — More than 1,300 rules to analyze SQL queries. Takes an SQL schema definition and the query source code to generate improvement recommendations. Detects code smells, unused indexes, unused tables, views, materialized views, and more.
+
 - [sqlcheck](https://github.com/jarulraj/sqlcheck) — Automatically identify anti-patterns in SQL queries.
 
 - [SQLFluff](https://www.sqlfluff.com/) — Multiple dialect SQL linter and formatter.
@@ -1447,11 +1401,15 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [Ghidra](https://ghidra-sre.org) — A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
 
+- [Hopper](https://www.hopperapp.com/) :copyright: — macOS and Linux reverse engineering tool that lets you disassemble, decompile and debug applications. Hopper displays the code using different representations, e.g. the Control Flow Graph, and the pseudo-code of a procedure. Supports Apple Silicon.
+
 - [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware) :copyright: — Binary code analysis tool.
 
 - [Jakstab](https://github.com/jkinder/jakstab) — Jakstab is an Abstract Interpretation-based, integrated disassembly and static analysis framework for designing analyses on executables and recovering reliable control flow graphs.
 
 - [JEB Decompiler](https://www.pnfsoftware.com/) :copyright: — Decompile and debug binary code. Break down and analyze document files. Android Dalvik, MIPS, ARM, Intel x86, Java, WebAssembly & Ethereum Decompilers.
+
+- [ktool](https://ktool.cynder.me/en/latest/ktool.html) — Fully cross-platform toolkit and library for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 
 - [Manalyze](https://github.com/JusticeRage/Manalyze) — A static analyzer, which checks portable executables for malicious content.
 
@@ -1852,6 +1810,8 @@ It does this by running periodic diff outputs against heuristically crafted rege
 - [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html) — iblessing is an iOS security exploiting toolkit. It can be used for reverse engineering, binary analysis and vulnerability mining.
 
 - [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
+
+- [ktool](https://ktool.cynder.me/en/latest/ktool.html) — Fully cross-platform toolkit and library for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 
 - [kube-hunter](https://aquasecurity.github.io/kube-hunter/) — Hunt for security weaknesses in Kubernetes clusters.
 
