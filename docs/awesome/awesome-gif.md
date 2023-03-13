@@ -8,25 +8,23 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 
 
-### General Tools
+## General Tools
 
 - [FFmpeg](https://www.ffmpeg.org)
 - [ImageMagick](http://www.imagemagick.org/script/index.php)
 - [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick is usually faster than ImageMagick.
-- [MoviePy](http://zulko.github.io/moviepy/) - Python module for video editing.
+- [MoviePy](https://zulko.github.io/moviepy/) - Python module for video editing.
 
 ### Utilities
 
 - [Gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
-- [Gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF
-- [Gifify (not the same)](https://github.com/jclem/gifify) - convert screen recording into GIF
-- [Gifsicle](https://github.com/kornelski/giflossy) - lossy GIF compressor
+- [Gifify](https://github.com/jclem/gifify) - convert screen recording into GIF
 - [Gifs](https://github.com/jglovier/gifs) - storage place for GIFs
 - [Gifshot](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo. ([demo](http://yahoo.github.io/gifshot/))
 - [Gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated GIFs as a transport
 - [X-gif](https://github.com/geelen/x-gif) - a web component for flexible GIF playback
-- [GifW00t](https://github.com/yaronn/GifW00t) - javascript web recorder
-- [gif-machine](https://github.com/lelandbatey/gif-machine) - GIF creation from Youtube videos
+- [GifW00t](https://github.com/yaronn/GifW00t) - JavaScript web recorder
+- [gif-machine](https://github.com/lelandbatey/gif-machine) - GIF creation from YouTube videos
 - [gifstreaming](https://github.com/jbochi/gifstreaming) - Live video streaming server
 - [Screengif](https://github.com/dergachev/screengif) - Create animated GIF screencasts
 - [vnc-over-gif](https://github.com/sidorares/vnc-over-gif) - Serves screen updates as animated GIF over http
@@ -78,23 +76,23 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [GifImageView](https://github.com/felipecsl/GifImageView) - Android ImageView that handles animated GIF images
 - [Gif-animation](https://github.com/extrapixel/gif-animation) - Processing library to play and export GIF
 - [Android-gif-encoder](https://github.com/nbadal/android-gif-encoder) - animated GIF encoder for Android
-- [GIFDroid](https://github.com/quackware/GIFDroid) - Android video to GIF converter
+- [GIFDroid](https://github.com/curtislarson/GIFDroid) - Android video to GIF converter
 - [Android-GifStitch](https://github.com/CaptPhunkosis/Android-GifStitch) - create and share animated GIFs
 
 #### JavaScript
 
-- [Gif.js](https://github.com/jnordberg/gif.js) - Javascript - create GIF from the DOM
-- [Omggif](https://github.com/deanm/omggif) - Javascript - GIF 89a encoder and decoder
-- [Animated_GIF](https://github.com/sole/Animated_GIF) - Javascript library for creating animated GIFs
-- [Gifffer](https://github.com/krasimir/gifffer) JavaScript library that prevents the autoplaying of the animated GIFs
+- [Gif.js](https://github.com/jnordberg/gif.js) - create GIF from the DOM
+- [Omggif](https://github.com/deanm/omggif) - GIF 89a encoder and decoder
+- [Animated_GIF](https://github.com/sole/Animated_GIF) - JavaScript library for creating animated GIFs
+- [Gifffer](https://github.com/krasimir/gifffer) - JavaScript library that prevents the autoplaying of the animated GIFs
 - [Gifplayer](https://github.com/rubentd/gifplayer) - jquery plugin to play and stop animated GIFs
 - [Jsgif](https://github.com/shachaf/jsgif) - JavaScript GIF parser and player
-- [node-gify](https://github.com/tj/node-gify) - Javascript convert videos to GIFs using ffmpeg and gifsicle
-- [Gifencoder](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for node.js
-- [Gif-video](https://github.com/hughsk/gif-video) - Javascript Convert a GIF image into an HTML5-ready video
-- [Gif-player](https://github.com/apankrat/gif-player) - On-demand GIF loader/player in Javascript
+- [node-gify](https://github.com/tj/node-gify) - JavaScript convert videos to GIFs using ffmpeg and gifsicle
+- [Gifencoder](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for Node.js
+- [Gif-video](https://github.com/hughsk/gif-video) - JavaScript Convert a GIF image into an HTML5-ready video
+- [Gif-player](https://github.com/apankrat/gif-player) - On-demand GIF loader/player in JavaScript
 - [GifgifLab-face](https://github.com/Viral-MediaLab/gifgifLab-face) - Facial-emotion detectors
-- [node-youtube](https://github.com/javascipt/node-youtube) - Youtube to snapshots and GIFs.
+- [node-youtube](https://github.com/javascipt/node-youtube) - YouTube to snapshots and GIFs.
 
 #### PHP
 
@@ -142,12 +140,10 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [Vid2gif](https://imgur.com/vidgif) - Video to GIF by imgur
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor
 - [Giflr](https://giflr.com/) - A web app for making or remixing animated GIFs
-- [Gif.gf](http://www.gif.gf/labs/face) - Provide a matching GIF for your face
 
 ### Community
 
 - [Giphy.com](https://giphy.com)
-- [9gag.com/gif](https://9gag.com/gif)
 - [Reactionsgifs](http://www.reactiongifs.com/)
 - [Educational Gifs](https://www.reddit.com/r/educationalgifs/)
 
@@ -232,7 +228,6 @@ duration=3
 ffmpeg -ss $start_time -t $duration -i input.avi -i palette.png -filter_complex \
 "fps=10,scale=320:-1:flags=lanczos[x];[x][1:v]paletteuse" output.gif
 ```
-[article](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
 
 #### Optimize GIF
 
@@ -293,7 +288,6 @@ ffmpeg \
   eq=gamma=${gamma}:contrast=${contrast}:saturation=${saturation},unsharp                   `# final adjustments`
 " -an output.mp4
 ```
-by [Roger Barnes](https://bitbucket.org/snippets/rbarnesatl/6jRB)
 
 #### Perfect Loop
 
@@ -310,7 +304,7 @@ selected_scenes.write_gifs(clip.resize(width=450), "./outputs_directory")
 ```
 [article](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
 
-#### Youtube video to GIF
+#### YouTube video to GIF
 
 - Download it via youtube-dl and then convert it.
 
@@ -319,8 +313,6 @@ youtube-dl https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
 [Youtube-dl](https://rg3.github.io/youtube-dl/)
-
-- with [vid2gif](https://imgur.com/vidgif) online - [source](https://github.com/jimgur/gif)
 
 #### Grabbing each frame of an HTML5 Canvas
 
@@ -353,7 +345,6 @@ function(status) {
   }
 });
 ```
-or use [ccapture.js](https://github.com/spite/ccapture.js).
 
 ### Miscellaneous
 
@@ -364,22 +355,6 @@ or use [ccapture.js](https://github.com/spite/ccapture.js).
 The best ways to use this list are:
 
 - by using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
-
-## Credits
-
-**[Craig Davison](https://davison.io)**
-
-[![GitHub](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20@davisonio)](https://github.com/davisonio) [![Twitter](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
-
-...and [contributors](https://github.com/davisonio/awesome-gif/graphs/contributors).
-
-**[Contributions are welcome!](https://github.com/davisonio/awesome-gif/blob/master/contributing.md)**
-
-## License
-
-Unless otherwise stated:
-
-- Copyright © 2017+ [Craig Davison](https://davison.io). Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872):
 
