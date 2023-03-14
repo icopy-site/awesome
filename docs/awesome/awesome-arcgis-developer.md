@@ -48,7 +48,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 ## ArcGIS location services
 
-- [ArcGIS location services Postman Workspace](https://www.postman.com/arcgis-developer/workspace/arcgis-location-services) - Postman collections to facilitate work with many of the location services.
+- [ArcGIS location services Postman Workspace](https://www.postman.com/esridevs/workspace/arcgis-location-services) - Postman collections to facilitate work with many of the location services.
 - [Basemap layer service](https://developers.arcgis.com/documentation/mapping-apis-and-services/maps/services/basemap-layer-service/) - Access streets, satellite, and other basemap styles for maps and scenes.
 - [Elevation and hydrology services](https://developers.arcgis.com/rest/elevation/api-reference/get-started-with-elevation-services.htm) - Generate elevation profiles and viewsheds, but also can trace water flow and generate watersheds.
 - [Geocoding service](https://developers.arcgis.com/documentation/mapping-apis-and-services/search/services/geocoding-service/) - Search for addresses, businesses, and places around the world.
@@ -187,6 +187,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [geometry-inspector](http://brianbunker.github.io/geometry-inspector/) - Quickly show EsriJSON, GeoJSON, or WKT on a map, or draw on a map to get EsriJSON, GeoJSON, or WKT.
 - [js-symbol-playground 3.x](https://developers.arcgis.com/javascript/3/samples/playground/index.html) - Generate symbols to work with the ArcGIS API for JavaScript 3.x.
 - [js-symbol-playground 4.x](https://developers.arcgis.com/javascript/latest/sample-code/playground/live/) - Generate symbols to work with the ArcGIS API for JavaScript 4.x.
+- [Postman workspaces](https://www.postman.com/esridevs) - Postman collections to experiment with location services and authentication.
 
 ## Spatial Analysis
 

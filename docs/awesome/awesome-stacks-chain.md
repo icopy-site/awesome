@@ -27,6 +27,7 @@
 - [Send Many](https://sendstx.com) - An application to send STX to many recipients in one transaction.
 - [MIA Block explorer](http://miamining.com) - A web application to exolore MIA coin transactions for all and personal accounts.
 - [Speed Spend](https://speed-spend.org) - A suite of working Clarity experiments on testnet ([source](https://github.com/friedger/speed-spend)).
+- [Sigle](https://app.sigle.io) - A blogging platform.
 
 ### Blockchain Name System
 - [btc.us](https://btc.us) - An application for .btc names.
@@ -39,6 +40,10 @@
 - [Alex Lab](https://app.alexlab.co) - A service platform for DeFi.
 - [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol.
 - [Arkadiko Protocol](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans.
+
+### Games
+- [Stacks Degens](https://stacksdegens.com) - A car racing game with retro graphics enabled through NFTs.
+- [Project Indigo](https://www.projectindigonft.com) - An interactive story and RPG experience.
 
 ## Clarity Resources
 
