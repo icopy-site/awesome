@@ -132,6 +132,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 - [go-algorand](https://github.com/algorand/go-algorand) - Algorand's official implementation in Go.
 - [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) - The Algorand Golang SDK.
+- [conduit](https://github.com/algorand/conduit) - Algorand's data pipeline framework.
 
 #### PHP
 

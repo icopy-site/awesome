@@ -22,6 +22,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 
 ## Academic Tools
 
+
 ### Courses
 
 * [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***MIT, Harvard, Stanford***. Courses on computational cognitive science from MIT, Harvard, Stanford.
@@ -29,6 +30,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 * [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) - ***MIT***. Armando Solar-Lezama's elementary course on program synthesis.
 
 * [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/) - ***MIT***. [[Book: SICP](https://web.mit.edu/6.001/6.037/sicp.pdf)]. [[All Versions](https://scholar.google.com/scholar?cluster=7488066943428166450&hl=en&as_sdt=0,5)]. Classic course on applying structural, procedural, and meta-linguistic abstraction to solve computational problems.
+
 
 
 ### Programming
