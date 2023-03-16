@@ -47,6 +47,7 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 - [Stealing Knowledge from Protected Deep Neural Networks Using Composite Unlabeled Data](https://ieeexplore.ieee.org/abstract/document/8851798) - (ICNN) *Composite method which can be used to attack and extract the knowledge ofa black box model even if it completely conceals its softmaxoutput.*
 - [Neural Network Inversion in Adversarial Setting via Background Knowledge Alignment](https://dl.acm.org/citation.cfm?id=3354261) - (CCS) *Model inversion approach in the adversary setting based on training an inversion model that acts as aninverse of the original model. With no fullknowledge about the original training data, an accurate inversion is still possible by training the inversion model on auxiliary samplesdrawn from a more generic data distribution.*
 ### 2018
+- [Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/abs/1711.00399) - (Harvard Journal of Law & Technology) *To explain a decision on x, find a conterfactual: the closest point to x that changes the decision.*
 - [Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation](https://arxiv.org/abs/1710.06169) - (AIES) *Treats black box models as teachers, training transparent student models to mimic the risk scores assigned by black-box models.*
 - [Towards Reverse-Engineering Black-Box Neural Networks](https://arxiv.org/abs/1711.01768) - (ICLR) [(Code)](https://github.com/coallaoh/WhitenBlackBox) *Infer inner hyperparameters (eg number of layers, non-linear activation type) of a remote neural network model by analysing its response patterns to certain inputs.*
 - [Data driven exploratory attacks on black box classifiers in adversarial domains](https://www.sciencedirect.com/science/article/pii/S092523121830136X) - (Neurocomputing) *Reverse engineers remote classifier models (e.g., for evading a CAPTCHA test).*
@@ -62,6 +63,9 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 - [Membership Inference Attacks Against Machine Learning Models](http://ieeexplore.ieee.org/document/7958568/) - (Symposium on Security and Privacy) *Given a machine learning model and a record, determine whether this record was used as part of the model's training dataset or not.*
 - [Practical Black-Box Attacks against Machine Learning](https://dl.acm.org/citation.cfm?id=3053009) - (Asia CCS) *Understand how vulnerable is a remote service to adversarial classification attacks.*
 ### 2016
+- [Algorithmic Transparency via Quantitative Input Influence: Theory and Experiments with Learning Systems](https://www.andrew.cmu.edu/user/danupam/datta-sen-zick-oakland16.pdf) - (IEEE S&P) *Evaluate the individual, joint and marginal influence of features on a model using shapley values.*
+- [Auditing Black-Box Models for Indirect Influence](https://arxiv.org/abs/1602.07043) - (ICDM) *Evaluate the influence of a variable on a black-box model by "cleverly" removing it from the dataset and looking at the accuracy gap*
+- [Iterative Orthogonal Feature Projection for Diagnosing Bias in Black-Box Models](https://arxiv.org/abs/1611.04967) - (FATML Workshop) *Performs feature ranking to analyse black-box models*
 - [Bias in Online Freelance Marketplaces: Evidence from TaskRabbit](http://datworkshop.org/papers/dat16-final22.pdf) - (dat workshop) *Measures the TaskRabbit's search algorithm rank.* 
 - [Stealing Machine Learning Models via Prediction APIs](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/tramer) - (Usenix Security)  [(Code)](https://github.com/ftramer/Steal-ML) *Aims at extracting machine learning models in use by remote services.*
 - [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938v3.pdf) - (arXiv)  [(Code)](https://github.com/marcotcr/lime-experiments) *Explains a blackbox classifier model by sampling around data instances.*
@@ -69,8 +73,10 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 - [Algorithmic Transparency via Quantitative Input Influence: Theory and Experiments with Learning Systems](http://ieeexplore.ieee.org/document/7546525/) - (Security and Privacy) *Introduces measures that capture the degree of influence of inputs on outputs of the observed system.*
 - [An Empirical Analysis of Algorithmic Pricing on Amazon Marketplace](https://mislove.org/publications/Amazon-WWW.pdf) - (WWW) [(Code)](http://personalization.ccs.neu.edu) *Develops a methodology for detecting algorithmic pricing, and use it empirically to analyze their prevalence and behavior on Amazon Marketplace.*
 ### 2015
+- [Certifying and Removing Disparate Impact](https://arxiv.org/abs/1412.3756) - (SIGKDD) *Proposes SVM-based methods to certify absence of bias and methods to remove biases from a dataset.*
 - [Peeking Beneath the Hood of Uber](https://dl.acm.org/citation.cfm?id=2815681) - (IMC) *Infer implementation details of Uber's surge price algorithm.*
 ### 2014
+- [A peek into the black box: exploring classifiers by randomization]() - (Data Mining and Knowledge Discovery journal) ([code](https://github.com/tsabsch/goldeneye)) *Finds groups of features that can be permuted without changing the output label of predicted samples*
 - [XRay: Enhancing the Web's Transparency with Differential Correlation](https://www.usenix.org/node/184394) - (USENIX Security) *Audits which user profile data were used for targeting a particular ad, recommendation, or price.*
 ### 2013
 - [Measuring Personalization of Web Search](https://dl.acm.org/citation.cfm?id=2488435) - (WWW) *Develops a methodology for measuring personalization in Web search result.*

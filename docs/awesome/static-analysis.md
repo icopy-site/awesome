@@ -130,7 +130,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 - [MATE](https://galoisinc.github.io/MATE/) — A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code. MATE unifies application-specific and low-level vulnerability analysis using code property graphs (CPGs), enabling the discovery of highly application-specific vulnerabilities that depend on both implementation details and the high-level semantics of target C/C++ programs.
 
-- [PC-lint](https://www.gimpel.com) :copyright: — Static analysis for C/C++. Runs natively under Windows/Linux/MacOS. Analyzes code for virtually any platform, supporting C11/C18 and C++17.
+- [PC-lint](https://pclintplus.com/) :copyright: — Static analysis for C/C++. Runs natively under Windows/Linux/MacOS. Analyzes code for virtually any platform, supporting C11/C18 and C++17.
 
 - [Phasar](https://phasar.org) — A LLVM-based static analysis framework which comes with a taint and type state analysis.
 
@@ -220,7 +220,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 - [MATE](https://galoisinc.github.io/MATE/) — A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code. MATE unifies application-specific and low-level vulnerability analysis using code property graphs (CPGs), enabling the discovery of highly application-specific vulnerabilities that depend on both implementation details and the high-level semantics of target C/C++ programs.
 
-- [PC-lint](https://www.gimpel.com) :copyright: — Static analysis for C/C++. Runs natively under Windows/Linux/MacOS. Analyzes code for virtually any platform, supporting C11/C18 and C++17.
+- [PC-lint](https://pclintplus.com/) :copyright: — Static analysis for C/C++. Runs natively under Windows/Linux/MacOS. Analyzes code for virtually any platform, supporting C11/C18 and C++17.
 
 - [Phasar](https://phasar.org) — A LLVM-based static analysis framework which comes with a taint and type state analysis.
 
@@ -1063,7 +1063,7 @@ It removes a feature of a dependency and then compiles the project to see if it 
 
 - [stc](https://stc.dudy.dev) — Speedy TypeScript type checker written in Rust
 
-- [tslint](https://palantir.github.io/tslint/) :warning: — TSLint has been deprecated as of 2019. Please see this issue for more details:  typescript-eslint is now your best option for linting TypeScript.
+- [tslint](https://palantir.github.io/tslint/) :warning: — TSLint has been deprecated as of 2019. Please see [this issue](https://github.com/palantir/tslint/issues/4534) for more details. `typescript-eslint` is now your best option for linting TypeScript.
 TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability,  and functionality errors. It is widely supported across modern editors & build systems and can be customized  with your own lint rules, configurations, and formatters.
 
 - [tslint-clean-code](https://www.npmjs.com/package/tslint-clean-code) — A set of TSLint rules inspired by the Clean Code handbook.
@@ -1119,6 +1119,8 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 - [autocorrect](https://huacnlee.github.io/autocorrect) — A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
 
 - [Axivion Bauhaus Suite](https://www.axivion.com/en/products-services-9#products_bauhaussuite) :copyright: — Tracks down error-prone code locations, style violations, cloned or dead code, cyclic dependencies and more for C/C++, C#/.NET, Java and Ada 83/Ada 95.
+
+- [Bearer](https://bearer.com) — Open-Source static code analysis tool to discover,  filter and prioritize security risks and vulnerabilities  leading to sensitive data exposures (PII, PHI, PD).  Highly configurable and easily extensible,  built for security and engineering teams.
 
 - [Better Code Hub](https://bettercodehub.com) :copyright: — Better Code Hub checks your GitHub codebase against 10 engineering guidelines devised by the authority in software quality, Software Improvement Group.
 
