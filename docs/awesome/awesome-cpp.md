@@ -623,6 +623,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [cml](http://cmldev.net/) - free C++ math library for games and graphics. [Boost]
 * [CNL](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. [Boost]
 * [CXXGraph](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. [AGPL-3.0]
+* [DirectXMath](https://github.com/microsoft/DirectXMath) - An all inline SIMD C++ linear algebra library for use in games and graphics apps
 * [Dlib](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. [Boost] [website](http://dlib.net/)
 * [Eigen](http://eigen.tuxfamily.org/) - A high-level C++ library of template headers for linear algebra, matrix and vector operations, numerical solvers and related algorithms. [MPL2]
 * [ExprTk](https://www.partow.net/programming/exprtk/) - The C++ Mathematical Expression Toolkit Library (ExprTk) is a simple to use, easy to integrate and extremely efficient run-time mathematical expression parser and evaluation engine. [MIT]
@@ -774,6 +775,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Nameof](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. [MIT]
 * [Ponder](https://github.com/billyquith/ponder) - A C++11 library for reflection. [MIT]
 * [RTTR](https://github.com/rttrorg/rttr) - A C++11 library for reflection. [MIT] [website](http://www.rttr.org)
+* [TSMP](https://github.com/fabian-jung/tsmp) - An intrusion and macro-free C++20 library for static reflection. It uses libclang to extract reflection data from your source code and makes it usable via template specialization. [MIT]
 * [visit_struct](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. [Boost]
 * [Refureku](https://github.com/jsoysouvanh/Refureku) - A C++17 runtime reflection and code generation library. [MIT]
 
@@ -1176,6 +1178,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Useful C or C++ related websites.*
 
 * [Standard C++](https://isocpp.org/) :zap: - News, Status & Discussion about Standard C++.
+* [Build Bench](https://build-bench.com/) - Compare C++ Builds
+* [Quick Bench](https://quick-bench.com/) - Quick C++ Benchmarks
 * [CppCon](http://cppcon.org/) - The C++ Conference.
 * [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
 * [C++ by Example](http://www.cbyexample.com/) - Learn C++ by Example.

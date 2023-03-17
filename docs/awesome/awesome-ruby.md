@@ -40,6 +40,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers) - JSON serialization of objects.
 * [Acts_As_Api](https://github.com/fabrik42/acts_as_api) - Easy And Fun, in creating XML/JSON responses in Rails 3,4,5 and 6.
+* [Alba](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby and TruffleRuby.
 * [Blanket](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
 * [Blueprinter](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
 * [cache_crispies](https://github.com/codenoble/cache-crispies) - Speedy Rails JSON serialization with built-in caching.
@@ -275,6 +276,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [dry-rb](https://github.com/dry-rb) - dry-rb is a collection of next-generation Ruby libraries, each intended to encapsulate a common task.
 * [Hamster](https://github.com/hamstergem/hamster) - Efficient, immutable, and thread-safe collection classes for Ruby.
 * [Hanami::Utils](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
+* [MemoWise](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
 * [Ruby Facets](https://github.com/rubyworks/facets) - The premiere collection of general purpose method extensions and standard additions for Ruby.
 * [Trick Bag](https://github.com/keithrbennett/trick_bag) - Assorted Ruby classes and methods to simplify and enhance your code.
 * Attributes
@@ -1187,6 +1189,7 @@ Online tools, services and APIs to simplify development.
 * [instagram-ruby-gem](https://github.com/Instagram/instagram-ruby-gem) - The official gem for the Instagram REST and Search APIs.
 * [itunes_store_transporter](https://github.com/sshaw/itunes_store_transporter) - Ruby wrapper around Apple's iTMSTransporter program.
 * [linkedin](https://github.com/hexgnu/linkedin) - Provides an easy-to-use wrapper for LinkedIn's REST APIs.
+* [Notion Ruby Client](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
 * [Octokit](http://octokit.github.io/octokit.rb) - Ruby toolkit for the GitHub API.
 * [Pusher](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
 * [Restforce](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
