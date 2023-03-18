@@ -845,7 +845,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Bunny](https://bunny.net)
     * [Bunny Fonts](https://fonts.bunny.net/) - All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!.
     * [Bunny DNS](https://bunny.net/dns/) - DNS hosting, 20 million free queries
-
+  * [FontsKey](https://www.fontskey.com/) - Provides free fonts for personal use and commercial paid fonts, and can enter text for quick filtering.
 
 ## Forms
   * [Feathery](https://feathery.io) - Powerful, developer-friendly form builder. Build signup & login, user onboarding, payment flows, complex financial applications, and more. Free plan allows up to 250 submissions / month and 5 active forms.
