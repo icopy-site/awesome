@@ -1104,6 +1104,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 * [A Theoretical Computer Science Perspective on Consciousness](https://www.worldscientific.com/doi/abs/10.1142/S2705078521500028) - ***Journal of Artificial Intelligence and Consciousness***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16430561748075101972&hl=en&as_sdt=0,5)].
 
 
+
 ### Science Logology
 
 #### Philosophy of Science
