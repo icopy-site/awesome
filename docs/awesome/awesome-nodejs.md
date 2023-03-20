@@ -117,15 +117,27 @@
 		<br>
 		<a href="https://serpapi.com#gh-light-mode-only">
 			<div>
-				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-light.svg" width="140" alt="SerpApi">
+				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-light.svg" width="130" alt="SerpApi">
 			</div>
 			<b>API to get search engine results with ease.</b>
 		</a>
 		<a href="https://serpapi.com#gh-dark-mode-only">
 			<div>
-				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-dark.svg" width="140" alt="SerpApi">
+				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-dark.svg" width="130" alt="SerpApi">
 			</div>
 			<b>API to get search engine results with ease.</b>
+		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://dashcam.io?ref=sindresorhus_awesome_nodejs">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/dashcam-logo.png" width="280" alt="Dashcam">
+			</div>
+			<b>Never miss another bug</b>
+			<div>
+				<sup>Capture the steps to reproduce every bug, every time, with Dashcam for desktop.</sup>
+			</div>
 		</a>
 		<br>
 		<br>
@@ -829,7 +841,6 @@
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript.
 - [Portable Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - A set of video tutorials/livestreams to help you build and deploy a real, live web app using a handful of simple libraries and the core Node.js modules.
-- [Scaling Node.js Applications](https://betterstack.com/community/guides/scaling-nodejs/) - Learn everything about building, deploying and scaling Node.js applications in production.
 
 ### Discovery
 

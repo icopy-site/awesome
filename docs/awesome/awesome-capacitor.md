@@ -196,6 +196,7 @@ Independents plugins are listed here.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - Zalo login plugin for Capacitor.
 - [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
 
+
 ## Cordova plugins
 
 ### Compatible
