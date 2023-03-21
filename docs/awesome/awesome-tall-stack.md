@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="livewire/awesome-tall-stack"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome TALL Stack [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/blade-ui-kit/awesome-tall-stack/workflows/Lint%20Awesome%20List/badge.svg)
 
 > A curated list of awesome things related to the TALL stack.

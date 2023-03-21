@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="master-co/awesome-master-css"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Master CSS [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) 
    
 <a href="https://raw.githubusercontent.com/master-co/css#readme"><picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/33840671/205240887-0e354830-f0d4-4eb6-b604-9f7b8112c92c.svg"><source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/33840671/205238744-7355106d-d454-4b3d-a40a-7b19e34ddb9d.svg"><img alt="Master CSS" src="https://user-images.githubusercontent.com/33840671/205238744-7355106d-d454-4b3d-a40a-7b19e34ddb9d.svg" height="60" width="350" align="right"></picture></a>

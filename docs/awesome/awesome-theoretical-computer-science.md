@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="mostafatouny/awesome-theoretical-computer-science"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ![banner](https://raw.githubusercontent.com/mostafatouny/awesome-theoretical-computer-science/master/./TCS-banner.png)
 ## Awesome Theoretical Computer Science [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 The interdisciplinary of Mathematics and Computer Science; It is distinguished by its emphasis on mathemtical technique and rigour.

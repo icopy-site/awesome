@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="vlang/awesome-v"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!--lint disable no-dead-urls-->
 
 <p align="center"><img src="https://raw.githubusercontent.com/vlang/awesome-v/master/media/awesome-v-logo.svg?sanitize=true" width="400"/></p>

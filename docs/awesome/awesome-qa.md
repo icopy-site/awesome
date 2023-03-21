@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="seriousran/awesome-qa"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Question Answering [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 _A curated list of the __[Question Answering (QA)](https://en.wikipedia.org/wiki/Question_answering)__ subject which is a computer science discipline within the fields of information retrieval and natural language processing (NLP) toward using machine learning and deep learning_

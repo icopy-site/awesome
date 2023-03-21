@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="thomasbnt/awesome-web-monetization"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <img src="https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/wm_icon_animated.svg?sanitize=true" alt="Logo Web Monetization" align="right" width="120px" />
 
 ## Awesome Web Monetization [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)

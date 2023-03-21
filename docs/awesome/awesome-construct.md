@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="ConstructCommunity/awesome-construct"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Construct [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://construct-static.com/images/v861/r/global/construct-3-logo_v130.png" align="right" width="100">](https://www.construct.net/)

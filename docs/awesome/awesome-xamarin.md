@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="XamSome/awesome-xamarin"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome-Xamarin [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 A hand-picked bookmark collection of subjectively modern/interesting and ideally open-source libraries/tools for Xamarin Android/iOS/Windows/OSX

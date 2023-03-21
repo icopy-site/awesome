@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="johnjago/awesome-free-software"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Software in this list is distributed under terms that allow anyone to use, modify, and share the software for any purpose. The two most popular licenses are the [MIT License](https://choosealicense.com/licenses/mit/) and the [GNU GPL](https://choosealicense.com/licenses/gpl-3.0/), but there are [many other licenses](https://choosealicense.com/appendix/) which grant these permissions.

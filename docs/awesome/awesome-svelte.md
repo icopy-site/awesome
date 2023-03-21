@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="TheComputerM/awesome-svelte"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
   <br>
   <img width="200" src="https://raw.githubusercontent.com/TheComputerM/awesome-svelte/master/./awesome-svelte.svg?sanitize=true" alt="awesome-svelte logo">

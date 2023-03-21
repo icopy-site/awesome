@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="philsturgeon/awesome-earth"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Earth ![Ecologi (Carbon Offset)](https://img.shields.io/ecologi/carbon/philsturgeon) ![Ecologi (Trees)](https://img.shields.io/ecologi/trees/philsturgeon) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 The world is simultaneously underwater and on fire, and people want to know what they can do about it. Let's share resources, services, products and ideas you can use to stop kicking the planet in the face.

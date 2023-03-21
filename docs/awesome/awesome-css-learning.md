@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="micromata/awesome-css-learning"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome CSS Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="125" align="right" alt="CSS Logo"></a>
 
 > An awesome list limited to the best CSS learning resources

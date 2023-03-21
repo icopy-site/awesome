@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="craftcms/awesome"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Craft CMS ![Awesome](https://badgen.net/badge/icon/Resources?icon=awesome&label=Craft%20CMS&labelColor=red&color=black)
 
 Official list of [awesome](https://github.com/topics/awesome) Craft CMS resources, article, and other and shiny things.

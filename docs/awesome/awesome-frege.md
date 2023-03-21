@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="sfischer13/awesome-frege"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!--lint disable double-link-->
 
 ## Awesome Frege [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

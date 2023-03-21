@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="arbox/machine-learning-with-ruby"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <img title="Awesome Machine Learning with Ruby" alt="Awesome Machine Learning with Ruby" src="https://raw.githubusercontent.com/arbox/machine-learning-with-ruby/master/header.png" align="center">
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)

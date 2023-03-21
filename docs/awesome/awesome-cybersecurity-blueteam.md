@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="fabacab/awesome-cybersecurity-blueteam"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Cybersecurity Blue Team [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > A collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.

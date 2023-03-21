@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="YuzheSHI/awesome-agi-cocosci"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
 	<img width="400" height="253" src="https://raw.githubusercontent.com/YuzheSHI/awesome-agi-cocosci/master/assets/abd_map.png" alt="Roadmap of studying Abduction">
 </div>
@@ -1331,6 +1330,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 * [Do New Caledonian crows solve physical problems through causal reasoning?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.183.4674&rep=rep1&type=pdf) - ***Proceedings of the Royal Society B: Biological Sciences***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=18374985546068164189&hl=en&as_sdt=0,5)]. A piece of evidence for the capability of causal reasoning in intelligent animals.
  
 * [Do six-month-old infants perceive causality?](http://fitelson.org/woodward/leslie.pdf) - ***Cognition***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=14270905342434182186&hl=en&as_sdt=0,5)].
+
 
 
 ### Commonsense

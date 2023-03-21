@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="leomaurodesenv/game-datasets"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## :video_game: Awesome Game Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 In computer science, Artificial Intelligence (AI) is intelligence demonstrated by machines. Its definition, AI research as the study of "intelligent agents": any device that perceives its environment and takes actions that achieving its goals _Russell et. al (2016)_.   

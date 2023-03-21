@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="ambster-public/awesome-qlik"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Qlik [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://webapps.qlik.com/WarsawMarathon/qlik.jpg" width="250" align="right" alt="Qlik logo">](https://qlik.com)
 
 > Curated list of awesome [Qlik](https://qlik.com) guides, blogs, extensions, and other resources.

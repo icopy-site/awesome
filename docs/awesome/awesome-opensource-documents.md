@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="44bits/awesome-opensource-documents"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Open Source Documents
 
 This is not a list of free programming books. This is a curated list of open source or open source licensed documents, guides, and books which can be read, used, modified, translated, redistributed and even rewritten under their same license.

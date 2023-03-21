@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="mhxion/awesome-discord-communities"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <img align="right" height="207x" width="205px" alt="Banner" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/awesome_programming_discord.webp">
 
 <!-- omit in toc -->

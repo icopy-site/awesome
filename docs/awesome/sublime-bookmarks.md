@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="dreikanter/sublime-bookmarks"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Sublime Text Bookmarks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > [Sublime Text](http://www.sublimetext.com/) is a cross-platform text and source code editor, with a Python application programming interface. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. — [Wikipedia](https://en.wikipedia.org/wiki/Sublime_Text)

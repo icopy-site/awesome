@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="wardley-maps-community/awesome-wardley-maps"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Wardley Maps Community Hub [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) is a technique that helps you examine your environment, identify upcoming changes and properly choose your actions. By examining what is needed, what components will be in use, what are their dependencies and characteristics, you can build a visual representation of your world, play what-if games, and pick your direction and best actions to support it.

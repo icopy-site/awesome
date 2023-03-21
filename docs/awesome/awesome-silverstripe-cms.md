@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="wernerkrauss/awesome-silverstripe-cms"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Silverstripe CMS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!--lint disable double-link-->
 [<img src="https://raw.githubusercontent.com/wernerkrauss/awesome-silverstripe-cms/master/images/logo-silverstripe-cms.png" align="right" width="200">](https://www.silverstripe.org/)

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="pajaydev/awesome-web-performance-budget"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Web Performance Budget [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > Web Performance Budget is a group of limits to certain values that affect site performance that should not be exceeded in the design and development of any web project. By setting up the performance budget, we can focus more towards performance which can improve the speed and overall user experience of our websites. This list help us to provide link to various articles, projects, tools and techniques to maintain performance budget.
 

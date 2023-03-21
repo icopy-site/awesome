@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="papers-we-love/papers-we-love"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
 
  [![Discord](https://img.shields.io/static/v1?label=Discord&message=join%20us!&color=mediumslateblue)](https://discord.gg/Tu2VynkRWV)

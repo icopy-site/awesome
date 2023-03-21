@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="DopplerHQ/awesome-interview-questions"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">	
 	<p>	
 		<a href="https://doppler.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-interview&utm_source=github">	

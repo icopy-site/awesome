@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="godotengine/awesome-godot"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Godot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Godot Engine logo](https://raw.githubusercontent.com/godotengine/awesome-godot/master/godot-logo.svg?sanitize=true)](https://godotengine.org)
@@ -85,9 +84,13 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Non-game Open source projects made with Godot (tools/utilities).*
 
+#### Godot 4.0
+
+- [Clipboard Narrator](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
+
 #### Godot 3.5+
 
- - [GATT - Godot Autotile Texture Templater](https://github.com/sesopenko/gatt) - A tool for generating 2x2 and 3x3 autotile tilesets in whichever size and colour needed.
+- [GATT - Godot Autotile Texture Templater](https://github.com/sesopenko/gatt) - A tool for generating 2x2 and 3x3 autotile tilesets in whichever size and colour needed.
 
 #### Godot 3.2+
 

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="koolamusic/awesome-imba"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
 	<a href="http://imba.io" align="center" target="_blank">
 		<img width="400" src="https://raw.githubusercontent.com/koolamusic/awesome-imba/master/./logo/imba-awesome-logo.min.svg?sanitize=true">

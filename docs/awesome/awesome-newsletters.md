@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="zudochkin/awesome-newsletters"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Newsletters [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![Build Status](https://api.travis-ci.org/zudochkin/awesome-newsletters.svg)](https://travis-ci.org/zudochkin/awesome-newsletters)
 
 A curated list of awesome newsletters.

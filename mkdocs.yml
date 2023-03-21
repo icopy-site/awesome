@@ -1,5 +1,5 @@
 # Project Information
-site_name: Awesome List 
+site_name: Awesome List
 site_description: Awesome list collection
 site_author: chenjiajia
 site_url: https://asmen.icopy.site
@@ -10,7 +10,7 @@ repo_url: 'https://github.com/icopy-site/awesome'
 edit_uri: 'blob/master/docs/'
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2019'
+copyright: 'Copyright &copy; 2016 - 2023'
 
 # Contents
 nav:
@@ -696,7 +696,6 @@ nav:
 # Theme
 theme:
   name: material
-# Customization
 extra:
   search:
     language: 'en'

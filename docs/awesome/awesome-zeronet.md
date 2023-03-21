@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="zolagonano/awesome-zeronet"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
   <br>
   <a href="https://zeronet.io"><img width="100" src="https://raw.githubusercontent.com/zolagonano/awesome-zeronet/master/./assets/logo.png" alt="ZeroNet's logo"></a>
