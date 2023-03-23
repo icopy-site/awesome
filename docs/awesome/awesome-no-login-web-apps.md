@@ -336,6 +336,7 @@ To save the world from creating user accounts and installing software applicatio
 * [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if one needs to tweet their instagrams as native photos on twitter then IFTTT can come in handy.
 * [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
 * [Morsify](https://morsify.net) - Online Morse code translator.
+* [Dub](https://dub.sh/) - Open-source link shortener.
 
 -----
 

@@ -115,6 +115,8 @@ Table of contents:
 * [Ankit](https://twitter.com/ankitsharma_007)
 * [Siddharth Ajmera](https://twitter.com/SiddAjmera)
 * [Muhammad Ahsan Ayaz](https://twitter.com/codewith_ahsan) 
+* [Dmytro Mezhenskyi](https://twitter.com/DecodedFrontend) 
+* [Michael Hladky](https://twitter.com/Michael_Hladky) 
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering
@@ -146,6 +148,7 @@ Table of contents:
 * [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 * [List of 100 Angular Interview questions and answers](https://github.com/sudheerj/angular-interview-questions)
 * [Angular References](https://ngrefs.com)
+* [Angular Developer Roadmap](https://roadmap.sh/angular)
 
 #### Features
 
@@ -300,6 +303,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Angular Institute](https://angular.institute/) `angular.institute`
 * [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `Ankit Sharma`
 * [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) `Packt Publishing`
+* [Build a Frontend Web Framework (From Scratch)](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch) `Manning Publications`
 
 #### On-Site Training
 
@@ -379,6 +383,8 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [NG-Dashboard](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light](https://github.com/YagoLopez/material-light?ref=awesome-angular). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](https://leafletjs.com). [DEMO ONLINE](https://yagolopez.js.org/ng-dashboard/dist/)
 * [HowToKeepAngularDeploymentSizeSmall](https://github.com/younos1986/HowToKeepAngularDeploymentSizeSmall) - A sample included Homepage and Dashboard for Angular 7 and a demonestration of How To Keep Angular Deployment Size Small
+* [Angular Material Dashboard](https://github.com/flatlogic/angular-material-dashboard) - Responsive Angular admin dashboard with material design based on Angular Material.
+
 
 #### Pipes
 

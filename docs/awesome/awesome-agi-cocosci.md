@@ -1571,6 +1571,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 * [Biocoder: A programming language for standardizing and automating biology protocols](https://jbioleng.biomedcentral.com/track/pdf/10.1186/1754-1611-4-13.pdf) - ***Journal of Biological Engineering***, 2010. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=15572197190838916795)]. Microsoft's programming language for representing biology protocols.
 
 
+
 ### Cognitive Development
 
 * [Machine Common Sense Concept Paper](https://arxiv.org/abs/1810.07528) - ***DARPA***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=1603121108181262769&hl=en&as_sdt=0,5)]. DARPA's perspective on integrating core knowledge from development psychology into machine intelligence systems.

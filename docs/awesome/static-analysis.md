@@ -1797,6 +1797,8 @@ It is inspired by, contains code from and is designed to stay close to [Kubeval]
 
 - [brakeman](https://brakemanscanner.org) — A static analysis security vulnerability scanner for Ruby on Rails applications.
 
+- [Credential Digger](https://github.com/SAP/credential-digger) — Credential Digger is a GitHub scanning tool that identifies hardcoded credentials (Passwords, API Keys, Secret Keys, Tokens, personal information, etc),  and filtering the false positive data through a machine learning model called [Password Model](https://huggingface.co/SAPOSS/password-model). This scanner is able to detect passwords and non structured tokens with a low false positive rate. 
+
 - [Datree](https://datree.io/) — A CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies
 
 - [detect-secrets](https://github.com/Yelp/detect-secrets) — An enterprise friendly way of detecting and preventing secrets in code.
