@@ -47,9 +47,6 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
 
-### i18n manager
-- [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - I18n manager for Windows.
-
 ### Translation software
 - [OmegaT](https://omegat.org/) - Free translation memory application that works on Windows, macOS and Linux.
 - [Argos Translate](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
@@ -122,7 +119,6 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Lexico](https://www.lexico.com/) - Provides a collection of dictionaries of English and Spanish, and curiosities about many words and languages (in the "Explore" section). It is produced by Oxford University Press.
 - [The Translator's Teacup](https://lingocode.com/translation-blog/) - Contains good tips for beginner translators.
 - [Speaking of Translation](https://speakingoftranslation.com/) - Run by two outstanding experts in the field of translation and localization. You can listen to audio files covering their tips and opinions on the freelance translator's work.
-- [Between Translations](http://foxdocs.biz/BetweenTranslations/) - Run by Jayne Fox, a German into English translator. It talks about continuing professional development (CPD) for translators and the use of technology (especially CAT tools/TEnTs) to support their work.
 - [eMpTy Pages](http://kv-emptypages.blogspot.com/) - Presents extremely detailed descriptions and opinions about localization management, collaborative translation platforms, translation management systems, machine translation, as well as the localization industry's biggest players.
 
 ## Online Courses
