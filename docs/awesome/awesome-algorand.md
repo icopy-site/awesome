@@ -23,6 +23,8 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
     <a target="_blank" href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?color=gold" /></a>
 </p>
 
+🤖 By the way, you can also chat with AI chat bot available at [AwesomeAlgo AI Chat](https://chat.awesomealgo.com/) to get answers to your questions on any of the resources available in this repository and readme 😊
+
 
 
 ## Official Resources
@@ -113,6 +115,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 - [AlgoKit CLI](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network. Official tooling maintained by the Algorand Foundation.
 - [tealinspector](https://github.com/Hipo/tealinspector) - Quick and easy TEAL code debugging by Hipo labs.
+
 ### Languages
 
 > Awesome client libraries, tools, and community utilities sorted by the language of implementation.
