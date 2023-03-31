@@ -267,6 +267,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Aorist](https://aorist.art/) - NFT art gallery and marketplace.
 - [ZestBloom](https://zestbloom.com/) - Digital Media NFT marketplace that offers ways to promote artists for their contributions.
 - [ASA cafe](https://asa.cafe/) - Algorand Standard Asset platform and decentralized marketplace built by [@CryptoRUSHGav](https://github.com/CryptoRUSHGav). ASA cafe lets users mint and trade freely using the most modern standards, such as ARC-19, in Algo, USDC, or one of ASA cafe's expanding list of curated non-network tokens.
+- [Grid](https://grid.zestbloom.com/) - The Grid is a lightweight, static site that executes in the clients frontend to retrieve an arbitrary list of live contracts for users to browse and interact with. The Grid is highly configurable allowing for any of the ZestBloom supported contracts and sale types to be displayed, but through means of a simple configuration file, what gets displayed may easily be constrained to only a specific collection or curated list of sales.
 
 ## DeFi Platforms
 

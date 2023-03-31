@@ -1840,6 +1840,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 * [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) - ***MIT***, [Computer-Aided Programming Group](http://groups.csail.mit.edu/cap/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***.
 
 
+
 ### Stanford
 
 * [Li Fei-Fei](https://profiles.stanford.edu/fei-fei-li) - ***Computer Science Department, Human-Centered AI Institute, Stanford***, [Stanford Vision and Learning Lab](https://svl.stanford.edu/) - ***Stanford***.
