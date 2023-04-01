@@ -9,18 +9,20 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 
 
 ## Recommended reading
+- [How Large Language Models Will Transform Science, Society, and AI](https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai) - Article summarizing the capabilities and limitations of the GPT-3 model, and its potential impact on society. By Alex Tamkin and Deep Ganguli, February 5, 2021.
 - [Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/) - A comprehensive examination of the generative AI industry, offering a historical perspective and in-depth analysis of the industry ecosystem. By Sonya Huang, Pat Grady and GPT-3, September 19, 2022.
 - [A Coming-Out Party for Generative A.I., Silicon Valley's New Craze](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) - Article about the rise of generative AI, particularly the success of the Stable Diffusion image generator, and the associated controversies. New York Times, October 21, 2022.
 - [AI's New Creative Streak Sparks a Silicon Valley Gold Rush](https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/) - Article about the growing hype and investment in generative AI startups, with various industries exploring its potential applications. Wired, October 27, 2022.
-- [How Large Language Models Will Transform Science, Society, and AI](https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai) - Article summarizing the capabilities and limitations of the GPT-3 model, and its potential impact on society. By Alex Tamkin and Deep Ganguli, February 5, 2021.
+- [ChatGPT Heralds an Intellectual Revolution](https://www.wsj.com/articles/artificial-intelligence-generative-ai-chatgpt-kissinger-84512912) - An op-ed by Henry Kissinger, Eric Schmidt and Daniel Huttenlocher. Wall Street Journal, February 24, 2023.
 
 ### Milestones
-- [GPT-4](https://openai.com/research/gpt-4) - Announcement of GPT-4, a large multimodal model. OpenAI blog, March 14, 2023.
-- [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) - Microsoft announces a new version of its search engine Bing, powered by a next-generation OpenAI model. Microsoft blog, February 7, 2023.
-- [ChatGPT](https://openai.com/blog/chatgpt/) - Announcement of ChatGPT, a conversational model trained to answer follow-up questions, admit mistakes, challenge incorrect premises, and reject inappropriate requests. OpenAI blog, November 30, 2022.
-- [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release) - Announcement of the public release of Stable Diffusion, an AI-based image generation model trained on a broad internet scrape and licensed under a Creative ML OpenRAIL-M license. Stable Diffusion blog, 22 August, 2022.
-- [DALL·E 2](https://openai.com/blog/dall-e-2/) - Announcement of the release of DALL·E 2, an advanced image generation system with improved resolution, expanded image creation capabilities, and various safety mitigations. OpenAI blog, April 6, 2022.
 - [OpenAI API](https://openai.com/blog/openai-api/) - Announcement of the OpenAI API for text-to-text general-purpose AI models based on GPT-3. OpenAI blog, June 11, 2020.
+- [GitHub Copilot](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/) - Announcement of Copilot, a new AI pair programmer that helps you write better code. GitHub blog, June 29, 2021.
+- [DALL·E 2](https://openai.com/blog/dall-e-2/) - Announcement of the release of DALL·E 2, an advanced image generation system with improved resolution, expanded image creation capabilities, and various safety mitigations. OpenAI blog, April 6, 2022.
+- [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release) - Announcement of the public release of Stable Diffusion, an AI-based image generation model trained on a broad internet scrape and licensed under a Creative ML OpenRAIL-M license. Stable Diffusion blog, 22 August, 2022.
+- [ChatGPT](https://openai.com/blog/chatgpt/) - Announcement of ChatGPT, a conversational model trained to answer follow-up questions, admit mistakes, challenge incorrect premises, and reject inappropriate requests. OpenAI blog, November 30, 2022.
+- [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) - Microsoft announces a new version of its search engine Bing, powered by a next-generation OpenAI model. Microsoft blog, February 7, 2023.
+- [GPT-4](https://openai.com/research/gpt-4) - Announcement of GPT-4, a large multimodal model. OpenAI blog, March 14, 2023.
 
 ## Text
 
@@ -192,6 +194,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
+- [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 
 ## More lists
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).

@@ -151,6 +151,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [SasLuca/zig-nanoid](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
 * [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) - Zig bindings for libVLC media framework.
 * [karlseguin/log.zig](https://github.com/karlseguin/log.zig) - Structured logging library.
+* [dantecatalfamo/9p-zig](https://github.com/dantecatalfamo/9p-zig) - 9P2000 client/server library.
 
 ## Network
 * [MasterQ32/zig-network](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.

@@ -1858,11 +1858,13 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 * [Jiajun Wu](https://jiajunwu.com/) - ***Computer Science Department, Stanford***.
 
 
+
 ### Princeton
 
 * [Tania Lombrozo](https://psych.princeton.edu/person/tania-lombrozo) - ***Princeton***, [Concepts & Cognition Lab](https://cognition.princeton.edu/) - ***Department of Psychology, Princeton***.
 
 * [Thomas Griffiths](https://cocosci.princeton.edu/tom/index.php) - ***Princeton***, [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) - ***Department of Psychology, Department of Computer Science, Princeton***.
+
 
 
 ### Harvard
@@ -1874,6 +1876,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 * [Samuel Gershman](https://psychology.fas.harvard.edu/people/samuel-j-gershman) - ***Harvard***, [Computational Cognitive Neuroscience Lab (CCN Lab)](https://gershmanlab.com/) - ***Department of Psychology, Harvard***.
 
 * [Fiery Cushman](https://psychology.fas.harvard.edu/people/fiery-cushman) - ***Harvard***, [Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/) - ***Department of Psychology, Harvard***.
+
 
 
 ### UCLA
@@ -1891,6 +1894,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 * [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - ***UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***Department of Computer Science, UCLA***.
 
 
+
 ### UC Berkeley
 
 * [Anca Dragan](https://people.eecs.berkeley.edu/~anca/index.html) - ***EECS, Berkeley***, [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***Berkeley***.
@@ -1904,6 +1908,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 * [Celeste Kidd](http://www.celestekidd.com/) - ***UCB***, [Kidd Lab](https://www.kiddlab.com/) - ***Department of Psychology, UCB***.
 
 
+
 ### UCSD
 
 * [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) - ***UCSD***, [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***UCSD***.
@@ -1911,6 +1916,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 * [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***UCSD***, [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***UCSD***.
 
 * [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***UCSD***, [Computational Cognition Lab](http://www.evullab.org/index.html) - ***UCSD***.
+
 
 
 ### NYU
@@ -1924,6 +1930,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 * [Todd Gureckis](https://as.nyu.edu/faculty/todd-gureckis.html) - ***NYU***, [Computation & Cognition Lab](http://gureckislab.org/) - ***NYU***.
 
 * [Wei Ji Ma](http://www.cns.nyu.edu/malab/people.html) - ***NYU***, [Wei Ji Ma Lab](http://www.cns.nyu.edu/malab/) - ***NYU***.
+
 
 
 ### Others
