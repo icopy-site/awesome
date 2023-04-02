@@ -65,7 +65,7 @@
 
 ### Package managers
 
-- [vpm](https://github.com/yue-best-practices/vpm) - The V language package management tool written in V.
+- [vpm](https://github.com/vlang/vpm) - The V language package management tool written in V.
 
 ### Project management
 
@@ -148,7 +148,6 @@
 
 - [V Earcut](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
 - [vgl](https://github.com/justicesuh/vgl) - Low-level graphics API access.
-- [vgui](https://github.com/BenStigsen/vgui) - Minimal, lightweight and cross-platform GUI library.
 - [viup](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 - [vsdl](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
