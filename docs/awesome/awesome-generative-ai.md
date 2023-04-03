@@ -38,6 +38,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Bard](https://bard.google.com) - An experimental AI chatbot by Google, powered by the LaMDA model.
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
+- [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
 
 ### Search engines
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
@@ -100,6 +101,8 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 
 ### Developer tools
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
+- [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
+- [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
 
 ## Code
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
@@ -112,7 +115,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
 - [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
 - [Pygma](https://pygma.app/) - Turn Figma designs into high-quality code.
-- [Kite](https://www.kite.com/) - Kite adds AI powered code completions to your code editor, giving developers superpowers.
+- [CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you stay confident when you push.
 - [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 

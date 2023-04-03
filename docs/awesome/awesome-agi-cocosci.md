@@ -1958,6 +1958,7 @@ Applied mathematician, the founder of General Pattern Theory.
 * [General Pattern Theory: A Mathematical Study of Regular Structures](https://global.oup.com/academic/product/general-pattern-theory-9780198536710?cc=lt&lang=de#) - ***Oxford University Press***, 1993. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=General+Pattern+Theory&btnG=)].
 
 
+
 ### David Marr
 
 Computational Cognitive Neuroscientist, the establisher of the Levels of Analysis.
