@@ -55,30 +55,29 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Supabase Cache Helpers](https://github.com/psteinroe/supabase-cache-helpers) - Collection of framework specific Cache utilities for working with Supabase.
 - [Postgres WASM by Snaplet and Supabase](https://supabase.com/blog/postgres-wasm) - Tool to run Postgres in the browser.
 
-## UI Libraries
-
-- [Supabase Auth UI](https://github.com/supabase-community/auth-ui) - A collection of pre built UI components that work seamlessly with [@supabase/auth-helpers](https://github.com/supabase/auth-helpers).
-
-
-## Videos, Livestreams, Talks
-
-- [Is Supabase Legit? Firebase Alternative Breakdown](https://youtu.be/WiwfiVdfRIc) - Video by Fireship.io on Supabase.
-- [Supabase Happy Hours](https://www.youtube.com/watch?v=IJoc6dKy03c&list=PL5S4mPUpp4Ouyw8bMupHgxC3VL9BLZzvV) - A signature ongoing series of livestreams hosted by the Supabase core team, where they try to create side projects using Supabase APIs and engage with the community. Hosted by core members [Thor Schaeff](https://thorweb.dev/), [Jon Meyers](https://jonmeyers.io/), Alaister Young and [Tyler Shukert](https://dshukertjr.dev/).
-- [Supabase Developer Stories](https://www.youtube.com/watch?v=QAm1x7KaLq4&list=PL5S4mPUpp4OuzQN-a_FY3OZQuYo4NmXvb) - An ongoing series where SaaS founders/co-founders that use Supabase to showcase their products.
-- [CityJS 2022 Talk on Building Billy with Supabase](https://www.youtube.com/watch?v=UiANV3uqT04&t=6841s) - A talk on how a React Native expense tracker side project is built with Supabase, by a SupaSquad member [Estee Tey](https://esteetey.dev/).
-- [Build An Image Gallery With Supabase Storage and React](https://www.youtube.com/watch?v=8tfdY0Sf2rA) - A tutorial on using Supabase to upload & serve images.
-
 
 ## Online Courses
 
 - [Build a Full-Stack App with Next.js, Supabase & Prisma](https://themodern.dev/courses/build-a-fullstack-app-with-nextjs-supabase-and-prisma-322389284337222224) - Learn to build a full-stack application from scratch using some of the best modern web technologies: React / Next.js, Prisma, and Supabase. Free course by [Grégory D'Angelo](https://twitter.com/gdangel0).
 - [Cache Supabase data at the Edge with Cloudflare Workers and KV Storage](https://egghead.io/courses/cache-supabase-data-at-the-edge-with-cloudflare-workers-and-kv-storage-883c7959) - Teaches devs how to query, perform cache crud operations on  Supabase with KV Storage using Cloudflare workers through a free course. 
 Featured at [Cloudflare x Supabase Developer Meetup](https://t.co/sqmDQahsA4). Free course by [Jon Meyers](https://twitter.com/jonmeyers_io).
+- [Vue JS Essentials: A Beginners Series on Pinia, Vitest, and Supabase](https://www.youtube.com/watch?v=W-D6h7Jne18) - A great series of in-depth tutorials, includes frontend tests and mocks to emulate a production grade project.
+
+## Videos, Podcasts, Livestreams, Talks
+
+- [Is Supabase Legit? Firebase Alternative Breakdown](https://youtu.be/WiwfiVdfRIc) - Video by Fireship.io on Supabase.
+- [Supabase Happy Hours](https://www.youtube.com/watch?v=IJoc6dKy03c&list=PL5S4mPUpp4Ouyw8bMupHgxC3VL9BLZzvV) - A signature ongoing series of livestreams hosted by the Supabase core team, where they try to create side projects using Supabase APIs and engage with the community. Hosted by core members [Thor Schaeff](https://thorweb.dev/), [Jon Meyers](https://jonmeyers.io/), Alaister Young and [Tyler Shukert](https://dshukertjr.dev/).
+- [Supabase Developer Stories](https://www.youtube.com/watch?v=QAm1x7KaLq4&list=PL5S4mPUpp4OuzQN-a_FY3OZQuYo4NmXvb) - An ongoing series where SaaS founders/co-founders that use Supabase to showcase their products.
+- [CityJS 2022 Talk on Building Billy with Supabase](https://www.youtube.com/watch?v=UiANV3uqT04&t=6841s) - A talk on how a React Native expense tracker side project is built with Supabase, by a SupaSquad member [Estee Tey](https://esteetey.dev/).
+- [Build An Image Gallery With Supabase Storage and React](https://www.youtube.com/watch?v=8tfdY0Sf2rA) - A tutorial on using Supabase to upload & serve images.
+- [PMF is one pivot away with Ant Wilson from Supabase](https://podcast.bitreach.io/episodes/product-market-fit-is-one-pivot-away-with-ant-wilson-founder-of-supabase) - Talks about Supabase's experiences of the phases before and after Product Market Fit (PMF).
+
 ## Integration Guides
 
 - [Firebase to Supabase](https://github.com/supabase-community/firebase-to-supabase) - A collection of guides of migrating from different components of Firebase such as Auth, Firestore, Storage, Functions to Supabase.
 - [How to Manage Your Supabase Database with Directus](https://directus.io/guides/directus-plus-supabase/) - Directus Studio provides a means to browse, manage, and visualize database content through a no-code app and this guide shows how to setup Supabase with Directus.
 - [Supabase admin panel tutorial with Retool](https://retool.com/blog/supabase-tutorial-admin-panel/) - Retool helps teams to build internal tools quickly. Learn how to setup an admin panel using Retool and Supabase.
+- [Set up a monorepo with Supabase and Turborepo](https://philipp.steinroetter.com/posts/supabase-turborepo) - Talks about how a codebase is migrated to a turborepo-powered pnpm monorepo that ships 3 NextJS apps, a Preact widget, a React Native app and two Fastify servers out of a single repository, all speaking to the same Supabase instance.
 
 ## Other interesting articles
 
