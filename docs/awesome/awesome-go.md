@@ -3163,6 +3163,7 @@ _Add the group of your city/country here (send **PR**)_
 
 ### Twitter
 
+- [@GoDiscussions](https://twitter.com/GoDiscussions)
 - [@golang](https://twitter.com/golang)
 - [@golang_news](https://twitter.com/golang_news)
 - [@golangch](https://twitter.com/golangch)
