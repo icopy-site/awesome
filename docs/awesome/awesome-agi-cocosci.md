@@ -1976,6 +1976,7 @@ Cognitive scientist, set up the foundations of studying human communications.
 * [The cultural origins of human cognition](https://hk1lib.org/book/541275/1452f8?id=541275&secret=1452f8) - ***Havard University Press***, 2000. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=5000469061641945144)].
 
 
+
 ### Judea Pearl
 
 Applied mathematician, proposed causal intervention on siamese bayesian networks. 
