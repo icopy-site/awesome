@@ -61,10 +61,12 @@ A curated list of bitcoin services and tools for software developers
 * [Smartbit](https://www.smartbit.com.au)
 * [Bitkit](https://bitkit.live) - Real time transaction updates.
 
+## C Libraries
+* [libsecp256k1](https://github.com/bitcoin-core/secp256k1)
+
 ## C++ Libraries
 * [Libbitcoin](https://libbitcoin.org/)
 * [libwally-core](https://github.com/ElementsProject/libwally-core)
-* [secp256k1](https://github.com/bitcoin-core/secp256k1)
 
 ## JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
@@ -82,6 +84,9 @@ A curated list of bitcoin services and tools for software developers
 
 ## Ruby Libraries
 * [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby)
+* [bitcoinrb](https://github.com/chaintope/bitcoinrb) - Ruby bitcoin library including script interpreter.
+* [bech32rb](https://github.com/azuchi/bech32rb) - Bech32 and Bech32m encode/decode library.
+* [bip-schnorrrb](https://github.com/chaintope/bip-schnorrrb) - Schnorr signature library for Bitcoin.
 
 ## Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
