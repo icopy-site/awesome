@@ -44,6 +44,7 @@ System integration is the process of linking together different IT systems (co
 ### API Documentation
 *API portals and documentation tools.*
 - [APITree](https://www.apitree.com/) - The central place for managing and sharing API specifications.
+- [DapperDox](http://dapperdox.io) - An Open-Source API documentation generator and server for OpenAPI/Swagger specifications.
 - [OpenAPI Explorer](https://github.com/Rhosys/openapi-explorer) - OpenAPI Web component to generate a UI from the spec.
 - [RapiDoc](https://github.com/rapi-doc/RapiDoc) - Create beautiful, customizable, interactive API documentation from OpenAPI Specification.
 - [Redoc](https://github.com/Redocly/redoc) - An open-source tool for generating documentation from OpenAPI (fka Swagger) definitions.
@@ -62,6 +63,7 @@ System integration is the process of linking together different IT systems (co
 - [KrakenD API Gateway](https://github.com/devopsfaith/krakend-ce) - Ultra-High performance API Gateway with middlewares.
 - [Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET API Gateway.
 - [Spring Cloud Gateway](https://spring.io/projects/spring-cloud-gateway) -  API Gateway built on top of the Spring Ecosystem, including: Spring 5, Spring Boot 2 and Project Reactor.
+- [Traefik](https://github.com/traefik/traefik) - A modern, open-source API gateway that is designed to handle dynamic container environments, such as Kubernetes, Docker Swarm, and Mesos. It provides features such as load balancing, SSL/TLS termination, rate limiting, circuit breaking, and more.
 - [Tyk API Gateway](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway, supporting REST, GraphQL, TCP and gRPC protocols.
 
 ### API Testing
@@ -77,7 +79,9 @@ System integration is the process of linking together different IT systems (co
 - MQ clients
   - [JMSToolBox](https://github.com/jmstoolbox/jmstoolbox) - An universal JMS Client able to interact with the greatest number of JMS based message brokers.
   - [kcat](https://github.com/edenhill/kcat) - A generic non-JVM producer and consumer for Apache Kafka, think of it as a netcat for Kafka. Formerly known as kafkacat.
+  - [MQTT Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview.
   - [Offset Explorer](https://www.kafkatool.com) - A GUI application for managing and using Apache Kafka clusters. Formerly known as Kafka Tool.
+  - [Service Bus Explorer](https://github.com/paolosalvatori/ServiceBusExplorer) - A GUI app for Azure Service Bus which provides advanced features like import/export functionality or the ability to test topic, queues, subscriptions, relay services, notification hubs and events hubs.
 - Mocking tools
   - [Microcks](https://github.com/microcks/microcks) - Open source Kubernetes Native tool for API Mocking and Testing. Supports AsyncAPI, OpenAPI, Postman Collections etc.
   - [Mockable](https://www.mockable.io/) - A simple configurable service to mock out RESTful API or SOAP web-services.
@@ -262,8 +266,10 @@ allow both IT and citizen developers to construct process-centric and case-centr
 ## Resources
 *Some useful specifications, patterns, articles and documentation.*
 ### API Specification
+- [API Blueprint](https://apiblueprint.org) - A high-level API description language that is used to design and document APIs.
 - [AsyncAPI](https://www.asyncapi.com/docs/specifications/v2.0.0) - The AsyncAPI specification settles the base for a greater and better tooling ecosystem for Event-Driven Architectures (EDA).
 - [GraphQL](https://github.com/graphql/graphql-spec) - A query language for APIs and a runtime for fulfilling those queries with your existing data.
+- [JSON:API](https://jsonapi.org) - A specification for building APIs that provides a standardized way to represent resources, relationships, and metadata.
 - [OpenAPI (ex.Swagger)](https://spec.openapis.org/oas/v3.1.0) - Defines a standard, language-agnostic interface to RESTful APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection. 
 - [RAML](https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md/) - RESTful API Modeling Language.
 - [WSDL](http://www.w3.org/TR/wsdl20) - XML-based interface description language for SOAP based services.
@@ -391,6 +397,7 @@ allow both IT and citizen developers to construct process-centric and case-centr
 
 ### Structure and Validation
 - [JSON Schema](https://json-schema.org/) - A powerful tool for validating the structure of JSON data.
+- [Schematron](https://www.schematron.com) - A rule-based validation language for business rules validation, data reporting, general validation, quality control, quality assurance, firewalling, filtering, constraint checking, naming and design rules checking, statistical consistency, data exploration, transformation testing, feature extraction and house-style-rules checking.
 - [XML Schema](https://www.w3.org/TR/xmlschema11-1/) - Offers facilities for describing the structure and constraining the contents of XML documents.
 
 ## Contributing

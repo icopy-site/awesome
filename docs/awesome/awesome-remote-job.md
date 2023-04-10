@@ -163,6 +163,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
   1. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
   1. [HN hiring](http://hnhiring.me/) – Filter REMOTE.
+  1. [Java Jobs](https://javajobs.pro/remote/jobs) - Remote Java Jobs
   1. [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
   1. [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) – Machine learning jobs. Filter -> Remote only.
   1. [Jobspresso](https://jobspresso.co/) * High-quality remote positions that are open and legitimate *
@@ -172,32 +173,34 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
   1. [NODESK](https://nodesk.co/remote-jobs/)
   1. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
+  1. [PyJobs.com](https://www.pyjobs.com/?remoteLevel[0]=1&remoteLevel[1]=2) - Jobs for Python developers
   1. [Remote Game Jobs](https://remotegamejobs.com/) - Find remote work and talent in the game industry.
   1. [remote-es/remotes](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotees](https://remotees.com/)
   1. [RemotExtra](https://www.remotextra.com/) - Remote developer jobs with transparent salaries
-  1. [Remote.co Jobs](https://remote.co/remote-jobs/)
-  1. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
-  1. [Remotive Jobs](https://remotive.io/)
-  1. [Remote People](https://remotepeople.io/)
-  1. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
-  1. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
-  1. [Skip the Drive](https://www.skipthedrive.com/)
-  1. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
-  1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
-  2. [Stream Native Jobs](https://streamnative.io/careers/) - Scroll down to `Join Us`
-  3. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
-  4. [Upwork](https://www.upwork.com) - Find remote jobs in any category
-  5. [Virtual Vocations](https://www.virtualvocations.com/)
-  6. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
-  7. [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
-  8. [Remote.com](https://remote.com) - Tries to auto-match you with jobs, can import profile from LinkedIn
-  9. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
-  10. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
-  11. [We Work Remotely](https://weworkremotely.com/)
-  12. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
-  13. [Working Nomads](https://www.workingnomads.co/jobs)
+  1. [Remotewide](https://remotewide.co/) - Find remote jobs with location independent pay
+  3. [Remote.co Jobs](https://remote.co/remote-jobs/)
+  4. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
+  5. [Remotive Jobs](https://remotive.io/)
+  6. [Remote People](https://remotepeople.io/)
+  7. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
+  8. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
+  9. [Skip the Drive](https://www.skipthedrive.com/)
+  10. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
+  11. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
+  12. [Stream Native Jobs](https://streamnative.io/careers/) - Scroll down to `Join Us`
+  13. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
+  14. [Upwork](https://www.upwork.com) - Find remote jobs in any category
+  15. [Virtual Vocations](https://www.virtualvocations.com/)
+  16. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
+  17. [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
+  18. [Remote.com](https://remote.com) - Tries to auto-match you with jobs, can import profile from LinkedIn
+  19. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
+  20. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
+  21. [We Work Remotely](https://weworkremotely.com/)
+  22. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
+  23. [Working Nomads](https://www.workingnomads.co/jobs)
 
 ## Job boards aggregators
   1. [Bergamot](https://bergamot.io/) - Provides the widest selection of remote tech jobs by monitoring over 150,000 companies' career pages. Full-text search and AI-powered geo filter inside. Free, no sign-up required.
@@ -258,6 +261,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   8. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
   9. [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
   10. [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
+  11. [Meetapro](https://meetapro.com/) - An Airbnb style mock interview platform with top FAANG interviewers
 
 ## Events
   1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
@@ -266,13 +270,14 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Newsletters
   1. [Daily Remote](https://dailyremote.com/newsletter) - A newsletter containing remote jobs crafted and curated especially for you
-  1. [Making Remote Work](https://www.mailerlite.com/remote-newsletter) - MailerLite's monthly remote newsletter sharing best practices, mistakes and learnings, world views (quite literally) and remote job vacancies.
-  1. [NODESK](https://nodesk.co/) - A newsletter about digital nomads and remote work that is sent out every two weeks.
-  1. [Remote Internships](https://smash.vc/startup-newsletter/)
-  1. [Remoteur](http://www.remoteur.com) - Remote jobs in Europe delivered to your inbox bi-weekly
-  1. [Remotive - productive remote workers](https://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
-  1. [Yonder Newsletter](https://yonder.io/newsletter) - Daily remote work tips, links, articles, and the Yonder Podcast
-  1. [Remote Jobs Club](https://remotejobsclub.com) - Weekly newsletter featuring a hand curated list of remote jobs
+  2. [Figures](https://joinfigures.com) - Set your salary requirement and receive remote jobs that pay more
+  3. [Making Remote Work](https://www.mailerlite.com/remote-newsletter) - MailerLite's monthly remote newsletter sharing best practices, mistakes and learnings, world views (quite literally) and remote job vacancies.
+  4. [NODESK](https://nodesk.co/) - A newsletter about digital nomads and remote work that is sent out every two weeks.
+  5. [Remote Internships](https://smash.vc/startup-newsletter/)
+  6. [Remoteur](http://www.remoteur.com) - Remote jobs in Europe delivered to your inbox bi-weekly
+  7. [Remotive - productive remote workers](https://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
+  8. [Yonder Newsletter](https://yonder.io/newsletter) - Daily remote work tips, links, articles, and the Yonder Podcast
+  9. [Remote Jobs Club](https://remotejobsclub.com) - Weekly newsletter featuring a hand curated list of remote jobs
 
 ## Podcasts
   1. [Building Remote Teams](https://www.buildingremoteteams.com/) - Targeted at people already working remotely and focuses on nuanced challenges of remote work.
@@ -337,6 +342,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [CRO Metrics](https://crometrics.com/careers/) - Data-driven expirementation and growth programs.
   1. [Crosscan](https://crosscan.com/jobs/) - Retail Analytics, IoT (PHP, React, Web, Mobile, Rust)
   1. [Crossover](https://app.crossover.com/x/marketplace/available-jobs) - Project-based Java, .Net and DevOps positions.
+  1. [Custimy](https://jobs.custimy.io/) - Customer Data Platform for e-commerce. Jobs with Spark, Python, Terraform, AWS, Node and more. EU timezone. HQ in Copenhagen with colleagues all over Europe. Fully remote allowed. Company gatherings and optional travel.
   1. [DareCode](https://www.darecode.com) - Big-data, fast-data, micro-services. Projects with real DevOps and OpenSource orientation.
   1. [Datadog](https://www.datadoghq.com/careers/) - Easy to use and scalable monitoring systems for modern and dynamic infrastructure.  Distributed team with offices in New York, Boston and Paris.  Engineers based all around the world.
   1. [DataStax](https://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
@@ -523,6 +529,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   156. [Zapier](https://zapier.com/about/)
   157. [ZipRecruiter](https://www.ziprecruiter.com/careers) - Perl/Catalyst shop that has some of the best Perl devs working remotely.
   158. [The Appraisal Lane](https://www.theappraisallane.com/careers) - A third-party vehicle appraisal service. Working space mainly in Austin and Montevideo but available in other countries.
+  159. [Iterative](https://iterative.notion.site/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a878a4d22) - ML Model Development for teams. Remotely worldwide
 
 ## Q&A
   1. Chegg Tutor: [Online tutoring jobs starting at $20+/hour](https://www.chegg.com/tutors/become-a-tutor/)
