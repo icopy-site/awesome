@@ -2014,6 +2014,7 @@ Scientific philosophor, the founder of scientific verification theories.
 * [All Life is Problem Solving](https://hk1lib.org/book/2773070/c48f60) - ***Routledge***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=9799073870888093350&hl=en&as_sdt=0,5)].
 
 
+
 ### John Hopcroft
 
 Applied Mathematician, theoretical computer scientist.
