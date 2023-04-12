@@ -48,6 +48,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [augeas.cr](https://github.com/fernandes/augeas.cr) - Bindings for [Augeas](https://augeas.net/)
  * [clang.cr](https://github.com/crystal-lang/clang.cr) - Libclang bindings
  * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
+ * [crystal-gsl](https://github.com/konovod/crystal-gsl) - Bindings for [GNU Scientific Library](https://www.gnu.org/software/gsl/)
  * [crystal-hunspell](https://github.com/mamantoha/crystal-hunspell) - Bindings for [Hunspell](https://hunspell.github.io/)
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
  * [fftw.cr](https://github.com/firejox/fftw.cr) - Bindings for [FFTW](https://fftw.org/) library
@@ -260,6 +261,7 @@ described in [RFC 8032]
  * [LinCAS-lang](https://github.com/LinCAS-lang) - A programming language for scientific computation
  * [mint-lang](https://github.com/mint-lang/mint) - A refreshing programming language for the front-end web
  * [myst-lang](https://github.com/myst-lang/) - A practical, dynamic language designed to be written and understood as easily and efficiently as possible
+ * [novika](https://github.com/novika-lang/novika) - A free-form, moldable, interpreted programming language
  * [runic-lang](https://github.com/runic-lang) - In-design toy language
 
 ## Internationalization

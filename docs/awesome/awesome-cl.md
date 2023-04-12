@@ -287,6 +287,8 @@ See also those libraries:
 * [burgled-batteries](https://github.com/pinterface/burgled-batteries) - A bridge between Python and Common Lisp. The goal is that Lisp programs can use Python libraries. Not available on Quicklisp. [MIT][200].
 * [cl4py](https://github.com/marcoheisig/cl4py) - The library cl4py (pronounce as clappy) allows Python programs to call Common Lisp libraries. [MIT][200].
 * [py4cl](https://github.com/bendudson/py4cl) - A library that allows Common Lisp code to access Python libraries. It is basically the inverse of cl4py. [MIT][200].
+* [py4cl2-cffi](https://github.com/digikar99/py4cl2-cffi) - CFFI based alternative to py4cl2.
+  * "When capable, the CFFI approach can be a 50 times faster than py4cl2."
 
 See also [async-process](https://github.com/cxxxr/async-process/).
 
@@ -984,6 +986,12 @@ Others
 
 ### OpenAPI, OData, OpenRPC
 
+* [openapi-generator](https://codeberg.org/kilianmh/openapi-generator) - OpenAPI client code generator. [AGPL-3.0][51].
+  * Generation of OpenAPI ASDF/Quicklisp-loadable projects within one command,
+  * Support for path, (arbitrary) query, (arbitrary) header, (json) content parameters,
+  * Conversion of an OpenAPI spec into CLOS object -> explore API within inspector,
+  * Conversion of OpenAPI-2.0 or YAML files to OpenAPI-3.0 JSON with swagger converter (network connection required),
+  * etc.
 * [apispec](https://github.com/cxxxr/apispec) -  A Common Lisp library for handling Web API requests and responses. [BSD_3Clause][15].
   - takes an OpenAPI3 yaml specification and allows to validate and parse HTTP request headers, parameters and bodies.
 * [cl-odata-client](https://github.com/copyleft/cl-odata-client) - Common Lisp client library for accessing [OData services](https://www.odata.org). [MIT][200].
@@ -1436,6 +1444,7 @@ Duration processing library built on top of local-time. [MIT][200].
 * [iso-8601-date](https://gitlab.com/DataLinkDroid/iso-8601-date) - Miscellaneous date routines in Common Lisp, based around the ISO 8601 string representation. [LLGPL][8].
 * [calendar-date](https://github.com/takagi/calendar-date) - a Gregorian calendar date library. [MIT][200].
 * [periods](https://github.com/jwiegley/periods) - manipulating date/time objects at a higher level. With series-compatible data structure. [BSD_3Clause][15].
+* [stopclock](https://github.com/Gleefre/stopclock) - a library for measuring time using (stop)clocks. It allows you to create a clock, pause it, resume it and change its speed. [Apache2.0][89].
 
 See also the book [Calendrical calculations](https://www.cambridge.org/us/academic/subjects/computer-science/computing-general-interest/calendrical-calculations-ultimate-edition-4th-edition?format=HB#resources), by Edward M. Reingold, Nachum Dershowitz, Cambridge Press. It provides Lisp sources.
 
