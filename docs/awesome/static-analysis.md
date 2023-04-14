@@ -1003,6 +1003,8 @@ It removes a feature of a dependency and then compiles the project to see if it 
 
 - [holistic](https://holistic.dev/) — More than 1,300 rules to analyze SQL queries. Takes an SQL schema definition and the query source code to generate improvement recommendations. Detects code smells, unused indexes, unused tables, views, materialized views, and more.
 
+- [sleek](https://github.com/nrempel/sleek) — Sleek is a CLI tool for formatting SQL.  It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.
+
 - [sqlcheck](https://github.com/jarulraj/sqlcheck) — Automatically identify anti-patterns in SQL queries.
 
 - [SQLFluff](https://www.sqlfluff.com/) — Multiple dialect SQL linter and formatter.

@@ -124,6 +124,7 @@ GeoJSON utilities that will make your life easier.
 * [country-levels](https://github.com/hyperknot/country-levels-export) Full planet GeoJSON extracts, based on ISO and FIPS codes.
 * [historical-basemaps](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
 * [99boundaries](https://github.com/TimMcCauley/nintynine-boundaries): Generate any maritime & land boundary in GeoJSON and other file formats or [download directly from the web](https://99boundaries.com)
+* [france-geojson](https://github.com/gregoiredavid/france-geojson): Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
 
 ### serialization
 
@@ -139,6 +140,7 @@ GeoJSON utilities that will make your life easier.
 * [RFC 7946 – The GeoJSON Format](https://tools.ietf.org/html/rfc7946): the current GeoJSON standard by IETF
 * [GeoJSON.org](http://geojson.org/): the first specification, defining all the rules for GeoJSON structures
 * [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html): a review of the concepts behind the specification in a more narrative format.
+* [geojson-invalid-geometry](https://github.com/chrieke/geojson-invalid-geometry): List of GeoJSON invalid geometry issues with example files.
 
 ## License
 
