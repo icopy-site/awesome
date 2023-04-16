@@ -150,12 +150,13 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### Communities
 - [hashcat Forum](https://hashcat.net/forum/) - Forum by the developers of hashcat.
-- [Hashmob](https://hashmob.net/) - A growing password recovery community aimed towards being a center point of collaboration for cryptography enthusiasts.
+- [Hashmob](https://hashmob.net/) - A growing password recovery community aimed towards being a center point of collaboration for cryptography enthusiasts. Huge wordlist collection and a lookup service too.
 - [Hashkiller Forum](https://forum.hashkiller.io/) - A password cracking forum with over 20,000 registered users.
 
 ### Lookup services
 - [CMD5](https://www.cmd5.org/) - Provides online MD5 / sha1/ mysql / sha256 encryption and decryption services.
 - [CrackStation](https://crackstation.net/) - Free hash lookup service supplying wordlists as well.
+- [gohashmob](https://github.com/n0kovo/gohashmob) - Go CLI app to quickly lookup hashes using the HashMob API.
 - [Hashes.com](https://hashes.com/) - A hash lookup service with paid features.
 - [Hashkiller](https://hashkiller.io/) - A hash lookup service with a forum.
 - [Online Hash Crack](https://www.onlinehashcrack.com/) - Cloud password recovery service.
@@ -254,6 +255,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [PassGAN: A Deep Learning Approach for Password Guessing (2017)](https://arxiv.org/pdf/1709.00440)
 
 ### Talks
+- [BsidesKY2023 - Leveling Up Password Attacks with Breach Data](https://github.com/JakeWnuk/Security-Conferences/blob/main/BsidesKY2023%20-%20Leveling%20Up%20Password%20Attacks%20with%20Breach%20Data.pdf)
 - [DEF CON Safe Mode Password Village - Getting Started with Hashcat](https://www.youtube.com/watch?v=MBTJ8f6Fsmg)
 - [DEF CON Safe Mode Password Village - Jeremi Gosney - Cracking at Extreme Scale](https://www.youtube.com/watch?v=4Ell1Tt23NI)
 - [DEF CON 28 Safe Mode Password Village – 'Let's Crack RockYou Without Using rockyou txt'](https://www.youtube.com/watch?v=8FtXntEsZdU)
