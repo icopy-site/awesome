@@ -8,8 +8,6 @@ A collection of awesome things regarding the React ecosystem.
 
 ### React
 
-> JavaScript Library for building User Interfaces
-
 #### React General Resources
 
 - [React Official Website](https://react.dev/)
@@ -44,29 +42,25 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Frameworks
 
-- [next.js](https://github.com/vercel/next.js) - The React Framework
-- [gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
+- [next](https://github.com/vercel/next.js) - The React Framework
+- [blitz](https://github.com/blitz-js/blitz) - The Missing Fullstack Toolkit for Next.js
+- [remix](https://remix.run/) - Full stack web Framework that lets you focus on the user interface
+- [gatsby](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
-- [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
-- [blitz.js](https://github.com/blitz-js/blitz) - The Missing Fullstack Toolkit for Next.js
-- [aleph.js](https://github.com/alephjs/aleph.js) - The React Framework in Deno
-- [refine](https://refine.dev) - A React-based framework for building data-intensive applications in no time.
+- [refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
+- [aleph](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno
 
 ##### React Hooks
 
 - [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
-- [useWorker](https://github.com/alewin/useWorker) - A React Hook for Blocking-Free Background Tasks
 
 ##### React Styling
 
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
-- [emotion](https://github.com/emotion-js/emotion) - Library designed for writing CSS styles with JavaScript
-- [radium](https://github.com/FormidableLabs/radium) - A toolchain for React component styling
-- [jss](https://github.com/cssinjs/jss) - Authoring tool for CSS
-- [aphrodite](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
-- [linaria](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS
-- [stitches](https://github.com/modulz/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience
+- [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
+- [linaria](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS library
 - [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+- [jss](https://github.com/cssinjs/jss) - authoring tool for CSS which uses JavaScript as a host language
 
 ##### React Routing
 
@@ -153,6 +147,8 @@ A collection of awesome things regarding the React ecosystem.
 - [cookie-consent-banner](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
 - [heart-switch](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
 - [keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get
+- [kbar](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
+- [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 
 ##### React Components Sandboxes
 
@@ -338,16 +334,13 @@ A collection of awesome things regarding the React ecosystem.
 
 ### React Native
 
-> Framework for building native apps using React
-
 #### React Native General Resources
 
-- [React Native Official Site](https://facebook.github.io/react-native/)
+- [React Native Official Website](https://reactnative.dev/)
 - [React Native GitHub](https://github.com/facebook/react-native)
-- [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/)
-- [React Native Playground](https://rnplay.org/)
 - [React Native Awesome List](https://github.com/jondot/awesome-react-native)
-- [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
+- [React Native Community](https://reactnative.dev/community/overview)
+- [Expo](https://expo.dev/)
 
 #### React Native Tutorials
 
@@ -383,7 +376,6 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Native Awesome Components
 
-- [Expo](https://expo.io/) - The Expo platform for making cross-platform mobile apps
 - [react-navigation](https://reactnavigation.org/) - Routing and navigation for your React Native apps
 - [react-native-social-share](https://github.com/doefler/react-native-social-share) - Use the iOS and Android native Twitter and Facebook share popup with React Native
 - [react-native-fbsdk](https://github.com/facebook/react-native-fbsdk) - A wrapper around the iOS Facebook SDK
@@ -399,6 +391,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-native-largelist](https://github.com/bolan9999/react-native-largelist) - The best large list component for React Native
 - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native
 - [rn-placeholder](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native
+- [react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet
 
 #### React Native Libraries
 
@@ -409,8 +402,6 @@ A collection of awesome things regarding the React ecosystem.
 - [uncompress-react-native](https://github.com/didisouzacosta/uncompress-react-native) - Simple library to decompress files .zip, .rar, .cbz, .cbr in React Native.
 
 ### Redux
-
-> Predictable State Container for JavaScript Apps
 
 #### Redux General Resources
 
@@ -462,6 +453,8 @@ A collection of awesome things regarding the React ecosystem.
 - [Citrusbyte Presents GraphQL: A Horizontal Platform with Nick Schrock](https://www.youtube.com/watch?v=LQFQl8EsV3k)
 - [Laney Kuenzel: Mutations and Subscriptions in Relay - JSConf 2015](https://www.youtube.com/watch?v=mmke4w4gc6c)
 - [React Today and Tomorrow and 90% Cleaner React With Hooks - React Conf 2018](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+- [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
+- [React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
 - [React Conferences](https://react.dev/community/conferences)
 - [React Videos](https://react.dev/community/videos)
 - [Awesome React Talks](https://github.com/tiaanduplessis/awesome-react-talks)
@@ -496,19 +489,6 @@ A collection of awesome things regarding the React ecosystem.
 #### [React Summit 2020 Playlist](https://portal.gitnation.org/events/react-summit-2020)
 
 #### [React Summit 2021 Playlist](https://portal.gitnation.org/events/react-summit-remote-edition-2021)
-
-#### Video Tutorials
-
-- [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
-
----
-
-### Demo React Apps
-
-- [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL
-- [react-reduction](https://github.com/reduction-admin/react-reduction) - Free Admin Template Built with React and Bootstrap4
-- [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) - Responsive React The Movie Database App
-- [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - Simple ecommerce cart application built with React Redux
 
 ---
 
