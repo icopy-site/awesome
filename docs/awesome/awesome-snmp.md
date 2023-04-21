@@ -53,12 +53,18 @@ _Helpful to write SNMP applications._
 
 ### Python
 - [pysnmp](https://github.com/etingof/pysnmp) - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
+  - This project has been abandoned [due to the death of the sole maintainer](https://github.com/etingof/pysnmp/issues/427).
+  - Some forks have been created to continue the project and the ecosystem around it. See [here](https://github.com/etingof/pysnmp/issues/429).
+  - The leading fork seems to be [lextudio/pysnmp](https://github.com/lextudio/pysnmp).
+  - There is also a [community fork](https://github.com/pysnmp/pysnmp) under active development, but it is not clear if that project is commited to maintaining all the associated repos, documentation, and websites.
 - [pysmi](https://github.com/etingof/pysmi) - PySMI is a pure-Python implementation of SNMP SMI MIB parser.
+  - Abandoned for the same reason as the above pysnmp project. See [lextudio/pysmi](https://github.com/lextudio/pysmi).
 - [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) - Net-SNMP 5.4 and later contains Python bindings in the "python" sub-directory, though, they are not built by default.
 - [puresnmp](https://github.com/exhuma/puresnmp) - Pure Python3 SNMPv2 library without any dependencies.
 - [snimpy](https://github.com/vincentbernat/snimpy) - Snimpy is a Python-based tool providing a simple interface to build SNMP query.
 - [python-netsnmpagent](https://github.com/pief/python-netsnmpagent) - This package allows to write net-snmp subagents in Python.
 - [hnmp](https://github.com/trehn/hnmp) - HNMP is a high-level Python library to ease the pain of retrieving and processing data from SNMP-capable devices such as network switches, routers, and printers.
+  - No development since November 2021.
 - [aiosnmp](https://github.com/hh-h/aiosnmp) - Python package aiosnmp is an asynchronous SNMP client for use with asyncio. Only SNMP v2c is supported.
 - [robotframework-snmplibrary](https://github.com/kontron/robotframework-snmplibrary) - SNMPLibrary is a Robot Framework test library for testing SNMP.
 - [Scapy](https://github.com/secdev/scapy) - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) to build/dissect SNMP packets.
