@@ -695,7 +695,9 @@ As stakeholder of the IAM stack, you're going to implement in the backend the ma
 
 ## Competitive Analysis
 
-A bunch of resources to keep track of the current status and progress of all companies operating in the domain.
+Keep track on the activity of open-source projects and companies operating in the domain.
+
+- [Best-of Digital Identity](https://github.com/jruizaranguren/best-of-digital-identity) - Ranking, popularity and activity status of open-source digital identity projects.
 
 - [AWS Security, Identity & Compliance announcements](https://aws.amazon.com/about-aws/whats-new/security_identity_and_compliance/) - The source of all new features added to the IAM perimeter.
 
