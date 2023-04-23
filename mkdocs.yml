@@ -378,6 +378,7 @@ nav:
     - Games of Coding: awesome/awesome-games-of-coding.md
     - Esports: awesome/awesome-esports.md
     - Learn Gamedev: awesome/awesome-learn-gamedev.md
+    - GameMaker: awesome/awesome-gamemaker.md
   - Development Environment:
     - Quick Look Plugins: awesome/quick-look-plugins.md
     - Dev Env: awesome/awesome-devenv.md
@@ -454,6 +455,8 @@ nav:
     - Product Management: awesome/awesome-product-management.md
     - Roadmaps: awesome/awesome-roadmaps.md
     - YouTubers: awesome/awesome-youtubers.md
+    - Hackathon: awesome/awesome-hackathon.md
+    - Certificates: awesome/awesome-certificates.md
   - Security:
     - Application Security: awesome/awesome-appsec.md
     - Security: awesome/awesome-security.md
@@ -588,6 +591,7 @@ nav:
     - Sketch: awesome/awesome-sketch.md
     - Boilerplate Projects: awesome/awesome-projects-boilerplates.md
     - Readme: awesome/awesome-readme.md
+    - GitHub Wiki: awesome/awesome-github-wiki.md
     - Design and Development Guides: awesome/guides.md
     - Software Engineering Blogs: awesome/engineering-blogs.md
     - Self Hosted: awesome/awesome-selfhosted.md

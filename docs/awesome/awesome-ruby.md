@@ -546,6 +546,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [flipper](https://github.com/jnunemaker/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
 * [Rollout](https://github.com/FetLife/rollout) - Feature flippers.
 * [Split](https://github.com/splitrb/split) - Rack Based AB testing framework.
+* [Unleash](https://github.com/Unleash/unleash-client-ruby) - Ruby client for Unleash, a powerful feature toggle system that gives you a great overview over all feature toggles across all your applications and services.
 * [Vanity](https://github.com/assaf/vanity) - an A/B testing framework for Rails that is datastore agnostic.
 
 ## File Upload
@@ -868,6 +869,7 @@ Where to discover new Ruby libraries, projects and trends.
 ## PDF
 
 * [CombinePDF](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
+* [Grim](https://github.com/jonmagic/grim) - Extract PDF pages as images and text. A simple Ruby API to ghostscript, imagemagick, and pdftotext.
 * [HexaPDF](https://github.com/gettalong/hexapdf) - A Versatile PDF Creation and Manipulation Library For Ruby.
 * [InvoicePrinter](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
 * [Kitabu](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown/Textile text markup using Ruby.

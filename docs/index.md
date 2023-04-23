@@ -547,6 +547,7 @@
 - [Games of Coding](awesome/awesome-games-of-coding.md) - Learn a programming language by making games.
 - [Esports](awesome/awesome-esports.md) - Video games played as a sport.
 - [Learn Gamedev](awesome/awesome-learn-gamedev.md) - The craft of video game creation.
+- [GameMaker](awesome/awesome-gamemaker.md) - Game engine.
 
 ## Development Environment
 
@@ -633,6 +634,8 @@
 - [Product Management](awesome/awesome-product-management.md) - Learn how to be a better product manager.
 - [Roadmaps](awesome/awesome-roadmaps.md) - Gives you a clear route to improve your knowledge and skills.
 - [YouTubers](awesome/awesome-youtubers.md) - Watch video tutorials from YouTubers that teach you about technology.
+- [Hackathon](awesome/awesome-hackathon.md) - Running fun and productive hackathons.
+- [Certificates](awesome/awesome-certificates.md) - Free computer science certifications to showcase your knowledge.
 
 ## Security
 
@@ -788,6 +791,7 @@
 - [Sketch](awesome/awesome-sketch.md) - Design app for macOS.
 - [Boilerplate Projects](awesome/awesome-projects-boilerplates.md)
 - [Readme](awesome/awesome-readme.md)
+- [GitHub Wiki](awesome/awesome-github-wiki.md) - Comprehensive documentation on GitHub beyond README.
 - [Design and Development Guides](awesome/guides.md)
 - [Software Engineering Blogs](awesome/engineering-blogs.md)
 - [Self Hosted](awesome/awesome-selfhosted.md)

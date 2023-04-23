@@ -101,6 +101,8 @@ Coursera
 * [100x Impact Accelerator](https://www.100ximpact.org/) - 12 week program with 150k for social enterprises.
 * [Fashion for Good Accelerator](https://accelerator.fashionforgood.com/) - Nine month program to solve fashion sustainability problems.
 * [Social Enterprise Academy Accelerator](https://www.academies-se.org/accelerator) - 20 week program to foster social enterprises. Up to 30k in funding available.
+* [Radical Partners](https://www.radical.partners) - Miami-based social impact accelerator.
+* [Seaworthy Collective](https://www.seaworthycollective.com) - Miami-based BlueTech entrepreneur support organization.
 
 ## Institutions 🏫
 Academic institutions researching social enterprise:
@@ -111,6 +113,7 @@ Academic institutions researching social enterprise:
 * [Copenhagen Business School Social Entrepreneurship](https://www.cbs.dk/en/knowledge-society/interdisciplinary-initiatives/entrepreneurship/organization/clusters/social-entrepreneurship)
 * [USC Marshall Masters in Social Entrepreneurship](https://www.marshall.usc.edu/programs/specialized-masters-programs/master-science-social-entrepreneurship/)
 * [The Elisabeth Bruyère School of Social Innovation](https://innovationsocialeusp.ca/en/school) - Canada's first school of social innovation.
+* [Pepperdine's MA in Social Entrepreneurship and Change](https://gsep.pepperdine.edu/masters-social-entrepreneurship-and-change/)
 
 
 ## Tools 🔨
