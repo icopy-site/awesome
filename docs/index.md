@@ -892,6 +892,7 @@
 - [Computational Geometry](awesome/awesome-computational-geometry.md) - Computational approaches for problems in geometry.
 - [OpenStreetMap](awesome/awesome-openstreetmap.md) - An open data mapping project utilized by many apps and devices.
 - [Computational Biology](awesome/awesome-computational-biology.md) - Computational approaches applied to problems in biology.
+- [Quarto](awesome/awesome-quarto.md) - Scientific and technical open-source publishing system built on Pandoc.
 
 ## Related
 

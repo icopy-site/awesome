@@ -8,9 +8,32 @@
 
 ## Awesome Certificates [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://badges.gitter.im/PanXProject/awesome-certificates.svg)](https://gitter.im/PanXProject/awesome-certificates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/3kSS9dvnPz) 
 
-An awesome list of free IT and computer science courses with certificates &amp; digital badges on completion. 
+A curated of list of IT, computer science and business courses with certificates &amp; digital badges to earn upon completion. 
 
-🏅= Digital Badges, 🏆 = Certificate of Completion
+Each course on the list is free to take as well as the badge and certificate. 
+
+The list is organized as follows:
+<ol>
+	<li>Course/certificate title</li>
+	<li>Course provider/certificate issuer name</li>
+	<li>Level of diffculty(Beginner, Intermediate or Professional)</li>
+	<li>Course/certificate duration in hours</li>
+	<li>Reward(🏅= Digital Badge or 🏆 = Certificate of Completion)</li>
+</ol>
+
+<b>Have ideas on how to improve this list or features you'd like to see?</b>
+<br>
+Kindly mention it [here](https://github.com/PanXProject/awesome-certificates/issues/new?assignees=&labels=&template=feature_request.md&title=%5BFEATURE%5D) by opening a new issue and we will do our best to address it.
+
+<b>Can't find the certificate you're looking for?</b>
+<br>
+Request it [here](https://github.com/PanXProject/awesome-certificates/issues/new?assignees=&labels=&template=certificate-request.md&title=%5BCERTIFICATE%5D) and we will find for you.
+
+
+<b>Something isn't quite right?</b>
+<br>
+Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?assignees=&labels=&template=bug_report.md&title=%5BBUG%5D).
+
 
 
 ## Security
@@ -156,6 +179,8 @@ An awesome list of free IT and computer science courses with certificates &amp; 
 | [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/docker-essentials-a-developer-introduction)|
 | [IBM Cloud Essentials](https://cognitiveclass.ai/courses/ibm-cloud-essentials) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-cloud-essentials.2)|
 | [Introduction to Containers, Kubernetes, and OpenShift](https://cognitiveclass.ai/courses/kubernetes-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-kubernetes-essentials)|
+| [Introduction to Kubernetes](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-kubernetes1) | Great Learning | Beginner | 1.5 | 🏆|
+| [Kubernetes in Google Cloud](https://www.cloudskillsboost.google/quests/29) | Google / Qwiki Labs |Intermediate|6 | [🏅](https://www.cloudskillsboost.google/quests/29)|
 
 
 ## Programming Languages
@@ -215,6 +240,28 @@ An awesome list of free IT and computer science courses with certificates &amp; 
 | [Problem Solving](https://www.hackerrank.com/skills-verification/problem_solving_basic) | HackerRank |Beginner| 1.5 | 🏆|
 | [Problem Solving](https://www.hackerrank.com/skills-verification/problem_solving_intermediate) | HackerRank |Intermediate| 1.5 | 🏆|
 | [Graph Modeling Email Course](https://memgraph.com/learn-graph-modeling) | Memgraph |Beginner| 1 | 🏅|
+
+
+## Business
+
+### Marketing
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| [Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing) | Google | Beginner | 40 | 🏅 |
+| [Email Marketing](https://academy.sendinblue.com/course/email-marketing-course-english) | SendinBlue | Beginner | 4 | 🏅 |
+
+### Project Management
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| [KICKOFF](https://www.pmi.org/kickoff) | Project Management Institute | Beginner | 0.75 | 🏅 |
+| [Project Management Essentials](https://www.msicertified.com/project-management/project-management-essentials-certified/) | Management and Strategy Institute | Beginner | 0.75 | 🏅 |
+| [Project Management Essentials](https://www.disasterready.org/free-certificate-project-management) | Disaster Ready | Beginner | 5 | 🏅 |
+
+
+### Support
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| [Customer Relationship Management](https://www.mygreatlearning.com/academy/learn-for-free/courses/customer-relationship-management) | Great Learning | Beginner | 1 | 🏆 |
 
 
 ## Other Awesome Lists

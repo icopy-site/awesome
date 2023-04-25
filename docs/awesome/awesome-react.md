@@ -71,6 +71,21 @@ A collection of awesome things regarding the React ecosystem.
 - [radix-primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality web apps
 - [nextui](https://github.com/nextui-org/nextui) - Beautiful, fast and modern React UI library
 
+#### React State Management and Data Fetching
+
+- [redux](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps
+- [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
+- [zustand](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
+- [tanstack-query](https://github.com/TanStack/query) - Powerful asynchronous state management
+- [swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
+- [apollo-client](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client
+- [relay](https://github.com/facebook/relay) - A framework for building data-driven React applications
+- [recoil](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
+- [jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React
+- [xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
+- [effector](https://github.com/zerobias/effector) - Business logic with ease
+
+
 #### React Hooks
 
 - [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
@@ -135,25 +150,6 @@ A collection of awesome things regarding the React ecosystem.
 - [storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
-
-#### React State Management
-
-- [redux](#redux) - Predictable State Container for JavaScript Apps
-- [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
-- [tanstack-query](https://github.com/TanStack/query) - Powerful asynchronous state management
-- [swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-- [apollo-client](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client
-- [relay](https://github.com/facebook/relay) - A framework for building data-driven React applications
-- [flux](http://facebook.github.io/flux/) - Application architecture for building user interfaces
-- [recoil](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
-- [jotai](https://github.com/pmndrs/jotai) - Bottom-up approach to React state management with an atomic model
-- [xstate-react](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - State machines and statecharts for the modern web
-- [zustand](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
-- [easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
-- [hookstate](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
-- [effector](https://github.com/zerobias/effector) - Fast and powerful reactive state manager
-- [reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management
-- [react-facet](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - Observable-based state management for performant game UIs built in React
 
 #### React Renderers
 
@@ -314,35 +310,6 @@ A collection of awesome things regarding the React ecosystem.
 - [react-native-device-info](https://github.com/react-native-community/react-native-device-info) - Device Information for React Native iOS and Android
 - [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) - A toolset to run React web app in React Native and handle communication between them.
 - [uncompress-react-native](https://github.com/didisouzacosta/uncompress-react-native) - Simple library to decompress files .zip, .rar, .cbz, .cbr in React Native.
-
-### Redux
-
-#### Redux General Resources
-
-- [Redux GitHub](https://github.com/reduxjs/redux)
-- [Redux Official Site](http://redux.js.org/)
-- [Awesome Redux List](https://github.com/xgrommx/awesome-redux)
-
-#### Redux Tools
-
-- [react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
-- [redux-toolkit](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
-- [redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
-- [reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
-- [redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for redux
-- [redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
-- [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state
-- [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for Redux
-- [redux-undo](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to redux state containers
-- [redux-persist](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a redux store
-- [Rematch](https://github.com/rematch/rematch) - Redux made easy
-
-#### Redux Tutorials
-
-- [Redux Essentials](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
-- [Redux Fundamentals](https://redux.js.org/tutorials/fundamentals/part-1-overview)
-- [Fundamentals of Redux Course from Dan Abramov](https://app.egghead.io/playlists/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
-- [Building React Applications with Idiomatic Redux](https://app.egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 ---
 

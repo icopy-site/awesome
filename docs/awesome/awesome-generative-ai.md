@@ -165,6 +165,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Avatar AI](https://avatarai.me/) - Create your own AI-generated avatars.
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio.
 - [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
+- [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
 
 ### Image libraries
 
@@ -225,6 +226,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [Learn Prompting](https://learnprompting.org/) - A free, open source course on communicating with artificial intelligence.
+- [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
 
 ## More lists
 
