@@ -4,8 +4,6 @@
 A collection of awesome things regarding the React ecosystem.
 
 
----
-
 ### React
 
 #### React General Resources
@@ -14,11 +12,8 @@ A collection of awesome things regarding the React ecosystem.
 - [React GitHub](https://github.com/facebook/react)
 - [Reactiflux Discord Channel](http://www.reactiflux.com/)
 - [React Community](https://react.dev/community)
-
-#### React Online Playgrounds
-
-- [CodeSandbox](https://codesandbox.io/s/new)
-- [JSFiddle](https://jsfiddle.net/boilerplate/react-jsx)
+- [React Conferences](https://react.dev/community/conferences)
+- [React CodeSandbox Playground](https://codesandbox.io/s/new)
 
 #### React Tutorials
 
@@ -84,11 +79,10 @@ A collection of awesome things regarding the React ecosystem.
 - [jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React
 - [xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
 - [effector](https://github.com/zerobias/effector) - Business logic with ease
-
-
-#### React Hooks
-
-- [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
+- [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
+- [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript
+- [rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [watermelondb](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
 
 #### React Styling
 
@@ -151,17 +145,6 @@ A collection of awesome things regarding the React ecosystem.
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 
-#### React Renderers
-
-- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
-- [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React
-- [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
-- [react-blessed](https://github.com/Yomguithereal/react-blessed) - A React renderer for blessed terminal interface library
-- [react-sketchapp](https://github.com/airbnb/react-sketchapp) - Render React components to Sketch
-- [react-figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
-- [react-nil](https://github.com/pmndrs/react-nil) - A react null renderer
-- [remotion](https://github.com/JonnyBurger/remotion) - Create videos programmatically in React
-
 #### React Forms
 
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
@@ -176,6 +159,27 @@ A collection of awesome things regarding the React ecosystem.
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 - [tanstack-table](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
+
+#### React Maps
+
+- [react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
+- [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
+
+#### React Charts
+
+- [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+- [visx](https://github.com/airbnb/visx) - Visualization components
+- [victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
+- [react-vis](https://github.com/uber/react-vis) - Data Visualization Components
+- [nivo](https://github.com/plouc/nivo) - Provides a rich set of data visualization components built on top of the D3 and React libraries
+
+#### React Renderers
+
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
+- [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
+- [remotion](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
+- [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React
+- [react-figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
 
 #### React Internationalization
 
@@ -193,39 +197,6 @@ A collection of awesome things regarding the React ecosystem.
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 - [gooey-react](https://github.com/luukdv/gooey-react) - The gooey effect for React
 
-##### React Data Managing
-
-- [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
-- [ReSub](https://github.com/Microsoft/ReSub) - A library for writing better React components and data stores
-- [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable Data Collections for Javascript
-- [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
-- [RxDB](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications
-
-#### React Maps
-
-- [react-googlemaps](https://github.com/pieterv/react-googlemaps) - React interface to Google maps
-- [react-maps](https://github.com/matnel/react-maps) - A map component for React
-- [react-google-maps](https://github.com/tomchentw/react-google-maps) - React.js Google Maps integration component
-- [react-gmaps](https://github.com/MicheleBertoli/react-gmaps) - A Google Maps component for React.js
-- [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js plus overlay API
-- [google-map-react](https://github.com/istarkov/google-map-react) - Isomorphic google map React component
-- [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - A mapbox-gl-js wrapper to make the API react friendly
-- [google-maps-react](https://github.com/fullstackreact/google-maps-react) - A declarative Google Map React component using React, lazy-loading dependencies, current-location finder and a test-driven approach by the Fullstack React team.
-- [react-leaflet](https://react-leaflet.js.org/) - React components for Leaflet maps
-- [react-geo](https://github.com/terrestris/react-geo) - A set of geo-related components using react, antd, and ol
-- [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS maps without external dependencies
-
-#### React Charts
-
-- [vx](https://github.com/airbnb/visx) - Visualization components
-- [victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
-- [react-vis](https://github.com/uber/react-vis) - Data Visualization Components
-- [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
-- [nivo](https://github.com/plouc/nivo) - Provides a rich set of data visualization components, built on top of the D3 and React libraries
-- [echarts-for-react](https://github.com/hustcc/echarts-for-react) - Apache ECharts components for React wrapper
-- [react-apexcharts](https://github.com/apexcharts/react-apexcharts) - React Component for ApexCharts
-- [chartify](https://github.com/kis/chartify) - React plugin for building charts using CSS
-
 #### React Integration
 
 - [rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - A robustly typed language that compiles to efficient and human-readable JavaScript
@@ -233,14 +204,12 @@ A collection of awesome things regarding the React ecosystem.
 - [reagent](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React
 - [fulcro](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
 
-### React Real Apps
+#### React Real Apps
 
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - An open source platform for secure collaboration
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
-
----
 
 ### React Native
 
@@ -248,130 +217,24 @@ A collection of awesome things regarding the React ecosystem.
 
 - [React Native Official Website](https://reactnative.dev/)
 - [React Native GitHub](https://github.com/facebook/react-native)
-- [React Native Awesome List](https://github.com/jondot/awesome-react-native)
 - [React Native Community](https://reactnative.dev/community/overview)
 - [Expo](https://expo.dev/)
+- [Expo Snack Playground](https://snack.expo.dev/)
 
-#### React Native Tutorials
+#### React Native Navigation
 
-- [React Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
-- [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
-- [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
-- [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
-- [Digital Smart Mirror lab with React Native](http://atticuswhite.com/blog/react-native-smart-mirror-lab/)
-- [The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 1)](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
-- [The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 2)](https://www.smashingmagazine.com/2016/04/how-to-build-your-first-ios-app-with-javascript/)
-- [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
-- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
-- [Using React Native With TypeScript](https://medium.com/@jan.hesters/using-typescript-with-react-native-946aa4b4ae6f)
-
-#### React Native Development Tools
-
-- [flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers
-- [react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
-
-#### React Native Sample Apps
-
-- [HackerNews](https://github.com/iSimar/HackerNews-React-Native)
-- [Ziliun](https://github.com/sonnylazuardi/ziliun-react-native)
-- [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative)
-- [SplashWalls](https://github.com/nashvail/SplashWalls)
-- [NBAreact](https://github.com/jbkuczma/NBAreact)
-
-#### React Native Boilerplates
-
-- [Create React Native App](https://github.com/react-community/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
-- [Ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
+- [react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
+- [expo-router](https://github.com/expo/router) - The File-based router for universal React Native apps
 
 #### React Native Awesome Components
 
-- [react-navigation](https://reactnavigation.org/) - Routing and navigation for your React Native apps
-- [react-native-social-share](https://github.com/doefler/react-native-social-share) - Use the iOS and Android native Twitter and Facebook share popup with React Native
-- [react-native-fbsdk](https://github.com/facebook/react-native-fbsdk) - A wrapper around the iOS Facebook SDK
-- [react-native-side-menu](https://github.com/Kureev/react-native-side-menu) - Simple customizable component to create side menu
-- [react-native-mapbox-gl](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module
-- [react-native-icons](https://github.com/corymsmith/react-native-icons) - Quick and easy icons in React Native
-- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - 3000 Customizable Icons for React Native with support for NavBar/TabBar
-- [react-native-google-signin](https://github.com/apptailor/react-native-google-signin) - Google Signin for React Native
-- [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view)
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native
-- [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component
-- [recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
-- [react-native-largelist](https://github.com/bolan9999/react-native-largelist) - The best large list component for React Native
-- [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native
-- [rn-placeholder](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native
-- [react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet
 
 #### React Native Libraries
 
-- [sentry-react-native](https://github.com/getsentry/sentry-react-native) - Real-time crash reporting for your web apps, mobile apps, and games.
-- [realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
-- [react-native-device-info](https://github.com/react-native-community/react-native-device-info) - Device Information for React Native iOS and Android
-- [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) - A toolset to run React web app in React Native and handle communication between them.
-- [uncompress-react-native](https://github.com/didisouzacosta/uncompress-react-native) - Simple library to decompress files .zip, .rar, .cbz, .cbr in React Native.
-
----
-
-### Videos
-
-#### Important Talks
-
-- [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
-- [Pete Hunt: React: Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
-- [Tom Occhino and Jordan Walke: JS Apps at Facebook - JSConfUS 2013](https://www.youtube.com/watch?v=GW0rj4sNH2w)
-- [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
-- [Pete Hunt: Be Predictable, Not Correct - Mountain West JavaScript 2014](https://www.youtube.com/watch?v=h3KksH8gfcQ)
-- [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw)
-- [Christopher Chedeau: Why does React Scale? - JSConf2014](https://www.youtube.com/watch?v=D-ioDiacTm8)
-- [Christopher Chedeau: React's Architecture - OSCON 2014](https://www.youtube.com/watch?v=eCf5CquV_Bw)
-- [Pete Hunt: React RESTful UI Rendering - Strange Loop 2014](https://www.youtube.com/watch?v=IVvHPPcl2TM)
-- [Pete Hunt: How Instagram.com Works - OSCON 2014](https://www.youtube.com/watch?v=VkTCL6Nqm6Y)
-- [Bill Fisher and Jing Chen: React and Flux - NewCircle Training 2014](https://www.youtube.com/watch?v=i__969noyAM)
-- [Sebastian Markbage: Minimal API Surface Area - JSConf EU 2014](https://www.youtube.com/watch?v=4anAwXYqLG8)
-- [Avik Chaudhuri: JavaScript Testing and Static Type Systems at Scale - Scale 2014](https://www.youtube.com/watch?v=M8x0bc81smU)
-- [React Native & Relay: Bringing Modern Web Techniques to Mobile - f8 2015)](https://www.youtube.com/watch?v=X6YbAKiLCLU)
-- [Citrusbyte Presents GraphQL: A Horizontal Platform with Nick Schrock](https://www.youtube.com/watch?v=LQFQl8EsV3k)
-- [Laney Kuenzel: Mutations and Subscriptions in Relay - JSConf 2015](https://www.youtube.com/watch?v=mmke4w4gc6c)
-- [React Today and Tomorrow and 90% Cleaner React With Hooks - React Conf 2018](https://www.youtube.com/watch?v=dpw9EHDh2bM)
-- [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
-- [React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
-- [React Conferences](https://react.dev/community/conferences)
-- [React Videos](https://react.dev/community/videos)
-- [Awesome React Talks](https://github.com/tiaanduplessis/awesome-react-talks)
-- [React.js Talks on GitNation Portal](https://portal.gitnation.org/tags/react)
-
-#### [React.js Conf 2015 Playlist](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr)
-
-#### [ReactEurope Conf 2015 Day 1 Playlist](https://www.youtube.com/playlist?list=PLCC436JpVnK0Phxld2dD4tM4xPMxJCiRD)
-
-#### [ReactEurope Conf 2015 Day 2 Playlist](https://www.youtube.com/playlist?list=PLCC436JpVnK3HvUSAHpt-LRJkIK8pQG6R)
-
-#### [ReactRally Conf 2015 Playlist](https://www.youtube.com/playlist?list=PLUD4kD-wL_zZhHy-G8hPNZTvx_M35loXQ)
-
-#### [React.js Conf 2016 Playlist](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY)
-
-#### [React Amsterdam 2016 Playlist](https://www.youtube.com/playlist?list=PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU)
-
-#### [ReactEurope Conf 2016 Day 1 Playlist](https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa)
-
-#### [ReactEurope Conf 2016 Day 2 Playlist](https://www.youtube.com/playlist?list=PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof)
-
-#### [ReactRally Conf 2016 Playlist](https://www.youtube.com/playlist?list=PLUD4kD-wL_zYSfU3tIYsb4WqfFQzO_EjQ)
-
-#### [React Conf 2017 Playlist](https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0)
-
-#### [React.js Amsterdam 2018 Playlist](https://www.youtube.com/playlist?list=PLNBNS7NRGKMFi_glL49hsoyqu7dHTMnNm)
-
-#### [React Amsterdam 2019 Playlist](https://www.youtube.com/playlist?list=PLNBNS7NRGKMHLTeH4qfD3F320GXfj97kc)
-
-#### [React Summit Remote Edition 2020 Playlist](https://portal.gitnation.org/events/react-summit-remote-edition-2020)
-
-#### [React Summit 2020 Playlist](https://portal.gitnation.org/events/react-summit-2020)
-
-#### [React Summit 2021 Playlist](https://portal.gitnation.org/events/react-summit-remote-edition-2021)
-
----
+- [realm-js](https://github.com/realm/realm-js) - A mobile database: an alternative to SQLite & key-value stores
+- [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
 
 ### Contribution
 
