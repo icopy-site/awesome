@@ -38,6 +38,8 @@
 - [Archcraft OS](https://archcraft-os.github.io/) - A Minimalistic Linux Distribution, Focused On Aesthetics & Based On Arch Linux.
 - [Archman](http://archman.org/) - An Arch Linux-based distribution which features the Calamares system installer and a pre-configured desktop environment.
 - [Bluestar Linux](https://sourceforge.net/projects/bluestarlinux/) - A GNU/Linux distribution that is based on Arch Linux.
+- [Crystal Linux](https://github.com/PandaFoss/Awesome-Arch/blob/master/Https://getcryst.al) -  Crystal Linux is a brand new Arch Linux based distribution. Completely beginner friendly, easy to use, and powerful.
+- [CachyOS](https://cachyos.org) - A GNU/Linux distribution built on Arch Linux, it features the optimized linux-cachyos kernel utilizing the advanced BORE Scheduler for unparalleled performance.
 - [EndeavourOS](https://endeavouros.com/) - A rolling release Linux distribution based on Arch Linux.
 - [ArchLabs Linux](https://archlabslinux.com/) - A distribution based on Arch Linux and featuring the Openbox window manager as the primary desktop interface.
 - [Namib GNU/Linux](https://www.namiblinux.org/) - A desktop operating system based on (and compatible with) the Arch Linux distribution.
@@ -48,11 +50,13 @@
 - [PuppyRus-A](https://sourceforge.net/projects/puppyrusa/) - Lightweight, portable and flexible Linux based on Arch, Puppy, Porteus.
 - [TeLiSc OS](https://sourceforge.net/projects/telisc-os/) - A simple GNU/Linux distribution based on Arch Linux which provides you a stable Arch Linux with i3 window manager.
 - [Qubes OS (Archlinux Template)](https://www.qubes-os.org/doc/building-archlinux-template/) - A security-focused desktop operating system that aims to provide security through isolation (Unofficial Archlinux Template).
+- [XeroLinux](https://xerolinux.xyz/) - A well-maintained hobbyist Arch based distro, built using ArcoLinux's ALCI scripts that is meant to provide you with a stable base, making it simpler to install ArchLinux (using Calamares) with a well optimized & customized KDE Plasma.
 
 ### Specific purpose
 
 > Linux distributions based on Arch Linux with a specific purpose.
 
+- [BioArchLinux](https://bioarchlinux.org/) - _(Bioinformatics/Biology)_ Arch Community for Biologists & Arch Repository for Biological Software.
 - [BlackArch Linux](https://blackarch.org/) - _(Security/Forensics)_ - An Arch Linux-based distribution designed for penetration testers and security researchers.
 - [ArchStrike](https://archstrike.org/) - _(Security)_ - A distribution for security professionals and researchers based on Arch Linux.
 - [SystemRescueCd](http://www.system-rescue-cd.org/) - _(Data Rescue)_ - An Arch-based Linux system on a bootable CD-ROM or USB drive, designed for repairing a system and data after a crash.
@@ -86,6 +90,7 @@ It has everything on board to build AOSP or AOSP-based distributions like Lineag
 
 - [Anarchy](https://anarchyinstaller.gitlab.io) - A simple and intuitive Arch Linux installer.
 - [Archfi](https://github.com/MatMoul/archfi) - Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
+- [aui](https://github.com/helmuthdu/aui) - The Archlinux Ultimate Install comprises of two primary scripts, Lilo and Fifo, which streamline the installation process of Archlinux Base, as well as additional packages, tools, and graphical user interfaces.
 
 ## AUR Helpers
 
@@ -106,6 +111,7 @@ It has everything on board to build AOSP or AOSP-based distributions like Lineag
 
 ### Pacman wrappers
 
+- [amethyst](https://github.com/crystal-linux/amethyst) (Rust) - A fast, efficient and lightweight AUR helper and Pacman wrapper made for Crystal, compatible with any Arch-based Linux distribution.
 - [Aura](https://github.com/fosskers/aura) (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
 - [Pacaur](https://github.com/E5ten/pacaur) (Bash) - An AUR helper that minimizes user interaction.
 - [Pakku](https://github.com/kitsunyan/pakku) (Nim) - `pacman` wrapper with AUR support.
@@ -151,6 +157,7 @@ It has everything on board to build AOSP or AOSP-based distributions like Lineag
 - [archlinux/base](https://hub.docker.com/r/archlinux/base/) - A docker image based on Arch Linux.
 - [Arch Linux on EC2](https://www.uplinklabs.net/projects/arch-linux-on-ec2/) - Amazon EC2 AMIs based on Arch Linux
 - [JuNest](https://github.com/fsquillace/junest) - A lightweight Arch Linux-based distro that runs, without root privileges, upon any Linux distro.
+- [makepkg-optimize](https://github.com/ptr1337/makepkg-optimize) - A collection of supplemental tidy, buildenv, and executable scripts for pacman which provide macros for several kinds of optimization in the build() and package() stages.
 
 ## Inactive projects
 
@@ -178,15 +185,21 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://raw.githubusercontent.com/klorophatu"><img src="https://avatars.githubusercontent.com/u/52282861?v=4?s=100" width="100px;" alt=""/><br /><sub><b>klorophatu</b></sub></a><br /><a href="#content-klorophatu" title="Content">🖋</a></td>
-    <td align="center"><a href="https://telesto.ai"><img src="https://avatars.githubusercontent.com/u/28736871?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nandor Magyar</b></sub></a><br /><a href="#content-nandor-magyar" title="Content">🖋</a></td>
-    <td align="center"><a href="https://pandafoss.github.io/"><img src="https://avatars.githubusercontent.com/u/6508835?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Max Ferrer</b></sub></a><br /><a href="https://raw.githubusercontent.com/PandaFoss/Awesome-Arch/commits?author=PandaFoss" title="Code">💻</a> <a href="#ideas-PandaFoss" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-PandaFoss" title="Maintenance">🚧</a> <a href="#design-PandaFoss" title="Design">🎨</a> <a href="#content-PandaFoss" title="Content">🖋</a></td>
-    <td align="center"><a href="https://raw.githubusercontent.com/JackNapier151"><img src="https://avatars.githubusercontent.com/u/23581810?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jack Napier</b></sub></a><br /><a href="#ideas-JackNapier151" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="http://sheepdev.xyz"><img src="https://avatars.githubusercontent.com/u/68562536?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sheepdev</b></sub></a><br /><a href="#content-sheeepdev" title="Content">🖋</a></td>
-    <td align="center"><a href="https://ar.linkedin.com/in/ulisesjcf"><img src="https://avatars.githubusercontent.com/u/17727170?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ulises Jeremias Cornejo Fandos</b></sub></a><br /><a href="#content-ulises-jeremias" title="Content">🖋</a></td>
-    <td align="center"><a href="https://raw.githubusercontent.com/andryandrew"><img src="https://avatars.githubusercontent.com/u/29781022?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andrea</b></sub></a><br /><a href="#content-andryandrew" title="Content">🖋</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="12.5%"><a href="https://raw.githubusercontent.com/klorophatu"><img src="https://avatars.githubusercontent.com/u/52282861?v=4?s=100" width="100px;" alt="klorophatu"/><br /><sub><b>klorophatu</b></sub></a><br /><a href="#content-klorophatu" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://telesto.ai"><img src="https://avatars.githubusercontent.com/u/28736871?v=4?s=100" width="100px;" alt="Nandor Magyar"/><br /><sub><b>Nandor Magyar</b></sub></a><br /><a href="#content-nandor-magyar" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://pandafoss.github.io/"><img src="https://avatars.githubusercontent.com/u/6508835?v=4?s=100" width="100px;" alt="Max Ferrer"/><br /><sub><b>Max Ferrer</b></sub></a><br /><a href="https://raw.githubusercontent.com/PandaFoss/Awesome-Arch/commits?author=PandaFoss" title="Code">💻</a> <a href="#ideas-PandaFoss" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-PandaFoss" title="Maintenance">🚧</a> <a href="#design-PandaFoss" title="Design">🎨</a> <a href="#content-PandaFoss" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://raw.githubusercontent.com/JackNapier151"><img src="https://avatars.githubusercontent.com/u/23581810?v=4?s=100" width="100px;" alt="Jack Napier"/><br /><sub><b>Jack Napier</b></sub></a><br /><a href="#ideas-JackNapier151" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="http://sheepdev.xyz"><img src="https://avatars.githubusercontent.com/u/68562536?v=4?s=100" width="100px;" alt="sheepdev"/><br /><sub><b>sheepdev</b></sub></a><br /><a href="#content-sheeepdev" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://ar.linkedin.com/in/ulisesjcf"><img src="https://avatars.githubusercontent.com/u/17727170?v=4?s=100" width="100px;" alt="Ulises Jeremias Cornejo Fandos"/><br /><sub><b>Ulises Jeremias Cornejo Fandos</b></sub></a><br /><a href="#content-ulises-jeremias" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://raw.githubusercontent.com/andryandrew"><img src="https://avatars.githubusercontent.com/u/29781022?v=4?s=100" width="100px;" alt="Andrea"/><br /><sub><b>Andrea</b></sub></a><br /><a href="#content-andryandrew" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://raw.githubusercontent.com/codecrap"><img src="https://avatars.githubusercontent.com/u/5834554?v=4?s=100" width="100px;" alt="Olexiy"/><br /><sub><b>Olexiy</b></sub></a><br /><a href="#content-codecrap" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://raw.githubusercontent.com/0xMRTT"><img src="https://avatars.githubusercontent.com/u/105598867?v=4?s=100" width="100px;" alt="0xMRTT"/><br /><sub><b>0xMRTT</b></sub></a><br /><a href="#content-0xMRTT" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="http://malacology.net"><img src="https://avatars.githubusercontent.com/u/37733075?v=4?s=100" width="100px;" alt="Kuoi"/><br /><sub><b>Kuoi</b></sub></a><br /><a href="#content-starsareintherose" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://raw.githubusercontent.com/sogreatandpowerfull"><img src="https://avatars.githubusercontent.com/u/114095654?v=4?s=100" width="100px;" alt="SoGreatAndPowerful"/><br /><sub><b>SoGreatAndPowerful</b></sub></a><br /><a href="#content-sogreatandpowerfull" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
 </table>
 
 <!-- markdownlint-restore -->
