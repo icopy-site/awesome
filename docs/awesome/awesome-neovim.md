@@ -147,6 +147,7 @@ You can find them listed on the [Neovim wiki](https://github.com/neovim/neovim/w
 - [NFrid/markdown-togglecheck](https://github.com/NFrid/markdown-togglecheck) - Simple Neovim plugin for toggling check boxes using Treesitter.
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Preview markdown in a webview window.
 - [yaocccc/nvim-hl-mdcodeblock.lua](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) - Highlight markdown codeblock using Tree-sitter.
+- [kiran94/edit-markdown-table.nvim](https://github.com/kiran94/edit-markdown-table.nvim) - Edit Markdown Tables using Tree-sitter.
 
 ### Language
 
@@ -225,6 +226,7 @@ You can find them listed on the [Neovim wiki](https://github.com/neovim/neovim/w
 - [kiran94/s3edit.nvim](https://github.com/kiran94/s3edit.nvim) - Edit files from Amazon S3 directly from Neovim.
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
 - [EdvinVikstrom/filetree.nvim](https://github.com/EdvinVikstrom/filetree.nvim) - A beautiful and fast file manager easy to customize.
+- [kelly-lin/ranger.nvim](https://github.com/kelly-lin/ranger.nvim) - [Ranger](https://github.com/ranger/ranger) integration for neovim.
 
 ### Project
 
