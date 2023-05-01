@@ -986,6 +986,7 @@ _Awesome game development libraries._
 
 _Tools that generate Go code._
 
+- [convergen](https://github.com/reedom/convergen) - Feature rich type-to-type copy code generator.
 - [copygen](https://github.com/switchupcb/copygen) - Generate type-to-type and type-based code without reflection.
 - [generis](https://github.com/senselogic/GENERIS) - Code generation tool providing generics, free-form macros, conditional compilation and HTML templating.
 - [go-enum](https://github.com/abice/go-enum) - Code generation for enums from code comments.
@@ -1678,6 +1679,7 @@ _Libraries for working with various layers of the network._
 - [gotcp](https://github.com/gansidui/gotcp) - Go package for quickly writing tcp applications.
 - [grab](https://github.com/cavaliercoder/grab) - Go package for managing file downloads.
 - [graval](https://github.com/koofr/graval) - Experimental FTP server framework.
+- [gws](https://github.com/lxzan/gws) - High-Performance WebSocket Server & Client With AsyncIO Supporting .
 - [HTTPLab](https://github.com/gchaincl/httplab) - HTTPLabs let you inspect HTTP requests and forge responses.
 - [httpproxy](https://github.com/wzshiming/httpproxy) - HTTP proxy handler and dialer.
 - [iplib](https://github.com/c-robinson/iplib) - Library for working with IP addresses (net.IP, net.IPNet), inspired by python [ipaddress](https://docs.python.org/3/library/ipaddress.html) and ruby [ipaddr](https://ruby-doc.org/stdlib-2.5.1/libdoc/ipaddr/rdoc/IPAddr.html)
@@ -2296,7 +2298,7 @@ _Libraries for accessing third party APIs._
 - [google-email-audit-api](https://github.com/ngs/go-google-email-audit-api) - Go client library for [Google G Suite Email Audit API](https://developers.google.com/admin-sdk/email-audit/).
 - [google-play-scraper](https://github.com/n0madic/google-play-scraper) - Get data from Google Play Store.
 - [gopaapi5](https://github.com/utekaravinash/gopaapi5) - Go Client Library for [Amazon Product Advertising API 5.0](https://webservices.amazon.com/paapi5/documentation/).
-- [gosip](https://github.com/koltyakov/gosip) - Go client library SharePoint API.
+- [gosip](https://github.com/koltyakov/gosip) - Client library for SharePoint.
 - [gostorm](https://github.com/jsgilmore/gostorm) - GoStorm is a Go library that implements the communications protocol required to write Storm spouts and Bolts in Go that communicate with the Storm shells.
 - [hipchat](https://github.com/andybons/hipchat) - This project implements a golang client library for the Hipchat API.
 - [hipchat (xmpp)](https://github.com/daneharrigan/hipchat) - A golang package to communicate with HipChat over XMPP.
@@ -2607,6 +2609,7 @@ _Full stack web frameworks._
 - [go-rest](https://github.com/ungerik/go-rest) - Small and evil REST framework for Go.
 - [Goa](https://github.com/goadesign/goa) - Goa provides a holistic approach for developing remote APIs and microservices in Go.
 - [goa](https://github.com/goa-go/goa) - goa is just like koajs for golang, it is a flexible, light, high-performance and extensible web framework based on middleware.
+- [GoFrame](https://github.com/gogf/gf) - GoFrame is a modular, full-featured and production-ready application development framework of golang.
 - [golamb](https://github.com/twharmon/golamb) - Golamb makes it easier to write API endpoints for use with AWS Lambda and API Gateway.
 - [Golax](https://github.com/fulldump/golax) - A non Sinatra fast HTTP framework with support for Google custom methods, deep interceptors, recursion and more.
 - [Golf](https://github.com/dinever/golf) - Golf is a fast, simple and lightweight micro-web framework for Go. It comes with powerful features and has no dependencies other than the Go Standard Library.
