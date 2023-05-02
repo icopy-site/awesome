@@ -79,6 +79,7 @@ contain some resources that are also present in more niche lists.
 - [PlantUML](http://plantuml.com/) - Like markdown for diagrams, PlantUML renders an english-like grammer into diagrams.
 - [PlantUML for Atlassian](https://marketplace.atlassian.com/apps/1215115/plantuml-for-confluence-cloud?hosting=cloud&tab=overview) - Adds support for PlantUML-based diagrams in the atlassian suite.
 - [Sketchboard.io](https://sketchboard.io/) - Collaborative sketchboarding.
+- [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 
 ## Frameworks
 
@@ -110,6 +111,7 @@ contain some resources that are also present in more niche lists.
 ## Bonus
 
 - [How to learn software design and architecture - a roadmap](https://www.freecodecamp.org/news/software-design/) - Additional things helpful to learn to get a firm understanding of software architecture.
+- [Software Architect Roadmap](https://roadmap.sh/software-architect) - A complete and structured guide to become a Software Architect.
 
 ## Contributing
 
