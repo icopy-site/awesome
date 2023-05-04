@@ -81,6 +81,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 
 **[`^        back to top        ^`](#)**
 
+- Development and Access to Information (DA2i) [Regional Reports](https://public.tableau.com/app/profile/da2i.reports/viz/DA2iRegionalReports/Introduction) - Dashboards profiling Connectivity, Freedom, and Gender Equity by the [TASCHA group](https://tascha.uw.edu/) at the University of Washington. Funded by [IFLA](https://www.ifla.org/).
 - [e-Conomy Africa 2020](https://www.ifc.org/wps/wcm/connect/publications_ext_content/ifc_external_publication_site/publications_listing_page/google-e-conomy): Africa’s $180 Billion Internet Economy Future - IFC/Google sponsored report on Africa's internet economy
 - GSMA Mobile Economy - Middle East & North Africa ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/05/GSMA_MENA_ME2022_R_WebSingles.pdf))
 - GSMA Mobile Economy - West Africa ([2019](https://www.gsma.com/r/mobileeconomy/west-africa/)) ([2018](https://www.gsma.com/subsaharanafrica/wp-content/uploads/2018/11/2018-04-11-e568fe9e710ec776d82c04e9f6760adb.pdf))

@@ -186,6 +186,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [zigwasm/wasmer-zig](https://github.com/zigwasm/wasmer-zig) - Bindings for the Wasmer WebAssembly runtime.
 * [zigwasm/wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) - Bindings of Wasmtime.
 * [batiati/mustache-zig](https://github.com/batiati/mustache-zig) - Mustache implementation.
+* [floscodes/zerve](https://github.com/floscodes/zerve) - Simple framework for writing web services and web apps.
 
 
 ## System tools
