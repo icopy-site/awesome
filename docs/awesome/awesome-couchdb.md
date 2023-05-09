@@ -106,7 +106,7 @@ Pull-Requests are welcomed.
 #### Hosting
 
 - [Cloudant](https://cloudant.com/) - Distributed database as a service (DBaaS).
-- [Smileupps](https://www.smileupps.com/) - CouchDB hosting.
+- [Fly.io](https://fly.io) use this [Guide](https://www.canrau.com/en/fly-couchdb) to host
 - [Bitnami Launchpad for Google Cloud Platform](https://bitnami.com/stack/couchdb/cloud/google) - Host CouchDB on Google Cloud Platform.
 
 

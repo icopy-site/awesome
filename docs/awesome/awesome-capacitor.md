@@ -97,11 +97,12 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
 - [Text to speech](https://github.com/capacitor-community/text-to-speech) - Synthesizing speech from text.
 - [Twitter](https://github.com/capacitor-community/twitter) - Enable TwitterKit features for Capacitor.
 - [Uxcam](https://github.com/capacitor-community/uxcam) - UXCam and FullStory analytics. It uses UXCam for Android and iOS platforms and FullStory for Web/PWA.
+- [Websocket](https://github.com/mia-z/capacitor-websocket) - Plugin providing native Websocket implementations for each platform.
 
 ## [Capgo plugins](https://capgo.app/)
 Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained by [@riderx](https://github.com/riderx) and community member with Open collective .
 
-- [OTA Updater](https://github.com/Cap-go/capacitor-updater) - Over the air update for capacitor app.
+- [Live Update](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor app.
 - [Crisp](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
 - [Flash](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
 - [Mute](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
@@ -263,7 +264,7 @@ Places to learn about Capacitor
 - [Appcenter migration](https://capgo.app/blog/appcenter-migration) - Migrating from Microsoft App Center to Capgo in just a few simple steps.
 - [Update app seamlessly](https://capgo.app/blog/update-your-capacitor-apps-seamlessly-using-capacitor-updater) - Set up Capacitor-updater into your app to seamless releases update to your users.
 - [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - Create your own CI/CD pipeline with GitHub actions for free, to deploy your app every time you push to main.
-
+- [The Push Notifications Guide for Capacitor](https://capawesome.io/blog/the-push-notifications-guide-for-capacitor/)
 
 ### Books
 
@@ -291,6 +292,13 @@ Places to discuss about Capacitor
 - [Reddit](https://www.reddit.com/r/capacitor) - Official Reddit community.
 - [Stack Overflow](https://stackoverflow.com/tags/capacitor) - Official Stack Overflow community.
 - [Proposal](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
+
+## Freelancers
+
+- [Martin Donadieu](https://cal.com/martindonadieu/get-your-custom-capacitor-plugin?duration=30) - Creator of this list and of Capgo live update system + 10 plugins.
+- [Christophe Surbier](https://www.malt.fr/profile/christophesurbier) - Expert developer mobile since 2009 and Capacitor since 2017
+- [Timothee Porcq](https://www.malt.fr/profile/timotheeporcq) - Expert developer Mobile Ionic/Angular & Capacitor +7 years
+- [Nicolas Izac](https://www.malt.fr/profile/nicolasizac) - Developper Fullstack | Vue-Angular-Ionic-Laravel +7 years
 
 ## Contributing
 
