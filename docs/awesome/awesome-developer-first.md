@@ -141,6 +141,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## GEO
 *Location services.*
 * [Mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
+* [PlaceKit](https://placekit.io/) - Locations search API.
 * [Radar](https://radar.io/) - Geofencing and geo APIs.
 * [SmartyStreets](https://www.smartystreets.com/) - US Reverse Geocoding and Address Verification APIs.
 
@@ -187,6 +188,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Messaging APIs - SMS, notifications, chats, and VoIP.*
 * [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
 * [Knock](https://knock.app) - Notifications as a service.
+* [MagicBell](https://www.magicbell.com/) - Real-time notification system with API & UI components.
 * [Stream](https://getstream.io/) - Feed and chat as a service.
 * [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 * [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
