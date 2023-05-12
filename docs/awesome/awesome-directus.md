@@ -9,7 +9,9 @@
 
 
 
-## Official Resources
+## Resources
+
+### Offical
 
 - [Documentation](https://docs.directus.io/getting-started/introduction/)
 - [GitHub Repository](https://github.com/directus/directus)
@@ -18,7 +20,7 @@
 - [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
 - [Community Repositories](https://github.com/directus-community)
 
-## Community Resources
+### Community
 
 - [Portuguese YouTube Channel](https://www.youtube.com/c/DirectusBR)
 
@@ -59,6 +61,8 @@
 - [Field Actions](https://github.com/utomic-media/directus-extension-field-actions) - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
 - [Generate Types](https://github.com/maltejur/directus-extension-generate-types) - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
 - [Computed Interface](https://github.com/rezo-labs/directus-extension-computed-interface) - Perform computed value based on other fields.
+- [Inline Form Interface](https://github.com/hanneskuettner/directus-extension-inline-form-interface) - Edit M2O relations in an inline form contained in the parent record.
+- [Tab Group Interface](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) - Display groups as tab panels, as a pretty, space saving alternative to the accordion group.
 
 ## Articles
 

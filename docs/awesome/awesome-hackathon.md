@@ -80,6 +80,7 @@ A curated open list of platforms and tools that can help you to **organize and r
 - [Dribdat wiki](https://github.com/dribdat/docs/wiki) - Community sourced guidelines from an open source project.
 - [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources.
 - [Hackathon.guide](https://github.com/JoshData/hackathon.guide) - A step-by-step guide by seasoned organizer Joshua Tauberer.
+- [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) - (In German) Printed guide for municipalities.
 - [Handbuch Jugend-Hackathons](https://handbuch.jugendhackt.de/) - (In German) An in-depth guide to organizing youth events.
 - [Opendata.ch Guidelines](http://make.opendata.ch/wiki/information:rules) - A short principled list for open data hackathons from the Swiss community.
 - [Mattermost Handbook](https://handbook.mattermost.com/contributors/contributors/how-to-run-a-hackathon) - Practical guidelines from the open source Mattermost chat server.

@@ -10,7 +10,6 @@
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd)._
 
 
-- [Awesome Next.js ![Awesome](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg?sanitize=true)](#awesome-nextjs-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg?sanitize=true-altawesome-img-srchttpsimgshieldsiobadgeunicodeveloper-approved-brightgreensvg?sanitize=true-alt)
 
 ## Community
 
@@ -57,9 +56,11 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
 - [Using Feature Flags in Next.js](https://medium.com/frontend-digest/using-feature-flags-in-next-js-c5c8d0795a2?source=friends_link&sk=d846a29f376acf9cfa41e926883923ab)
 - [Adding code snippets to Next.js using react-syntax-highlighter](https://thetombomb.com/posts/adding-code-snippets-to-static-markdown-in-Next%20js)
-- [Build company's Website/App with our astonishing Next.js template](https://www.wrappixel.com/templates/category/nextjs-templates/)
+- [Build company's Website/App with our astonishing Next.js template](https://www.wrappixel.com/templates/category/nextjs-templates/?ref=232)
 - [Guaranteeing webhook delivery in NextJS Application](https://www.bharathvaj.me/blog/implement-webhook-nextjs)
 - [Building a Guestbook Using Next.js On-Demand ISR](https://www.svix.com/blog/vercel-on-demand-isr-and-svix/)
+- [Useful Admin Templates to build your Website/App](https://adminmart.com/templates/nextjs/?ref=6)
+- [Integrate Next app with Tailwind](https://tailwind-elements.com/docs/standard/integrations/next-integration/)
 
 ## Boilerplates
 
@@ -179,13 +180,14 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Tottem](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 - [Slow TV Map](https://slowtvmap.com) - A fun way to discover relaxing virtual experiences. Next.js + Chakra UI + MySQL hosted on Vercel.
 - [Twitter Clone](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
+
 ## Books
 
 - [Hands On Next.js](https://leanpub.com/hands-on-nextjs) - A practical fullstack book on universal (server) rendering for react applications.
 - [Next.js Quick Start Guide](https://www.packtpub.com/web-development/nextjs-quick-start-guide) - Create, build and deploy universal JavaScript applications using Next.js
 - [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Build a frontend React application that transparently handles server-side rendering for you.
 - [Serverless Web Applications with React and Next.js](https://www.amazon.com/dp/B0BHRPMF74) - Use Next.js serverless features to access databases and authenticate users in your React applications
-- [Cut Into The Jamstack: Build a SaaS with React and Next.js](https://www.cutintothejamstack.com/) - Build a full-stack software-as-a-service application using Next.js, Prisma ORM, Cloudinary API, Chakra-UI and React Hook Form. 
+- [Cut Into The Jamstack: Build a SaaS with React and Next.js](https://www.cutintothejamstack.com/) - Build a full-stack software-as-a-service application using Next.js, Prisma ORM, Cloudinary API, Chakra-UI and React Hook Form.
 
 ## Videos
 
@@ -206,6 +208,16 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Mastering Next.js](https://masteringnextjs.com/) - 50+ lesson video course for building applications with Next.js and React.
 - [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - In depth Next.js tutorials.
 - [Next.js Conf 2020](https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD) - All the videos from the 2020 Next.js conference
+
+## Projects(Beginner level)
+
+- [Full Stack Netflix Clone in React, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth & Vercel (2023)](https://youtu.be/mqUN4N2q4qY)
+- [Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS](https://youtu.be/ugCN_gynFYw)
+- [Next js 13 project - IMBb Clone - next js tailwind css project - nextjs project](https://youtu.be/OHEMPreO09Q)
+- [Next js 13 project - Google clone (next.js 13, tailwind css 3, google search api, app router](https://youtu.be/h9zlVmoUV5I)
+- [next js project - Twitter clone](https://youtu.be/PnvDPSg5bQM)
+- [Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel (2023)](https://youtu.be/ytkG7RT6SvU)
+- [NextJS 13 Tutorial: Create a Static Blog from Markdown Files](https://youtu.be/Hiabp1GY8fA)
 
 ## Newsletters
 
