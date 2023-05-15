@@ -77,6 +77,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Authentication and OAuth
 
 * [API Guard](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
+* [Authentication Zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
 * [Authlogic](https://github.com/binarylogic/authlogic) - Authlogic is a clean, simple, and unobtrusive ruby authentication solution.
 * [Clearance](https://github.com/thoughtbot/clearance) - Small and simple email & password based authentication for Rails.
 * [Devise](https://github.com/heartcombo/devise) - A flexible authentication solution for Rails based on Warden.
@@ -532,7 +533,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Exception Notification](https://github.com/smartinez87/exception_notification) - A set of notifiers for sending notifications when errors occur in a Rack/Rails application.
 * [Honeybadger](https://www.honeybadger.io/) - Exception, uptime, and performance monitoring for Ruby.
 * [Nesty](https://github.com/skorks/nesty) - Nested exceptions for Ruby.
-* [Raven Ruby](https://github.com/getsentry/raven-ruby) - Raven is a Ruby client for Sentry.
+* [Sentry Ruby](https://github.com/getsentry/sentry-ruby) - The Ruby client for Sentry.
 * [Rollbar](https://github.com/rollbar/rollbar-gem) - Easy and powerful exception and error tracking for your applications.
 
 ## Event Sourcing
