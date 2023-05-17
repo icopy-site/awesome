@@ -39,6 +39,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 
 ## Auth
 - [Auth0](https://auth0.com/) - Authentication management with native support for Angular, React and VueJS.
+- [Clerk](https://clerk.com) – Complete user management UIs and APIs, purpose-built for React, Next.js, and the modern web.
 - [Firebase](https://firebase.google.com) - PaaS from Google, including authentication management.
 - [Okta](https://www.okta.com/) - Authentication and Authorization solution with support for Angular, React and VueJS.
 - [Onelogin](https://www.onelogin.com/) - Authentication focussed on company internal applications.

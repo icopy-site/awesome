@@ -115,6 +115,11 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [AlgoKit CLI](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network. Official tooling maintained by the Algorand Foundation.
 - [tealinspector](https://github.com/Hipo/tealinspector) - Quick and easy TEAL code debugging by Hipo labs.
 
+### AlgoKit Templates
+
+- [algokit-beaker-default-template](https://github.com/algorandfoundation/algokit-beaker-default-template) - Official AlgoKit beaker template provides a production-ready baseline for developing and deploying Beaker smart contracts.
+- [algokit-tealish-template](https://github.com/aorumbayev/algokit-tealish-template) - AlgoKit community template for quick starting a smart contract project with tealish and algojig.
+
 ### Languages
 
 > Awesome client libraries, tools, and community utilities sorted by the language of implementation.

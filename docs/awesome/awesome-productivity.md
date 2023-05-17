@@ -16,6 +16,7 @@
 - [ShortLib](https://shortlib.netlify.app/) - Collection of hundreds of shortcuts for Windows, Mac and Linux.
 - [The Bullet Journal](https://bulletjournal.com/) - A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 - [Zen Habits](https://zenhabits.net/) - Blog by Leo Babauta with topics such as simplifying life.
+- [Productive Fish](https://productive.fish/) - Useful articles on how to be more productive, study effectively and improve well-being.
 
 ## Books
 
@@ -34,6 +35,7 @@
 - [Nextcloud](https://nextcloud.com) - The self-hosted productivity platform that keeps you in control.
 - [OneDrive](https://onedrive.live.com) - Best cloud storage solution for Windows users.
 - [pCloud](https://www.pcloud.com/) - A cloud storage solution with a strong focus on security.
+- [Clipboard](https://getclipboard.app) - Easy-to-use local solution for saving files, folders, or text like a scratchpad.
 
 ### Note Management
 
@@ -84,6 +86,7 @@
 - [HabitBull](https://www.habitbull.com/) - Premium habit tracker.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 - [Waka Time](https://wakatime.com/) -  Open source plugin for knowing exactly how long you spend coding.
+- [Conjure](https://conjure.so) - Habits, goals and time tracking platform with rules engine, data layer, API, dashboards and more (Web, Desktop, iOS, Android).
 
 ### Task Automation
 
@@ -113,3 +116,4 @@
 
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
+- [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on MacOS, with built-in annotation and text recognition.
