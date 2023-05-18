@@ -38,6 +38,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 - [UN E-Government Knowledge Database](https://publicadministration.un.org/egovkb/en-us/Data-Center) - (2016).
 - [Speedtest Global Index](http://www.speedtest.net/global-index) - (2022) Index of mobile and fixed broadband speeds from around the world on a monthly basis.
 - cable.co.uk's Worldwide Broadband Price Comparison - ([2022](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)) ([2019](https://www.cable.co.uk/broadband/speed/worldwide-speed-league/)) ([2018](https://www.cable.co.uk/broadband/pricing/worldwide-comparison/))  Index of broadband costs around the world based on fixed line/wireless access.
+- [Internet Poverty Index](https://internetpoverty.io/) - The Internet Poverty Index from [World Data Lab.](https://worddatalab.com/) 
 
 ## Connectivity Maps
 
