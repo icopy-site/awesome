@@ -167,6 +167,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [histogrand](https://github.com/hhkaos/histogrand) - Random value generator according to customized histograms.
 - [mercator-geographic-converter](https://github.com/hhkaos/mercator-geographic-converter/) - Simple coordinate converter between Geographic units (latitude, longitude) and Mercator units (x, y).
 - [react-sceneview](https://github.com/Esri/react-sceneview) - A simple Esri SceneView react component that builds on the ArcGIS API for JavaScript.
+- [bboxfinder](http://bboxfinder.com/) - Simple web application to get the coordinates of a bounding box drawn on the map.
 
 ## Map and data exploration
 

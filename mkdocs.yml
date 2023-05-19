@@ -242,6 +242,7 @@ nav:
     - MDBootstrap: awesome/awesome-mdbootstrap.md
     - Master CSS: awesome/awesome-master-css.md
     - Hydrogen: awesome/awesome-hydrogen.md
+    - Tiny JS: awesome/awesome-tiny-js.md
   - Back-End Development:
     - Flask: awesome/awesome-flask.md
     - Docker: awesome/awesome-docker.md

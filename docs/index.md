@@ -403,6 +403,7 @@
 - [MDBootstrap](awesome/awesome-mdbootstrap.md) - Templates, layouts, components, and widgets to rapidly build websites.
 - [Master CSS](awesome/awesome-master-css.md) - A virtual CSS language with enhanced syntax.
 - [Hydrogen](awesome/awesome-hydrogen.md) - Edge-first framework for building Shopify storefronts with React.
+- [Tiny JS](awesome/awesome-tiny-js.md) - Frontend libraries that fit into 2 kB with dependencies.
 
 ## Back-End Development
 
