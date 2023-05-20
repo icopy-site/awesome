@@ -13,6 +13,8 @@ There are over [3000 add-ons for Plone on pypi](https://pypi.org/search/?q=&o=&c
 
 This list is intended to fill that gap, and create a shared knowledge about common products and techniques.
 
+For a filterable list of addons aggreating all Plone related packages from PyPi see https://pag.derico.tech.
+
 This list only covers add-ons that work with the latest major versions of Plone (currently 5.2 and 6) and only those that support Python 3.
 
 Plone 6 comes with a new default frontend called Volto, which is written in React and uses `plone.restapi` to communicate with Plone. Volto is very extendable in itself. Checkout the [awesome-volto list](https://github.com/collective/awesome-volto) for add-ons to Volto.

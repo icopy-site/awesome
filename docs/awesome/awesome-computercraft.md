@@ -30,6 +30,8 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [Computronics](https://wiki.vexatos.com/wiki:computronics) -  A mod which adds various peripherals, notably for detecting events in the world and for manipulation of sound. 
 - [Plethora](https://plethora.madefor.cc) -  A mod which adds peripherals and allows many blocks to be accessed as such. In addition, it also allows for manipulation of the player as a peripheral. 
 - [CC:C Bridge](https://www.curseforge.com/minecraft/mc-mods/cccbridge) -  A mod which adds support for the [Create mod](https://ftb.fandom.com/wiki/Create) to ComputerCraft. 
+- [Turtlematic](https://www.curseforge.com/minecraft/mc-mods/turtlematic) - A mod which end goal is to make turtles so useful, so you will never need any other automation mod!
+- [UnlimitedPeripheralWorks](https://www.curseforge.com/minecraft/mc-mods/unlimitedperipheralworks) - A mod which adds various peripherals to extend CC:T capabilities. Also adds a lot peripherals to other mods.
 
 ### Resource packs
 

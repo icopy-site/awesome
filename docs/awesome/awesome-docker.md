@@ -113,8 +113,8 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [percheron](https://github.com/ashmckenzie/percheron) :skull: - Organise your Docker containers with muscle and intelligence by [@ashmckenzie](https://github.com/ashmckenzie)
 -   [plash](https://github.com/ihucos/plash) - A container run and build engine - runs inside docker.
 -   [podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman by [@containers][containers]
--   [rocker-compose](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/grammarly/rocker-compose) :skull: - Docker composition tool with idempotency features for deploying apps composed of multiple containers. By[@https://github.com/veggiemonk/awesome-docker/blob/master/grammarly](https://github.com/veggiemonk/awesome-docker/blob/master/grammarly).
--   [rocker](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/grammarly/rocker) :skull: - Extended Dockerfile builder. Supports multiple FROMs, MOUNTS, templates, etc. by [@https://github.com/veggiemonk/awesome-docker/blob/master/grammarly](https://github.com/veggiemonk/awesome-docker/blob/master/grammarly).
+-   [rocker-compose](https://github.com/grammarly/rocker-compose) :skull: - Docker composition tool with idempotency features for deploying apps composed of multiple containers. By[@grammarly].
+-   [rocker](https://github.com/grammarly/rocker) :skull: - Extended Dockerfile builder. Supports multiple FROMs, MOUNTS, templates, etc. by [@grammarly].
 -   [Smalte](https://github.com/roquie/smalte) – Dynamically configure applications that require static configuration in docker container. By [@roquie](https://github.com/roquie)
 -   [Stacker](https://github.com/stacker/stacker-cli) :skull: - Docker Compose Templates. Stacker provides an abstraction layer over Docker Compose and a better DX (developer experience).
 -   [Stitchocker](https://github.com/alexaandrov/stitchocker) - A lightweight and fast command line utility for conveniently grouping your docker-compose multiple container services. By [@alexaandrov](https://github.com/alexaandrov)
@@ -198,7 +198,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [Panamax](https://github.com/CenturyLinkLabs/panamax-ui) :skull: - An open-source project that makes deploying complex containerized apps as easy as Drag-and-Drop by [@CenturyLinkLabs][centurylinklabs].
 -   [Rancher](https://github.com/rancher/rancher) - An open source project that provides a complete platform for operating Docker in production by [@rancher][rancher].
 -   [RedHerd Framework](https://github.com/redherd-project/redherd-framework) - RedHerd is a collaborative and serverless framework for orchestrating a geographically distributed group of assets capable of simulating complex offensive cyberspace operations. By [@RedHerdProject](https://github.com/redherd-project).
--   [Swarm-cronjob](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Swarm by [@https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max](https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max)
+-   [Swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Swarm by [@crazy-max]
 
 ### PaaS
 
@@ -251,8 +251,8 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [Checkov](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [@bridgecrew](https://github.com/bridgecrewio)
 -   [Clair](https://github.com/quay/clair) - Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers. By [@coreos][coreos]
 -   [Dagda](https://github.com/eliasgranderubio/dagda) - Dagda is a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities. By [@eliasgranderubio](https://github.com/eliasgranderubio)
--   [Deepfence Enterprise](https://https://github.com/veggiemonk/awesome-docker/blob/master/deepfence.io) :heavy_dollar_sign: - Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless. By [@https://github.com/veggiemonk/awesome-docker/blob/master/deepfence](https://github.com/veggiemonk/awesome-docker/blob/master/deepfence)
--   [Deepfence Threat Mapper](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless. By [@https://github.com/veggiemonk/awesome-docker/blob/master/deepfence](https://github.com/veggiemonk/awesome-docker/blob/master/deepfence)
+-   [Deepfence Enterprise](https://deepfence.io) :heavy_dollar_sign: - Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless. By [@deepfence][deepfence]
+-   [Deepfence Threat Mapper](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless. By [@deepfence][deepfence]
 -   [docker-bench-security](https://github.com/docker/docker-bench-security) - script that checks for dozens of common best-practices around deploying Docker containers in production. By [@docker][docker]
 -   [docker-explorer](https://github.com/google/docker-explorer) - A tool to help forensicate offline docker acquisitions by [@Google][google]
 -   [docker-lock](https://github.com/safe-waters/docker-lock) - A cli-plugin for docker to automatically manage image digests by tracking them in a separate Lockfile. By [@safe-waters][safe-waters]
@@ -270,7 +270,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 
 -   [docker-consul](https://github.com/gliderlabs/docker-consul) by [@progrium][progrium]
 -   [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system by [@etcd-io](https://github.com/etcd-io) (former part of CoreOS)
--   [https://github.com/veggiemonk/awesome-docker/blob/master/istio](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/istio/https://github.com/veggiemonk/awesome-docker/blob/master/istio) - An open platform to connect, manage, and secure microservices by [@IstioMesh](https://github.com/veggiemonk/awesome-docker/blob/master/istio)
+-   [istio](https://github.com/istio/istio) - An open platform to connect, manage, and secure microservices by [@istio](https://github.com/istio)
 -   [proxy](https://github.com/factorish/proxy) :skull: - lightweight nginx based load balancer self using service discovery provided by registrator. by [@factorish](https://github.com/factorish)
 -   [registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker by [@gliderlabs][gliderlabs] and [@progrium][progrium]
 
@@ -337,7 +337,7 @@ Native desktop applications for managing and montoring docker hosts and clusters
 -   [DVM](https://github.com/howtowhale/dvm) - Docker version manager by [@howtowhale](https://github.com/howtowhale)
 -   [goinside](https://github.com/iamsoorena/goinside) - Get inside a running docker container easily. by [@iamsoorena](https://github.com/iamsoorena)
 -   [ns-enter](https://github.com/jpetazzo/nsenter) - :skull: no more ssh, enter name spaces of container by [@jpetazzo][jpetazzo]
--   [Pdocker](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/g31s/Pdocker) - A simple tool to manage and maintain Docker for personal projects by [@https://github.com/veggiemonk/awesome-docker/blob/master/g31s](https://github.com/veggiemonk/awesome-docker/blob/master/g31s)
+-   [Pdocker](https://github.com/g31s/Pdocker) - A simple tool to manage and maintain Docker for personal projects by [@g31s](https://github.com/g31s)
 -   [proco](https://github.com/shiwaforce/poco) - Proco will help you to organise and manage Docker, Docker-Compose, Kubernetes projects of any complexity using simple YAML config files to shorten the route from finding your project to initialising it in your local environment. by [@shiwaforce](https://github.com/shiwaforce)
 -   [reg](https://github.com/genuinetools/reg) - :skull: Docker registry v2 command line client by [@genuinetools][genuinetools]
 -   [scuba](https://github.com/JonathonReinhart/scuba) - Transparently use Docker containers to encapsulate software build environments, by [@JonathonReinhart](https://github.com/JonathonReinhart)
@@ -450,6 +450,7 @@ Applications designed to help or simplify building **new** images
 
 Examples by:
 
+-   [@0xy](https://gitlab.com/0xy/dockerfiles)
 -   [@arun-gupta](https://github.com/arun-gupta/docker-images)
 -   [@awesome-startup](https://github.com/awesome-startup/docker-compose)
 -   [@crosbymichael](https://github.com/crosbymichael/Dockerfiles)
@@ -457,7 +458,6 @@ Examples by:
 -   [@komljen](https://github.com/komljen/dockerfile-examples)
 -   [@kstaken](https://github.com/kstaken/dockerfile-examples)
 -   [@ondrejmo](https://github.com/ondrejmo/Dockerfiles)
--   [@pandrew](https://gitlab.com/pandrew/dockerfiles)
 -   [@vimagick](https://github.com/vimagick/dockerfiles)
 
 ### Linter
@@ -481,7 +481,7 @@ Services to securely store your Docker images.
 -   [Azure Container Registry :heavy_dollar_sign:](https://azure.microsoft.com/en-us/products/container-registry/#overview) - Manage a Docker private registry as a first-class Azure resource
 -   [CargoOS](https://github.com/RedCoolBeans/cargos-buildroot) - A bare essential OS for running the Docker Engine on bare metal or Cloud. By [@RedCoolBeans](https://github.com/RedCoolBeans)
 -   [cleanreg](https://github.com/hcguersoy/cleanreg) - A small tool to delete image manifests from a Docker Registry implementing the API v2, dereferencing them for the GC by [@hcguersoy](https://github.com/hcguersoy)
--   [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.com/docker-registry/) - A fully managed package management SaaS, with first-class support for public and private Docker registries (and many others, incl. Helm charts for the Kubernetes ecosystem). Has a generous free-tier and is also completely free for open-source.
+-   [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.com/product/formats/docker-registry) - A fully managed package management SaaS, with first-class support for public and private Docker registries (and many others, incl. Helm charts for the Kubernetes ecosystem). Has a generous free-tier and is also completely free for open-source.
 -   [Container Registry Service :heavy_dollar_sign:](https://container-registry.com/) - Harbor based Container Management Solution as a Service for teams and organizations. Free tier offers 1 GB storage for private repositories.
 -   [Cycle.io :heavy_dollar_sign:](https://cycle.io/) - Bare-metal container hosting.
 -   [DigitalOcean :heavy_dollar_sign:](https://www.digitalocean.com/products/container-registry) - DigitalOcean Container Registry.
@@ -489,7 +489,7 @@ Services to securely store your Docker images.
 -   [Docker Registry v2][distribution] - The Docker toolset to pack, ship, store, and deliver content
 -   [Docket](https://github.com/netvarun/docket) - Custom docker registry that allows for lightning fast deploys through bittorrent by [@netvarun](https://github.com/netvarun/)
 -   [Dragonfly](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology.
--   [GCE Container Registry :heavy_dollar_sign:](https://cloud.google.com/container-registry/) Fast, private Docker image storage on Google Cloud Platform
+-   [GCE Container Registry :heavy_dollar_sign:](https://cloud.google.com/artifact-registry) Fast, private Docker image storage on Google Cloud Platform
 -   [GitLab Container Registry](https://docs.gitlab.com/ee/user/packages/container_registry/) - Registry focused on using its images in GitLab CI
 -   [Harbor](https://github.com/goharbor/harbor) An open source trusted cloud native registry project that stores, signs, and scans content. Supports replication, user management, access control and activity auditing. By [CNCF](https://www.cncf.io) formerly [VMWare][vmware]
 -   [JFrog Artifactory :heavy_dollar_sign:](https://jfrog.com/artifactory/) - Artifact Repository Manager, can be used as private Docker Registry as well
@@ -498,7 +498,7 @@ Services to securely store your Docker images.
 -   [Quay.io :heavy_dollar_sign:](https://quay.io/) (part of CoreOS) - Secure hosting for private Docker repositories
 -   [Registryo](https://github.com/inmagik/registryo) - UI and token based authentication server for onpremise docker registry
 -   [Rescoyl](https://github.com/noteed/rescoyl) - Private Docker registry (free and open source) by [@noteed](https://github.com/noteed)
--   [Sonatype Nexus Repository](https://www.sonatype.com/products/nexus-repository) - Manage binaries and build artifacts across your software supply chain.
+-   [Sonatype Nexus Repository](https://www.sonatype.com/products/sonatype-nexus-repository) - Manage binaries and build artifacts across your software supply chain.
 -   [TreeScale](https://github.com/treescale) - Build and Distribute container based applications. By [@tigranbs](https://github.com/tigranbs)
 
 ## Development with Docker
@@ -533,7 +533,7 @@ Services to securely store your Docker images.
 -   [Captain](https://github.com/harbur/captain) - Convert your Git workflow to Docker containers ready for Continuous Delivery by [@harbur](https://github.com/harbur).
 -   [Cyclone](https://github.com/caicloud/cyclone) - Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources by [@caicloud](https://github.com/caicloud).
 -   [Depot :heavy_dollar_sign:](https://depot.dev) - Build Docker images fast, in the cloud. Blazing fast compute, automatic intelligent caching, and zero configuration. [Done in seconds](https://depot.dev/#benchmarks).
--   [Diun](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max/diun) - Receive notifications when an image or repository is updated on a Docker registry by [@https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max](https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max).
+-   [Diun](https://github.com/crazy-max/diun) - Receive notifications when an image or repository is updated on a Docker registry by [@crazy-max].
 -   [Docker plugin for Jenkins](https://github.com/jenkinsci/docker-plugin/) - The aim of the docker plugin is to be able to use a docker host to dynamically provision a slave, run a single build, then tear-down that slave.
 -   [Dockupdater](https://github.com/dockupdater/dockupdater) - Automatically keep your docker services and your docker containers up-to-date
 -   [Drone](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
@@ -612,7 +612,7 @@ Services to securely store your Docker images.
 -   [dgoss](https://github.com/aelsabbahy/goss/tree/master/extras/dgoss) - A fast YAML based tool for validating docker containers.
 -   [DockerSpec](https://github.com/zuazo/dockerspec) - A small Ruby Gem to run RSpec and Serverspec, Infrataster and Capybara tests against Dockerfiles or Docker images easily. By [@zuazo](https://github.com/zuazo)
 -   [Dockunit](https://github.com/dockunit/platform) :skull: - Docker based integration tests. A simple Node based utility for running Docker based unit tests. By [@dockunit](https://github.com/dockunit)
--   [EZDC](https://github.com/lynchborg/ezdc) - Golang test harness for easily setting up tests that rely on services in a docker-compose.yml. By [@byrnedo](https://github.com/byrnedo)
+-   [EZDC](https://github.com/lynchborg/ezdc) - Golang test harness for easily setting up tests that rely on services in a docker-compose.yml. By [@byrnedo]
 -   [InSpec][inspec] - InSpec is an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements. By [@chef](https://github.com/chef)
 -   [Kurtosis](https://github.com/kurtosis-tech/kurtosis) - A composable build system for multi-container test environments that provides developers with: a powerful Python-like SDK for environment configuration, a compile-time validator to verify environment behavior & setup, and a runtime for environment execution, monitoring, & debugging capabilities. By [Kurtosis](https://www.kurtosis.com/)
 -   [Pull Dog](https://github.com/apps/pull-dog) - A GitHub app that automatically creates Docker-based test environments for your pull requests, from your docker-compose files. Not open source.
@@ -799,7 +799,6 @@ Services to securely store your Docker images.
 [containx]: https://github.com/ContainX
 [containers]: https://github.com/containers
 [coreos]: https://github.com/coreos
-[crazy-max]: https://github.com/crazy-max
 [deepfence]: https://github.com/deepfence
 [distribution]: https://github.com/docker/distribution
 [docker-flow]: https://github.com/docker-flow
@@ -810,7 +809,6 @@ Services to securely store your Docker images.
 [gesellix]: https://github.com/gesellix
 [genuinetools]: https://github.com/genuinetools
 [gliderlabs]: https://github.com/gliderlabs
-[grammarly]: https://github.com/grammarly
 [google]: https://github.com/google
 [googlecontainertools]: https://github.com/GoogleContainerTools
 [inspec]: https://github.com/inspec/inspec
@@ -836,4 +834,6 @@ Services to securely store your Docker images.
 [weave]: https://github.com/weaveworks/weave
 [vmware]: https://github.com/vmware
 [@byrnedo]: https://github.com/byrnedo
+[@crazy-max]: https://github.com/crazy-max
+[@grammarly]: https://github.com/grammarly
 [@skanehira]: https://github.com/skanehira
