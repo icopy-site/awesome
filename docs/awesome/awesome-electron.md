@@ -9,7 +9,7 @@ Electron is an open-source framework for creating desktop apps using web technol
 
 <br>
 
-<!-- ---
+---
 
 <br>
 <br>
@@ -17,15 +17,13 @@ Electron is an open-source framework for creating desktop apps using web technol
 	<sub>Check out my latest app</sub>
 	<br>
 	<h2>
-		<a href="https://www.producthunt.com/posts/today-14">Today</a>
+		<a href="https://www.producthunt.com/posts/hyperduck">Hyperduck</a>
 		<br>
-		<sup>Quickly view your schedule in the macOS menu bar</sup>
+		<sup>Send links from your iOS devices to your Mac (better than AirDrop)</sup>
 	</h2>
 </div>
 <br>
 <br>
-
--->
 
 ---
 
@@ -56,36 +54,6 @@ Electron is an open-source framework for creating desktop apps using web technol
 			<b>Strapi is the leading open-source headless CMS.</b>
 			<div>
 				<sup>It’s 100% JavaScript, fully customizable, and developer-first.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-light-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-light.svg" width="200" alt="Anvil">
-			</div>
-			<br>
-			<b>Paperwork that makes the data work.</b>
-			<div>
-				<sub>
-				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
-				<br>
-				The easiest way to build paperwork automation into your product.
-				</sub>
-			</div>
-		</a>
-		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-dark-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-dark.svg" width="200" alt="Anvil">
-			</div>
-			<br>
-			<b>Paperwork that makes the data work.</b>
-			<div>
-				<sub>
-				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
-				<br>
-				The easiest way to build paperwork automation into your product.
-				</sub>
 			</div>
 		</a>
 		<br>
