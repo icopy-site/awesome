@@ -16,7 +16,6 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 <!-- TOC -->
 <!-- /TOC -->
 
-
 ## Mods
 ### ComputerCraft mods
 
@@ -71,6 +70,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [ecnet](https://github.com/migeyel/ecnet) -  Secure network communications in ComputerCraft.
 - [GuiH](https://guih.madefor.cc) -  A powerful GUI and graphics library.
 - [IsometriH](https://github.com/9551-Dev/IsometriH) -  An [isometric rendering](https://en.wikipedia.org/wiki/Isometric_video_game_graphics) engine.
+- [Luz](https://github.com/MCJack123/Luz) - An extremely light compression algorithm for Lua files.
 - [Milo](https://github.com/kepler155c/opus-apps/wiki/Milo-(crafting---storage-system)) -  A crafting and inventory management system. Note that this depends on OpusOS and Plethora.
 - [Pine3D](https://github.com/Xella37/Pine3D) - A 3D rendering engine designed to be fast.
 - [RedRun](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8) -  A small library for running processes in the background of CraftOS after exiting the program, similar to DOS TSRs.
