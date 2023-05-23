@@ -84,6 +84,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
 - [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
 - [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
+- [12 free Data Science projects to practice Python and Pandas](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas)
 
 
 ### Free Courses
@@ -687,6 +688,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering, MLOps, and the use of ML in startups
 - [Maria Khalusova](https://www.mariakhalusova.com/) - Data science blog
 - [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - ML,DL,Data Science blog
+- [Santiago Basulto](https://medium.com/@santiagobasulto) - Data Science with Python
 
 ### Presentations
 **[`^        back to top        ^`](#awesome-data-science)**

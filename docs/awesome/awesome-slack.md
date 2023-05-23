@@ -55,6 +55,7 @@ A list of communities about web development and design that are powered by **Sla
 - [First Contributors](https://firstcontributors.slack.com/join/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM#/) - Help / mentorship for open source contributors.
 - [IT Pro Community](https://www.electric.ai/it-pro-slack) - Connect and network with IT practitioners and decision-makers
 - [SaaS Community](https://join.slack.com/t/saas-hgv7803/shared_invite/zt-qwvrywyr-8DmSpEzBiSWD2WQuB9r9pw) - Community for SaaS product builders, to discuss the challenges involved.
+- [Developer Marketing](https://marketingto.dev/) - Passionate marketing folks working in API Marketing, developer tooling, or actively marketing to developers.
 
 ## DevOps
 - [Google Cloud Platform](http://bit.ly/gcp-slack)
