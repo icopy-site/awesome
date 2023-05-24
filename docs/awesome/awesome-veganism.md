@@ -29,14 +29,21 @@ This list is an attempt to create a community driven approach to guarantee no-no
 - Berlin, Germany
   - [Brammibal's Donuts](https://www.brammibalsdonuts.com/) - The most tasty high quality vegan donuts in Berlin.
 
+- Midvale, UT, USA
+  - [Sweet Hazel & Co](https://sweethazelandco.com/) - Tasty candy bars, food and more. LGBTQ+ friendly!
+
 - Monster, Netherlands
   - [My Cakes](https://macarononline-nl.mijndomeinwebwinkel.nl/) - Amazing selection of cakes, macarons, dutch specialties, and more.
 
-- Zaandijk, Netherlands
-  - [Vegan bakery](https://www.veganbakery.nl/) - Dutch vegan bakery with a big selection of vegan cakes, muffins, and other awesomeness.
-  
 - Portland, OR, USA
   - [Shoofly bakery](https://www.shooflyveganbakery.com/) - Vegan items delivered.
+
+- Salt Lake City, UT, USA
+    - [Yumz Vegan Bakery & Cafe](https://www.toasttab.com/yumz-llc-3490-s-state-st/v3/) - Mexican vegan bakery with excellent food options.
+
+- Zaandijk, Netherlands
+  - [Vegan bakery](https://www.veganbakery.nl/) - Dutch vegan bakery with a big selection of vegan cakes, muffins, and other awesomeness.
+
 
 ## Restaurants
 
@@ -53,12 +60,15 @@ This list is an attempt to create a community driven approach to guarantee no-no
   - [Vegan Junk Food Bar](https://www.veganjunkfoodbar.com/) - High quality burgers, fancy hotdogs, Dutch specialties like Bitterballen, cocktails, and more.
   - [Yemayá's Vegan Corner](https://yemaya.estate/) - Super tasty food driven by sustainable local community efforts.
 
+- Ashland, OR, USA
+  - [NW Raw](https://nwraw.com/) - Juices and snacks, vegan ice cream.
+
 - Berkeley, CA, USA
   - [The Butcher's Son](https://www.thebutchersveganson.com/) - Comfort food spilling off of your plate. Grab a main, a couple of sides and a plenty of napkins.
-  
+
 - Bonn, Germany
   - [Kaiserhüttn](https://kaiserhuettn.com/) - Eat like in Austria.
-   
+
 - Eindhoven, Netherlands
   - [Bar Bistro Calypso](https://www.bistrocalypso.nl/) - Cosiest livingroom in town, with tasty no-nonsense dishes and good drinks.
   - [Bij Albrecht](https://www.bijalbrecht.nl/) - Vegan and organic food experience with seasonal produce.
@@ -75,14 +85,14 @@ This list is an attempt to create a community driven approach to guarantee no-no
   - [Eat By Cloe](https://eatbychloe.com/) - For the mandatory fish and chips this place is definitely worth visiting.
 
 - New York, USA
-  - [Berben & Wolff's](https://berbenandwolffs.com/) - Easygoing counter-serve deli with a cheerful vibe specializing in vegan light fare & desserts. Locations in Albany and Troy, New York. 
-  
+  - [Berben & Wolff's](https://berbenandwolffs.com/) - Easygoing counter-serve deli with a cheerful vibe specializing in vegan light fare & desserts. Locations in Albany and Troy, New York.
+
 - Oakland, USA
   - [Millennium Restaurant](https://www.millenniumrestaurant.com/) - Far cry from your ordinary vegan spot in that it takes a hands on, from scratch approach to food which assures a fresh, local, organic and homemade product every time.
-  
-- Ashland, OR, USA
-  - [NW Raw](https://nwraw.com/) - Juices and snacks, vegan ice cream.
- 
+
+- Salt Lake City, UT, USA
+  - [Mark of the Beastro](https://markofthebeastro.com/) - Excellent vegan food and dining.
+
 - Utrecht, Netherlands
   - [Oproer](https://www.oproerbrouwerij.nl/) - Local brewery with tasty beers and vegan street food.
 
