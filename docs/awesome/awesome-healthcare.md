@@ -96,6 +96,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
   * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
   * [LinuxForHealth FHIR Server](https://github.com/LinuxForHealth/FHIR) - Modular Java implementation of version 4 of the HL7 FHIR specification.
+  * [Medblocks UI](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
   * [Opal](https://opal.openhealthcare.org.uk/) - Framework for building clinical applications.
   * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - Software framework that makes it easy to create apps for medical research or for other research projects.
   * [Spark](https://github.com/FirelyTeam/spark) - Public domain FHIR server developed in C#.
@@ -106,7 +107,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Android FHIR SDK](https://github.com/google/android-fhir) - The Android FHIR SDK 
   * [Archie](https://github.com/openehr/archie) - OpenEHR Library written in Java.
   * [Asymmetrik FHIR API Server](https://github.com/bluehalo/node-fhir-server-core) - A secure REST implementation for the HL7 FHIR Specification.
-  * [Datamol](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
+  * [Datamol](https://github.com/datamol-io/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
   * [dicom](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
   * [ehrapy](https://github.com/theislab/ehrapy/) - Electronic Health Record analysis in Python.
@@ -169,7 +170,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Wregex](https://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix.
 
 ### Data
-  * [Atlas BI Library](https://github.com/atlas-bi/atlas-bi-library) The unified report library.
+  * [Atlas BI Library](https://github.com/atlas-bi/Library) The unified report library.
   * [Caisis](http://www.caisis.org/) - Oncology research software with a Patient Data Management System.
   * [Cedar](https://github.com/mitre/cedar) - Open source tool for testing the strength of Electronic Clinical Quality Measure.
   * [cTAKES](https://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
