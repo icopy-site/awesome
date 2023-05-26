@@ -473,6 +473,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 * [SH1106](https://github.com/robert-hh/SH1106) - Driver for the SH1106 OLED display.
 * [micropython-ssd1309](https://github.com/rdagger/micropython-ssd1309) - MicroPython SSD1309 Monochrome OLED Display Driver.
 * [sh1107-micropython](https://github.com/nemart69/sh1107-micropython) - MicroPython driver for SH1107-based OLED display (64x128).
+* [SH1107](https://github.com/peter-l5/SH1107) - Driver for SH1107 OLED displays (128x128 and 128x64 pixels).
 
 #### Printer
 
@@ -687,6 +688,7 @@ input via push buttons or a navigation joystick and an optional rotary encoder.
 * [MQ135](https://github.com/rubfi/MQ135) - Driver for MQ135 gas sensor.
 * [CCS811](https://github.com/Notthemarsian/CCS811) - Basic MicroPython driver for CCS811 on ESP8266 boards.
 * [micropython-scd30](https://github.com/agners/micropython-scd30) - MicroPython I2C driver for Sensirion SCD30 CO2 sensor module.
+* [MicroPython_SCD4X](https://github.com/peter-l5/MicroPython_SCD4X) - MicroPython I2C driver for Sensirion SCD40 and SCD41 CO2 sensors.
 * [micropython-sgp40](https://github.com/agners/micropython-sgp40) - MicroPython I2C driver for SGP40 VOC sensor module.
 * [MICS6814-Micropython-driver](https://gitlab.com/DanNduati/MICS6814-Micropython-driver) - ESP32 MicroPython driver for the Pimoroni MICS6814 breakout board.
 

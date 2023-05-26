@@ -13,7 +13,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 </div>
 
 <p align="center">
-    <img  src="https://visitor-badge.glitch.me/badge?page_id=aorumbayev.awesome-algorand&right_color=black" />
+    <img  src="https://api.visitorbadge.io/api/visitors?path=aorumbayev%2Fawesome-algorand&countColor=%23000000&style=flat" />
     <a target="_blank" href="https://awesomealgo.com"><img src="https://img.shields.io/badge/url-website-black.svg" /></a>
     <a target="_blank" href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/badge/url-repository-black.svg" /></a>
     <br />
