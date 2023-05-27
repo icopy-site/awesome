@@ -15,6 +15,7 @@ This repository contains curated list of different urban & regional planning dat
   
   
   
+  - [AI in Planning Tools and Platforms](#ai-in-planning-tools-and-platforms) 
   
   
 - [Other Resources](#other-resources)   
@@ -312,6 +313,12 @@ Resources for planners learning coding and urban informatics.
 Software and platforms for planners and those interested in the built environment. 
 
 ---
+### AI in Planning Tools and Platforms
+Software, tools, and platforms that employ models that draw inferences from data that have specific utility for urban planning applications. The American Planning Association's Technology Division authored an [open letter](https://apa-technology-division.github.io/2023-ai-ethics-letter) identifing the neet for ethical use of these tools. 
+
+- [ChatGPT](https://chat.openai.com/) - ChatGPT is an advanced language model designed to generate human-like text responses and engage in conversational interactions. Additional Information: [Act Like a Planner](https://apa-technology-division.github.io/like-a-planner).
+- [University of Oregon, AI Software List](https://blogs.uoregon.edu/artificialintelligence/ai-software/) - A blog cataloguing existing AI resources compiled by university researchers and local policy experts.
+
 ### Environmental and Climate Planning Tools and Platforms
 Software, tools, and platforms intended to aid environmental planning or climate adaptation & mitigation planning. 
 
@@ -348,6 +355,12 @@ Software, tools, and platforms designed to create digital replicas of our world,
 - [Unity](https://unity.com/) - A powerful and popular cross-platform game engine for creating 2D and 3D interactive experiences and games.
 - [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games Unreal Engine is a XR engine that allows planners to not just create visualizations, but create immersive environments that gamify community involvement, decision-making, and the planning process.   
 
+### Planning Management and Administrative Tools and Platforms
+Software, tools, and platforms intended to help assist with planning management and adminstration. This includes software for permitting, development review, digital plan development, and other planning management tasks. 
+- [Encode Plus](https://www.encodeplus.com/) - Software to help modernize planning and zoning ordinances and streamline county or municipal code and by-law management.
+- [MyGovernmentOnline](https://www.mygovernmentonline.org/) - Digital government solutions for permitting and in-office processes designed by government for goverment (provider is technically a public agency).
+- [Digiplan](https://digeplan.com/) - Provides software for fully integrated electronic plan review and intake processes.
+- [OpenGov](https://opengov.com/products/citizen-services/) - Cloud solution to power every permit, license, and inspection with user-friendly workflows. 
 
 ### Public Engagement Tools and Platforms
 Software, tools, and platforms intended to aid with public engagement and outreach activities. 
@@ -386,13 +399,6 @@ Software, tools, and platforms intended to assist with transportation planning t
 - [A/B Street](https://www.abstreet.org) - Edit streets and intersections, explore the effects through traffic simulation on all modes, and use the resulting visualizations to communicate a proposal. Apache licensed, runs anywhere with OpenStreetMap, and works on the web or as an offline download.
 - [Space Syntax](https://www.spacesyntax.net/software/) - Spatial & Network Analysis software is available to professional practitioners and academic researchers for commercial and non-commercial use. 
 - [ITHIM](https://www.mrc-epid.cam.ac.uk/research/research-areas/public-health-modelling/ithim) - Integrated Transport and Health Impact Model (ITHIM) refers to a range of related models and tools developed to perform integrated assessment of the health effects of transport scenarios and policies at the urban and national level. This page points to different literature, R code, and [US specific resources](https://skylab.cdph.ca.gov/HealthyMobilityOptionTool-ITHIM/).
-
-### Planning Management and Administrative Tools and Platforms
-Software, tools, and platforms intended to help assist with planning management and adminstration. This includes software for permitting, development review, digital plan development, and other planning management tasks. 
-- [Encode Plus](https://www.encodeplus.com/) - Software to help modernize planning and zoning ordinances and streamline county or municipal code and by-law management.
-- [MyGovernmentOnline](https://www.mygovernmentonline.org/) - Digital government solutions for permitting and in-office processes designed by government for goverment (provider is technically a public agency).
-- [Digiplan](https://digeplan.com/) - Provides software for fully integrated electronic plan review and intake processes.
-- [OpenGov](https://opengov.com/products/citizen-services/) - Cloud solution to power every permit, license, and inspection with user-friendly workflows. 
 
 ## Educational and Informational Resources
 Collections of planning related literature, information aggregators, or similar resources.
@@ -460,7 +466,6 @@ These are other aggregators that bring together different planning related tools
 - [The Nexus](https://www.urbanismnext.org/the-nexus) - The Nexus examines the potential impacts that new mobility, autonomous vehicles, e-commerce, and other innovations will have on cities and communities and catalogues various resources and tools related to them.
 - [Data Standards Directory](http://datastandards.directory/) - This open directory of data standards aggregates known data standard examples and features a taxonomy on how to understand their application. 
 - [Digital.Gov](https://digital.gov/) - Guidance and resources on building better digital services in government.
-- [AI Tools & Applications](https://favird.com/l/ai-tools-and-applications) - A comprehensive list of AI Tools & Applications on Favird by user onebird. 
 
 ---
 
