@@ -91,7 +91,7 @@
 
 - [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform.
 - [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro.
-- [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import.
+- [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import. ![GNOME Circle][GNOME Circle]
 
 ### System and Customization
 
@@ -145,6 +145,7 @@
 - [Text Pieces](https://apps.gnome.org/app/com.github.liferooter.textpieces/) - Transform text without using random websites. ![GNOME Circle][GNOME Circle]
 - [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof/) - Profile an application or entire system.
 - [DevHelp](https://apps.gnome.org/app/org.gnome.Devhelp/) - Developer tool for browsing and searching API documentation.
+- [Escambo](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
 
 #### Design Tooling
 
