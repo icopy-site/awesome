@@ -59,6 +59,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [boilr](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
 * [boom](https://github.com/holman/boom) - Store links and snippets in the command line
 * [borg](https://github.com/ok-borg/borg) - A terminal based search engine for bash commands
+* [broot](https://github.com/Canop/broot) - A better way to navigate directories
 * [browsh](https://github.com/browsh-org/browsh) - The modern text-based browser
 * [Buku](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
 * [byobu](https://www.byobu.org) - Text-based window manager and terminal multiplexer
@@ -123,6 +124,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [surfraw](https://gitlab.com/surfraw/Surfraw) - browse specific site and search the web from your terminal without browser.
 * [task-manager](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
 * [td-cli](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
+* [tere](https://github.com/mgunyho/tere) - A faster alternative to cd + ls
 * [thefuck](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 * [tldr](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
 * [tmux](https://tmux.github.io/) - Amazing terminal multiplexer
@@ -173,7 +175,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [mysql-colorize](https://github.com/zpm-zsh/mysql-colorize) -  Colorization for mysql comand-line client
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
 * [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine for any shell and platform written in go.
-* [polyglot](https://github.com/agkozak/polyglot) - An informative Git prompt that works in bash, zsh, ksh, mksh, pdksh, dash, yash, and busybox sh
+* [polyglot](https://github.com/agkozak/polyglot) - An informative Git prompt that works in bash, zsh, ksh, mksh, pdksh, oksh, dash, yash, busybox sh, and osh
 * [powerlevel10k](https://github.com/romkatv/powerlevel10k) - Super flexible awesome powerline ZSH theme
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
 * [starship](https://starship.rs/) - Fast, customisable, cross-shell prompt written in rust
@@ -335,7 +337,6 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager
 * [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
 * [ticker](https://github.com/achannarasappa/ticker) — Terminal stock ticker with live updates and position tracking
-* [transfer.sh](https://transfer.sh/) — Quickly upload and share files from your shell
 * [vl](https://github.com/ellisonleao/vl) - URL link checker on text documents
 * [wego](https://github.com/schachmat/wego) - Weather app for the terminal
 * [whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications

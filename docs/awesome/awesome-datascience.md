@@ -20,7 +20,6 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 <br>
 
 
-  - [Podcasts](#podcasts)]
 
 ## What is Data Science?
 **[`^        back to top        ^`](#awesome-data-science)**
