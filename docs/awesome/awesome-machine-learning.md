@@ -117,6 +117,7 @@ Further resources:
 * [Hopsworks](https://github.com/logicalclocks/hopsworks) - A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving database, based on MySQL Cluster, for online applications.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
 * [QuestDB](https://questdb.io/) A relational column-oriented database designed for real-time analytics on time series and event data.
+* [Phoenix](https://phoenix.arize.com) Uncover insights, surface problems, monitor and fine tune your generative LLM, CV and tabular models.
 
 <a name="cpp-natural-language-processing"></a>
 #### Natural Language Processing
@@ -667,6 +668,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [SciLua](http://scilua.org/)
 * [Lua - Numerical Algorithms](https://bitbucket.org/lucashnegri/lna) **[Deprecated]**
 * [Lunum](https://github.com/jzrake/lunum) **[Deprecated]**
+* [Keras GPT Copilot](https://github.com/fabprezja/keras-gpt-copilot) - A python package that integrates an LLM copilot inside the keras model development workflow.
 
 <a name="lua-demos-and-scripts"></a>
 #### Demos and Scripts
@@ -1628,6 +1630,7 @@ be
 * [MLEM](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles
 * [DockerDL](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
 * [Aqueduct](https://github.com/aqueducthq/aqueduct) - Aqueduct enables you to easily define, run, and manage AI & ML tasks on any cloud infrastructure.
+* [Ambrosia](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using _other_ LLMs.
 
 <a name="books"></a>
 ## Books
