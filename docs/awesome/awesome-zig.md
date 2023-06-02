@@ -211,6 +211,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 ## Parser
 * [darithorn/zig-toml](https://github.com/darithorn/zig-toml) - A TOML parser.
+* [Himujjal/zig-json5](https://github.com/Himujjal/zig-json5) - JSON5 parser resembling the `std.json` APIs.
 * [chwayne/rem](https://github.com/chwayne/rem) - An HTML parsing library.
 * [goto-bus-stop/ziguid](https://github.com/goto-bus-stop/ziguid) - GUID parsing/stringifying.
 * [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library.
