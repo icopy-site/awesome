@@ -21,6 +21,7 @@
 - [Prehistoric Domain](https://www.prehistoricdomain.com/) - A Jurassic Park-esque experience in the browser, with multiple dinosaur exhibits available and more planned for the future.
 - [Above Par-adowski WebXR Mini Golf](https://aboveparadowski.com/) - A WebXR minigolf game designed by Paradowski Creative, featuring 9 holes spread across a unique and varied environment.
 - [Yolopia](https://www.yolopia.com/) - A rhythm game which combines flow, boxing and pose matching.
+- [f60](https://heyvr.io/game/f60) - A cross-platform WebXR escape room series set within a Soviet prison.
 
 ## Art
 
@@ -101,8 +102,8 @@
 
 
 - [2WSZ](https://2wsz.com/) - An aggregator for WebXR content featuring ratings, a recommendation system, and both English and Korean language support.
-- [Construct Arcade](https://constructarcade.com/) - A curated hub of WebXR games, with games from both outside developers and in-house developers at Vhite Rabbit.
 - [Extended Collection](https://extendedcollection.com/) - Another curation hub for WebXR content maintained by [Joseph Simpson](https://github.com/vrhermit/).
+- [heyVR](https://heyvr.io/) - A curated platform for publishing WebXR games.
 - [XR Swim](https://xrswim.com/) - An aggregator site for both WebXR and Web3 content.
 - [XRSites](https://xrsites.com/) - An aggregator for WebXR games and experiences.
 

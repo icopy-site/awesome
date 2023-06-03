@@ -1811,6 +1811,7 @@ _Display non-editable events in a Calendar_
 - [vite-plugin-vue-preview](https://github.com/liting-yes/vite-plugin-vue-preview) - a vite plugin for code preview, of course you can also use the component separately
 - [vue3-calendar-heatmap](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
 - [vue3-code-block](https://github.com/webdevnerdstuff/vue3-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js.
+- [v-image-magnifier](https://github.com/fchancel/v-image-magnifier) - A Vue 3 plugin that provides interactive image zoom functionality. Allow users to zoom in on an image by hovering over it, providing an enlarged view of the corresponding part of the image. 
 - [Everright-filter](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
 
 #### Tabs
@@ -2542,6 +2543,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vue-not-visible](https://github.com/PxyUp/vue-not-visible) - Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints.
 - [vue-window-size](https://github.com/mya-ake/vue-window-size) - Provides reactivity window size properties.
 - [vue-responsive-text](https://github.com/shwilliam/vue-responsive-text) - ↔ Component that scales its child node in relation to its parent node's width
+- [v-hide](https://github.com/ventralnet/v-hide) - v-hide directive to accompany v-if and v-show. Keeps layout space in the DOM
 
 #### Scroll
 
