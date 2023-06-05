@@ -75,7 +75,6 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [CloudSight](https://cloudsight.ai/) - Digital media brand recognition.
 * [Google Vision AI](https://cloud.google.com/vision) - Google's AI vision APIs.
 * [Roboflow](https://roboflow.com/) - Simplified computer vision model creation for developers.
-* [Scanbot SDK](https://scanbot.io/) - Structured data extraction from images for applications.
 
 ## Databases & Spreadsheets
 *Storing data and processing it.*
@@ -187,6 +186,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 
 ## Messaging
 *Messaging APIs - SMS, notifications, chats, and VoIP.*
+* [Ably](https://ably.com) - Pub/sub, real-time messaging, notifications, chat, multiplayer and data synchronization.
 * [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
 * [Knock](https://knock.app) - Notifications as a service.
 * [MagicBell](https://www.magicbell.com/) - Real-time notification system with API & UI components.
