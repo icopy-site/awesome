@@ -19,8 +19,8 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Tutorials
 - [Kubernetes monitoring with Prometheus, the ultimate guide](https://sysdig.com/blog/kubernetes-monitoring-prometheus/) - Kubernetes monitoring with Prometheus, the ultimate guide by Mateo Burillo.
-- [How To Install Prometheus using Docker on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-centos-7) - Walkthough on how to install Prometheus on CentOS 7.
-- [How to Use Prometheus to Monitor Your CentOS 7 Server](https://www.digitalocean.com/community/tutorials/how-to-use-prometheus-to-monitor-your-centos-7-server) - Walkthough on how to monitor a CentOS 7 server using Prometheus.
+- [How To Install Prometheus using Docker on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-centos-7) - Walkthrough on how to install Prometheus on CentOS 7.
+- [How to Use Prometheus to Monitor Your CentOS 7 Server](https://www.digitalocean.com/community/tutorials/how-to-use-prometheus-to-monitor-your-centos-7-server) - Walkthrough on how to monitor a CentOS 7 server using Prometheus.
 - [How To Add a Prometheus Dashboard to Grafana](https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana) - Walkthrough on how to add a Prometheus dashboard to Grafana.
 - [Instructions and example code for a Prometheus workshop](https://github.com/juliusv/prometheus_workshop) - Instructions and example code for a Prometheus workshop by Julius Volz.
 - [Checking if SSH is responding with Prometheus](https://www.robustperception.io/checking-if-ssh-is-responding-with-prometheus/) - Walkthrough on how to use the Blackbox Exporter to check if SSH is responding by Brian Brazil.
@@ -88,7 +88,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Deployment tools
 - [Ansitheus](https://github.com/ntk148v/ansitheus) - Ansible playbook to containerize, configure and deploy Prometheus ecosystem _by ntk148v_.
-- [Cloud Alchemy Ansible roles](https://github.com/cloudalchemy) - Ansible roles to manage Prometheus, Alertmanager, Grafana, and commond Prometheus exporters.
+- [Cloud Alchemy Ansible roles](https://github.com/cloudalchemy) - Ansible roles to manage Prometheus, Alertmanager, Grafana, and common Prometheus exporters.
 - [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) - Ansible playbook for installing Prometheus monitoring system, exporters such as: node, snmp, blackbox, thus alert manager and push gateway _by Ernestas Poskus_.
 - [Click-to-deploy Prometheus](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) - Source for Google Click to Deploy Prometheus solutions listed on Google Cloud Marketplace _by GoogleCloudPlatform_.
 - [Prometheus Operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes _by CoreOS_.
@@ -101,7 +101,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 The lists below contain all the official Prometheus exporters that are maintained by the [Prometheus GitHub organization](https://github.com/prometheus). For a complete list of exporters including any non-official exporters see [prometheus.io](https://prometheus.io/docs/instrumenting/exporters/) or [exporterhub.io](https://exporterhub.io) for a curated list of Prometheus exporters.
 
 ### Databases
-- [Consol exporter](https://github.com/prometheus/consul_exporter) - The exporter for Consul metrics.
+- [Consul exporter](https://github.com/prometheus/consul_exporter) - The exporter for Consul metrics.
 - [Memcached exporter](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats.
 - [MySQL server exporter](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats.
 

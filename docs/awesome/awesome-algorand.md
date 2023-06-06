@@ -23,7 +23,9 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
     <a target="_blank" href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?color=gold" /></a>
 </p>
 
-🤖 By the way, you can also chat with AI chat bot available at [AwesomeAlgo AI Chat](https://chat.awesomealgo.com/) to get answers to your questions on any of the resources available in this repository and readme 😊
+🤖 You can enhance your experience by interacting with the AI chat bot available at [AwesomeAlgo Search](https://chat.awesomealgo.com/). It's designed to answer any questions you might have regarding resources in this repository and readme 😊.
+
+> **Additionally**, enhance your accessibility with the AwesomeAlgo Search desktop version, which can be downloaded [here](https://github.com/aorumbayev/awesome-algorand/releases/tag/v0.1.0).
 
 
 
