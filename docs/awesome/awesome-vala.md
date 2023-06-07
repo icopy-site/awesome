@@ -44,6 +44,7 @@ A curated list of resources for Vala - A programming language using modern high 
 
 ### Productivity
 
+- [Annotator](https://github.com/phase1geo/Annotator) - Annotate images for better communication.
 - [Badger](https://github.com/elfenware/badger) - Remind yourself to not sit and stare at the screen for too long.
 - [Blackbox](https://gitlab.gnome.org/raggesilver/blackbox) - A beautiful GTK 4 terminal.
 - [Dino](https://github.com/dino/dino) - A modern Jabber/XMPP Client using GTK+/Vala.
@@ -52,12 +53,15 @@ A curated list of resources for Vala - A programming language using modern high 
 - [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - The calculator app for the GNOME desktop.
 - [graphui](https://github.com/artemanufrij/graphui) - Graph Visualization based on graphviz.
 - [Ideogram](https://github.com/cassidyjames/ideogram) -  Emoji Picker app.
+- [Minder](https://github.com/phase1geo/Minder) - Mind-mapping application.
 - [Notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
 - [Notes-up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager.
+- [Outliner](https://github.com/phase1geo/Outliner) - Write outlines easily.
 - [Paper](https://gitlab.com/posidon_software/paper/) - Take notes in Markdown.
 - [pdfpc](https://github.com/pdfpc/pdfpc) - A GTK presenter application with multi-monitor support for PDF files.
 - [Planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux.
 - [Spice-up](https://github.com/Philip-Scott/Spice-up) - Presentations App for the modern Linux Desktop.
+- [TextShine](https://github.com/phase1geo/TextShine) - Convert and manipulate text.
 - [TextSnatcher](https://github.com/RajSolai/TextSnatcher) - Copy text from Images with ease.
 
 ### System Tools

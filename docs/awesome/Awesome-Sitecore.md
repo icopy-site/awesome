@@ -248,6 +248,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Integration Blueprints](https://github.com/Sitecore/Integration-Blueprints) - Sample code showing how to integrate Sitecore products with each other, and also with 3rd party systems.
 
+## Item Resource Files
+
+- [Sitecore IAR Management](https://github.com/GAAOPS/Sitecore.IAR.Management) - PowerShell script for managing Item as resources.
+- [Sitecore Item as Resource Explorer](https://github.com/GAAOPS/Sitecore.Protobuf.Browser) - WPF application which allows you to browse the Sitecore static databases files (.dat)
+
 ## Languages
 
 - [Sitecore Item Translator](https://github.com/adoprog/Sitecore-Item-Translator) - An item Translator module integrates Google translate seamlessly so that with a click of a button you are able to translate your text to any language that Google translate supports.
