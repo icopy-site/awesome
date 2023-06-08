@@ -195,7 +195,6 @@
 - [Raspberry Dream Land](https://www.rdland.io/) - A progressive events platform focused on inclusivity, radical self-expression, and virtual relationships. Also has its own NFT avatar collection.
 - [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
 - [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
-- [Webaverse](https://webaverse.com/) - An open-source virtual world powered by Ethereum with support for custom avatars. Focused on digital ownership, an open economy, and interoperability.
 
 ## YouTube
 
