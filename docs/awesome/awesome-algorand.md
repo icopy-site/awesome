@@ -28,7 +28,6 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 > **Additionally**, enhance your accessibility with the AwesomeAlgo Search desktop version, which can be downloaded [here](https://github.com/aorumbayev/awesome-algorand/releases/tag/v0.1.0).
 
 
-
 ## Official Resources
 
 > Official resources for Algorand.
@@ -51,6 +50,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Defly Wallet](https://defly.app/) - Defly is an Algorand wallet with great suit of integrated DeFi features.
 - [Daffi Wallet](https://www.daffi.me/) - Daffi is a mobile wallet for Algorand with integrated access to Daffi platform.
 - [Exodus](https://www.exodus.com/) - Exodus is a multi-cryptocurrency wallet that supports Algorand.
+- [A-Wallet](https://a-wallet.net/) - AWallet is an open source, HTML only, corporate friendly, and secure Algorand wallet.
 
 ## Blockchain Explorers
 
@@ -258,30 +258,10 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 - [use-wallet](https://github.com/txnlab/use-wallet) - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
 
-## NFT Marketplaces
-
-> Awesome NFT marketplaces and galleries on Algorand.
-
-- [AB2](https://ab2.gallery/) - decentralized marketplace for crypto art assets secured on the Algorand blockchain created by [@ab2_gallery](https://twitter.com/AB2_Gallery).
-- [Rand Gallery](https://www.randgallery.com/) - Algorand Standard Asset (ASA) explorer and marketplace developed by [Chris Antaki](https://github.com/ChrisAntaki).
-- [AlgoGems](https://algogems.io/) - Algorand Standard Asset (ASA) markeplace and trading platform for NFT collectors.
-- [AlgoWorldExplorer](https://algoworldexplorer.io/) - NFT marketplace, explorer and gallery for AlgoWorld NFTs developed by [@aorumbayev](https://twitter.com/aorumbayev).
-- [AlgoMart](https://github.com/deptagency/algomart) - Opensource NFT marketplace whitelabel solution.
-- [ALGOxNFT](https://algoxnft.com/listings/live) - NFT gallery and marketplace.
-- [Dartroom](https://dartroom.xyz/overview) - Decentralized NFT explorer, minting and trading.
-- [Alchemon](https://alchemon.net/) - Monster-collecting NFT card game.
-- [Otherverse](https://otherverse.io/) - NFT collections marketplace.
-- [Musa](https://www.musanft.io/) - Music, Art & Fashion NFT gallery and marketplace.
-- [Flatter](https://www.flatternft.com/) - NFT art and collectible marketplace.
-- [Aorist](https://aorist.art/) - NFT art gallery and marketplace.
-- [ASA cafe](https://asa.cafe/) - Algorand Standard Asset platform and decentralized marketplace built by [@CryptoRUSHGav](https://github.com/CryptoRUSHGav). ASA cafe lets users mint and trade freely using the most modern standards, such as ARC-19, in Algo, USDC, or one of ASA cafe's expanding list of curated non-network tokens.
-- [Grid](https://grid.zestbloom.com/) - The Grid is a lightweight, static site that executes in the clients frontend to retrieve an arbitrary list of live contracts for users to browse and interact with. The Grid is highly configurable allowing for any of the ZestBloom supported contracts and sale types to be displayed, but through means of a simple configuration file, what gets displayed may easily be constrained to only a specific collection or curated list of sales.
-
 ## DeFi Platforms
 
 > Awesome DeFi platforms and protocols on Algorand. Please note that this list is not aimed to promote any specific project, but rather to provide a comprehensive overview of the ecosystem. Do your own research before investing or using any of the projects listed here.
 
-- [Yieldly](https://yieldly.finance/) - DeFI suite for cross-chain swapping, ASA staking and lottery games.
 - [Tinyman](https://tinyman.org/) - A decentralized trading protocol, AMM and platform.
 - [Algofi](https://www.algofi.org/) - Decentralized lending market and stablecoin on the Algorand blockchain.
 - [Pact](https://www.pact.fi/) - Decentralised Automated Market Maker (AMM) built on the Algorand protocol.
@@ -289,6 +269,9 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Folks.finance](https://folks.finance/) - Decentralized capital markets protocol.
 - [C3](https://c3.io/) - Cross-margin cross-collateralization clearing engine protocol.
 - [Cometa.farm](https://cometa.farm/) - Decentralized liquidity-as-a-service.
+- [aramid.finance/](https://www.aramid.finance/) - A Decentralized Cross-Chain Protocol supporitng Algorand, Polygon, Ethereum and other EVM chains.
+- [stabilitas.finance](https://stabilitas.finance/) - Stable and secure digital assets for various purposes such as purchases, remittances and as a store of value.
+- [vestige.fi](https://vestige.fi/) - A decentralized ecosystem of tools primary used as a tool to track and trend Algorand Standard Assets and Liquidity Pools across the ecosystem. The platform also provides a decentralized swap and a launchpad platform.
 
 ## Subscription Management
 
@@ -387,6 +370,33 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Algorand Mempool](https://www.iamnotabot.com/pool) - Algorand mempool explorer.
 - [Metrika](https://app.metrika.co/dashboard/algorand/) - Algorand network performance and account monitor.
 - [Algorand Stats](https://www.algorandstats.com/) - All stats about Algorand Governance.
+
+## Decentralized voting
+
+> Tools for on-chain voting powered by Algorand
+
+- [nft_voting_tool](https://github.com/algorandfoundation/nft_voting_tool) - Official voting tool by Algorand Foundation. The repository contains a voting tool that allows for creation and facilitation of immutable, tamperproof voting using the Algorand blockchain.
+- [vote-coin-demo](https://github.com/scholtz/vote-coin-demo) - Decentralized message standard for on-chain voting on Algorand developed by @scholtz.
+
+## NFT Marketplaces
+
+> Awesome NFT marketplaces and galleries on Algorand.
+
+- [AB2](https://ab2.gallery/) - decentralized marketplace for crypto art assets secured on the Algorand blockchain created by [@ab2_gallery](https://twitter.com/AB2_Gallery).
+- [Rand Gallery](https://www.randgallery.com/) - Algorand Standard Asset (ASA) explorer and marketplace developed by [Chris Antaki](https://github.com/ChrisAntaki).
+- [AlgoGems](https://algogems.io/) - Algorand Standard Asset (ASA) markeplace and trading platform for NFT collectors.
+- [AlgoWorldExplorer](https://algoworldexplorer.io/) - NFT marketplace, explorer and gallery for AlgoWorld NFTs developed by [@aorumbayev](https://twitter.com/aorumbayev).
+- [AlgoMart](https://github.com/deptagency/algomart) - Opensource NFT marketplace whitelabel solution.
+- [ALGOxNFT](https://algoxnft.com/listings/live) - NFT gallery and marketplace.
+- [Dartroom](https://dartroom.xyz/overview) - Decentralized NFT explorer, minting and trading.
+- [Alchemon](https://alchemon.net/) - Monster-collecting NFT card game.
+- [Otherverse](https://otherverse.io/) - NFT collections marketplace.
+- [Musa](https://www.musanft.io/) - Music, Art & Fashion NFT gallery and marketplace.
+- [Flatter](https://www.flatternft.com/) - NFT art and collectible marketplace.
+- [Aorist](https://aorist.art/) - NFT art gallery and marketplace.
+- [ASA cafe](https://asa.cafe/) - Algorand Standard Asset platform and decentralized marketplace built by [@CryptoRUSHGav](https://github.com/CryptoRUSHGav). ASA cafe lets users mint and trade freely using the most modern standards, such as ARC-19, in Algo, USDC, or one of ASA cafe's expanding list of curated non-network tokens.
+- [Grid](https://grid.zestbloom.com/) - The Grid is a lightweight, static site that executes in the clients frontend to retrieve an arbitrary list of live contracts for users to browse and interact with. The Grid is highly configurable allowing for any of the ZestBloom supported contracts and sale types to be displayed, but through means of a simple configuration file, what gets displayed may easily be constrained to only a specific collection or curated list of sales.
+
 
 ## Contributing
 
