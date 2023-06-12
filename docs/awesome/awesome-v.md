@@ -138,7 +138,7 @@
 
 - [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) - A simple event bus system for V.
 
-### Files
+### File handling
 
 - [v-mime](https://github.com/nedpals/v-mime) - MIME detection library for V.
 - [vmon](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.
@@ -167,6 +167,7 @@
 
 ### Networking
 
+- [vibe](https://github.com/tobealive/vibe) - A libcurl binding with an easy-access layer for fast and reliable requests.
 - [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
 
 ### Operating system

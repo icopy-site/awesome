@@ -137,6 +137,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [GrowthBook](https://www.growthbook.io/) - Open-source feature flag and experimentation platform.
 * [LaunchDarkly](https://launchdarkly.com/) - Feature flags-as-a-service platform.
 * [Split](https://www.split.io/) - Feature flags platform with data analytics.
+* [Unleash](https://www.getunleash.io/) - Open-source, privacy-first, and enterprise-ready feature management solution.
 
 ## GEO
 *Location services.*
@@ -274,6 +275,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Beeceptor](https://beeceptor.com/) - REST API mocking.
 * [Blackfire.io](https://blackfire.io/) - Performance testing.
 * [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
+* [Ddosify](https://ddosify.com/) - Distributed Performance Testing Platform.
 * [Loadmill](https://www.loadmill.com/) - Generate tests from user behavior.
 * [Percy](https://percy.io/) - Continuous visual testing.
 * [Testim](https://www.testim.io/) - Frontend testing.
