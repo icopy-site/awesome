@@ -104,7 +104,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### News and Resources
 - [adacore-blog](https://blog.adacore.com/) - An insight into the AdaCore ecosystem.
-- [ada-europe](http://www.ada-europe.org/) - Ada-Europe is an international organization, set up to promote the use of Ada.
+- [ada-europe](https://www.ada-europe.org/) - Ada-Europe is an international organization, set up to promote the use of Ada.
 - [acm-sig-ada](https://www.sigada.org/) - The Special Interest Group on Ada.
 - [ada-resource-association](https://www.adaic.org/community/) - Since 1990 the Ada Resource Association's principal mission has been “To ensure continued success of Ada users and promote Ada use in the software industry”.
 - [ada-information-clearinghouse](https://www.adaic.org/) - News and resources for the Ada programming language.
@@ -114,7 +114,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Competition
 <div align="center">
-	<a href="https://www.makewithada.org/">
+	<a href="http://www.makewithada.org/">
 		<img width="800px" src="https://hackster.imgix.net/uploads/attachments/1164282/_UAa0j7WX8u.blob?auto=compress%2Cformat&w=800&h=200&fit=min"/>
 	</a>
 </div>
@@ -439,7 +439,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [json-ada](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON.
 - [jwx](https://github.com/Componolit/jwx) - A formally verified JSON library in SPARK.
 - [xmlada](https://github.com/AdaCore/xmlada) - The XML/Ada toolkit.
-- [xml-ez](http://www.mckae.com/xmlEz.html) - Library for emitting XML from Ada programs.
+- [xml-ez-out](https://github.com/alire-project/xmlezout) - Library for emitting XML from Ada programs.
 - [spark-xml](https://github.com/Componolit/SXML) - A formally verified XML library in SPARK.
 - [excel-writer](https://github.com/zertovitch/excel-writer) - Create Excel files with basic formats.
 - [generic-image-decoder](https://github.com/zertovitch/gid) - Multi-format image decoder library for Ada.

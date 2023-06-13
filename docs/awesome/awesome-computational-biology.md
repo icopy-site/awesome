@@ -10,9 +10,10 @@ A knowledge collection of databases, software and papers related to computationa
 
 
 ## Databases
-### RNA Sequence
+### scRNA
 - [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) - Public functional genemics database.
 - [Single Cell PORTAL](https://singlecell.broadinstitute.org/single_cell) - Public database for single cell RNA.
+- [Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home) - Public database for single cell RNA.
 ### Compound
 - [PubChem](https://pubchem.ncbi.nlm.nih.gov/) - One of the biggest chemical database such as compounds, genes and proteins.
 - [ChEBI](https://www.ebi.ac.uk/chebi/) - Chemical database  focused on small chemical compounds.
@@ -21,7 +22,7 @@ A knowledge collection of databases, software and papers related to computationa
 - [KEGG COMPOUND](https://www.genome.jp/kegg/compound/) - Collection of small molecules and biopolymers.
 - [LIPID MAPS](https://www.lipidmaps.org/databases/lmsd/overview) - Database of lipids.
 ### Pathway
-- [PathwayCommon](https://www.pathwaycommons.org/) - Database of Pathways and Interactions.
+- [PathwayCommons](https://www.pathwaycommons.org/) - Database of Pathways and Interactions.
 - [KEGG PATHWAY](https://www.genome.jp/kegg/pathway.html) - Collection fo drawn pathway maps.
 - [WikiPathways](https://wikipathways.org/) - Database of biological pathways.
 ### Mass Spectra
@@ -38,6 +39,7 @@ A knowledge collection of databases, software and papers related to computationa
 - [NCI60](https://dtp.cancer.gov/discovery_development/nci-60/) A database which focus on 60 cancer cell lines with many drugs.
 - [Genomics of Drug Sensitivity in Cancer (GDSC)](https://www.cancerrxgene.org/) - A database of drug sensitibity which has 1000 human cancer cell lines and 100s compounds.
 - [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/) - A database of cancer cell lines. This has 1000 cell lines.
+- [cBioPortal](https://www.cbioportal.org/) - Database of Cancer Genomics. This has overall metaview for a lot of patients.
 ### Disease
 - [KEGG DRUG](https://www.genome.jp/kegg/drug/) - Comprehensive drug information resource for approved drugs.
 - [DrugBank](https://www.drugbank.com/) - A database of drug and target maintained by the University of Alberta.
@@ -46,6 +48,8 @@ A knowledge collection of databases, software and papers related to computationa
   - [DGIdb](https://www.dgidb.org/) - A database of drug-gene interactions and the druggable genome.
   - [Comparative Toxicogenomics Database](http://ctdbase.org/) - A database of Chemical-gene interactions, Chemical-disease associations, Gene-disease associations, and Chemical-phenotype associations.
   - [SNAP](https://snap.stanford.edu/biodata/datasets/10002/10002-ChG-Miner.html#:~:text=Dataset%20information,or%20activation%20of%20the%20drug.) - A dataset which contains Drug-gene interactions. 
+  - [Comparative Toxicogenomics Database](https://ctdbase.org/) - A database for drug-target interactions.
+  - [Therapeutics Data Commons](https://tdcommons.ai/) - A database for a lot of tasks such as drug-target, drug-response, drug-drug interaction.
 - Chemical Protein Interaction
   - [STITCH](http://stitch.embl.de/) - A database of Chemical Protein Interaction.
 
@@ -53,6 +57,8 @@ A knowledge collection of databases, software and papers related to computationa
 
 - [Chemistry Development Kit](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
 - [RDKit](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
+- [Scanpy](https://scanpy.readthedocs.io/en/stable/) - scRNA analysis library in Python.
+- [Seurat](https://satijalab.org/seurat/) - scRNA analysis library in R.
 
 ## Machine Learning Tasks and Models
 
