@@ -1463,6 +1463,8 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 * [Second-order and Higher-order Logic](https://plato.stanford.edu/entries/logic-higher-order/) - ***Plato Stanford***. 
 
 
+* [When and How to Develop Domain-Specific Languages](https://people.cs.ksu.edu/~schmidt/505f14/Lectures/WhenDSL.pdf) - ***ACM Computing Surveys***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=8598236436890577027&hl=en&as_sdt=0,5)]. A review on DSL development methodologies that identify patterns in the decision, analysis, design, and implementation phases of DSL development.
+
 * [The Discovery of the Equator or Concept Driven Learning](https://www.ijcai.org/Proceedings/83-1/Papers/109.pdf) - ***IJCAI'83***, 1983. [[All Versions](https://scholar.google.com/scholar?cluster=15712225225140903169&hl=en&as_sdt=0,5)]. The original paper on second-order metarules.
 
 * [Towards combining inductive logic programming with Bayesian networks](https://link.springer.com/chapter/10.1007%2F3-540-44797-0_10) - ***ILP'01***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=2904180673047700407&hl=en&as_sdt=0,5)].

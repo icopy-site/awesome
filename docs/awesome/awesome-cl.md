@@ -46,6 +46,7 @@ Audio
 [SuperCollider](http://supercollider.github.io/) client for CommonLisp. With a [tutorial](https://github.com/defaultxr/cl-collider-tutorial) and [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI). Public domain.
 * [csound](https://github.com/csound/csound) - A sound and music computing system. Includes CFFI and FFI interfaces for Common Lisp.
 * [CLM](https://ccrma.stanford.edu/software/clm/) - Common Lisp Music is a music synthesis and signal processing package in the Music V family. It provides much the same functionality as Stk, Csound, SuperCollider, PD, CMix, cmusic, and Arctic — a collection of functions that create and manipulate sounds, aimed primarily at composers (in CLM's case anyway).
+  * [common-tones](https://github.com/theraphonics/common-tones) - a fork of CLM5 with modern Lisp (ASDF, cffi…). [BSD_3Clause][15].
 * [cl-patterns](https://github.com/defaultxr/cl-patterns) - a system for composing music via Lisp code, heavily inspired by SuperCollider’s patterns system, with aims to implement much of it, but in a more robust, expressive, consistent, reflective, and lispy way. Audio output through SuperCollider, with preliminary support for Incudine, and MIDI through ALSA.
 * [cl-openal](https://github.com/zkat/cl-openal) - bindings for the OpenAL audio library. Public domain.
 * [Common Music](https://github.com/ormf/cm) - the repository of an
@@ -109,6 +110,7 @@ Cryptography
   * see also [cl-pass](https://github.com/eudoxia0/cl-pass), using pbkdf2.
 * [gpgme](https://www.gnupg.org/download/index.en.html#gpgme) (GnuPG Made Easy) is the standard library to access GnuPG functions from programming languages. It provides an official Common Lisp system.
   * [gpgme lisp sources](https://git.gnupg.org/cgi-bin/gitweb.cgi?p=gpgme.git;a=tree;f=lang/cl;h=05151bdf839e513f534a1b423d59332a2e46fd5d;hb=HEAD) (not in Quicklisp). GPL2.
+* [cl-frugal-uuid](https://github.com/ak-coram/cl-frugal-uuid/) -  Common Lisp UUID library with zero dependencies. [MIT][200].
 
 Cryptocurrencies
 ================
@@ -186,6 +188,7 @@ Wrappers
   * See also [clouchdb](https://common-lisp.net/project/clouchdb/) - Library for interacting with CouchDB. [FreeBSD][39].
 * [lmdb](https://github.com/antimer/lmdb) - Bindings to [LMDB](http://www.lmdb.tech/doc/), the Lightning Memory-mapped Database, an ACID key-value database with MultiVersion Concurrency Control.
 * [cl-ndbapi](https://github.com/datagraph/cl-ndbapi) - bindings to the C++ NDB API of [RonDB](https://www.rondb.com/), "the world's fastest key value store", by [Dydra](https://dydra.com/home). GPLv2.
+* [cl-duckdb](https://github.com/ak-coram/cl-duckdb) -  Common Lisp CFFI wrapper around the DuckDB C API. [MIT][200].
 
 Migration tools
 ---------------
@@ -243,6 +246,7 @@ Docker images
 * [base-lisp-image](https://github.com/40ants/base-lisp-image) - base
   Docker image for Common Lisp projects with SBCL or CCL and the latest
   ASDF, Qlot and Roswell.
+* [archlinux-cl](https://github.com/yitzchak/archlinux-cl) - Docker Arch Linux image with Common Lisp implementations (7 to this day). MIT.
 
 
 Foreign Function Interface, languages interop
@@ -304,6 +308,10 @@ See also [async-process](https://github.com/cxxxr/async-process/).
 ## Miscellaneous ##
 
 * [Foil](http://foil.sourceforge.net/) - A foreign object interface; works with the JVM and CLI. Not available on Quicklisp. [CPL 1.0][47].
+
+For Emacs Lisp:
+
+* [CEDAR](https://gitlab.com/sasanidas/cedar) - an advance interactive development environment aiming to be Emacs compatible with all the features that come with it. (WIP)
 * [CLOCC's elisp.lisp](https://sourceforge.net/p/clocc/hg/ci/default/tree/src/cllib/elisp.lisp) - Emacs Lisp in Common Lisp.
   * implementation of the Emacs Lisp language as a Common Lisp package. [1999]
   * does not attempt to reimplement the library of functions provided in Emacs to manipulate buffers and other related objects, so it focuses on the "pure" Emacs Lisp language; but it was able to run the non-UI parts of the Emacs Calendar. (S. Monnier, M. Sperber)
@@ -580,6 +588,8 @@ Reactive programming
 --------------------
 
 * [Cells](https://github.com/kennytilton/cells) - an implementation of the dataflow programming paradigm, reactive spreadsheet-like expressiveness for CLOS. Used to build an [algebra learning system](http://tiltontec.com/). With [documentation](https://github.com/stefano/cells-doc/). Lisp LGPL.
+* [lwcells](https://github.com/kchanqvq/lwcells) - Light Weight Cells.
+  * LWCELLS is a dataflow extension to Common Lisp. It maintains a consistent state of cells according to functions specifying their relation. LWCELLS is designed to be simple, clean, compositional and flexible.
 
 Contract programming
 --------------------
@@ -924,6 +934,7 @@ See also:
 
 - [Platform.sh](https://platform.sh/blog/2019/lisp/) has Common Lisp support, so has [OVH](https://docs.ovh.com/ie/en/web-paas/languages-lisp/) through their Web PaaS partnership.
 - [Heliohost](https://www.heliohost.org/) for a free hosting solution.
+- [Cloud Init file for SBCL](https://gist.github.com/marcuskammer/366964f7d569317429773b82a4dafbf9) - example init file for providers supporting the cloudinit format (DigitalOcean etc).
 
 Monitoring
 ----------
@@ -1229,6 +1240,11 @@ Shells, shells interfaces
   functions like a shell command, without the need to write a command
   line arguments parser. And it also can be used as a Make-like
   build-tool. [FreeBSD][39].
+* [unix-in-lisp](https://github.com/PuellaeMagicae/unix-in-lisp) -  Mount Unix system into Common Lisp image.
+  * Unix concepts are directly/shallowly embedded into Lisp (Unix commands become Lisp macros, Unix file become Lisp variables, Unix streams become lazy Lisp sequences, etc).
+
+Lisp utilities:
+
 * [cmd](https://github.com/ruricolist/cmd) - utility for running external programs. Protects against shell interpolation, built with multi-threaded programs in mind, Windows support. [MIT][200].
   * `uiop:run-program` (synchronous) and `uiop:launch-program` (async) are shipped with ASDF and available on all modern implementations. See the [CL Cookbook: running external programs](https://lispcookbook.github.io/cl-cookbook/os.html#running-external-programs).
 * [Clesh](https://github.com/Neronus/Clesh) - extends Common Lisp to embed shell code in a manner similar to perl's backtick. [FreeBSD][39].
