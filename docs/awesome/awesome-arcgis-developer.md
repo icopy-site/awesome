@@ -160,6 +160,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [arcgis-geometry-calculations](https://github.com/hhkaos/arcgis-geometry-calculations) - Web application to create and grab ArcGIS geometry calculations.
 - [arcgis-js-api-camera-helper](https://github.com/gavinr/arcgis-js-api-camera-helper) - Web application to get the camera position JSON object for 3D web apps in the ArcGIS API for JavaScript 4.x.
 - [arcgis-js-api-extent-helper](https://github.com/gavinr/arcgis-js-api-extent-helper) -  Web application to get the map extent JSON object for web apps in the ArcGIS API for JavaScript 4.x.
+- [ArcGIS JS API Module Butler](https://marketplace.visualstudio.com/items?itemName=ScottDavis.vscode-arcgis-js-api-module-butler&ssr=false#overview) - VSCode extension for quickly adding ES import statements for the @arcgis/core package without leaving your current code context.
 - [epsg.io](https://github.com/maptiler/) - Website to discover and transform coordinate systems from all over the world.
 - [esri-loader](https://github.com/Esri/esri-loader) - A tiny library to help you lazy-load the ArcGIS API for JavaScript (i.e. from the CDN) in applications built with popular JavaScript frameworks and bundlers.
 - [esri-loader-hooks](https://github.com/tomwayson/esri-loader-hooks) - Custom React hooks for using the ArcGIS API for JavaScript with esri-loader.

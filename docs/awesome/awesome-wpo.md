@@ -103,6 +103,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Web Bloat Score Calculator](http://www.webbloatscore.com/) - Compare size of a page to a compressed image of the same page
 - [Speed Racer](https://github.com/ngryman/speedracer) - Collect performance metrics for your library/application using Chrome headless.
 - [Speedrank](https://speedrank.app/) - Speedrank monitors the performance of your site in the background. It displays Lighthouse reports over time and delivers recommendations for improvement. Speedrank is a paid product with 14-day-trial.
+- [Lightest App](https://lightest.app/) - Webpage load time is extremely important for conversion and revenue. Visualize web performance against competitors.
 
 ## Analyzers - API
 
@@ -192,6 +193,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Image Optimizers
 > How to remove all this unnecessary data and give you a file without degrading quality.
 
+- [Shortpixel](https://shortpixel.com/online-image-compression) - Compress Your Image by removing unnecessary bytes of the image and Convert it into WebP/AVIF 
 - [Grunt-smushit](https://github.com/heldr/grunt-smushit) - Grunt plugin to remove unnecessary bytes of PNG and JPG using Yahoo Smushit.
 - [Gulp-smushit](https://github.com/heldr/gulp-smushit) - Gulp plugin to optimize PNG and JPG using Yahoo Smushit. Made on top of smosh.
 - [Smush it](http://www.imgopt.com/) - Smush it uses optimization techniques specific to image format to remove unnecessary bytes from image files. It is a "lossless" tool, which means it optimizes the images without changing their look or visual quality.

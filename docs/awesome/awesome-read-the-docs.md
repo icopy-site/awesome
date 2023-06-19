@@ -63,7 +63,7 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 
 ## API Reference
 
-- [disnake](https://docs.disnake.dev/) - This projects very rich Python API reference uses custom extension for quick overview tables of attributes and methods + `sphinx-hoverxref` for tooltips with API reference + source link references for GitHub source code, see also [Twitter thread](https://twitter.com/readthedocs/status/1541830875037503489) with some examples. **#apidocs** **#sphinx** **#themes**
+- [discord.py](https://discordpy.readthedocs.io/) - This projects very rich Python API reference uses custom extension for quick overview tables of attributes and methods + `sphinx-hoverxref` for tooltips with API reference + source link references for GitHub source code. **#apidocs** **#sphinx** **#themes**
 
 ## Science projects
 
