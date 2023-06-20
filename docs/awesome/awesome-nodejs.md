@@ -295,6 +295,7 @@
 - [Brunch](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.
 - [FuseBox](https://github.com/fuse-box/fuse-box) - Fast build system that combines the power of webpack, JSPM and SystemJS, with first-class TypeScript support.
 - [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable.
+- [Vite](https://github.com/vitejs/vite) - Front-end build tool with hot module replacement and static asset bundling.
 
 ### Hardware
 
@@ -306,6 +307,7 @@
 - [spi-device](https://github.com/fivdi/spi-device) - SPI serial bus access.
 - [pigpio](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
 - [gps](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers.
+- [modbus-serial](https://github.com/yaacov/node-modbus-serial) - A pure JavaScript implementation of MODBUS-RTU (serial and TCP).
 
 ### Templating
 
@@ -852,6 +854,7 @@
 - [Learn to build apps and APIs with Node.js](https://learnnode.com/friend/AWESOME) - Video course by Wes Bos.
 - [Real Time Web with Node.js](https://www.pluralsight.com/courses/code-school-real-time-web-with-nodejs)
 - [Learn and Understand Node.js](https://www.udemy.com/course/understand-nodejs/)
+- [Node.js Full Stack Developer Course](https://kinsta.com/academy/course/node-js-full-stack-developer/)
 
 ### Cheatsheets
 
@@ -867,6 +870,8 @@
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - Chrome extension that displays npm download stats on GitHub.
 - [npm semver calculator](https://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 - [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - Online IDE and prototyping.
+- [Amplication](https://github.com/amplication/amplication) - Auto-generates fully functional apps.
+- [RunJS](https://runjs.app) - Desktop JavaScript playground.
 
 ### Community
 

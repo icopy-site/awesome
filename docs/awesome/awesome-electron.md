@@ -162,6 +162,7 @@ Made with Electron.
 - [VIR](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
 - [Browserosaurus](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
 - [linked](https://github.com/lostdesign/linked) - Daily journal.
+- [shadowsocks-electron](https://github.com/nojsja/shadowsocks-electron) - Cross-platform Shadowsocks client.
 - [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager.
 - [Ostara](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
 
@@ -280,6 +281,7 @@ Made with Electron.
 - [electronmon](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
 - [electronegativity](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 - [UpdateRocks!](https://www.update.rocks) - Auto-update service. Free for open source projects.
+- [electron-vite](https://github.com/alex8088/electron-vite) - Fast and easy-to-use build tool integrated with Vite.
 - [pluggable-electron](https://github.com/dutchigor/pluggable-electron) - Build apps that can be extended through plugins.
 - [Hydraulic Conveyor](https://hydraulic.dev) - CLI tool that deploys apps without needing any special update servers, multi-platform CI, or code changes.
 

@@ -622,6 +622,7 @@
 - [Robotic Tooling](awesome/awesome-robotic-tooling.md) - Free and open tools for professional robotic development.
 - [LIDAR](awesome/awesome-lidar.md) - Sensor for measuring distances by illuminating the target with laser light.
 - [Open Hardware](awesome/awesome-open-hardware.md) - Open-source hardware projects.
+- [Flying FPV](awesome/awesome-flying-fpv.md) - Open hardware and software related to drones / UAVs.
 
 ## Business
 
