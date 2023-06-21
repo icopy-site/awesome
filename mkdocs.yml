@@ -380,6 +380,7 @@ nav:
     - Esports: awesome/awesome-esports.md
     - Learn Gamedev: awesome/awesome-learn-gamedev.md
     - GameMaker: awesome/awesome-gamemaker.md
+    - Game Production: awesome/awesome-game-production.md
   - Development Environment:
     - Quick Look Plugins: awesome/quick-look-plugins.md
     - Dev Env: awesome/awesome-devenv.md
@@ -450,6 +451,7 @@ nav:
     - Dive into Machine Learning: awesome/dive-into-machine-learning.md
     - Computer History: awesome/awesome-computer-history.md
     - Programming for Kids: awesome/awesome-programming-for-kids.md
+    - STEAM: awesome/STEAM.md
     - Educational Games: awesome/awesome-educational-games.md
     - JavaScript Learning: awesome/awesome-javascript-learning.md
     - CSS Learning: awesome/awesome-css-learning.md
@@ -481,6 +483,8 @@ nav:
     - Malware Persistence: awesome/awesome-malware-persistence.md
     - EVM Security: awesome/awesome-evm-security.md
     - Password Cracking: awesome/awesome-password-cracking.md
+    - Security Card Games: awesome/awesome-security-card-games.md
+    - Suricata: awesome/awesome-suricata.md
     - Umbraco: awesome/awesome-umbraco.md
     - Refinery CMS: awesome/awesome-refinerycms.md
     - Wagtail: awesome/awesome-wagtail.md
@@ -500,6 +504,7 @@ nav:
     - Robotic Tooling: awesome/awesome-robotic-tooling.md
     - LIDAR: awesome/awesome-lidar.md
     - Open Hardware: awesome/awesome-open-hardware.md
+    - ADS-B: awesome/awesome-adsb.md
     - Flying FPV: awesome/awesome-flying-fpv.md
   - Business:
     - Open Companies: awesome/awesome-open-company.md
@@ -548,6 +553,7 @@ nav:
     - Stacks: awesome/awesome-stacks-chain.md
     - Algorand: awesome/awesome-algorand.md
     - ZeroNet: awesome/awesome-zeronet.md
+    - Cosmos SDK: awesome/awesome-cosmos.md
   - Health and Social Science:
     - Biomedical Information Extraction: awesome/awesome-bioie.md
     - Computational Neuroscience: awesome/awesome-computational-neuroscience.md

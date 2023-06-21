@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="phalcon/awesome-phalcon"></div>
 ## Awesome Phalcon
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Actions Status](https://github.com/phalcon/awesome-phalcon/workflows/CI/badge.svg)](https://github.com/phalcon/awesome-phalcon/actions)
 
 
@@ -14,7 +14,6 @@ A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-
 Please take a quick gander at the [contribution guidelines](https://github.com/phalcon/awesome-phalcon/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/phalcon/awesome-phalcon/graphs/contributors); you rock!
 
 Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awesome-phalcon maintainers!
-
 
 
 
@@ -39,7 +38,6 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 * [Vökuró](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
 * [Webird](https://github.com/perchlabs/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
 * [NovaMOOC](https://github.com/les-enovateurs/phalcon-nova-mooc) - Sample application with API/BackEnd and FrontEnd + Authentication with JWT + Cypress tests with GitHub Actions + Docker compose.
-* [Sakura Panel](https://github.com/yassinrais/sakura-panel) - A Phalcon Panel created to install plugins Without Editing the Panel Source Code (Auth, ACL, Lite Bootstrap Template, And more...).
 
 
 ## Authentication & OAuth
@@ -181,7 +179,6 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 * [Shopping Cart](https://github.com/sinbadxiii/phalcon-cart) - Simple cart for online store
 
 
-
 ## Talks
 
 *Conferences, Chats, Forums, etc..*
@@ -206,7 +203,6 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 ## Server Applications
 
-* [packagecloud](https://github.com/phalcongelist/packagecloud) - Phalcon distribution hosted on PackageCloud
 * [phalcon-docker-nginx](https://github.com/viebig/phalcon-docker-nginx) - Phalcon 3, PHP7, Docker sample starter application
 * [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice
 * [phalcon3-compose](https://github.com/linxlad/phalcon3-compose) - Docker Phalcon 3 development environment
@@ -223,20 +219,17 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 ### Communities
 
-* [Facebook](https://www.facebook.com/Phalcon-Framework-134230726685897) - Phalcon on Facebook
 * [Gab](https://gab.com/phalcon) - Phalcon on Gab
+* [MeWe](https://mewe.com/join-front/phalcon) - Phalcon on MeWe
 * [Phalcon Forums](https://forum.phalcon.io/) - Phalcon Forums
-* [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) - Russian Community Chat in Gitter.im
+* [Phalcon Russian Community Chat](https://app.gitter.im/#/room/#phalcon-rus_chat:gitter.im) - Russian Community Chat in Gitter.im
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
+* [Telegram](https://t.me/phalcon_news) - Phalcon on Telegram
 * [Twitter](https://twitter.com/phalconphp) - Phalcon on Twitter
-
-### Slides 
-
-* [Phalcon - Develop powerful web applications in PHP](https://les-enovateurs.com/talks/HumanTalks2020/#/) - Slides used to present Phalcon V4 during the Human Talks Lyon - 11 february 2020
 
 ## Books
 
-* [Phalcon Book (in French)](https://www.editions-eni.fr/livre/phalcon-3-developpez-des-applications-web-complexes-et-performantes-en-php-9782409022746) - Phalcon : Develop complex and powerful web applications in PHP
+* [Phalcon Book (in French)](https://www.editions-eni.fr/livre/phalcon-3-developpez-des-applications-web-complexes-et-performantes-en-php-version-en-ligne-9782409022753) - Phalcon : Develop complex and powerful web applications in PHP
 
 ## E-Books
 
@@ -246,7 +239,6 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 * [French magazine - Programmez n°239](https://www.programmez.com/magazine/article/les-10-commandements-de-lecoconception) - The 10 commandments of eco-design (article mentioning Phalcon as a light and ecological Framework)
 * [French magazine - Programmez n°241](https://www.programmez.com/magazine/article/phalcon-un-framework-performant-et-robuste-compile-en-c) - Phalcon : the new must-know PHP framework
-* [German magazine - PHPMagazin n°1.21](https://kiosk.entwickler.de/php-magazin/php-magazin-1-2021/) - The Phalcon among the PHP frameworks
 
 ## Websites
 
@@ -259,4 +251,3 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 * [Phalcon Documentation](https://docs.phalcon.io/4.0/en/introduction) - Phalcon Documentation
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) - Articles, tutorials and so more
-* [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses

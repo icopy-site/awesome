@@ -485,6 +485,7 @@
 - [Esports](awesome/awesome-esports.md) - Video games played as a sport.
 - [Learn Gamedev](awesome/awesome-learn-gamedev.md) - The craft of video game creation.
 - [GameMaker](awesome/awesome-gamemaker.md) - Game engine.
+- [Game Production](awesome/awesome-game-production.md) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
 
 ## Development Environment
 
@@ -565,6 +566,7 @@
 - [Dive into Machine Learning](awesome/dive-into-machine-learning.md)
 - [Computer History](awesome/awesome-computer-history.md)
 - [Programming for Kids](awesome/awesome-programming-for-kids.md)
+- [STEAM](awesome/awesome-steam.md) - Supplements for specific science, technology, engineering, arts, and math (STEAM) courses across all grade levels.
 - [Educational Games](awesome/awesome-educational-games.md) - Learn while playing.
 - [JavaScript Learning](awesome/awesome-javascript-learning.md)
 - [CSS Learning](awesome/awesome-css-learning.md) - Mainly about CSS – the language and the modules.
@@ -598,6 +600,8 @@
 - [Malware Persistence](awesome/awesome-malware-persistence.md) - Techniques that adversaries use to keep access to systems across restarts.
 - [EVM Security](awesome/awesome-evm-security.md) - Understanding the Ethereum Virtual Machine security ecosystem.
 - [Password Cracking](awesome/awesome-password-cracking.md) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
+- [Security Card Games](awesome/awesome-security-card-games.md) - Train your skills and discuss various security topics.
+- [Suricata](awesome/awesome-suricata.md) - Intrusion detection/prevention system and network security monitoring engine.
 
 
 - [Umbraco](awesome/awesome-umbraco.md)
@@ -622,6 +626,7 @@
 - [Robotic Tooling](awesome/awesome-robotic-tooling.md) - Free and open tools for professional robotic development.
 - [LIDAR](awesome/awesome-lidar.md) - Sensor for measuring distances by illuminating the target with laser light.
 - [Open Hardware](awesome/awesome-open-hardware.md) - Open-source hardware projects.
+- [ADS-B](awesome/awesome-adsb.md) - Technology broadcasting aircraft's identity, position, and data periodically.
 - [Flying FPV](awesome/awesome-flying-fpv.md) - Open hardware and software related to drones / UAVs.
 
 ## Business
@@ -677,6 +682,7 @@
 - [Stacks](awesome/awesome-stacks-chain.md) - A smart contract platform secured by Bitcoin.
 - [Algorand](awesome/awesome-algorand.md) - An open-source, proof of stake blockchain and smart contract computing platform.
 - [ZeroNet](awesome/awesome-zeronet.md) - A decentralized web-like network of peer-to-peer users.
+- [Cosmos SDK](awesome/awesome-cosmos.md) - Modular framework for building app-specific blockchains in Go.
 
 ## Health and Social Science
 

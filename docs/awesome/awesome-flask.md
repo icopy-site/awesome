@@ -42,6 +42,7 @@
 - [Flask-Login](https://flask-login.readthedocs.io/) - Account management and authentication.
 - [Flask Principal](https://pythonhosted.org/Flask-Principal/) - Authorization.
 - [Flask-Security-Too](https://flask-security-too.readthedocs.io/en/stable/) - Account management, authentication, authorization.
+- [Flask-Session](https://flasksession.readthedocs.io/en/latest/) - Session managment.
 - [Flask-SimpleLogin](https://github.com/flask-extensions/Flask-SimpleLogin) - Authentication.
 - [Flask-User](https://flask-user.readthedocs.io) - Account management, authentication, authorization.
 
@@ -132,6 +133,7 @@
 
 - [Flask-Mail](https://pythonhosted.org/Flask-Mail/) - Provides simple email sending capabilities.
 - [Flask-Mailman](https://pypi.org/project/flask-mailman/) - A port of `django.mail` for Flask.
+- [Flask-Mail-SendGrid](https://github.com/hamano/flask-mail-sendgrid) - Provides simple email base on Flask-Mail for sending email by SendGrid.
 
 ### Forms
 
@@ -146,6 +148,7 @@
 
 ### Security
 
+- [Flask-Argon2](https://github.com/red-coracle/flask-argon2) - Provides argon2 hashing utilities.
 - [Flask-Bcrypt](https://flask-bcrypt.readthedocs.io) - Provides bcrypt hashing utilities.
 - [Flask-CORS](https://flask-cors.readthedocs.io) - Cross Origin Resource Sharing (CORS) handling.
 - [Flask-SeaSurf](https://github.com/maxcountryman/flask-seasurf/) - Cross-site request forgery (CSRF) prevention.
@@ -165,7 +168,7 @@
 - [Flask-FlatPages](https://pythonhosted.org/Flask-FlatPages/) - Provides flat static pages based on text files.
 - [Frozen-Flask](https://github.com/Frozen-Flask/Frozen-Flask) - Freezes a Flask application into a set of static files.
 - [Flask-GraphQL](https://github.com/graphql-python/flask-graphql) - GraphQL support.
-- [Flask-Injector](https://github.com/alecthomas/flask_injector) - Adds support for dependency injection.
+- [Flask-Injector](https://github.com/python-injector/flask_injector) - Adds support for dependency injection.
 - [Flask-Limiter](https://flask-limiter.readthedocs.io) - Rate limiting features to Flask routes.
 - [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) - Moment.js date and time formatting helpers for Jinja2 templates.
 - [Flask-Paginate](https://pythonhosted.org/Flask-paginate/) - Pagination support.
@@ -173,6 +176,7 @@
 - [Flask-Shell2HTTP](https://github.com/Eshaan7/Flask-Shell2HTTP) - RESTful/HTTP wrapper for Python's subprocess API, so you can convert any command-line tool into a RESTful API service.
 - [Flask-Sitemap](https://flask-sitemap.readthedocs.io) - Sitemap generation.
 - [Flask-SocketIO](https://flask-socketio.readthedocs.io) - Socket.IO integration.
+- [Flask-SSE](https://flask-sse.readthedocs.io) - Streaming with flask.
 
 ## Resources
 
@@ -190,7 +194,7 @@
 - [Miguel Grinberg's Blog](https://blog.miguelgrinberg.com/category/Flask) - Multiple Flask-specific tutorials.
 
 - [Nick Janetakis's Blog](https://nickjanetakis.com/blog/tag/flask-tips-tricks-and-tutorials) - Flask Tips, Tricks and Tutorials.
-- [Patrick Kennedy's Blog](http://www.patricksoftwareblog.com/flask-tutorial/) - Numerous tutorials on learning Python web application development with Flask.
+- [Patrick Kennedy's Blog](https://www.patricksoftwareblog.com/) - Numerous tutorials on learning Python web application development with Flask.
 - [RealPython](https://realpython.com/tutorials/flask/) - Many high-quality tutorials on Flask.
 - [TestDriven.io](https://testdriven.io/blog/topics/flask/) - Up-to-date tutorials on Flask.
 
@@ -265,7 +269,7 @@
 - [PythonAnywhere](https://www.pythonanywhere.com/details/flask_hosting)
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 - [Google App Engine](https://cloud.google.com/appengine/)
-- [Microsoft Azure App Service](https://azure.microsoft.com/en-us/services/app-service/)
+- [Microsoft Azure App Service](https://azure.microsoft.com/en-us/products/app-service/)
 - [Divio](https://www.divio.com)
 - [Render](https://render.com/)
 
@@ -290,7 +294,7 @@ Compute:
 
 - [AWS Lambda](https://aws.amazon.com/lambda/)
 - [Google Cloud Functions](https://cloud.google.com/functions/)
-- [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
+- [Azure Functions](https://azure.microsoft.com/en-us/products/functions/)
 
 ## Projects
 
@@ -301,6 +305,7 @@ Compute:
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework that includes detailed security, auto CRUD generation for your models, Google charts, and much more.
 - [flask-base](http://hack4impact.github.io/flask-base/) - Includes SQLAlchemy, Redis, User Authentication, and more.
 - [Flask-Bootstrap](https://github.com/esbullington/flask-bootstrap) - Integrated SQLAlchemy, authentication, and Bootstrap frontend.
+- [flask-htmx-boilerplate](https://github.com/marcusschiesser/flask-htmx-boilerplate) - Boilerplate template for a Python Flask application with HTMX and Tailwind CSS.
 - [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container.
 - [React-Redux-Flask](https://github.com/dternyak/React-Redux-Flask) - Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI.
 - [Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask.
