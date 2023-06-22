@@ -499,6 +499,7 @@ _Data stores with expiring records, in-memory distributed data stores, or in-mem
 - [go-cache](https://github.com/viney-shih/go-cache) - A flexible multi-layer Go caching library to deal with in-memory and shared cache by adopting Cache-Aside pattern.
 - [go-mcache](https://github.com/OrlovEvgeny/go-mcache) - Fast in-memory key:value store/cache library. Pointer caches.
 - [gocache](https://github.com/eko/gocache) - A complete Go cache library with multiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and more.
+- [gocache](https://github.com/yuseferi/gocache) - A data race free Go ache library with high performance and auto pruge functionality
 - [groupcache](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [imcache](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
 - [nscache](https://github.com/no-src/nscache) - A Go caching framework that supports multiple data source drivers.
@@ -1335,6 +1336,7 @@ _Libraries for generating and working with log files._
 - [xylog](https://github.com/xybor-x/xylog) - Leveled and structured logging, dynamic fields, high performance, zone management, simple configuration, and readable syntax.
 - [yell](https://github.com/jfcg/yell) - Yet another minimalistic logging library.
 - [zap](https://github.com/uber-go/zap) - Fast, structured, leveled logging in Go.
+- [zax](https://github.com/yuseferi/zax) - Integrate Context with Zap logger, which leads to more flexibility in Go logging.
 - [zerolog](https://github.com/rs/zerolog) - Zero-allocation JSON logger.
 - [zkits-logger](https://github.com/edoger/zkits-logger) - A powerful zero-dependency JSON logger.
 
@@ -2420,6 +2422,7 @@ _General utilities and tools to make your life easier._
 - [goctx](https://github.com/zerosnake0/goctx) - Get your context value with high performance.
 - [godaemon](https://github.com/VividCortex/godaemon) - Utility to write daemons.
 - [godropbox](https://github.com/dropbox/godropbox) - Common libraries for writing Go services/applications from Dropbox.
+- [gofn](https://github.com/tiendc/gofn) - High performance utitlity functions written using Generics for Go 1.18+.
 - [gohper](https://github.com/cosiner/gohper) - Various tools/modules help for development.
 - [golarm](https://github.com/msempere/golarm) - Fire alarms with system events.
 - [golog](https://github.com/mlimaloureiro/golog) - Easy and lightweight CLI tool to time track your tasks.

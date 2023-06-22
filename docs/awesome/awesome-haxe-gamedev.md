@@ -24,6 +24,7 @@ Those are Haxe 4 compatible game engines.
 |[Starling](https://github.com/openfl/starling)               |Web, Mobile, Desktop          |The "Cross-Platform Game Engine", a popular Stage3D framework.      |
 |[Stencyl (OpenFL)](https://github.com/Stencyl/stencyl-engine)|Web, Mobile, Desktop          |Create Flash, HTML5, iOS, Android, and desktop games with no code.  |
 |[unreal.hx](https://github.com/proletariatgames/unreal.hx)   |Web, Mobile, Desktop, Consoles|Haxe Integration for Unreal.                                        |
+|[HxGodot (Godot 4.0)](https://github.com/HxGodot/hxgodot)    |Web, Mobile, Desktop, Consoles|A Haxe GDExtension for Godot 4                                      |
 
 
 |Low-level Engine                                   |Target                       |Description                                                            |
@@ -31,7 +32,8 @@ Those are Haxe 4 compatible game engines.
 |[Kha](https://github.com/Kode/Kha)                 |Web, Mobile, Desktop, Console|Ultra-portable, high performance, open source multimedia framework.    |
 |[Lime](https://github.com/openfl/lime)             |Web, Mobile, Desktop         |A flexible, lightweight layer for Haxe cross-platform developers.      |
 |[linc_glfw](https://github.com/Sunjammer/linc_glfw)|Desktop                      |GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan).|
-|[NME](https://github.com/haxenme/nme)              |Web, Mobile, Desktop         |A cross-platform native backend for Haxe projects.                     |
+|[NME](https://github.com/haxenme/nme)              |Web, Mobile, Desktop         |A cross-platform native backend.                                       |
+|[3DSHaxe](https://github.com/haxenme/nme)          |3DS                          |Make 3ds homebrew!                                                     |
 
 
 
@@ -40,7 +42,7 @@ Those are Haxe 4 compatible game engines.
 |Library                                               |Description                                                                                                |
 |------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 |[echo](https://github.com/AustinEast/echo/)           |Simple Physics Library.                                                                                    |
-|[haxebullet](https://github.com/armory3d/haxebullet)  |Bullet 3D Physics for Haxe.                                                                                |
+|[haxebullet](https://github.com/armory3d/haxebullet)  |Bullet 3D Physics.                                                                                         |
 |[nape-haxe4](https://github.com/HaxeFlixel/nape-haxe4)|Physics Engine (the original Haxe3 version of nape can be found [here](https://github.com/deltaluca/nape)).|
 
 
@@ -68,7 +70,7 @@ MVC == Model View Controller
 |[Anette](https://github.com/Dvergar/Anette)                         |Simple network library (no UDP).              |
 |[colyseus-hx](https://github.com/colyseus/colyseus-hx)              |Multiplayer Game Client.                      |
 |[haxe-simple-peer (js)](https://github.com/melonin/haxe-simple-peer)|Haxe externs for simple-peer.                 |
-|[hxWebSockets](https://github.com/ianharrigan/hxWebSockets)         |Websockets for all Haxe platforms.            |
+|[hxWebSockets](https://github.com/ianharrigan/hxWebSockets)         |Websockets for all platforms.                 |
 |Built-in                                                            |Heaps, OpenFL (HaxeFlixel & co), Kha (Armory).|
 
 
@@ -83,22 +85,23 @@ MVC == Model View Controller
 
 
 ## Games
-|Game                                                                       |Platform            |Engine             |Screenshot                                    |
-|---------------------------------------------------------------------------|--------------------|-------------------|----------------------------------------------|
-|**RELEASED**                                                               |                    |                   |                                              |
-|[Darksburg](https://store.steampowered.com/app/939100/Darksburg/)          |Desktop             |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/darksburg.jpg)           |
-|[Dead Cells](https://dead-cells.com/)                                      |Desktop, Consoles   |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/dead-cells.jpg)          |
-|[Defender's Quest](http://www.defendersquest.com/)                         |Desktop, Consoles   |HaxeFlixel (OpenFL)|![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/defenders-quest.jpg)     |
-|[Dicey Dungeons](http://diceydungeons.com/)                                |Desktop, Consoles   |Haxegon (OpenFL)   |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/dicey-dungeons.jpg)      |
-|[Evoland](http://evoland.shirogames.com/)                                  |Desktop, Mobile     |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/evoland.jpg)             |
-|[Northgard](http://northgard.net/)                                         |Desktop             |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/northgard.jpg)           |
-|[Papers, Please](http://papersplea.se/)                                    |Desktop, iOS, PsVita|OpenFL             |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/papers-please.jpg)       |
-|[Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/)|Desktop             |HaxePunk (OpenFL)  |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/pocket-kingdom.jpg)      |
-|[rymdkapsel](https://rymdkapsel.com/)                                      |Desktop, Mobile     |OpenFL             |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/rymdkapsel.jpg)          |
-|[Spellbreak](https://playspellbreak.com/)                                  |PC, PS, Xbox, Switch|unreal.hx          |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/spellbreak.jpg)          |
-|[The Westport Independent](http://www.doublezeroonezero.com/westport.html) |Desktop, Mobile     |Luxe               |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/westport-independent.jpg)|
-|**IN DEVELOPMENT**                                                         |                    |                   |                                              |
-|[Frontier Story](https://twitter.com/jmw327)                               |Desktop             |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/frontier-story.jpg)      |
+|Game                                                                        |Platform            |Engine             |Screenshot                                    |
+|----------------------------------------------------------------------------|--------------------|-------------------|----------------------------------------------|
+|**RELEASED**                                                                |                    |                   |                                              |
+|[Darksburg](https://store.steampowered.com/app/939100/Darksburg/)           |Desktop             |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/darksburg.jpg)           |
+|[Dead Cells](https://dead-cells.com/)                                       |Desktop, Consoles   |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/dead-cells.jpg)          |
+|[Defender's Quest](http://www.defendersquest.com/)                          |Desktop, Consoles   |HaxeFlixel (OpenFL)|![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/defenders-quest.jpg)     |
+|[Defender's Quest 2](https://store.steampowered.com/app/252190/Defenders_Quest_2_Mists_of_Ruin/)|Desktop|HaxeFlixel (OpenFL)|![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/defenders-quest-2.jpg)     |
+|[Dicey Dungeons](http://diceydungeons.com/)                                 |Desktop, Consoles   |Haxegon (OpenFL)   |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/dicey-dungeons.jpg)      |
+|[Evoland](http://evoland.shirogames.com/)                                   |Desktop, Mobile     |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/evoland.jpg)             |
+|[Northgard](http://northgard.net/)                                          |Desktop             |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/northgard.jpg)           |
+|[Papers, Please](http://papersplea.se/)                                     |Desktop, iOS, PsVita|OpenFL             |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/papers-please.jpg)       |
+|[Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/) |Desktop             |HaxePunk (OpenFL)  |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/pocket-kingdom.jpg)      |
+|[rymdkapsel](https://rymdkapsel.com/)                                       |Desktop, Mobile     |OpenFL             |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/rymdkapsel.jpg)          |
+|[Spellbreak](https://playspellbreak.com/)                                   |PC, PS, Xbox, Switch|unreal.hx          |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/spellbreak.jpg)          |
+|[The Westport Independent](http://www.doublezeroonezero.com/westport.html)  |Desktop, Mobile     |Luxe               |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/westport-independent.jpg)|
+|**IN DEVELOPMENT**                                                          |                    |                   |                                              |
+|[Frontier Story](https://twitter.com/jmw327)                                |Desktop             |Heaps              |![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/master/images/frontier-story.jpg)      |
 
 More showcase :
 * [OpenFL showcase](https://www.openfl.org/showcase)
@@ -111,38 +114,43 @@ More showcase :
 ## Miscellaneous
 |Type                 |Library                                                                    | Description                                                                                                                                                                     |
 |---------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Animation            |[spine-hx](https://github.com/jeremyfa/spine-hx)                           |Spine runtime for Haxe automatically converted from the official Java/libgdx runtime.                                                                                            |
+|Animation            |[spine-hx](https://github.com/jeremyfa/spine-hx)                           |Spine runtime automatically converted from the official Java/libgdx runtime.                                                                                            |
 |_                    |HaxeFlixel                                                                 |Spine parser.                                                                                                                                                                    |
 |_                    |[Heaps-Spine](https://github.com/Beeblerox/Heaps-Spine)                    |Spine player for heaps.                                                                                                                                                          |
 |_                    |[heaps-aseprite](https://github.com/AustinEast/heaps-aseprite)             |Load and render sprites and animations in Aseprite format.                                                                                                                       |
 |_                    |[openfl-aseprite](https://github.com/miriti/openfl-aseprite)               |Load and render sprites and animations in Aseprite format.                                                                                                                       |
-|_                    |[openfl-spine](https://github.com/rainyt/openfl-spine)               |Render Spine animation in the OpenFL engine, rendering processing can be achieved through Sprite and Tilemap.                                                                                                                       |
-|_                    |[ase](https://github.com/miriti/ase)                                       |.ase/.aseprite file format loader written in Haxe without external dependencies.                                                                                                                       |
+|_                    |[openfl-spine](https://github.com/rainyt/openfl-spine)                     |Render Spine animation in the OpenFL engine, rendering processing can be achieved through Sprite and Tilemap.                                                                                                                       |
+|_                    |[ase](https://github.com/miriti/ase)                                       |.ase/.aseprite file format loader without external dependencies.                                                                                                                       |
 |Color manipulation   |[nxColor](https://github.com/oscarcs/nxColor)                              |Color manipulation library.                                                                                                                                                      |
 |Collision            |[differ](https://github.com/snowkit/differ)                                |A separation axis theorem collision library.                                                                                                                                     |
 |Data structures      |[polygonal-ds](https://github.com/polygonal/ds)                            |Data structures for games.                                                                                                                                                       |
 |Editor               |[flixel-studio](https://github.com/Dovyski/flixel-studio)                  |In-game editor for HaxeFlixel.                                                                                                                                                   |
 |Procedural generation|[Dungeon builder](https://github.com/julsam/dungeon-builder)               |A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).                                                                                                           |
-|Localization         |[firetongue](https://github.com/larsiusprime/firetongue)                   |A translation/localization framework written in Haxe.                                                                                                                            |
+|Localization         |[firetongue](https://github.com/larsiusprime/firetongue)                   |A translation/localization framework.                                                                                                                            |
 |Map parser           |[PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-Importer)|Parser for maps generated by the editor PyxelEdit.                                                                                                                               |
 |_                    |Heaps                                                                      |Built-in parser for Tiled.                                                                                                                                                       |
 |_                    |HaxeFlixel                                                                 |Parser for Tiled & Ogmo.                                                                                                                                                         |
 |_                    |[LEd](https://github.com/deepnight/led-haxe-api)                           |2D level editor with a typed compile time loader.                                                                                                                                |
-|Math helpers         |[hxmath](https://github.com/tbrosman/hxmath)                               |A game-oriented math library for the Haxe language.                                                                                                                              |
+|Math helpers         |[hxmath](https://github.com/tbrosman/hxmath)                               |A game-oriented math library.                                                                                                                              |
 |_                    |[haxe-glm](https://github.com/hamaluik/haxe-glm)                           |A toolset for using 2, 3, and 4 dimensional vectors and matrices, as well as quaternions.                                                                                        |
 |_                    |[hx-vector2d](https://github.com/markknol/hx-vector2d)                     |Worlds most complete Vector2d / Point class. With operator overloading.                                                                                                          |
-|Modding              |[polymod](https://github.com/larsiusprime/polymod)                         |An atomic modding framework for Haxe games/apps.                                                                                                                                 |
+|Modding              |[polymod](https://github.com/larsiusprime/polymod)                         |An atomic modding framework for games/apps.                                                                                                                                 |
 |Particles            |[Sparkler](https://github.com/RudenkoArts/sparkler)                        |Modular Particle System.                                                                                                                                                         |
 |Monetization         |[extension-iap](https://github.com/charmdev/extension-iap)                 |Provides an access to in-app purchases (iOS) and in-app billing (Android) for OpenFL projects using a common API. Fork of [this](https://github.com/HaxeExtension/extension-iap).|
 |Pathfinding          |[pathfinder](https://github.com/hypersurge/pathfinder)                     |Easy A* pathfinding algorithm.                                                                                                                                                   |
+|_                    |[astar](https://gitlab.com/haath/astar)                                    |Versatile framework-agnostic A-star solver Library.                                                                                                                                             |
+|Shaders               |[parasol](https://github.com/47rooks/parasol)                             |HaxeFlixel library of shaders.                                                                                                                                             |
 |Sprite               |[haxe-aseprite](https://github.com/PongoEngine/haxe-aseprite)              |Parser for .ase and .aseprite files.                                                                                                                                             |
-|Steam                |[SteamWrap](https://github.com/larsiusprime/SteamWrap)                     |Haxe native extension for the Steam API.                                                                                                                                         |
+|Steam                |[SteamWrap](https://github.com/larsiusprime/SteamWrap)                     |Native extension for the Steam API.                                                                                                                                         |
 |Texture Packer       |[hxpk](https://github.com/bendmorris/hxpk)                                 |Port of the libGDX Texture Packer.                                                                                                                                               |
 |Tweening             |[actuate](https://github.com/jgranick/actuate)                             |A flexible, fast "tween" library.                                                                                                                                                |
 |_                    |[YATL](https://github.com/Yanrishatum/yatl)                                |Yet Another (Haxe) Tweening Library.                                                                                                                                             |
+|_                    |[TweenX/TweenXCore](https://github.com/shohei909/tweenx)                   |Tween library.                                                                                                                                             |
 |UI                   |[domkit](https://github.com/ncannasse/domkit)                              |CSS Components based strictly typed UI framework.                                                                                                                                |
 |_                    |[flixel-ui](https://github.com/HaxeFlixel/flixel-ui)                       |GUI library for HaxeFlixel.                                                                                                                                                      |
-|_                    |[HaxeUI](http://haxeui.org/)                                               |UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress)                                                 |                                                                                                                                                   |
+|_                    |[HaxeUI](http://haxeui.org/)                                               |UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress)|
+|_                    |[Feathers UI](http://haxeui.org/)                                          |Cross-platform graphical user interface components for creative frontend projects|
+| Video               |[hxCodec](https://github.com/polybiusproxy/hxCodec)                        |Adds native video playback on HaxeFlixel and OpenFL|
 
 ## Articles
 * [Flash is dead, long live OpenFL!](http://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)

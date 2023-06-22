@@ -41,6 +41,11 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [ESL](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
 * [modulejs](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
 
+## Transpilers
+*Software that converts the modern JavaScript syntax into the older JavaScript syntax.*
+
+* [SWC](https://swc.rs/) - Extensible Rust-based platform for compilation.
+
 ## Bundlers
 
 * [webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.

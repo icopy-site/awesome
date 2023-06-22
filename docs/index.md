@@ -484,6 +484,7 @@
 - [Games of Coding](awesome/awesome-games-of-coding.md) - Learn a programming language by making games.
 - [Esports](awesome/awesome-esports.md) - Video games played as a sport.
 - [Learn Gamedev](awesome/awesome-learn-gamedev.md) - The craft of video game creation.
+- [Game Engine Development](awesome/awesome-game-engine-dev.md) - Building software to speed up game creation.
 - [GameMaker](awesome/awesome-gamemaker.md) - Game engine.
 - [Game Production](awesome/awesome-game-production.md) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
 
