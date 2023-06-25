@@ -225,7 +225,7 @@ Schaller 47X        | 51 mm - 55,5 mm  |  3.18mm (0.125")  | approx. X  | 73 x 4
     Tremolo "Vintage":         Tremolo "Standard":
     ..o..o..o..o..o...o...      .....O.......O.....
 
-Modell                  | E/e              | Holes     | Hole Distance       | Hole Ø
+Model                  | E/e              | Holes     | Hole Distance       | Hole Ø
 -----------------------|-------------------|-----------|------------------|--------------
 Mexico Strat           | 52,4 mm (2 1/16)  | 6         | 52,4 mm (2 1/16) | 3 mm (1/8")
 Vintage                | 56,36 mm (2 7/32")| 6         | 55,9 mm (2.2")   | 3 mm (1/8")
@@ -270,7 +270,7 @@ Instead tailpiece - there may be "strings through the body" drillings.
 - Lipstick Tube
 - Jazzmaster
 
-*Wide Humbucker (same as Seymourduncans "Trembucker" or Dimarzios "F-spaced Hambucker") can be used for guitars with larger sting distance with standard "Humbucker Routing". Measure from the middle of the high string to the middle of the low string, directly over the pickup. If the distance is greater than two inches or 50mm, go for a Wide Humbucker.
+*Wide Humbucker (same as Seymourduncans "Trembucker" or Dimarzios "F-spaced Hambucker") can be used for guitars with larger string distance with standard "Humbucker Routing". Measure from the middle of the high string to the middle of the low string, directly over the pickup. If the distance is greater than two inches or 50mm, go for a Wide Humbucker.
 
 Exact specifications can be found on the manufacturer's website like:
 > [bareknucklepickups.co.uk](https://www.bareknucklepickups.co.uk/support#dimensions) - dimensions
@@ -416,7 +416,7 @@ Example: "Seriell/Parallel und Coil Split at same time" are possible with 4 Push
 
 Sound group    			| Pot  | Cap     | Examples
 ------------------------|------|---------|----
-standard hambucker  	| 500K | 0.047mF | most hambucker equiped guitars
+standard hambucker  	| 500K | 0.047mF | most hambucker equipped guitars
 bright   			    | 500K | 0.022mF | some guitars (U.S. FAT Tele)
 brighter   			    | 500K | 0.01mF  | some custom models
 brightest       		| 1M   | 0.01mF  | some custom models
@@ -463,7 +463,7 @@ There are 3 common styles of knobs:
 ### Active Pickups Electronics
 ![active pickups](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip7_active-pickup.jpg)
 
-Active Electronics tries to reduce dependancy from the shielded cable and amp input impedance. However, that needs power to operate, and that's its biggest drawback.
+Active Electronics tries to reduce dependency from the shielded cable and amp input impedance. However, that needs power to operate, and that's its biggest drawback.
 
 > [Custom Buffers (german)](http://www.guitar-letter.de/Angebot/BufferUndAmps/Impedanzwandler.htm) -  used  to decouple the guitar electronics from the sound influencing effects on the shielded cable.    
 

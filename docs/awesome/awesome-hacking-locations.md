@@ -352,6 +352,18 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [10 place du Panthéon (Rue Valette) 75005 Paris](https://goo.gl/maps/UpYmgQVLzML2) | Mon–Sat 10:00 AM–10:00 PM
 
+## Lille
+
+#### Café Citoyen
+
+Community-owned (see their website for details of their organisation organisation) and encouraging of event hosting and other activities. Café with great food and many speciality beers. 
+
+Webpage: https://cafecitoyen.org/
+
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ? | [7 Pl. du Vieux Marché aux Chevaux, 59000 Lille](https://goo.gl/maps/DC4ge4iJMVLaS7vt7) | Mon-Tues 11:02 AM-10:01 PM, Wed-Fri 11:00 AM-11:58PM, Sat 14:00 PM-11:58 PM
+
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
