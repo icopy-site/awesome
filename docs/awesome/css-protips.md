@@ -547,20 +547,20 @@ body {
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
-### Set `font-size` on Form Elements for a Better Mobile Experience
+### Inherit `font` on Form Elements for a Better Mobile Experience
 
-To avoid mobile browsers (iOS Safari, _et al_.) from zooming in on HTML form elements when a `<select>` drop-down is tapped, add `font-size` to the selector rule:
+Some form controls do not inherit typographical styles by default. To avoid mobile browsers (iOS Safari, _et al_.) from zooming in on HTML form elements when a `<select>` drop-down is tapped, and to mitigate styling inconsistencies across browsers, set the `font` rule to `inherit`:
 
 ```css
-input[type="text"],
-input[type="number"],
+input,
+button,
 select,
 textarea {
-  font-size: 16px;
+  font: inherit;
 }
 ```
 
-:dancer:
+Learn more in [MDN's guide to styling web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms/Styling_web_forms).
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
