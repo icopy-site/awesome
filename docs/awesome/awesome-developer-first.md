@@ -210,7 +210,6 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
 * [Volta](https://volta.net) - Fast, elegant GitHub desktop and web app.
-* [Zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 
 ## Monitoring
 *Monitoring your production application.*
@@ -232,6 +231,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Handling payments, credit card processing, and invoices.*
 * [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
 * [Increase](https://increase.com/) - Bare-metal banking APIs.
+* [LemonSqueezy](https://www.lemonsqueezy.com/) - SaaS payments - covers more countries and takes care of VAT Tax.
 * [Paddle](https://paddle.com/) - Revenue delivery platform for SaaS with broad geographical support (unlike stripe at the moment).
 * [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
 * [Stigg](https://www.stigg.io) - API-first pricing plans.

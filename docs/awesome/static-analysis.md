@@ -873,6 +873,12 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 - [styler](https://styler.r-lib.org) — Formatting of R source code files and pretty-printing of R code.
 
 
+<h2 id="rego">Rego</h2>
+
+
+- [Regal](https://github.com/styrainc/regal) — Regal is a linter for the policy language Rego. Regal aims to catch bugs and mistakes in policy code, while at the same time helping people learn the language, best practices and idiomatic constructs.
+
+
 <h2 id="ruby">Ruby</h2>
 
 

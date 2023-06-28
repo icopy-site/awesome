@@ -49,9 +49,9 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | NetTalk | Discussion about interne…s and other electronics | `1LfvE91ZF18jdG3wW62Dw7NtfTZh737KPL` | N/A |
 | ZeroTalk++ | Decentralized forum engine | `1EgyL4nj9DmeSSQg3fytxGJjihxtmMon5y` | N/A |
 | Linux.net | Discussion about Linux | `16Go5kc2U9Ff4jeaY8kYiDEgpMYdgyboPY` | N/A |
-| ZeroTalk Tech | Talk about Anything having to do with Technology |` 1EfLnw7GDXbZfJmGNoXGQ4XkuHGWkRZTMq` | N/A |
-| 1stZC: ZeroNet Development | 1stZC's ZeroNet Development forum |` 1fznczNZUMEMvCiqSmCZGUiv5sVnRcsTD` | N/A |
-| 1stZC: Talks: General | 1stZC's general forum |` 1fznctFebYHnmjmFZCmAWPd7nnamAy3Tg` | N/A |
+| ZeroTalk Tech | Talk about Anything having to do with Technology | `1EfLnw7GDXbZfJmGNoXGQ4XkuHGWkRZTMq` | N/A |
+| 1stZC: ZeroNet Development | 1stZC's ZeroNet Development forum | `1fznczNZUMEMvCiqSmCZGUiv5sVnRcsTD` | N/A |
+| 1stZC: Talks: General | 1stZC's general forum | `1fznctFebYHnmjmFZCmAWPd7nnamAy3Tg` | N/A |
 | 1stZC: ZeroNet Support | 1stZC's support forum | `1fznc4VQbbrQAf4UzHrWS6W2mpGFqXSeD` | N/A |
 | 1stZC: Talks: Politics | 1stZC's politics forum | `1fzncJdLpbsT5eeeYP14EKSaStHhtn5LY` | N/A |
 | Programming.net | A forum about programming | `17YUF4geTD7gBDPeMtQtnV7uhhNcjrYi9u` | N/A |
@@ -108,7 +108,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 
 | Name | Description | Address | Domain Name |
 | :--- | :--- | :---: | :--- |
-| Zero Bird | Flappy Bird inside ZeroNet |` 1LMG9b3mhvnfAiMpRccSNzvTbq6bYCQWLf` | N/A |
+| Zero Bird | Flappy Bird inside ZeroNet | `1LMG9b3mhvnfAiMpRccSNzvTbq6bYCQWLf` | N/A |
 | Snake Game | Simple snake game inside ZeroNet | `1JsJ1JitaLboc8pvo4fxh9dvP8mt6toPrE` | N/A |
 | Pac Man | PacMan inside ZeroNet | `14Q1So3DH9qvHts5VuLDgqGp7yCXceujop` | N/A |
 | ZeroSudoku |  Simple Sudoku game inside ZeroNet | `16Gn4QBd8iXFnDcVEcsmYw8soBKCeBezzS` | N/A |
@@ -196,6 +196,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | https://0net-preview.com | :heavy_multiplication_x: |
 | https://proxy.zeronet.dev | :heavy_multiplication_x: |
 | https://portal.ngnoid.tv | :heavy_multiplication_x: |
+| https://zeronet.ipfsscan.io | :heavy_check_mark: |
 
 ## Communities
 
