@@ -144,6 +144,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [next-transpile-modules](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node_modules. Useful for monorepos.
 - [Destack for Next.js](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
 - [UseSIWE](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
+- [Runtime Environment Variables for Next.js](https://www.npmjs.com/package/@cuww/runtime-env) – Stop configuring ENV variables in CI/CD, use a cloud-native approach.
 
 ## Apps
 
@@ -210,6 +211,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 * [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - In depth Next.js tutorials.
 * [Next.js Conf 2020](https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD) - All the videos from the 2020 Next.js conference
 * [Full-stack food ordering app with Hasura, Next.js, and Vercel](https://www.youtube.com/playlist?list=PLTRTpHrUcSB8elpwJKDIQNfNlqpPTNHGG)
+* [How to use Credentials Authentication in Next.js with NextAuth?](https://youtu.be/fqXC2V-MSV4)
 
 
 ## Projects(Beginner level)

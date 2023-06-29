@@ -839,6 +839,8 @@
 - [Computational Biology](awesome/awesome-computational-biology.md) - Computational approaches applied to problems in biology.
 - [Read the Docs](awesome/awesome-read-the-docs.md) - Example documentation projects to inspire and help bootstrap new documentation projects.
 - [Quarto](awesome/awesome-quarto.md) - Scientific and technical open-source publishing system built on Pandoc.
+- [ChatGPT](awesome/awesome-chatgpt.md) - Artificial intelligence chatbot developed by OpenAI.
+- [Whisper](awesome/awesome-whisper.md) - Open-source AI-powered speech recognition system developed by OpenAI.
 
 ## Related
 

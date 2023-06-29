@@ -9,7 +9,7 @@
 
 **ComputerCraft** is a mod for Minecraft which adds computers which are programmable with the Lua programming language. **ComputerCraft: Tweaked** is a fork of the mod for newer Minecraft versions.
 
-If you want to contribute, see [CONTRIBUTING.md](https://github.com/tomodachi94/awesome-computercraft/blob/master/./CONTRIBUTING.md). If you have other questions, see the [FAQ](https://github.com/tomodachi94/awesome-computercraft/wiki/FAQ).
+If you want to contribute, see [CONTRIBUTING.md](https://github.com/tomodachi94/awesome-computercraft/blob/master/./CONTRIBUTING.md). If you have other questions, see the [FAQ](https://github.com/tomodachi94/awesome-computercraft/blob/master/./FAQ.md).
 
 A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked, and `CC:R` is ComputerCraft: Restitched.
 
@@ -42,7 +42,8 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [ComputerCraft Advanced Shell (cash)](https://cash.madefor.cc) -  A Bourne-compatible shell for ComputerCraft. 
 - [Consult](https://consult.madefor.cc) -  A text editor emphasizing ease of use and compatibility with many systems. 
     - [Consult: Recrafted](https://github.com/manaphoenix/CONSULT_RECRAFTED) -  A fork of Consult for Recrafted systems.
-- [gist](https://pastebin.com/zSLPYpqs) -  A GitHub Gist download/upload program which aims to extend the built-in `pastebin` program, but for Gists. 
+- [GEMU](https://github.com/9551-Dev/GEMU) -  CraftOS-PC graphics mode emulator based on Pixelbox.
+- [gist](https://pastebin.com/zSLPYpqs) -  A GitHub Gist download/upload program which aims to extend the built-in `pastebin` program, but for Gists.
 - [Howl](https://github.com/SquidDev-CC/Howl) -  A build system for CC and CC:T.
 - [LuaIDE](http://www.computercraft.info/forums2/index.php?/topic/12347-) -  A full-fledged IDE for editing Lua files in-game.
 - [Mildly Better Shell (MBS)](https://github.com/SquidDev-CC/mbs) -  An improved shell that includes scrollback and improved resolution of completions.
@@ -55,6 +56,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Library
 
+- [Acidity](https://github.com/9551-Dev/acidity) -  A simple [procedual world generation](https://cdn.discordapp.com/attachments/477911902152949771/1078015614712565770/image.png)-oriented noise generation library.
 - [Anavrins' ChaCha20](http://www.computercraft.info/forums2/index.php?/topic/25474-) -  Implementation of [ChaCha20](https://en.wikipedia.org/wiki/ChaCha20-Poly1305).
 - Anavrins' hashing libraries:
     - [MD5](https://pastebin.com/6PVSRckQ) -  Implementation of [MD5](https://en.wikipedia.org/wiki/MD5).
@@ -73,8 +75,11 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [Luz](https://github.com/MCJack123/Luz) - An extremely light compression algorithm for Lua files.
 - [Milo](https://github.com/kepler155c/opus-apps/wiki/Milo-(crafting---storage-system)) -  A crafting and inventory management system. Note that this depends on OpusOS and Plethora.
 - [Pine3D](https://github.com/Xella37/Pine3D) - A 3D rendering engine designed to be fast.
+- [PngLua](https://github.com/9551-Dev/pngLua) -  PNG parsing library designed for ComputerCraft.
+- [Pixelbox Lite](https://github.com/9551-Dev/apis/blob/main/pixelbox_lite.lua) - An insanely fast [drawing character](https://cdn.discordapp.com/attachments/876936991256743947/1123213991813058751/image.png) processing library.
 - [RedRun](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8) -  A small library for running processes in the background of CraftOS after exiting the program, similar to DOS TSRs.
 - [Tamperer](https://github.com/Fatboychummy-CC/Tamperer) -  A library allowing easy creation of settings menus.
+- [Tampl](https://github.com/9551-Dev/tampl) - A Lua tokenization and parsing library designed for dynamic code generation and injecting code into existing programs.
 - [VeriCode](https://gist.github.com/MCJack123/7752c85918bcf23ada028abd615e8750) -  Provides simple code signing functions for safely transferring code over modems.
 
 ### Fun
