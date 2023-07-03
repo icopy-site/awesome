@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/kdeldycke/awesome-iam#readme">
-    <img src="https://raw.githubusercontent.com/kdeldycke/awesome-iam/raw/main/assets/awesome-iam-header.jpg" alt="Awesome IAM">
+    <img src="https://raw.githubusercontent.com/kdeldycke/awesome-iam/main/assets/awesome-iam-header.jpg" alt="Awesome IAM">
   </a>
 </p>
 
@@ -13,11 +13,28 @@
 </p>
 
 <p align="center">
+  <sup>This list is <a href="#sponsor-def">sponsored<sup id="sponsor-ref">[0]</sup></a> by:</sup><br>
+</p>
+
+<p align="center">
+  <a href="https://www.descope.com/?utm_source=awesome-iam&utm_medium=referral&utm_campaign=awesome-iam-oss-sponsorship">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kdeldycke/awesome-iam/main/assets/descope-logo-dark-background.svg?sanitize=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kdeldycke/awesome-iam/main/assets/descope-logo-light-background.svg?sanitize=true">
+      <img width="300" src="https://raw.githubusercontent.com/kdeldycke/awesome-iam/main/assets/descope-logo-light-background.svg">
+    </picture>
+    <br/>
+    <strong>Drag and drop your auth.</strong><br/>
+    Add authentication, user management, and authorization to your app with a few lines of code.
+  </a>
+  <!-- Comment this sponsorship call-to-action if there is a sponsor logo to increase its impact. -->
+  <!--
   <a href="https://github.com/sponsors/kdeldycke">
     <strong>Yᴏᴜʀ Iᴅᴇɴᴛɪᴛʏ & Aᴜᴛʜᴇɴᴛɪᴄᴀᴛɪᴏɴ Pʀᴏᴅᴜᴄᴛ ʜᴇʀᴇ!</strong>
     <br/>
     <sup>Add a link to your company or project here: back me up via a GitHub sponsorship.</sup>
   </a>
+  -->
 </p>
 
 ---
@@ -730,5 +747,7 @@ Your contributions are always welcome! Please take a look at the [contribution g
 The [header image](https://github.com/kdeldycke/awesome-iam/blob/main/assets/awesome-iam-header.jpg) is based on a modified [photo](https://unsplash.com/photos/2LowviVHZ-E) by [Ben Sweet](https://unsplash.com/@benjaminsweet).
 
 <!--lint disable no-undefined-references-->
+
+<a name="sponsor-def">\[0\]</a>: You can <a href="https://github.com/sponsors/kdeldycke">add your Identity & Authentication product in the list of sponsors via a GitHub sponsorship</a>. [\[↑\]](#sponsor-ref)
 
 <a name="intro-quote-def">\[1\]</a>: [*Poison Study*](https://www.amazon.com/dp/0778324338?&linkCode=ll1&tag=kevideld-20&linkId=0b92c3d92371bd53daca5457bdad327e&language=en_US&ref_=as_li_ss_tl) (Mira, 2007). [\[↑\]](#intro-quote-ref)

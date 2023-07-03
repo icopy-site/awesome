@@ -56,6 +56,7 @@ This list is a collection of the best Deno modules and resources.
 - [deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
 - [deno_mysql](https://github.com/denodrivers/mysql) - MySQL database driver.
 - [dndb](https://github.com/denyncrawford/dndb) - Persistent and embedable NoSQL database engine written for Deno 🦕.
+- [dongoose](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
 - [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) - A dead simple persistant key-value database utilizing the JSON format.
 - [dso](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
@@ -248,6 +249,7 @@ This list is a collection of the best Deno modules and resources.
 - [nats](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
 - [obsidian](https://github.com/oslabs-beta/obsidian) - A native GraphQL caching client and server module.
 - [qs](https://github.com/denolib/qs) - A query string parser with nesting support.
+- [react-icons](https://react-icons.deno.dev/) - React Icons converted to preact for deno fresh.
 - [router](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
 - [rpc](https://github.com/deno-libs/rpc) - JSONRPC server implementation for Deno.
 - [status](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.

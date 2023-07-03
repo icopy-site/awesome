@@ -693,6 +693,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_QMC5883L](https://github.com/jposada202020/MicroPython_QMC5883L) - MicroPython Driver for the QMC5883L Accelerometer.
 * [Micropython_MC3479](https://github.com/jposada202020/Micropython_MC3479) - MicroPython Driver for the MC3479 Accelerometer.
 * [MicroPython_MMA8451](https://github.com/jposada202020/MicroPython_MMA8451) - MicroPython module for the MMA8451 3-axis accelerometer.
+* [MicroPython_MMA8452Q](https://github.com/jposada202020/MicroPython_MMA8452Q) - MicroPython Driver for the NXP MMA8452Q Accelerometer.
 
 #### Air Quality
 
@@ -851,6 +852,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_ICM20948](https://github.com/jposada202020/MicroPython_ICM20948) - MicroPython Driver for the TDK ICM20948 Accelerometer/Gyro Sensor.
 * [MicroPython_BMI160](https://github.com/jposada202020/MicroPython_BMI160) - MicroPython Driver for the Bosch BMI160 Accelerometer/Gyro Sensor.
 * [micropython-mpu6050](https://github.com/wybiral/micropython-mpu6050) - MicroPython library for reading from MPU-6050 accelerometer and gyroscope modules.
+* [MicroPython_ICG20660](https://github.com/jposada202020/MicroPython_ICG20660) - MicroPython Driver for the TDK ICG20660 Accelerometer/Gyro sensor.
 
 #### Pressure
 

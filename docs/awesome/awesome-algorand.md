@@ -253,6 +253,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [AlgoNode](https://algonode.io) - Free Node/Indexer APIs, Node running FAQ, Node/Indexer daily snapshots.
 - [Algorand Node UI](https://github.com/algorand/node-ui) - Terminal UI for remote Algorand node management.
 - [SubQuery](https://subquery.network) - Open, fast, flexible, and decentralised cross-chain data indexer for Algorand ([getting started guide](https://academy.subquery.network/quickstart/quickstart_chains/algorand.html)).
+- [AlgoRun](https://github.com/algorandfoundation/algorun) - Simple CLI utility for setting up and starting Algorand MainNet participation node.
 
 #### Wallets
 

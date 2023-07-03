@@ -71,6 +71,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | Name | Description | Address | Domain Name |
 | :--- | :--- | :---: | :--- |
 | XeroMe | ZeroMe with an easy-on-eyes theme | `1JgcgZQ5a2Gxc4Cfy32szBJC68mMGusBjC` | N/A |
+| 0Hub | List Of ZeroMe Hubs | `1GLndW2MJn7japuF3X2tbfBqgPMR52zaLQ` | `0hub.bit` |
 
 ### Movies
 
@@ -207,9 +208,10 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 
 ### Support/Donation
 
-You can support me and this project by sharing it or sending me cryptocurrencies :)
+If you find this project helpful and would like to show your appreciation, consider making a donation. Your contributions helps me dedicate more time working on Free and open-source projects :heart:
 
-- Monero ([QR](https://raw.githubusercontent.com/zolagonano/zolagonano.github.io/master/qrcodes/xmr_qr.png)): `8AF4Lybz7QwiucdYW2szsgiqTHdBp5kjZSSRm6ddzd5363S6n4jixpkACGMLx5JWZnUR5MnGF7cMoidjppruAvLvMe2ovHZ`
-- Bitcoin ([QR](https://raw.githubusercontent.com/zolagonano/zolagonano.github.io/master/qrcodes/btc_qr.png)): `bc1qtya7nc42xff4w8rw6xa9zeqhdk4s3telvklcgy`
-- Litecoin ([QR](https://raw.githubusercontent.com/zolagonano/zolagonano.github.io/master/qrcodes/ltc_qr.png)): `ltc1qc3unssu58qjrqdnnl8pxep9259khfwz46un2cd`
-- BitcoinCash ([QR](https://raw.githubusercontent.com/zolagonano/zolagonano.github.io/master/qrcodes/bch_qr.png)): `qq9gvne3p7sa678j9y3y32ersju83elumclvknqm9h`
+- Monero([QR](https://zolagonano.github.io/assets/qrcodes/monero.png)): `8AF4Lybz7QwiucdYW2szsgiqTHdBp5kjZSSRm6ddzd5363S6n4jixpkACGMLx5JWZnUR5MnGF7cMoidjppruAvLvMe2ovHZ`
+- VerusCoin([QR](https://zolagonano.github.io/assets/qrcodes/veruscoin.png)): `R9V91vQbP75A5H3Nn3RrXnK8zVZyaRBYHG`
+- Bitcoin([QR](https://zolagonano.github.io/assets/qrcodes/bitcoin.png)): `bc1qtya7nc42xff4w8rw6xa9zeqhdk4s3telvklcgy`
+- Litecoin([QR](https://zolagonano.github.io/assets/qrcodes/litecoin.png)): `ltc1qc3unssu58qjrqdnnl8pxep9259khfwz46un2cd`
+- BitcoinCash([QR](https://zolagonano.github.io/assets/qrcodes/bitcoincash.png)): `qq9gvne3p7sa678j9y3y32ersju83elumclvknqm9h`
