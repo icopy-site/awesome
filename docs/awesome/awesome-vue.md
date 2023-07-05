@@ -93,6 +93,8 @@
 - [VueJS Singapore - Telegram Group](https://t.me/vuejssg)
 - [VueJS Bootcamp kablosuzkedi - Turkey - Telegram Group](https://t.me/joinchat/pqiJOgi8byQ5Y2E0)
 - [VueJS Translations Ukraine](https://t.me/vuejs_ukraine) - Telegram Group (Ukraine)
+- [VueJS Kenya - Twitter Account](https://twitter.com/KenyaVue)
+- [VueJS Magyar - Facebook Group [Hungarian]](https://www.facebook.com/groups/huvuejs/)
 
 ### Conferences
 
@@ -1037,7 +1039,7 @@
 - [Nightlight During Conflict](https://pngk.org/nightlight/) - Explore GIS data on nightlight output for countries in conflict.
 - [User Friendly Justice Data](https://justicemoroccoprototype.hiil.org/) - Explore justice data from Morocco.
 - [Thing](https://github.com/snturk/thing) - Breath exercise & meditation web app made with Vue.
-- [Vue Playground](https://vueplayground.com) - Create Vue components and applications in an interactive / visual drag & drop designer.
+- [Vue Play](https://www.vueplay.com) - Create Vue components and applications in an interactive / visual drag & drop designer.
 
 ### Enterprise Usage
 

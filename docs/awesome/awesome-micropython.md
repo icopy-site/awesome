@@ -66,6 +66,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-basicdweet](https://github.com/jacklinquan/micropython-basicdweet) - A python module for very basic APIs of the free dweet service.
 * [micropython-dweeter](https://github.com/jacklinquan/micropython-dweeter) - A python module for messaging through the free dweet service.
 * [micropython-cryptodweet](https://github.com/jacklinquan/micropython-cryptodweet) - A python module for very basic APIs of the free dweet service with encryption.
+* [micropython-linenotify](https://github.com/PerfecXX/micropython-linenotify) - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
 
 #### Authentication
 
@@ -115,6 +116,10 @@ Other places you can look for MicroPython Libraries:
 * [tinydns](https://github.com/belyalov/tinydns) - Very simple DNS async server for MicroPython.
 * [micropython-captiveportal](https://github.com/metachris/micropython-captiveportal) -  Minimal async captive portal for MicroPython (compatible with uasyncio v3/MicroPython 1.13+ as well as earlier versions).
 * [Micropython-DNSServer-Captive-Portal](https://github.com/p-doyle/Micropython-DNSServer-Captive-Portal) - MicroPython WiFi AP Captive Portal with DNS and Web Server.
+
+#### ESP-NOW
+
+* [mesh-espnow-micropython](https://github.com/shariltumin/mesh-espnow-micropython) - Dynamic Secure Mesh for Collaborative Nodes of IoT devices.
 
 #### Ethernet
 
