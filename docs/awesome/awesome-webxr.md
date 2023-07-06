@@ -99,7 +99,7 @@
 
 
 - [2WSZ](https://2wsz.com/) - An aggregator for WebXR content featuring ratings, a recommendation system, and both English and Korean language support.
-- [Extended Collection](https://extendedcollection.com/) - Another curation hub for WebXR content maintained by [Joseph Simpson](https://github.com/vrhermit/).
+- [Extended Collection](https://extendedcollection.com/) - A curated library of links to the Immersive Web maintained by [vrhermit](https://vrhermit.com/).
 - [heyVR](https://heyvr.io/) - A curated platform for publishing WebXR games.
 - [XR Swim](https://xrswim.com/) - An aggregator site for both WebXR and Web3 content.
 
