@@ -107,6 +107,7 @@ _UI frameworks for mobile._
 - [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS.
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
+- [Radix Svelte](https://github.com/TGlide/radix-svelte) - An unofficial community-led Svelte port of Radix UI Primitives
 - [attractions](https://github.com/illright/attractions) - A pretty cool and modern UI kit
 - [svelte-chota](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
 - [ionic-svelte](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
@@ -132,6 +133,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
 - [@zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
 - [svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
+- [svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
 
 ### Grid
 
@@ -226,6 +228,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 
 - [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
 - [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
+- [VoerkaI18n](https://zhangfisher.github.io/voerka-i18n/) - Internationalization solution for `Javascript/Typescript/Vue/React/Solidjs/SvelteJs/ReactNative`
 - [sveltekit-i18n](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
 - [@tolgee/svelte](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
 
@@ -255,7 +258,6 @@ _For Single Page Applications (SPAs) and more._
 
 _Lint and format your code._
 
-- [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for components.
 - [prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
 - [svelte-check](https://www.npmjs.com/package/svelte-check) - Check your code.
 - [eslint-plugin-svelte](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
