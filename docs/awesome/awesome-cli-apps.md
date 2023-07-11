@@ -261,6 +261,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
+- [clevercli](https://github.com/clevercli/clevercli) - Collection of ChatGTP powered utilities.
 
 ### macOS
 
@@ -374,6 +375,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Wat](https://github.com/dthree/wat) - Instant, central, community-built docs.
 - [teachcode](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 - [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
+- [yai](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
 ## Data Manipulation
 
