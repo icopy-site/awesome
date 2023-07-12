@@ -31,6 +31,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, blazingly fast analytics tool.
 * [PostHog](https://posthog.com/) - Open-source product analytics platform.
 * [Segment](https://segment.com/) - Collect user data and send it to your other tools.
+* [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs.
 
 ## Authentication & Identity
 *Products that handle authentication and user identity for you.*
@@ -198,6 +199,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
 * [Knock](https://knock.app) - Notifications as a service.
 * [MagicBell](https://www.magicbell.com/) - Real-time notification system with API & UI components.
+* [Novu](https://novu.co/) - Open-source notification (Email, SMS, Direct, and Push) management.
 * [Stream](https://getstream.io/) - Feed and chat as a service.
 * [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 * [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.

@@ -32,6 +32,7 @@ Hydrogen is Shopify's open source stack for headless commerce.
 ## Examples
 
 - [Hydrogen NodeJS Express Example](https://github.com/Shopify/hydrogen/tree/2023-04/examples/express)
+- [Tokengated Storefront Example](https://github.com/Shopify/gated-hydrogen-example)
 
 ## Apps & Integrations
 
