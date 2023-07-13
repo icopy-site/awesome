@@ -31,6 +31,7 @@
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
 - [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
+- [Parabolic](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` graphical fronted.
 
 ### Office
 
@@ -41,6 +42,7 @@
 - [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
 - [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
 - [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
+- [Paper Clip](https://github.com/Diego-Ivan/Paper-Clip) - PDF metadata editor.
 
 ### Productivity and Time
 
@@ -73,6 +75,7 @@
 - [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
 - [Spot](https://github.com/xou816/spot) - Spotify Client.
 - [Clapper](https://github.com/Rafostar/clapper) - Simple and modern media player.
+- [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips.
 
 ### Graphics
 
@@ -106,6 +109,7 @@
 - [GDM Settings](https://gdm-settings.github.io) - A settings app for GDM (GNOME's Login Screen a.k.a GNOME Display Manager).
 - [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
 - [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager.
+- [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU usage
 
 ### Utilities
 

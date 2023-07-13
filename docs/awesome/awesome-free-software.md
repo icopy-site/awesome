@@ -19,6 +19,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 ### Command Line Tools
 
 - [asciinema](https://asciinema.org/) - Terminal session recorder. ([GNU GPLv3](https://github.com/asciinema/asciinema/blob/develop/LICENSE))
+- [Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, all from the command line. ([GNU GPLv3](https://github.com/Slackadays/Clipboard/blob/main/LICENSE))
 - [Cygwin](http://cygwin.com/) - Unix-like environment for Windows, providing access to a number of tools commonly found on Linux systems. ([GNU GPLv3](https://cygwin.com/COPYING))
 - [Logdissect](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
 - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) - Remote terminal emulator that connects over SSH, Telnet, SCP, and rlogin protocols as well as raw socket connections. ([MIT](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html))
@@ -98,7 +99,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 - [DocEar](http://www.docear.org/) - Literature management using mind mapping technology. ([GNU GPLv2+](https://github.com/Docear/Desktop/blob/master/docear_framework/license.txt))
 - [JabRef](https://www.jabref.org) - Manages references and attached PDFs using BibTeX/BibLaTeX. Includes support for LibreOffice. ([MIT](https://github.com/JabRef/jabref/blob/master/LICENSE.md))
-  
+
 ### Screencasting
 
 - [OBS Studio](https://obsproject.com/) - Screen recorder and video streaming application for all platforms. ([GNU GPLv2](https://github.com/jp9000/obs-studio/blob/master/COPYING))
@@ -107,7 +108,8 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 ### Text Editors
 
-- [Atom](https://atom.io/) - Hackable text and source code editor. ([MIT](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md))
+- [Atom](https://atom.io/) - Hackable text and source code editor. (Archived) ([MIT](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md))
+- [Pulsar](https://pulsar-edit.dev/) - A Community-led Hyper-Hackable Text Editor. Forked from Atom. ([MIT](https://raw.githubusercontent.com/pulsar-edit/pulsar/master/LICENSE.md))
 - [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more. ([GNU GPL](http://www.free-soft.org/gpl_history/emacs_gpl.html))
 - [GNU nano](https://www.nano-editor.org/) - Simple text editor for the command line. ([GNU GPL](https://www.nano-editor.org/dist/v2.7/README))
 - [vim](https://www.vim.org/) - Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. ([GNU GPL compatible](https://vimhelp.org/uganda.txt.html#license))
@@ -122,7 +124,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Search Deflector](https://spikespaz.com/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. ([MIT](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))
 - [Wireshark](https://www.wireshark.org/) - Packet analyzer for network troubleshooting and analysis. ([GNU GPLv2](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD))
 - [Espanso](https://github.com/federico-terzi/espanso) - A cross-playform text expander ([GNU GPLv3](https://github.com/federico-terzi/espanso/blob/master/LICENSE))
-  
+
 ### Video
 
 - [NewPipe](https://newpipe.schabi.org/) - Lightweight YouTube frontend for Android. ([GNU GPLv3](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE))
@@ -130,7 +132,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats. ([GNU GPLv3](http://www.videolan.org/videolan/))
 - [youtube-dl](https://rg3.github.io/youtube-dl/) - Feature-rich command line program to download videos from YouTube and other video sites. ([Unlicense](https://github.com/rg3/youtube-dl/blob/master/LICENSE))
 - [MPV](https://mpv.io/) - Customizable multimedia player with scripting support. ([GNU GPLv2](https://github.com/mpv-player/mpv/blob/master/LICENSE.GPL/))
-  
+
 ### Virtualization
 
 - [QEMU](http://www.qemu-project.org/) - QEMU is a generic and open source machine emulator and virtualizer. ([GNU GPLv2](http://wiki.qemu-project.org/License))

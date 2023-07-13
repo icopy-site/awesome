@@ -8,7 +8,8 @@
 
 
 ## Academic
-
+- [Tipitaka](https://www.accesstoinsight.org/tipitaka/index.html) - The Tipitaka, or Pali canon, is the collection of primary Pali language texts which form the doctrinal foundation of Theravada Buddhism. 
+- [Early Buddhist texts, translations, and parallels](https://suttacentral.net/) - The Tipitaka; translated by [Bhante Sujato](https://en.wikipedia.org/wiki/Bhante_Sujato) along with related translations.
 - [A Systematic Study of the Majjhima Nikaya](http://bodhimonastery.org/a-systematic-study-of-the-majjhima-nikaya.html) - Lectures on the life of the Buddha, ethics, meditation, and wisdom.
 - [An Introduction to Buddhism](http://www.aimwell.org/buddhism.html) - Bhikkhu Pesala provides an overview of the Noble Eightfold Path and several meditation techniques in plain language.
 - [Universität Hamburg: Prof. Bhikkhu Analayo](https://www.buddhismuskunde.uni-hamburg.de/en/personen/analayo.html) - Author of several books and papers on Theravada topics.
@@ -53,7 +54,7 @@
 
 - [Discuss & Discover](https://discourse.suttacentral.net/) - Forums for SuttaCentral early Buddhist texts.
 - [Dhamma Wheel](https://dhammawheel.com/) - Discussion on a wide variety of topics pertaining to Theravada Buddhism.
-- [Dhammaloka Community](http://community.dhammaloka.org.au/forum.php) - Ask and learn from the members of Dhammaloka City Centre in Australia.
+- [Dhammaloka Community](https://bswa.org/about-dhammaloka-community/) - Ask and learn from the members of Dhammaloka City Centre in Australia.
 
 ## Organizations
 
@@ -143,7 +144,7 @@
 - [Ask A Monk: Divorce](https://www.youtube.com/watch?v=Uq4ibpX-nS0) - Discussion of divorce that leads back to the fundamentals of Buddhism.
 - [Ask A Monk: Life Partners](https://www.youtube.com/watch?v=MHu46KZVchY) - Suffering does not come from not getting what you want, but from the wanting itself.
 - [Dana en Wat Pah Nanachat](https://www.youtube.com/watch?v=Y1bTUC7QUbI) - A walk through of daily life at Wat Pah Nanachat, focusing on the topic of generosity and the role it plays in Buddhist life. (Español with English subtitles)
-- [The Mindful Way](https://www.youtube.com/watch?v=Anf1yhX9VQo) - BBC documentary about the life and function of a Buddhist monastery of the Forest Tradition in Thailand.
+- [The Mindful Way](https://viewtube.io/watch?v=eFy-a9VaVvE) - BBC documentary about the life and function of a Buddhist monastery of the Forest Tradition in Thailand.
 
 ### YouTube Channels
 
