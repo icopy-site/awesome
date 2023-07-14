@@ -9,7 +9,6 @@
 ## Articles
 
 * [One-line node modules](https://github.com/sindresorhus/ama/issues/10)
-* [Build small single purpose modules](http://thenodeway.io/introduction/#build-small-single-purpose-modules)
 * [Module best practices](https://github.com/mattdesl/module-best-practices)
 * [Evaluating Packages Part 1 - Turn to community](http://bytearcher.com/articles/evaluating-packages-1-check-community/) 
 * [Evaluating Packages Part 2 - Review repository](http://bytearcher.com/articles/evaluating-packages-2-review-repository/)
@@ -17,7 +16,6 @@
 * [In Defense of Hyper Modular JavaScript](https://medium.freecodecamp.com/in-defense-of-hyper-modular-javascript-33934c79e113)
 * [Tiny npm package: Guidelines to create a Node.js module following the small package philosophy](http://g14n.info/2015/12/tiny-npm-package/)
 * [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)
-* [Why I think "micro-packages" are a good thing.](http://codetunnel.io/why-i-think-micro-packages-are-a-good-thing/)
 
 ## Modules
 
@@ -38,6 +36,7 @@
 * [mirrarray](https://github.com/johnwquarles/mirrarray) - Creates a keymirror object from an array of valid keys.
 * [group-array](https://github.com/doowb/group-array) - Group array of objects into lists.
 * [array.chunk](https://github.com/zhiyelee/array.chunk) - Split array/TypedArray to chunks of given size.
+* [fast-cartesian](https://github.com/ehmicky/fast-cartesian) - Fast cartesian product.
 
 ### String
 
@@ -198,6 +197,7 @@
 * [is-fqdn](https://github.com/parro-it/is-fqdn) - Check if a string represent a fully qualified domain name.
 * [shurley](https://github.com/BrunoBernardino/shurley) - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
 * [mime-type-check](https://github.com/RocktimSaikia/mime-type-check) - Get the MIME type of a file by its extension.
+* [nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 
 ## Related lists
 

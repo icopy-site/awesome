@@ -87,14 +87,17 @@ This list is a collection of the best Deno modules and resources.
 
 ### Image
 - [ImageScript](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+- [monke](https://github.com/retraigo/monke) - Color quantization and dithering library with extra image filters (blur, invert, etc).
 
 ### Logging
 - [sentry_deno](https://github.com/GJZwiers/sentry_deno) - Unofficial port of the Sentry SDK for JavaScript to Deno.
 - [dlog](https://github.com/dpmland/dlog) - A ussefull logger for the prompt with icons or simple version!
 
 ### Machine learning
+- [classy-lala](https://github.com/retraigo/classy-lala) - Regression and Classification library.
 - [netsaur](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
 - [synaptic](https://github.com/load1n9/synaptic) - Dependency-less neural network library ported to deno
+- [vectorizer](https://github.com/retraigo/vectorizer) - Convert text into vectors.
 
 ### Mail
 - [deno-smtp](https://github.com/manyuanrong/deno-smtp) - A smtp mail sender for deno.
@@ -154,7 +157,6 @@ This list is a collection of the best Deno modules and resources.
 - [colors](https://github.com/retraigo/colors) - Color conversions and operations in TypeScript.
 - [croner](https://github.com/hexagon/croner) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
 - [computed_types](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
-- [cubic-bezier](https://github.com/retraigo/cubic-bezier) - Get an array of points in a cubic bezier curve or visualize in a canvas.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
 - [denon](https://github.com/denosaurs/denon/blob/master/mod.ts) - A file watcher with a for-await generator.
 - [deno-config](https://github.com/yooneskh/deno-config) - Utility to streamline deno app configuration management through cli, .env and json files
@@ -188,7 +190,6 @@ This list is a collection of the best Deno modules and resources.
 - [lazy](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
 - [locale-kit](https://deno.land/x/localekit) ([GitHub](https://github.com/locale-kit/locale-kit)) - A internationalisation/localisation/translation (i18n/l10n/t9n) library with a wrapper for Fresh and support for plurals and dynamic replacement.
 - [maze_generator](https://github.com/mjrlowe/maze_generator) - Javascript module for generating, solving, analyzing and displaying mazes.
-- [monke](https://github.com/retraigo/monke) - Color quantization and dithering in TypeScript.
 - [ms](https://github.com/denolib/ms) - Easily convert various time formats to milliseconds.
 - [online](https://github.com/denorg/online) - Check if you're currently online in Deno.
 - [optionals](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.

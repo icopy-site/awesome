@@ -12,12 +12,6 @@ If you need to search on this list you can try this great website: [Awesome Blaz
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
 
-## Are you ready for Build 2023? (May 23-25, 2023).
-[<img src="https://pbs.twimg.com/media/FvItY-MWABM33yX?format=jpg&name=medium" align="center" width="100%">](https://devblogs.microsoft.com/dotnet/microsoft-build-2023-and-dotnet/)
-- Get an overview of some of the .NET sessions and live Q&A coming to #MSBuild this year.
-- May 23-25, 2023
-- Sessions : [build.microsoft.com](https://build.microsoft.com/en-US/sessions?filter=additionalTrack%2FlogicalValue%3E.NET)
-
 ## Introduction
 
 ### What is Blazor?
@@ -404,6 +398,8 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2021](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2021.md#videos), [2020](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2020.md#videos), [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Silverlight Just Won't Die: 'XAML for Blazor' Arrives](https://visualstudiomagazine.com/articles/2023/07/13/xaml-blazor.aspx) - July 13, 2023 - Userware is using vestiges of the long-gone and sorely missed Microsoft Silverlight web-dev platform to power its new "XAML for Blazor" offering, which lets .NET developers use markup language within client-side Blazor applications.
+* [What’s New in Blazor: 2023 Volume 2](https://www.syncfusion.com/blogs/post/whats-new-blazor-2023-volume-2.aspx) - July 12, 2023 - New components and features added in the Syncfusion Essential Studio 2023 Volume 2 release for the Blazor platform.
 * [ASP.NET Core updates in .NET 8 Preview 6](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-6/) - July 11, 2023 - .NET 8 Preview 6 is now available and includes many great new improvements to ASP.NET Core. Here’s a summary of what’s new in this preview release: Form model binding & validation with server-side rendering, Enhanced page navigation & form handling, Preserve existing DOM elements with streaming rendering, Interactive rendering with Blazor WebAssembly and more.
 * [Exploring Blazor Changes in .NET 8 - Server Side Rendering (SSR)](https://jonhilton.net/blazor-ssr/) - July 11, 2023 - This is the first in a number of posts where we’ll explore the changes coming for Blazor in .NET 8.
 * [Introducing XAML for Blazor](https://xaml-for-blazor.com/2023/07/10/introducing-xaml-for-blazor/) - July 10, 2023 - Today, we are thrilled to announce the release of “XAML for Blazor”, a new Blazor extension by Userware that brings the power of XAML to Blazor WebAssembly applications. It combines the familiarity and capabilities of XAML with the versatility of Blazor, empowering .NET developers to create cutting-edge web applications with even greater ease and flexibility.

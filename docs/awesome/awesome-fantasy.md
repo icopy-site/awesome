@@ -236,6 +236,20 @@ There is so much good writing, so many beautiful places, that it is almost impos
 
 > Roger Zelazny's chronicles of Amber have earned their place as all-time classics of imaginative literature. Now, here are all ten novels, together in one magnificent omnibus volume. Witness the titanic battle for supremacy waged on Earth, in the Courts of Chaos, and on a magical world of mystery, adventure and romance.
 
+#### [The Chronicles of Prydain](https://en.wikipedia.org/wiki/The_Chronicles_of_Prydain) 1964 _by [Lloyd Alexander](https://en.wikipedia.org/wiki/Lloyd_Alexander)_ [4.42]
+
+The Chronicles of Prydain encapsulates what I deem to be a perfect fantasy series for young adults. The overarching theme of the series is the triumph of good over evil as the protagonist grapples with pain, betrayal, love, and other classic tropes in fantasy literature. Alexander's profound compassion is what makes "The Chronicles of Prydain" such an enduring thrill. The action is engaging enough for young children, but the principles it reveals are profound enough to resound with the reader at every stage of life. - [@lin-dsey](https://github.com/lin-dsey)
+
+Books:
+
+-[The Book of Three](https://www.goodreads.com/book/show/24780.The_Book_of_Three)
+-[The Black Cauldron](https://www.goodreads.com/book/show/24784.The_Black_Cauldron)
+-[The Castle of Llyr](https://www.goodreads.com/book/show/24779.The_Castle_of_Llyr)
+-[Taran Wanderer](https://www.goodreads.com/book/show/24782.Taran_Wanderer)
+-[The High King](https://www.goodreads.com/book/show/24781.The_High_King)
+
+> The five novels take place in Prydain, a fictional country ruled by a High King who oversees several minor kingdoms. The setting is based on Wales and inhabited by creatures and characters inspired by Welsh mythology and folklore. The series follows the protagonist Taran, a youth of unknown parentage living on a farm with an old enchanter named Dallben and a farmer named Coll. Taran, who dreams of being a great hero, is named "Assistant Pig-Keeper" and tasked with helping to care for and protect Hen Wen, a white oracular pig magically empowered with clairvoyance. Taran has a series of adventures wherein he helps protect the land of Prydain from various threats, chief among them the evil Arawn, whose forces include an undead army known as the Cauldron-Born. Throughout the novels, Taran's major companions are the Princess Eilonwy, the bard Fflewddur Fflam, the wild beast-man Gurgi, and the dwarf Doli. The heroes frequently work alongside the Fair Folk (a society of elves and similar beings) and the warriors known as the Sons of Don. Along with various battles against forces of evil, the novels focus on Taran's journey of maturity.
+
 #### [The Daevabad Trilogy](https://www.goodreads.com/series/211584-the-daevabad-trilogy) 2017 _by[S. A. Chakraborty](https://en.wikipedia.org/wiki/S._A._Chakraborty)_[4.3]
 
 This series is sumptuous. It follows Nahri as she leaves her hum-drum life in Egypt for a life of adventure, danger, and romance. It all starts when she plays with magic she doesn't understand and ends up summoning a djinn. This is truly an epic work as it spans three books, the final volume weighing in at nearly 800 pages. The world building is wonderful and reading a fantasy based on eastern magic and mythology was a welcome change for me among so many fantasies that seem more European-based. I looked forward to both sequels as they came out and finished reading the final installment without even realizing I had read over 700 pages because I read it on a Kindle! 
@@ -497,6 +511,12 @@ This book stands up to a reread, and is a nice example of Neil Gaiman's ability 
 > Together they embark on a profoundly strange journey across the heart of the USA, whilst all around them a storm of preternatural and epic proportions threatens to break.
 >
 > Scary, gripping and deeply unsettling, AMERICAN GODS takes a long, hard look into the soul of America. You'll be surprised by what and who it finds there...
+
+#### [The Book of Knights](https://www.goodreads.com/en/book/show/1583772) _by [Yves Menard](https://en.wikipedia.org/wiki/Yves_Meynard)_ [3.94]
+
+An outstanding book. I was blown away by how exceptionally other-worldly this book felt - it reminded me of Jack Vance and Gene Wolfe, which is how I found it. One of the quotes in the book is used as an opener in Wolfe's _The Wizard Knight_. The book follows a young boy as he seeks to become a knight, inspired by his reading a book titled "The Book of Knights". I can't recommend this book enough. - [@RichardLitt](https://github.com/RichardLitt)
+
+> A young boy and his journey to become a knight. He must complete a quest, but the book takes you places you don't expect a seemingly run-of-the-mill book would.
 
 #### [Ficciones](https://www.goodreads.com/book/show/426504.Ficciones) _by [Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges)_ [4.5]
 
