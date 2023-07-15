@@ -121,6 +121,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 - [algokit-beaker-default-template](https://github.com/algorandfoundation/algokit-beaker-default-template) - Official AlgoKit beaker template provides a production-ready baseline for developing and deploying Beaker smart contracts.
 - [algokit-tealish-template](https://github.com/aorumbayev/algokit-tealish-template) - AlgoKit community template for quick starting a smart contract project with tealish and algojig.
+- [algokit-goracle-template](https://github.com/GoracleNetwork/algokit_default_template) - Algokit community template for quick starting a smart contract project interacting with goracle.
 
 ### Languages
 
