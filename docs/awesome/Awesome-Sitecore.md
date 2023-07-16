@@ -76,25 +76,26 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Configuration
 
-- [Sitecore configuration consolidator (offline ShowConfig)](https://github.com/ParTech/ScShowConfig) - Simple console app that consolidates Sitecore configuration include files.
+- [Sitecore configuration consolidator (offline ShowConfig)](https://github.com/ParTech/ScShowConfig) - Simple console app that consolidates Sitecore configuration including files.
 
 ## Containers
 
+- [Windows Docker Machine](https://github.com/StefanScherer/windows-docker-machine) - Vagrant environment that creates a "Docker Machine" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.
 - [Sitecore Containers Prerequisites](https://github.com/nickwesselman/sitecore-containers-prerequisites) - Checks the machine for Sitecore Container compatibility, enables Hyper-V, downloads and installs software including Sitecore 10.1
 - [Sitecore Docker Examples](https://github.com/Sitecore/docker-examples) - An official Docker Examples images for the most recent versions of Sitecore 10.*, including 'getting-started' XP0 container environment.
-- [Container Deployment](https://github.com/Sitecore/container-deployment) - Provides the examples on how to deploy Sitecore containers using various methods.
+- [Container Deployment](https://github.com/Sitecore/container-deployment) - Provides examples on how to deploy Sitecore containers using various methods.
 - [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform) - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
-- [Sitecore MVP](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
+- [Sitecore MVP](https://github.com/Sitecore/MVP-Site) - The source code of a real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
 - [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) - Build your own Docker images for the most recent versions of Sitecore.
 - [Packer for Sitecore](https://github.com/asmagin/sitecore-packer) - Repository contains Packer templates for a local Sitecore hosting environment with IIS and and SQL Server on Windows, SOLR and Sitecore 9.0 building virtual machine images and Vagrant boxes for VirtualBox, provisioned with Chef.
 - [Docker SOLR with SSL](https://github.com/LaubPlusCo/docker-solr-ssl) - A simple setup that set up a Linux container on a host running solr with SSL using a generated certificate.
-- [Sitecore Docker Tools](https://github.com/sitecore/docker-tools) - Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints which can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.
+- [Sitecore Docker Tools](https://github.com/sitecore/docker-tools) - Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints that can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.
 - [Konabos Docker Examples](https://github.com/konabos/konabos-docker-examples) - Sample compose files and associated configuration beyond those officially provided by Sitecore.
-- [Container Asset Image Creator Module](https://github.com/KayeeNL/sitecore-module-docker-asset-image-creator) - A script to handle the auto creation of a Docker Asset Image for a given Sitecore module.
+- [Container Asset Image Creator Module](https://github.com/KayeeNL/sitecore-module-docker-asset-image-creator) - A script to handle the auto-creation of a Docker Asset Image for a given Sitecore module.
 - [Containers & AKS](https://github.com/bplasmeijer/Sitecore-Symposium-2020-Containers-AKS) - Taking Sitecore 10 to the next level into Azure AKS.
-- [PaaS to AKS](https://github.com/robhabraken/paas-to-aks) - Boilerplate project for deploying Sitecore 10.0.* to Azure AKS coming from an Azure PaaS architecture for Sitecore. That includes ARM templates for External Data Services, required to run Sitecore k8s in production and scripts to support a full Infrastructure-as-Code setup for Sitecore on AKS.
+- [PaaS to AKS](https://github.com/robhabraken/paas-to-aks) - Boilerplate project for deploying Sitecore 10.0.* to Azure AKS coming from an Azure PaaS architecture for Sitecore. That includes ARM templates for External Data Services, required to run Sitecore k8s in production, and scripts to support a full Infrastructure-as-Code setup for Sitecore on AKS.
 - [Sitecore Deployment on Kubernetes Example](https://github.com/georgechang/sitecore-k8s) - An example of a Sitecore 10.1 XP0 deployment onto AKS with SolrCloud. It should deploy: 1)Sitecore 10.1 XP0; 2)Microsoft SQL Server 2019; 3)Zookeeper 3.4 (3 replicas); 4)Solr 8.4 (3 replicas)
-- [Sitecore Module Docker Asset Image Creator](https://github.com/KayeeNL/sitecore-module-docker-asset-image-creator) - A script to handle the auto creation of a Docker Asset Image for a given Sitecore module
+- [Sitecore Module Docker Asset Image Creator](https://github.com/KayeeNL/sitecore-module-docker-asset-image-creator) - A script to handle the auto-creation of a Docker Asset Image for a given Sitecore module
 - [Test Sitecore Packages](https://github.com/michaellwest/test-sitecore-packages) - Provides a way to quickly and conveniently install packages as part of a docker image build or after startup of your containers. Useful for module developers or teams that need to verify build artifacts work in a vanilla instance of XM. Supports XM, SPE, SXA, and any custom module zip/scwdp or generic zip files.
 
 

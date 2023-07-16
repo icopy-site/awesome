@@ -56,11 +56,14 @@ An advanced development platform that enable organizations to create powerful en
 - [APEX (Oracle)](https://apex.oracle.com/en/platform/low-code/) - A Low Code development platform that enables you to build scalable, secure enterprise apps, with world-class features, that can be deployed anywhere.
 - [Salesforce Platform, prev. Force.com (Salesforce)](https://www.salesforce.com/products/platform) - Click, create, and ship from anywhere with Low Code.
 - [n8n](https://n8n.io/) - Workflow automation tool with many integrations and with fair-code license.
+- [Linx](https:/linx.software) - General-purpose low-code platform for building and hosting backends like APIs, automations and integrations.
+- [DronaHQ](https://www.dronahq.com/?ref=github-gs) - Drag and drop low code platform to build internal apps for web as well as mobile.
 - [ILLA Cloud](https://www.illacloud.com/) - A low-code platform for developers to build internal tools in minutes.
 - [Loopple](https://www.loopple.com) - A low code drag and drop dashboard builder.
 - [Appsheet (Google)](https://about.appsheet.com/home/) - Google AppSheet is a no-code development platform that enables users to create custom mobile and web applications without requiring extensive programming knowledge. It provides a drag-and-drop interface for building apps, and it can integrate with various data sources and APIs to automate workflows and improve productivity.
 - [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment working directly with JavaScript or Python. It allows the development, execution and monitoring of integration and automation processes.
-- [DronaHQ](https://www.dronahq.com/) - DronaHQ - a low code platform helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster. 
+- [DronaHQ](https://www.dronahq.com/) - DronaHQ - a low code platform helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster.
+- [REI3](https://rei3.de/en/home) - REI3 is an open low code application platform. It runs on almost any system, on-premise or in the cloud and is free to use for individuals and organizations.
 
 ### Business Process Management
 
