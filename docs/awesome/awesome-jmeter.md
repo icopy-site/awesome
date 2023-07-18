@@ -23,7 +23,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [GitHub Repository](https://github.com/apache/jmeter) - Apache JMeter source code repository.
 - [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 - [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
-- [Mailing Lists](https://jmeter.apache.org//mail2.html) - Apache JMeter mailing lists.
+- [Mailing Lists](https://jmeter.apache.org/mail2.html) - Apache JMeter mailing lists.
 
 ## Distributions
 
@@ -45,7 +45,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/) - By Tutorials Point.
 - [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html) - By Daniel Gutierrez Diez.
 - [JMeter: Load Development Lifecycle](https://datacadamia.com/jmeter/lifecycle) - By DataCadamia.
-- [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter) - By Mitchell Anicas @ DigitalOcean.
+- [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial-series/load-testing-with-apache-jmeter) - By Mitchell Anicas @ DigitalOcean.
 - [JMeter Tutorial for Beginners](https://www.guru99.com/jmeter-tutorials.html) - By Guru99.
 
 ## Best Practices
@@ -64,7 +64,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### DSL
 
 - [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby-based DSL for building JMeter test plans.
-- [jmeter-java-dsl](https://abstracta.github.io/jmeter-java-dsl/) - Simple API to run JMeter performance tests in an VCS and programmers friendly way.
+- [jmeter-java-dsl](https://abstracta.github.io/jmeter-java-dsl/) - Simple Java API to run JMeter performance tests in an VCS and programmers friendly way.
+- [jmeter-dotnet-dsl](https://abstracta.github.io/jmeter-dotnet-dsl/) - Simple .Net API to run JMeter performance tests in an VCS and programmers friendly way.
 - [jmeter-groovy-dsl](https://github.com/smicyk/groovy-jmeter) - The Groovy-JMeter project is simple DSL to write JMeter test plans.
 - [jmeter-as-code](https://github.com/anasoid/jmeter-as-code) - Simple wrapper for JMeter to write and execute JMeter tests with Java.
 - [pymeter](https://github.com/eldaduzman/pymeter) - Simple JMeter performance tests API for Python.
@@ -78,7 +79,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
 - [Performance testing framework](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 - [JMeter Load Testing Center](https://github.com/innogames/ltc) - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
-- [MeterSphere](https://github.com/metersphere/metersphere/blob/main/README-EN.md) - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
+- [MeterSphere](https://github.com/metersphere/metersphere) - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
 - [Carrier](https://getcarrier.io/) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
 
 ### Conversion
@@ -86,6 +87,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [swaggerjmx](https://github.com/Pactortester/swaggerjmx) - Tool to convert Swagger UI specification into JMeter test plans.
 - [postman2jmx](https://github.com/Loadium/postman2jmx) - Postman collection to JMeter jmx file converter.
 - [convert-postman-jmeter](https://github.com/sercheo87/convert-postman-jmeter) - Convert Postman projects to JMeter.
+- [fiddler2jmeter](https://github.com/dperfly/fiddler2jmeter) - Fiddler or Charles to JMeter script convertor.
 
 ## CI
 
@@ -280,7 +282,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [How to write a plugin for JMeter](https://jmeter.apache.org/usermanual/jmeter_tutorial.html)
 - [How to build a JMeter plugin utilizing Groovy](https://web.archive.org/web/20180225144718/http://artur.ejsmont.org/blog/content/how-to-build-a-jmeter-plugin-utilising-groovy)
 - [How to create a plugin in JMeter](https://stackoverflow.com/questions/20422640/how-to-create-a-plugin-in-jmeter)
-- [Custom JMeter Samplers and Config Elements](http://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
+- [Custom JMeter Samplers and Config Elements](https://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
 - [Implement Custom JMeter Samplers](https://dzone.com/articles/implement-custom-jmeter-samplers)
 - [Hello JMeter plugin](https://github.com/Bugazelle/hello-jmeter-plugin) - A brief, clear & fast guide to create your first JMeter plugin.
 

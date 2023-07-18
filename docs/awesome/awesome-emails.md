@@ -98,6 +98,7 @@ AWESOME EMAILS ✉ ✨
 - [Reacher](https://reacher.email) - Check if an email exists without sending any email. Written in Rust, 100% open-source.
 - [Kickbox](https://kickbox.com) - Email verification service (check an email exists).
 - [Forward Email](https://forwardemail.net) - The 100% open-source and privacy-focused email service.
+- [Campaign Cleaner](https://campaigncleaner.com) - The Ultimate Tool for Optimized, High-Performance Email Campaigns.
 
 ## Self-Hosted Services
 
@@ -153,6 +154,7 @@ AWESOME EMAILS ✉ ✨
 - [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
 - [Mailchimp](http://templates.mailchimp.com/) - Mailchimp Email Design Reference.
 - [Arstechnica](https://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/) - Tutorial on how to build your own email server.
+- [Mailmodo](https://www.mailmodo.com/email-templates/)- Mega Email Template Library, from where you can get the template for free or customize your own Email Templates
 
 ## Inspirations
 

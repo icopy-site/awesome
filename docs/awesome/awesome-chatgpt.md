@@ -56,6 +56,7 @@
 - [Actions](https://github.com/sindresorhus/Actions) - Use ChatGPT from the Shortcuts app on iOS and macOS.
 - [EasyChat AI](https://easychat-ai.app) - Native Windows app using the latest Windows 11 design lanquage.
 - [pgMagic](https://pgmagic.app) - macOS app that lets you query your PostgreSQL database using natural language. ($)
+- [Atua](https://atua.app) - macOS app to use ChatGPT in any app. ($)
 
 ## Web apps
 
@@ -85,6 +86,7 @@
 - [TaskMatrix](https://github.com/microsoft/TaskMatrix) - Combines ChatGPT with Visual Models for enhanced image-chat interactions.
 - [OpenChat](https://github.com/openchatai/OpenChat) - Personalized ChatGPT chatbot.
 - [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - Code interpreter integrated with ChatGPT.
+- [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - Personalized ChatGPT AI chatbot.
 
 ### Hosted
 
@@ -182,12 +184,13 @@
 - [kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - Kubernetes bot.
 - [CodeReview Bot](https://github.com/anc95/ChatGPT-CodeReview) - GitHub Actions bot.
 - [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) - GitHub Actions bot.
-- [chatgpt-create-unit-tests
-](https://github.com/zebroc/chatgpt-create-unit-tests) - GitHub Actions bot that analyses a pull request and adds unit tests if necessary.
+- [chatgpt-create-unit-tests](https://github.com/zebroc/chatgpt-create-unit-tests) - GitHub Actions bot that analyses a pull request and adds unit tests if necessary.
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - Chatbot for large PDF files.
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Wechat bot.
 - [Chat Bling](https://chatbling.net) - WhatsApp bot.
 - [chatgpt-telegram-bot](https://github.com/karfly/chatgpt_telegram_bot) - Telegram bot that supports voice messages.
+- [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - DuckDuckGo bot.
+- [BraveGPT](https://github.com/kudoai/bravegpt) - Brave Search bot.
 
 ## Integrations
 
@@ -211,6 +214,7 @@
 - [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides) - Create AI-powered presentations in Google Slides.
 - [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm) - Integrate ChatGPT capabilities into scikit-learn.
 - [ChatGPT-MD](https://github.com/bramses/chatgpt-md) - ChatGPT integration with Obsidian note-taking software.
+- [Chapyter](https://github.com/chapyter/chapyter) - Integrate ChatGPT capabilities into Jupyter Notebook.
 
 ## Packages
 
