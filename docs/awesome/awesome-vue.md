@@ -1386,6 +1386,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-bottom-sheet](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
 - [SDropdown](https://github.com/storinka/dropdown) - Highly customizable, simple and modern Vue 3 dropdown component.
 - [vue-awesome-sidebar](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for vue(3x) capable with vue-router.
+- [vue-use-fixed-header](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
 
 #### Minus Plus Input
 
@@ -1645,6 +1646,7 @@ _Display non-editable events in a Calendar_
 - [object-visualizer](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.
 - [vue-virtual-tree](https://github.com/lycHub/vue-virtual-tree) - Tree component for large amount of data, base on Vue3.
 - [vue-json-viewer](https://github.com/chenfengjw163/vue-json-viewer) - A JSON Tree View Support for incremental update components, base on Vue2 and Vue3.
+- [vue-hierarchy](https://github.com/pratik227/vue-hierarchy) - Library to display hierarchical data
 
 #### Graph
 
@@ -1822,6 +1824,7 @@ _Display non-editable events in a Calendar_
 - [v-image-magnifier](https://github.com/fchancel/v-image-magnifier) - A Vue 3 plugin that provides interactive image zoom functionality. Allow users to zoom in on an image by hovering over it, providing an enlarged view of the corresponding part of the image. 
 - [Everright-filter](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
 - [@kolirt/vue-web3-auth](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
+- [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
 
 #### Tabs
 

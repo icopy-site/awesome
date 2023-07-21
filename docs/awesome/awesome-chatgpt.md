@@ -140,6 +140,7 @@
 - [ChatGPT Auto Refresh](https://github.com/adamlui/chatgpt-auto-refresh) - Keeps ChatGPT sessions fresh to avoid network errors and Cloudflare checks.
 - [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - Brings the magic of ChatGPT to search results.
 - [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
+- [ChatGPT Auto-Continue](https://github.com/adamlui/chatgpt-auto-continue) - Automatically clicks "Continue generating" when responses are cut off.
 
 **Bookmarklets**
 
@@ -215,6 +216,7 @@
 - [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm) - Integrate ChatGPT capabilities into scikit-learn.
 - [ChatGPT-MD](https://github.com/bramses/chatgpt-md) - ChatGPT integration with Obsidian note-taking software.
 - [Chapyter](https://github.com/chapyter/chapyter) - Integrate ChatGPT capabilities into Jupyter Notebook.
+- [I Don't Care About Commit Message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - Auto-generate commit messages and push actions in VS Code.
 
 ## Packages
 

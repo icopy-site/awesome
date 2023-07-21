@@ -15,7 +15,7 @@
 </div>
 </br>
 
-> Probably the best-curated list of data science software in Python
+> Probably the best curated list of data science software in Python
 
 
 ## Machine Learning
