@@ -38,6 +38,7 @@
 - [Limelight](https://limelightvision.io/) - A plug-and-play vision solution built for FRC.
 - [ChickenVision](https://github.com/team3997/ChickenVision) - An easy to implement vision system created by Team 3997.
 - [SERT Vision](https://github.com/SouthEugeneRoboticsTeam/vision) - A Jetson-powered OpenCV vision tracking solution, complete with status GUI and NetworkTable hooks.
+- [GRIP](https://github.com/WPIRoboticsProjects/GRIP) - An application for rapidly prototyping and deploying computer vision algorithms.
 
 ## Scouting
 
