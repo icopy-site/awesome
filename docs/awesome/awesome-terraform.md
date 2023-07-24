@@ -52,6 +52,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Terraform in Action](https://www.manning.com/books/terraform-in-action)
 - [Terraform: Up & Running, 3rd ed.](https://www.terraformupandrunning.com/)
 - [The Terraform Book](https://terraformbook.com/)
+- [IaC starting with Terraform(Korean)](https://product.kyobobook.co.kr/detail/S000202478097)
 
 ## Tutorials and Blog Posts
 
@@ -349,8 +350,9 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tfrepl](https://github.com/andreineculau/tfrepl) - A Terraform REPL, giving you a full shell experience. Readline based. No dependencies. Save config changes. History.
 - [tfscaffold](https://github.com/tfutils/tfscaffold) - Framework for controlling multi-environment multi-component terraform-managed AWS infrastructure.
 - [tfschema](https://github.com/minamijoyo/tfschema) - Schema inspector for Terraform providers.
-- [tftree](https://github.com/busser/tftree) - Display your Terraform module call stack in your terminal.
 - [tftarget](https://github.com/future-architect/tftarget) - CLI Tool to do `terraform xxx -target={...}` interactively.
+- [tftree](https://github.com/busser/tftree) - Display your Terraform module call stack in your terminal.
+- [tftui](https://github.com/idoavrah/terraform-tui) - A textual user interface for Terraform state.
 - [tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform configurations.
 - [tfvaultenv](https://github.com/oulman/tfvaultenv) - tfvaultenv reads secrets from HashiCorp Vault and outputs environment variables for various Terraform providers with those secrets.
 - [tfvar](https://github.com/shihanng/tfvar) - tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.

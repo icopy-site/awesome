@@ -1732,6 +1732,7 @@ Most of these are paid services, some have free tiers.
 - [UITestHelper](https://github.com/evermeer/UITestHelper) - UITest helper library for creating readable and maintainable tests.
 - [ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
 - [AutoMate](https://github.com/PGSSoft/AutoMate) - XCTest extensions for writing UI automation tests.
+- [Marathon Runner](https://github.com/MarathonLabs/marathon) - Fast, platform-independent test runner focused on performance and stability execute tests.
 
 ### Other Testing
 - [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device.
@@ -3183,6 +3184,7 @@ Most of these are paid services, some have free tiers.
 - [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 - [Fireside Swift](https://podcasts.apple.com/us/podcast/fireside-swift/id1269435221?mt=2)
 - [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
+- [Stacktrace](https://stacktracepodcast.fm)
 
 ## Books
 - [The Swift Programming Language by Apple](https://books.apple.com/us/book/swift-programming-language/id881256329)

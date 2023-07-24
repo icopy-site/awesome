@@ -5,7 +5,9 @@
 
 Generative Artificial Intelligence is a technology that creates original content such as images, sounds, and texts by using machine learning algorithms that are trained on large amounts of data. Unlike other forms of AI, it is capable of creating unique and previously unseen outputs such as photorealistic images, digital art, music, and writing. These outputs often have their own unique style and can even be hard to distinguish from human-created works. Generative AI has a wide range of applications in fields such as of art, entertainment, marketing, academia, and computer science.
 
-Contributions to this list are welcome. Add links through [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) or create an [issue](https://github.com/steven2358/awesome-generative-ai/issues) to start a discussion.
+Contributions to this list are welcome. Before submitting your suggestions, please review the [Contribution Guidelines](https://github.com/steven2358/awesome-generative-ai/blob/master/CONTRIBUTING.md) to ensure your entries meet the criteria. Add links through [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) or create an [issue](https://github.com/steven2358/awesome-generative-ai/issues) to start a discussion.
+
+Also, explore our special showcase, the [Discoveries List](https://github.com/steven2358/awesome-generative-ai/blob/master/DISCOVERIES.md), where we showcase a wide range of up-and-coming Generative AI projects.
 
 
 
@@ -36,6 +38,8 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) hosted by Alpa.
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. #opensource
+- [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. #opensource
+- [Claude 2](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic.
 
 ### Chatbots
 
@@ -266,6 +270,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - A collection of prompt examples to be used with the ChatGPT model.
 - [FlowGPT](https://flowgpt.com/) - Amplify your workflow with the best prompts.
 - [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of useful data science prompts for ChatGPT.
+- [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - Another awesome list for ChatGPT.
 
 ## Autonomous agents
 
