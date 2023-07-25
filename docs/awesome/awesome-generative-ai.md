@@ -5,9 +5,7 @@
 
 Generative Artificial Intelligence is a technology that creates original content such as images, sounds, and texts by using machine learning algorithms that are trained on large amounts of data. Unlike other forms of AI, it is capable of creating unique and previously unseen outputs such as photorealistic images, digital art, music, and writing. These outputs often have their own unique style and can even be hard to distinguish from human-created works. Generative AI has a wide range of applications in fields such as of art, entertainment, marketing, academia, and computer science.
 
-Contributions to this list are welcome. Before submitting your suggestions, please review the [Contribution Guidelines](https://github.com/steven2358/awesome-generative-ai/blob/master/CONTRIBUTING.md) to ensure your entries meet the criteria. Add links through [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) or create an [issue](https://github.com/steven2358/awesome-generative-ai/issues) to start a discussion.
-
-Also, explore our special showcase, the [Discoveries List](https://github.com/steven2358/awesome-generative-ai/blob/master/DISCOVERIES.md), where we showcase a wide range of up-and-coming Generative AI projects.
+Contributions to this list are welcome. Before submitting your suggestions, please review the [Contribution Guidelines](https://github.com/steven2358/awesome-generative-ai/blob/master/CONTRIBUTING.md) to ensure your entries meet the criteria. Add links through [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) or create an [issue](https://github.com/steven2358/awesome-generative-ai/issues) to start a discussion. More projects can be found in the [Discoveries List](https://github.com/steven2358/awesome-generative-ai/blob/master/DISCOVERIES.md), where we showcase a wide range of up-and-coming Generative AI projects.
 
 
 
@@ -33,6 +31,7 @@ Also, explore our special showcase, the [Discoveries List](https://github.com/st
 
 ### Models
 
+- [GPT-3](https://openai.com/api/) - OpenAI's API provides access to GPT-3, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
 - [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
 - [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) hosted by Alpa.
@@ -102,6 +101,7 @@ Also, explore our special showcase, the [Discoveries List](https://github.com/st
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
+- [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
 
 ### Meeting assistants
 

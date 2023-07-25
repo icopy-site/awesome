@@ -712,6 +712,7 @@ Other places you can look for MicroPython Libraries:
 * [Micropython_MC3479](https://github.com/jposada202020/Micropython_MC3479) - MicroPython Driver for the MC3479 Accelerometer.
 * [MicroPython_MMA8451](https://github.com/jposada202020/MicroPython_MMA8451) - MicroPython module for the MMA8451 3-axis accelerometer.
 * [MicroPython_MMA8452Q](https://github.com/jposada202020/MicroPython_MMA8452Q) - MicroPython Driver for the NXP MMA8452Q Accelerometer.
+* [msa301-micropython-driver](https://github.com/wojciech-szmyt/msa301-micropython-driver) - Homebrew MicroPython driver for MSA301 3-axis accelerometer. Tested on Raspberry Pico.
 
 #### Air Quality
 
@@ -1142,6 +1143,7 @@ Other places you can look for MicroPython Libraries:
 * [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
 * [MPRemoteEditor](https://github.com/joewez/MPRemoteEditor) - A simple Windows IDE for developing with MicroPython MPRemote devices.
 * [uPyExplorer](https://github.com/RetepRelleum/uPyExplorer) - Explorer for MicroPython Device.
+* [mpr](https://github.com/bulletmark/mpr) - Wrapper for MicroPython mpremote tool.
 
 ## Miscellaneous
 
