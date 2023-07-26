@@ -34,6 +34,7 @@ Hydrogen is Shopify's open source stack for headless commerce.
 
 ## Apps & Integrations
 
+- [Algolia](https://github.com/algolia/shopify-hydrogen-algolia) - Search & discovery.
 - [Crossing Minds](https://github.com/Crossing-Minds/hydrogen-demo-store) - Product recommendation engine.
 - [Dynamic Yield](https://github.com/DynamicYield/shopify-hydrogen-demo) - Personalization.
 - [Nosto](https://github.com/Nosto/shopify-hydrogen-demo) - Personalization.
@@ -41,10 +42,10 @@ Hydrogen is Shopify's open source stack for headless commerce.
 - [Sanity](https://github.com/sanity-io/hydrogen-sanity-demo) - Headless CMS.
 - Contentful (Coming Soon)
 - Yotpo (Coming Soon)
-- Algolia (Coming Soon)
 - Rebuy (Coming Soon)
 - Netlify (Coming Soon)
 - Gorgias (Coming Soon)
+- Pack Digital (Coming Soon)
 
 ## Blog Posts
 
