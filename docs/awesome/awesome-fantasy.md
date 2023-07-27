@@ -38,6 +38,24 @@ Books:
 >
 > The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.
 
+#### [Art of the Adept](https://www.goodreads.com/series/269818-art-of-the-adept) (2019) _by [Michael G. Manning](https://www.goodreads.com/author/show/5021072.Michael_G_Manning)_ [4.4]
+
+A unique system of magic that follows the MC's learning journey so you discover all the wonder as well. - [@depperm](https://github.com/depperm)
+
+Books:
+
+- [The Choice of Magic](https://www.goodreads.com/book/show/51279226-the-choice-of-magic)
+- [Secrets of Spellcraft](https://www.goodreads.com/book/show/52748703-secrets-and-spellcraft)
+- [Scholar of Magic](https://www.goodreads.com/book/show/53497057-scholar-of-magic)
+- [Disciple of War](https://www.goodreads.com/book/show/56329571-disciple-of-war)
+- [The Wizard's Crown](https://www.goodreads.com/book/show/61167144-the-wizard-s-crown)
+
+> The ancient magic of wizards was anything but dark. It was the enlightenment that lifted humanity from the squalor of superstition, and the worship of fell spirits and capricious gods, but those days are gone. The shining glory of the sorcerers burned away the subtlety of wisdom, replacing it with easy power, held only in the hands of the elite—a new age built upon the elemental supremacy of aristocrats and the ignorance of the masses.
+>
+>But this will change, for the greatest power comes with knowledge, and the deeper teachings of wizardry have not been utterly lost. The last wizard of the old tradition still survives in solitude, nursing tired grudges and waiting for death.
+>
+>His passing might have gone unnoticed, but for the imposition of a youth too stubborn to accept his refusal to take an apprentice. With a new student comes new hope, and that hope has caused old powers to stir again. That the world will change is inevitable, but the shape of the future is anything but certain.
+
 #### [Black Company](https://www.goodreads.com/book/show/140671) (1984) _by [Glen Cook](https://en.wikipedia.org/wiki/Glen_Cook)_ [4]
 
 This is my favorite dark fantasy series and the first book is awesome. These are written so differently than any fantasy-esque book I've ever read. It is difficult to describe, but as a veteran, it just feels like you're reading a fantasy book written by a former soldier that's been there, crude jokes, blood and all. I highly recommend this. - [@PeerRails](https://github.com/PeerRails)
@@ -432,6 +450,18 @@ Books:
 
 > To the forest on the shore of the Kingdom of the Isles, the orphan Pug came to study with the master magician Kulgan. His courage won him a place at court and the heart of a lovely Princess, but he was ill at ease with normal wizardry. Yet his strange magic may save two worlds from dark beings who opened space-time to renew the age-old battle between Order and Chaos.
 
+#### [The Riyria Chronicles](https://www.goodreads.com/series/175806-the-riyria-chronicles) (2013) _by [Michael J. Sullivan](https://en.wikipedia.org/wiki/Michael_J._Sullivan_(author))_ [4.3]
+
+Writing a good prequel is hard, but this series masterfully introduces the main characters. If you're reading by publishing year, it fills in the blanks in much of Royce and Hadrian's origin story that is hinted at later on. - [@depperm](https://github.com/depperm)
+
+> A warrior with nothing to fight for is paired with a thieving assassin with nothing to lose. Together they must steal a treasure that no one can reach. The Crown Tower is the impregnable remains of the grandest fortress ever built and home to the realm’s most valuable possessions. But it isn’t gold or jewels the old wizard is after, and this prize can only be obtained by the combined talents of two remarkable men. Now if Arcadius can just keep Hadrian and Royce from killing each other, they just might succeed.
+
+#### [The Riyria Revelations](https://www.goodreads.com/series/96465-the-riyria-revelations) (2008) _by [Michael J. Sullivan](https://en.wikipedia.org/wiki/Michael_J._Sullivan_(author))_ [4.2]
+
+Chronologically this is second, but this series was published first. This series is what pulled me into reading all of Michael J Sullivan's other writings. Dynamic duos make a great story, and it's the same for this set of series. - [@depperm](https://github.com/depperm)
+
+> There is no ancient evil to defeat, no orphan destined for greatness, just two guys in the wrong place at the wrong time. Royce Melborn, a skilled thief, and his mercenary partner, Hadrian Blackwater make a profitable living carrying out dangerous assignments for conspiring nobles until they become the unwitting scapegoats in a plot to murder the king. Sentenced to death, they have only one way out...and so begins this tale of treachery and adventure, sword fighting and magic, myth and legend.
+
 #### [The Silmarillion](http://www.goodreads.com/book/show/7332.The_Silmarillion) _by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)_ [3.8] :fire:
 
 This is one of the most ridiculous forays into world building, ever. At times, it reads like a textbook, but there are sections that are extremely powerful and characters that are gripping. The Silmarillion takes a bit more imagination and fortitude than the Lord of the Rings, but is worth the effort, especially if you've already read his other books a few times and want more. - [@RichardLitt](https://github.com/RichardLitt)
@@ -453,6 +483,18 @@ Books:
 - [Oathbringer](https://www.goodreads.com/book/show/34002132-oathbringer) [4.73] :fire:
 - [Rhythm of War](https://www.goodreads.com/book/show/49021976-rhythm-of-war) [4.63]
 - _More coming_
+
+#### [The Wandering Inn](https://www.goodreads.com/series/265443-the-wandering-inn) (2018) _by [Pirateaba](https://www.goodreads.com/author/show/18265573.Pirateaba)_ [4.3]
+
+Initially this started as a webserial, which might indicate shorter length, but there are 9 volumes (each 1k+ pages). While there are LitRPG themes of a sort, this is more of people being transported into another world not a game. The world building is some of the best: countries (with politics), magic, characters (good, bad, side), plans/plots, bias/hatred, and unique monsters. - [@depperm](https://github.com/depperm)
+
+> “No killing Goblins.”
+>
+>So reads the sign outside of The Wandering Inn, a small building run by a young woman named Erin Solstice. She serves pasta with sausage, blue fruit juice, and dead acid flies on request. And she comes from another world. Ours.
+>
+>It’s a bad day when Erin finds herself transported to a fantastical world and nearly gets eaten by a Dragon. She doesn’t belong in a place where monster attacks are a fact of life, and where Humans are one species among many. But she must adapt to her new life. Or die.
+>
+>In a dangerous world where magic is real and people can level up and gain classes, Erin Solstice must battle somewhat evil Goblins, deadly Rock Crabs, and hungry [Necromancers]. She is no warrior, no mage. Erin Solstice runs an inn.
 
 #### [The Wheel of Time](https://en.wikipedia.org/wiki/The_Wheel_of_Time) _by [Robert Jordan](https://en.wikipedia.org/wiki/Robert_Jordan) (and [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson))_ [4.15] :fire:
 
@@ -499,6 +541,26 @@ Books:
 > After serving out a year of hard labor in the salt mines of Endovier for her crimes, 18-year-old assassin Celaena Sardothien is dragged before the Crown Prince. Prince Dorian offers her her freedom on one condition: she must act as his champion in a competition to find a new royal assassin.
 > Her opponents are men-thieves and assassins and warriors from across the empire, each sponsored by a member of the king's council. If she beats her opponents in a series of eliminations, she'll serve the kingdom for four years and then be granted her freedom. Celaena finds her training sessions with the captain of the guard, Westfall, challenging and exhilarating. But she's bored stiff by court life. Things get a little more interesting when the prince starts to show interest in her ... but it's the gruff Captain Westfall who seems to understand her best.
 > Then one of the other contestants turns up dead ... quickly followed by another. Can Celaena figure out who the killer is before she becomes a victim? As the young assassin investigates, her search leads her to discover a greater destiny than she could possibly have imagined.
+
+#### [Tortall](https://www.goodreads.com/series/50262-tortall) (1983) _by [Tamora Pierce](https://en.wikipedia.org/wiki/Tamora_Pierce)_ [4.3]
+
+These are a collection of series that all focus on female protagonists in unique fantasy jobs, from law enforcement to magicians. Each exist in the same universe but are generally years apart, so there are hints of other periods but each series can easily stand on its own. - [@depperm](https://github.com/depperm)
+
+Series:
+
+- [Beka Cooper](https://www.goodreads.com/series/44532-beka-cooper)
+- [The Song of the Lioness](https://www.goodreads.com/series/43928-song-of-the-lioness)
+- [The Immortals](https://www.goodreads.com/series/49863-immortals)
+- [The Protector of the Small](https://www.goodreads.com/series/43815-protector-of-the-small)
+- [Tricksters](https://www.goodreads.com/series/43688-daughter-of-the-lioness)
+
+> The area known as Tortall and its surrounding countries is a medieval fantasy universe, emerging from a time in the north when only men were permitted to hold knighthoods.  It is the home of an interesting assortment of heroes, many of them girls, who have found ways to make a difference in a world that can be hard and bloody–as knights, as mages (wizards), as spies, as law enforcement.
+>
+>On the field of battle or in the corridors of noble houses, flanked by companions human, animal, and sometimes other, the Tortall heroes always have their work cut out for them.  There is military danger from neighbors like northern Scanra, eastern Tusaine, and worst of all, imperial Carthak in the south, with its ever-hungry slave culture and its greedy mage emperor.  Pirates from Carthak, Scanra, and the Copper Isles haunt Tortall’s eastern shores.  And in a country both large and sparsely policed, there is always a risk of conflict, be it from rebel nobles, the impoverished people of the eastern hills, or the barely vanquished Bazhir tribes.
+>
+>Its monarchs range from kind to fumbling to formidable, as do its thieves, its mages, its priests, its warriors, and most of all, its gods.  These are very much present in the lives of the people, taking up champions and taking against those who have angered them.  They are joined by god-like creatures–winged horses; giant spiders with human heads; dragons; griffins; giants; huge, icy lizards that hunt down thieves no matter what stands in their way.
+>
+>It is a beautiful, perilous place, where teenagers and adults can make their mark on a magical world!
 
 ### Standard Fantasy
 
@@ -850,6 +912,12 @@ Kate DiCamillo takes us on an extraordinary journey, from the depths of the ocea
 > Once, in a house on Egypt Street, there lived a china rabbit named Edward Tulane. The rabbit was very pleased with himself, and for good reason: he was owned by a girl named Abilene, who treated him with the utmost care and adored him completely.
 >
 > And then, one day, he was lost.
+
+#### [Usagi Yojimbo](https://www.goodreads.com/series/71007-usagi-yojimbo) (1987) _by [Stan Sakai](https://en.wikipedia.org/wiki/Stan_Sakai)_ [4.1]
+
+This series does a great job of portraying samurai life in ancient Japan, with characters who are all animals. The artistic style is simple and clean. - [@depperm](https://github.com/depperm)
+
+> Miyamoto Usagi is no Bugs Bunny. He's a rabbit bodyguard, a samurai who wanders the mountains, plains, and villages of a 17th-century Japan populated almost exclusively by anthropomorphic animals. Cats, snakes, rhinos, and ninja moles plot and fight their way across a land ravaged by civil war. The 10 stories in this first collection introduce Usagi, the evil Lord Hikiji, and a host of other characters. The stories themselves can stand alone, but taken together they begin to form an ongoing saga of treachery and revenge. Sometimes violent, sometimes funny, Usagi's adventures are filled with fascinating historical detail. The costumes, landscapes, and buildings are beautifully drawn, creating such a sense of realism it's easy to forget the hero is a rabbit. If you buy the first book in this series, you'll want the rest.
 
 ## Movies
 
