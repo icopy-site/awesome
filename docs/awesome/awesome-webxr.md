@@ -151,7 +151,7 @@
 - [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.
   - [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
-- [X3DOM](https://x3dom.org) - A framework for integrating and manipulating X3D scenes as HTML5/DOM elements. Support will be included in release 1.8.3. Until then, build from master branch of the [GitHub repository](https://github.com/x3dom/x3dom).
+- [X3DOM](https://x3dom.org) - A framework for integrating and manipulating X3D scenes as HTML5/DOM elements.
   - [Official Documentation](https://doc.x3dom.org/)
 
 ### Other

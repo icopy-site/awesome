@@ -11,6 +11,8 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 
 ## Papers
 ### 2023
+- [Auditing Yelp’s Business Ranking and Review Recommendation Through the Lens of Fairness](https://arxiv.org/pdf/2308.02129.pdf) - (Arxiv) *Audits the fairness of Yelp’s business
+ranking and review recommendation systems, with demographic parity, exposure, and statistical tests such as quantile linear and logistic regression.*
 - [Confidential-PROFITT: Confidential PROof of FaIr Training of Trees](https://openreview.net/pdf?id=iIfDQVyuFD) - (ICLR) *Proposes fair decision tree learning algorithms along with zero-knowledge proof protocols to obtain a proof of fairness on the audited server.*
 - [SCALE-UP: An Efficient Black-box Input-level Backdoor Detection via Analyzing Scaled Prediction Consistency](https://arxiv.org/pdf/2302.03251.pdf) - (ICLR) *Considers backdoor detection under the black-box setting in machine learning as a service (MLaaS) applications.*
 ### 2022
@@ -21,6 +23,7 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 - [Look at the Variance! Efficient Black-box Explanations with Sobol-based Sensitivity Analysis](https://proceedings.neurips.cc/paper/2021/file/da94cbeff56cfda50785df477941308b-Paper.pdf) - (NeurIPS) *Sobol indices provide an efficient way to capture higher-order interactions between image regions and their contributions to a (black box) neural network’s prediction through the lens of variance.*
 - [Your Echos are Heard: Tracking, Profiling, and Ad Targeting in the Amazon Smart Speaker Ecosystem](https://arxiv.org/pdf/2204.10920.pdf) - (arxiv) *Infers a link between the Amazon Echo system and the ad targeting algorithm.*
 ### 2021
+- [When the Umpire is also a Player: Bias in Private Label Product Recommendations on E-commerce Marketplaces](https://arxiv.org/pdf/2102.00141.pdf) - (FAccT) *Do Amazon private label products get an unfair share of recommendations and are therefore advantaged compared to 3rd party products?*
 - [Everyday Algorithm Auditing: Understanding the Power of Everyday Users in Surfacing Harmful Algorithmic Behaviors](https://arxiv.org/pdf/2105.02980.pdf) - (CHI) *Makes the case for "everyday algorithmic auditing" by users.*
 - [Auditing Black-Box Prediction Models for Data Minimization Compliance](https://www.cs.bu.edu/faculty/crovella/paper-archive/minimization-audit-Neurips21.pdf) - (NeurIPS) *Measures the level of data minimization satisfied by the prediction model using a limited number of queries.*
 - [Setting the Record Straighter on Shadow Banning](https://arxiv.org/abs/2012.05101) - (INFOCOM)  [(Code)](https://gitlab.enseeiht.fr/bmorgan/infocom-2021) *Considers the possibility of shadow banning in Twitter (ie, the moderation black-box algorithm), and measures the probability of several hypothesis.*
