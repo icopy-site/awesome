@@ -16,6 +16,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 ## Learning
 
 - [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - Interactive learning for quantum gate computing by David Kemp.
+- [Black Opal](https://q-ctrl.com/black-opal) - An interactive platform for learning the fundamentals of quantum computing.
 - [CNOT](https://cnot.io/) - Easy to understand, step by step introduction to quantum computing concepts.
 - [Chris Ferrie](https://csferrie.medium.com/) - Univeristy Professor in Sydney, Australia, author of Quantum Computing for babies (and many more) as well as excellent Quantum Computing lectures on Medium.
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) - Tutorials for Rigetti Computing's SDK.
@@ -65,8 +66,10 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 - [Amazon Braket](https://aws.amazon.com/braket/) - Fully managed service providing a development environment to run quantum circuits on quantum simulators and computers.
 - [Blueqat](https://github.com/Blueqat/Blueqat) - Software development kit in Python for quantum gate computing.
+- [Boulder Opal](https://q-ctrl.com/boulder-opal) - Python toolset for automating and optimizing quantum hardware performance.
 - [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
 - [Covalent](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
+- [Fire Opal](https://q-ctrl.com/fire-opal) - Python package for improving the quality of quantum algorithm results.
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) - Online quantum composer to run experiments on real quantum computing hardware.
 - [Mitiq](https://mitiq.readthedocs.io/) - Python toolkit for implementing error mitigation techniques on quantum computers.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
@@ -142,6 +145,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Circuit Sessions](https://www.youtube.com/watch?v=Omv-bPvQ3E8&list=PLOFEBzvs-VvrRlVz7wqaqmaMZj_ZK2Afe) - Qiskit series exploring the value and use of quantum circuits through a lecture series by academics and industry researchers.
 - [Coding with Qiskit video series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) - YouTube video series showing how to write quantum algorithms.
 - [Introduction to Quantum Programming](https://skillsmatter.com/skillscasts/11929-programming-the-world-s-first-quantum-computers-using-forest) - The why and how of quantum programming with a focus on the Python Forest SDK from Rigetti.
+- [Ph/CS 219A at Caltech: Quantum Computation](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu) - Lectures for the first term of a course on quantum computation taught at Caltech in Fall 2020, by John Preskill.
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM) - Microsoft Research Talk on introductory quantum computing for computer scientists. Duration: 1 hour, 28 minutes.
 - [Quantum Computing for the Determined](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4) - A series of lectures on quantum computing basics by [Michael Nielsen](http://michaelnielsen.org/).
 - [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - A series of lectures on quantum computing by [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/).
