@@ -1878,6 +1878,23 @@ Deleted branch bugfix/test (was e2afad6).
 Deleted branch too-old-branch (was 1d3f82d).
 ```
 
+## [git-spend](https://github.com/Goutte/git-spend)
+
+Collect and sum the `/spend <duration>` directives found in commit messages.
+
+```
+$ git spend sum
+3 weeks 2 days 1 hour 37 minutes
+```
+
+### Filter by author, range, and more
+
+```
+$ git spend sum --author stevemao --author antoine@goutenoir.com --since tags/v1.0.0
+1 week 3 hours
+```
+
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
