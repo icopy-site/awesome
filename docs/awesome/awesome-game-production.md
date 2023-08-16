@@ -96,6 +96,9 @@ Many post-mortems here are back from the day, and might seem outdated and not us
 - [How The Witcher Devs Turn Great Ideas Into Game Features](https://youtu.be/moW8-MXjivs?t=2092) - Timestamped video, where Lead Game Designer from CD Project Red talks about their approach to breaking down the game into features and **prioritizing** them. Can be used as a framework as-is in your production.
 - 🔥 [One-Page Designs](https://www.youtube.com/watch?v=GXmsxYm0Mk0) - You know how in agile you want to make sure your user stories are concise and _not_ too detailed to incentivize communication? This video explains how you could apply the same principle to game design documents. Visualizing to make sure everyone discussing the design is on the same page also reminded me of the [User Story Mapping](#story-mapping) book. Watch, because it might just change your GD pipeline.
 
+### Courses
+- [Deeply Practical Project Management](https://www.udemy.com/course/deeply-practical-project-management/) - This is what you'd call a "no BS" course on project management. Concise, to the point, and highly practical. It is not focused on game development, but I think you should still take it, because it closes many (if not all) gaps with just one course (~9 hours). Once completed, just adapt to your needs or just use some of the principles. It also includes numerous document templates and examples.
+
 ## 🔧 Tools and templates
 
 As a producer, you might need a few tools to help you deliver the damn thing. Some of these may not be useful to you directly, but I might have include one if I think you should at least know such a tool exists. This is to help you gain a few credits in your team.
