@@ -16,7 +16,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Security](#security) 
 - [SEO](#seo) 
 - [Serialization](#serialization) 
-- [Sitecore Host](#sitecore-host) 
+- [Sitecore Send](#sitecore-send) 
 - [WebApi](#webapi) 
 
 > Please note, **Awesome Sitecore** list only classifies and reviews useful GitHub repositories you may benefir from. 
@@ -368,6 +368,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Hostbase](https://github.com/muso31/Hostbase) - Sitecore Host example solution which can be used as a starting point for Sitecore Host applications. Currently runs in the IdentityServer Host as a plugin, will be updated when standalone Sitecore Host applications become readily available.
 - [Sitecore Host Plugins](https://github.com/JuliusAngwenyi/SitecoreHostPlugins) - Sitecore Host Plugins for extending Sitecore Identity Server.
 - [Basic Sitecore Host Application](https://github.com/georgechang/schost-basic) - A basic Sitecore Host application that displays a demo web page.
+
+## Sitecore Send
+
+- [Sitecore Send Postman Collection](https://github.com/neilkillen/SitecoreSendPostmanCollection) - A postman collection derived from converting the Sitecore Send API Blueprint specification to Open API for use within Postman.
 
 ## SPE (Sitecore PowerShell Extension)
 

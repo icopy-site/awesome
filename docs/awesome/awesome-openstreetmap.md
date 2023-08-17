@@ -128,6 +128,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Tracesmap](https://tracesmap.com/) - A map allowing for planning routes on OsmCarto and OpenTopoMap-derived retina maps.
 * [Visit Sights](https://visitsights.com/) - Suggestions for self-guided sightseeing tours by foot and overview of individual sights all around the world.
 * [Defikarte.ch](https://www.defikarte.ch) - A Map that shows all available defibrillators in Switzerland and Liechtenstein, also used by emergency dispatch centers and rescue services. (ℹ️ German only)
+* [Streets GL](https://github.com/StrandedKitty/streets-gl) OpenStreetMap 3D renderer powered by WebGL2 ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
 
 ### Mobile Maps
 
@@ -181,6 +182,9 @@ The services in this category allow you to track personal and fitness goals util
 * [osmnx](https://github.com/gboeing/osmnx) - Visualizer for street networks. ([Wiki](https://wiki.openstreetmap.org/wiki/OSMnx))
 * [python-mapnik](https://github.com/mapnik/python-mapnik) - Python wrapper for mapnik.
 * [prettymapp](https://github.com/chrieke/prettymapp) - Create beautiful maps from OpenStreetMap data.
+* [overpy](https://github.com/DinoTools/python-overpy) - A Python wrapper to access the Overpass API.
+* [overpassforge](https://github.com/Krafpy/Overpass-Forge) - A package to build Overpass queries from Python objects.
+* [humanized_opening_hours](https://github.com/rezemika/humanized_opening_hours) - A package to parse the `opening_hours` tag.
 
 ### Java
 
