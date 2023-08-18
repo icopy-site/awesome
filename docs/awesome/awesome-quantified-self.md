@@ -82,6 +82,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Tictrac](https://tictrac.com/) - Dashboard for health and fitness data (web).
 - [QS Access](https://apps.apple.com/us/app/qs-access/id920297614) - Export Apple Health data into CSV table format (iOS).
 - [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-purpose tracker (Android).
+- [BiomarkerDash](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
 
 ### Automation
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and event triggering app (Android).
@@ -247,6 +248,8 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [QS Ledger](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
 - [Awesome Biomarkers](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
 - [health-records](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
+- [Timeliner](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
+- [TimelineBuilder](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
 
 
 ## License
