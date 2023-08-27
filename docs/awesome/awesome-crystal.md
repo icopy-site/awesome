@@ -61,6 +61,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ssh2.cr](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
  * [syslog.cr](https://github.com/chris-huxtable/syslog.cr) - Bindings for `syslog`
  * [wasmer-crystal](https://github.com/naqvis/wasmer-crystal) - Bindings for the `wasmer` WebAssembly runtime
+ * [win32cr](https://github.com/mjblack/win32cr) - Bindings for Win32 API
  * [x_do.cr](https://github.com/woodruffw/x_do.cr) - Bindings for libxdo ([`xdotool`](https://github.com/jordansissel/xdotool))
 
 ## Caching
@@ -225,6 +226,7 @@ described in [RFC 8032]
 ## HTML Builders
  * [blueprint](https://github.com/gunbolt/blueprint) - Write reusable and testable HTML templates in plain Crystal
  * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
+ * [to_html](https://github.com/sbsoftware/to_html.cr) - The fastest HTML builder engine for Crystal
  * [Water](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
 
 ## HTML/XML Parsing
