@@ -46,6 +46,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 
 ## Export 
 - [ElectronForConstruct](https://electronforconstruct.armaldio.xyz) - Export your games using Electron instead of NW.js.
+- [AppPlayer-Electron](https://github.com/Floflis/AppPlayer-Electron) - Preview Construct 2 apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux
 - [Chowdren](https://mp2.dk/chowdren/) - Blazingly fast runtime for Clickteam Fusion and Scirra Construct.
 
 ## Plugins/Behaviors/Effects
