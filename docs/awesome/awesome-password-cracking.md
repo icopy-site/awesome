@@ -168,6 +168,8 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### Analysis
 - [PACK](https://github.com/iphelix/pack) - A collection of utilities developed to aid in analysis of password lists in order to enhance password cracking through pattern detection of masks, rules, character-sets and other password characteristics.
+- [password-smelter](https://github.com/TheTechromancer/password-smelter) - Ingests passwords from hashcat, etc. and outputs to HTML, Markdown, XLSX, PNG, JSON. Dark and light themes supported. Compliments password-stretcher.
+- [password-stretcher](https://github.com/thetechromancer/password-stretcher) - Generate "disgusting quantities" of passwords from websites, files, or stdin. Compliments password-smelter.
 - [pcfg_cracker](https://github.com/lakiw/pcfg_cracker) - This project uses machine learning to identify password creation habits of users.
 - [Pipal](https://github.com/digininja/pipal) - THE password analyser.
 - [PwdStat](https://github.com/jakewnuk/pwdstat) - Tool for identifying systemic password usage, creating password masks, and analyzing cracked password samples with human readable statistics to help defenders.
@@ -175,6 +177,8 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### Generation/Manipulation
 
+- [accent_permutator](https://github.com/cyclone-github/accent_permutator) - A tool to transform characters from ASCII / UTF-8 to accented characters such as "o" to "ò".
+- [anew](https://github.com/tomnomnom/anew) - Append lines from stdin to a file, but only if they don't already appear in the file. Outputs new lines to stdout too, making it a bit like a tee -a that removes duplicates.
 - [common-substr](https://github.com/sensepost/common-substr) - Simple tool to extract the most common substrings from an input text. Built for password cracking.
 - [Crunch](https://sourceforge.net/projects/crunch-wordlist/) - Crunch is a wordlist generator where you can specify a standard character set or a character set you specify. Crunch can generate all possible combinations and permutations.
 - [CUPP](https://github.com/Mebus/cupp) - A tool that lets you generate wordlists by user profiling data such as birthday, nickname, address, name of a pet or relative etc.
@@ -193,6 +197,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [Rephraser](https://github.com/travco/rephraser) - A Python-based reimagining of Phraser using Markov-chains for linguistically-correct password cracking.
 - [Rling](https://github.com/Cynosureprime/rling) - RLI Next Gen (Rling), a faster multi-threaded, feature rich alternative to rli found in hashcat utilities.
 - [statsprocessor](https://github.com/hashcat/statsprocessor/) - Word generator based on per-position markov-chains.
+- [StringZilla](https://github.com/ashvardanian/StringZilla) - Fastest string sort, search, split, and shuffle for long strings and multi-gigabyte files in Python and C.
 - [TTPassGen](https://github.com/tp7309/TTPassGen) - Flexible and scriptable password dictionary generator which supportss brute-force, combination, complex rule modes etc.
 - [token-reverser](https://github.com/dariusztytko/token-reverser) - Words list generator to crack security tokens.
 - [WikiRaider](https://github.com/NorthwaveSecurity/wikiraider) - WikiRaider enables you to generate wordlists based on country specific databases of Wikipedia.
@@ -236,6 +241,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 [](https://github.com/cupslab/neural_network_cracking) - Code for cracking passwords with neural networks.
 - [RNN-Passwords](https://github.com/gehaxelt/RNN-Passwords) - Using the char-rnn to learn and guess passwords.
 - [rulesfinder](https://github.com/synacktiv/rulesfinder) - This tool finds efficient password mangling rules (for John the Ripper or Hashcat) for a given dictionary and a list of passwords.
+- [PassGPT](https://github.com/javirandor/passgpt) - PassGPT is a GPT-2 model trained from scratch on password leaks.
 
 
 
@@ -253,6 +259,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [Reducing Bias in Modeling Real-world Password Strength via Deep Learning and Dynamic Dictionaries (2020)](https://arxiv.org/abs/2010.12269)
 - [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks (2016)](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher)
 - [PassGAN: A Deep Learning Approach for Password Guessing (2017)](https://arxiv.org/pdf/1709.00440)
+- [PassGPT: Password Modeling and (Guided) Generation with LLMs](https://arxiv.org/abs/2306.01545)
 
 ### Talks
 - [BsidesKY2023 - Leveling Up Password Attacks with Breach Data](https://github.com/JakeWnuk/Security-Conferences/blob/main/BsidesKY2023%20-%20Leveling%20Up%20Password%20Attacks%20with%20Breach%20Data.pdf)
