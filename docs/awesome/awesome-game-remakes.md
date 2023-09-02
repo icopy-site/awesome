@@ -129,6 +129,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [OpenNFS](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
 - [Vangers](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++.
 - [Vange-rs](https://github.com/kvark/vange-rs) - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
+- [wipEout Rewrite](https://github.com/phoboslab/wipeout-rewrite) - This is a re-implementation of the 1995 PSX game wipEout.
 
 ## Simulator
 - [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
@@ -145,6 +146,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Jagged Alliance Stracciatella](https://github.com/ja2-stracciatella/ja2-stracciatella) - Makes Jagged Alliance 2 available on a wide range of platforms.
 - [Julius](https://github.com/bvschaik/julius) - Reimplementation of Caesar III.
 - [KaM Remake](https://github.com/Kromster80/kam_remake) - RTS game remake of Knights and Merchants written in Delphi from scratch.
+- [KeeperFX](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
 - [KeeperRL](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
 - [openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
 - [OpenApocalypse](https://github.com/OpenApoc/OpenApoc) - Rebuild of the X-COM: Apocalypse engine.
@@ -162,6 +164,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer.
 - [OpenXcom](https://github.com/SupSuper/OpenXcom) - Clone of UFO: Enemy Unknown and X-COM: Terror From the Deep.
 - [OutpostHD](https://github.com/OutpostUniverse/OPHD) - Remake of Sierra On-Line's Outpost.
+- [Ozymandias](https://github.com/dalerank/Ozymandias) - An open source re-implementation of Pharaoh in the Julius/Augustus engine.
 - [Race into Space](https://github.com/raceintospace/raceintospace) - Version of Interplay's Buzz Aldrin's Race into Space.
 - [Return To The Roots](https://github.com/Return-To-The-Roots/s25client) - Settlers II remake written in C++.
 - [Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa) - GPL release of the Seven Kingdoms: Ancient Adversaries.
