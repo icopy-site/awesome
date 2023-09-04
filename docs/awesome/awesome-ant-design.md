@@ -58,6 +58,7 @@ These are tools and utilities to help build apps using Ant Design,
 - [formik-antd](https://github.com/jannikbuschke/formik-antd) - Declarative bindings for the popular form state management library Formik.
 - [Zaku](https://github.com/limichange/zaku) - JSX-based UI editor, easy way to build page and generate antd code.
 - [Antd-Pro-Generator for VS Code](https://github.com/garrett12138/antd-pro-generator) Generate Service/Mock/Model from Swagger2.0 or OpenApi3.x docs for Ant Design Pro.
+- [Ruyi Design Assistant](https://www.figma.com/community/plugin/1192146318523533547/) Ruyi Design Assistant helps you efficiently use React component libraries(AntDesign) and Design Tokens for design in Figma, and easily get production-level component code.
 
 ## Theming
 
@@ -123,6 +124,7 @@ A list of UI components built with Ant Design.
 - [antd-amplify-react](https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication
 - [antd-password-input-strength](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator.
 - [antd-amiya](https://github.com/viewweiwu/amiya) - Page level components and with table and form.
+- [antd-phone-input](https://github.com/ArtyomVancyan/antd-phone-input) - Advanced, highly customizable phone input component for Ant Design.
 
 ## React Hooks
 
@@ -134,6 +136,7 @@ A list of mature apps built with Ant Design.
 
 - [Eevee](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
 - [Productivity Application](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
+- [IDURAR ERP/CRM](https://github.com/idurar/idurar-erp-crm) - IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 
 ## Boilerplates
 
