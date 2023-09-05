@@ -20,7 +20,7 @@ Contributions are welcome. Please read the [contribution guidelines](https://git
 1. Get a Lisp environment.
 2. Bookmark the [The Common Lisp Hyperspec](http://www.lispworks.com/documentation/common-lisp.html).
 3. Download and work through a Lisp book of an appropriate level. Type the examples and play with the code. Feel free to switch books and try a different one.
-4. Try out [Exercism](http://exercism.io/languages/common-lisp/about).
+4. Try out [Exercism](https://exercism.org/tracks/common-lisp).
 5. If you get stuck, find an online community and [ask smart questions](http://www.catb.org/esr/faqs/smart-questions.html).
 6. Learn about [Quicklisp](https://www.quicklisp.org/beta/).
 7. At some point, read your Lisp implementation's manual.
