@@ -69,6 +69,13 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 
 
+## Concurrency
+* [mitchellh/libxev](https://github.com/mitchellh/libxev) - Cross-platform event-loop.
+* [kprotty/zefi](https://github.com/kprotty/zefi) - Fiber library.
+* [rsepassi/zigcoro](https://github.com/rsepassi/zigcoro) - coroutine-friendly, based on libxev.
+* [iacore/minicoro-zig](https://git.envs.net/iacore/minicoro-zig) - Bindings for minicoro - Stackful Stack-Switching Coroutine.
+
+
 ## Database
 * [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database designed for mission critical safety and performance.
 * [kristoff-it/redis-cuckoofilter](https://github.com/kristoff-it/redis-cuckoofilter) - Hashing-function agnostic Cuckoo filters for Redis.
@@ -141,7 +148,6 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) - Fediverse GTK Desktop Reader.
 * [MasterQ32/ZigPaint](https://github.com/MasterQ32/ZigPaint) - A simple paint application. Used to create an OpenGL loader/wrapper and a minimal UI system.
 
-
 ## Misc libraries
 * [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Bindings for the Lua C API.
 * [ryoppippi/zigcv](https://github.com/ryoppippi/zigcv) - Bindings for OpenCV4.
@@ -152,10 +158,12 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [mlarouche/zigimg](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
 * [ziglibs/known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 * [SasLuca/zig-nanoid](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
-* [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) - Zig bindings for libVLC media framework.
+* [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) - Bindings for libVLC media framework.
 * [karlseguin/log.zig](https://github.com/karlseguin/log.zig) - Structured logging library.
 * [dantecatalfamo/9p-zig](https://github.com/dantecatalfamo/9p-zig) - 9P2000 client/server library.
 * [karlseguin/singleflight.zig](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression.
+* [kassane/lean4-zig](https://github.com/kassane/lean4-zig) - Bindings for Lean 4 (theorem prover).
+
 
 ## Network
 * [MasterQ32/zig-network](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
@@ -210,6 +218,8 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [mattnite/gyro](https://github.com/mattnite/gyro) - Package manager with an index, build runner, and build dependencies.
 * [nektro/zigmod](https://github.com/nektro/zigmod) - Zig package manager.
 * [cheetah/asdf-zig](https://github.com/cheetah/asdf-zig) - Zig plugin for the ASDF package manager.
+* [mattnite/ezpkg](https://github.com/mattnite/ezpkg) - Zig Package Manager Expansion Pack.
+* [nix-community/zon2nix](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 
 ## Parser
@@ -235,27 +245,32 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
 * [iddev5/inon](https://github.com/iddev5/inon) - Data configuration file format.
 * [naneros/ztoml](https://codeberg.org/naneros/ztoml.git) - TOMLv1.0.0 parser and convert TOML to JSON.
+* [InKryption/comath](https://github.com/InKryption/comath) - Calculate math expressions in comptime.
 
 ## Learning resources
 * [belse-de/zig-tut](https://github.com/belse-de/zig-tut) - A collection of small projects and tutorials to learn Zig.
 * [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) - Zig learning resources.
+* [zighelp/zighelp](https://github.com/zighelp/zighelp) - Get up to speed with Zig quickly (ziglearn fork).
 * [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn Zig by fixing tiny example programs.
 
 
 ## C/C++ libraries packaged for Zig
 
-These C/C++ libraries were packaged to be used with the Zig build and packaging system (build.zig.)
+These C/C++ libraries were packaged to be used with the Zig build and packaging system (`build.zig`).
 
 ### C
 
 * [andrewrk/SDL](https://github.com/andrewrk/SDL) - Simple Directmedia Layer.
+* [andrewrk/libz](https://github.com/andrewrk/libz) - Zlib data compression.
 * [andrewrk/ffmpeg](https://github.com/andrewrk/ffmpeg) - library only.
 * [andrewrk/libgroove](https://github.com/andrewrk/libgroove) - streaming audio processing library.
 * [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio/tree/zig-pkg) - library for real-time audio input and output.
-* [kassane/openssl](https://github.com/kassane/openssl) - crypto, providers & ssl libraries only.
+* [kassane/openssl-zig](https://github.com/kassane/openssl-zig) - crypto, providers & ssl libraries only.
 * [kassane/wolfssl](https://github.com/kassane/wolfssl) - wolfssl library.
 * [kassane/libbpf](https://github.com/kassane/libbpf) - BPF CO-RE (Compile Once – Run Everywhere).
 * [kassane/winpthreads](https://github.com/kassane/winpthreads-zigbuild) - PThread library for MinGW.
+* [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
+* [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) - Creating Excel XLSX files.
 
 ### C++
 
@@ -263,13 +278,19 @@ These C/C++ libraries were packaged to be used with the Zig build and packaging 
 * [kassane/asio](https://github.com/kassane/asio) - (non-boost) Networking I/O library (w/ event-loop, C++14/17/20).
 * [kassane/fmt](https://github.com/kassane/fmt) - Modern formatting library.
 * [kassane/context](https://github.com/kassane/context) - (boost-context) fiber library (C++14/17/20).
+* [kassane/fiber](https://github.com/kassane/fiber) - (boost-fiber) userland threads (C++14/17/20).
+* [kassane/beast](https://github.com/kassane/beast) - (boost-beast) HTTP and WebSocket (C++14/17/20).
 * [kassane/hana](https://github.com/kassane/hana) - (boost-hana) Meta-programming library (header-only, C++14/17/20).
 * [kassane/intrusive](https://github.com/kassane/intrusive) - (boost-intrusive) intrusive containers (header-only, C++03/11/14).
+* [kassane/unordered](https://github.com/kassane/unordered) - (boost-unordered) hashmap and set concurrency containers (C++03/11/14).
 * [kassane/catch2](https://github.com/kassane/catch2) - Unit testing library (C++14/17/20).
 * [kassane/outcome](https://github.com/kassane/outcome) - (non-boost) Error handler (C++14/17/20).
 * [kassane/json](https://github.com/kassane/json) - jsoncpp ported to Zig packaging.
+* [kassane/Standalone-Server](https://github.com/kassane/Standalone-Server) - Asio standalone C++ HTTP/S Server.
 * [kassane/range-v3](https://github.com/kassane/range-v3) - modern range library (C++14/17/20).
 * [kassane/libzmq](https://github.com/kassane/libzmq) - ZeroMQ core engine in C++ library.
+* [kassane/libsigcplusplus](https://github.com/kassane/libsigcplusplus) - Typesafe callback system for standard C++.
+* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++.
 
 
 ## Other
