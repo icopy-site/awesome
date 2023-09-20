@@ -113,14 +113,9 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 [ada-planet-via-matrix]: https://matrix.to/#/#ada-lang:matrix.org
 
 ### Competition
-<div align="center">
-	<a href="http://www.makewithada.org/">
-		<img width="800px" src="https://hackster.imgix.net/uploads/attachments/1164282/_UAa0j7WX8u.blob?auto=compress%2Cformat&w=800&h=200&fit=min"/>
-	</a>
-</div>
 
 <div align="center">
-	<a href="https://blog.adacore.com/announcing-the-first-ada-spark-crate-of-the-year-award">
+	<a href="https://blog.adacore.com/ada-spark-crate-of-the-year-2022-winners-announced">
 		<img width="800px" src="https://raw.githubusercontent.com/AdaCore/Ada-SPARK-Crate-Of-The-Year/master/banner.jpg"/>
 	</a>
 </div>
