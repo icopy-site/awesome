@@ -3,9 +3,9 @@
 
 > A curated list of open-source projects related to esports.
 
-[Esports](https://en.wikipedia.org/wiki/Esports) (also known as electronic sports, or e-sports) is a form of competition using video games. It often takes the form of organized, multiplayer video game competitions, particularly between professional players, individually or as teams.
+[Esports](https://en.wikipedia.org/wiki/Esports) (also known as electronic sports or e-sports) is a form of competition using video games. It often takes the form of organized, multiplayer video game competitions, particularly between professional players, individually or as teams.
 
-Unmaintained projects, now only relevant for educational purposes are in the [Archive](https://github.com/strift/awesome-esports/blob/master/ARCHIVE.md).
+Unmaintained projects, now only relevant for educational purposes, are in the [Archive](https://github.com/strift/awesome-esports/blob/master/ARCHIVE.md).
 
 
 
@@ -24,7 +24,7 @@ Unmaintained projects, now only relevant for educational purposes are in the [Ar
 - SteamID - A library for manipulating Steam IDs.
   - [Node.js](https://github.com/DoctorMcKay/node-steamid)
   - [PHP](https://github.com/DoctorMcKay/php-steamid)
-- [SteamUser](https://github.com/DoctorMcKay/node-steam-user) - A Node.js library for interacting with the Steam network via the the Steam client protocol.
+- [SteamUser](https://github.com/DoctorMcKay/node-steam-user) - A Node.js library for interacting with the Steam network via the Steam client protocol.
 - [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) - A Node.js library for generating Steam-style 2FA codes.
 - [valorant.js](https://github.com/liamcottle/valorant.js) - A Node.js library for interacting with the VALORANT APIs used in game.
 
@@ -34,7 +34,7 @@ Unmaintained projects, now only relevant for educational purposes are in the [Ar
 
 ### Data parsing and analysis
 
-- [awpy](https://github.com/pnxenopoulos/awpy) - A Python library for parsing, analyzing and visualizing CS:GO data.
+- [awpy](https://github.com/pnxenopoulos/awpy) - A Python library for parsing, analyzing, and visualizing CS:GO data.
 - [Boxcars](https://github.com/nickbabcock/boxcars) - A Rust library for parsing Rocket League replays.
 - [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
 - [Clarity](https://github.com/skadistats/clarity) - A Java library for parsing CS:GO and Dota 2 replays.
@@ -54,11 +54,11 @@ Unmaintained projects, now only relevant for educational purposes are in the [Ar
 
 > Tooling for developers.
 
-- [Fortnite VSCode Theme](https://github.com/sdras/fortnite-vscode-theme) - A Visual Studio Code theme inspired by Fornite.
+- [Fortnite VSCode Theme](https://github.com/sdras/fortnite-vscode-theme) - A Visual Studio Code theme inspired by Fortnite.
 
-## Unofficial documentations
+## Unofficial documentation
 
-> Community-maintained documentations of editor APIs.
+> Community-maintained documentation of editor APIs.
 
 - [BNETDocs](https://github.com/BNETDocs/bnetdocs-web) - A documentation and discussion website for Blizzard and Battle.net protocols.
 - [Rift Explorer](https://github.com/Pupix/rift-explorer) - An automatically generated documentation of Riot Games LCU API.
@@ -82,7 +82,12 @@ Unmaintained projects, now only relevant for educational purposes are in the [Ar
 
 - [Foldy Sheet](https://github.com/chhopsky/foldysheet) - A Python script to determine whether teams can make playoffs or not.
 - [LeagueDirector](https://github.com/RiotGames/leaguedirector) - A desktop application for staging and recording videos from League of Legends replays.
-- [LeagueStats](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners stats.
+- [LeagueStats](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners' stats.
+
+## Education
+
+- [League of Legends Analytics](https://github.com/FloPrm/lol_analytics) - A collection of League of Legends data-related guides, libraries, and learning materials for Data Analysts.
+
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/strift/awesome-esports/blob/master/CONTRIBUTING.md) first.
