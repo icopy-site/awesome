@@ -851,6 +851,7 @@
 - [Quarto](awesome/awesome-quarto.md) - Scientific and technical open-source publishing system built on Pandoc.
 - [ChatGPT](awesome/awesome-chatgpt.md) - Artificial intelligence chatbot developed by OpenAI.
 - [Whisper](awesome/awesome-whisper.md) - Open-source AI-powered speech recognition system developed by OpenAI.
+- [Steam Deck](awesome/awesome-steam-deck.md) - A handheld gaming computer developed by Valve.
 
 ## Related
 
