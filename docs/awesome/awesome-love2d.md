@@ -30,6 +30,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [astar](https://github.com/xiejiangzhi/astar) - An other A* library. Any map(gird, point, mesh or infinite map) and support path cost.
 * [pathfun](https://github.com/apicici/pathfun) - Pure Lua library for 2D pathfinding using the funnel algorithm.
 * [beehive.lua](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
+* [Luafinding](https://github.com/GlorifiedPig/Luafinding) - Class-based A* implementation written purely in Lua.
 
 ## Animation
 *Animation & Frame-Managing Libraries*
@@ -54,6 +55,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Editgrid](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid.
 * [gamera](https://github.com/kikito/gamera) - Camera system.
 * [hump.camera](https://hump.readthedocs.io/en/latest/camera.html) - Camera library with window locking and smooth camera movement interpolation.
+* [parallax](https://github.com/idbrii/love-parallax) - Parallax scrolling with any camera system; seamlessly tile background images.
 
 ## Development
 *Development assisting Libraries, that enrich your development experience*
@@ -135,6 +137,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Input & Binding Libraries*
 
 * [baton](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls.
+* [GamepadGuesser](https://github.com/idbrii/love-gamepadguesser) - Get the right button icons for gamepads; load updated gamepad db.
 * [input](https://github.com/xiejiangzhi/input) -  Simple and powerful input library. support check operation time, sequence.
 * [Kazari](https://github.com/MikuAuahDark/Kazari) - Multitouch gesture and input library.
 * [love-microphone](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE.
@@ -248,6 +251,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [ngrading](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
 * [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader.
 * [Moonshine](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
+* [ShaderScan](https://github.com/idbrii/love-shaderscan) - Adds hot reload, includes, and better error messages for faster shader iteration.
 
 ## Testing
 *Libraries and Tools for Unit Testing*
@@ -279,6 +283,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Gspöt](https://notabug.org/pgimeno/Gspot) - A stateful GUI lib for LÖVE.
 * [Hanker](https://gitlab.com/Alloyed/hanker) - Maximalist immediate mode-ish UI elements; gamepad-friendly.
 * [Helium](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
+* [Layouter](https://github.com/nekromoff/layouter) - A simple UI **grid layout** library for LÖVE 2D game engine.
 * [ListBox](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs.
 * [LoveFrames Fork](https://github.com/linux-man/LoveFrames) - 11.2 Fork of a GUI library.
 * [Love Imgui](https://github.com/slages/love-imgui) - Imgui module for the LÖVE game engine.
