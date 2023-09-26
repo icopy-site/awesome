@@ -145,6 +145,9 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Destack for Next.js](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
 - [UseSIWE](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
 - [Runtime Environment Variables for Next.js](https://www.npmjs.com/package/@cuww/runtime-env) – Stop configuring ENV variables in CI/CD, use a cloud-native approach.
+- [next-google-tag-manager](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
+- [next-api-decorators](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
+
 
 ## Apps
 
@@ -225,6 +228,10 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [next js project - Twitter clone](https://youtu.be/PnvDPSg5bQM)
 - [Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel (2023)](https://youtu.be/ytkG7RT6SvU)
 - [NextJS 13 Tutorial: Create a Static Blog from Markdown Files](https://youtu.be/Hiabp1GY8fA)
+- [Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023](https://www.youtube.com/watch?v=c_-b_isI4vg&t=11529s)
+- [Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)](https://www.youtube.com/watch?v=PGPGcKBpAk8&t=1922s)
+- [Full Stack Spotify Clone: Next 13.4, React, Stripe, Supabase, PostgreSQL, Tailwind (2023)](https://youtube.com/watch?v=2aeMRB8LL4o&t=4402s)
+- [Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023](https://www.youtube.com/watch?v=5miHyP6lExg&t=1908s)
 
 
 ## Newsletters
