@@ -200,6 +200,19 @@ Screeb is a product-led user research platform helping product teams to build be
 | Platform  | Web                                |
 | URL       | https://screeb.app                 |
 
+### Obsidian
+
+Obsidian is a private and flexible writing app that adapts to the way you think. From personal notes to journaling, knowledge bases, and project management, Obsidian gives you the tools to come up with ideas and organize them. Turn your notes into an online wiki, knowledge base, documentation, or digital garden.
+
+![Obsidian](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/obsidian.png)
+
+| Property  | Value                                       |
+|-----------|---------------------------------------------|
+| Developer | [Obsidian, Inc.](https://obsidian.md)       |
+| Cost      | Paid if used commercially (_$50/user/year_) |
+| Platform  | iOS, Android, Windows, Mac, Linux           |
+| URL       | https://obsidian.md/                        |
+
 ## Articles
 
 There are a lot of folks that write great content that can help those wanting to excel and grow in the product management field to gain new perspectives. Treat the list below as an amalgamation of opinions, experiences, and patterns rather than as a definitive "list of things to always do."
