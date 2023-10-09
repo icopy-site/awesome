@@ -82,6 +82,7 @@ Below is a curated list of awesome software and other resources to enable those 
 
 ### 3D Printing and Fabrication
 
+ * [Printables](https://www.printables.com/) - Database of 3D-printable models with contests and an active community
  * [Thingiverse](https://www.thingiverse.com/) - A search engine for 3D-printable models.
  * [Ember](https://ember.autodesk.com/) - A comprehensively open-source DLP SLA 3D Printer project, powered by Autodesk.
  * [3D Printable Science Equipment](http://www.appropedia.org/3D_printable_science_equipment) - A list of different 3d-printable science objects with models.
