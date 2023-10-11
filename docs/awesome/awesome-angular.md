@@ -372,6 +372,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [GraphQL + Angular](https://github.com/apollographql/apollo-angular)
 * [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+
 * [ckeditor4-angular](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+
+* [TailwindCSS + Angular](https://tailwind-elements.com/docs/standard/integrations/angular-integration/) - Integrate Angular app with Tailwind
 
 #### Decorators
 
@@ -656,11 +657,16 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ng2-paginator](https://github.com/pleerock/ngx-paginator) Pagination control for angular2 and bootstrap 3
 * [ng2-tabs](https://github.com/pleerock/ngx-tabs) Tabs control for angular2 and bootstrap 3
 
+##### Tailwind CSS Based
+
+* [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
+
 #### UX Components
 
 * [angular-shepherd](https://github.com/shipshapecode/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd](https://github.com/shipshapecode/shepherd)
 * [ng2-archwizard](https://github.com/madoar/ng2-archwizard) - Wizard component for Angular 2
 * [ngx-app-tour](https://github.com/hamdiwanis/ngx-app-tour) - Angular2+ plugin for building a tour, showcase or a walkthrough for your app
+* [Zoom Image Library](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic headless-library to zoom image on the web
 
 #### Viewers
 
