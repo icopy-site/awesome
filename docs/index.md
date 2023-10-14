@@ -217,6 +217,7 @@
 	- [Typing](awesome/awesome-python-typing.md) - Optional static typing for Python.
 	- [MicroPython](awesome/awesome-micropython.md) - A lean and efficient implementation of Python 3 for microcontrollers.
 - [Rust](awesome/awesome-rust.md)
+ 	- [Pest](awesome/awesome-pest.md) - Parser generator.
 - [Haskell](awesome/awesome-haskell.md)
 - [PureScript](awesome/awesome-purescript.md)
 - [Go](awesome/awesome-go.md)
@@ -265,6 +266,7 @@
 - [V](awesome/awesome-v.md) - Simple, fast, safe, compiled language for developing maintainable software.
 - [Zig](awesome/awesome-zig.md) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [Move](awesome/awesome-move.md) - Domain-specific programming language for writing safe smart contracts.
+- [Esolangs](awesome/awesome-esolangs.md) - Programming languages designed for experimentation or as jokes rather than actual use.
 
 ## Front-End Development
 
@@ -613,6 +615,7 @@
 - [Password Cracking](awesome/awesome-password-cracking.md) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
 - [Security Card Games](awesome/awesome-security-card-games.md) - Train your skills and discuss various security topics.
 - [Suricata](awesome/awesome-suricata.md) - Intrusion detection/prevention system and network security monitoring engine.
+- [Prompt Injection](awesome/awesome-prompt-injection.md) - A type of vulnerability that specifically targets machine learning models.
 
 
 - [Umbraco](awesome/awesome-umbraco.md)
@@ -799,7 +802,6 @@
 - [Magento 2](awesome/awesome-magento2.md) - Open Source eCommerce built with PHP.
 - [TikZ](awesome/awesome-tikz.md) - Graph drawing packages for TeX/LaTeX/ConTeXt.
 - [Ad-Free](awesome/awesome-ad-free.md) - Ad-free alternatives.
-- [Esolangs](awesome/awesome-esolangs.md) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [Prometheus](awesome/awesome-prometheus.md) - Open-source monitoring system.
 - [Homematic](awesome/awesome-homematic.md) - Smart home devices.
 - [Ledger](awesome/awesome-ledger.md) - Double-entry accounting on the command-line.
@@ -849,9 +851,11 @@
 - [Computational Biology](awesome/awesome-computational-biology.md) - Computational approaches applied to problems in biology.
 - [Read the Docs](awesome/awesome-read-the-docs.md) - Example documentation projects to inspire and help bootstrap new documentation projects.
 - [Quarto](awesome/awesome-quarto.md) - Scientific and technical open-source publishing system built on Pandoc.
+- [Biological Image Analysis](awesome/awesome-biological-image-analysis.md) - Interpreting biological phenomena using images.
 - [ChatGPT](awesome/awesome-chatgpt.md) - Artificial intelligence chatbot developed by OpenAI.
 - [Whisper](awesome/awesome-whisper.md) - Open-source AI-powered speech recognition system developed by OpenAI.
 - [Steam Deck](awesome/awesome-steam-deck.md) - A handheld gaming computer developed by Valve.
+- [HPC](awesome/awesome-hpc.md) - High Performance Computing.
 
 ## Related
 

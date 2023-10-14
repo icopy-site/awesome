@@ -157,6 +157,7 @@ nav:
     - V: awesome/awesome-v.md
     - Zig: awesome/awesome-zig.md
     - Move: awesome/awesome-move.md
+    - Esolangs: awesome/awesome-esolangs.md
   - Front-End Development:
     - ES6 Tools: awesome/es6-tools.md
     - Web Performance Optimization: awesome/awesome-wpo.md
@@ -486,6 +487,7 @@ nav:
     - Password Cracking: awesome/awesome-password-cracking.md
     - Security Card Games: awesome/awesome-security-card-games.md
     - Suricata: awesome/awesome-suricata.md
+    - Prompt Injection: awesome/awesome-prompt-injection.md
     - Umbraco: awesome/awesome-umbraco.md
     - Refinery CMS: awesome/awesome-refinerycms.md
     - Wagtail: awesome/awesome-wagtail.md
@@ -653,7 +655,6 @@ nav:
     - Magento 2: awesome/awesome-magento2.md
     - TikZ: awesome/awesome-tikz.md
     - Ad-Free: awesome/awesome-ad-free.md
-    - Esolangs: awesome/awesome-esolangs.md
     - Prometheus: awesome/awesome-prometheus.md
     - Homematic: awesome/awesome-homematic.md
     - Ledger: awesome/awesome-ledger.md
@@ -703,9 +704,11 @@ nav:
     - Computational Biology: awesome/awesome-computational-biology.md
     - Read the Docs: awesome/awesome-read-the-docs.md
     - Quarto: awesome/awesome-quarto.md
+    - Biological Image Analysis: awesome/awesome-biological-image-analysis.md
     - ChatGPT: awesome/awesome-chatgpt.md
     - Whisper: awesome/awesome-whisper.md
     - Steam Deck: awesome/awesome-steam-deck.md
+    - HPC: awesome/awesome-hpc.md
     - All Awesome Lists: awesome/topics-awesome.md
     - StumbleUponAwesome: awesome/StumbleUponAwesome.md
     - Awesome CLI: awesome/awesome-cli.md
