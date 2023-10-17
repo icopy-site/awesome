@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="fkie-cad/awesome-embedded-and-iot-security"></div>
+<!--lint ignore awesome-license-->
 <div align="center">
 	<img width="500" height="350" src="https://raw.githubusercontent.com/fkie-cad/awesome-embedded-and-iot-security/master/iot_awesome_logo.svg?sanitize=true" alt="Awesome">
   <br />
@@ -9,8 +10,8 @@
 > A curated list of awesome resources about embedded and IoT security. The list contains software and hardware tools, books, research papers and more.
 
 Botnets like [Mirai](https://github.com/fkie-cad/awesome-embedded-and-iot-security/blob/master/<https://en.wikipedia.org/wiki/Mirai_(malware)>) have proven that there is a need for more security in embedded and IoT devices. This list shall help beginners and experts to find helpful resources on the topic.  
-If you are a beginner, you should have a look at the <ins>*Books*</ins> and <ins>*Case Studies*</ins> sections.  
-If you want to start right away with your own analysis, you should give the <ins>*Analysis Frameworks*</ins> a try.
+If you are a beginner, you should have a look at the <ins>_Books_</ins> and <ins>_Case Studies_</ins> sections.  
+If you want to start right away with your own analysis, you should give the <ins>_Analysis Frameworks_</ins> a try.
 They are easy to use and you do not need to be an expert to get first meaningful results.
 
 > Items marked with :euro: are comercial products.
@@ -37,6 +38,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 ### Analysis Tools
 
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
+- [cwe\_checker](https://github.com/fkie-cad/cwe_checker) - Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.
 - [emba](https://github.com/e-m-b-a/emba) - Analyze Linux-based firmware of embedded devices.
 - [Firmadyne](https://github.com/firmadyne/firmadyne) - Tries to emulate and pentest a firmware.
 - [Firmwalker](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information.
@@ -124,6 +126,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 ## Research Papers
 
 <!--lint ignore match-punctuation-->
+
 - 2020, Oser et al: [SAFER: Development and Evaluation of an IoT Device Risk Assessment Framework in a Multinational Organization](https://dl.acm.org/doi/abs/10.1145/3414173)
 - 2019, Agarwal et al: [Detecting IoT Devices and How They Put Large Heterogeneous Networks at Security Risk](https://www.mdpi.com/1424-8220/19/19/4107)
 - 2019, Almakhdhub et al: [BenchIoT: A Security Benchmark for the Internet of Things](https://nebelwelt.net/publications/files/19DSN.pdf)
@@ -147,7 +150,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 ## Case Studies
 
 <!--lint ignore no-repeat-punctuation-->
- 
+
 - [Binary Hardening in IoT products](https://cyber-itl.org/2019/08/26/iot-data-writeup.html)
 - [Cracking Linksys “Encryption”](http://www.devttys0.com/2014/02/cracking-linksys-crypto/)
 - [Deadly Sins Of Development](https://youtu.be/nXyglaY9N9w) - Conference talk presenting several real world examples on real bad implementations :tv:.
@@ -205,6 +208,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 - [UART explained](https://www.mikroe.com/blog/uart-serial-communication) - An in depth explanation of the UART protocol.
 
 ### YouTube Channels
+
 - [Flashback Team](https://www.youtube.com/c/FlashbackTeam) - A duo of hackers explaining their step by step approach to finding and exploiting vulnerabilities in embedded devices.
 - [StackSmashing](https://www.youtube.com/c/stacksmashing) - Reverse engineering and hardware hacking of embedded devices.
 
@@ -212,9 +216,9 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 Conferences focused on embedded and/or IoT security.
 
-- [Hardwear.io](https://hardwear.io/) 
- 	- EU, The Hague, September.
-	- USA, Santa Clara, June.
+- [Hardwear.io](https://hardwear.io/)
+  - EU, The Hague, September.
+  - USA, Santa Clara, June.
 
 ## Contribute
 
