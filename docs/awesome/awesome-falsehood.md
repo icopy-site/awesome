@@ -135,6 +135,7 @@ On character encoding, string formatting, unicode and internationalization.
 - [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives deeper in Unicode and dispels myths about code points.
 - [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most programmers spend so much time with `Latin-1` they forgets about other's scripts quirks.
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character encoding is hard, more so when each broken layer of data input adds its own spice.
+- [Localization Failure: Temperature is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/) - You cannot localize temperature differences as-is.
 - [i18n Testing Data](https://github.com/patch/i18n-testing) - Compilation of real-word international and diverse name data for unit testing and QA.
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
 
@@ -168,6 +169,7 @@ On character encoding, string formatting, unicode and internationalization.
 - [Falsehoods about Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) - Covers streets, postal codes, buildings, cities and countries.
 - [Falsehoods about Residence](https://twitter.com/samphippen/status/813896916534784004) - It's not only about the address itself, but the relationship between a person and its residence.
 - [Letter Delivered Despite No Name, No Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate falsehood about postal addresses: you do not need one.
+- [UK Address Oddities](https://paulplowman.com/stuff/uk-address-oddities/) - Quirks extracted from a list of most residential property sales in England and Wales since 1995.
 - [What is the Most Minimal UK Address Possible?](https://microblog.vladh.net/posts/most-minimal-uk-address/) - The trick is to rely on postcodes, which in the UK are pretty specific and “often identify one or a few specific buildings, unlike countries where a postcode represents an entire neighbourhood”.
 - [The Bear with Its Own ZIP Code](https://kottke.org/19/08/the-bear-with-its-own-zip-code) - Smokey Bear has his own ZIP Code (`20252`) because he gets so much mail.
 - [Why doesn't Costa Rica use real addresses?](https://www.crcdaily.com/p/why-doesnt-costa-rica-use-real-addresses) - Costa Rican uses an idiosyncratic system of addresses that relies on landmarks, history and quite a bit of guesswork.
