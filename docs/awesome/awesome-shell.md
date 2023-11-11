@@ -31,6 +31,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ion](https://github.com/redox-os/ion) - A modern system shell that features a simple, yet powerful, syntax. It is written entirely in Rust.
 * [ksh93](https://github.com/att/ast) - Korn Shell
 * [mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
+* [murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 * [ngs](https://github.com/ngs-lang/ngs) - Fully featured scripting language created specifically for Ops. REPL is being developed.
 * [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
 * [oksh](https://github.com/ibara/oksh) - Portable OpenBSD ksh
@@ -132,7 +133,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
 * [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
-* [xiki](https://xiki.org) - Makes the shell console more friendly and powerful
+* [xiki](https://github.com/trogdoro/xiki) - Makes the shell console more friendly and powerful
 * [xplr](https://github.com/sayanarijit/xplr) -  A hackable, minimal, fast TUI file explorer
 * [xsv](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
@@ -272,7 +273,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
 * [vesper](https://github.com/chris-rock/vesper) - 🍸Vesper is a HTTP framework for Bash/Unix Shell
 * [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-* [youtube-dl](https://yt-dl.org/) - Small command-line program to download videos from YouTube.com and other video sites
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line program to download videos from YouTube.com and other video sites
 
 ## Multimedia and File Formats
 
@@ -291,6 +292,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [jo](https://github.com/jpmens/jo) - A small utility to create JSON objects from command-line arguments.
 * [jq](https://github.com/stedolan/jq) - Sed for json data. You can use it to slice and filter and map and transform structured data
 * [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
+* [library](https://github.com/chapmanjacobd/library) - Create SQLITE databases for folders of music, video, images, or online media. Play and track media like Plex but a CLI-only interface with many sorting options.
 * [mpv](https://mpv.io/) - Lets you play most audio and video formats (using ASCII characters) in the shell as well as in a GUI.
 * [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use it) your SoundCloud likes in convenient way
 * [PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device
@@ -423,7 +425,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 ## Guides
 
 * [Bash Official Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
-* [Bash Hackers Wiki](https://wiki.bash-hackers.org/)
+* [Bash Hackers Wiki](https://web.archive.org/web/20230406205817/https://wiki.bash-hackers.org/)
 * [Greg Wooledge's (aka "greycat") wiki](https://mywiki.wooledge.org).
   Specifically [Bash Guide](https://mywiki.wooledge.org/BashGuide), [Bash FAQ](https://mywiki.wooledge.org/BashFAQ) and [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
 * [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
