@@ -149,6 +149,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Playground Elements](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
 - [Stripe Elements](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
 - [Titanium Elements](https://github.com/LeavittSoftware/titanium-elements) - Collection of lightweight web components used by Leavitt Group Enterprises.
+- [TrendChart Elements](https://github.com/WebLogin/trendchart-elements) - Components to generate simple charts representing trends.
 - [Umbraco UI Components](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
 - [Vidstack Elements](https://github.com/vidstack/vds-elements) - Spec-compliant customizable, extensible, accessible and universal media elements.
 - [VSCode Webview Elements](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
@@ -164,6 +165,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`<burgton-button>`](https://github.com/boguz/burgton-button) - Simple to use, customizable and accessible burger-button element.
 - [`<code-block>`](https://github.com/justinribeiro/code-block) - Web component that displays colorfully formatted code with Prism.js and LitElement.
 - [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) - Custom Element that shows a CodeSandbox demo when you click on it.
+- [`<editor-container>`](https://github.com/toeverything/blocksuite) - Block based editor, designed for general-purpose collaborative applications.
 - [`<granite-qrcode-generator>`](https://github.com/LostInBrittany/granite-qrcode-generator) - Custom element to generate and render QR Codes, using qr.js library.
 - [`<helium-animated-pages>`](https://github.com/alangdm/helium-animated-pages) - Web component for creating CSS animations built with Lit.
 - [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - Web Component to visualize JSON data in a tree view.
@@ -201,6 +203,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [vscode-lit-plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin) - Syntax highlighting, type checking and code completion for lit-html.
 - [es6-string-html](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) - VSCode extension which provides syntax highlighting for HTML in ES6 multiline strings.
 - [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for HTML inside of tagged template literals.
+- [@web-types/lit](https://www.npmjs.com/package/@web-types/lit) - Attribute completion for HTML inside of tagged template literals.
 
 ### TypeScript Plugins
 
