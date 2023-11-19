@@ -46,7 +46,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ## Preconfigured Configs with ESLint Set up
 
 - [Node.js Standard Style](https://github.com/geek/node-style) - Node.js core config.
-- [prettier-standard](https://github.com/sheerun/prettier-standard) - Prettier formatter with custom eslint rules allowed.
+- [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Prettier config for ESlint maintained by Prettier team
 - [Standard](https://github.com/feross/standard) - JavaScript Standard Style.
 - [Superlint](https://github.com/supermind/superlint) - JavaScript Supermind Style.
 - [XO](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
