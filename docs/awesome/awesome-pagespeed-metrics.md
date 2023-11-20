@@ -236,7 +236,6 @@ Measuring own (and third-party) JavaScript bytes is crucial as JavaScript is the
 - [What's in the Google PageSpeed score](https://medium.com/expedia-group-tech/whats-in-the-google-pagespeed-score-a5fc93f91e91)
 - [How Google Pagespeed works](https://calibreapp.com/blog/how-pagespeed-works/)
 
-
 ### User Timing
 
 The User Timing API allows the developer to create application specific timestamps that are part of the browser's performance timeline. e.g. you can create a user timing mark to measure when your JS has loaded for a specific component on the page.
@@ -250,7 +249,6 @@ The User Timing API allows the developer to create application specific timestam
 Surface any backend server timing metrics (e.g. database latency, etc.) in the developer tools in the user's browser or in the PerformanceServerTiming interface.
 
 - [Docs - Server Timing](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Server-Timing)
-
 
 ### Frame rate
 
