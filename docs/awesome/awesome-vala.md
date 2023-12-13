@@ -59,7 +59,7 @@ A curated list of resources for Vala - A programming language using modern high 
 - [Outliner](https://github.com/phase1geo/Outliner) - Write outlines easily.
 - [Paper](https://gitlab.com/posidon_software/paper/) - Take notes in Markdown.
 - [pdfpc](https://github.com/pdfpc/pdfpc) - A GTK presenter application with multi-monitor support for PDF files.
-- [Planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux.
+- [Planify](https://github.com/alainm23/planify) - Task manager with Todoist support designed for GNU/Linux.
 - [Spice-up](https://github.com/Philip-Scott/Spice-up) - Presentations App for the modern Linux Desktop.
 - [TextShine](https://github.com/phase1geo/TextShine) - Convert and manipulate text.
 - [TextSnatcher](https://github.com/RajSolai/TextSnatcher) - Copy text from Images with ease.
