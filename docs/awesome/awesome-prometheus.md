@@ -26,7 +26,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Checking if SSH is responding with Prometheus](https://www.robustperception.io/checking-if-ssh-is-responding-with-prometheus/) - Walkthrough on how to use the Blackbox Exporter to check if SSH is responding by Brian Brazil.
 - [Monitor your GitHub Repos with Docker and Prometheus](https://www.brianchristner.io/monitor-your-github-repos-with-docker/) - Monitor your GitHub Repos with Docker and Prometheus.
 - [Docker daemon metrics in Prometheus](https://medium.com/lucjuggery/docker-daemon-metrics-in-prometheus-7c359c7ff550) - Docker daemon metrics in Prometheus by Luc Juggery.
-- [Prometheus Monitoring Tutorial (10 minutes)](https://pagertree.com/2017/12/01/prometheus-tutorial/) - Simple tutorial to create a Prometheus monitoring stack with Grafana, AlertManager, and PagerTree by Austin Miller.
+- [Prometheus Monitoring Tutorial (10 minutes)](https://pagertree.com/blog/prometheus-monitoring-tutorial) - Simple tutorial to create a Prometheus monitoring stack with Grafana, AlertManager, and PagerTree by Austin Miller.
 - [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - Beginner friendly introduction to Prometheus by [yolossn](https://github.com/yolossn).
 - [Setting up Prometheus Monitoring On a Kubernetes Cluster](https://spacelift.io/blog/prometheus-kubernetes) - Setting up Prometheus Monitoring On a Kubernetes Cluster by James Walker.
 
@@ -75,7 +75,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Robust Perception](https://www.robustperception.io/tag/prometheus/) - Multiple blog posts about Prometheus by Brian Bazil.
 - [Initial experiences with the Prometheus monitoring system](https://medium.com/@griggheo/initial-experiences-with-the-prometheus-monitoring-system-167054ac439c#.q565suk4h) - Initial experiences with the Prometheus by Grig Gheorghiu.
 - [Monitor your applications with Prometheus](http://blog.alexellis.io/prometheus-monitoring/) - Monitor your applications with Prometheus by Alex Ellis.
-- [Practical Services Monitoring with Prometheus and Docker](https://airtame.engineering/practical-services-monitoring-with-prometheus-and-docker-30abd3cf9603) - Practical services monitoring with Prometheus and Docker by Simon KP.
+- [Practical Services Monitoring with Prometheus and Docker](https://web.archive.org/web/20221206045124/https://airtame.engineering/practical-services-monitoring-with-prometheus-and-docker-30abd3cf9603?gi=b81b1156b4d9) - Practical services monitoring with Prometheus and Docker by Simon KP.
 - [Prometheus Blog Series (Part 1): Metrics and Labels](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-1-metrics-and-labels/) - Part 1 in the series _Prometheus Blog Series_ by Pierre Vincent.
 - [Prometheus Blog Series (Part 2): Metric types](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-2-metric-types/) - Part 2 in the series _Prometheus Blog Series_ by Pierre Vincent.
 - [Prometheus Blog Series (Part 3): Exposing and collecting metrics](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-3-exposing-and-collecting-metrics/) - Part 3 in the series _Prometheus Blog Series_ by Pierre Vincent.
