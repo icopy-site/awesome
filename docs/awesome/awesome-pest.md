@@ -48,6 +48,7 @@ Here are some example projects using pest:
 - [qubit](https://github.com/abhimanyu003/qubit) - A handy calculator, based on Rust and WebAssembly.
 - [caith](https://github.com/Geobert/caith) - A dice roller crate.
 - [Melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.
+- [PTA-Parser](https://github.com/AltaModaTech/pta-parser/) - A Plain Text Accounting parser built in Rust for [Beancount](https://github.com/beancount/beancount), [Ledger](https://github.com/ledger/ledger), and other PTA formats.
 
 ## Tooling
 
