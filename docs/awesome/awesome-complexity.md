@@ -63,6 +63,7 @@ A curated list of resources related to complex systems, the scientific field stu
 - [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) - Two-dimensional cellular automaton with emergent life-like patterns.
   - [ConwayLife](http://www.conwaylife.com/) - Community for game-of-life and similar simulations.
   - [golly](http://golly.sourceforge.net/) - State-of-the-art simulator.
+  - [Lenia](https://en.wikipedia.org/wiki/Lenia) - Continuous generalization of the game of life.
 - [Double pendulum](https://en.wikipedia.org/wiki/Double_pendulum) - Chaotic motion.
 - [Kuramoto model](https://en.wikipedia.org/wiki/Kuramoto_model) - Synchronization.
 - [Barabási–Albert (BA) model](https://en.wikipedia.org/wiki/Barab%C3%A1si%E2%80%93Albert_model) - Algorithm for generating random graphs with preferential attachment.
