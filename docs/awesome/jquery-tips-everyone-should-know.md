@@ -103,7 +103,7 @@ $('.container').on('click', '.back-to-top', function (e) {
 
 Changing the `scrollTop` value changes where you wants the scrollbar to land. All you're really doing is animating the body of the document throughout the course of 800 milliseconds until it scrolls to the top of the document.
 
-**Note:** Watch for some [buggy behavior](https://github.com/jquery/api.jquery.com/issues/417) with `scrollTop`.
+⚠️ **Note:** Watch for some [buggy behavior](https://github.com/jquery/api.jquery.com/issues/417) with `scrollTop`.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -204,7 +204,7 @@ $('.btn').on('hover', function () {
 });
 ```
 
-**Note:** CSS may be a faster solution in this case but it's still worthwhile to know this.
+⚠️ **Note:** CSS may be a faster solution in this case but it's still worthwhile to know this.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -335,7 +335,7 @@ $rows.each(function () {
 });
 ```
 
-**Note:** This can be done several ways [in CSS](http://codepen.io/AllThingsSmitty/pen/KMPqoO) but depending on what your needs are, knowing how to do this in jQuery is handy.
+⚠️ **Note:** This can be done several ways [in CSS](http://codepen.io/AllThingsSmitty/pen/KMPqoO) but depending on what your needs are, knowing how to do this in jQuery is handy.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -349,8 +349,6 @@ $('a[href^="http"]').attr('target', '_blank');
 $('a[href^="//"]').attr('target', '_blank');
 $('a[href^="' + window.location.origin + '"]').attr('target', '_self');
 ```
-
-**Note:** `window.location.origin` doesn't work in IE10. [This fix](http://tosbourn.com/a-fix-for-window-location-origin-in-internet-explorer/) takes care of the issue.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -473,10 +471,6 @@ $(document).ready(function () {
 ```
 
 <sup>[back to table of contents](#table-of-contents)</sup>
-
-
-
-
 
 
 ## Support
