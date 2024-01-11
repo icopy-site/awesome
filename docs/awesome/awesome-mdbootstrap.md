@@ -90,6 +90,28 @@ Powerful tool which allows you to create different projects. No more difficult c
 - [Getting Started](https://mdbgo.com/docs/getting-started/installation/) - Step by step on how to create your project and deploy.
 - [Overview](https://mdbgo.com/docs/getting-started/overview/) - Guide which will take you on how to perform different actions.
 
+## TW Elements useful links (Tailwind CSS)
+
+An open-source collection of components, templates and plugins for Tailwind CSS. Easily customizable & optimized for performance.
+
+- [UI Kit](https://tw-elements.com/) - Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities
+
+[TW Elements integrations](https://tw-elements.com/docs/standard/integrations/) with popular technologies.
+
+- [Django Integration](https://tw-elements.com/docs/standard/integrations/django-integration/)
+- [Angular Integration](https://tw-elements.com/docs/standard/integrations/angular-integration/)
+- [Express Integration](https://tw-elements.com/docs/standard/integrations/express-integration/)
+- [Laravel Integration](https://tw-elements.com/docs/standard/integrations/laravel-integration/)
+- [Next Integration](https://tw-elements.com/docs/standard/integrations/next-integration/)
+- [Nuxt Integration](https://tw-elements.com/docs/standard/integrations/nuxt-integration/)
+- [Django Integration](https://tw-elements.com/docs/standard/integrations/react-integration/)
+- [Remix Integration](https://tw-elements.com/docs/standard/integrations/remix-integration/)
+- [Solid Integration](https://tw-elements.com/docs/standard/integrations/solid-integration/)
+- [Svelte Integration](https://tw-elements.com/docs/standard/integrations/svelte-integration/)
+- [Sveltekit Integration](https://tw-elements.com/docs/standard/integrations/sveltekit-integration/)
+- [Vue Integration](https://tw-elements.com/docs/standard/integrations/vue-integration/)
+
+
 ## Education
 
 Well-organized, up-to-date series of tutorials for the latest Bootstrap, Material Design, HTML, CSS, JavaScript.
