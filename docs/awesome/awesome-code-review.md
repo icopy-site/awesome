@@ -8,6 +8,7 @@
 Code review is the systematic examination (sometimes referred to as peer review) of computer source code.
 
 
+- [Awesome Code Review ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-code-review-)
 
 ## Academic Papers
 
@@ -69,6 +70,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 
 ## Tools
 
+- [Axolo](https://www.axolo.co) Github/GitLab Slack integration. Create one ephemeral channel per pull request/ merge request.
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 - [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
@@ -77,7 +79,6 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
 - [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
 - [PullRequest](https://www.pullrequest.com/) Code review as a service for GitHub pull requests.
-- [Pull Reminders](https://pullreminders.com) Automated Slack reminders and metrics for GitHub pull requests.
 - [Reviewable](https://reviewable.io/) Code review tool built on top of GitHub pull requests.
 - [Review Board](https://www.reviewboard.org/) Open source review tool that is SCM/platform neutral.
 - [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
