@@ -12,6 +12,7 @@ Feel free to send a PR :)
 [awesome](https://github.com/sindresorhus/awesome) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 
+   
 
 
 ## Source Code Repos 
@@ -42,6 +43,7 @@ Feel free to send a PR :)
  * [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH 
  * [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
  * [ownCloud](https://owncloud.org) - Open Source file sync & share, with calendar, contacts and more apps
+ * [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform
 
 ## Code Quality
 
@@ -65,7 +67,7 @@ Feel free to send a PR :)
 
  * [Ralasafe](http://sourceforge.net/projects/ralasafe/) - Access Control Middleware
  * [OpenXPKI](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
-
+ * [Selefra](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 
 ## Bug trackers
 
@@ -80,8 +82,9 @@ Feel free to send a PR :)
 * [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 
 ## PaaS
-
+* [Preevy](https://github.com/livecycle/preevy) - Provision preview environments for docker compose applications with minimal configuration
  * [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
+ * [Zeabur](https://zeabur.com) - deploy your full stack apps and databases with one click
 
 ## Documentation
 
@@ -89,8 +92,10 @@ Feel free to send a PR :)
 
 ## Backend
 
+* [Hook0](https://www.hook0.com/) Webhooks-as-a-service (WaaS) for developers to send and manage webhooks
 * [Okteto](https://www.okteto.com/) - Kubernetes and Docker Compose Platform
-* [Dokku](https://dokku.com/) - Heroku like environment 
+* [Dokku](https://dokku.com/) - Heroku like environment
+* [Keploy](https://www.keploy.io/) - A  developer-centric backend testing tool which makes backend tests with built-in-mocks, faster than unit tests, from user traffic
 
 ## Chat and Community
 
@@ -101,4 +106,7 @@ Feel free to send a PR :)
 ## Mail server
 
 * [Mailcow Email Server](https://mailcow.email/) - Fully feature email server (for avarage use cases @lmtr0 recommends this one)
-* [WildDuck Email Server](https://wildduck.email/) - nodejs application to send emails (built for sclae (needs more hand work to make it work)
+* [WildDuck Email Server](https://wildduck.email/) - nodejs application to send emails (built for scale (needs more hand work to make it work)
+
+## Environment Manager Tools
+* [DEM](https://axemsolutions.io/dem_doc/index.html) - DEM (Development Environment Manager) is an open source command line tool to manage containerized Development Environments.
