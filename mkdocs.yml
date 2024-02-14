@@ -72,6 +72,8 @@ nav:
     - Low Code: awesome/awesome-low-code.md
     - Capacitor: awesome/awesome-capacitor.md
     - ArcGIS Developer: awesome/awesome-arcgis-developer.md
+    - Bluetooth Low Energy: awesome/awesome-ble.md
+    - Uno Platform: awesome/awesome-uno-platform.md
   - Programming Languages:
     - JavaScript: awesome/awesome-javascript.md
     - JavaScript_sub: 
@@ -244,6 +246,7 @@ nav:
     - Master CSS: awesome/awesome-master-css.md
     - Hydrogen: awesome/awesome-hydrogen.md
     - Tiny JS: awesome/awesome-tiny-js.md
+    - Frontend GIS: awesome/GIS.md
   - Back-End Development:
     - Flask: awesome/awesome-flask.md
     - Docker: awesome/awesome-docker.md
@@ -278,6 +281,7 @@ nav:
     - IAM: awesome/awesome-iam.md
     - Slim: awesome/awesome-slim.md
     - Fiber: awesome/awesome-fiber.md
+    - Kustomize: awesome/awesome-kustomize.md
   - Computer Science:
     - University Courses: awesome/awesome-courses.md
     - Data Science: awesome/awesome-datascience.md
@@ -708,7 +712,9 @@ nav:
     - Biological Image Analysis: awesome/awesome-biological-image-analysis.md
     - ChatGPT: awesome/awesome-chatgpt.md
     - Whisper: awesome/awesome-whisper.md
+    - Stock Trading: awesome/awesome-stock-trading.md
     - Steam Deck: awesome/awesome-steam-deck.md
+    - Astrophotography: awesome/awesome-astrophotography.md
     - HPC: awesome/awesome-hpc.md
     - All Awesome Lists: awesome/topics-awesome.md
     - StumbleUponAwesome: awesome/StumbleUponAwesome.md

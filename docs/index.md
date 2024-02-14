@@ -178,6 +178,8 @@
 - [Low Code](awesome/awesome-low-code.md) - Allowing business professionals to address their needs on their own with little to no coding skills.
 - [Capacitor](awesome/awesome-capacitor.md) - Cross-platform open source runtime for building Web Native apps.
 - [ArcGIS Developer](awesome/awesome-arcgis-developer.md) - Mapping and location analysis platform for developers.
+- [Bluetooth Low Energy](awesome/awesome-ble.md) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
+- [Uno Platform](awesome/awesome-uno-platform.md) - Open-source .NET UI platform for building cross-platform apps.
 
 ## Programming Languages
 
@@ -344,6 +346,7 @@
 - [Master CSS](awesome/awesome-master-css.md) - A virtual CSS language with enhanced syntax.
 - [Hydrogen](awesome/awesome-hydrogen.md) - Edge-first framework for building Shopify storefronts with React.
 - [Tiny JS](awesome/awesome-tiny-js.md) - Frontend libraries that fit into 2 kB with dependencies.
+- [Frontend GIS](awesome/awesome-frontend-gis.md) - Geographic Information Systems (GIS) for web browsers.
 
 ## Back-End Development
 
@@ -377,6 +380,7 @@
 - [IAM](awesome/awesome-iam.md) - User accounts, authentication and authorization.
 - [Slim](awesome/awesome-slim.md) - PHP framework.
 - [Fiber](awesome/awesome-fiber.md) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
+- [Kustomize](awesome/awesome-kustomize.md) - Kubernetes native declarative configuration management tool.
 
 ## Computer Science
 
@@ -847,7 +851,9 @@
 - [Biological Image Analysis](awesome/awesome-biological-image-analysis.md) - Interpreting biological phenomena using images.
 - [ChatGPT](awesome/awesome-chatgpt.md) - Artificial intelligence chatbot developed by OpenAI.
 - [Whisper](awesome/awesome-whisper.md) - Open-source AI-powered speech recognition system developed by OpenAI.
+- [Stock Trading](awesome/awesome-stock-trading.md) - Purchase and sale of equities of publicly traded companies with the aim of generating profits.
 - [Steam Deck](awesome/awesome-steam-deck.md) - A handheld gaming computer developed by Valve.
+- [Astrophotography](awesome/awesome-astrophotography.md) - Photography of astronomical objects, celestial events, or areas of the night sky.
 - [HPC](awesome/awesome-hpc.md) - High Performance Computing.
 
 ## Related
