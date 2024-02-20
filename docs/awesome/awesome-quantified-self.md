@@ -95,6 +95,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Reporter](http://www.reporter-app.com/) - Tracking app that collects data through random surveys (iOS).
 - [Logsit](http://www.logsit.com/) - Quantified self and lifelogging app to track the things you've done (iOS).
 - [LifeMetrics](https://lifemetrics.io/) - Daily questionnaires and automatically generated wellness insights (iOS).
+- [Reflect](https://ntl.ai/reflect) - Tracking app with customizable forms and data insights (iOS).
 
 ### Diet
 - [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
@@ -106,6 +107,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Bitesnap](https://www.getbitesnap.com/) - Image based food logging app powered by computer vision (iOS & Android).
 - [Coffee It](https://apps.apple.com/us/app/coffee-it-record-caffeine/id1216049514) - Record Caffeine intake, with database inside & Apple Health sync. (iOS)
 - [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706) - Super efficient caffeine tracker app with Apple Watch support (iOS and Apple Watch).
+- [Nutriely](https://nutriely.com) - Food and nutrition tracking, diary. Focusing on detailed micro and vitamin breakdown. (Web)
 
 ### Goals
 - [GoalsOnTrack](http://www.goalsontrack.com/) - Web-based goal setting and tracking software (iOS & Android).
@@ -250,7 +252,10 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [health-records](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
 - [Timeliner](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
 - [TimelineBuilder](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
-
+- [Me API](https://github.com/danfang/me-api) - An extensible, personal API with custom integrations.
+- [Bolero](https://github.com/bcongdon/bolero) - An extensible, personal API with custom integrations.
+- [Memacs](https://github.com/novoid/Memacs) - Visualize your life in Orgmode.
+- [Syte3](https://github.com/rigoneri/Syte3) - A personal website that shows your activity on social networks and more.
 
 ## License
 
