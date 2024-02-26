@@ -95,7 +95,13 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 ## Videos
 
 - [Uno Platform's YouTube](https://www.youtube.com/@unoplatform) - Official YouTube channel of Uno Platform, includes new release highlights, live sessions, and tutorials.
+- [Uno Tech Bites](https://www.youtube.com/playlist?list=PLl_OlDcUya9rP_fDcFrHWV3DuP7KhQKRA) - Uno Platform development learnings in bite-sized lessons.
 - [Martin Zikmund's YouTube](https://www.youtube.com/@mzikmund) - Various Uno Platform-related videos and tutorials.
+
+## Books
+
+- [Getting Started with the Uno Platform and WinUI 3 (2022/09)](https://link.springer.com/book/10.1007/978-1-4842-8248-9) - Hands-on building of cross-platform desktop, mobile, and web applications that can run anywhere.  By Skye Hoefling.
+- [Creating Cross-Platform C# Applications with Uno Platform (2021/08)](https://www.packtpub.com/product/creating-cross-platform-c-applications-with-uno-platform/9781801078498) - Build apps with C# and XAML that run on Windows, macOS, iOS, Android, and WebAssembly.  By Matt Lacey and Marcel Alexander Wagner.
 
 ## Contributing
 
