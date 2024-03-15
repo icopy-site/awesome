@@ -61,3 +61,4 @@ The repository contains useful information for everyone who is looking for a tec
 ## Mock interview platforms
 
 - [Pramp](https://www.pramp.com) - Practice mock interviews with friends and professionals.
+- [MeetAPro](https://www.meetapro.com) - An Airbnb-like mock interview platform, best in terms of price and quality-wise.
