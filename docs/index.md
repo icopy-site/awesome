@@ -164,7 +164,7 @@
 - [Flutter](awesome/awesome-flutter.md) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
 - [Home Assistant](awesome/awesome-home-assistant.md) - Open source home automation that puts local control and privacy first.
 - [IBM Cloud](awesome/awesome-ibmcloud.md) - Cloud platform for developers and companies.
-- [Firebase](awesome/awesome-firebase.md) - App development platform built on Google Cloud Platform.
+- [Firebase](awesome/awesome-firebase.md) - App development platform built on Google Cloud.
 - [Robot Operating System 2.0](awesome/awesome-ros2.md) - Set of software libraries and tools that help you build robot apps.
 - [Adafruit IO](awesome/awesome-adafruitio.md) - Visualize and store data from any device.
 - [Cloudflare](awesome/awesome-cloudflare.md) - CDN, DNS, DDoS protection, and security for your site.
