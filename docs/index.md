@@ -381,6 +381,7 @@
 - [Slim](awesome/awesome-slim.md) - PHP framework.
 - [Fiber](awesome/awesome-fiber.md) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
 - [Kustomize](awesome/awesome-kustomize.md) - Kubernetes native declarative configuration management tool.
+- [OpenTofu](awesome/awesome-opentofu.md) - Open-source infrastructure as code tool.
 
 ## Computer Science
 

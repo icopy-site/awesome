@@ -282,6 +282,7 @@ nav:
     - Slim: awesome/awesome-slim.md
     - Fiber: awesome/awesome-fiber.md
     - Kustomize: awesome/awesome-kustomize.md
+    - OpenTofu: awesome/awesome-opentofu.md
   - Computer Science:
     - University Courses: awesome/awesome-courses.md
     - Data Science: awesome/awesome-datascience.md
