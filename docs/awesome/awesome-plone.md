@@ -108,6 +108,7 @@ _Add-ons that handle image, video and audio content._
 ## Security
 
 * [collective.geotransform](https://github.com/collective/collective.geotransform) - Graceful E-mail Obfuscation for Plone.
+* [collective.contactformprotection](https://github.com/collective/collective.contactformprotection) - Disables the default `contact-info` form or protect it with `plone.formwidget.[h|re]captcha`.
 
 ## SEO
 
