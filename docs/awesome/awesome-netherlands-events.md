@@ -34,7 +34,6 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 - [Lead Developers Amsterdam](https://www.meetup.com/Lead-Developers-Amsterdam) - For Lead Developers, Tech Leads, Chapter Leads and Senior Engineers heading towards Lead positions. 
 - [DevOps Day Amsterdam](https://www.devopsdays.org/events/2019-amsterdam/welcome/) - Development, operations, QA, InfoSec, management, and leadership.
 - [React Amsterdam](https://react.amsterdam) - React Amsterdam is a [Meetup group](https://www.meetup.com/React-Amsterdam/) and a full day conference (April 21) on all things React.
-- [Webcrafters](https://webcrafters.xyz) - Biweekly meetup where you can work on your sideproject.
 
 ## Utrecht
 - [The Kick 030](http://www.thekick030.nl) - Two monthly event with talks about the creative industry.
