@@ -9,9 +9,9 @@
 		<sub>Check out my macOS app</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/posts/day-progress">Day Progress</a>
+			<a href="https://sindresorhus.com/week-number">Week Number</a>
 			<br>
-			<sup>Display the time remaining today in your menu bar</sup>
+			<sup>The current week number in your menu bar</sup>
 		</h2>
 	</div>
 	<br>
@@ -566,6 +566,7 @@
 - [Cassandra](awesome/awesome-cassandra.md) - Open-source, distributed, wide column store, NoSQL database management system.
 - [TDengine](awesome/awesome-tdengine.md) - An open-source time-series database with high-performance, scalability, and SQL support.
 - [Supabase](awesome/awesome-supabase.md) - An open-source alternative to Firebase.
+- [PocketBase](awesome/awesome-pocketbase.md) - An open-source, Go-based backend in one file.
 
 ## Media
 
@@ -630,6 +631,7 @@
 - [Security Card Games](awesome/awesome-security-card-games.md) - Train your skills and discuss various security topics.
 - [Suricata](awesome/awesome-suricata.md) - Intrusion detection/prevention system and network security monitoring engine.
 - [Prompt Injection](awesome/awesome-prompt-injection.md) - A type of vulnerability that specifically targets machine learning models.
+- [Detection Engineering](awesome/awesome-detection-engineering.md) - Design, build, and operate detective cybersecurity controls.
 
 
 - [Umbraco](awesome/awesome-umbraco.md)

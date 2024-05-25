@@ -436,6 +436,7 @@ nav:
     - Cassandra: awesome/awesome-cassandra.md
     - TDengine: awesome/awesome-tdengine.md
     - Supabase: awesome/awesome-supabase.md
+    - PocketBase: awesome/awesome-pocketbase.md
   - Media:
     - Creative Commons Media: awesome/creative-commons-media.md
     - Fonts: awesome/awesome-fonts.md
@@ -494,6 +495,7 @@ nav:
     - Security Card Games: awesome/awesome-security-card-games.md
     - Suricata: awesome/awesome-suricata.md
     - Prompt Injection: awesome/awesome-prompt-injection.md
+    - Detection Engineering: awesome/awesome-detection-engineering.md
     - Umbraco: awesome/awesome-umbraco.md
     - Refinery CMS: awesome/awesome-refinerycms.md
     - Wagtail: awesome/awesome-wagtail.md
