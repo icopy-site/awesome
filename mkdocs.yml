@@ -333,6 +333,7 @@ nav:
     - Apache Spark: awesome/awesome-spark.md
     - Qlik: awesome/awesome-qlik.md
     - Splunk: awesome/awesome-splunk.md
+    - Network Analysis: awesome/awesome-network-analysis.md
   - Theory:
     - Papers We Love: awesome/papers-we-love.md
     - Talks: awesome/awesome-talks.md
@@ -544,7 +545,6 @@ nav:
     - Internships: awesome/awesome-internships.md
   - Networking:
     - Software-Defined Networking: awesome/awesome-sdn.md
-    - Network Analysis: awesome/awesome-network-analysis.md
     - PCAPTools: awesome/awesome-pcaptools.md
     - Real-Time Communications: awesome/awesome-rtc.md
     - SNMP: awesome/awesome-snmp.md

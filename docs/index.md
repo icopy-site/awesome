@@ -449,6 +449,7 @@
 - [Apache Spark](awesome/awesome-spark.md) - Unified engine for large-scale data processing.
 - [Qlik](awesome/awesome-qlik.md) - Business intelligence platform for data visualization, analytics, and reporting apps.
 - [Splunk](awesome/awesome-splunk.md) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
+- [Network Analysis](awesome/awesome-network-analysis.md)
 
 ## Theory
 
@@ -690,7 +691,6 @@
 ## Networking
 
 - [Software-Defined Networking](awesome/awesome-sdn.md)
-- [Network Analysis](awesome/awesome-network-analysis.md)
 - [PCAPTools](awesome/awesome-pcaptools.md)
 - [Real-Time Communications](awesome/awesome-rtc.md) - Network protocols for near simultaneous exchange of media and data.
 - [SNMP](awesome/awesome-snmp.md) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
