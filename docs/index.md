@@ -889,6 +889,7 @@
 - [Steam Deck](awesome/awesome-steam-deck.md) - A handheld gaming computer developed by Valve.
 - [Astrophotography](awesome/awesome-astrophotography.md) - Photography of astronomical objects, celestial events, or areas of the night sky.
 - [HPC](awesome/awesome-hpc.md) - High Performance Computing.
+- [Geocaching](awesome/awesome-geocaching.md) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
 
 ## Related
 
