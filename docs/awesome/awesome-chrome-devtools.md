@@ -88,6 +88,7 @@
 
 
 ### Browser Adapters
+- [devtools-remote-debugger](https://github.com/Nice-PLQ/devtools-remote-debugger) - Use devtools against a webpage; a CDP agent implemeted in client-side JS.
 - [Inspect](https://inspect.dev/) - Use devtools against iOS and Android, easily. Browser and Webviews. **(closed source)**
 
 
