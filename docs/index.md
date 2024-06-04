@@ -199,6 +199,7 @@
 - [ArcGIS Developer](awesome/awesome-arcgis-developer.md) - Mapping and location analysis platform for developers.
 - [Bluetooth Low Energy](awesome/awesome-ble.md) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
 - [Uno Platform](awesome/awesome-uno-platform.md) - Open-source .NET UI platform for building cross-platform apps.
+- [Google Cloud](awesome/awesome-google-cloud.md) - Cloud computing services by Google.
 
 ## Programming Languages
 
