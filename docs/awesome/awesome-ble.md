@@ -5,7 +5,6 @@ Bluetooth Low Energy (BLE): Low-power wireless communication protocol enabling e
 
 A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withintent.com).
 
-
 ![](https://img.shields.io/badge/Contents-43-green) ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
 
 
@@ -29,6 +28,7 @@ _Software libraries and frameworks for integrating Bluetooth Low Energy (BLE) fu
 - [bluepy](https://github.com/IanHarvey/bluepy) - A Python interface for Bluetooth LE on Linux.
 - [bluez](http://www.bluez.org/) - The official Linux Bluetooth protocol stack.
 - [pygatt](https://github.com/peplin/pygatt) - A Python library for interacting with BLE devices.
+- [SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - The all-in-one C/C++/Python/Rust Bluetooth LE library for MacOS, iOS, Windows, and Linux.
 
 ## iOS
 _iOS libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications on Apple devices._
