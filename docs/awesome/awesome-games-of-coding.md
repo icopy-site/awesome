@@ -8,6 +8,7 @@
 
 ## Language Independent
 
+- [Lambda Spellcrafting Academy](https://www.bittwiddlegames.com/lambda-spellcrafting-academy/) - A visual programming / puzzle game where you build spells to solve puzzles. Covers introductory programming, as well as some data structures and algorithms. The language is inspired by Lisp, but the game focuses on programming fundamentals that apply to most languages.
 - [Codingame](https://www.codingame.com/home) - A platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics. 
 - [CodeCombat](https://codecombat.com) - Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
 - [Vindinium](https://www.codingame.com/multiplayer/bot-programming/vindinium) - Players write scripts in the programming language of their choice (optionally using one of the many starter packs) to control a 16-bit hero through HTTP requests, guiding him to collect gold, do battle with other players, and even visit the tavern.
@@ -31,7 +32,8 @@
 - [JavaScript Fight Club](https://jsfight.club) - The Red King and the Blue King are at war! Your JavaScript skills are needed to determine the victor: Can you code an effective AI for honor and glory?
 - [Elevator Saga](http://play.elevatorsaga.com) - Write JavaScript directly in the browser to program an elevator, such that it reaches its efficiency goals. Start with simple "getting started" scripts, and ramp up to much more complex situations with many floors and multiple elevators.
 - [Untrusted](https://alexnisnevich.github.io/untrusted) - The game presents you with a roguelike-like playing environment and a console window with the JavaScript code generating each level. As loaded, each level is unbeatable, and most of the JavaScript is blocked from editing. The challenge is to open a path to the next level using only the limited tools left open to you.
-- [Robot Rumble](https://robotrumble.org/) - A free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and Javascript, and comes with a desktop-based command line tool. 
+- [Robot Rumble](https://robotrumble.org/) - A free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and Javascript, and comes with a desktop-based command line tool.
+- [DeepestWorld](https://deepestworld.com/) - A browser MMORPG where you can code your character with JavaScript. Explore a boundless, persistent open world devoid of loading screens, where a multitude of biomes and creatures come together to form a living, breathing world.
 
 ## C Sharp
 
