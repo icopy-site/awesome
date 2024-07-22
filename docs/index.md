@@ -584,6 +584,7 @@
 - [TDengine](awesome/awesome-tdengine.md) - An open-source time-series database with high-performance, scalability, and SQL support.
 - [Supabase](awesome/awesome-supabase.md) - An open-source alternative to Firebase.
 - [PocketBase](awesome/awesome-pocketbase.md) - An open-source, Go-based backend in one file.
+- [Neon](awesome/awesome-neon.md) - An open-source alternative to AWS Aurora.
 
 ## Media
 
