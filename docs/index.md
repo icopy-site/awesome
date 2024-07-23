@@ -730,6 +730,7 @@
 - [Algorand](awesome/awesome-algorand.md) - An open-source, proof of stake blockchain and smart contract computing platform.
 - [ZeroNet](awesome/awesome-zeronet.md) - A decentralized web-like network of peer-to-peer users.
 - [Cosmos SDK](awesome/awesome-cosmos.md) - Modular framework for building app-specific blockchains in Go.
+- [Tor](awesome/awesome-tor.md) - A free overlay network for enabling anonymous communication.
 
 ## Health and Social Science
 
