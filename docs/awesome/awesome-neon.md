@@ -70,7 +70,7 @@ To **enhance** this list, please refer to [https://github.com/tyaga001/awesome-n
 - [Remember to Use Primary Keys vs Unique Constraints in Postgres](https://neon.tech/blog/remember-to-use-primary-keys-vs-unique-constraints-in-postgres) - Understand the differences between primary keys and unique constraints in Postgres and when to use each.
 - [Database Branching Workflows: A Guide for Developers](https://neon.tech/blog/database-branching-workflows-a-guide-for-developers) - Blog post on database branching workflows for developers, enhancing collaboration and version control.
 - [Full Stack Development with Next.js, Clerk, and Neon](https://www.freecodecamp.org/news/nextjs-clerk-neon-fullstack-development/) - Tutorial on building a full-stack application using Next.js, Clerk for authentication, and Neon.
-
+- [How to Develop a CRUD App with Spring Boot, Neon, and Azure App Service](https://www.freecodecamp.org/news/nextjs-clerk-neon-fullstack-development/) - Tutorial on building a CRUD App with Spring Boot, Neon, and Azure App Service.
 
 ## YouTube Channel
 
