@@ -146,6 +146,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-charts](https://github.com/Addepar/ember-charts) - A charting library built with the Ember.js and d3.js frameworks. 
 - [ember-sparkles](https://github.com/LocusEnergy/ember-sparkles) - Collection of composable D3 components built with ember-d3-helpers.
 - [ember-highcharts](https://github.com/ahmadsoe/ember-highcharts) - A Highcharts, HighStock and HighMaps components for ember-cli.
+- [ember-c3](https://github.com/Glavin001/ember-c3) - An addon library for C3, a D3-based reusable chart library and more compatible.
 
 ### CI/CD
 
