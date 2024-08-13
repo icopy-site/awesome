@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://kustomize.io">
-    <img src="https://raw.githubusercontent.com/DevOpsHiveHQ/awesome-kustomize/master/img/kustomize.svg?sanitize=true" width="80%">
+    <img src="https://raw.githubusercontent.com/DevOpsHiveHQ/awesome-kustomize/master/img/awesome-kustomize.svg?sanitize=true" width="90%">
   </a>
 </p>
 
