@@ -61,7 +61,6 @@ An "awesome" list of the Ionic resources
 * [Authenticate Ionic with WordPress](https://auth0.com/authenticate/ionic2/wordpress)
 
 #### Unit Testing
-* [Ionic Unit Testing](http://lathonez.github.io/2017/ionic-2-unit-testing/)
 * [How to Unit Test an Ionic Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/)
 * [Test Driven Development in Ionic: An Introduction to TDD](https://www.joshmorony.com/test-driven-development-in-ionic-2-an-introduction-to-tdd/)
 
@@ -135,6 +134,7 @@ An "awesome" list of the Ionic resources
 * [Ionic aiEyes - Azure Computer Vision API](https://github.com/brenopolanski/aiEyes)
 * [Ionic Soundboard](https://github.com/rkalis/ionic-soundboard)
 * [Ionic Country Explorer](https://github.com/SKempin/ionic-country-explorer)
+* [Ionic Timer App](https://github.com/imjohnbo/ionic2-timer)
 
 #### Contribute
 Contributions welcome! Read the [contribution guidelines](https://github.com/candelibas/awesome-ionic/blob/master/CONTRIBUTING.md) first.

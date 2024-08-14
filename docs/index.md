@@ -326,7 +326,7 @@
 - [Marionette.js](awesome/awesome-marionette.md) - App framework.
 - [Aurelia](awesome/awesome-aurelia.md) - App framework.
 - [Charting](awesome/awesome-charting.md)
-- [Ionic Framework 2](awesome/awesome-ionic.md)
+- [Ionic Framework](awesome/awesome-ionic.md)
 - [Chrome DevTools](awesome/awesome-chrome-devtools.md)
 - [PostCSS](awesome/awesome-postcss.md) - CSS tool.
 - [Draft.js](awesome/awesome-draft-js.md) - Rich text editor framework for React.
