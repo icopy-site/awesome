@@ -66,6 +66,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [actions/setup-java: Java](https://github.com/actions/setup-java)
 - [actions/setup-ruby: Ruby](https://github.com/actions/setup-ruby)
 - [actions/setup-elixir: Elixir](https://github.com/actions/setup-elixir)
+- [actions/setup-julia: Julia](https://github.com/julia-actions/setup-julia)
 
 ### Create your Actions
 
@@ -204,6 +205,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Action Locks](https://github.com/abatilo/github-action-locks/blob/master/README.md) - Guarantee atomic execution of your GitHub Action workflows.
 - [Paths Filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits.
 - [Minisauras](https://github.com/TeamTigers/minisauras) -  Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch.
+- [Website to GIF](https://github.com/PabloLec/website-to-gif) - Turn any webpage into a GIF to display on your README, docs, etc.
+- [Interactive Inputs - Runtime workflow inputs](https://github.com/boasiHQ/interactive-inputs) - Add dynamic inputs at runtime for your GitHub Actions workflows
 
 #### Environments
 
@@ -247,6 +250,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run performance testing with artillery.io](https://github.com/kenju/github-actions-artillery)
 - [Detect Flaky Tests with BuildPulse](https://github.com/Workshop64/buildpulse-action)
 - [Display Inline Code Annotations for Jest Tests](https://github.com/IgnusG/jest-report-action)
+- [Run Julia tests](https://github.com/julia-actions/julia-runtest)
 
 #### Linting
 
@@ -257,6 +261,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Lint terraform files using tflint, with reviewdog output on the PR](https://github.com/reviewdog/action-tflint)
 - [autopep8: Automatically formats Python code to conform to the PEP 8 style guide](https://github.com/peter-evans/autopep8)
 - [Run `ergebnis/composer-normalize` to ensure your PHP project has a normalized `composer.json`](https://github.com/ergebnis/composer-normalize-action)
+- [Run `stolt/lean-package-validator` to ensure your package has only the required `runtime` artifacts](https://github.com/raphaelstolt/lean-package-validator-action)
 - [Run Go lint checks on PR event](https://github.com/ArangoGutierrez/GoLinty-Action)
 - [Node.js - Automatically run the `format` and/or `lint` script used by the package](https://github.com/MarvinJWendt/run-node-formatter)
 - [Stylelinter - GitHub Action that runs stylelint](https://github.com/exelban/stylelint)
@@ -501,10 +506,15 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Setup Brainfuck](https://github.com/fabasoad/setup-brainfuck-action) - Setup brainfuck interpreter.
 - [Publish Go Binaries to GitHub Release Assets](https://github.com/wangyoucao577/go-release-action)
 - [Setup COBOL](https://github.com/fabasoad/setup-cobol-action)
+- [Check Gradle version](https://github.com/madhead/check-gradle-version) - Keep your Gradle version up to date.
 
 ### Database
 
 - [Setup Cassandra Schema](https://github.com/fabasoad/setup-cassandra-action) - Running scripts from the provided folder on top of Cassandra cluster.
+
+### Networking
+
+- [Setup ZeroTier](https://github.com/zerotier/github-action) - Connect your runner to a ZeroTier network.
 
 ### Localization
 
