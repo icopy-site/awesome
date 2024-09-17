@@ -25,7 +25,6 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 ### General Purpose Libraries
 
-* [Succinct](http://succinct.cs.berkeley.edu/) <img src="https://img.shields.io/github/last-commit/amplab/succinct.svg">- Support for efficient queries on compressed data.
 
 ### SQL Data Sources
 
@@ -35,20 +34,18 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 ### Storage
 
 * [lakeFS](https://docs.lakefs.io/integrations/spark.html) <img src="https://img.shields.io/github/last-commit/treeverse/lakefs.svg"> - Integration with the lakeFS atomic versioned storage layer.
+
 ### Bioinformatics
 
 
 ### GIS
 
 
-### Time Series Analytics
-
-
 ### Graph Processing
 
-* [SparklingGraph](http://sparkling.ml) <img src="https://img.shields.io/github/last-commit/sparkling-graph/sparkling-graph.svg"> - Library extending GraphX features with multiple functionalities useful in graph analytics (measures, generators, link prediction etc.).
 
 ### Machine Learning Extension
+
 * [Apache SystemML](https://systemml.apache.org/) <img src="https://img.shields.io/github/last-commit/apache/systemml.svg"> - Declarative machine learning framework on top of Spark.
 * [Mahout Spark Bindings](https://mahout.apache.org/users/sparkbindings/home.html) \[status unknown\] - linear algebra DSL and optimizer with R-like syntax.
 * [KeystoneML](http://keystone-ml.org/) - Type safe machine learning pipelines with RDDs.
@@ -64,6 +61,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 
 ### Natural Language Processing
+
 
 ### Streaming
 
@@ -89,7 +87,6 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 * [Learning Spark, 2nd Edition](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/) - Introduction to Spark API with Spark 3.0 covered. Good source of knowledge about basic concepts.
 * [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do) - Useful collection of Spark processing patterns. Accompanying GitHub repository: [sryza/aas](https://github.com/sryza/aas).
 * [Mastering Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/) - Interesting compilation of notes by [Jacek Laskowski](https://github.com/jaceklaskowski). Focused on different aspects of Spark internals.
-* [Spark Gotchas](https://github.com/awesome-spark/spark-gotchas) - Subjective compilation of tips, tricks and common programming mistakes.
 
 ### Papers
 
@@ -143,6 +140,5 @@ This work (<span property="dct:title">Awesome Spark</span>, by <a href="https://
 
 Apache Spark, Spark, Apache, and the Spark logo are <a href="https://www.apache.org/foundation/marks/">trademarks</a> of
   <a href="http://www.apache.org">The Apache Software Foundation</a>. This compilation is not endorsed by The Apache Software Foundation.
-
 
 Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
