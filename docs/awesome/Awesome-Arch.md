@@ -88,7 +88,6 @@ It has everything on board to build AOSP or AOSP-based distributions like Lineag
 
 > Installers created specifically to facilitate the installation of Linux Arch.
 
-- [Anarchy](https://anarchyinstaller.gitlab.io) - A simple and intuitive Arch Linux installer.
 - [Archfi](https://github.com/MatMoul/archfi) - Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
 - [aui](https://github.com/helmuthdu/aui) - The Archlinux Ultimate Install comprises of two primary scripts, Lilo and Fifo, which streamline the installation process of Archlinux Base, as well as additional packages, tools, and graphical user interfaces.
 
@@ -166,6 +165,7 @@ It has everything on board to build AOSP or AOSP-based distributions like Lineag
 - **Arch XFerience** - A modern OS based on Arch Linux, built for day-to-day operations with tons of packages & features. (inactive)
 - **Chakra GNU/Linux** - A user-friendly and powerful distribution and live CD originally forked from Arch Linux. ([discontinued](https://twitter.com/chakralinux/status/1475111596640727045))
 - **Archphile** - _(Raspberry Pi/ARM/Audio)_ - Yet another linux audio distribution for embedded boards. (inactive)
+- **Anarchy** - A simple and intuitive Arch Linux installer. ([discontinued](https://gitlab.com/anarchyinstaller/installer#deprecated-project))
 
 ## Contribute
 
@@ -195,9 +195,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="12.5%"><a href="https://ar.linkedin.com/in/ulisesjcf"><img src="https://avatars.githubusercontent.com/u/17727170?v=4?s=100" width="100px;" alt="Ulises Jeremias Cornejo Fandos"/><br /><sub><b>Ulises Jeremias Cornejo Fandos</b></sub></a><br /><a href="#content-ulises-jeremias" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="https://raw.githubusercontent.com/andryandrew"><img src="https://avatars.githubusercontent.com/u/29781022?v=4?s=100" width="100px;" alt="Andrea"/><br /><sub><b>Andrea</b></sub></a><br /><a href="#content-andryandrew" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="https://raw.githubusercontent.com/codecrap"><img src="https://avatars.githubusercontent.com/u/5834554?v=4?s=100" width="100px;" alt="Olexiy"/><br /><sub><b>Olexiy</b></sub></a><br /><a href="#content-codecrap" title="Content">🖋</a></td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="12.5%"><a href="https://raw.githubusercontent.com/0xMRTT"><img src="https://avatars.githubusercontent.com/u/105598867?v=4?s=100" width="100px;" alt="0xMRTT"/><br /><sub><b>0xMRTT</b></sub></a><br /><a href="#content-0xMRTT" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="http://malacology.net"><img src="https://avatars.githubusercontent.com/u/37733075?v=4?s=100" width="100px;" alt="Kuoi"/><br /><sub><b>Kuoi</b></sub></a><br /><a href="#content-starsareintherose" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="https://raw.githubusercontent.com/sogreatandpowerfull"><img src="https://avatars.githubusercontent.com/u/114095654?v=4?s=100" width="100px;" alt="SoGreatAndPowerful"/><br /><sub><b>SoGreatAndPowerful</b></sub></a><br /><a href="#content-sogreatandpowerfull" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://raw.githubusercontent.com/ghost"><img src="https://avatars.githubusercontent.com/u/10137?v=4?s=100" width="100px;" alt="Deleted user"/><br /><sub><b>Deleted user</b></sub></a><br /><a href="#maintenance-ghost" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
