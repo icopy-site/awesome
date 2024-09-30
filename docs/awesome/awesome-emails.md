@@ -18,7 +18,7 @@ AWESOME EMAILS ✉ ✨
 
 - [React Email](https://react.email/) - A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
 - [Mailing](https://www.mailing.run/) - Build emails in React, send from anywhere.
-- [JSX-email](https://jsx-mail.org/) - JSX Mail is an email framework that uses React to create email templates. 
+- [JSX-email](https://jsx.email/) - JSX Mail is an email framework that uses React to create email templates. 
 
 ### Misc
 
@@ -28,7 +28,7 @@ AWESOME EMAILS ✉ ✨
 - [HEML](https://heml.io) - HEML is an open source markup language for building responsive email.
 - [Acorn](https://docs.thememountain.com/acorn/) - A responsive email framework based on a golden ratio typography grid.
 - [Pine](https://docs.thememountain.com/pine/) - A 12 column grid, responsive email framework.
-- [Maizzle](https://maizzle.com) - Rapidly prototype HTML emails with Tailwind CSS and advanced, email-specific post-processing.
+- [Maizzle](https://maizzle.com) - Quickly build HTML emails with Tailwind CSS.
 
 ## Cheatsheets
 
@@ -99,9 +99,11 @@ AWESOME EMAILS ✉ ✨
 - [Kickbox](https://kickbox.com) - Email verification service (check an email exists).
 - [Forward Email](https://forwardemail.net) - The 100% open-source and privacy-focused email service.
 - [Campaign Cleaner](https://campaigncleaner.com) - The Ultimate Tool for Optimized, High-Performance Email Campaigns.
+- [ForwardMX](https://forwardmx.net) - Premium email forwarding for your domain name.
 
 ## Self-Hosted Services
 
+- [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click Install and Upgrade a Postfix+Dovecot or Stalwart mail server instance, hands free.
 - [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution.
 - [Mail-in-a-box](https://mailinabox.email/) - Lets you become your own mail service provider in a few easy steps.
 - [Mailcow](https://mailcow.email/) - The mailserver suite with the 'moo'. An easy to use dockerized selfhosted email solution.
@@ -164,6 +166,7 @@ AWESOME EMAILS ✉ ✨
 - [Milled](http://milled.com/)
 - [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) -The most effective email marketing campaigns from Campaign Monitor.
 - [Htmlemaildesigns](http://htmlemaildesigns.com/) - Beautiful emails to help inspire your next email design.
+- [WhoSentWhat](http://whosentwhat.com) - We bring email newsletters from inbox to web
 
 ## Statistics
 
@@ -185,7 +188,6 @@ AWESOME EMAILS ✉ ✨
 - [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby).
 - [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content).
 - [Mail Tester](https://www.mail-tester.com/) - Test the spammyness of your emails.
-- [Sendtest.email](https://sendtest.email/) - Test your HTML email, ⚡4email, or text version before sending. Privacy-focused, no sign-up required!
 - [Mailsnag](https://mailsnag.com/) - Test email server for all of your SMTP needs - simulate delay and errors, preview and share emails, and more - all without sending emails to actual customers.
 - [Email Spam Tester](https://kickbox.com/email-spam-tester/) - Free tool to check to see if your email will end up in the spam folder.
 
