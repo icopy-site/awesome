@@ -272,6 +272,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery UI](http://jqueryui.com/) - Curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery.
 * [tabulous.js](https://github.com/aarondo/tabulous.js) - Tabs for todays web
 * [X-editable](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
+* [macon](https://github.com/LoganTann/macon) - Tiny utility (430B) to create reactive jquery components using a JSX-like syntax.
 
 
 ## Testing
