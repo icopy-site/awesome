@@ -66,13 +66,13 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Sass](https://github.com/sass/sass) - Mature, stable, and powerful professional-grade CSS extension language.
 * [STYLIS](https://github.com/thysultan/stylis.js) - Light-weight CSS preprocessor.
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for NodeJs.
+* [Vanilla Extract](https://vanilla-extract.style/) - Generate static CSS using Typescript. Write type‑safe, locally scoped classes, variables and themes.
 
 <sub>[⇧ back to top](#contents)</sub>
 
 ## Frameworks :art:
 
 * [AgnosticUI](https://www.agnosticui.com/) - Accessible CSS component primitives that also work with React, Vue 3, Svelte, and Angular.
-* [Awsm.css](https://igoradamenko.github.io/awsm.css/) - Simple CSS library for semantic HTML markup.
 * [Bonsai](https://www.bonsaicss.com/) - A complete Utility First CSS Framework for less than 50kb.
 * [Bootstrap](https://getbootstrap.com/) - The most popular HTML, CSS, and JS framework.
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox. Also has Sass import for modification.
@@ -109,7 +109,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ## Toolkits :wrench:
 
 * [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
-* [Susy](https://www.oddbird.net/susy/) - Responsive layout toolkit for Sass.
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -238,6 +237,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 ## Miscellaneous
 
+* [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Curated collection of 93 beautiful CSS box-shadow. Click to copy.
 * [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
 * [Flexbox Patterns](https://flexboxpatterns.com/) by cjcenizal
 * [Glassmorphism CSS Generator](https://ui.glass/generator/) - Generate CSS for glassmorphism.
