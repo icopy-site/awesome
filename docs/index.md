@@ -132,6 +132,7 @@
 - [Salesforce](awesome/awesome-salesforce.md)
 - [Amazon Web Services](awesome/awesome-aws.md)
 - [Windows](awesome/Awesome.md)
+	- [PowerToys Run Plugins](awesome/awesome-powertoys-run-plugins.md) - Community plugins for the Windows quick launcher.
 - [IPFS](awesome/awesome-ipfs.md) - P2P hypermedia protocol.
 - [Fuse](awesome/awesome-fuse.md) - Mobile development tools.
 - [Heroku](awesome/awesome-heroku.md) - Cloud platform as a service.
@@ -859,6 +860,7 @@
 - [Astrophotography](awesome/awesome-astrophotography.md) - Photography of astronomical objects, celestial events, or areas of the night sky.
 - [HPC](awesome/awesome-hpc.md) - High Performance Computing.
 - [Geocaching](awesome/awesome-geocaching.md) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
+- [Regex](awesome/awesome-regex.md) - Specialized language for matching patterns in text.
 
 ## Related
 

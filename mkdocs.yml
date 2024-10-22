@@ -40,6 +40,8 @@ nav:
     - Salesforce: awesome/awesome-salesforce.md
     - Amazon Web Services: awesome/awesome-aws.md
     - Windows: awesome/Awesome-Windows-awesome.md
+    - Windows_sub: 
+      - PowerToys Run Plugins: awesome/awesome-powertoys-run-plugins.md
     - IPFS: awesome/awesome-ipfs.md
     - Fuse: awesome/awesome-fuse.md
     - Heroku: awesome/awesome-heroku.md
@@ -723,6 +725,7 @@ nav:
     - Astrophotography: awesome/awesome-astrophotography.md
     - HPC: awesome/awesome-hpc.md
     - Geocaching: awesome/awesome-geocaching.md
+    - Regex: awesome/awesome-regex.md
     - All Awesome Lists: awesome/topics-awesome.md
     - StumbleUponAwesome: awesome/StumbleUponAwesome.md
     - Awesome CLI: awesome/awesome-cli.md
