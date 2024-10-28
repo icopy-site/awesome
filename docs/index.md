@@ -449,6 +449,7 @@
 - [Audit Algorithms](awesome/awesome-audit-algorithms.md) - Algorithmic audits of algorithms.
 - [AGI & CoCoSci](awesome/awesome-agi-cocosci.md) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 - [Complex Systems](awesome/awesome-complexity.md) - The scientific field studying systems with multiple interacting parts and emergent properties.
+- [VLM Architectures](awesome/awesome-vlm-architectures.md) - Vision Language Model architectures.
 
 ## Books
 
