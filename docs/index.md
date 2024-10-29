@@ -498,6 +498,7 @@
 - [Game Engine Development](awesome/awesome-game-engine-dev.md) - Building software to speed up game creation.
 - [GameMaker](awesome/awesome-gamemaker.md) - Game engine.
 - [Game Production](awesome/awesome-game-production.md) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
+- [Babylon.js](awesome/awesome-babylonjs.md) - Game engine for cross-platform web and native game development.
 
 ## Development Environment
 
@@ -712,6 +713,7 @@
 - [Mental Health](awesome/awesome-mental-health.md) - Mental health awareness and self-care in the software industry.
 - [Neuroscience](awesome/awesome-neuroscience.md) - Study of the nervous system and brain.
 - [Digital Humanities](awesome/awesome-digital-humanities.md) - Software for humanities scholars using quantitative or computational methods.
+- [Lucid Dreams](awesome/awesome-lucid-dreams.md) - A dream where one becomes aware they are dreaming.
 
 ## Events
 
