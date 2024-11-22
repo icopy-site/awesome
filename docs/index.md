@@ -630,6 +630,7 @@
 - [Suricata](awesome/awesome-suricata.md) - Intrusion detection/prevention system and network security monitoring engine.
 - [Prompt Injection](awesome/awesome-prompt-injection.md) - A type of vulnerability that specifically targets machine learning models.
 - [Detection Engineering](awesome/awesome-detection-engineering.md) - Design, build, and operate detective cybersecurity controls.
+- [Annual Security Reports](awesome/awesome-annual-security-reports.md) - Exploring cybersecurity trends, insights, and challenges.
 
 
 - [Umbraco](awesome/awesome-umbraco.md)
