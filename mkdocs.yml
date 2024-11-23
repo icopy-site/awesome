@@ -39,7 +39,7 @@ nav:
     - JVM: awesome/awesome-jvm.md
     - Salesforce: awesome/awesome-salesforce.md
     - Amazon Web Services: awesome/awesome-aws.md
-    - Windows: awesome/Awesome-Windows-awesome.md
+    - Windows: awesome/awesome-windows.md
     - Windows_sub: 
       - PowerToys Run Plugins: awesome/awesome-powertoys-run-plugins.md
     - IPFS: awesome/awesome-ipfs.md
@@ -286,6 +286,7 @@ nav:
     - Fiber: awesome/awesome-fiber.md
     - Kustomize: awesome/awesome-kustomize.md
     - OpenTofu: awesome/awesome-opentofu.md
+    - Reflex: awesome/awesome-reflex.md
   - Computer Science:
     - University Courses: awesome/awesome-courses.md
     - Data Science: awesome/awesome-datascience.md

@@ -142,7 +142,7 @@
 - [JVM](awesome/awesome-jvm.md)
 - [Salesforce](awesome/awesome-salesforce.md)
 - [Amazon Web Services](awesome/awesome-aws.md)
-- [Windows](awesome/Awesome.md)
+- [Windows](awesome/awesome-windows.md) - Consumer desktop operating system.
 	- [PowerToys Run Plugins](awesome/awesome-powertoys-run-plugins.md) - Community plugins for the Windows quick launcher.
 - [IPFS](awesome/awesome-ipfs.md) - P2P hypermedia protocol.
 - [Fuse](awesome/awesome-fuse.md) - Mobile development tools.
@@ -392,6 +392,7 @@
 - [Fiber](awesome/awesome-fiber.md) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
 - [Kustomize](awesome/awesome-kustomize.md) - Kubernetes native declarative configuration management tool.
 - [OpenTofu](awesome/awesome-opentofu.md) - Open-source infrastructure as code tool.
+- [Reflex](awesome/awesome-reflex.md) - Python web framework for building both your frontend and backend with no JavaScript.
 
 ## Computer Science
 
