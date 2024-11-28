@@ -877,6 +877,7 @@
 - [HPC](awesome/awesome-hpc.md) - High Performance Computing.
 - [Geocaching](awesome/awesome-geocaching.md) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
 - [Regex](awesome/awesome-regex.md) - Specialized language for matching patterns in text.
+- [Event-Driven Architecture](awesome/awesome-event-driven-architecture.md) - A software architecture approach where services collaborate by publishing and subscribing to events.
 
 ## Related
 
