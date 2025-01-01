@@ -65,6 +65,7 @@
 
 ## Blogs
 - [Web Performance Calender](https://calendar.perfplanet.com/2020/) - Speed geek's favorite time of the year.
+- [Web Performance Budget: How to Set up, Calculate, And Apply](https://uxify.com/blog/post/web-performance-budget-guide) - How to Set up budget, Calculate, And Apply
 
 ## Podcasts
 - [Chasing Waterfalls](https://chasingwaterfalls.io/) - Conversation with people to make web faster by [Tim kadlec](https://timkadlec.com/)
@@ -75,6 +76,7 @@
 - [Concept of Performance Budget](https://www.youtube.com/watch?list=PLYo5nh8xQFpkwsu9QNlCpPGkmCCuTTWDJ&v=yqejmZrtmNg) - Performance Budget with Tim Kadlec.
 - [Implementing Performance Budgets](https://youtu.be/vVlpCmK1l5k) - How to implement performance budgets to avoid regression - Google Chrome Developers.
 - [Design Decisions Through The Lens Of A Performance Budget](https://vimeo.com/108328247) - How we can make smarter design decisions, from the beginning of a project, to ensure that our sites perform well.
+- [Revisiting Performance Budgets](https://www.youtube.com/watch?v=cnr3CJwpaps) - Revisiting Performance Budgets
 
 ## Books
 
