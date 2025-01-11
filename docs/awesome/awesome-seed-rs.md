@@ -4,14 +4,12 @@
 ## Awesome Seed RS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-    <a href="https://seed-rs.org/">
-        <img src="https://raw.githubusercontent.com/seed-rs/seed-rs.org/81ed1acc77062ede3295683f21f2d39611843192/seed_branding/seed_logo.min.svg" width="256" title="Seed logo">
-    </a>
+    <img src="https://raw.githubusercontent.com/seed-rs/seed-rs.org/81ed1acc77062ede3295683f21f2d39611843192/seed_branding/seed_logo.min.svg" width="256" title="Seed logo">
 </p>
 
 > A curated list of awesome things related to Seed
 
-[Seed](https://seed-rs.org/) is an open-source Rust framework for creating fast and reliable web apps running in WebAssembly.
+Seed is an open-source Rust framework for creating fast and reliable web apps running in WebAssembly.
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
@@ -19,7 +17,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Official Resources
 
-- [Homepage](https://seed-rs.org/)
+- ~~Homepage~~
 - [GitHub repo](https://github.com/seed-rs/seed)
 - [Forum](https://seed.discourse.group)
 - [Chat](https://discord.gg/JHHcHp5)
@@ -54,16 +52,16 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [AdEx Explorer](https://github.com/adexnetwork/adex-explorer) - Shows curated information about the payment channel network of the AdEx advertising protocol.
 - [Kavik.cz](https://github.com/MartinKavik/kavik.cz) - Open-source personal website.
-- [benxu.dev/blog](https://github.com/AlterionX/benxu-dev) - A relatively simple open source personal blog. Built on [`Seed`](https://seed-rs.org/), [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
-- [seed-rs.org](https://github.com/seed-rs/seed-rs.org) - Seed's official website.
+- [benxu.dev/blog](https://github.com/AlterionX/benxu-dev) - A relatively simple open source personal blog. Built on `Seed`, [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
+- ~~seed-rs.org~~ - Seed's official website.
 - [WeightRS](https://gitlab.com/mkroehnert/weightrs) - Minimalistic and privacy friendly progressive web app for tracking your weight.
 - [Music composer](https://github.com/ethanboxx/planters-rdconf-hackathon-project) - A basic music composition app.
 - [Play Seed](https://play-seed.dev) - Website about Play Seed, playground to demo Seed apps.
-- [Typesync](https://typesync.rutrum.net) - Test your typing speed on song lyrics.  Uses [`Seed`](https://seed-rs.org/), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
+- [Typesync](https://typesync.rutrum.net) - Test your typing speed on song lyrics.  Uses `Seed`, [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
 - [CalcuPi](https://dvjn.github.io/CalcuPi) - A beautiful Monte Carlo simulation for approximating the value of pi.
 - [Love Letter Tracker](https://www.fosskers.ca/en/tools/love-letter) - A knowledge tracker for the card game _Love Letter_.
 - [Whatlang.org](https://whatlang.org/) - An interactive demo for whatlang (language recognition library).
-- [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses [`Seed`](https://seed-rs.org/), [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx).
+- [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses `Seed`, [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx).
 
 ## Libraries
 
