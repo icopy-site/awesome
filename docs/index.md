@@ -554,7 +554,6 @@
 
 ## Media
 
-- [Creative Commons Media](awesome/creative-commons-media.md)
 - [Fonts](awesome/awesome-fonts.md)
 - [Codeface](awesome/codeface.md) - Text editor fonts.
 - [Stock Resources](awesome/awesome-stock-resources.md)
@@ -649,7 +648,6 @@
 - [Open Companies](awesome/awesome-open-company.md)
 - [Places to Post Your Startup](awesome/PlacesToPostYourStartup.md)
 - [OKR Methodology](awesome/awesome-okr.md) - Goal setting & communication best practices.
-- [Leading and Managing](awesome/awesome-leading-and-managing.md) - Leading people and being a manager in a technology company/environment.
 - [Indie](awesome/awesome-indie.md) - Independent developer businesses.
 - [Tools of the Trade](awesome/ToolsOfTheTrade.md) - Tools used by companies on Hacker News.
 - [Clean Tech](awesome/awesome-clean-tech.md) - Fighting climate change with technology.
@@ -872,4 +870,3 @@
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 - [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
-- [Open Source Heroes - Awesome](https://opensource-heroes.com/awesome) - View Awesome lists with extra info like stars, last update, and license.

@@ -18,30 +18,11 @@
 
 Official resources.
 
-- [EOS Community](https://eoscommunity.org/)
-- [EOS Network Foundation](https://www.eosn.foundation/)
-- [GitHub](https://github.com/EOSIO)
-- [Technical White Paper](https://github.com/EOSIO/Documentation)
-- [Bug Bounty Program](https://hackerone.com/eosio)
-- [Blog](https://medium.com/eosio)
+- [EOS Network Foundation](https://eosnetwork.com/)
+- [GitHub](https://github.com/AntelopeIO/spring)
+- [Blue Paper](https://eosnetwork.com/blog/category/eos-blue-papers/n)
 - [StackExchange for Q&A](https://eosio.stackexchange.com/)
-- [YouTube](https://www.youtube.com/c/eosio)
-- [Block.one](https://block.one/)
-
-## EdenOS
-
-EdenOS resources.
-
-- [Website](http://edeneos.org/) - Official Website.
-- [eoscommunity](https://github.com/eoscommunity) - Official GitHub.
-- [More Equal Animals Book](https://moreequalanimals.com/posts/book-launch) - Book by Daniel Larimer.
-
-## Mandel
-
-Mandel resources.
-
-- [eosnetworkfoundation/mandel](https://github.com/eosnetworkfoundation/mandel) - Official GitHub.
-- [gofractally](https://github.com/gofractally) - Eden team repository with new Mandel resources and tools.
+- [YouTube](https://www.youtube.com/@EOSNetworkFoundation)
 
 ## Learn
 
