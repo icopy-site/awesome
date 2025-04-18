@@ -397,7 +397,7 @@
 	- [Spanish](awesome/awesome-spanish-nlp.md)
 	- [NLP with Ruby](awesome/nlp-with-ruby.md)
 	- [Question Answering](awesome/awesome-qa.md) - The science of asking and answering in natural language with a machine.
-	- [Natural Language Generation](awesome/awesome-nlg.md) - Generation of text used in data to text, conversational agents, and narrative generation applications.
+	- [Natural Language Generation](awesome/awesome-nlg.md) - Generation of text used in data-to-text, conversational agents, and narrative generation applications.
 - [Linguistics](awesome/awesome-linguistics.md)
 - [Cryptography](awesome/awesome-cryptography.md)
 	- [Papers](awesome/awesome-crypto-papers.md) - Theory basics for using cryptography by non-cryptographers.
@@ -414,10 +414,10 @@
 - [Empirical Software Engineering](awesome/awesome-msr.md) - Evidence-based research on software systems.
 - [Static Analysis & Code Quality](awesome/static-analysis.md)
 - [Information Retrieval](awesome/awesome-information-retrieval.md) - Learn to develop your own search engine.
-- [Quantum Computing](awesome/awesome-quantum-computing.md) - Computing which utilizes quantum mechanics and qubits on quantum computers.
+- [Quantum Computing](awesome/awesome-quantum-computing.md) - Computing that utilizes quantum mechanics and qubits on quantum computers.
 - [Theoretical Computer Science](awesome/awesome-theoretical-computer-science.md) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 - [Conversational AI](awesome/awesome-conversational-ai.md) - Build awesome chatbots and digital assistants.
-- [Generative AI](awesome/awesome-generative-ai.md) - Automatically generate a wide range of unique content in text, image and audio format.
+- [Generative AI](awesome/awesome-generative-ai.md) - Automatically generates a wide range of unique content in text, image, and audio format.
 
 ## Big Data
 
@@ -428,7 +428,7 @@
 - [Streaming](awesome/awesome-streaming.md)
 - [Apache Spark](awesome/awesome-spark.md) - Unified engine for large-scale data processing.
 - [Qlik](awesome/awesome-qlik.md) - Business intelligence platform for data visualization, analytics, and reporting apps.
-- [Splunk](awesome/awesome-splunk.md) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
+- [Splunk](awesome/awesome-splunk.md) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real time.
 - [Network Analysis](awesome/awesome-network-analysis.md)
 
 ## Theory
@@ -628,6 +628,7 @@
 - [Silverstripe CMS](awesome/awesome-silverstripe-cms.md) - PHP MVC framework that serves as a classic or headless CMS.
 - [Directus](awesome/awesome-directus.md) - A real-time API and app dashboard for managing SQL database content.
 - [Plone](awesome/awesome-plone.md) - Open source Python CMS.
+- [Payload](awesome/awesome-payload.md) - Next.js native and open source headless CMS.
 
 ## Hardware
 
@@ -729,6 +730,7 @@
 - [Playwright](awesome/awesome-playwright.md) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 - [Quality Assurance Roadmap](awesome/awesome-quality-assurance-roadmap.md) - How to start & build a career in software testing.
 - [Gatling](awesome/awesome-gatling.md) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
+- [CodeRabbit](awesome/awesome-coderabbit.md) - AI-powered code review platform.
 
 ## Miscellaneous
 
@@ -839,12 +841,12 @@
 - [Web Archiving](awesome/awesome-web-archiving.md) - An effort to preserve the Web for future generations.
 - [WP-CLI](awesome/awesome-wp-cli.md) - Command-line interface for WordPress.
 - [Credit Modeling](awesome/awesome-credit-modeling.md) - Methods for classifying credit applicants into risk classes.
-- [Ansible](awesome/awesome-ansible.md) - A Python-based, open source IT configuration management and automation platform.
+- [Ansible](awesome/awesome-ansible.md) - A Python-based, open-source IT configuration management and automation platform.
 - [Biological Visualizations](awesome/awesome-biological-visualizations.md) - Interactive visualization of biological data on the web.
 - [QR Code](awesome/awesome-qr-code.md) - A type of matrix barcode that can be used to store and share a small amount of information.
 - [Veganism](awesome/awesome-veganism.md) - Making the plant-based lifestyle easy and accessible.
 - [Translations](awesome/awesome-translations.md) - The transfer of the meaning of a text from one language to another.
-- [Scriptable](awesome/awesome-scriptable.md) - An iOS app for automations in JavaScript.
+- [Scriptable](awesome/awesome-scriptable.md) - An iOS app for automation in JavaScript.
 - [WebXR](awesome/awesome-webxr.md) - Enables immersive virtual reality and augmented reality content on the web.
 - [Computational Geometry](awesome/awesome-computational-geometry.md) - Computational approaches for problems in geometry.
 - [OpenStreetMap](awesome/awesome-openstreetmap.md) - An open data mapping project utilized by many apps and devices.
@@ -854,7 +856,7 @@
 - [Biological Image Analysis](awesome/awesome-biological-image-analysis.md) - Interpreting biological phenomena using images.
 - [ChatGPT](awesome/awesome-chatgpt.md) - Artificial intelligence chatbot developed by OpenAI.
 - [Whisper](awesome/awesome-whisper.md) - Open-source AI-powered speech recognition system developed by OpenAI.
-- [Stock Trading](awesome/awesome-stock-trading.md) - Purchase and sale of equities of publicly traded companies with the aim of generating profits.
+- [Stock Trading](awesome/awesome-stock-trading.md) - Purchase and sale of equities of publicly traded companies to generate profits.
 - [Steam Deck](awesome/awesome-steam-deck.md) - A handheld gaming computer developed by Valve.
 - [Astrophotography](awesome/awesome-astrophotography.md) - Photography of astronomical objects, celestial events, or areas of the night sky.
 - [HPC](awesome/awesome-hpc.md) - High Performance Computing.

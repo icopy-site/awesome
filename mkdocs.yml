@@ -513,6 +513,7 @@ nav:
     - Silverstripe CMS: awesome/awesome-silverstripe-cms.md
     - Directus: awesome/awesome-directus.md
     - Plone: awesome/awesome-plone.md
+    - Payload: awesome/awesome-payload.md
   - Hardware:
     - Robotics: awesome/awesome-robotics.md
     - Internet of Things: awesome/awesome-iot.md
@@ -599,6 +600,7 @@ nav:
     - Playwright: awesome/awesome-playwright.md
     - Quality Assurance Roadmap: awesome/awesome-quality-assurance-roadmap.md
     - Gatling: awesome/awesome-gatling.md
+    - CodeRabbit: awesome/awesome-coderabbit.md
   - Miscellaneous:
     - Scientific Writing: awesome/awesome-scientific-writing.md
     - JSON: awesome/awesome-json.md
