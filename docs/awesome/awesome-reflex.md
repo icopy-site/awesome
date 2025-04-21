@@ -96,7 +96,7 @@ Reflex's own website was built using Reflex! See [code on GitHub.](https://githu
 ## 📦 Component Libraries
 
 - [`reflex-chakra`](https://chakra.reflex.run/introduction/) - A simple, modular and accessible component library (wrapped).
-- [`reflex-clerk`](https://pypi.org/project/reflex-clerk/) - A library for managing and displaying data in Reflex applications.
+- [`reflex-clerk`](https://pypi.org/project/reflex-clerk/) - Custom Reflex component library for integration with Clerk, a user authentication and management platform. 
 - [`reflex-color-picker`](https://pypi.org/project/reflex-color-picker/) - A color picker
 - [`reflex-chat`](https://pypi.org/project/reflex-chat/) - A chat component
 - [`reflex-local-auth`](https://pypi.org/project/reflex-local-auth/) - Local authentication
