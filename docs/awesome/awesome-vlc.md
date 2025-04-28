@@ -23,13 +23,14 @@ This is a list of awesome resources about VLC and LibVLC.
 - [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 - [vlc-mixer](https://github.com/lachie/vlc-mixer) - Audio mixer VLC plugin written in Zig.
 
-## VLC lua extensions
+## VLC web & lua extensions
 
 - [VideoLAN addons website](https://addons.videolan.org/browse/) - VideoLAN addons website.
 - [vlc-delete](https://github.com/surrim/vlc-delete) - VLC extension to remove videos from the hard disk.
 - [TraktForVLC](https://github.com/XaF/TraktForVLC) - Automatically trakt.tv what you're watching on VLC.
 - [playlist-youtube-vlc](https://github.com/Abstraxt-AA/playlist-youtube-vlc) - Lua plugin to parse Youtube playlists.
 - [vlc-super-skipper](https://github.com/Trevelopment/vlc-super-skipper) - Automatically Skip Opening and Ending Sequences.
+- [vlc-mcp-server](https://github.com/piebro/vlc-mcp-server) -  An MCP (Model Context Protocol) Server to play and control movies using the VLC HTTP API and natural language using an LLM.
 
 ## Apps
 
