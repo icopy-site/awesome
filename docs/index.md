@@ -163,6 +163,7 @@
 - [Bluetooth Low Energy](awesome/awesome-ble.md) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
 - [Uno Platform](awesome/awesome-uno-platform.md) - Open-source .NET UI platform for building cross-platform apps.
 - [Google Cloud](awesome/awesome-google-cloud.md) - Cloud computing services by Google.
+- [Firebase Genkit](awesome/awesome-firebase-genkit.md) - An open-source framework for building AI-powered apps and features.
 
 ## Programming Languages
 
@@ -220,6 +221,7 @@
 - [Dart](awesome/awesome-dart.md)
 - [Java](awesome/awesome-java.md) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
 	- [RxJava](awesome/awesome-rxjava.md)
+ 	- [J2ME](awesome/awesome-j2me.md) - Java specification designed for old keypad phones and PDAs.
 - [Kotlin](awesome/awesome-kotlin.md)
 - [OCaml](awesome/awesome-ocaml.md)
 - [ColdFusion](awesome/awesome-coldfusion.md)
@@ -244,6 +246,7 @@
 - [Zig](awesome/awesome-zig.md) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [Move](awesome/awesome-move.md) - Domain-specific programming language for writing safe smart contracts.
 - [Esolangs](awesome/awesome-esolangs.md) - Programming languages designed for experimentation or as jokes rather than actual use.
+- [VBA](awesome/awesome-vba.md) - An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
 
 <br>
 <hr>
@@ -342,6 +345,7 @@
 - [Hydrogen](awesome/awesome-hydrogen.md) - Edge-first framework for building Shopify storefronts with React.
 - [Tiny JS](awesome/awesome-tiny-js.md) - Frontend libraries that fit into 2 kB with dependencies.
 - [Frontend GIS](awesome/awesome-frontend-gis.md) - Geographic Information Systems (GIS) for web browsers.
+- [WebGPU](awesome/awesome-webgpu.md) - JavaScript API for rendering and compute on GPUs.
 
 ## Back-End Development
 
@@ -521,6 +525,7 @@
 - [Alfred Workflows](awesome/awesome-alfred-workflows.md) - Productivity app for macOS.
 - [Terminals Are Sexy](awesome/terminals-are-sexy.md)
 - [GitHub Actions](awesome/awesome-actions.md) - Create tasks to automate your workflow and share them with others on GitHub.
+- [WezTerm](awesome/awesome-wezterm.md) - Powerful cross-platform terminal emulator.
 
 ## Entertainment
 
@@ -616,6 +621,7 @@
 - [Prompt Injection](awesome/awesome-prompt-injection.md) - A type of vulnerability that specifically targets machine learning models.
 - [Detection Engineering](awesome/awesome-detection-engineering.md) - Design, build, and operate detective cybersecurity controls.
 - [Annual Security Reports](awesome/awesome-annual-security-reports.md) - Exploring cybersecurity trends, insights, and challenges.
+- [CI/CD Attacks](awesome/awesome-cicd-attacks.md) - Offensive research of systems and processes related to developing and deploying code.
 
 
 - [Umbraco](awesome/awesome-umbraco.md)
@@ -678,6 +684,7 @@
 - [Real-Time Communications](awesome/awesome-rtc.md) - Network protocols for near simultaneous exchange of media and data.
 - [SNMP](awesome/awesome-snmp.md) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 - [Scapy](awesome/awesome-scapy.md) - Python-based interactive packet manipulation.
+- [Cilium](awesome/awesome-cilium.md) - Provides networking and security capabilities for containerized apps, microservices, and virtual machines.
 
 ## Decentralized Systems
 
@@ -697,6 +704,7 @@
 - [ZeroNet](awesome/awesome-zeronet.md) - A decentralized web-like network of peer-to-peer users.
 - [Cosmos SDK](awesome/awesome-cosmos.md) - Modular framework for building app-specific blockchains in Go.
 - [Tor](awesome/awesome-tor.md) - A free overlay network for enabling anonymous communication.
+- [ATProto](awesome/awesome-atproto.md) - Open, decentralized network for building social apps.
 
 ## Health and Social Science
 
@@ -711,6 +719,7 @@
 - [Neuroscience](awesome/awesome-neuroscience.md) - Study of the nervous system and brain.
 - [Digital Humanities](awesome/awesome-digital-humanities.md) - Software for humanities scholars using quantitative or computational methods.
 - [Lucid Dreams](awesome/awesome-lucid-dreams.md) - A dream where one becomes aware they are dreaming.
+- [Neuroimaging](awesome/awesome-neuroimaging.md) - Software for analyzing brain data from living subjects.
 
 ## Events
 
@@ -864,6 +873,7 @@
 - [Regex](awesome/awesome-regex.md) - Specialized language for matching patterns in text.
 - [Event-Driven Architecture](awesome/awesome-event-driven-architecture.md) - A software architecture approach where services collaborate by publishing and subscribing to events.
 - [Permacomputing](awesome/awesome-permacomputing.md) - Resilient and regenerative computing practices inspired by permaculture.
+- [Standards](awesome/awesome-standards.md) - Standards and proposals that define and enhance software, languages, and related technologies.
 
 ## Related
 

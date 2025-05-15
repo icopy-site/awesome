@@ -77,6 +77,7 @@ nav:
     - Bluetooth Low Energy: awesome/awesome-ble.md
     - Uno Platform: awesome/awesome-uno-platform.md
     - Google Cloud: awesome/awesome-google-cloud.md
+    - Firebase Genkit: awesome/awesome-firebase-genkit.md
   - Programming Languages:
     - JavaScript: awesome/awesome-javascript.md
     - JavaScript_sub: 
@@ -163,6 +164,7 @@ nav:
     - Zig: awesome/awesome-zig.md
     - Move: awesome/awesome-move.md
     - Esolangs: awesome/awesome-esolangs.md
+    - VBA: awesome/awesome-vba.md
   - Front-End Development:
     - ES6 Tools: awesome/es6-tools.md
     - Web Performance Optimization: awesome/awesome-wpo.md
@@ -250,6 +252,7 @@ nav:
     - Hydrogen: awesome/awesome-hydrogen.md
     - Tiny JS: awesome/awesome-tiny-js.md
     - Frontend GIS: awesome/GIS.md
+    - WebGPU: awesome/awesome-webgpu.md
   - Back-End Development:
     - Flask: awesome/awesome-flask.md
     - Docker: awesome/awesome-docker.md
@@ -420,6 +423,7 @@ nav:
     - Alfred Workflows: awesome/awesome-alfred-workflows.md
     - Terminals Are Sexy: awesome/terminals-are-sexy.md
     - GitHub Actions: awesome/awesome-actions.md
+    - WezTerm: awesome/awesome-wezterm.md
   - Entertainment:
     - Science Fiction: awesome/awesome-scifi.md
     - Fantasy: awesome/awesome-fantasy.md
@@ -504,6 +508,7 @@ nav:
     - Prompt Injection: awesome/awesome-prompt-injection.md
     - Detection Engineering: awesome/awesome-detection-engineering.md
     - Annual Security Reports: awesome/awesome-annual-security-reports.md
+    - CI/CD Attacks: awesome/awesome-cicd-attacks.md
     - Umbraco: awesome/awesome-umbraco.md
     - Refinery CMS: awesome/awesome-refinerycms.md
     - Wagtail: awesome/awesome-wagtail.md
@@ -556,6 +561,7 @@ nav:
     - Real-Time Communications: awesome/awesome-rtc.md
     - SNMP: awesome/awesome-snmp.md
     - Scapy: awesome/awesome-scapy.md
+    - Cilium: awesome/awesome-cilium.md
   - Decentralized Systems:
     - Bitcoin: awesome/awesome-bitcoin.md
     - Ripple: awesome/awesome-ripple.md
@@ -573,6 +579,7 @@ nav:
     - ZeroNet: awesome/awesome-zeronet.md
     - Cosmos SDK: awesome/awesome-cosmos.md
     - Tor: awesome/awesome-tor.md
+    - ATProto: awesome/awesome-atproto.md
   - Health and Social Science:
     - Biomedical Information Extraction: awesome/awesome-bioie.md
     - Computational Neuroscience: awesome/awesome-computational-neuroscience.md
@@ -585,6 +592,7 @@ nav:
     - Neuroscience: awesome/awesome-neuroscience.md
     - Digital Humanities: awesome/awesome-digital-humanities.md
     - Lucid Dreams: awesome/awesome-lucid-dreams.md
+    - Neuroimaging: awesome/awesome-neuroimaging.md
   - Events:
     - Creative Tech Events: awesome/awesome-creative-tech-events.md
     - Events in Italy: awesome/awesome-italy-events.md
@@ -733,6 +741,7 @@ nav:
     - Regex: awesome/awesome-regex.md
     - Event-Driven Architecture: awesome/awesome-event-driven-architecture.md
     - Permacomputing: awesome/awesome-permacomputing.md
+    - Standards: awesome/awesome-standards.md
     - All Awesome Lists: awesome/topics-awesome.md
     - StumbleUponAwesome: awesome/StumbleUponAwesome.md
     - Awesome CLI: awesome/awesome-cli.md
