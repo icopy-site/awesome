@@ -141,3 +141,7 @@ Also, if you notice that any of the above listed repositories should be deprecat
 More info on the [guidelines](https://github.com/aaronhma/awesome-tensorflow-js/blob/master/CONTRIBUTING.md).
 
 **NOTE: In order to create an community that is welcome for all, ALL contributors MUST agree to the [Code of Conduct](https://github.com/aaronhma/awesome-tensorflow-js/blob/master/CODE_OF_CONDUCT.md).**
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=aaronhma/awesome-tensorflow-js&type=Date)](https://www.star-history.com/#aaronhma/awesome-tensorflow-js&Date)
