@@ -9,7 +9,7 @@ Security card games help train your skills and enable discussions for various ar
 
 ## Application Security
 
-- [Cornucopia](https://www.owasp.org/index.php/OWASP_Cornucopia) - A card game based on OWASP's Top 10 (authentication, data Validation etc.). The [card deck](https://www.owasp.org/images/7/71/Owasp-cornucopia-ecommerce_website.pdf) is available as PDF from OWASP.
+- [Cornucopia](https://cornucopia.owasp.org) - OWASP® Cornucopia is a threat modeling tool in the form of a card game to assist software development teams identify security requirements in Agile, conventional and formal development processes. It's based on OWASP's Top 10, ASVS/MASVS/MASTG, CAPEC and SAFECode. The [card decks](https://github.com/Karneades/awesome-security-card-games/blob/master/[https://cornucopia.owasp.org/webshop)) are available both as a Website version and a Mobile version as physical decks that can be bought online or in a digital format at [copi.owasp.org](https://copi.owasp.org).
 
 ## Cryptography
 
