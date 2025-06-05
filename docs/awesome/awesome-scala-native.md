@@ -71,7 +71,7 @@
 * [scalatags](https://github.com/com-lihaoyi/scalatags) - HTML/XML construction and rendering.
 * [Pine](https://github.com/sparsetech/pine) - HTML/XML parsing, manipulation and rendering.
 * [scala-json](https://github.com/MediaMath/scala-json) - JSON parser.
-* [uJson](https://com-lihaoyi.github.io/upickle/#uJson) - fast, flexible and intuitive JSON for Scala
+* [uPickle](https://github.com/com-lihaoyi/upickle) - uPickle: a simple, fast, dependency-free JSON & Binary (MessagePack) serialization library for Scala
 * [toml-scala](https://github.com/sparsetech/toml-scala) - [TOML](https://github.com/toml-lang/toml) parser with codec derivation.
 * [argonaut](https://github.com/argonaut-io/argonaut) - Purely functional JSON parser and library.
 * [ScalaPB](https://github.com/scalapb/ScalaPB) - [Protocol Buffer](https://developers.google.com/protocol-buffers/) compiler for Scala.
@@ -80,9 +80,10 @@
 * [squiggly](https://github.com/edadma/squiggly) - Cross-platform template language for Scala, inspired by Liquid and Hugo templates.
 
 ## Databases
-* [JDBC](https://github.com/jokade/scalanative-jdbc) - Port of the database access layer [JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity) to Scala Native.
+* [scala-native-jdbc](https://github.com/lolgab/scala-native-jdbc) - Port of the database access layer [JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity) to Scala Native.
 * [SQLite4S](https://github.com/david-bouyssie/sqlite4s) - Port of the Java library [Sqlite4java](https://bitbucket.org/almworks/sqlite4java). Includes bindings for the SQLite native library.
 * [libpq4s](https://github.com/david-bouyssie/libpq4s) - Scala wrapper around the async PostgreSQL C library libpq.
+* [skunk](https://github.com/typelevel/skunk) -  A data access library for Scala + Postgres.
 
 ## Web Development
 * [Trail](https://github.com/sparsetech/trail) - Routing library.
