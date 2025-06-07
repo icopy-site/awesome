@@ -231,6 +231,7 @@ On character encoding, string formatting, unicode and internationalization.
 ## Transportation
 
 - [Falsehoods about Cars](https://github.com/driveto/falsehoods-about-cars) - Even something as common as defining a car is full of pitfalls.
+- [Falsehoods about Aviation](https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/) - Aviation data are less normalized than you might think.
 - [Falsehoods about Airline Seat Maps](https://duffel.com/blog/falsehoods-about-seat-maps) - Airline seat maps are far more complex than just neat rows and columns of seats.
 - [The Maddening Mess of Airport Codes](https://www.youtube.com/watch?v=jfOUVYQnuhw) - Having multiple international and national agencies trying to reconcile history, practicality and logistics makes codes follow arcane rules.
 - [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - Old airline reservation systems considers the `MR` suffix as `Mister` and drops it.
@@ -263,4 +264,4 @@ The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/asse
 
 <!--lint disable no-undefined-references-->
 
-<a name="intro-quote-def">\[1\]</a>: [*Notebooks, 1914-1916*](https://www.amazon.com/dp/1324090804?&linkCode=ll1&tag=kevideld-20&linkId=a1903c3fbfdc82fbe2e566fca40718fb&language=en_US&ref_=as_li_ss_tl) (Liveright, 2022) - [source: page 14e](https://archive.org/details/notebooks191419100witt/page/n35). [\[↑\]](#intro-quote-ref)
+<a name="intro-quote-def">[1]</a>: [*Notebooks, 1914-1916*](https://www.amazon.com/dp/1324090804?&linkCode=ll1&tag=kevideld-20&linkId=a1903c3fbfdc82fbe2e566fca40718fb&language=en_US&ref_=as_li_ss_tl) (Liveright, 2022) - [source: page 14e](https://archive.org/details/notebooks191419100witt/page/n35). [[↑]](#intro-quote-ref)
