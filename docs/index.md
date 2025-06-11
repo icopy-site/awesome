@@ -836,6 +836,7 @@
 - [Event-Driven Architecture](awesome/awesome-event-driven-architecture.md) - A software architecture approach where services collaborate by publishing and subscribing to events.
 - [Permacomputing](awesome/awesome-permacomputing.md) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards](awesome/awesome-standards.md) - Standards and proposals that define and enhance software, languages, and related technologies.
+- [Claude Code](awesome/awesome-claude-code.md) - Terminal-based AI coding assistant by Anthropic.
 
 ## Related
 
