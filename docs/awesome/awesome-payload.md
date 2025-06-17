@@ -17,7 +17,8 @@ Payload is natively integrated with Next.js and is installed directly into your 
 Official resources.
 
 - [GitHub](https://github.com/payloadcms/payload) - Official GitHub repository of the Payload framework.
-- [Blog](https://payloadcms.com/blog) - Official blog. Announcements and high-quality articles.
+- [Blog](https://payloadcms.com/blog) - Official blog. Announcements.
+- [Payload Guides & Tutorials](https://payloadcms.com/posts/guides) - High-quality guides and articles.
 - [YouTube](https://www.youtube.com/@payloadcms) - Official YouTube channel with learning materials.
 - [Discord](https://discord.gg/payload) - Official Discord. Community chat and support.
 - [X (Twitter)](https://twitter.com/payloadcms) - Official X account. Payload news and announcements.
@@ -31,6 +32,7 @@ Learning resources in various formats.
 - [Aaron Saunders](https://www.youtube.com/@AaronSaundersCI) - Payload videos related to integrations and custom components.
 - [All About Payload](https://www.youtube.com/@AllAboutPayload) - Tutorials, tips and tricks.
 - [Danail Minchev](https://www.youtube.com/@DanailMinchev) - Practical Payload tutorials.
+- [Learn Payload with Colyn](https://www.youtube.com/@LearnPayload) - Payload series.
 - [NLV Codes](https://www.youtube.com/@nlv_codes) - Channel dedicated to Payload, starting with beginner lessons.
 - [Sam Thoyre](https://www.youtube.com/@SamThoyre) - Full courses related to Payload.
 - [Studio Monty](https://www.youtube.com/watch?v=MIJRgfRYHSU&list=PLmIBeoKTwgwlVxmmzU3L03v4Iq2mZ_tcR) - Custom components for Payload and useful tips.
