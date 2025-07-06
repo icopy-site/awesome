@@ -253,6 +253,7 @@ nav:
     - Tiny JS: awesome/awesome-tiny-js.md
     - Frontend GIS: awesome/GIS.md
     - WebGPU: awesome/awesome-webgpu.md
+    - WebAssembly: awesome/awesome-webassembly.md
   - Back-End Development:
     - Flask: awesome/awesome-flask.md
     - Docker: awesome/awesome-docker.md

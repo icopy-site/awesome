@@ -308,6 +308,7 @@
 - [Tiny JS](awesome/awesome-tiny-js.md) - Frontend libraries that fit into 2 kB with dependencies.
 - [Frontend GIS](awesome/awesome-frontend-gis.md) - Geographic Information Systems (GIS) for web browsers.
 - [WebGPU](awesome/awesome-webgpu.md) - JavaScript API for rendering and compute on GPUs.
+- [WebAssembly](awesome/awesome-webassembly.md) - A portable binary format for running code efficiently across platforms.
 
 ## Back-End Development
 
