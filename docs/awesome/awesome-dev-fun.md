@@ -84,6 +84,7 @@ For now this is a really short list, so please contribute. Read [the guide](http
 - [Like-my-GF](https://github.com/cyandterry/Like-My-GF) - This is an auto-robot to like your girlfriend's post on Instagram.
 - [RoastBot](https://github.com/Tylersuard/RoastBot) - A chatbot that insults its user.
 - [ErrorFlow](https://github.com/SudoPseudo/ErrorFlow) - Lightweight version of TensorFlow with the same functionality: It never works and only outputs errors.
+- [gremllm](https://github.com/awwaiid/gremllm) - Always a good idea to add gremlins to your code in a modern fashion.
 
 ## Ruby
 
