@@ -683,6 +683,7 @@
 - [Digital Humanities](awesome/awesome-digital-humanities.md) - Software for humanities scholars using quantitative or computational methods.
 - [Lucid Dreams](awesome/awesome-lucid-dreams.md) - A dream where one becomes aware they are dreaming.
 - [Neuroimaging](awesome/awesome-neuroimaging.md) - Software for analyzing brain data from living subjects.
+- [Transgender](awesome/awesome-transgender.md) - Someone whose gender identity differs from their assigned birth sex.
 
 ## Events
 
