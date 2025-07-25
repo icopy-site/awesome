@@ -154,6 +154,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [pine64](https://pine64.org/) - Devices based on open-source hardware.
 - [Green Arrays](https://www.greenarraychips.com/) - Low power computation platforms.
 - [RC2014](https://rc2014.co.uk/) - A simple 8 bit Z80 based modular computer.
+- [SHIFT](https://www.shift.eco/en/) - Modular devices designed for repairability.
 
 ##### Repairing
 
