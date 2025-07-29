@@ -110,6 +110,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 ## Form
 - [Static Forms](https://www.staticforms.xyz/) - Form that sends its results to your email.
 - [FlyingForms](https://flyingforms.io/?utm_source=github-awesome-components&utm_medium=referral&utm_campaign=awesome-list) - Building, versioning and managing forms.
+- [KirokuForms](https://kirokuforms.com/) - Drag-and-drop form builder with generous free tier, email notifications, and full API access.
 
 ## Marketing
 - [TrustPulse](https://trustpulse.com/) - Shows recent buyers on your website.
