@@ -3,8 +3,8 @@
 
 > A curated list of awesome computational geometry visualizations, libraries, and resources.
 
-[Computational geometry](https://en.wikipedia.org/wiki/Computational_geometry) is a topic in computer science that focuses on solving problems in geometry. 
-Applications of computational geometry include computer-aided design, robotics, GIS systems, and computer vision. 
+[Computational geometry](https://en.wikipedia.org/wiki/Computational_geometry) is a topic in computer science that focuses on solving problems in geometry.
+Applications of computational geometry include computer-aided design, robotics, GIS systems, and computer vision.
 
 
 
@@ -16,17 +16,17 @@ Applications of computational geometry include computer-aided design, robotics, 
 - [Kirkpatrick's Point location](http://rkaneriya.github.io/point-location/) - A data structure and method for point location with O(n) space and O(log n) query time using triangulation.
 - [Voronoi Diagrams](http://alexbeutel.com/webgl/voronoi.html) - A partition of a plane into regions close to a given set of points.
 - [Fortune's Algorithm](https://www.desmos.com/calculator/ejatebvup4) - A sweep line algorithm for generating the Voronoi diagram in O(n log n) time and O(n) space.
-- [Point/Line Duality](https://people.eng.unimelb.edu.au/henli/programs/duality-demo/) - A type of mathematical duality frequently used in computational geometry algorithms.
-- [k-d tree](https://opendsa-server.cs.vt.edu/ODSA/AV/Development/kd-treeAV.html?selfLoggingEnabled=false&localMode=false&module=KDtree&JXOP-debug=true&JOP-lang=en&JXOP-code=java&scoringServerEnabled=false&threshold=1.0&points=0&required=False) - A method of partitioning k-dimensional space in an efficient way for searches like nearest neighbors.
+- [k-d tree](https://web.archive.org/web/20250209182314/https://opendsa-server.cs.vt.edu/ODSA/AV/Development/kd-treeAV.html?selfLoggingEnabled=false&localMode=false&module=KDtree&JXOP-debug=true&JOP-lang=en&JXOP-code=java&scoringServerEnabled=false&threshold=1.0&points=0&required=False) - A method of partitioning k-dimensional space in an efficient way for searches like nearest neighbors.
 - [Configuration Space](https://www.youtube.com/watch?v=SBFwgR4K1Gk) - The space of possible configurations of an object like a robot.
+- [CGViz: Computational Geometry Interactive Visualizations](https://jes24.github.io/CGViz/) ([GitHub](https://github.com/JeS24/CGViz)) - CGViz is a FOSS web app for step-by-step visualizations of many algorithms, designed for exploration, teaching, and creating exportable visuals.
 
 ## Books
 
 - [Computational Geometry: Algorithms and Applications](https://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736) - A textbook by Mark de Berg, Otfried Cheong, Marc van Kreveld, and Mark Overmars (2008).
-- [Computational Geometry in C](https://www.amazon.com/Computational-Geometry-Cambridge-Theoretical-Paperback/dp/0521649765) -  A popular introduction to the design and implementation of geometry algorithms arising in areas such as computer graphics, robotics, and engineering design by Joseph O'Rourke (1998).
+- [Computational Geometry in C](https://www.amazon.com/Computational-Geometry-Cambridge-Theoretical-Paperback/dp/0521649765) - A popular introduction to the design and implementation of geometry algorithms arising in areas such as computer graphics, robotics, and engineering design by Joseph O'Rourke (1998).
 - [Computational Geometry: An Introduction](https://www.amazon.com/Computational-Geometry-Introduction-Monographs-Computer/dp/0387961313) - An introductory textbook by Franco P. Preparata and Michael I. Shamos (1993).
 - [Algorithmic Geometry](https://www.amazon.com/Algorithmic-Geometry-Jean-Daniel-Boissonnat/dp/0521565294) - A textbook by Jean-Daniel Boissonnat, Mariette Yvinec, and Herve Bronniman (1998).
-- [Discrete and Computational Geometry](https://www.amazon.com/Discrete-Computational-Geometry-Satyan-Devadoss/dp/0691145539) -  A comprehensive yet accessible introduction to the intermingling of discrete geometry, a relatively new development in pure mathematics, and computational geometry, an emerging area in applications-driven computer science by Satyan L. Devadoss and Joseph O'Rourke (2011).
+- [Discrete and Computational Geometry](https://www.amazon.com/Discrete-Computational-Geometry-Satyan-Devadoss/dp/0691145539) - A comprehensive yet accessible introduction to the intermingling of discrete geometry, a relatively new development in pure mathematics, and computational geometry, an emerging area in applications-driven computer science by Satyan L. Devadoss and Joseph O'Rourke (2011).
 - [Interactive Computational Geometry - A taxonomic approach](http://www.clearviewtraining.com/interactive-computational.html) - An interactive introduction to some of the fundamental algorithms of computational geometry with Mathematica by Jim Arlow (2014).
 
 ## Notes
