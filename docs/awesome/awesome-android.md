@@ -139,6 +139,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Floating-Navigation-View](https://github.com/andremion/Floating-Navigation-View) - A simple Floating Action Button that shows an anchored Navigation View.
 
 #### Animations
+- [SmoothMotion](https://github.com/abdullahalhakimi/SmoothMotion) -  Kotlin library for simplifying animations and transitions in Jetpack Compose.
 - [Rebound](https://github.com/facebook/rebound) - Rebound is a Java library that models spring dynamics.
 - [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
 - [Android-Transition](https://github.com/kaichunlin/android-transition) - Allows the easy creation of view transitions that react to user inputs.
@@ -232,6 +233,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Bugfender](https://github.com/bugfender/BugfenderSDK-android-sample) - Upload your logs and check them online, specially made for mobile
 - [EzyLogger](https://github.com/afiqiqmal/EzyLogger) - Simple Lightweight logger
 - [Logback Android](https://github.com/tony19/logback-android) - Logback port to Android which provides a highly configurable logging framework for Android apps.
+- [LogDog](https://log.dog) - LogDog is a remote debugging/logging sdk (iOS and Android) with a web ui. Captures all logs and requests in real-time and allows to intercept them. 
 
 ### Notifications
 - [android-remote-notifications](https://github.com/kaiwinter/android-remote-notifications) - Pulls notifications from a remote JSON file and shows them in your app.
@@ -362,6 +364,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Other
 
+- [Licensee](https://github.com/cashapp/licensee) - Licensee is a Gradle plugin which validates the licenses of your dependency graph match what you expect, or it fails your build!
 - [Android Support library](https://developer.android.com/topic/libraries/support-library/) - The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.
 - [Google Play Services](https://developers.google.com/android/guides/overview) - Library to access Google services, such as account syncing, Google+ (sharing, single sign-on), Google Maps, Location APIs, Google Play Games, Cloud Messaging, Android Device Manager, and others.
 - [Tape](https://github.com/square/tape) - A lightning fast, transactional, file-based FIFO for Android and Java.
