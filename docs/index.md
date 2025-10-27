@@ -141,6 +141,7 @@
 - [Uno Platform](awesome/awesome-uno-platform.md) - Open-source .NET UI platform for building cross-platform apps.
 - [Google Cloud](awesome/awesome-google-cloud.md) - Cloud computing services by Google.
 - [Firebase Genkit](awesome/awesome-firebase-genkit.md) - An open-source framework for building AI-powered apps and features.
+- [Backstage](awesome/awesome-backstage.md) - Open-source platform for building Internal Developer Portals that unify tools and workflows.
 
 ## Programming Languages
 
@@ -172,7 +173,7 @@
 	- [Typing](awesome/awesome-python-typing.md) - Optional static typing for Python.
 	- [MicroPython](awesome/awesome-micropython.md) - A lean and efficient implementation of Python 3 for microcontrollers.
 - [Rust](awesome/awesome-rust.md)
- 	- [Pest](awesome/awesome-pest.md) - Parser generator.
+	- [Pest](awesome/awesome-pest.md) - Parser generator.
 - [Haskell](awesome/awesome-haskell.md)
 - [PureScript](awesome/awesome-purescript.md)
 - [Go](awesome/awesome-go.md)
@@ -224,6 +225,7 @@
 - [Move](awesome/awesome-move.md) - Domain-specific programming language for writing safe smart contracts.
 - [Esolangs](awesome/awesome-esolangs.md) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [VBA](awesome/awesome-vba.md) - An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
+- [F#](awesome/awesome-fsharp.md) - A .NET-based language with focus on functional programming.
 
 <br>
 <hr>
@@ -478,6 +480,7 @@
 - [GameMaker](awesome/awesome-gamemaker.md) - Game engine.
 - [Game Production](awesome/awesome-game-production.md) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
 - [Babylon.js](awesome/awesome-babylonjs.md) - Game engine for cross-platform web and native game development.
+- [Roblox](awesome/awesome-roblox.md) - Immersive platform for hosting millions of diverse experiences.
 
 ## Development Environment
 
@@ -854,6 +857,7 @@
 - [Permacomputing](awesome/awesome-permacomputing.md) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards](awesome/awesome-standards.md) - Standards and proposals that define and enhance software, languages, and related technologies.
 - [Claude Code](awesome/awesome-claude-code.md) - Terminal-based AI coding assistant by Anthropic.
+- [SAP Commerce](awesome/awesome-sap-commerce.md) - An e-commerce platform built with Java, Spring MVC, and Angular.
 
 ## Related
 

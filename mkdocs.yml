@@ -78,6 +78,7 @@ nav:
     - Uno Platform: awesome/awesome-uno-platform.md
     - Google Cloud: awesome/awesome-google-cloud.md
     - Firebase Genkit: awesome/awesome-firebase-genkit.md
+    - Backstage: awesome/awesome-backstage.md
   - Programming Languages:
     - JavaScript: awesome/awesome-javascript.md
     - JavaScript_sub: 
@@ -110,6 +111,8 @@ nav:
       - Typing: awesome/awesome-python-typing.md
       - MicroPython: awesome/awesome-micropython.md
     - Rust: awesome/awesome-rust.md
+    - Rust_sub: 
+      - Pest: awesome/awesome-pest.md
     - Haskell: awesome/awesome-haskell.md
     - PureScript: awesome/awesome-purescript.md
     - Go: awesome/awesome-go.md
@@ -165,6 +168,7 @@ nav:
     - Move: awesome/awesome-move.md
     - Esolangs: awesome/awesome-esolangs.md
     - VBA: awesome/awesome-vba.md
+    - F#: awesome/awesome-fsharp.md
   - Front-End Development:
     - ES6 Tools: awesome/es6-tools.md
     - Web Performance Optimization: awesome/awesome-wpo.md
@@ -400,6 +404,7 @@ nav:
     - GameMaker: awesome/awesome-gamemaker.md
     - Game Production: awesome/awesome-game-production.md
     - Babylon.js: awesome/awesome-babylonjs.md
+    - Roblox: awesome/awesome-roblox.md
   - Development Environment:
     - Quick Look Plugins: awesome/quick-look-plugins.md
     - Dev Env: awesome/awesome-devenv.md
@@ -745,6 +750,7 @@ nav:
     - Permacomputing: awesome/awesome-permacomputing.md
     - Standards: awesome/awesome-standards.md
     - Claude Code: awesome/awesome-claude-code.md
+    - SAP Commerce: awesome/awesome-sap-commerce.md
     - All Awesome Lists: awesome/topics-awesome.md
     - StumbleUponAwesome: awesome/StumbleUponAwesome.md
     - Awesome CLI: awesome/awesome-cli.md
