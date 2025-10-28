@@ -96,6 +96,7 @@
 	- [eBPF](awesome/awesome-ebpf.md) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
 	- [Arch-based Projects](awesome/Awesome-Arch.md) - Linux distributions and projects based on Arch Linux.
 	- [AppImage](awesome/awesome-appimage.md) - Package apps in a single file that works on various mainstream Linux distributions.
+	- [Omarchy](awesome/awesome-omarchy.md) - Opinionated Arch Linux and Hyprland desktop environment from the creator of Ruby on Rails.
 - macOS - Operating system for Apple's Mac computers.
 	- [Screensavers](awesome/awesome-macos-screensavers.md)
 	- [Apps](awesome/awesome-mac.md)
@@ -402,6 +403,7 @@
 - [Theoretical Computer Science](awesome/awesome-theoretical-computer-science.md) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 - [Conversational AI](awesome/awesome-conversational-ai.md) - Build awesome chatbots and digital assistants.
 - [Generative AI](awesome/awesome-generative-ai.md) - Automatically generates a wide range of unique content in text, image, and audio format.
+- [Position-Based Quantum Cryptography](awesome/awesome-position-based-quantum-cryptography.md) - Theory on quantum cryptography that utilizes special relativistic constraints to achieve quantum-security under certain conditions.
 
 ## Big Data
 
@@ -553,6 +555,7 @@
 - [Icons](awesome/awesome-icons.md) - Downloadable SVG/PNG/font icon projects.
 - [Audiovisual](awesome/awesome-audiovisual.md) - Lighting, audio and video in professional environments.
 - [VLC](awesome/awesome-vlc.md) - Cross-platform media player software and streaming server.
+- [Audio Over IP](awesome/awesome-aoip.md) - Reliably transmit uncompressed, low-latency audio over an IP (layer 3) network.
 
 ## Learn
 
@@ -857,7 +860,9 @@
 - [Permacomputing](awesome/awesome-permacomputing.md) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards](awesome/awesome-standards.md) - Standards and proposals that define and enhance software, languages, and related technologies.
 - [Claude Code](awesome/awesome-claude-code.md) - Terminal-based AI coding assistant by Anthropic.
+- [Gemini CLI](awesome/awesome-gemini-cli.md) - Terminal-based AI coding assistant by Google.
 - [SAP Commerce](awesome/awesome-sap-commerce.md) - An e-commerce platform built with Java, Spring MVC, and Angular.
+- [Tech Ethics](awesome/awesome-tech-ethics.md) - Mitigating and avoiding the potential negative effects of technology on society.
 
 ## Related
 
@@ -865,5 +870,4 @@
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
-- [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.

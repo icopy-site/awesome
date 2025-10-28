@@ -32,6 +32,7 @@ nav:
       - eBPF: awesome/awesome-ebpf.md
       - Arch-based Projects: awesome/Awesome-Arch.md
       - AppImage: awesome/awesome-appimage.md
+      - Omarchy: awesome/awesome-omarchy.md
       - Screensavers: awesome/awesome-macos-screensavers.md
       - Apps: awesome/awesome-mac.md
       - Open Source Apps: awesome/open-source-mac-os-apps.md
@@ -337,6 +338,7 @@ nav:
     - Theoretical Computer Science: awesome/awesome-theoretical-computer-science.md
     - Conversational AI: awesome/awesome-conversational-ai.md
     - Generative AI: awesome/awesome-generative-ai.md
+    - Position-Based Quantum Cryptography: awesome/awesome-position-based-quantum-cryptography.md
   - Big Data:
     - Big Data: awesome/awesome-bigdata.md
     - Hadoop: awesome/awesome-hadoop.md
@@ -469,6 +471,7 @@ nav:
     - Icons: awesome/awesome-icons.md
     - Audiovisual: awesome/awesome-audiovisual.md
     - VLC: awesome/awesome-vlc.md
+    - Audio Over IP: awesome/layer 3.md
   - Learn:
     - CLI Workshoppers: awesome/awesome-workshopper.md
     - Learn to Program: awesome/learn-to-program.md
@@ -750,7 +753,9 @@ nav:
     - Permacomputing: awesome/awesome-permacomputing.md
     - Standards: awesome/awesome-standards.md
     - Claude Code: awesome/awesome-claude-code.md
+    - Gemini CLI: awesome/awesome-gemini-cli.md
     - SAP Commerce: awesome/awesome-sap-commerce.md
+    - Tech Ethics: awesome/awesome-tech-ethics.md
     - All Awesome Lists: awesome/topics-awesome.md
     - StumbleUponAwesome: awesome/StumbleUponAwesome.md
     - Awesome CLI: awesome/awesome-cli.md
