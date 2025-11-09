@@ -606,6 +606,7 @@
 - [Detection Engineering](awesome/awesome-detection-engineering.md) - Design, build, and operate detective cybersecurity controls.
 - [Annual Security Reports](awesome/awesome-annual-security-reports.md) - Exploring cybersecurity trends, insights, and challenges.
 - [CI/CD Attacks](awesome/awesome-cicd-attacks.md) - Offensive research of systems and processes related to developing and deploying code.
+- [OpenID Connect](awesome/awesome-openid-connect.md) - Identity standard and authentication protocol built on OAuth 2.0 for user identity assertion.
 
 
 - [Umbraco](awesome/awesome-umbraco.md)
