@@ -33,6 +33,10 @@ TAP is a simple text-based interface between testing modules in a test harness.
 - [tap-xunit](https://github.com/aghassemi/tap-xunit) - xUnit output.
 - [tap-teamcity](https://github.com/smockle/tap-teamcity) - Output for TeamCity.
 
+### Go
+
+- [tapfmt](https://github.com/coreybutler/tapfmt) - Standalone cross-platform formatter.
+
 ## Producers
 
 Things that produce TAP output.
