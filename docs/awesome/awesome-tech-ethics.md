@@ -58,5 +58,6 @@ Reducing the potential negative effects of technology on society.
 - [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)
 - [Awesome Permacomputing](https://github.com/idematos/awesome-permacomputing)
 - [Awesome tech for good](https://github.com/TechforgoodCAST/awesome-techforgood)
+- [Deceptive Patterns](https://www.deceptive.design) - cataloging and exposing tricks used in websites and apps that make you do things that you didn't mean to, like buying or signing up for something.
 - The ["Digital Rights & Ethics" section of the Green Web Syllabus](https://www.zotero.org/groups/4399301/green-web-syllabus/collections/TFLY9RC3/items/YXMPV7WI/collection)
 - [Organize.fyi](https://organize.fyi/)

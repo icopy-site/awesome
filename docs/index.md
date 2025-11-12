@@ -864,6 +864,7 @@
 - [Gemini CLI](awesome/awesome-gemini-cli.md) - Terminal-based AI coding assistant by Google.
 - [SAP Commerce](awesome/awesome-sap-commerce.md) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics](awesome/awesome-tech-ethics.md) - Mitigating and avoiding the potential negative effects of technology on society.
+- [Copilot Agents](awesome/awesome-copilot-agents.md) - AI pair programming assistant by GitHub that provides code suggestions and completions.
 
 ## Related
 
