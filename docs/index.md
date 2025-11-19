@@ -222,7 +222,6 @@
 - [Vala](awesome/awesome-vala.md) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
 - [Coq](awesome/awesome-coq.md) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 - [V](awesome/awesome-v.md) - Simple, fast, safe, compiled language for developing maintainable software.
-- [Zig](awesome/awesome-zig.md) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [Move](awesome/awesome-move.md) - Domain-specific programming language for writing safe smart contracts.
 - [Esolangs](awesome/awesome-esolangs.md) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [VBA](awesome/awesome-vba.md) - An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
