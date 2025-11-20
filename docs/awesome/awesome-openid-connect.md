@@ -53,6 +53,8 @@
 - [SAP Customer Identity](https://help.sap.com/docs/SAP_CUSTOMER_DATA_CLOUD/8b8d6fffe113457094a17701f63e3d6a/4167c2d870b21014bbc5a10ce4041860.html) - SAP's OpenID Connect Provider and Identity as a Service (IDaaS) solution.
 
 - [OpenID Foundation conformance suite](https://gitlab.com/openid/conformance-suite) - Test conformance suite to obtains OpenID Foundation certification which covers OpenID Connect, FAPI1-Advanced, FAPI2, FAPI-CIBA and OpenID for Identity Assurance (ekyc).
+- [MojoAuth](https://mojoauth.com) - An OpenID Connect-based passwordless authentication platform using passkeys, magic links, and OTPs.
+
 
 ## Relying Parties (RP) Libraries
 
@@ -221,6 +223,7 @@ Where to discover learning resources about OpenID Connect.
 
 - [OAuth.com Playground](https://www.oauth.com/playground/) - OAuth 2.0 / OpenID Connect Playground with authorization flows and step by step of the process of obtaining an access token.
 - [Curity Playground](https://oauth.tools/) - Tools for exploring and testing OAuth and OpenID Connect flows.
+- [MojoAuth: Passkey Playground](https://mojoauth.com/oidc-playground/) - Build and visualize OpenID Connect requests with this interactive tool. Configure parameters, generate request URLs, and decode JWT tokens.
 
 ### Books
 
