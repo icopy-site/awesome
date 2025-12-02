@@ -26,6 +26,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/Mo-
 - [LinuxPTP](https://linuxptp.sourceforge.net/) - PTP IEEE 1588 for Linux. Provides various tools, e.g. `ptp4l` and `phc2sys`.
 - [PAM](https://github.com/martim01/pam) - FOSS AES67 capable audio monitor.
 - [Snapcast](https://github.com/badaix/snapcast/tree/develop) - FOSS project for a Sonos-like multiroom solution, using a custom TCP-based protocol.
+- [Ravennakit SDK](https://github.com/soundondigital/ravennakit) - Provides a cross-platform C++ SDK for professional networked audio using AES67, RAVENNA, and ST2110-30.
 
 ### Closed Source
 
