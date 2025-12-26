@@ -21,7 +21,7 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 _Please read the [contribution guidelines](https://github.com/brunopulis/awesome-a11y/blob/master/CONTRIBUTING.md) before contributing._
 
 
-- [Accessibility Weekly](https://github.com/brunopulis/awesome-a11y/blob/master/topics/newsletter.md)
+- [Accessibility Newsletters](https://github.com/brunopulis/awesome-a11y/blob/master/topics/newsletter.md)
 - [Articles and Videos](https://github.com/brunopulis/awesome-a11y/blob/master/topics/articles-and-videos.md)
 - [Blogs](https://github.com/brunopulis/awesome-a11y/blob/master/topics/blogs.md)
 - [Books](https://github.com/brunopulis/awesome-a11y/blob/master/topics/books.md)
