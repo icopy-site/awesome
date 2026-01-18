@@ -15,7 +15,7 @@
 - [IETF RFCs](https://www.ietf.org/standards/rfcs/) - Publication in a series from the principal technical development and standards-setting bodies for the Internet, most prominently the IETF.
 - [BCPs](https://www.rfc-editor.org/rfc/bcp/bcp-index.txt) - Best Current Practice, sub-series of the RFC document series.
 - [ECMA International Standards](https://www.ecma-international.org/publications-and-standards/standards/) - Standards for information and communication systems.
-- [W3C](https://www.w3.org/TR/) - W3C publishes a range of technical reports (Standards and supporting Notes) which help move the web forward.
+- [W3C](https://www.w3.org/TR/) - World Wide Web Consortium publishes a range of technical reports (Standards and supporting Notes) which help move the web forward.
 - [W3C WAI](https://www.w3.org/WAI/) - Strategies, standards, and supporting resources to help you make the Web more accessible to people with disabilities.
 - [WHATWG](https://whatwg.org/) - Web Hypertext Application Technology Working Group, founded by individuals of leading Web browser vendors.
 - [Unicode Standards](https://www.unicode.org/reports/) - Text encoding standard maintained by the Unicode Consortium.
@@ -84,6 +84,7 @@
 - [PPCs](https://github.com/Perl/PPCs) - Proposed Perl Changes is proposals to change the Perl language.
 - [DIPs](https://github.com/dlang/DIPs) - D language Improvement Proposals.
 - [GEPs](https://groovy.apache.org/wiki/geps.html) - Groovy Enhancement Proposals and Issues tracked in Jira.
+- [Vlang RFCs](https://github.com/vlang/rfcs) - RFCs for changes to V lang.
 
 ## Tools
 
@@ -98,7 +99,7 @@
 - [Nix RFCs](https://github.com/NixOS/rfcs) - The Nix community RFCs.
 - [DEPs](https://github.com/django/deps) - Django Enhancement Proposals.
 - [CEPs](https://github.com/conda/ceps) - Conda Enhancement Proposals.
-- [SLEPs](https://scikit-learn-enhancement-proposals.readthedocs.io/en/latest/) - Scikit-learn Enhancement Proposals.
+- [SLEPs](https://scikit-learn-enhancement-proposals.readthedocs.io/en/latest/) - Enhancement proposals for scikit-learn.
 - [JEPs](https://jupyter.org/enhancement-proposals) - Jupyter Ecosystem Enhancement Proposals.
 - [JEPs](https://github.com/jenkinsci/jep) - Jenkins Enhancement Proposals.
 - [REPs](https://www.ros.org/reps/rep-0000.html) - Enhancement proposals for ROS robotics framework.
@@ -106,7 +107,7 @@
 - [HIPs](https://github.com/helm/community) - Helm Improvement Proposals.
 - [OTEPs](https://github.com/open-telemetry/opentelemetry-specification/tree/main/oteps/) - OpenTelemetry Enhancement Proposals.
 - [GIPs](https://godot-proposals-viewer.github.io/) - Godot (Multi-platform 2D and 3D game engine) Improvement Proposals.
-- [Bazel Proposals](https://github.com/bazelbuild/proposals) - Bazel proposals and design documents.
+- [Bazel Proposals](https://github.com/bazelbuild/proposals) - Index of all Bazel proposals and design documents.
 - [Conventional Commits](https://www.conventionalcommits.org/) - A specification for adding human and machine readable meaning to commit messages.
 - [Compose Specification](https://github.com/compose-spec/compose-spec) - The Compose Specification is developer focused for defining cloud and platform agnostic container-based applications.
 - [Fluent Specs](https://github.com/projectfluent/fluent) - This repository contains the specification, the reference implementation of the parser and the documentation for Fluent.
@@ -137,6 +138,7 @@
 - [CAIPs](https://github.com/ChainAgnostic/CAIPs) - Chain Agnostic Improvement Proposals.
 - [AIPs](https://governance.aptosfoundation.org/) - Aptos Improvement Proposals.
 - [HIPs](https://github.com/helium/HIP) - Helium Improvement Proposals.
+- [HCS](https://github.com/hiero-ledger/hiero-consensus-specifications) - Hiero Consensus Standards.
 - [MIPs](https://github.com/makerdao/mips) - Maker Improvement Proposals.
 - [SNIPs](https://github.com/starknet-io/SNIPs) - Starknet Improvement Proposals.
 - [Nervos Network RFCs](https://github.com/nervosnetwork/rfcs) - Proposals, standards and documentations related to Nervos Network.
@@ -166,7 +168,7 @@
 - [OVF (Open Virtualization Format)](https://www.dmtf.org/standards/ovf) - OS images for virtualized environments.
 - [KVM (Kernel-based Virtual Machine)](https://public.dhe.ibm.com/software/dw/linux390/perf/ZSW03346USEN.pdf) - OS-level virtualization in Linux.
 - [OCI (Open Container Initiative)](https://opencontainers.org/release-notices/overview/) - Standards for OS containers like Docker.
-- [D-Bus](https://dbus.freedesktop.org/doc/dbus-specification.html) - D-Bus Specification.
+- [D-Bus](https://dbus.freedesktop.org/doc/dbus-specification.html) - Desktop Bus Specification is message-based inter-process communication system.
 
 ## Electronics and Hardware
 
