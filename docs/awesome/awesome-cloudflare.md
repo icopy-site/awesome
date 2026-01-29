@@ -135,6 +135,10 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Google reCAPTCHA verification](https://github.com/HR/recaptcha-worker) - Handle the server-side verification of your reCAPTCHA form.
 - [Cloudflare Workers Starter Kit](https://github.com/kriasoft/cloudflare-starter-kit) -  - TypeScript template \w multiple CF Workers, `*.env` files, and local testing.
 
+### AI
+
+- [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
+
 ## Other
 
 - [Support](https://support.cloudflare.com)
