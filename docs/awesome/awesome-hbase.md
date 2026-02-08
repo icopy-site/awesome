@@ -57,6 +57,7 @@ A curated list of awesome HBase projects and resources.
 * [JanusGraph](http://janusgraph.org/) - Scalable graph database with support for Cassandra, HBase, Google Cloud Bigtable, and BerkeleyDB.
 * [NebulaGraph](https://github.com/vesoft-inc/nebula) - A high performance distributed Graph database.
 * [S2Graph](http://s2graph.incubator.apache.org) - High-performance distributed graph database built on HBase.
+* [Actionbase](https://github.com/kakao/actionbase) - A database for user interactions (likes, views, follows) represented as graphs, with precomputed reads served in real-time.
 
 #### SQL/OLAP
 
