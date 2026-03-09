@@ -686,19 +686,19 @@
 
 ## Decentralized Systems
 
-- [Bitcoin](awesome/awesome-bitcoin.md) - Bitcoin services and tools for software developers.
+- [Bitcoin](awesome/awesome-bitcoin.md) - Services and tools for Bitcoin software developers.
 - [Ripple](awesome/awesome-ripple.md) - Open source distributed settlement network.
-- [Non-Financial Blockchain](awesome/awesome-non-financial-blockchain.md) - Non-financial blockchain applications.
+- [Non-Financial Blockchain](awesome/awesome-non-financial-blockchain.md) - Applications of Blockchain beyond finance.
 - [Mastodon](awesome/awesome-mastodon.md) - Open source decentralized microblogging network.
 - [Ethereum](awesome/Awesome-Ethereum.md) - Distributed computing platform for smart contract development.
-- [Blockchain AI](awesome/awesome-blockchain-ai.md) - Blockchain projects for artificial intelligence and machine learning.
+- [Blockchain AI](awesome/awesome-blockchain-ai.md) - AI and machine-learning projects built on Blockchain.
 - [EOSIO](awesome/awesome-eosio.md) - A decentralized operating system supporting industrial-scale apps.
-- [Corda](awesome/awesome-corda.md) - Open source blockchain platform designed for business.
-- [Waves](awesome/awesome-waves.md) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
+- [Corda](awesome/awesome-corda.md) - Open source Blockchain platform designed for business.
+- [Waves](awesome/awesome-waves.md) - Open source Blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 - [Substrate](awesome/awesome-substrate.md) - Framework for writing scalable, upgradeable blockchains in Rust.
 - [Golem](awesome/awesome-golem.md) - Open source peer-to-peer marketplace for computing resources.
 - [Stacks](awesome/awesome-stacks-chain.md) - A smart contract platform secured by Bitcoin.
-- [Algorand](awesome/awesome-algorand.md) - An open-source, proof of stake blockchain and smart contract computing platform.
+- [Algorand](awesome/awesome-algorand.md) - An open-source, proof of stake Blockchain and smart contract computing platform.
 - [ZeroNet](awesome/awesome-zeronet.md) - A decentralized web-like network of peer-to-peer users.
 - [Cosmos SDK](awesome/awesome-cosmos.md) - Modular framework for building app-specific blockchains in Go.
 - [Tor](awesome/awesome-tor.md) - A free overlay network for enabling anonymous communication.
@@ -713,7 +713,7 @@
 - [Empathy in Engineering](awesome/empathy-in-engineering.md) - Building and promoting more compassionate engineering cultures.
 - [Healthcare](awesome/awesome-healthcare.md) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 - [Humane Technology](awesome/awesome-humane-tech.md) - Open source projects that help improve society.
-- [Mental Health](awesome/awesome-mental-health.md) - Mental health awareness and self-care in the software industry.
+- [Mental Health](awesome/awesome-mental-health.md) - Awareness and self-care in the software industry.
 - [Neuroscience](awesome/awesome-neuroscience.md) - Study of the nervous system and brain.
 - [Digital Humanities](awesome/awesome-digital-humanities.md) - Software for humanities scholars using quantitative or computational methods.
 - [Lucid Dreams](awesome/awesome-lucid-dreams.md) - A dream where one becomes aware they are dreaming.
@@ -775,7 +775,7 @@
 - [Research Tools](awesome/awesome-research.md)
 - [Data Visualization](awesome/awesome-dataviz.md)
 - [Microservices](awesome/awesome-microservices.md)
-- [Unicode](awesome/Awesome-Unicode.md) - Unicode standards, quirks, packages and resources.
+- [Unicode](awesome/Awesome-Unicode.md) - Standards, quirks, packages and resources for Unicode.
 	- [Code Points](awesome/awesome-codepoints.md)
 - [Beginner-Friendly Projects](awesome/awesome-for-beginners.md)
 - [Katas](awesome/awesome-katas.md)
@@ -796,7 +796,7 @@
 - [Site Reliability Engineering](awesome/awesome-sre.md)
 - [DTrace](awesome/awesome-dtrace.md) - Dynamic tracing framework.
 - [Userscripts](awesome/awesome-userscripts.md) - Enhance your browsing experience.
-- [Pokémon](awesome/awesome-pokemon.md) - Pokémon and Pokémon GO.
+- [Pokémon](awesome/awesome-pokemon.md) - Resources for Pokémon and Pokémon GO.
 - [ChatOps](awesome/awesome-chatops.md) - Managing technical and business operations through a chat.
 - [Falsehood](awesome/awesome-falsehood.md) - Falsehoods programmers believe in.
 - [Domain-Driven Design](awesome/awesome-ddd.md) - Software development approach for complex needs by connecting the implementation to an evolving model.
@@ -811,7 +811,7 @@
 - [Dev Fun](awesome/awesome-dev-fun.md) - Funny developer projects.
 - [Magento 2](awesome/awesome-magento2.md) - Open Source eCommerce built with PHP.
 - [TikZ](awesome/awesome-tikz.md) - Graph drawing packages for TeX/LaTeX/ConTeXt.
-- [Ad-Free](awesome/awesome-ad-free.md) - Ad-free alternatives.
+- [Ad-Free](awesome/awesome-ad-free.md) - Alternatives without ads.
 - [Prometheus](awesome/awesome-prometheus.md) - Open-source monitoring system.
 - [Homematic](awesome/awesome-homematic.md) - Smart home devices.
 - [Ledger](awesome/awesome-ledger.md) - Double-entry accounting on the command-line.
@@ -823,7 +823,7 @@
 - [Theravada](awesome/awesome-theravada.md) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](awesome/awesome-inspectit.md) - Open source Java app performance management tool.
 - [Open Source Maintainers](awesome/awesome-maintainers.md) - The experience of being an open source maintainer.
-- [Calculators](awesome/awesome-calculators.md) - Calculators for every platform.
+- [Calculators](awesome/awesome-calculators.md) - Tools for every platform.
 - [Captcha](awesome/awesome-captcha.md) - A type of challenge–response test used in computing to determine whether or not the user is human.
 - [Jupyter](awesome/awesome-jupyter.md) - Create and share documents that contain code, equations, visualizations and narrative text.
 - [FIRST Robotics Competition](awesome/awesome-frc.md) - International high school robotics championship.
@@ -831,7 +831,7 @@
 - [Board Games](awesome/awesome-board-games.md) - Table-top gaming fun for all.
 - [Software Patreons](awesome/awesome-software-patreons.md) - Fund individual programmers or the development of open source projects.
 - [Parasite](awesome/awesome-parasite.md) - Parasites and host-pathogen interactions.
-- [Food](awesome/awesome-food.md) - Food-related projects on GitHub.
+- [Food](awesome/awesome-food.md) - Projects on GitHub related to food.
 - [Bitcoin Payment Processors](awesome/awesome-bitcoin-payment-processors.md) - Start accepting Bitcoin.
 - [Scientific Computing](awesome/awesome-scientific-computing.md) - Solving complex scientific problems using computers.
 - [Amazon Sellers](awesome/awesome-amazon-seller.md)
@@ -843,9 +843,9 @@
 - [Stacks](awesome/awesome-stacks.md) - Tech stacks for building different apps and features.
 - [Cytodata](awesome/awesome-cytodata.md) - Image-based profiling of biological phenotypes for computational biologists.
 - [IRC](awesome/awesome-irc.md) - Open source messaging protocol.
-- [Advertising](awesome/awesome-ads.md) - Advertising and programmatic media for websites.
+- [Advertising](awesome/awesome-ads.md) - Programmatic media and ad tech for websites.
 - [Earth](awesome/awesome-earth.md) - Find ways to resolve the climate crisis.
-- [Naming](awesome/awesome-naming.md) - Naming things in computer science done right.
+- [Naming](awesome/awesome-naming.md) - Guides for naming things in computer science.
 - [Web Archiving](awesome/awesome-web-archiving.md) - An effort to preserve the Web for future generations.
 - [WP-CLI](awesome/awesome-wp-cli.md) - Command-line interface for WordPress.
 - [Credit Modeling](awesome/awesome-credit-modeling.md) - Methods for classifying credit applicants into risk classes.
@@ -872,7 +872,7 @@
 - [Regex](awesome/awesome-regex.md) - Specialized language for matching patterns in text.
 - [Event-Driven Architecture](awesome/awesome-event-driven-architecture.md) - A software architecture approach where services collaborate by publishing and subscribing to events.
 - [Permacomputing](awesome/awesome-permacomputing.md) - Resilient and regenerative computing practices inspired by permaculture.
-- [Standards](awesome/awesome-standards.md) - Standards and proposals that define and enhance software, languages, and related technologies.
+- [Standards](awesome/awesome-standards.md) - Proposals and standards that define and enhance software, languages, and related technologies.
 - [Claude Code](awesome/awesome-claude-code.md) - Terminal-based AI coding assistant by Anthropic.
 - [Gemini CLI](awesome/awesome-gemini-cli.md) - Terminal-based AI coding assistant by Google.
 - [SAP Commerce](awesome/awesome-sap-commerce.md) - An e-commerce platform built with Java, Spring MVC, and Angular.
