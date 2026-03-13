@@ -185,8 +185,10 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Okta](https://developer.okta.com/) | [@OktaDev](https://twitter.com/OktaDev) | Free | Okta adds authentication, authorization, and user management to your web or mobile app within minutes. |
-| [Auth0](https://auth0.com) | [@auth0](https://twitter.com/auth0) | - | - |
+| [Auth0](https://auth0.com) | [@auth0](https://twitter.com/auth0) | - | Auth0 is a comprehensive identity and access management platform that provides authentication and authorization services for applications. |
 | [Connect2id](https://c2id.net) | [@Connect2id](https://twitter.com/connect2id) | €299/mo - €999/mo | Hosted Connect2id server – a flexible, secure and certified OpenID Connect/OAuth 2.0 identity provider. |
+| [Cerbos Hub](https://www.cerbos.dev/product-cerbos-hub) | [@Cerbos](https://twitter.com/cerbosdev) | Free up to 100 monthly active principals | A complete authorization management system for authoring, testing, and deploying access policies. Fine-grained authorization and access control developers can trust. |
+
 
 ## User Testing
 
@@ -255,7 +257,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Grafana](https://grafana.com) | [@grafana](https://twitter.com/grafana) | $0 - $90/mo (+9/user/mo) | The analytics platform for all your metrics. Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data-driven culture. |
 | [Redash](https://redash.io) | [@getredash](https://twitter.com/getredash) | Self-hosted or $49/mo - 450/mo | "Redash has support for querying multiple databases, including: Redshift, Google BigQuery, PostgreSQL, MySQL, Graphite, Presto, Google Spreadsheets, Cloudera Impala, Hive and custom scripts." |
 | [Cyfe](https://www.cyfe.com) | [@cyfe](https://twitter.com/Cyfe) | $0 - $29/mo | Cyfe offers all-in-one web dashboards for your clients to help them monitor and analyze data scattered across all their online services like Google Analytics, Salesforce, AdSense, MailChimp, Amazon, Facebook, WordPress, Twitter and more from one single location in real-time. |
-| [Two Minute Reports](https://www.gox.ai/two-minute-reports/) | - | Free - $9/mo | Two-Minute-Reports is an addon for Google Sheets, that helps startups pull data from different sources like Google Analytics, MySQL, Google PageSpeed, Firebase, etc. to analyze data, create reports, and automate e-mail reporting.
+| [Two Minute Reports](http://twominutereports.com/) | - | Free - $9/mo | Two Minute Reports helps Marketing Agencies automate reports and save billable hours. It works with both Google Sheets and Looker Studio. It helps automate data from different sources like Facebook Ads, Google Ads, Instagram, LinkedIN Ads, HubSpot, Google Analytics 4, Shopify, Amazon Seller/Ads, etc.
 
 ## Error/Exception Handling
 
@@ -735,6 +737,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
+| [API Status Check](https://apistatuscheck.com) | - | Free | Real-time status monitoring dashboard aggregating 50+ major API and cloud service status pages. Tracks AWS, Stripe, Twilio, GitHub, and more in one view with email alerts. |
 | [StatusPage.io](https://www.statuspage.io/) | [@Statuspage](https://twitter.com/Statuspage) | - | - |
 | [Tumblr](https://www.tumblr.com/) | [@tumblr](https://twitter.com/tumblr) | - | - |
 | [HelloBar](https://www.hellobar.com ) | - | - | - |
@@ -929,6 +932,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [SerpBook](https://serpbook.com) | - | - | - |
 | [WooRank](https://www.woorank.com) | [@woorank](https://twitter.com/woorank) | Free - $49/mo | WooRank analyzes your website for optimization best practices and shows how it ranks against your competition. Its real-time brandable reports, consisting of over 150 data-points, help you to instantly spot critical issues that impact traffic, usability and conversions. Sync your analytics, social accounts and keywords for even more robust tracking. |
 | [Moz](https://moz.com) | [@moz](https://twitter.com/moz) | $99/mo - $599/mo | Moz provides you all the tools you need to effectively do search engine optimization. On site optimization graders, competitor tracking, backlink analysis, rank tracking and many more features available to users. |
+| [RatedWithAI](https://ratedwithai.com) | - | Free - $29/mo | AI-powered web accessibility scanner. Checks WCAG 2.2 compliance, detects issues, and provides fix guidance. Accessibility impacts SEO — Google uses Core Web Vitals and accessibility signals in rankings. |
 | [KWFinder](https://kwfinder.com/) | [@mangools_com](https://twitter.com/mangools_com) | $30+/mo | Keyword research tool |
 | [Animalz - Revive](https://revive.animalz.co/) | [@AnimalzCo](https://twitter.com/AnimalzCo) | Free | Provides a list of posts that should be refreshed. |
 
