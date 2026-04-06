@@ -10,7 +10,7 @@
 
 <p align="center">
   <picture>
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/awesome-claude-code-social-clawd-leo.png" alt="Awesome Claude Code" width="600">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/ACC-social-banner.png" alt="Awesome Claude Code" width="600">
   </picture>
 </p>
 
