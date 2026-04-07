@@ -103,6 +103,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 * [GeoGebra](https://www.geogebra.org): very old but still very good. GeoGebra can be used for precise charting as well as calculations.
 * [graph.tk](http://graph.tk/): Online plotting with rich features.
 * [Wolfram Alpha](http://www.wolframalpha.com/): Make graphs for functions, from your data and even more.
+* [SankeyDiagram.net](https://sankeydiagram.net/): Web-based tool for creating & sharing Sankey Diagrams from data (open-source)
 
 
 ### Datasets
@@ -255,6 +256,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 ### Notebooks for Researchers
 
 * [Findings](https://findingsapp.com): Your research assistant & lab notebook, all in one app.
+* [Learnly AI](https://learnlyai.co.uk/): AI-powered academic assistant for students, featuring smart note-taking from lectures, PDFs and videos, essay writing with literature review, and AI presentation generator.
 
 ### Editors
 
@@ -299,6 +301,7 @@ Notebook softwares that you can write in Markdown:
 * [Authorea](https://www.authorea.com/)(`Cloud`): Easy to use UI. Supports both Markdown and LaTeX.
 * [Papeeria](https://www.papeeria.com)(`Cloud`): Just another online LaTeX and Markdown with plot compiler and collaborations.
 * [JaxEdit](http://jaxedit.com/)(`Cloud`): JaxEdit doesn't provide full LaTeX support but is good enough for simple LaTeX documents and slides.
+* [SpicyChai LaTeX](https://latex.spicychai.com/)(`Cloud`): Online LaTeX editor with AI-powered template population, real-time PDF preview, and pre-built templates for resumes, papers, and more. Free anonymous renders without signup.
 
 
 **You can also host one using your own machine.**
@@ -519,6 +522,8 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish): Retrieves and analyzes academic citations designed to empower individual academics to present their case for research impact to its best advantage.
 * [PubChase](http://pubchase.com/): Life sciences and medical literature recommendation engine.
 * [Connected Papers](https://www.connectedpapers.com/): Visualise connected papers with support for node colours, size and distance from origin to distinguish whether a paper is useful and how related it is.
+* [Uncited](https://uncited.org): Keeping up with the literature.
+* [ODataMap](https://github.com/CherishChenCherish/odatamap) - Interactive map of global scientific research. Visualizes 250M+ papers across 7 knowledge continents with AI research assistant. [Demo](https://odatamap.cherishchen2510.workers.dev)
 
 ### Get Yourself A Citable Code for Anything
 

@@ -651,7 +651,9 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [APNGb](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 * [Aspect](https://aspect.bildhuus.com) - Photo organization app with peer-to-peer sync. ![Freeware][Freeware Icon]
 * [Assetizr](https://assetizr.com) - Resizing images and optimising them for web and mobile applications.  ![Freeware][Freeware Icon]
+* [Lap](https://github.com/julyx10/lap) - Local photo manager for browsing and organizing personal media libraries offline. [![Open-Source Software][OSS Icon]](https://github.com/julyx10/lap) ![Freeware][Freeware Icon]
 * [Couleurs](http://couleursapp.com) - Simple app for grabbing and tweaking the colors you see on your screen. ![Freeware][Freeware Icon]
+* [CompressO](https://github.com/codeforreal1/compressO) - Open-source tool for compressing videos and images to smaller sizes. [![Open-Source Software][OSS Icon]](https://github.com/codeforreal1/compressO) ![Freeware][Freeware Icon]
 * [Diffusion Bee](https://diffusionbee.com/) - The easiest way to generate AI art on your computer with Stable Diffusion. [![Open-Source Software][OSS Icon]](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/) ![Freeware][Freeware Icon]
 * [Eagle App](https://en.eagle.cool/) - Asset manager for images, videos, audio, fonts, and design files.
 * [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/szTheory/exifcleaner)
@@ -1156,6 +1158,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### General Tools
 
 * [AirServer](http://www.airserver.com/Download) - Most advanced screen mirroring software receiver for Mac, PC and Xbox One.
+* [Cadran](https://cadranapp.com) - Renders 22 customizable clock faces on your Mac desktop wallpaper and screensaver.
 * [DNS Optimizer](https://www.appecosys.com/apps/dns-optimizer/) - A DNS changer and performance‑benchmarking tool for Apple devices (macOS & iOS). ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/dns-optimizer/id6741016224?platform=mac)
 * [DevKnife](https://devknife.app) - A native Mac app for dozens of daily dev tasks, from network scans to JSON formatting.
 * [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - Offline toolbox that helps developers in daily tasks. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]

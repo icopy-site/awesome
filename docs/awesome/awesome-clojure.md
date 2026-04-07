@@ -153,6 +153,7 @@
   * [cravendb](https://github.com/robashton/cravendb)
   * [Monger](http://clojuremongodb.info/): for MongoDB
   * [Monglorious](https://baumandm.github.io/monglorious/): for MongoDB
+  * [cmql](https://github.com/tkaryadis/cmql-core): for MongoDB
   * [clj-rethinkdb](https://github.com/apa512/clj-rethinkdb): for RethinkDB
   * [Revise](https://github.com/bitemyapp/revise): for RethinkDB
   * [Spandex](https://github.com/mpenet/spandex): for ElasticSearch
@@ -192,6 +193,7 @@
 
   * [pronto](https://github.com/AppsFlyer/pronto)
   * [lein-protodeps](https://github.com/AppsFlyer/lein-protodeps)
+  * [protojure](https://github.com/metosin/protojure)
 
 ## Database Cli
 
@@ -216,6 +218,7 @@
   * [Friend](https://github.com/cemerick/friend)
   * [secrets.clj](https://github.com/lk-geimfari/secrets.clj)
   * [bolt](https://github.com/juxt/bolt)
+  * [EACL](https://github.com/theronic/eacl): ReBAC authorization library based on SpiceDB, backed by Datomic
 
 ## RESTful API
 
@@ -426,6 +429,7 @@ anylysis and visualization.*
 
   * [marginalia](https://github.com/gdeer81/marginalia)
   * [klipse](https://github.com/viebel/klipse)
+  * [blackfog](https://github.com/neromous/blackfog.dsl)
 
 ## Archives and Compression
 
@@ -521,6 +525,7 @@ anylysis and visualization.*
   * [clojure-doc](http://clojure-doc.org/)
   * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
   * [ZEEF/Clojure](https://clojure.zeef.com/vlad.bokov)
+  * [Clojure Land](https://clojure.land)
 
 ## Twitter
 

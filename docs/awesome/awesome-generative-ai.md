@@ -148,11 +148,13 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource](https://github.com/asreview/asreview)
 
 ### Leaderboards
+
 - [Chatbot Arena](https://lmarena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab and LMArena.
 - [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides objective benchmarks & information to help choose AI models and hosting providers.
 - [imgsys](https://imgsys.org/rankings) - A generative image model arena by fal.ai.
 - [OpenRouter LLM Rankings](https://openrouter.ai/rankings) - Language models ranked and analyzed by usage across apps.
 - [SEAL LLM Leaderboard](https://scale.com/leaderboard) - Expert-driven LLM benchmarks and updated AI model leaderboards.
+- [LLM Stats](https://llm-stats.com/) - Compare AI models across benchmarks, pricing, speed, and context window.
 
 ### Other text generators
 
@@ -188,6 +190,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [v0](https://v0.dev) - Prompt-driven UI generation for React and Next.js, creating production-ready components.
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
 - [aider](https://aider.chat/) - AI pair programming in your terminal, supporting multiple LLM providers. [#opensource](https://github.com/paul-gauthier/aider)
+- [Kilo Code](https://kilocode.ai) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource](https://github.com/Kilo-Org/kilocode)
 
 ### Developer tools
 
@@ -221,11 +224,13 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow)
 
 ### Playgrounds
+
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
 - [Google AI Studio](https://aistudio.google.com/) - A web-based tool to prototype with Gemini and experimental models.
 - [GitHub Models](https://github.com/marketplace/models) - Find and experiment with AI models to develop a generative AI application.
 
 ### Local LLM Deployment
+
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
 - [Open WebUI](https://github.com/open-webui/open-webui) - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. #opensource
 - [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. [#opensource](https://github.com/janhq/jan)
@@ -254,11 +259,13 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Sauna](https://www.sauna.ai) - An AI assistant built for compounding context. It learns your taste, detects hidden patterns, augments your brain context and works proactively.
 - [Claude Code](https://code.claude.com) - Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code.
 - [Gemini CLI](https://geminicli.com) - An open-source AI agent that brings the power of Gemini directly into your terminal. [#opensource](https://github.com/google-gemini/gemini-cli)
+- [OpenCode](https://opencode.ai) - The open-source AI coding agent. [#opensource](https://github.com/anomalyco/opencode)
 - [Mastra](https://mastra.ai) - An all-in-one framework for building AI-powered applications and agents.
 - [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource](https://github.com/clawdbot/clawdbot)
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
+- [Agent Skills](https://agentskills.io) - Open format and reference SDK for packaging reusable capabilities and expertise for AI agents. [#opensource](https://github.com/agentskills/agentskills)
 
 ### Custom assistants
 
@@ -374,8 +381,10 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [VALL-E X](https://vallex-demo.github.io/) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
 - [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
+- [TTS WebUI](https://github.com/rsxdalv/TTS-WebUI) - Web UI for running multiple text-to-speech, music generation, and audio tools. #opensource
 
 ### Speech-to-text
+
 - [Whisper](https://openai.com/index/whisper/) - Robust speech recognition via large-scale weak supervision. [#opensource](https://github.com/openai/whisper)
 - [Wispr Flow](https://wisprflow.ai/) - Flow makes writing quick with seamless voice dictation for any application on your computer.
 - [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource](https://github.com/thewh1teagle/vibe)
@@ -419,11 +428,12 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Anthropic courses](https://github.com/anthropics/courses) - Anthropic's educational courses.
 - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - A guide to building your own working LLM, by Sebastian Raschka.
 - [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - A free DeepLearning.AI short course on how to prompt computer vision models with natural language, bounding boxes, segmentation masks, coordinate points, and other images.
+- [Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch) - A guide to building a working reasoning model from the ground up, by Sebastian Raschka.
 
 ## More lists
 
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
-- [The Generative AI Application Landscape](https://twitter.com/sonyatweetybird/status/1584580362339962880) - An infographic that maps the generative AI ecosystem, by [Sonya Huang](https://twitter.com/sonyatweetybird) of Sequioa Capital.
+- [The Generative AI Application Landscape](https://twitter.com/sonyatweetybird/status/1584580362339962880) - An infographic that maps the generative AI ecosystem, by [Sonya Huang](https://twitter.com/sonyatweetybird) of Sequoia Capital.
 - [Startups - @builtwithgenai](https://airtable.com/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT) - An Airtable list by [@builtwithgenai](https://twitter.com/builtwithgenai).
 - [The Generative AI Index](https://airtable.com/shrH4REIgddv8SzUo/tbl5dsXdD1P859QLO) - An Airtable list by [Scale Venture Partners](https://www.scalevp.com/generative-ai).
 - [Generative AI for Games](https://twitter.com/gwertz/status/1593268767269670912) - A market map of companies working on Generative AI for games, by [a16z](https://a16z.com/).
@@ -434,6 +444,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - List of molecular design using Generative AI and Deep Learning.
 - [Open LLMs](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
 - [Awesome Music AI](https://github.com/steven2358/awesome-music-ai) - A curated list of AI tools for music composition, generation, and analysis.
+- [Awesome AI Market Maps](https://github.com/joylarkin/Awesome-AI-Market-Maps) - A curated list of AI market maps from 2026, 2025, and 2024, by [Joy Larkin](https://twitter.com/joy).
 
 ### Lists on ChatGPT
 
