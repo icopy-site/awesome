@@ -617,6 +617,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [WFGY ProblemMap](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) | Open source “failure atlas” of 16 recurring issues in LLM and RAG pipelines, with observable symptoms and suggested fixes for data science teams. |
 | [Deploybase](https://deploybase.ai/) | Track real-time GPU and LLM pricing across all cloud and inference providers. |
 | [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) | An agentic LLM for autonomous data science, which can autonomously complete a wide range of data science tasks without human intervention. |
+| [Disco](https://github.com/leap-laboratories/discovery-engine) | Superhuman exploratory data analysis. Finds the feature interactions and subgroup effects in tabular data that LLMs and manual exploration miss — with p-values, effect sizes, and literature citations. Free for public data. |
 
 
 
