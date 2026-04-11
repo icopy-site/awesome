@@ -401,6 +401,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-feature-flags-toggly](https://www.npmjs.com/package/@ops-ai/ngx-feature-flags-toggly) - Angular SDK for [Toggly](https://toggly.io/) feature flags.
 * [ngx-circuit](https://github.com/pjlamb12/ngx-circuit) - Streamlines feature‑toggle management, offering flexible strategies such as simple boolean flags, scheduled activations, percentage rollouts, user‑group targeting, environment‑based rules, and more.
 * [ngx-feature-toggle](https://github.com/willmendesneto/ngx-feature-toggle) - Simplify managing feature toggles with this Angular directive.
+* [@rollgate/sdk-angular](https://github.com/rollgate/sdks/tree/main/packages/sdk-angular) - Angular SDK for [Rollgate](https://rollgate.io), a feature flag platform with scheduled releases, instant rollback, gradual rollouts, A/B testing and real-time SSE updates.
 
 ### GraphQL
 
@@ -1369,6 +1370,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-editor](https://github.com/kolkov/angular-editor) - A simple native WYSIWYG editor component for Angular.
 * [ngx-json-editor](https://github.com/RonnyValdivieso/ngx-json-editor) - A minimal, themeable JSON editor for Angular.
 * [ngx-ace-signal](https://github.com/WebArtWork/ngx-ace-signal) - A modern Angular signals-based wrapper for the Ace editor.
+* [ngx-rwriter](https://github.com/ReiAg/ngx-rwriter) - A modern Rich Text Editor component for Angular 21+ with native support for images, alignment, lists, color pickers, and translations.
 
 ### File Upload
 

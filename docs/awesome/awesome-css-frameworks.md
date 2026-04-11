@@ -142,13 +142,6 @@ Frameworks that are smaller than ~10KB.
   [Repo](https://github.com/fomantic/fomantic-ui/)
   | #LESS
 
-- [**Blaze UI**](https://www.blazeui.com) - Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation.  
-  ![](https://img.shields.io/github/stars/BlazeSoftware/atoms.svg?style=social&label=Star)
-  [Demo](https://www.blazeui.com/components/buttons/),
-  [Docs](https://www.blazeui.com/getting-started/install/),
-  [Repo](https://github.com/BlazeSoftware/atoms)
-  | #SCSS
-
 - [**Cirrus**](https://cirrus-ui.netlify.app/) - Component and utility centric SCSS framework designed for rapid prototyping.  
   ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social&label=Star)
   [Demo](https://cirrus-ui.netlify.app/getting-started/examples),
@@ -330,16 +323,12 @@ We are keeping them here for reference/inspiration and hope for a revival.
   ![](https://img.shields.io/github/stars/jensimmons/cssremedy.svg?style=social&label=Star)
   | #CSS
 
-- [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.  
-  ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
-  [Repo](https://github.com/inuitcss/inuitcss)
+- [**Blaze UI**](https://www.blazeui.com) - Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation.  
+  ![](https://img.shields.io/github/stars/BlazeSoftware/atoms.svg?style=social&label=Star)
+  [Demo](https://www.blazeui.com/components/buttons/),
+  [Docs](https://www.blazeui.com/getting-started/install/),
+  [Repo](https://github.com/BlazeSoftware/atoms)
   | #SCSS
-
-- [**unsemantic**](https://unsemantic.com) - Fluid grid for mobile, tablet, and desktop.  
-  ![](https://img.shields.io/github/stars/nathansmith/unsemantic.svg?style=social&label=Star)
-  [Demo](https://unsemantic.com/demo-responsive),
-  [Docs](https://unsemantic.com/css-documentation),
-  [Repo](https://github.com/nathansmith/unsemantic)
 
 - [**Concise CSS**](https://concisecss.com) - Give up the bloat. Stop tripping over your classes. Be concise.  
   ![](https://img.shields.io/github/stars/ConciseCSS/concise.css.svg?style=social&label=Star)
@@ -352,11 +341,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://responsivebp.com/getting-started/),
   [Repo](https://github.com/responsivebp/responsive)
   | #SCSS
-
-- [**Centurion**](https://www.centurionframework.com) - Web-based framework for rapid prototyping and building larger web projects.  
-  ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
-  [Docs](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
-  [Repo](https://github.com/justinhough/Centurion)
 
 </details>
 

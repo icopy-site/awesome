@@ -78,7 +78,7 @@ This project is dedicated to collecting high-quality macOS software and organizi
 
 Feel free to **star** ⭐ and **fork** 🍴 to support the project!
 
-If you have any suggestions, ideas, or discover excellent software, feel free to submit a PR to help improve this list. Please read the [contributing guidelines](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md) before contributing. We also welcome you to continue following this [awesome](https://github.com/sindresorhus/awesome) list to build a better macOS tool collection together.
+If you have any suggestions, ideas, or discover excellent software, feel free to submit a PR to help improve this list. Please read the [contributing guidelines](https://github.com/jaywcjlove/awesome-mac/blob/master/docs/CONTRIBUTING.md) before contributing. We also welcome you to continue following this [awesome](https://github.com/sindresorhus/awesome) list to build a better macOS tool collection together.
 
 **Explanation**
 
@@ -630,6 +630,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [BetterCapture](https://jsattler.github.io/BetterCapture/) - Free and open source screen recorder with professional encoding support. [![Open-Source Software][OSS Icon]](https://github.com/jsattler/BetterCapture) ![Freeware][Freeware Icon]
 * [Capty](https://capty.app/) - Screen capture and recording tool with built-in editing and annotations.
+* [Capso](https://github.com/lzhgus/Capso) - Open-source screenshot and screen recording tool with annotations, OCR, and webcam overlays. [![Open-Source Software][OSS Icon]](https://github.com/lzhgus/Capso) ![Freeware][Freeware Icon]
 * [Gifox](https://gifox.app) - Gif Recording and Sharing.
 * [Kap](https://getkap.co/) - Open-source screen-recorder built with web technology. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
