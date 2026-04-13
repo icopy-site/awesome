@@ -18,6 +18,8 @@
 > Probably the best curated list of data science software in Python
 
 
+- [TabGAN](https://raw.githubusercontent.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs, Diffusion Models, and LLMs. <img height="16" width="16" src="https://raw.githubusercontent.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+
 ## Machine Learning
 
 ### General Purpose Machine Learning

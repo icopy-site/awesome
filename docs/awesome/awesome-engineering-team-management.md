@@ -279,7 +279,7 @@ How to get newcomers up to speed with the rest of the team you manage. And how t
 
 - [A Career Cold Start Algorithm](https://boz.com/articles/career-cold-start) - The author developed an algorithm to ramp-up quickly when joining an existing team where he had a massive knowledge deficit and no pre-existing relationships.
 
-- [Meeting everyone on a new team](https://www.annashipman.co.uk/jfdi/meeting-everyone.html) - Right after inheriting a position at the top of an organization of 50 engineers, the author bootstraped the relationship with that big team by meeting everyone in 30 minutes 1:1s. It was a huge time investment, and despite fears of being boring, it allows for recognizing patterns of what change was needed.
+- [Meeting everyone on a new team](https://www.annashipman.co.uk/jfdi/meeting-everyone.html) - Right after inheriting a position at the top of an organization of 50 engineers, the author bootstrapped the relationship with that big team by meeting everyone in 30 minutes 1:1s. It was a huge time investment, and despite fears of being boring, it allows for recognizing patterns of what change was needed.
 
 ## Motivation
 
@@ -481,7 +481,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [Technical Debt Is Like Tetris](https://web.archive.org/web/20190313164624/https://medium.com/@erichiggins/technical-debt-is-like-tetris-168f64d8b700) - Another way to explain technical debt: “Scenarios like these create technical debt within the product code. A buried gap in Tetris represents technical debt. (…) Paying down technical debt keeps you competitive. It keeps you in the game.”
 
-- [Technical debt as a lack of understanding](https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/) - “The problem lies in "never reorganizing [the code] to reflect your understanding." (…) Organizationally, you pay in velocity and turnover; talented people are going to leave after a few rounds of bullshit.”
+- [Technical debt as a lack of understanding](https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/) - “The problem lies in "never reorganizing (the code) to reflect your understanding." (…) Organizationally, you pay in velocity and turnover; talented people are going to leave after a few rounds of bullshit.”
 
 - [The Framing of the Developer](https://www.amazingcto.com/develop-for-impact-not-for-backlog/) - Default framing is around the backlog, which leads to an asymmetry in which failure is blamed on lacks of developer performance, and success is celebrated as the full realization of the PM's vision. But “technology is the bank that gave credit”, and technical debt should be called product debt “because product took the credit to get a feature faster and must pay back by investing the time to clean up.” The alternative? “Companies today need a frame of impact. In this world-view success is defined by impact.”
 

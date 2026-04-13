@@ -612,6 +612,7 @@ _Data stores with expiring records, in-memory distributed data stores, or in-mem
 - [Milvus](https://github.com/milvus-io/milvus) - Milvus is a vector database for embedding management, analytics and search.
 - [moss](https://github.com/couchbase/moss) - Moss is a simple LSM key-value storage engine written in 100% Go.
 - [NoKV](https://github.com/feichai0017/NoKV) - High-performance distributed KV storage based on LSM Tree.
+- [NornicDB](https://github.com/orneryd/NornicDB) - High performance graph + vector database (Neo4j and qDrant compatible), focused on low latency graph-rag retreival for AI systems. 
 - [nutsdb](https://github.com/xujiajun/nutsdb) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.
 - [objectbox-go](https://github.com/objectbox/objectbox-go) - High-performance embedded Object Database (NoSQL) with Go API.
 - [pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go.
@@ -2881,6 +2882,7 @@ _Full stack web frameworks._
 - [Beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [Confetti Framework](https://confetti-framework.github.io/docs/) - Confetti is a Go web application framework with an expressive, elegant syntax. Confetti combines the elegance of Laravel and the simplicity of Go.
 - [Don](https://github.com/abemedia/go-don) - A highly performant and simple to use API framework.
+- [doors](https://github.com/doors-dev/doors) - Server-driven framework for building stateful, reactive web applications entirely in Go.
 - [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
 - [Fastschema](https://github.com/fastschema/fastschema) - A flexible Go web framework and Headless CMS.
 - [Fiber](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
