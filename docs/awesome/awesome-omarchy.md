@@ -140,6 +140,7 @@
 ## Development Tools
 
 - [awesome-omarchy-tui](https://github.com/aorumbayev/awesome-omarchy-tui) - Terminal UI for browsing awesome-omarchy repository content.
+- [omaclip](https://github.com/rhemvi/omaclip) - A clipboard manager with cross-device sync and hot theme reloading.
 - [omarchy-ai](https://github.com/mitkox/omarchy-ai) - AI-powered enhancements and tools for Omarchy.
 - [omarchy-iso](https://github.com/omacom-io/omarchy-iso) - Custom ISO builder for Omarchy installations.
 - [omarchy-box](https://github.com/dylanbr/omarchy-box) - Containerized Omarchy environment.
@@ -176,6 +177,7 @@
 - [omarchy-gui](https://github.com/amanat361/omarchy-gui) - GUI tools for Omarchy configuration.
 - [hyprmon](https://github.com/erans/hyprmon) - TUI monitor configuration tool for Hyprland with visual layout, drag-and-drop, and profile management.
 - [hyprmarker](https://github.com/devmobasa/hyprmarker) - ZoomIt-inspired annotation overlay tailored for Hyprland/Omarchy.
+- [hypruler](https://github.com/t4t5/hypruler) - Measure anything on your screen. Inspired by PixelSnap for Mac.
 - [omarchy-cleaner](https://github.com/maxart/omarchy-cleaner) - Quickly and easily remove pre-installed apps and webapps.
 - [clipboard-manager](https://github.com/Grenish/clipboard-manager) - Windows-like clipboard manager for Omarchy.
 - [edit](https://github.com/mirarr-app/editt) - Beautiful image viewer and editor with Omarchy styling support.

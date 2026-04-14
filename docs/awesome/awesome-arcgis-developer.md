@@ -86,6 +86,8 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [ArcGIS Code Sharing](http://codesharing.arcgis.com/) - Search, browse, and use code, scripts, models, add-ins, widgets, and more.
 - [Esri/developer-support](https://github.com/Esri/developer-support) - Community samples to help be successful with all ArcGIS developer products (Python, .NET, JavaScript, Android…).
 - [esrinederland/CoolScripts](https://github.com/esrinederland/CoolScripts) - Esri Netherlands scripts and snippets for reuse.
+- [Esri Germany Github organization](https://github.com/EsriDE): code samples, tools and more by Esri Deutschland.
+- [EsriJapan/arcgis-dev-resources](https://github.com/EsriJapan/arcgis-dev-resources) - ArcGIS Developers 開発リソース集 (by Esri Japan).
 - .NET:
   	- [ArcGIS Maps SDK for .NET MAUI samples](https://developers.arcgis.com/net/maui/sample-code/) - Esri's official ArcGIS Maps SDK MAUI product team samples.
 	- [ArcGIS Maps SDK for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/) - Esri's official ArcGIS Maps SDK for .NET product team samples.

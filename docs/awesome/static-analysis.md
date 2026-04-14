@@ -57,11 +57,45 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 
 
 
-
+| | | |
+|---|---|---|
+| [ABAP](#abap) | [Erlang](#erlang) | [PL/SQL](#plsql) |
+| [Ada](#ada) | [F#](#fsharp) | [Perl](#perl) |
+| [Assembly](#asm) | [Fortran](#fortran) | [Python](#python) |
+| [Awk](#awk) | [Go](#go) | [R](#r) |
+| [C](#c) | [Groovy](#groovy) | [Rego](#rego) |
+| [C#](#csharp) | [Haskell](#haskell) | [Ruby](#ruby) |
+| [C++](#cpp) | [Haxe](#haxe) | [Rust](#rust) |
+| [Clojure](#clojure) | [Java](#java) | [SQL](#sql) |
+| [CoffeeScript](#coffeescript) | [JavaScript](#javascript) | [Scala](#scala) |
+| [ColdFusion](#coldfusion) | [Julia](#julia) | [Shell](#shell) |
+| [Crystal](#crystal) | [Kotlin](#kotlin) | [Swift](#swift) |
+| [Dart](#dart) | [Lua](#lua) | [Tcl](#tcl) |
+| [Delphi](#delphi) | [MATLAB](#matlab) | [TypeScript](#typescript) |
+| [Dlang](#dlang) | [Nim](#nim) | [Verilog/SystemVerilog](#verilog) |
+| [Elixir](#elixir) | [Ocaml](#ocaml) | [Vim Script](#vim-script) |
+| [Elm](#elm) | [PHP](#php) | [WebAssembly](#wasm) |
 
 
 <details>
  <summary>Show Other</summary>
+
+| | | |
+|---|---|---|
+| [.env](#dotenv) | [Embedded Ruby (a.k.a. ERB, eRuby)](#erb) | [Prometheus](#prometheus) |
+| [Ansible](#ansible) | [Gherkin](#gherkin) | [Protocol Buffers](#protobuf) |
+| [Archive](#archive) | [HTML](#html) | [Puppet](#puppet) |
+| [Azure Resource Manager](#arm) | [JSON](#json) | [Rails](#rails) |
+| [Binaries](#binary) | [Kubernetes](#kubernetes) | [Security/SAST](#security) |
+| [Build tools](#buildtool) | [LaTeX](#latex) | [Smart Contracts](#smart-contracts) |
+| [CSS/SASS/SCSS](#css) | [Laravel](#laravel) | [Support](#support) |
+| [Config Files](#configfile) | [Makefiles](#make) | [Template-Languages](#template) |
+| [Configuration Management](#configmanagement) | [Markdown](#markdown) | [Terraform](#terraform) |
+| [Containers](#container) | [Metalinter](#meta) | [Translation](#translation) |
+| [Continuous Integration](#ci) | [Mobile](#mobile) | [Vue.js](#vue) |
+| [Deno](#deno) | [Nix](#nix) | [Writing](#writing) |
+| [Dockerfile](#dockerfile) | [Node.js](#nodejs) | [YAML](#yaml) |
+| [Embedded](#embedded) | [Packages](#package) | [git](#git) |
 
 </details>
 
@@ -792,7 +826,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [phpDocumentor](https://www.phpdoc.org) — Analyzes PHP source code to generate documentation.
 
-- [phploc](https://github.com/sebastianbergmann/phploc) — A tool for quickly measuring the size and analyzing the structure of a PHP project.
+- **phploc** :warning: — A tool for quickly measuring the size and analyzing the structure of a PHP project.
 
 - [PHPMD](https://phpmd.org) — Finds possible bugs in your code.
 

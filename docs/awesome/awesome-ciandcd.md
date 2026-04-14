@@ -3,7 +3,7 @@
 
 **Continuous Integration and Continuous Delivery**
 
-Written by [cicdops.com](http://www.cicdops.com)  
+Written by [theaiera.cn](http://www.theaiera.cn)  
 
 A curated list of awesome tools for:   
 continuous integration  
