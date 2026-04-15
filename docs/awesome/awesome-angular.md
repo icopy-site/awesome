@@ -768,6 +768,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-css](https://github.com/squidit/ngx-css) - An Angular abstraction for [Squid CSS](https://github.com/squidit/css).
 * [ngx-mq](https://github.com/martsinlabs/ngx-mq) - A declarative library that uses signals and the native [matchMedia API](https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia) to manage media queries, with built-in breakpoint presets for Tailwind, Bootstrap, and Angular Material.
 * [ngx-responsive-signals](https://github.com/irvrodflo/ngx-responsive-signals) - Signal-based responsive breakpoints for Angular.
+* [ngx-theme-stack](https://github.com/WanderleeDev/ngx-theme-stack) - Modern, SSR-safe Angular library for managing dark mode, light mode, and custom themes via Angular Signals.
 * [panda](https://github.com/chakra-ui/panda) - Easily use Panda, CSS-in-JS Framework, with Angular with its dedicated [integration](https://panda-css.com/docs/docs/installation/angular).
 * [prime-ng-theme-fe](https://github.com/mkccl/prime-ng-theme-fe) - A visual theme designer for PrimeNG.
 * [Super JSS](https://github.com/rsantoyo-dev/super-jss-workspace) - Super JavaScript Stylesheets is a tiny Angular runtime library that generates atomic CSS with breakpoints and theming.
@@ -1994,6 +1995,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [luma-ui](https://github.com/lumaui/luma-ui) - Neo-Minimal design system for Angular applications.
 * [Mundane UI](https://github.com/waga97/Mundane-UI) - Framework-agnostic, zero-dependency, lightweight UI component library.
 * [eagami-design-system](https://github.com/mwiraszka/eagami-design-system) - Lightweight, accessible Angular UI component library built on CSS custom properties.
+* [angular-liquid-glass](https://github.com/thiagopac/angular-liquid-glass) - A standalone Angular component library for liquid glass and glassmorphism interfaces.
 
 ### UI Libraries built on Bootstrap
 
@@ -2080,6 +2082,7 @@ for the creation of web applications developed with Angular.
 * [vacui-ui](https://github.com/DanielAlcaraz/vacui-ui) - A headless Angular library of utility-first, primitives, low-level directives as foundational elements.
 * [ngx-headless](https://github.com/fawadtariq/ngx-headless) - A collection of standalone, accessible Angular primitives inspired by [Headless UI](https://headlessui.com) & [FormKit](https://formkit.com).
 * [Clean Architecture Frontend](https://github.com/ialiaslani/caf) - Domain-agnostic primitives for building frontend applications with Clean Architecture. Works with React, Vue, Angular, or any future framework.
+* [@luminacn/ui](https://github.com/luminacn/ui) - Signal-first, headless UI primitives for Angular.
 
 ### Viewers
 

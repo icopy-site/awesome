@@ -229,6 +229,17 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [CellChat](https://github.com/sqjin/CellChat) — Inference and analysis of cell-cell communication ligand-receptor networks from single-cell transcriptomics data.
 - [SCENIC](https://github.com/aertslab/SCENIC) — Single-cell regulatory network inference and clustering linking transcription factors to co-expressed gene modules.
 - [DoubletFinder](https://github.com/chris-mcginnis-ucsf/DoubletFinder) — Machine learning approach for detecting multiplet (doublet) artifacts in single-cell RNA-seq data.
+- [Numbat](https://github.com/kharchenkolab/numbat) — Haplotype-aware copy number variation inference from single-cell RNA-seq using hidden Markov models.
+- [CaSpER](https://github.com/akdess/CaSpER) — CNV identification and visualization by integrative analysis of single-cell or bulk RNA-seq data.
+- [CellCharter](https://github.com/CSOgroup/cellcharter) — Identification and characterization of spatial cell niches from spatial transcriptomics using VAEs and Gaussian mixture models.
+- [STAGATE](https://github.com/RucDongLab/STAGATE) — Adaptive graph attention auto-encoder for spatial domain identification in spatial transcriptomics.
+- [NCEM](https://github.com/theislab/ncem) — GNN-based model for learning intercellular communication from spatial graphs of cells.
+- [DeepTalk](https://github.com/JiangBioLab/DeepTalk) — Graph attention network for deciphering cell-cell communication from spatial transcriptomics data.
+- [COMMOT](https://github.com/zcang/COMMOT) — Optimal transport-based framework for screening cell-cell communication in spatial transcriptomics.
+- [TIGON](https://github.com/yutongo/TIGON) — Neural optimal transport method for reconstructing growth and dynamic trajectories from single-cell transcriptomics.
+- [LINGER](https://github.com/Durenlab/LINGER) — Neural network for gene regulatory network inference from single-cell multiome (RNA+ATAC-seq) data with bulk data pretraining.
+- [sciPENN](https://github.com/jlakkis/sciPENN) — RNN-based method for simultaneous protein expression prediction, uncertainty estimation, and cell-type label transfer from CITE-seq and scRNA-seq data.
+- [MOGONET](https://github.com/txWang/MOGONET) — Multi-omics graph convolutional network framework for patient classification and biomarker identification.
 
 ---
 
@@ -246,10 +257,13 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [RECOVER](https://github.com/RECOVERcoalition/Recover) — Machine learning framework for predicting synergistic drug combination responses across cell lines.
 - [TGSA](https://github.com/violet-sto/TGSA) — Tumor gene set and attention-based model leveraging biological pathway knowledge for drug response prediction.
 - [HiDRA](https://github.com/bsml320/HiDRA) — Hierarchical network model incorporating gene and pathway-level information for cancer drug response prediction.
+- [PRNet](https://github.com/Perturbation-Response-Prediction/PRnet) — Deep generative model for predicting transcriptional responses to novel chemical perturbations for drug discovery.
+- [DRUML](https://github.com/CutillasLab/DRUMLR) — Ensemble machine learning framework combining standard ML with deep learning to systematically rank anti-cancer drugs from proteomics and RNA-seq data.
 
 #### Drug Repurposing
 
 - [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) — Deep learning library for drug repurposing.
+- [TranSiGen](https://github.com/myzhengSIMM/TranSiGen) — Dual-VAE architecture for ligand-based virtual screening, drug response prediction, and drug repurposing using chemical-induced transcriptional profiles.
 
 #### Drug Target Interaction
 
@@ -273,6 +287,9 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [TargetDiff](https://github.com/guanjq/targetdiff) — 3D equivariant diffusion model for structure-based drug design.
 - [DiffDock](https://github.com/gcorso/DiffDock) — Diffusion generative model for molecular docking, predicting the binding pose of small molecules to protein targets.
 - [JTVAE](https://github.com/wengong-jin/icml18-jtnn) — Junction tree variational autoencoder for molecular graph generation that guarantees chemical validity via a hierarchical tree decomposition.
+- [DiffSBDD](https://github.com/arneschneuing/DiffSBDD) — Equivariant diffusion model for structure-based drug design that generates molecules and binding conformations for protein targets.
+- [ReLeaSE](https://github.com/isayev/ReLeaSE) — Deep reinforcement learning framework for de novo drug design combining a generative and predictive model.
+- [PaccMannRL](https://github.com/PaccMann/paccmann_generator) — Reinforcement learning-based generative model for de novo hit-like anticancer molecule design from transcriptomic data.
 
 ### LLM for Biology
 
@@ -300,6 +317,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [CellPLM](https://github.com/OmicsML/CellPLM) — Cell pre-trained language model with inter-cell transformer architecture for diverse single-cell analysis tasks.
 - [UCE](https://github.com/snap-stanford/UCE) — Universal Cell Embeddings: zero-shot single-cell embedding model trained on 36M cells across species, tissues, and assays without fine-tuning.
 - [GEARS](https://github.com/snap-stanford/GEARS) — Graph-based model for predicting transcriptional responses to single and combinatorial genetic perturbations using biological priors.
+- [SATURN](https://github.com/snap-stanford/SATURN) — Transformer-based model integrating gene expression and protein sequences via a protein language model to learn unified multi-species cell embeddings.
+- [CancerFoundation](https://github.com/BoevaLab/CancerFoundation) — Single-cell RNA-seq foundation model trained exclusively on a curated dataset of malignant cells to learn cancer-specific embeddings.
 
 ##### Spatial Foundation Models
 
@@ -307,6 +326,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [UNI](https://github.com/mahmoodlab/UNI) — General-purpose self-supervised pathology foundation model trained on 100K+ whole-slide images for diverse computational pathology tasks.
 - [CONCH](https://github.com/mahmoodlab/CONCH) — Vision-language foundation model for computational pathology trained with contrastive captioning on pathology image–text pairs.
 - [Phikon](https://huggingface.co/owkin/phikon) — ViT-based pathology foundation model pretrained with iBOT self-supervision on TCGA whole-slide images.
+- [Nicheformer](https://github.com/theislab/nicheformer) — Foundation model for single-cell and spatial omics using a transformer architecture with positional embeddings to encode spatial cell information.
+- [scGPT-spatial](https://github.com/bowang-lab/scGPT-spatial) — Extension of scGPT for spatial transcriptomics with continual pretraining and a mixture-of-experts decoder for spatial gene expression analysis.
 
 ##### Multi-Omics Foundation Models
 
@@ -322,6 +343,10 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [UnitedNet](https://github.com/LiuLab-Bioelectronics-Harvard/UnitedNet) — Interpretable multi-task deep neural network for single-cell multi-omics integration spanning transcriptomics, chromatin accessibility, and proteomics.
 - [SpatialGlue](https://github.com/zhanglabtools/SpatialGlue) — Graph attention network for spatial multi-omics integration jointly embedding spatial transcriptomics with chromatin accessibility or proteomics.
 - [MIDAS](https://github.com/labomics/midas) — Mosaic integration and differential accessibility model for single-cell multi-omics data that handles arbitrary missing-modality combinations across transcriptomics, chromatin accessibility, and proteomics.
+- [Concerto](https://github.com/melobio/Concerto-reproducibility) — Contrastive self-supervised learning framework for single-cell multimodal data integration, batch correction, and reference-query mapping.
+- [scButterfly](https://github.com/BioX-NKU/scButterfly) — Dual-aligned variational autoencoder for single-cell cross-modality translation between paired and unpaired multiomics data.
+- [JAMIE](https://github.com/Oafish1/JAMIE) — Joint variational autoencoder for multimodal single-cell data imputation and embedding.
+- [scPair](https://github.com/quon-titative-biology/scPair) — Bidirectional feedforward network for single-cell multimodal analysis with cross-modality prediction leveraging single-cell atlases.
 
 ##### Domain Alignment
 
@@ -357,6 +382,12 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 - [CHIEF](https://github.com/hms-dbmi/CHIEF) — Clinical Histopathology Imaging Evaluation Foundation model integrating histology images and clinical context for pan-cancer analysis.
 - [BiomedCLIP](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_g_14) — CLIP-based vision-language foundation model for biomedical images and text trained on PubMed figure–caption pairs.
+- [PORPOISE](https://github.com/mahmoodlab/PORPOISE) — Pan-cancer integrative histology-genomic analysis framework using multimodal deep learning for patient stratification.
+- [PathomicFusion](https://github.com/mahmoodlab/PathomicFusion) — Integrated framework fusing histopathology and genomic features via CNN, GNN, and attention gating for cancer diagnosis and prognosis.
+- [Virchow](https://huggingface.co/paige-ai/Virchow) — Million-slide digital pathology foundation model using a vision transformer and self-supervised distillation for tile-level pathology image representation.
+- [TOAD](https://github.com/mahmoodlab/TOAD) — Tumor Origin Assessment via Deep-learning; weakly-supervised multi-task model predicting cancer primary origin from H&E whole-slide images.
+- [PLIP](https://github.com/PathologyFoundation/plip) — Vision-language foundation model for pathology trained with contrastive learning on pathology image–text pairs for image classification and text-to-image retrieval.
+- [MUSK](https://github.com/lilab-stanford/MUSK) — Vision-language foundation model for precision oncology analyzing multimodal paired text and pathology image data for biomarker prediction and retrieval.
 
 #### Genomics Foundation Models
 

@@ -30,9 +30,10 @@
 
 ## Latest Additions
 
+- [claude-pace](https://github.com/Astro-Han/claude-pace) by [Astro-Han](https://github.com/Astro-Han) - A lightweight Bash + jq statusline for Claude Code that displays rate limit pace delta (burn rate vs. time remaining), 5h/7d usage percentage, context window usage, git branch and diff stats. Compares current consumption rate against time remaining in each rate limit window to indicate whether quota is being used faster or slower than the window allows. Single file with no external dependencies beyond jq.
+- [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) by [Ruller_Lulu](https://github.com/rullerzhou-afk) - A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more. Yep. It's undeniably endearing. And at the end of the day, isn't that what Claude Code is all about?
 - [ccxray](https://github.com/lis186/ccxray) by [lis186](https://github.com/lis186) - A transparent HTTP proxy and real-time dashboard that sits between Claude Code and the Anthropic API. Captures every request and response without configuration, presenting them in a Miller-column interface with session grouping, token/cost tracking, and context-window visualization.
 - [Encyclopedia of Agentic Coding Patterns](https://aipatternbook.com) by [Wolf McNally](https://github.com/wolfmcnally) - A freely available reference covering 190+ patterns for AI-assisted software development (and actually a whole bunch of related technical topics) from foundational concepts through agentic construction patterns, governance, testing, and socio-technical systems. Each entry follows a consistent pattern-language format with Context, Problem, Forces, Solution, Consequences, and Related Patterns. Opinionated and erudiate, which is actually good for an "encyclopedia" in some ways.
-- [Claude Code Agent Teams: Exercises](https://github.com/panaversity/claude-code-agent-teams-exercises) by [Panaversity](https://github.com/panaversity) - Practical exercises for Claude Code Agent Teams - 6 exercises + 2 capstones covering team creation, task coordination, quality hooks, and parallel code review - good learning resource.
 
 
 
@@ -153,6 +154,7 @@
 - [claude-code.el](https://github.com/stevemolitor/claude-code.el) by [stevemolitor](https://github.com/stevemolitor) - An Emacs interface for Claude Code CLI.
 - [claude-code.nvim](https://github.com/greggh/claude-code.nvim) by [greggh](https://github.com/greggh) - A seamless integration between Claude Code AI assistant and Neovim.
 - [Claudix - Claude Code for VSCode](https://github.com/Haleclipse/Claudix) by [Haleclipse](https://github.com/Haleclipse) - A VSCode extension that brings Claude Code directly into your editor with interactive chat interface, session management, intelligent file operations, terminal execution, and real-time streaming responses. Built with Vue 3, TypeScript.
+- [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) by [Ruller_Lulu](https://github.com/rullerzhou-afk) - A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more. Yep. It's undeniably endearing. And at the end of the day, isn't that what Claude Code is all about?
 
 ### Usage Monitors
 
@@ -195,6 +197,7 @@
 - [CCometixLine - Claude Code Statusline](https://github.com/Haleclipse/CCometixLine) by [Haleclipse](https://github.com/Haleclipse) - A high-performance Claude Code statusline tool written in Rust with Git integration, usage tracking, interactive TUI configuration, and Claude Code enhancement utilities.
 - [ccstatusline](https://github.com/sirmalloc/ccstatusline) by [sirmalloc](https://github.com/sirmalloc) - A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
 - [claude-code-statusline](https://github.com/rz1989s/claude-code-statusline) by [rz1989s](https://github.com/rz1989s) - Enhanced 4-line statusline for Claude Code with themes, cost tracking, and MCP server monitoring.
+- [claude-pace](https://github.com/Astro-Han/claude-pace) by [Astro-Han](https://github.com/Astro-Han) - A lightweight Bash + jq statusline for Claude Code that displays rate limit pace delta (burn rate vs. time remaining), 5h/7d usage percentage, context window usage, git branch and diff stats. Compares current consumption rate against time remaining in each rate limit window to indicate whether quota is being used faster or slower than the window allows. Single file with no external dependencies beyond jq.
 - [claude-powerline](https://github.com/Owloops/claude-powerline) by [Owloops](https://github.com/Owloops) - A vim-style powerline statusline for Claude Code with real-time usage tracking, git integration, custom themes, and more.
 - [claudia-statusline](https://github.com/hagan/claudia-statusline) by [Hagan Franks](https://github.com/hagan) - High-performance Rust-based statusline for Claude Code with persistent stats tracking, progress bars, and optional cloud sync. Features SQLite-first persistence, git integration, context progress bars, burn rate calculation, XDG-compliant with theme support (dark/light, NO_COLOR).
 

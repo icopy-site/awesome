@@ -1161,6 +1161,7 @@ then it is not supported:
 - [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of "ruifm's gitlinker", refactored with bug fixes, ssh aliases, blame support and other improvements.
 - [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your Git experience.
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any Git rev.
+- [dlyongemallo/diffview.nvim](https://github.com/dlyongemallo/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any Git rev. Maintained fork of sindrets/diffview.nvim.
 - [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) - Syntax highlighting for diffs with Tree-sitter support for `vim-fugitive` and `&diff` buffers.
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
 - [AckslD/nvim-gfold.lua](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
@@ -1176,6 +1177,7 @@ then it is not supported:
 - [yutkat/git-rebase-auto-diff.nvim](https://github.com/yutkat/git-rebase-auto-diff.nvim) - Show diff automatically when Git rebase.
 - [Kohei-Wada/yadm-git.nvim](https://github.com/Kohei-Wada/yadm-git.nvim) - Seamless Git plugin support for yadm dotfiles.
 - [axkirillov/unified.nvim](https://github.com/axkirillov/unified.nvim) - Displaying inline unified diffs directly in your buffer.
+- [kokusenz/deltaview.nvim](https://github.com/kokusenz/deltaview.nvim) - Inline/unified diff viewer with Tree-sitter syntax highlighting and diff highlighting in the style of [delta](https://github.com/dandavison/delta), with enhanced navigational features.
 - [StackInTheWild/headhunter.nvim](https://github.com/StackInTheWild/headhunter.nvim) - Fast and simple utility to hunt and resolve merge conflicts.
 - [yus-works/csc.nvim](https://github.com/yus-works/csc.nvim) - Conventional commit scope completion that learns from Git history.
 - [404pilo/aicommits.nvim](https://github.com/404pilo/aicommits.nvim) - Generate conventional commit messages using AI.
