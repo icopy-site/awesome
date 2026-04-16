@@ -661,6 +661,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-translation-checker](https://github.com/ricardoferreirades/angular-translation-checker) - A tool for `ngx-translate` that detects unused or missing keys to keep i18n files clean.
 * [doloc](https://doloc.io/) - Instant translations in your [Angular](https://doloc.io/getting-started/frameworks/angular/) workflow.
 * [I18N](https://github.com/soluling/I18N) - Soluling has implemented a collection of internationalization (I18N) APIs for `.NET`, Angular and Delphi.
+* [i18n-keygen](https://github.com/gagle/i18n-keygen) - Type-safe i18n keys for every build tool. One package, zero lock-in.
 * [intl-tel-input-ng](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input](https://github.com/jackocnr/intl-tel-input).
 * [locale-translator](https://github.com/andreasnicolaou/locale-translator) - Translate any locale with the provided pipe or service.
 * [ng-extract-i18n-merge](https://github.com/daniel-sc/ng-extract-i18n-merge) - Extract and merge i18n xliff translation files for Angular projects.

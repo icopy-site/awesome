@@ -91,6 +91,7 @@ This section contains agent frameworks and tools that are useful for data scienc
 ### Tools
 - [Frostbyte MCP](https://github.com/OzorOwn/frostbyte-mcp) - MCP server providing 13 data tools for AI agents: real-time crypto prices, IP geolocation, DNS lookups, web scraping to markdown, code execution, and screenshots. One API key for 40+ services.
 - [Arch Tools](https://archtools.dev) - 61 production-ready AI API tools for data science workflows: code analysis, web scraping, NLP, image generation, crypto data, and search. REST API and MCP protocol support. [GitHub](https://github.com/Deesmo/Arch-AI-Tools)
+- [Not Human Search](https://nothumansearch.ai) - Search engine for AI agents that indexes 9,000+ AI tools and APIs, scoring each on agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json). REST API and MCP server for programmatic tool discovery. [GitHub](https://github.com/unitedideas/nothumansearch)
 
 ### Research & Knowledge Retrieval
 - [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub](https://github.com/connerlambden/bgpt-mcp)
@@ -703,6 +704,9 @@ This section includes some additional reading material, channels to watch, and t
 - [JavaScript for Data Science](https://third-bit.com/js4ds/) - Free html page
 - [Angewandte Data Science](https://angewandtedatascience.de/) - German book about applied data science
 - [The Math Behind Artificial Intelligence](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book): A free FreeCodeCamp book teaching the math behind AI in plain English from an engineering point of view.
+- [Executive Data Science](https://leanpub.com/eds): A high-level guide to managing data science teams and projects.
+- [Introduction to Modern Statistics](https://leanpub.com/imstat): A modern, open-access textbook on statistics with a heavy focus on data science applications.
+- [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/): Focuses on the "art" of data analysis, how to ask the right questions and refine them.
 
 #### Book Deals (Affiliated)
 
@@ -730,6 +734,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
 - [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications towards Data Science
 - [Maxim AI](https://getmaxim.ai). Tool for AI Agent Simulation, Evaluation & Observability. 
+- [8bitconcepts](https://8bitconcepts.com/) - AI industry research and analysis with papers on AI pricing, enterprise adoption, and evaluation frameworks.
 
 ### Newsletters
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -1135,6 +1140,7 @@ Some data mining competition platforms
 - [FirstData](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 210+ curated sources from governments, international organizations, and research institutions. MCP integration for AI agents. MIT licensed.
 - [latamdata-py](https://github.com/juanmoisesd/latamdata-py) - Python package for one-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). pip install latamdata-py.
 - [ZipCheckup](https://github.com/artakulov/us-water-quality-data) - Free ZIP-level environmental safety data for 42,000+ US ZIP codes: water quality, air quality, PFAS contamination, radon, lead, flood risk, and 11 more verticals. Public REST API, npm/PyPI packages, CC BY 4.0.
+- [Helium](https://heliumtrades.com/mcp-page/) - Real-time news corpus with structured bias features across 15+ dimensions (3.2M+ articles, 5,000+ sources), live financial market data (stocks, ETFs, crypto) with AI-generated analysis, ML options pricing with probability metrics and full Greeks, historical options chain data for quantitative research; available via MCP server or REST API.
 
 
 ### Comics
@@ -1190,6 +1196,7 @@ Some data mining competition platforms
 - [Generative AI Models](https://www.appliedaicourse.com/blog/generative-ai-models/)
 - [Awesome Data Analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis) -  A curated list of data analysis tools, libraries and resources.
 - [Awesome Evidence Synthesis](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis) - A curated list of open-source tools for systematic reviews, meta-analysis, and evidence synthesis.
+- [AI Dev Jobs](https://aidevboard.com/) - Job board focused on AI/ML engineering roles with 5,400+ listings and a free REST API.
 
 
 ### Hobby
