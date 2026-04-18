@@ -503,6 +503,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [astral-accessibility](https://github.com/verto-health/astral-accessibility) - An open-source accessibility widget written in Angular.
 * [ngx-accessible-ui](https://github.com/ShakeelKadri/ngx-accessible-ui) - Angular 9+ navigation and menu directives compliant with WCAG 2.1 AA and the European Accessibility Act 2025 for inclusive web experiences.
 * [a11y-libraries](https://github.com/LDV2k3/a11y-libraries) - A range of accessibility solutions for Angular.
+* [a11yguard](https://github.com/shamaz332/a11yguard) - Delivers a zero‑dependency accessibility toolkit with cross‑framework primitives, idiomatic adapters, and a runtime audit mapped to EAA / EN 301 549.
 
 ### AI
 
@@ -1636,6 +1637,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngxsmk-skeleton-loader](https://github.com/Cholki2025/ngxsmk-skeleton-loader) - A lightweight skeleton loader featuring SCSS animations and easy theming.
 * [ngx-ui-loader](https://github.com/t-ho/ngx-ui-loader) - Versatile Angular loader/spinner with foreground/background modes, progress bars, and multi-loader support.
 * [shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A React, Vue, Svelte, & Angular shimmer/skeleton library that automatically adapts to your component's runtime structure.
+* [skedapt](https://github.com/z4k7/skedapt) - A zero‑config adaptive skeleton loader for Angular that decorates the host element so the skeleton automatically matches the container’s natural layout.
 * [skeletonizer](https://github.com/lukaVarga/skeletonizer) - Lightweight, customizable package for creating skeleton views with Vue and Angular adapters.
 * [skeleton-styler](https://github.com/HoaiNam071001/skeleton-styler) - A lightweight, framework-agnostic library to generate skeleton loading UIs with customizable styles and animations.
 * [square-progress](https://github.com/mominrazashahid/square-progress) - Square progress bar with animation.
@@ -2280,6 +2282,7 @@ for the creation of web applications developed with Angular.
 * [indulgent](https://github.com/frodi-karlsson/indulgent) - A lightweight set of TypeScript utilities designed for web development, free of external dependencies and optimized for solid runtime performance.
 * [injection-js](https://github.com/mgechev/injection-js) - A fast, well‑tested JavaScript/TypeScript dependency injection library extracted from Angular’s `ReflectiveInjector`.
 * [ioc](https://github.com/Isqanderm/ioc) - A powerful and flexible Inversion of Control (IoC) container for TypeScript applications. Inspired by Angular and NestJS.
+* [knifecycle](https://github.com/nfroidure/knifecycle) - Manage your Node.js processes' lifecycle automatically with an unobtrusive dependency injection implementation.
 * [Lua-Generate](https://github.com/Gabriel-c0Nsp/Lua-Generate) - A CLI tool to generate boilerplate code inspired by ng tool from Angular.
 * [named-slots](https://github.com/maybebot/named-slots) - Declarative "holes" for React components, inspired by slots in Vue, Svelte, Angular, and WebComponents.
 * [needle-di](https://github.com/needle-di/needle-di) - A lightweight, type-safe Dependency Injection (DI) library for JavaScript and TypeScript projects.

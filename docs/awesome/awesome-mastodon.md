@@ -71,7 +71,7 @@ This list is a collection of the best Mastodon resources.
 
 - [Megalodon](https://sk22.github.io/megalodon/) - Fork of the official Android client.
 - [Fedilab](https://codeberg.org/tom79/Fedilab/) - Fully-featured Android client.
-- [Tusky](https://github.com/tuskyapp/Tusky/) - Intuitive Android client.
+- [Tusky](https://codeberg.org/tusky/Tusky) - Intuitive Android client.
 - [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) - Mastodon client for iOS, by the creators of Tweetbot.
 - [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - Mastodon client for iOS.
 - [SwiftUI](https://github.com/Dimillian/IceCubesApp) - Mastodon client for iOS using SwiftUI.
