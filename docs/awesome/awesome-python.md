@@ -5,6 +5,8 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 
 ## **Sponsors**
 
+- **[pyr](https://pyrun.dev)**: Zero-config Python project manager. Bootstraps its own runtime, app-convention, and working imports - out the box.
+
 > The **#10 most-starred repo on GitHub**. Put your product in front of Python developers. [Become a sponsor](https://github.com/vinta/awesome-python/blob/master/SPONSORSHIP.md).
 
 ## Categories
@@ -65,6 +67,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
   - [trailofbits-skills](https://github.com/trailofbits/skills) - Python-friendly security skills for auditing, testing, and safer backend development.
 - Orchestration
   - [autogen](https://github.com/microsoft/autogen) - A programming framework for building agentic AI applications.
+  - [bub](https://github.com/bubbuild/bub) - A lightweight, hook-first Python framework for channel-native agents that live alongside people.
   - [crewai](https://github.com/crewAIInc/crewAI) - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
   - [dspy](https://github.com/stanfordnlp/dspy) - A framework for programming, not prompting, language models.
   - [hermes-agent](https://github.com/nousresearch/hermes-agent) - An adaptive AI agent framework that grows with you.
@@ -119,6 +122,7 @@ _Libraries for working with human languages._
   - [stanza](https://github.com/stanfordnlp/stanza) - The Stanford NLP Group's official Python library, supporting 60+ languages.
 - Chinese
   - [funnlp](https://github.com/fighting41love/funNLP) - A collection of tools and datasets for Chinese NLP.
+  - [jieba](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library.
 
 ## Computer Vision
 
@@ -1043,6 +1047,10 @@ Where to discover learning resources or new Python libraries.
 - [Python Bytes](https://pythonbytes.fm)
 - [Talk Python To Me](https://talkpython.fm/)
 - [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
+
+## Websites
+
+- [Python Developer Tooling Handbook](https://pydevtools.com/) - Comprehensive guide to modern Python developer tools covering package management, linting, type checking, testing, and more.
 
 ## Contributing
 

@@ -73,49 +73,48 @@ marketers—and we continue to expand.
 
 The storefront of Magento 2 can be styled in numerous ways:
 
-- **Luma** (`Magento/luma`) - This is actually a default demo theme of Magento 2 itself, which again extends from `Magento/blank` which extends from the core. But more often, the name Luma refers to the entire stack: XML layout generates a tree-structure of blocks and containers, which eventually render via PHTML templates. The server-side rendered HTML is enriched with CSS (compiled from LESS source files) and JavaScript (RequireJS, KnockoutJS, jQuery).
-- **Adobe PWA Studio** - A new headless frontend, created by Adobe/Magento, based on ReactJS. It makes GraphQL calls to the Magento GraphQL API to retrieve data. The frontend offers Venia (a demo theme and UI component library), Peregrine (React hooks), Buildpack (Webpack configuration) and UPWARD (a middleware for SSR and image optimization). 
-- **Hyvä** ([hyva.io](https://hyva.io/)) - An alternative for Luma, which replaces the LESS/CSS with TailwindCSS and the JavaScript with AlpineJS. Currently, it is only available via a commercial license. But for that price, the team works hard to create compatibility modules for 3rd party modules, give support and make the entire solution more and more versatile.
-- **Alokai** (_ex: Vue Storefront_) ([github.com/vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront))
-- **DEITY**
-- **ScandiPWA** ([github.com/scandipwa/scandipwa](https://github.com/scandipwa/scandipwa))
-- **Breeze Evolution** ([breezefront.com](https://breezefront.com/themes)) - A 100 pagespeed score frontend theme that is compatible with all Luma-based extensions. 
-- **Front-Commerce** ([front-commerce.com](https://www.front-commerce.com/))- Front-Commerce is an innovative, advanced, ready-to-use PWA (Progressive Web App) front-end solution developed in France for Magento stores.
+- [Magento Luma](https://developer.adobe.com/commerce/frontend-core/guide/) - Magento 2's default demo theme (extends Magento/blank). The name also refers to the whole Luma stack: XML layout + blocks/containers + PHTML templates, enriched with LESS-compiled CSS and RequireJS/KnockoutJS/jQuery.
+- [Adobe PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) - Adobe's headless React frontend. GraphQL client; offers Venia theme, Peregrine hooks, Buildpack (Webpack) and UPWARD (SSR/image middleware).
+- [Hyvä](https://hyva.io/) - Luma replacement using TailwindCSS and AlpineJS. Commercial license. Active compatibility-module ecosystem.
+- [Alokai](https://github.com/vuestorefront/vue-storefront) 🫡 - Formerly Vue Storefront — headless frontend framework.
+- [ScandiPWA](https://github.com/scandipwa/scandipwa) - React/Redux PWA theme for Magento 2.3+.
+- [Breeze Evolution](https://breezefront.com/themes) - Lightweight Luma-compatible theme targeting 100 PageSpeed.
+- [Front-Commerce](https://www.front-commerce.com/) - French PWA front-end solution for Magento.
 
 ## Tools
 
-- [n98-magerun2](https://github.com/netz98/n98-magerun2) - The CLI Swiss Army Knife for Magento 2.
-- [RabbitMQ Retry Mechanism](https://github.com/run-as-root/magento2-message-queue-retry) - Magento 2 extension that brings possibility to retry RabbitMQ failed messages
-- [MageForge](https://github.com/OpenForgeProject/mageforge) - Magento 2 Cli automatic Theme(s) Builder (Hyvä ready)
-- [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) - Easily
-  integrate the official Magento 2 Search into your Alfred Workflows.
-- [Tablerates Generator](https://www.tableratesgenerator.com/) - Generate Tablerates with an online Tool.
-- [Pestle](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm.
-- [Mage2Gen](https://mage2gen.com/) - Online Module Creator.
-- [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) - A MUST-HAVE Chrome Extension for
-  Magento 2 by [MageSpecialist](https://github.com/magespecialist).
-- [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) Developer Toolbar
-- [magento2docker](https://github.com/aliuosio/magento2docker) - MariaDB, PHP , Redis, ElasticSearch in one dockerfile for fast demo and deveopment enviroment
-- [markshust/docker-magento](https://github.com/markshust/docker-magento) - Mark Shust's Docker Configuration for
-  Magento
-- [Warden](https://github.com/wardenenv/warden) - A CLI utility for working with docker-compose environments
-  by [David Alger](https://davidalger.com/)
-- [DDEV](https://github.com/ddev/ddev) - A open source tool for launching local web development environments in minutes. It supports PHP, Node.js, and Python.
-- [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper script to aid upgrading magento 2 websites by detecting overrides.
-- [PhpStorm Magento2 Extension](https://github.com/magento/magento2-phpstorm-plugin) - Official PhpStorm Magento2
-  Extension.
-- [PhpInsights](https://github.com/nunomaduro/phpinsights) - PHP quality checks (with Magento2 presets)
-- [Tango](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
-- [Masquerade](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic,
-  locale-compatible data faker tool
-- [Magento 2 Composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad) - Chrome extension to create copy-pastable composer patch definition for vaimo/composer-patches.
-- [Migrate DB Magento 2 Commerce to Magento 2 Open-Source](https://github.com/opengento/magento2-downgrade-ee-ce)
-- [Magento 2 Database Synchronizer](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and Wordpress), based on Magerun2. Keeping development, staging and production in sync easily.
-- [Subodha Magento2 Gulp Integration](https://github.com/subodha/magento-2-gulp) - Magento 2 Gulp Integration
-- [Magento 2 Url Data Integrity Checker](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - Magento 2 module which can find potential url related problems in your catalog data
-- [Mage Wizard](https://github.com/clickAndMortar/mage-wizard) - Local web UI to view and create automatically modules, plugins, configs, observers, commands, crontabs, etc. directly in Magento 2 codebase
-- [Mage](https://github.com/GrimLink/mage) - Simplifies bin/magento commands by adding helpful shortcuts and time-saving tools to enhance your productivity.
-- [Magento Log Viewer - A Visual Studio Code Extension ](https://marketplace.visualstudio.com/items?itemName=MathiasElle.magento-log-viewer) - Provides a convenient way to view, watch and manage Magento log files and reports directly in your workspace.
+- [n98-magerun2](https://github.com/netz98/n98-magerun2) 🫡 - The CLI Swiss Army Knife for Magento 2.
+- [RabbitMQ Retry Mechanism](https://github.com/run-as-root/magento2-message-queue-retry) - Magento 2 extension that brings possibility to retry RabbitMQ failed messages.
+- [MageForge](https://github.com/OpenForgeProject/mageforge) 🫡 - Magento 2 CLI automatic theme builder (Hyvä ready).
+- [Tablerates Generator](https://www.tableratesgenerator.com/) - Generate tablerates online.
+- [Mage2Gen](https://mage2gen.com/) - Online module creator.
+- [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) - Chrome extension for Magento 2 development by MageSpecialist.
+- [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) - Developer toolbar for Magento 2.
+- [magento2docker](https://github.com/aliuosio/magento2docker) - MariaDB, PHP, Redis, ElasticSearch in one Dockerfile for fast demo/development environments.
+- [markshust/docker-magento](https://github.com/markshust/docker-magento) - Mark Shust's Docker configuration for Magento.
+- [Warden](https://github.com/wardenenv/warden) 🫡 - CLI utility for working with docker-compose environments by David Alger.
+- [DDEV](https://github.com/ddev/ddev) 🔥 🫡 - Open source tool for launching local web development environments in minutes. Supports PHP, Node.js and Python.
+- [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper script to aid upgrading Magento 2 websites by detecting overrides.
+- [PhpStorm Magento2 Extension](https://github.com/magento/magento2-phpstorm-plugin) 🫡 - Official PhpStorm Magento 2 extension.
+- [PhpInsights](https://github.com/nunomaduro/phpinsights) 🔥 🫡 - PHP quality checks with Magento 2 presets.
+- [Tango](https://github.com/roma-glushko/tango) 🫡 - CLI for analyzing access logs.
+- [Magento 2 Composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad) - Chrome extension to create copy-pastable composer patch definitions for vaimo/composer-patches.
+- [Migrate DB Magento 2 Commerce to Magento 2 Open-Source](https://github.com/opengento/magento2-downgrade-ee-ce) - Migrate a Magento 2 Commerce database to Magento 2 Open Source.
+- [Magento 2 Database Synchronizer](https://github.com/jellesiderius/mage-db-sync) 🫡 - Database synchronizer for Magento 2 (and WordPress), based on Magerun2. Keeps development, staging and production in sync.
+- [Magento 2 Url Data Integrity Checker](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) 🫡 - Magento 2 module that finds potential URL-related problems in your catalog data.
+- [Mage Wizard](https://github.com/clickAndMortar/mage-wizard) - Local web UI to view and create modules, plugins, configs, observers, commands, crontabs directly in a Magento 2 codebase.
+- [Mage](https://github.com/GrimLink/mage) 🫡 - Simplifies bin/magento commands with shortcuts and productivity helpers.
+- [Magento Log Viewer (VS Code extension)](https://marketplace.visualstudio.com/items?itemName=MathiasElle.magento-log-viewer) - VS Code extension to view, watch and manage Magento log files and reports directly in your workspace.
+
+<details>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
+
+- [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) - Alfred workflow integrating the official Magento 2 documentation search.
+- [Pestle](https://github.com/astorm/pestle) - Code generation tool by Alan Storm.
+- [Masquerade](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool.
+- [Subodha Magento2 Gulp Integration](https://github.com/subodha/magento-2-gulp) - Magento 2 Gulp integration.
+
+</details>
 
 ## Open Source Extensions
 
@@ -306,46 +305,45 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ## Learning
 
-- [M.academy](https://m.academy/) - The simplest way to learn Magento 2 & Adobe Commerce, with video lessons & courses
-- [MageTitans Italia 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVP3Fm_c4HfNPK5JdRD6DIDl)
-- [MageTitans MCR 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC)
-- [MageTitans USA/Texas 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVOLU7LPRNL4lAmJeAv7HQ-b)
-- [Max Bucknell Magento 2 Javascript](https://www.youtube.com/watch?v=tHxebA-jOSo)
-- [Max Pronko DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q)
-- [The Magento 2 Beginner Tutorial Class](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D&utm_content=buffer797bf&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Free YouTube Series for learning Magento 2.
-- [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
-- [Mage2.tv](https://www.mage2.tv) - Magento 2 Developer Screencasts by Vinai Kopp
-- [magento-notes/magento2-exam-notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for
-  Magento 2 Certified Professional Developer exam
-- [magento-notes/magento2-cloud-developer-notes](https://github.com/magento-notes/magento2-cloud-developer-notes) -
-  Preparation notes for Magento 2 Certified Professional Cloud Developer exam
-- [roma-glushko/magento2-dev-plus-exam](https://github.com/roma-glushko/magento2-dev-plus-exam) - Preparation notes for
-  Magento 2 Certified Professional Developer Plus exam
-- [fisheye-academy/m2cpfed-training](https://github.com/fisheye-academy/m2cpfed-training) - Resources for the Magento 2
-  Certified Professional Front End Developer exam
-- [Yireo Training](https://www.yireo.com/training) - Various Magento 2 courses for backend and frontend development
+- [M.academy](https://m.academy/) - Video lessons and courses for Magento 2 and Adobe Commerce.
+- [MageTitans Italia 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVP3Fm_c4HfNPK5JdRD6DIDl) - MageTitans Italia 2016 conference recordings.
+- [MageTitans MCR 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC) - MageTitans Manchester 2016 conference recordings.
+- [MageTitans USA/Texas 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVOLU7LPRNL4lAmJeAv7HQ-b) - MageTitans USA/Texas 2016 conference recordings.
+- [Max Bucknell — Magento 2 JavaScript](https://www.youtube.com/watch?v=tHxebA-jOSo) - Max Bucknell's talk on Magento 2's JavaScript stack.
+- [Max Pronko DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - Max Pronko's YouTube channel for Magento 2 development.
+- [The Magento 2 Beginner Tutorial Class](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D) - Free YouTube series for learning Magento 2.
+- [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw) - Vinai Kopp's Mage2Katas YouTube channel.
+- [Mage2.tv](https://www.mage2.tv) - Magento 2 developer screencasts by Vinai Kopp.
+- [Yireo Training](https://www.yireo.com/training) - Magento 2 backend and frontend development courses.
+
+<details>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
+
+- [magento-notes/magento2-exam-notes](https://github.com/magento-notes/magento2-exam-notes) - Preparation notes for the Magento 2 Certified Professional Developer exam.
+- [magento-notes/magento2-cloud-developer-notes](https://github.com/magento-notes/magento2-cloud-developer-notes) - Preparation notes for the Magento 2 Certified Professional Cloud Developer exam.
+- [roma-glushko/magento2-dev-plus-exam](https://github.com/roma-glushko/magento2-dev-plus-exam) - Preparation notes for the Magento 2 Certified Professional Developer Plus exam.
+- [fisheye-academy/m2cpfed-training](https://github.com/fisheye-academy/m2cpfed-training) - Resources for the Magento 2 Certified Professional Front End Developer exam.
+
+</details>
 
 ---
 
 ## Platforms
 
-- [StackExchange](http://magento.stackexchange.com/) - Q/A Forum.
+- [StackExchange](http://magento.stackexchange.com/) - Q&A forum for Magento developers.
 
 ---
 
 ## Official Resources
 
-- [Magento Official Website](https://www.magento.com) - Magento's official Website.
-- [Magento Developer Documentation](http://devdocs.magento.com/) - Official Developer Documentation.
-- [Magento Forum](https://community.magento.com/) - Community Forum by Magento.
-- [Magento Github Repository](https://github.com/magento/magento2) - Github Repository.
-- [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=) - Developer Blog by
-  Magento.
-- [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2 migration tool.
-- [Magento Coding Standards](https://github.com/magento/magento-coding-standard) - Official Magento2 Advanced Set of
-  Rules for PHP_CodeSniffer.
-- [Magento 2 Architecture](https://github.com/magento/architecture) - A place where Magento architectural discussions
-  happen.
+- [Magento Official Website](https://www.magento.com) - Magento's official website.
+- [Magento Developer Documentation](http://devdocs.magento.com/) - Official developer documentation.
+- [Magento Forum](https://community.magento.com/) - Community forum run by Magento.
+- [Magento GitHub Repository](https://github.com/magento/magento2) 🫡 - Magento 2 GitHub repository.
+- [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - Developer blog run by Magento.
+- [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 → Magento 2 migration tool.
+- [Magento Coding Standards](https://github.com/magento/magento-coding-standard) 🫡 - Official Magento 2 advanced ruleset for PHP_CodeSniffer.
+- [Magento 2 Architecture](https://github.com/magento/architecture) - Architectural discussions about Magento 2.
 
 - Magento Masters 2017
     - [Peter Jaap Blaakmeer](https://twitter.com/PeterJaap) - CTO at [elgentos](https://www.elgentos.nl/)
@@ -373,27 +371,27 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ## List of trustworthy Extension Developers
 
-- [Aheadworks](https://www.aheadworks.com/)
-- [Altima](https://shop.altima.net.au/)
-- [Blue Jalappeno](http://bluejalappeno.com/)
-- [CustomGento](https://www.customgento.com/extensions/)
-- [Dotmailer](https://www.dotmailer.com/)
-- [Integer-net](https://www.integer-net.com/solr-magento/)
-- [Genmato](https://genmato.com/)
-- [Fooman](http://store.fooman.co.nz/)
-- [Ebizmarts](https://ebizmarts.com/)
-- [Magemail](https://magemail.co/)
-- [MagePal](https://packagist.org/packages/magepal/)
-- [Modulwerft](https://www.modulwerft.com/)
-- [Paradox Labs](https://www.paradoxlabs.com/)
-- [The Extension Lab](https://github.com/theextensionlab/)
-- [Sweet Tooth](https://www.sweettoothrewards.com/)
-- [Rocket Web](http://rocketweb.com/)
-- [ProxiBlue](https://www.proxiblue.com.au/)
-- [Unirgy](http://www.unirgy.com/)
-- [WebShopApps](http://webshopapps.com/eu/)
-- [Yireo](https://www.yireo.com/)
-- [FireBear Studio](https://firebearstudio.com/)
+- [Aheadworks](https://www.aheadworks.com/) - Magento extension vendor.
+- [Altima](https://shop.altima.net.au/) - Magento extension vendor.
+- [Blue Jalappeno](http://bluejalappeno.com/) - Magento extension vendor.
+- [CustomGento](https://www.customgento.com/extensions/) - Magento extension vendor.
+- [Dotmailer](https://www.dotmailer.com/) - Email marketing platform with Magento integration.
+- [Integer-net](https://www.integer-net.com/solr-magento/) - Magento extension vendor (Solr integration and more).
+- [Genmato](https://genmato.com/) - Magento extension vendor.
+- [Fooman](http://store.fooman.co.nz/) - Magento extension vendor.
+- [Ebizmarts](https://ebizmarts.com/) - Magento extension vendor.
+- [Magemail](https://magemail.co/) - Email marketing for Magento.
+- [MagePal](https://packagist.org/packages/magepal/) - MagePal's Magento extensions on Packagist.
+- [Modulwerft](https://www.modulwerft.com/) - Magento extension vendor.
+- [Paradox Labs](https://www.paradoxlabs.com/) - Magento extension vendor.
+- [The Extension Lab](https://github.com/theextensionlab/) - The Extension Lab on GitHub.
+- [Sweet Tooth](https://www.sweettoothrewards.com/) - Loyalty and rewards platform with Magento integration.
+- [Rocket Web](http://rocketweb.com/) - Magento extension vendor.
+- [ProxiBlue](https://www.proxiblue.com.au/) - Magento extension vendor.
+- [Unirgy](http://www.unirgy.com/) - Magento extension vendor.
+- [WebShopApps](http://webshopapps.com/eu/) - Magento extension vendor.
+- [Yireo](https://www.yireo.com/) - Magento extension vendor and training provider.
+- [FireBear Studio](https://firebearstudio.com/) - Magento extension vendor.
 
 > **Magento Extension Developers Network (ExtDN)**
 > The Magento Extension Developers Network (ExtDN) is a vetted network of extension developers whose core business is to
@@ -407,10 +405,15 @@ by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-information-a
 
 ## Other Magento 2 related Awesome Lists
 
-- [Mageres](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2.
-- [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources.
-- [Awesome Magento](https://github.com/sunel/awesome-magento) - An Awesome Magento List with mixed M1 and M2 Content
-  by [sunel](https://github.com/sunel).
+- [Mageres](https://github.com/aleron75/mageres) - Alessandro Ronchi's list of resources for Magento 1 and Magento 2.
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated list of awesome PHP resources.
+
+<details>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
+
+- [Awesome Magento](https://github.com/sunel/awesome-magento) - An awesome Magento list with mixed M1 and M2 content by sunel.
+
+</details>
 
 ---
 
