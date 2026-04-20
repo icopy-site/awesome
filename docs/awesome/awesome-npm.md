@@ -37,6 +37,7 @@
 - [npm semver calculator](http://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 - [ghub.io](https://ghub.io) - Redirects to the GitHub repo of an npm package.
 - [moiva](https://moiva.io) - Discover and compare packages.
+- [npmx.dev](https://npmx.dev) - Fast and modern viewer for the npm registry.
 
 ### Browser extensions
 

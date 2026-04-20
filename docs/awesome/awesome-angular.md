@@ -97,6 +97,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [SST](https://sst.dev/) - A framework that makes it easy to build and automate modern full-stack applications.
 * [ngx-config-orchestrator](https://github.com/xhani-manolis-trungu/ngx-config-orchestrator) - Angular library for runtime configuration via external JSON, enabling “Build Once, Deploy Anywhere.”
 * [deploy-with-git](https://github.com/RunOnFlux/deploy-with-git/tree/master/deploy-angular) - Lets you deploy an Angular app directly to the [Flux Network](https://runonflux.com/) from a Git repository.
+* [@railwayapp-templates/angular-starter](https://github.com/railwayapp-templates/angular-starter) - One-click default Angular TS starter, utilizing Caddy to serve!
 
 ### Desktop Applications
 
@@ -109,6 +110,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-tauri](https://github.com/maximegris/angular-tauri) - Ultra-fast bootstrapping with Angular and Tauri.
 * [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
 * [wails](https://github.com/wailsapp/wails) - Build desktop applications using Go & web technologies, including [Angular](https://wails.io/docs/guides/angular/).
+* [MōBrowser](https://teamdev.com/mobrowser) - A framework for building desktop apps using TypeScript, HTML, and CSS, with source code protection built in.
 
 ### Updating Angular
 
@@ -1918,6 +1920,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [strata-storage](https://github.com/aoneahsan/strata-storage) - Zero-dependency universal storage plugin providing a unified API for all storage operations across web, Android, and iOS platforms.
 * [ngx-webstore](https://github.com/saurabh-vaish/ngx-webstore) - A comprehensive Angular library for browser storage management with TypeScript support, reactive APIs, encryption, TTL, and more.
 * [@moltendb-web/angular](https://github.com/maximilian27/moltendb-web) - Rust/WebAssembly local‑first DB for Angular with Signals, OPFS, GraphQL‑style queries, and Web Workers.
+* [ngx-secure-storage](https://github.com/MadeByRaymond/ngx-secure-storage) - SSR-compatible Angular service to securely store, retrieve, and manage encrypted data in localStorage and sessionStorage using AES encryption.
 
 ### Tooltips
 
@@ -2055,6 +2058,7 @@ for the creation of web applications developed with Angular.
 * [seacotools](https://github.com/Seacotec/seacotools) - A library designed for modern Angular applications, offering a suite of reusable UI components and services compatible with Tailwind CSS.
 * [semantic-components](https://github.com/gridatek/semantic-components) - Modular Angular CDK + Tailwind UI elements with semantic HTML, full accessibility, and lightweight flexibility.
 * [simui](https://github.com/dofu-lab/simui) - Beautiful Angular UI components built with Tailwind CSS and Spartan.
+* [starting-point-ui](https://github.com/gufodotdev/starting-point-ui) - Framework‑agnostic Tailwind CSS components inspired by shadcn/ui, fully compatible with Angular.
 * [synerity-ui](https://github.com/synerity-ai/synerity-ui) - Enterprise‑grade Angular 20+ library with 90+ accessible, performant Tailwind‑styled components for modern apps.
 * [Tailkit UI](https://tailkit.com/) - Carefully crafted, customizable, fully responsive Tailwind CSS components, templates, and tools for your projects.
 * [tailng](https://github.com/tociva/tailng) - Angular components styled with Tailwind to achieve a Material‑like look.

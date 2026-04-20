@@ -528,6 +528,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [supercilex/fuc](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
 * [topheman/webassembly-component-model-experiments](https://github.com/topheman/webassembly-component-model-experiments) - WebAssembly Component Model based REPL with sandboxed multi-language plugin system [![Crates.io](https://img.shields.io/crates/v/pluginlab.svg)](https://crates.io/crates/pluginlab)
 * [trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool [![build badge](https://github.com/fujiapple852/trippy/workflows/CI/badge.svg)](https://github.com/fujiapple852/trippy/actions/workflows/ci.yml)
+* [tw93/Kaku](https://github.com/tw93/Kaku) - A fast, out-of-the-box terminal emulator built for AI coding, with zero-config defaults, AI assistant integration, and WezTerm-compatible Lua configuration. macOS-only.
 * [uutils/coreutils](https://github.com/uutils/coreutils) - A cross-platform rewrite of the GNU coreutils [![CICD](https://github.com/uutils/coreutils/actions/workflows/CICD.yml/badge.svg)](https://github.com/uutils/coreutils/actions/workflows/CICD.yml)
 * [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 * [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - counts the lines of code
@@ -681,6 +682,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [bacon](https://github.com/Canop/bacon) - background rust code checker, similar to cargo-watch
 * [biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
 * [cachix/devenv](https://github.com/cachix/devenv) - Fast, declarative, reproducible, and composable developer environments using Nix [![CI](https://github.com/cachix/devenv/actions/workflows/release.yml/badge.svg)](https://github.com/cachix/devenv/actions/workflows/release.yml)
+* [claudectl](https://github.com/mercurialsolo/claudectl) [[claudectl](https://crates.io/crates/claudectl)] - Auto-pilot for Claude Code with a local LLM brain (ollama/llama.cpp/vLLM) that learns to auto-approve/deny tool calls. Multi-session orchestration, health monitoring, spend control. [![CI](https://github.com/mercurialsolo/claudectl/actions/workflows/ci.yml/badge.svg)](https://github.com/mercurialsolo/claudectl/actions/workflows/ci.yml)
 * [clippy](https://crates.io/crates/clippy) - Rust lints
 * [clog-tool/clog-cli](https://github.com/clog-tool/clog-cli) - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
 * [cloudflare/foundations](https://github.com/cloudflare/foundations) - Foundations is a modular Rust library, designed to help scale programs for distributed, production-grade systems.

@@ -139,6 +139,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Pre-evaluate code at buildtime](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
 * [JS-Beautifier](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
 * [husky](https://github.com/typicode/husky) - Prevents bad git commit, git push and more.
+* [Rev-dep](https://github.com/jayu/rev-dep) - Trace imports, identify circular dependencies, find unused code, clean node modules — all from a blazing-fast CLI.
 
 ## MVC Frameworks and Libraries
 
@@ -941,6 +942,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Gridsome](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
 * [Next.js](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
 * [Lume](https://github.com/lumeland/lume) - Static site generator for Deno.
+* [Nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 
 ## SDK
 
