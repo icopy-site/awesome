@@ -767,6 +767,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Angular-Material-Tailwind-Integration](https://github.com/adandedjanstephane-git/Angular-Material-Tailwind-Integration) - A stable, themeable set of CSS custom properties mapping Material Design System tokens to Tailwind CSS utility classes.
 * [element-identifier](https://github.com/jooherrera/element-identifier) - Create reliable, distinct CSS selectors to target DOM elements, and utilize a web component for visual inspection and selection.
+* [Material Theme Builder](https://www.materialthemebuilder.com/) - Real-time Angular Material theming for your app.
 * [ngx-angora-css](https://github.com/LynxPardelle/ngx-angora-css) - A JavaScript-based CSS framework that dynamically generates styles on page load.
 * [ngx-classed](https://github.com/lukonik/ngx-classed) - A library allows you to dynamically add or remove classes based on state.
 * [ngx-css](https://github.com/squidit/ngx-css) - An Angular abstraction for [Squid CSS](https://github.com/squidit/css).
@@ -1488,7 +1489,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-pattern-lock](https://github.com/nicotole/ngx-pattern-lock) - A lightweight, fully responsive, and customizable Android-style pattern lock component for Angular.
 * [smt-select](https://github.com/sametacar/smt-select) - A high-performance, lightweight, and customizable Angular select component with built-in virtual scroll and search capabilities.
 * [ngx-mat-searchable-select](https://github.com/khalilElmouedene/ngx-mat-searchable-select) - A reusable Angular Material select component with infinite scroll, debounced search, "no items found" feedback, and static/mock data support.
-* [mat-password-meter](https://github.com/ngx-zen/mat-password-meter) - Three Angular Material password strength components with a signals-based API.
+* [mat-password-meter](https://github.com/ngx-zen/mat-password-meter) - Angular Password Strength Meter ([zxcvbn](https://github.com/dropbox/zxcvbn), NIST-aligned, customizable).
 * [nicematic-emoji-picker](https://github.com/myposty/nicematic-emoji-picker) - High‑performance, zero‑dependency emoji picker for Angular 17+ with 929 emojis, auto‑theming, i18n, and responsive design.
 
 ### JSON Forms

@@ -657,6 +657,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Gideros](https://github.com/gideros/gideros) - 2D/3D cross-platform games with Lua. [[Website](http://giderosmobile.com/)]
     - 🎉 [INSTEAD](https://github.com/instead-hub/instead) - Simple Text Adventure Interpreter.
     - 🎉 [LÖVE](https://github.com/love2d/love) - 2D framework for writing game code with Lua. [[Awesome](https://github.com/love2d-community/awesome-love2d) | [Website](https://love2d.org)]
+    - 🎉 [Vectarine](https://github.com/vanyle/vectarine) - A cross-platform game engine for fast prototyping with Lua and Luau [[Website](http://vectarine.surge.sh/)]
 
 ### Java
 - 📚 [Awesome Java](https://github.com/akullpp/awesome-java) - Awesome frameworks, libraries and software for Java.
