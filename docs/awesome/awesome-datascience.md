@@ -1090,6 +1090,7 @@ Some data mining competition platforms
 - [GeoLite Legacy Downloadable Databases](https://dev.maxmind.com/geoip)
 - [Hugging Face Datasets](https://huggingface.co/datasets)
 - [Japan Neighborhoods](https://japanneighborhoods.com) - English dataset of Tokyo crime statistics across 5,078 neighborhoods × 7 years (36,222 records, 2018-2024), sourced from Tokyo Metropolitan Police open data. Includes interactive crime map, safety grading, and cost-of-living index. CC BY licensed.
+- [Crime Brasil](https://crimebrasil.com.br) - Open-data platform for Brazilian crime statistics. Neighborhood-level in Rio Grande do Sul (2.99M incidents across 79,024 neighborhoods, 2022–2025), municipality-level for MG and RJ, plus national PRF highway and DATASUS interpersonal-violence data. Free REST API, CSV/Parquet, daily updates, CC BY 4.0.
 - [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 - [Public Big Data Sets](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)

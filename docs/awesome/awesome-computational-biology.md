@@ -362,12 +362,21 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [scArches](https://github.com/theislab/scarches) — Transfer learning framework for mapping new single-cell datasets onto pre-trained reference atlases across batches, conditions, and modalities.
 - [TOSICA](https://github.com/JackieHanlaopo/TOSICA) — Transformer-based framework for one-stop interpretable cell-type annotation supporting cross-dataset and cross-species transfer.
 
+#### Compound Foundation Models
+
+##### Compound Embedding
+
+- [ChemBERTa-2](https://github.com/seyonechithrananda/bert-loves-chemistry) — RoBERTa-based molecular language model pretrained on SMILES for small-molecule representation learning.
+- [GROVER](https://github.com/tencent-ailab/grover) — Self-supervised graph transformer for large-scale molecular representation learning from unlabeled compounds.
+- [Mol2Vec](https://github.com/samoturk/mol2vec) — Unsupervised molecular embedding method inspired by Word2Vec for learning vector representations of chemical substructures.
+- [MolFormer](https://github.com/IBM/molformer) — Linear attention transformer pretrained on millions of SMILES strings for efficient molecular embeddings.
+- [Uni-Mol](https://github.com/deepmodeling/Uni-Mol) — 3D molecular pretraining framework for universal representation learning on molecules and protein pockets.
+
 #### Protein Foundation Models
 
 ##### Pre-trained Embedding
 
 - [Evolutionary Scale Modeling (ESM)](https://github.com/facebookresearch/esm) — Protein embeddings.
-- [ChemBERTa-2](https://github.com/seyonechithrananda/bert-loves-chemistry) — Chemical embeddings & prediction.
 - [ProtTrans](https://github.com/agemagician/ProtTrans) — Suite of protein language models (ProtBERT, ProtT5, ProtXLNet) trained on billions of protein sequences from UniRef and BFD.
 - [ProGen2](https://github.com/salesforce/progen) — Protein language model trained on diverse protein families for sequence generation and fitness prediction.
 - [Ankh](https://github.com/agemagician/Ankh) — Efficient protein language model optimized for downstream prediction tasks including secondary structure, localization, and function annotation.
@@ -414,7 +423,6 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [GPN (Genomic Pre-trained Network)](https://github.com/songlab-cal/gpn) — Masked language model for DNA sequences enabling zero-shot variant effect prediction without requiring functional annotations.
 
 ---
-
 
 ## Citation
 

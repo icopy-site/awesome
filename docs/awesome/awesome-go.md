@@ -934,6 +934,7 @@ _Libraries and tools that implement email creation and sending._
 - [SendGrid](https://github.com/sendgrid/sendgrid-go) - SendGrid's Go library for sending email.
 - [smtp](https://github.com/mailhog/smtp) - SMTP server protocol state machine.
 - [smtpmock](https://github.com/mocktools/go-smtp-mock) - Lightweight configurable multithreaded fake SMTP server. Mimic any SMTP behaviour for your test environment.
+- [tickstem/verify](https://github.com/tickstem/verify) - Validate email addresses before they hit your database: syntax, MX lookup, disposable domains, and role-based inboxes.
 - [truemail-go](https://github.com/truemail-rb/truemail-go) - Configurable Golang email validator/verifier. Verify email via Regex, DNS, SMTP and even more.
 
 
@@ -1906,6 +1907,7 @@ _Libraries for working with various layers of the network._
 - [lhttp](https://github.com/fanux/lhttp) - Powerful websocket framework, build your IM server more easily.
 - [linkio](https://github.com/ian-kent/linkio) - Network link speed simulation for Reader/Writer interfaces.
 - [llb](https://github.com/kirillDanshin/llb) - It's a very simple but quick backend for proxy servers. Can be useful for fast redirection to predefined domain with zero memory allocation and fast response.
+- [macwifi](https://github.com/jaisonerick/macwifi) - Wi-Fi scanning and Keychain password retrieval for macOS 13+.
 - [mdns](https://github.com/hashicorp/mdns) - Simple mDNS (Multicast DNS) client/server library in Golang.
 - [mqttPaho](https://eclipse.org/paho/clients/golang/) - The Paho Go Client provides an MQTT client library for connection to MQTT brokers via TCP, TLS or WebSockets.
 - [natiu-mqtt](https://github.com/soypat/natiu-mqtt) - A dead-simple, non-allocating, low level implementation of MQTT well suited for embedded systems.
@@ -2971,6 +2973,7 @@ _Full stack web frameworks._
 - [chi](https://github.com/go-chi/chi) - Small, fast and expressive HTTP router built on net/context.
 - [fasthttprouter](https://github.com/buaazp/fasthttprouter) - High performance router forked from `httprouter`. The first router fit for `fasthttp`.
 - [FastRouter](https://github.com/razonyang/fastrouter) - a fast, flexible HTTP router written in Go.
+- [Fox](https://github.com/fox-toolkit/fox) - A high-performance HTTP router for building reverse proxies and API gateways, with first-class support for mutating routes at runtime.
 - [fursy](https://github.com/coregx/fursy) - HTTP router with type-safe generic handlers, automatic OpenAPI 3.1 generation from code, and RFC 9457 error responses.
 - [goblin](https://github.com/bmf-san/goblin) - A golang http router based on trie tree.
 - [gocraft/web](https://github.com/gocraft/web) - Mux and middleware package in Go.
