@@ -2372,8 +2372,8 @@ _Libraries for testing codebases and generating test data._
 - [go-localstack](https://github.com/elgohr/go-localstack) - Tool for using localstack in AWS testing.
 - [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Mock SQL driver for testing database interactions.
 - [go-txdb](https://github.com/DATA-DOG/go-txdb) - Single transaction based database driver mainly for testing purposes.
-- [gock](https://github.com/h2non/gock) - Versatile HTTP mocking made easy.
 - [gomock](https://github.com/uber-go/mock) - Mocking framework for the Go programming language.
+- [gomock](https://github.com/vibridi/gomock) - CLI tool to generate typed and framework-agnostic interface mocks, with support for generics.
 - [govcr](https://github.com/seborama/govcr) - HTTP mock for Golang: record and replay HTTP interactions for offline testing.
 - [hoverfly](https://github.com/SpectoLabs/hoverfly) - HTTP(S) proxy for recording and simulating REST/SOAP APIs with extensible middleware and easy-to-use CLI.
 - [httpmock](https://github.com/jarcoal/httpmock) - Easy mocking of HTTP responses from external resources.

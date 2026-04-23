@@ -58,6 +58,7 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 - [Marvel](https://marvelapp.com/) - Marvel has everything you need to bring ideas to life and transform how you create digital products with your team. Placing the power of design in everyone’s hands.
 - [UXPin](https://www.uxpin.com/) - Design and manage your entire UX/UI project in one tool.
 - [Penpot](https://penpot.app) - Penpot is the first Open Source design and prototyping platform meant for cross-domain teams.
+- [Lunacy](https://icons8.com/lunacy) - A free graphic design tool with offline mode, built-in assets (icons, illustrations, photos), and real-time collaboration. Great alternative to Sketch and Figma (macOS, Windows, Linux).
 
 See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)!
 
@@ -160,6 +161,7 @@ More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 ### Unit & Regression test
 
 - [Chromatic](https://www.chromaticqa.com/) - Visual testing for React, Angular and Vue. Chromatic ensures consistency in UI components, down to the pixel. Every commit is automatically tested for visual changes in the cloud.
+- [Sherlo](https://sherlo.io/) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 - [Testing library](https://testing-library.com/) - Simple and complete testing utilities that encourage good testing practices.
 
 ## Books
