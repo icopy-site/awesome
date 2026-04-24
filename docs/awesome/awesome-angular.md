@@ -670,6 +670,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-extract-i18n-merge](https://github.com/daniel-sc/ng-extract-i18n-merge) - Extract and merge i18n xliff translation files for Angular projects.
 * [ngx-atomic-i18n](https://github.com/viacharles/ngx-atomic-i18n) - Angular translation library with lazy loading.
 * [ngx-bidi](https://github.com/ystolyarchuk/ngx-bidi) - Angular library for automatic or manual LTR/RTL text direction with directives, `NgxBidiService`, SCSS mixins, and module/standalone support.
+* [ngx-directo](https://github.com/ahmaed0hakam/ngx-directo) - Angular 18+ Signals-based library for RTL/LTR directionality, Arabic localization, and Google Font orchestration.
 * [ngx-easy-i18n-js](https://github.com/gabrie-allaigre/ngx-easy-i18n-js) - The easy internationalization (i18n) library for Angular.
 * [ngx-g11n](https://github.com/DSI-HUG/ngx-g11n) - Angular helpers for internationalizing and localizing your application.
 * [ngx-glagolize](https://github.com/alkorschun/ngx-glagolize) - An Angular library for handling translations and localization.
@@ -1491,6 +1492,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-mat-searchable-select](https://github.com/khalilElmouedene/ngx-mat-searchable-select) - A reusable Angular Material select component with infinite scroll, debounced search, "no items found" feedback, and static/mock data support.
 * [mat-password-meter](https://github.com/ngx-zen/mat-password-meter) - Angular Password Strength Meter ([zxcvbn](https://github.com/dropbox/zxcvbn), NIST-aligned, customizable).
 * [nicematic-emoji-picker](https://github.com/myposty/nicematic-emoji-picker) - High‑performance, zero‑dependency emoji picker for Angular 17+ with 929 emojis, auto‑theming, i18n, and responsive design.
+* [ngx-starflow](https://github.com/ahmadfakher/ngx-starflow) - A lightweight Angular component for displaying fractional star ratings with full precision.
 
 ### JSON Forms
 
@@ -1505,6 +1507,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [json-forms-zorro-wrapper](https://github.com/wojtek1150/json-forms-zorro-wrapper) - Ng Zorro wrapper for json forms library.
 * [ngx-formwork](https://github.com/TheNordicOne/ngx-formwork) - Framework for Angular Reactive Forms built from JSON or TypeScript configuration.
 * [ngx-formbar](https://github.com/TheNordicOne/ngx-formbar) - A highly flexible framework for generating declarative reactive forms.
+* [formitiva](https://github.com/formitiva/formitiva-monorepo) - A framework-agnostic runtime form engine for building forms from JSON schemas.
 
 ### Form Validation
 

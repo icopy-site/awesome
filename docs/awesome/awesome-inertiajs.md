@@ -27,8 +27,6 @@
   <br />
 </p>
 
-
-
 ## Useful Links
 
 **Legend**: `💜` Official · `⭐` Featured
@@ -36,99 +34,37 @@
 - [Documentation](http://inertiajs.com) - Official website and documentation.
 - [Twitter](https://twitter.com/inertiajs) - Official Twitter account.
 - [Discord](https://discord.gg/gwgxN8Y) - Official Discord server.
+- [Kitchen sink](https://github.com/inertiajs/demo-v3) - Demonstration application made with Laravel and Vue.
 - [Organization](https://github.com/inertiajs) - Official GitHub organization.
 
 ## Adapters
 
 ### Client-side
 
-- 💜 [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/inertia-vue)
-- 💜 [React](https://github.com/inertiajs/inertia/tree/master/packages/inertia-react)
-- 💜 [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/inertia-svelte)
-- [Mithril](https://github.com/maicol07/inertia-mithril)
-- [Preact](https://github.com/jrson83/inertia-preact)
+- `💜` [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/vue3)
+- `💜` [React](https://github.com/inertiajs/inertia/tree/master/packages/react)
+- `💜` [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/svelte)
 
 ### Server-side
 
-- 💜 [Laravel](https://github.com/inertiajs/inertia-laravel)
-- 💜 [Rails](https://github.com/inertiajs/inertia-rails)
-- 💜 [Django](https://github.com/inertiajs/inertia-django)
-- 💜 [Phoenix](https://github.com/inertiajs/inertia-phoenix)
-- [Statamic](https://github.com/hotmeteor/inertia-statamic)
-- [ASP.NET Core](https://github.com/kapi2289/InertiaCore)
-- [CakePHP](https://github.com/ishanvyas22/cakephp-inertiajs)
-- [ColdBox](https://github.com/elpete/cbInertia)
-- [Phoenix](https://github.com/devato/inertia_phoenix)
-- [Symfony](https://github.com/rompetomp/inertia-bundle)
-- [Yii2](https://github.com/tbreuss/yii2-inertia)
-- [Django](https://github.com/zodman/inertia-django)
-- [Fiber](https://github.com/theArtechnology/fiber-inertia)
-- [Node.js](https://github.com/haikyuu/inertia-node-adapter)
-- [Masonite](https://github.com/girardinsamuel/masonite-inertia)
-- [WordPress](https://github.com/boxybird/wordpress-inertia-plugin)
-- [Flask](https://github.com/j0ack/flask-inertia)
-- [Adonis](https://github.com/eidellev/inertiajs-adonisjs)
-- [CanJS](https://github.com/cherifGsoul/inertia-can)
-- [Clojure](https://github.com/prestancedesign/inertia-clojure)
-- [CodeIgniter](https://github.com/amiranagram/inertia-codeigniter-4)
+- `💜` [Laravel](https://github.com/inertiajs/inertia-laravel)
+- `💜` [Rails](https://github.com/inertiajs/inertia-rails)
+- `💜` [Django](https://github.com/inertiajs/inertia-django)
+- `💜` [Phoenix](https://github.com/inertiajs/inertia-phoenix)
+- `⭐` [Adonis](https://github.com/adonisjs/inertia)
 - [Go](https://github.com/petaki/inertia-go)
-- [PSR-15](https://github.com/cherifGsoul/inertia-psr15)
-- [Rust](https://github.com/stuarth/inertia-rs)
-- [Oak (Deno)](https://github.com/jcs224/oak_inertia)
 - [Echo](https://github.com/kohkimakimoto/inertia-echo)
-- [Grails](https://github.com/matrei/grails-inertia-plugin)
 - [FastAPI](https://github.com/hxjo/fastapi-inertia)
-- [Hyperf](https://github.com/onix-systems-php/hyperf-inertia)
+- [Grails](https://github.com/matrei/grails-inertia-plugin)
+- [Flask](https://github.com/j0ack/flask-inertia)
 
 ## Resources
 
-### Presets
-
-- 💜 [Laravel Breeze](https://laravel.com/docs/8.x/starter-kits#breeze-and-inertia) - Laravel's official authentication scaffolding, with Tailwind CSS and Inertia.js.
-- 💜 [Laravel Jetstream](https://jetstream.laravel.com/1.x/stacks/inertia.html) - Laravel's official application scaffolding, with Tailwind CSS, Inertia.js and Vue.js.
-- [Laravel front-end preset](https://github.com/laravel-frontend-presets/inertiajs) - Laravel front-end preset for Inertia.js.
-- [Laravel Moonlight](https://github.com/TitasGailius/laravel-moonlight) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
-- [Titanium](https://github.com/usetitanium/inertia) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
-- [Breeze React](https://github.com/lucky-media/breeze-react) - Laravel Breeze fork with Tailwind CSS, Inertia.js and React.
-- [Laravel Jetstream React](https://github.com/ozziexsh/laravel-jetstream-react) - Converts the official Laravel Jetstream Inertia.js starter kit to React.
-
-### Packages
-
-- [Page loader](https://github.com/ycs77/inertia-plugin) - Unplugin for loading Inertia pages from configured namespaces.
-- [Flash](https://github.com/igerslike/inertia-flash) - Laravel package for sharing properties from anywhere.
-- [Dry requests](https://github.com/dive-be/laravel-dry-requests) - Generic Laravel package for real-time form validation.
-- [Kakunin](https://github.com/Juhlinus/kakunin) - Laravel package for real-time form validation.
-- [Resource Links](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
-- [Navigation](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.
-- [Tables for Laravel](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder](https://github.com/spatie/laravel-query-builder).
-
-### Articles
-
-- [Introducing Inertia.js](https://reinink.ca/articles/introducing-inertia-js)
-- [Server-side applications with client-side rendering](https://reinink.ca/articles/server-side-apps-with-client-side-rendering)
-- [Inertia.js and Livewire: a high-level comparison](https://sebastiandedeyne.com/inertia-js-and-livewire-a-high-level-comparison/)
-- [Handling authorization in a Laravel and Inertia.js application](https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/)
-- [Handling routes in a Laravel and Inertia.js application](https://sebastiandedeyne.com/handling-routes-in-a-laravel-inertia-application/)
-
-### Examples
-
-- 💜 [Ping CRM / Laravel](https://github.com/inertiajs/pingcrm/) - Demonstration application made with Laravel and Vue.js.
-- 💜 [Ping CRM / Svelte](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Laravel and Svelte.
-- [Ping CRM / Django](https://github.com/zodman/django-inertia-demo) - Demonstration application made with Django and Vue.js.
-- [Ping CRM / Rails](https://github.com/ledermann/pingcrm) - Demonstration application made with Ruby on Rails and Vue.js.
-- [Ping CRM / CakePHP](https://github.com/ishanvyas22/cakephp-pingcrm) - Demonstration application made with CakePHP and Vue.js.
-- [Ping CRM / Masonite](https://github.com/girardinsamuel/pingcrm-masonite) - Demonstration application made with Masonite and Vue.js.
-- [Ping CRM / React](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
-- [Ping CRM / Clojure](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
-- [Ping CRM / Flask](https://github.com/j0ack/pingcrm-flask) - Demonstration application made with Flask and Vue.js.
-- [Ping CRM / Echo](https://github.com/kohkimakimoto/pingcrm-echo) - Demonstration application made with Echo and Vue.js.
-- [Ping CRM / Preact](https://github.com/jrson83/pingcrm-preact) - Demonstration application made with Laravel Preact.
-- [Ping CRM / Grails](https://github.com/matrei/pingcrm-grails) - Demonstration application made with Grails and Vue.js.
-
-### Other
-
+- `💜` [Starter kit](https://laravel.com/docs/13.x/starter-kits#available-starter-kits) - Laravel's official starter kits for Vue, React and Svelte.
+- `⭐` [Data](https://github.com/spatie/laravel-data) - Larave package for working with data objects, with built-in support for Inertia.
+- `⭐` [Navigation](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.
 - [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
-- [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - PhpStorm/Intellij Ultimate plugin for Inertia.js.
+- [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - PhpStorm/IntelliJ Ultimate plugin for Inertia.js.
 - [Code extension](https://marketplace.visualstudio.com/items?itemName=nhedger.inertia) - Visual Studio Code extension for Inertia.js.
 
 <p align="center">

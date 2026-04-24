@@ -216,7 +216,12 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 #### Swift
 
 - [algorand-wallet](https://github.com/algorand/algorand-wallet) - Algorand wallet official implementation in Swift.
+- [swift-algorand](https://github.com/CorvidLabs/swift-algorand) - Modern Swift SDK for the Algorand Blockchain with async/await and Swift concurrency support.
 - [swift-algorand-sdk](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
+- [swift-algokit](https://github.com/CorvidLabs/swift-algokit) - AlgoKit utilities for Swift developers.
+- [swift-arc](https://github.com/CorvidLabs/swift-arc) - Swift library for working with Algorand ARC metadata standards for NFTs.
+- [swift-mint](https://github.com/CorvidLabs/swift-mint) - Swift library for minting NFTs on the Algorand Blockchain.
+- [swift-algochat](https://github.com/CorvidLabs/swift-algochat) - End-to-end encrypted messaging on Algorand with hybrid ECDH and PSK ratcheting in Swift.
 
 #### Ruby
 
@@ -276,6 +281,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [irulan](https://irulan.dev/) - Web app for deploying + testing smart contracts ([open source! + PRs welcome](https://github.com/thencc/irulan)).
 - [algojig](https://github.com/Hipo/algojig) - A tool for testing Algorand smart contracts.
 - [tealinspector](https://github.com/Hipo/tealinspector) - Quick and easy TEAL code debugging by Hipo labs.
+- [swift-algotest](https://github.com/CorvidLabs/swift-algotest) - Swift testing framework for Algorand smart contracts with mock chain support.
 
 
 ### Deployment & Environment
@@ -318,6 +324,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [Algorand Ballet](https://akaalias.github.io/algorand-ballet/) - Algorand accounts' 2D graphs.
 - [Algorand Multiverse](https://algo3d.live/) - Algorand accounts' 3D graphs.
 - [AlgoSurf](https://algo.surf/) - Algorand Network Explorer (supports LocalNet in `localhost`).
+- [Algo Explorer](https://github.com/corvid-agent/algo-explorer) - Modern Algorand Blockchain explorer with real-time transaction monitoring.
 
 
 ### Portfolio Trackers
@@ -402,8 +409,8 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [algorand-remote-mcp](https://github.com/GoPlausible/algorand-remote-mcp) - Algorand remote SSE MCP Server Cloudflare Worker.
 - [arcontextify](https://github.com/aorumbayev/arcontextify) - Algorand ARC-56 to MCP server converter.
 - [VibeKit](https://github.com/gabrielkuettel/vibekit) - CLI + MCP server that gives AI coding assistants the skills and tools to build on Algorand.
-- [AlgoChat](https://github.com/CorvidLabs/ts-algochat) - Encrypted on-chain messaging protocol for Algorand, enabling AI agent-to-agent communication via transaction notes.
-- [CorvidAgent](https://github.com/CorvidLabs/corvid-agent) - AI agent orchestration platform with on-chain messaging, persistent memory, and autonomous scheduling via Algorand.
+- [corvid-agent](https://github.com/corvid-agent/corvid-agent) - An autonomous AI agent platform built on Algorand with encrypted on-chain messaging.
+- [AlgoChat](https://github.com/corvid-agent/corvid-agent-chat) - Encrypted peer-to-peer chat client using Algorand transactions and PSK ratcheting.
 - [algorand-agent-skills](https://github.com/algorand-devrel/algorand-agent-skills) - Canonical collection of Agent Skills for AI-assisted development on Algorand by Algorand DevRel.
 
 
@@ -423,6 +430,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [vestige.fi](https://vestige.fi/) - A decentralized ecosystem of tools primary used as a tool to track and trend Algorand Standard Assets and Liquidity Pools across the ecosystem. The platform also provides a decentralized swap and a launchpad platform.
 - [folks-router](https://github.com/Folks-Finance/folks-router) - Efficient swap routing SDK on Algorand by Folks Finance.
 - [Folks-Finance/algorand-js-sdk](https://github.com/Folks-Finance/folks-finance-js-sdk) - Official Folks Finance Algorand Protocol SDK.
+- [DorkFi](https://dork.fi/) - Cross-chain borrow/lend protocol on Algorand and Voi Network. Features overcollateralized lending, WAD stablecoin minting, and UNIT governance token.
 
 
 ### NFT Marketplaces
@@ -433,6 +441,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [AlgoGems](https://algogems.io/) - Algorand Standard Asset (ASA) markeplace and trading platform for NFT collectors.
 - [AlgoMart](https://github.com/deptagency/algomart) - Opensource NFT marketplace whitelabel solution.
 - [Flatter](https://www.flatternft.com/) - NFT art and collectible marketplace.
+- [NFT Gallery](https://github.com/corvid-agent/nft-gallery) - Algorand NFT gallery browser with ARC-standard support.
 
 ### Prediction Markets
 
@@ -452,7 +461,6 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 > Tools for on-chain voting powered by Algorand
 
 - [nft_voting_tool](https://github.com/algorandfoundation/nft_voting_tool) - Official voting tool by Algorand Foundation. The repository contains a voting tool that allows for creation and facilitation of immutable, tamperproof voting using the Algorand Blockchain.
-- [vote-coin-demo](https://github.com/scholtz/vote-coin-demo) - Decentralized message standard for on-chain voting on Algorand developed by @scholtz.
 
 
 ## Standards
@@ -474,7 +482,3 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 Contributions welcome! Read the [contribution guidelines](https://github.com/awesome-algorand/awesome-algorand/blob/main/contributing.md) first.
 
 Special thanks to everyone who forked or starred the repository ❤️
-
-[![Stargazers repo roster for @awesome-algorand/awesome-algorand](https://reporoster.com/stars/dark/awesome-algorand/awesome-algorand)](https://github.com/awesome-algorand/awesome-algorand/stargazers)
-
-[![Forkers repo roster for @awesome-algorand/awesome-algorand](https://reporoster.com/forks/dark/awesome-algorand/awesome-algorand)](https://github.com/awesome-algorand/awesome-algorand/network/members)

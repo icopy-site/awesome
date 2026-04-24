@@ -21,10 +21,8 @@ The curated list of resources for research and learning about stock trading and 
 - [Morningstar](https://www.morningstar.com) - Provides investment research, ratings, and tools for stocks, mutual funds, and ETFs.
 - [Seeking Alpha](https://seekingalpha.com) - Offers market news and analysis, portfolio management tools, and investment ideas from contributors.
 - [Simply Wall St](https://simplywall.st/) - Simply Wall St. has a unique pictorial approach to quickly and effectively cut through the massive amounts of data to narrow to a select few candidates.
-- [Strike.Market](https://strike.market) - Offers a platform for trading options and derivatives on cryptocurrency markets.
 - [Tip Ranks](https://www.tipranks.com) - Provides ratings and analysis of stocks and financial experts based on their historical performance.
 - [Wall Street Zen](https://www.wallstreetzen.com) - Offers tools for financial analysis, screening, and backtesting of investment strategies.
-- [Wallmine](https://wallmine.com) - Provides stock analysis, screening, and news for individual investors.
 - [Zacks](https://www.zacks.com) - Provides research, analysis, and ratings for stocks and funds based on quantitative models and fundamental data.
 
 ## Market Analysis
@@ -64,8 +62,9 @@ The curated list of resources for research and learning about stock trading and 
 - [MSCI - Market Insights](https://www.msci.com/research-and-insights/market-insights) - Market commentaries and research reports with a focus on macroeconomic topics.
 
 ## Portfolio Tracker
+- [Ghostfolio](https://ghostfol.io) - Open-source portfolio tracker for stocks, ETFs, and crypto with multi-account aggregation and performance analysis.
 - [Portfolio Visualizer](https://portfoliovisualizer.com) - Portfolio management and analysis tool that provides portfolio optimization, backtesting, and risk analysis.
-- [Wealthica](https://www.wealthica.com) - Wealth management platform that provides portfolio management, financial planning, and investment research.
+- [Wealthica](https://www.wealthica.com) - Wealth management platform that provides portfolio management, financial planning, and investment research (Canada-focused).
 
 ## Strategy Backtesting
 - [Screening Tale](https://www.screeningtale.com) - Backtesting platform that allows users to test their trading strategies on historical data.
@@ -84,6 +83,7 @@ The curated list of resources for research and learning about stock trading and 
 - [StockTwits Top 10](https://stocktwits.com/rankings/trending) - StockTwits' list of the top 10 trending stocks.
 
 ## Stock APIs
+- [Adanos Sentiment API](https://adanos.org/) - Sentiment API aggregating Reddit, X, financial news, and Polymarket data for US stocks and crypto.
 - [Alpha Vantage](https://www.alphavantage.co/) - Alpha Vantage offers free APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Eodhistoricaldata](https://eodhistoricaldata.com) - Eodhistoricaldata offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Financial Modeling Prep](https://site.financialmodelingprep.com/) - Financial Modeling Prep API provides real time stock price, company financial statements, major index prices, stock historical data, forex real time rate and cryptocurrencies.
