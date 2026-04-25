@@ -1436,6 +1436,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-entity-forms](https://github.com/irvrodflo/ngx-entity-form) - Generates fully typed Angular FormGroups from your entity interface, complete with autocompletion, validation, and error messages.
 * [ngx-form-draft](https://github.com/neokyuubi/ngx-form-draft) - Zero-dependency Angular form draft auto-save and restore.
 * [ngx-signal-forms](https://github.com/lorenzomusche/ngx-signal-forms) - A signal‑driven, type‑safe Angular form library built on the experimental Signal Forms API with modern M3 styling.
+* [formsync](https://github.com/sudhucodes/formsync) - A developer‑friendly Angular‑ready form backend that lets you collect and manage submissions without server‑side code.
 
 ### Form Controls
 
@@ -2300,6 +2301,7 @@ for the creation of web applications developed with Angular.
 * [@joanpablo/reactive_forms](https://github.com/joanpablo/reactive_forms) - A Dart library using a model-driven approach for forms and validations, inspired by Angular's Reactive Forms.
 * [reaktiv](https://github.com/buiapp/reaktiv) - Reactive Signals for Python with first-class async support, inspired by Angular's reactivity model.
 * [rxor](https://github.com/nsevendev/rxor) - Brings reactive signals to React, inspired by Angular Signals, Vue 3's `ref/computed`, and SolidJS.
+* [Signals](https://github.com/dmytrodemchenko/Signals) - Zero‑dependency, glitch‑free reactive signals for TypeScript and JavaScript using an optimized Angular‑inspired push/pull architecture.
 * [sio](https://github.com/silicia-apps/sio) - Silicia Framework: a fresh approach built upon Ionic, designed to streamline the development of hybrid applications and websites.
 * [UnReact.js](https://github.com/arnvjshi/unreactpjs) - A modern framework combining the best of Angular and React for enhanced component communication.
 * [use-vue-service](https://github.com/kaokei/use-vue-service) - Lightweight Vue 3 state management with dependency injection, inspired by Angular services.

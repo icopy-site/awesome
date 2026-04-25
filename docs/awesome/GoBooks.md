@@ -131,6 +131,17 @@ The highly popular sequel to *Let's Go!*, focusing on advanced API and web appli
 > Here are the top recommended books for absolute beginners—those with little or no programming experience—who want to learn Go from the very start
 
 
+### [Boring Go](https://golang.college/books/boring-go)
+
+*Last published*: **2026**
+*Authors:* **Dariush Abbasi**, **Hassan Aminfar**
+
+<a href="https://golang.college/books/boring-go"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/boring-go.png" width="120px"/></a>
+
+*Boring Go* is a practical guide to writing Go the way it works best in real projects—simple, explicit, and a little boring (in the good way). It champions clarity over novelty, readability over magic, and shows why boring code is often the most reliable, maintainable, and scalable choice.
+
+-----
+
 ### [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/)
 
 *Last published*: **2025**
