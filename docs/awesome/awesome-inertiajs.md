@@ -57,6 +57,7 @@
 - [FastAPI](https://github.com/hxjo/fastapi-inertia)
 - [Grails](https://github.com/matrei/grails-inertia-plugin)
 - [Flask](https://github.com/j0ack/flask-inertia)
+- [Symfony](https://github.com/nytodev/inertia-bundle)
 
 ## Resources
 

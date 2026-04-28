@@ -44,6 +44,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [RapidPro](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
  * [eu-citizen.science](https://eu-citizen.science/) - links to 200 projects
  * [Zooniverse](https://github.com/zooniverse) - website for zoo & universe projects
+ * [Yourself to Science](https://yourselftoscience.org/) - An open-source catalog of opportunities for citizens to contribute data, biological samples, or their bodies to research.
  
  ### Graphs and Visualization
  * [GraphViz](https://graphviz.org/) - tool for creating scientific graphs
