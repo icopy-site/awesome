@@ -409,6 +409,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [walkersumida/fusen.nvim](https://github.com/walkersumida/fusen.nvim) - Sticky note bookmarks, per Git branch with hover annotations and Telescope integration.
 - [markgandolfo/dartboard.nvim](https://github.com/markgandolfo/dartboard.nvim) - Mark files and quickly access them, inspired by Harpoon and Lasso.
 - [dimtion/guttermarks.nvim](https://github.com/dimtion/guttermarks.nvim) - Display marks in the buffer gutter.
+- [adithyasource/spearmint.nvim](https://github.com/adithyasource/spearmint.nvim) - Lightweight harpoon-style marks with terminal support.
 <!--lint disable double-link -->
 <!--lint enable double-link -->
 
@@ -894,6 +895,7 @@ then it is not supported:
 - [indium114/studytools.nvim](https://github.com/indium114/studytools.nvim) - Various utilities to enhance the studying and note-taking experience.
 - [iwe-org/iwe.nvim](https://github.com/iwe-org/iwe.nvim) - Integration with `IWE`, an LSP designed for Markdown-based knowledge management and note-taking workflows.
 - [carloscalla/notepad.nvim](https://github.com/carloscalla/notepad.nvim) - Quick note-taking in Markdown with both repo-specific and global notepad support.
+- [MattHandzel/taskwarrior.nvim](https://github.com/MattHandzel/taskwarrior.nvim) - Edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim.
 <!--lint disable double-link -->
 <!--lint enable double-link -->
 
@@ -1613,7 +1615,7 @@ then it is not supported:
 <!--lint disable double-link -->
 <!--lint enable double-link -->
 
-## Preconfigured Configuration
+## Pre-made Configuration
 
 - [abdellatif-temsamani/adev.nvim](https://github.com/abdellatif-temsamani/adev.nvim) - The over-engineered Neovim distribution for developers who want everything.
 - [pgosar/CyberNvim](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.

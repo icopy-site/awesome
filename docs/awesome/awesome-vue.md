@@ -706,7 +706,7 @@ _Set of components + responsive layout system_
 - [Prefect Design](https://prefect-design.netlify.app/) - Component library using Vue 3, Typescript & Tailwind.
 - [Stellar UI](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
 - [Shadcn UI](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui](https://github.com/shadcn-ui/ui) (re-usable components built with [Radix Vue](https://github.com/radix-vue/radix-vue) and [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)).
-- [BoldKit](https://github.com/ANIBIT14/boldkit) - A neubrutalism-styled Vue 3 & Nuxt component library with 45+ components, 35 SVG shapes, and charts. Built on Reka UI and compatible with shadcn-vue CLI.
+- [BoldKit](https://boldkit.dev) - A neubrutalism component library for Vue 3 & Nuxt with 55+ components, 10 chart types, 64 SVG shapes, and 17 animated ASCII shapes. Built on Reka UI, compatible with shadcn-vue CLI.
 - [Inspira UI](https://inspira-ui.com/) - Open Source components to build stunning animated interfaces effortlessly using Vue, Nuxt and Tailwind CSS.
 - [flowbite-vue](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
 - [Maz-UI](https://github.com/LouisMazel/maz-ui) - Lightweight and efficient library for Vue 3 & Nuxt 3 & 4 with 50+ components, theming, i18n and useful plugins and composables.
@@ -949,6 +949,7 @@ _Display non-editable events in a Calendar_
 - [@vue-leaflet/vue-leaflet](https://github.com/vue-leaflet/vue-leaflet) - Vue 3 components for Leaflet (1.x) maps.
 - [@maxel01/vue-leaflet](https://github.com/maxel01/vue-leaflet) - Vue 3 components for Leaflet (2.x) maps.
 - [mapmetrics-gl](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in tiles, geocoding, routing, and search.
+- [vue3-map-chart](https://github.com/noeGnh/vue3-map-chart) - Vue 3 components for displaying dynamic data on a world, continents, countries and custom maps.
 
 #### Audio / Video
 
@@ -1023,7 +1024,9 @@ _Display non-editable events in a Calendar_
 - [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
 - [vue-wheel-spinner](https://github.com/ilyasozkurt/vue-wheel-spinner) - A simple, customizable wheel of fortune component. [See Demo](https://vue-wheel-spinner-demo.vercel.app/)
 - [vue-progress-circle](https://github.com/keiwen/vue-progress-circle) - Circle progress bar component for vue3
+- [vue-awesome-button](https://github.com/rcaferati/vue-awesome-button) - Vue 3D button components with progress states, social sharing, themes, and animated transitions.
 - [vuehex](https://github.com/vvollers/vuehex) - Fast, virtualized hex viewer and editor for Vue 3. View and edit binary data. [Demo](https://vvollers.github.io/vuehex/demo/)
+- [vue3-icon-picker](https://github.com/noeGnh/vue3-icon-picker) Icon picker component for Vue 3.
 
 #### Tabs
 
@@ -1224,6 +1227,8 @@ _Detect when components enter viewport_
 - [v-route-generate](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
 - [kitbag/router](https://github.com/kitbagjs/router) - A type safe router for vuejs
 - [unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Next Generation file based typed routing for Vue Router.
+- [vite-plugin-vue-middleware](https://github.com/awdr74100/vite-plugin-vue-middleware) - File-based navigation guards for Vue Router
+- [vue-router-citadel](https://github.com/Kassaila/vue-router-citadel) - A middleware-driven navigation control system for Vue Router.
 
 #### Lazy Load
 
@@ -1273,6 +1278,7 @@ _Move a DOM node to a target DOM node_
 
 - [vue-svgicon](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x).
 - [vue-inline-svg](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
+- [lucide-motion-vue](https://github.com/respeak-io/lucide-motion-vue) - 516 animated Lucide icons for Vue 3 with ergonomic hover/tap/viewport triggers and a composable `<AnimateIcon>` wrapper. Tree-shakable, one chunk per icon, TypeScript-first. (vue 3.x)
 
 #### Miscellaneous
 
@@ -1347,6 +1353,7 @@ _LocalStorage etc._
 - [vue-datatable-url-sync](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
 - [harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
 - [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+- [Stan](https://stan.party) - a minimal, atomic state manager (framework-agnostic, with Vue bindings).
 
 ##### Mobx
 
@@ -1426,6 +1433,7 @@ _Integrate with services or other frameworks_
 - [vue-postgrest](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
 - [vue-tweet](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 - [vue-tg](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
+- [@rollgate/sdk-vue](https://github.com/rollgate/sdks/tree/main/packages/sdk-vue) - Vue 3 feature flag SDK with composables, gradual rollouts, A/B testing and real-time updates. Backend: [Rollgate](https://rollgate.io)
 
 #### Vue CLI Plugins
 
@@ -1515,11 +1523,12 @@ _Render Vue application to HTML on the server and to the DOM in the browser_
 
 - [Vue.js/Nuxt.js full-featured boilerplate](https://github.com/GrabarzUndPartner/gp-vue-boilerplate) - professional agency frontend template for building fast, robust, and adaptable web apps or sites by vuejs/nuxtjs.
 
-#### Electron
+#### Desktop
 
 - [electron-vite-template](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 - [Vutron](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
 - [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - Really simple Electron + Vite + Vue boilerplate.
+- [MōBrowser](https://teamdev.com/mobrowser) - A framework for building desktop apps with web technologies. Templates and plumbing for Vite + Vue + Quasar are included.
 
 ### Prerendering
 

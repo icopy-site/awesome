@@ -280,6 +280,7 @@ See also [Games Made With Piston](https://github.com/PistonDevelopers/piston/wik
 * [citybound](https://github.com/citybound/citybound) - The city sim you deserve
 * [cristicbz/rust-doom](https://github.com/cristicbz/rust-doom) - A renderer for Doom, may progress to being a playable game
 * [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - Reimplementation of Cave Story engine with some enhancements.
+* [garkimasera/gaia-maker](https://github.com/garkimasera/gaia-maker) - Planet and terraforming simulation game
 * [garkimasera/rusted-ruins](https://github.com/garkimasera/rusted-ruins) - Extensible open world rogue like game with pixel art
 * [GitType](https://github.com/unhappychoice/gittype) - A CLI code-typing game that turns your source code into typing challenges
 * [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Ferium is a fast and feature rich CLI program for downloading and updating Minecraft mods from Modrinth, CurseForge, and GitHub Releases, and modpacks from Modrinth and CurseForge ![ferium build](https://github.com/gorilla-devs/ferium/actions/workflows/build.yml/badge.svg?branch=main)
@@ -727,6 +728,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI (`vp`)
 * [VT Code](https://crates.io/crates/vtcode) - Terminal coding agent that pairs a modern TUI with deep, semantic code understanding powered by tree-sitter and ast-grep.
 * [Wilfred/difftastic](https://github.com/Wilfred/difftastic) [[difftastic](https://crates.io/crates/difftastic)] - A structural diff tool that understands syntax, supporting 30+ programming languages
+* [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) [[lean-ctx](https://crates.io/crates/lean-ctx)] - Context runtime for AI coding agents: MCP server and shell hook that compresses tool and terminal output to reduce LLM token use; Tree-sitter parsing, session caching. [![CI](https://github.com/yvgude/lean-ctx/actions/workflows/ci.yml/badge.svg)](https://github.com/yvgude/lean-ctx/actions/workflows/ci.yml)
 
 ### Build system
 
@@ -1077,6 +1079,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * [dpc/mioco](https://github.com/dpc/mioco) - Scalable, coroutine-based, asynchronous IO handling library
 * [igumnoff/gabriel2](https://github.com/igumnoff/gabriel2) [[gabriel2](https://crates.io/crates/gabriel2)] - Gabriel2: An actor-model library based on Tokio
 * [mio](https://github.com/tokio-rs/mio) - MIO is a lightweight IO library, with a focus on adding as little overhead as possible over the OS abstractions
+* [nextest-rs/future-queue](https://github.com/nextest-rs/future-queue) [[future-queue](https://crates.io/crates/future-queue)] - Stream adaptors for running futures concurrently with weighted concurrency limits and optional per-group limits.
 * [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost futures
 * [t3hmrman/async-dropper](https://github.com/t3hmrman/async-dropper) [[async-dropper](https://crates.io/crates/async-dropper)] - Implementation of `AsyncDrop`
 * [TeaEntityLab/fpRust](https://github.com/TeaEntityLab/fpRust) - Monad/MonadIO, Handler, Coroutine/doNotation, Functional Programming features for Rust

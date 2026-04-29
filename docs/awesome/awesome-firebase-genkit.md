@@ -191,6 +191,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 - [`GCP Cost MCP Server`](https://github.com/nozomi-koborinai/gcp-cost-mcp-server) - An MCP server built with Genkit for Go that enables AI assistants to estimate Google Cloud costs directly, replacing manual use of the GCP Pricing Calculator.
 - [`Genkit Azure Function AI Foundry`](https://github.com/xavidop/genkit-azure-function-ai-foundry) - A sample project demonstrating how to use Genkit with Azure Functions and Azure AI Foundry.
 - [`Genkit AWS Lambda Bedrock`](https://github.com/xavidop/genkit-aws-lambda-bedrock) - A sample project demonstrating how to use Genkit with AWS Lambda and Amazon Bedrock.
+- [`Genkit Kraft`](https://github.com/DEEJ4Y/genkitkraft) - A self-hostable LLM agent platform built on the Genkit Go SDK that lets you configure, test, and deploy AI agents through a visual UI, OpenAI-compatible REST API, and MCP server support for use with AI clients like Claude.
 
 ## Talks
 

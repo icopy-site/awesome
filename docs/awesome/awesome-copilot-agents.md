@@ -217,6 +217,7 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 - [Azure MCP](https://github.com/microsoft/mcp/blob/main/servers/Azure.Mcp.Server/README.md) - Azure MCP Server supercharges your agents with Azure context across different Azure services.
 - [AWS Documentation](https://github.com/awslabs/mcp/tree/main/src/aws-documentation-mcp-server) - Agent tools to access AWS documentation, search for content, and get recommendations.
 - [gcloud](https://github.com/googleapis/gcloud-mcp) - Agent tools to interact with the Google Cloud environment using the gcloud CLI.
+- [KubeStellar Console](https://github.com/kubestellar/console) - MCP server bridging AI agents to multi-cluster Kubernetes environments for cluster management, pod inspection, and real-time observability.
 
 ## How to Use
 

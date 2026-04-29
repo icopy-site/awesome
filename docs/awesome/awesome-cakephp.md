@@ -131,7 +131,8 @@ Additional lists you might find useful:
 *Image processing and manipulation libraries.*
 
 - [ADmad/Glide plugin](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
-- [QrCodePlugin](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
+- [file-storage-image-processor](https://github.com/php-collective/file-storage-image-processor) as `intervention/image` wrapper through [FileStorage plugin](https://github.com/dereuromark/cakephp-file-storage).
+- [QrCode plugin](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
 
 ### Libs
 *Useful libraries or tools that don't fit in any of the other categories.*
@@ -172,6 +173,7 @@ Additional lists you might find useful:
 - [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 - [Shim plugin](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 - [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful helpers, behaviors, components, commands, helpers, libs and more.
+- [Workflow plugin](https://github.com/dereuromark/cakephp-workflow) - Batteries-included state machine plugin with PHP 8 attributes, YAML config, audit trails, and visual admin dashboard.
 
 ### Navigation
 *Building navigation structures.*

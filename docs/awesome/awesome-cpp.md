@@ -1032,6 +1032,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Hyperscan](https://github.com/intel/hyperscan) - Hyperscan is a high-performance multiple regex matching library by Intel. Provides simultaneous matching of large numbers of regexps (up to tens of thousands). Typically used in a DPI library stack. [BSD]
 * [Oniguruma](https://github.com/kkos/oniguruma) - A modern and flexible regular expressions library that supports a variety of character encodings. [BSD]
 * [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. [BSD]
+* [PCRE2](https://github.com/PCRE2Project/pcre2) - a set of C functions that implement
+regular expression pattern matching. [BSD] [website](https://pcre2project.github.io/pcre2/)
 * [PIRE](https://github.com/yandex/pire) - Perl Incompatible Regular Expressions library by Yandex. Can be really fast (more than 400 MB/s). [LPGL v3.0]
 * [RE2](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. [BSD-3-Clause]
 * [SLRE](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. [GPLv2/Proprietary]
