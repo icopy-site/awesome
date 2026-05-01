@@ -456,6 +456,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Official website](https://angular.dev/guide/ssr#enable-server-side-rendering) - Documentation for the new SSR package built into the framework.
 * [angular-prerender](https://github.com/chrisguttandin/angular-prerender) - A command line tool to prerender Angular Apps.
 * [analogjs](https://analogjs.org/) - Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications.
+* [bot-ssr](https://github.com/patrikx3/bot-ssr) - SSR for bots, instant CSR for users — fast loads and clean prerendered HTML for major crawlers, powered by [isbot](https://github.com/omrilotan/isbot).
 * [ngx-sitemaps](https://github.com/json-derulo/ngx-sitemaps) - Generate sitemaps from Angular prerendered routes.
 * [ngx-bun](https://github.com/pegasusheavy/ngx-bun) - High-performance SSR/SSG adapter for Angular 19+ using Bun's built-in server.
 
@@ -660,6 +661,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@ni/javascript-styleguide](https://github.com/ni/javascript-styleguide) -  NI's JavaScript and TypeScript linter rules for ESLint.
 * [@yoo-digital/eslint-plugin-angular](https://github.com/yoo-digital/eslint-plugin-angular) - Custom lint rules for Angular.
 * [angular-eslint](https://github.com/angular-eslint/angular-eslint) - Monorepo for all the tooling which enables ESLint to lint Angular projects.
+* [angular-eslint-injection-context](https://github.com/cyrilletuzi/angular-eslint-injection-context) - ESLint rules for Angular injection context that help prevent [NG0203](https://angular.dev/errors/NG0203) errors.
 * [eslint-config-angular-strict](https://github.com/Jbz797/eslint-config-angular-strict) - Modern ESLint configuration with strict rules for Angular development.
 * [eslint-config-spartan](https://github.com/glitch452/eslint-config-spartan) - An opinionated ESLint configuration with separate configs (called mixins) for various eslint plugins.
 * [eslint-plugin-ng-module-sort](https://github.com/ducktordanny/eslint-plugin-ng-module-sort) - Auto-sorts Angular and NestJS module arrays to keep your modules clean and organized.
@@ -876,6 +878,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [flurryx](https://github.com/fmflurry/flurryx) - A signal-first reactive state toolkit for Angular that bridges RxJS streams into structured, cache-aware stores.
 * [ngStato](https://github.com/becher/ngStato) - State management for Angular that uses async/await instead of RxJS.
 * [ng-eagleeye.js](https://github.com/webKrafters/ng-eagleeye.js) - A framework-agnostic, native JavaScript immutable state manager with change-streams, deployable anywhere.
+* [ngx-deep-signals](https://github.com/simplesoftsoul/ngx-deep-signals) - Deeply reactive, zero‑ceremony nested state for Angular—turn any object into a signal graph without calls, setters, or boilerplate.
 
 ## Testing
 
@@ -1171,6 +1174,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [uni-table](https://github.com/Unify-India/uni-table) - Angular data grid built on signals for zero‑lag performance, combining advanced server‑side features with a streamlined configuration API.
 * [ogrid](https://github.com/alaarab/ogrid) - The lightweight, multi-framework data grid with enterprise features and zero enterprise cost.
 * [angular-datatables.net](https://github.com/Vinccool96/angular-datatables.net) - Angular plus [DataTables](https://datatables.net/).
+* [uiGrid](https://github.com/orneryd/uiGrid) - Open‑source, multi‑platform data grid rebuilt from the original [ui‑grid](https://github.com/angular-ui/ui-grid) with the same API and modern Angular signals, supporting Angular, Web Components, React, and Rust.
 
 ### Dates
 
@@ -1388,6 +1392,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [mat-password-meter](https://github.com/ngx-zen/mat-password-meter) - Angular Password Strength Meter ([zxcvbn](https://github.com/dropbox/zxcvbn), NIST-aligned, customizable).
 * [nicematic-emoji-picker](https://github.com/myposty/nicematic-emoji-picker) - High‑performance, zero‑dependency emoji picker for Angular 17+ with 929 emojis, auto‑theming, i18n, and responsive design.
 * [ngx-starflow](https://github.com/ahmadfakher/ngx-starflow) - A lightweight Angular component for displaying fractional star ratings with full precision.
+* [combobox](https://github.com/ng-matero/combobox) - An all‑in‑one Angular Select solution with built‑in multiselect and autocomplete features.
 
 ### JSON Forms
 

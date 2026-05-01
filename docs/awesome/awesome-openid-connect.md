@@ -212,6 +212,9 @@ Where to discover learning resources about OpenID Connect.
 - [OAuth 2.0 App2App Browserless Flow](https://github.com/yaron-zehavi/oauth-app2app-browserless) - Describing a protocol enabling native navigation across apps performing authentication using the App2App pattern, without requiring a web browser.
 - [OAuth 2.0 Attestation-Based Client Authentication](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-attestation-based-client-auth-07) - Extension to OAuth 2.0 enabling public clients to authenticate using key-bound attestations.
 - [OpenID Shared Signals Framework Specification 1.0](https://openid.net/specs/openid-sharedsignals-framework-1_0-ID3.html) - Shared Signals Framework (SSF) enables sharing of signals and events between cooperating peers that enables multiple applications such as Risk Incident Sharing and Coordination (RISC) and the Continuous Access Evaluation Profile (CAEP).
+- [Cross-App Access (XAA), formally known as the "Identity Assertion Authorization Grant"](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-assertion-authz-grant-03.html) - Enables AI agents and apps to securely access and act across multiple services with user consent using standardized and fine-grained OAuth permissions.
+- [OAuth Identity and Authorization Chaining Across Domains](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-chaining-11) - Preserves user identity, authorization context, and call-chain history across multiple services and trust domains using OAuth token exchange and JWT-based assertions.
+- [OpenID Connect for Agents (OIDC-A) 1.0](https://arxiv.org/html/2509.25974v1) - A research proposal (not a standard or IETF draft) extending OpenID Connect to support AI agent identity, attestation, delegation chains, and fine-grained authorization within the OAuth ecosystem.
 
 ### Websites
 

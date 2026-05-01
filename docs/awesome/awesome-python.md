@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="vinta/awesome-python"></div>
 ## Awesome Python
 
-An opinionated list of Python frameworks, libraries, tools, and resources.
+An opinionated guide to the best Python frameworks, libraries, tools, and resources.
 
 ## **Sponsors**
 
@@ -159,7 +159,7 @@ _Traditional full stack web frameworks. Also see [Web APIs](#web-apis)._
 - Synchronous
   - [bottle](https://github.com/bottlepy/bottle) - A fast and simple micro-framework distributed as a single file with no dependencies.
   - [django](https://github.com/django/django) - The most popular web framework in Python.
-    - [awesome-django](https://github.com/shahraizali/awesome-django)
+    - [awesome-django](https://github.com/wsvincent/awesome-django)
   - [flask](https://github.com/pallets/flask) - A microframework for Python.
     - [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
   - [pyramid](https://github.com/Pylons/pyramid) - A small, fast, down-to-earth, open source Python web framework.
@@ -550,11 +550,12 @@ _Tools of static analysis, linters and code quality checkers. Also see [awesome-
 
 ## Testing
 
-_Libraries for testing codebases and generating test data._
+_Libraries for testing codebases and generating test data. Also see [awesome-python-testing](https://github.com/cleder/awesome-python-testing)._
 
 - Frameworks
   - [hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
   - [pytest](https://github.com/pytest-dev/pytest) - A mature full-featured Python testing tool.
+    - [awesome-pytest](https://github.com/augustogoulart/awesome-pytest)
   - [robotframework](https://github.com/robotframework/robotframework) - A generic test automation framework.
   - [scanapi](https://github.com/scanapi/scanapi) - Automated Testing and Documentation for your REST API.
   - [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
