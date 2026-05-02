@@ -67,6 +67,7 @@ For more Bluesky tools, check [Awesome Bluesky](https://github.com/notjuliet/awe
 ## Tools
 
 * [ATFile](https://github.com/ziodotsh/atfile) - Store and retrieve files on the ATmosphere.
+* [ShopSavvy for Bluesky](https://github.com/shopsavvy/bluesky-shopsavvy) - AT Protocol suite: reactive mention bot for real-time price lookups, a custom deals feed generator, and a daily deal poster.
 
 ## Lexicons
 

@@ -122,6 +122,7 @@ Price and Volume process with Technology Analysis Indices
 - [Gekko_ANN_Strategies](https://github.com/markchen8717/Gekko_ANN_Strategies) - ANN trading strategies for the Gekko trading bot.
 - [gekko-neuralnet](https://github.com/zschro/gekko-neuralnet) - Neural network strategy for Gekko.
 - [bitcoin_prediction](https://github.com/llSourcell/bitcoin_prediction) - Code for "Bitcoin Prediction" by Siraj Raval on YouTube.
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI-powered crypto trading bot with 3-model ML ensemble (XGBoost, LightGBM, CatBoost), 12 exchanges via CCXT, walk-forward validated.
 
 ### Technical Analysis
 
@@ -164,7 +165,9 @@ Price and Volume process with Technology Analysis Indices
 - [Financial Data](https://financialdata.net/) - Stock Market and Financial Data API.
 - [FXMacroData](https://fxmacrodata.com) - Macroeconomic and FX data API with central bank announcements, policy rates, inflation, employment, GDP, release calendars, and MCP access for 18 currencies.
 - [StockAInsights](https://stockainsights.com) - Institutional-grade financial statements API with AI extraction from SEC filings — not XBRL. Covers domestic and foreign filers (20-F, 6-K, 40-F), normalized quarterly and annual data.
+- [13F Insight](https://13finsight.com) - AI-powered 13F SEC filing tracker. Monitor hedge fund and institutional investor portfolio changes, with smart money move alerts and historical holding comparisons.
 - [ValueRay](https://www.valueray.com/api) - Technical, quantitative and sentiment data for stocks and ETFs with risk metrics, peer percentiles and market regime signals. Optimized for AI/LLM agents.
+- [BenchGecko](https://benchgecko.ai) - AI economy tracking platform. Market cap, funding rounds, AI Bubble Index, company valuations, and compute supply chain data.
 
 #### Crypto Currencies
 

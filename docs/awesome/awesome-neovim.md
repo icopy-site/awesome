@@ -437,6 +437,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [mahyarmirrashed/search-and-replace.nvim](https://github.com/mahyarmirrashed/search-and-replace.nvim) - Simple, effective, search and replace functionality for the pragmatic engineer.
 - [bravoecho/brook.nvim](https://github.com/bravoecho/brook.nvim) - Responsive, shell-safe ripgrep search for the quickfix list, with native n/N navigation.
 - [KieranCanter/candela.nvim](https://github.com/KieranCanter/candela.nvim) - Analyze logs by defining regex patterns to highlight and/or isolate matching lines.
+- [ankushbhagats/match.nvim](https://github.com/ankushbhagats/match.nvim) - Minimal floating search-and-replace with live match tracking, navigation, and quick replacements.
 
 <!--lint disable double-link -->
 <!--lint enable double-link -->
@@ -861,6 +862,7 @@ then it is not supported:
 
 ## Note Taking
 
+- [DaFi-1/tasknvim](https://github.com/DaFi-1/tasknvim) - A simple tool for life and personal development that helps organize goals, track habits, and improve productivity.
 - [niuiic/todo.nvim](https://github.com/niuiic/todo.nvim) - Simple but powerful TODO manager based on text.
 - [flashcodes-themayankjha/Fknotes.nvim](https://github.com/flashcodes-themayankjha/Fknotes.nvim) - Take notes, TODOs from anywhere inside your project, search all TODOs, get reminders and more.
 - [apdot/doodle](https://github.com/apdot/doodle) - A developer-centric knowledge base with project/branch scoped notes, bi-directional linking, note-tagging, graph-view, telescope integration, and Git synchronization.
