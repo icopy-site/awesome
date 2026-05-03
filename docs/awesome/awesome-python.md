@@ -50,7 +50,7 @@ An opinionated guide to the best Python frameworks, libraries, tools, and resour
 **Security**
 
 
-**Miscellaneous**
+**Other**
 
 
 ---
@@ -767,7 +767,7 @@ _Libraries for working with graphical user interface applications._
   - [nicegui](https://github.com/zauberzeug/nicegui) - An easy-to-use, Python-based UI framework, which shows up in your web browser.
   - [pywebview](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
 - Terminal
-  - [curses](https://docs.python.org/3/library/curses.html) - Built-in wrapper for [ncurses](http://www.gnu.org/software/ncurses/) used to create terminal GUI applications.
+  - [curses](https://docs.python.org/3/library/curses.html) - (Python standard library) The built-in wrapper for [ncurses](http://www.gnu.org/software/ncurses/) used to create terminal GUI applications.
   - [urwid](https://github.com/urwid/urwid) - A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.
 - Wrappers
   - [gooey](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line.
@@ -1027,7 +1027,7 @@ _Libraries for application-layer web security._
 
 - [secure](https://github.com/TypeError/secure) - HTTP security headers for Python web applications with ASGI and WSGI middleware.
 
-**Miscellaneous**
+**Other**
 
 ## Hardware
 
