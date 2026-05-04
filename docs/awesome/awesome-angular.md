@@ -427,6 +427,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-signal-query](https://github.com/Ali7040/ng-signal-query) - A type‑safe Angular querying library built on signals that streamlines server state, infinite queries, mutations, and caching with high performance.
 * [api-caller](https://forge.deejayy.hu/angular-packages/api-caller) - Simple API caller library for Angular.
 * [ngx-lite-cache](https://github.com/Suleeyman/ngx-lite-cache) - An Angular library that caches HTTP responses via HttpClient interceptors to cut redundant requests and boost performance.
+* [ng-qubee](https://github.com/AndreaAlhena/ng-qubee) - Angular query builder with reactive URIs (RxJS + Signals), typed pagination, 495+ tests, and multi‑driver support.
 
 ### Micro-Frontends
 
@@ -2052,6 +2053,7 @@ for the creation of web applications developed with Angular.
 * [gong](https://github.com/fullstack-lang/gong) - Full‑stack framework with Go (Gin, Gorm, pure SQLite) backend and Angular Material frontend.
 * [@retejs/angular-plugin](https://github.com/retejs/angular-plugin) - Angular plugin with a classic preset of node, connection, socket, and control components, built on [Rete.js](https://retejs.org/).
 * [Stencil](https://stenciljs.com/docs/angular) - Generate Angular component wrappers for your web components.
+* [AnQst](https://github.com/DusteDdk/AnQst) - Generates Angular services and native Qt widgets from a shared DSL, letting Angular apps compile into QWidget‑based C++ UIs via the AnQst CLI and host libraries.
 
 ### External Integration
 
