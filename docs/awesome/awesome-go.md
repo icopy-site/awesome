@@ -676,6 +676,7 @@ _Data stores with expiring records, in-memory distributed data stores, or in-mem
 - [octillery](https://github.com/knocknote/octillery) - Go package for sharding databases ( Supports every ORM or raw SQL ).
 - [onedump](https://github.com/liweiyi88/onedump) - Database backup from different drivers to different destinations with one command and configuration.
 - [pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) - Advanced scheduling for PostgreSQL.
+- [pgrwl](https://github.com/pgrwl/pgrwl) - Cloud-native continuous backup for PostgreSQL.
 - [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser.
 - [pgxcli](https://github.com/Balaji01-4D/pgxcli) - PostgreSQL CLI client written in Go, inspired by pgcli.
 - [prep](https://github.com/hexdigest/prep) - Use prepared SQL statements without changing your code.
@@ -2178,6 +2179,7 @@ _Libraries that are used to help make your application more secure._
 - [pm](https://github.com/nicola-strappazzon/password-manager) - Unix-style password manager written in Go to save your data with OpenPGP encryption.
 - [procscope](https://github.com/Mutasem-mk4/procscope) - Process-scoped runtime investigator using eBPF to trace process lifecycle, file activity, and network connections.
 - [qrand](https://github.com/bitfield/qrand) - Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
+- [Razify](https://github.com/Hossiy21/razify) - CLI to scan, validate and audit .env files for leaked secrets and environment drift.
 - [redact](https://github.com/alesr/redact) - Redact sensitive information from slog-based logs using a configurable pipeline.
 - [SafeDep/vet](https://github.com/safedep/vet) - Protect against malicious open source packages.
 - [secret](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
@@ -2213,6 +2215,7 @@ _Libraries and tools for binary serialization._
 - [mus-go](https://github.com/mus-format/mus-go) - MUS format serializer for Go.
 - [php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) - GoLang library for working with PHP session format and PHP Serialize/Unserialize functions.
 - [pletter](https://github.com/vimeda/pletter) - A standard way to wrap a proto message for message brokers.
+- [proto](https://github.com/emicklei/proto) - Parser and writer for Google ProtocolBuffers .proto files.
 - [structomap](https://github.com/tuvistavie/structomap) - Library to easily and dynamically generate maps from static structures.
 - [unitpacking](https://github.com/recolude/unitpacking) - Library to pack unit vectors into as fewest bytes as possible.
 

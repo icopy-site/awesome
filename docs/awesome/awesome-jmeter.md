@@ -312,6 +312,10 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [Hamster](https://github.com/QAInsights/hamster) - Swiftly launch your JMeter test plans from Mac menubar.
 
+### AI
+
+- [Feather Wand](https://jmeter.ai) - An AI agent in JMeter with Claude Code, Codex, OpenCode, and Gemini integration.
+
 ## APM Integration
 
 *Integration with Application Performance Monitoring (APM) tools to analyze the performance of application servers, database servers, and web services.*

@@ -1095,6 +1095,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [git-status](https://github.com/AyoubMounim/zsh-git-status/) - Exposes functions with information about the current `git` repository.
 - [git-switch-branch-skim](https://github.com/okhiroyuki/zsh-git-switch-branch-skim) - Allows you to switch `git` branches with [skim](https://github.com/lotabout/skim)
 - [git-sync](https://github.com/caarlos0-graveyard/zsh-git-sync) - A ZSH plugin to sync `git` repositories and clean them up.
+- [git-tidy](https://github.com/silee9019/git-tidy) - Plugin for safely reviewing and removing local branches whose upstream branch is marked [gone].
 - [git-to-jj](https://github.com/elithrar/zsh-git-to-jj) - Helps you progressively learn [Jujutsu](https://github.com/jj-vcs/jj) (aka `jj`) porcelain as you use `git` commands.
 - [git-worktree (alexiszamanidis)](https://github.com/alexiszamanidis/zsh-git-worktree) - Wraps some `git worktree` operations for simplicity and productivity. Includes [fzf](https://github.com/junegunn/fzf) tooling.
 - [git-worktree (trthomps)](https://github.com/trthomps/git-worktree-zsh-plugin) - Enhanced `git worktree` management with bare repository support. This plugin provides convenient commands for working with `git` worktrees, making it easy to work on multiple branches simultaneously.
@@ -2528,7 +2529,6 @@ These plugins add tab completions without adding extra functions or aliases.
 - [laconic](https://github.com/Saka7/laconic.zsh-theme) - Simple theme with `git` status and current directory decorators.
 - [lagnoda](https://github.com/jashezan/lagnoda) Inspired by [agnoster](https://gist.github.com/agnoster/3712874) and `lambda` themes. Includes decorators for username@hostname, current directory, `git`, `hg`, or `bzr` status, current virtualenv, exit status of last command run, and current aws profile.
 - [lagune](https://github.com/noplay/lagune) - A minimal ZSH theme.
-- [lambda (bluedragon1221)](https://github.com/bluedragon1221/zsh-lambda-prompt) - Includes decorators for current directory and `git` status.
 - [lambda (cdimascio)](https://github.com/cdimascio/lambda-zsh-theme) -  Inspired by the [lambda](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) theme. Includes `git` status decorations.
 - [lambda (halfo)](https://github.com/halfo/lambda-mod-zsh-theme/) - A ZSH theme optimized for `git` users who use unicode-compatible fonts and terminal applications.
 - [lambda-blazinggit](https://github.com/zalefin/lambda-blazinggit) - Includes blazing fast, detailed `git` information. Requires [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) and the [gitstatus](https://github.com/romkatv/gitstatus) plugin.
