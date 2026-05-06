@@ -13,6 +13,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## Plugin Manager
 
+- [alyxshang/nuwa.nvim](https://source.alyxshang.boo/alyxshang/nuwa.nvim) - A light package manager.
 - [lewis6991/pckr.nvim](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of `wbthomason/packer.nvim`.
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - Package manager written in Lua.
 <!--lint disable double-link -->
@@ -790,6 +791,7 @@ then it is not supported:
 - [Mr-LLLLL/lualine-ext.nvim](https://github.com/Mr-LLLLL/lualine-ext.nvim) - Show more information on lualine.
 - [mikesmithgh/git-prompt-string-lualine.nvim](https://github.com/mikesmithgh/git-prompt-string-lualine.nvim) - Add git-prompt-string to your statusline.
 - [sschleemilch/slimline.nvim](https://github.com/sschleemilch/slimline.nvim) - A slim, minimal and opinionated Lua statusline.
+- [tajirhas9/muslim.nvim](https://github.com/tajirhas9/muslim.nvim) - Get prayer times and useful islamic essentials in your statusline.
 
 ### Tabline
 

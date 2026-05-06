@@ -63,7 +63,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [WikiPathways](https://wikipathways.org/) — Database of biological pathways.
 - [Reactome](https://reactome.org/) — Expert-curated, peer-reviewed pathway database with detailed reaction mechanisms.
 - [BioCyc](https://biocyc.org/) — Collection of pathway/genome databases across thousands of organisms.
-- [SIGNOR](https://signor.uniroma2.it/) — Database of causal signaling interactions and pathways.
+- [OmniPath](https://omnipathdb.org/) — Comprehensive resource integrating protein interactions, signaling pathways, gene regulatory networks, and miRNA targets from over 100 databases.
+- [SIGNOR 2.0](https://signor.uniroma2.it/) — Database of causal signaling interactions and pathways, with signed and directed relationships between proteins.
 - [MSigDB (Molecular Signatures Database)](https://www.gsea-msigdb.org/gsea/msigdb) — Curated gene sets derived from pathways and biological processes.
 
 ### Mass Spectra
@@ -156,7 +157,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 #### Gene Regulatory Network
 
-- [TRRUST](https://www.grnpedia.org/trrust/) — Manually curated database of human and mouse transcriptional regulatory interactions between transcription factors and their target genes.
+- [TRRUST v2](https://www.grnpedia.org/trrust/) — Manually curated database of human and mouse transcriptional regulatory interactions between transcription factors and their target genes, expanded with literature-derived evidence.
 - [RegNetwork](http://www.regnetworkweb.org/) — Database of gene regulatory networks covering transcription factor–target gene and miRNA–gene interaction data across multiple species.
 - [miRBase](https://www.mirbase.org/) — Reference repository for microRNA gene annotations, sequences, and experimentally validated targets.
 

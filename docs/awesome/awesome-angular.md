@@ -61,6 +61,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-cli-ssr-diff](https://github.com/cexbrayat/angular-cli-ssr-diff) - Easily upgrade your Angular CLI SSR applications from one version to another 🚀.
 * [angular-parallel-test-runner](https://github.com/mahdi-hajian/angular-parallel-test-runner) - CLI to run Angular tests in parallel across projects; uses available CPU cores.
 * [angular-web-cli](https://github.com/qodalis-solutions/angular-web-cli) - A flexible CLI tool designed to streamline workflows, automate tasks, and provide customizable utilities for developers.
+* [Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Scaffold production-ready fullstack apps in seconds. Pick your stack from 425 options — the CLI wires everything together.
 * [dotairc](https://github.com/elecash/dotairc) - This tool helps create consistent instructions for AI assistants working with your codebase.
 * [firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools) - Experimental addon to the [Firebase CLI](https://github.com/firebase/firebase-tools/) to add web framework support.
 * [i18n-fixer](https://github.com/zfurkandurum/i18n-fixer) - Framework-agnostic CLI tool that finds hardcoded strings, missing i18n keys, and unused translations.
@@ -501,6 +502,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase. This is useful for feeding a codebase into any LLM.
 * [glama](https://glama.ai/mcp/servers?query=angular) - Directory of MCP servers filtered for Angular-related entries.
 * [hashbrown](https://github.com/liveloveapp/hashbrown) - The [Hashbrown](https://hashbrown.dev/) framework is for building joyful, AI-powered user experiences.
+* [ng-mocks-testing-skill](https://github.com/mintarasss/ng-mocks-testing-skill) - A collection of Claude Code skills for writing high-quality Angular unit tests with Jest and `ng-mocks`.
 * [ngx-agents-md](https://github.com/pr4san/ngx-agents-md) - Add Angular documentation to your project for AI coding agents (Claude Code, Cursor, etc).
 * [ngx-bob](https://github.com/scottstraughan/ngx-bob) - Angular chat widget with messaging, local history, error handling, commands, and search.
 * [PureCode AI](https://purecode.ai/components/angular/application-ui) - Build Angular application UIs 50% faster with PureCode AI.
@@ -899,6 +901,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Cypress to Playwright](https://www.cy2pw.com/) - A curated collection of resources that can help you to migrate your test suite from Cypress to Playwright.
 * [Playwright Chrome Recorder](https://chromewebstore.google.com/detail/playwright-chrome-recorde/bfnbgoehgplaehdceponclakmhlgjlpd) - Export Chromium recorder tab data to Playwright tests. This gives you a nice starting point that you can refine to modern Playwright.
 * [playwright-mcp](https://github.com/microsoft/playwright-mcp) - A Model Context Protocol (MCP) server that provides browser automation capabilities using Playwright.
+* [twd](https://github.com/BRIKEV/twd) - In‑browser test runner with instant feedback, Testing Library support, Vite discovery, and built‑in API mocking—framework‑agnostic and easy to use in Angular.
 
 ### Component
 
