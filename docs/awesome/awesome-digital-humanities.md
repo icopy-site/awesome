@@ -67,6 +67,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 ## DH Centers
 
 - [ACDH-DH](https://www.oeaw.ac.at/acdh/) - Austrian Centre for Digital Humanities.
+- [CDH Princeton](https://cdh.princeton.edu/) - Center for Digital Humanities at Princeton University.
 - [DHCenter UNIL-EPFL](https://dhcenter-unil-epfl.com/) - Founded in 2018, this interdisciplinary research platform connects digital humanities researchers across institutions.
 - [Digital Humanities Bern](https://www.dh.unibe.ch/) - It explores different topics, in the context of digital text and image analysis, digital edition, and reflection on the impact of digital methods on the humanities.
 - [Digital Humanities Lab - Universität Basel](https://dhlab.philhist.unibas.ch/en/) - An interdisciplinary institution of the University of Basel.
@@ -83,6 +84,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 ## Journals
 
 - [Current Research in Digital History](http://crdh.rrchnm.org/) - Annual open-access, peer-reviewed publication of the Roy Rosenzweig Center for History and New Media at George Mason University.
+- [Journal of Cultural Analytics](https://culturalanalytics.org/) - Open-access, peer-reviewed publication for the computational study of cultural artifacts with a primary in the humanities and computational humanities. Published by McGill from 2016-2025; since 2026, published by the Center for Digital Humanities at Princeton University.
 
 ## Organizations and Research Infrastructures
 
