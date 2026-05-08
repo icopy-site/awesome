@@ -96,6 +96,7 @@ _For more resources about Static Web Apps see (Awesome Static Web Apps)[https://
 - [Nift](https://nift.dev) - A cross-platform open source website generator developed in C++ that is lightning fast and extremely powerful.
 - [Astro](https://astro.build) - Build faster websites, while shipping less to almost no Javascript.
 - [FactorJS](https://www.factorjs.org) - Next-generation framework powered by Vite.
+- [Mandu](https://mandujs.com) - Agent-native fullstack framework on Bun + React. Static export, SSR, file-system routing, runtime architecture guard, and 100+ MCP tools so AI editors can drive the site end-to-end.
 
 _For a more complete list see [StaticGen](https://www.staticgen.com/)._
 

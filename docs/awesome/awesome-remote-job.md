@@ -3,13 +3,18 @@
 
 A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecommuting) resources.
 
-*To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](CONTRIBUTING.md).*
+## Languages
+
+- [English (default)](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md)
+- [Español](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.es.md)
+- [Français](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.fr.md)
+- [简体中文](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.zh.md)
+
+*To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](https://github.com/lukasz-madon/awesome-remote-job/blob/master/CONTRIBUTING.md).*
 
 
 <!-- MarkdownTOC depth=4 -->
 
-- [Awesome Remote Job  ](#awesome-remote-job--)
-  - [Table of Contents](#table-of-contents)
   - [Articles \& Posts](#articles--posts)
   - [Videos](#videos)
   - [Books](#books)
@@ -29,6 +34,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   - [Tools](#tools)
       - [HR](#hr)
       - [Communication](#communication)
+  * [Nubo Email](https://nubo.email) - Privacy-first email and collaboration platform. Email, calendar, drive, video meetings, team chat. Organization-based pricing.
       - [Project Management](#project-management)
       - [Others](#others)
   - [Law \& Finance](#law--finance)
@@ -133,8 +139,10 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Real Work From Anywhere](https://www.realworkfromanywhere.com/) - A site for fully location independent jobs. All jobs on the site are 100% work from anywhere.
   1. [4 Day Week](https://4dayweek.io) - Software jobs with a better work / life balance.
   1. [4DayJob](https://4dayjob.com/) - 4-day work week and remote jobs. 1,500+ flexible positions.
+  1. [AI Dev Jobs](https://aidevboard.com) - 8,400+ AI/ML engineering roles from 489 AI-first companies, updated daily. Filter by remote/hybrid/onsite, seniority, and salary. Public REST API + MCP server for agent-driven job search.
   1. [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
   1. [Built In](https://builtin.com/jobs/remote)
+  1. [Trabajo Remoto Chile](https://trabajoremotochile.com/) - Remote job board for Chilean professionals seeking work with US and European companies.
   1. [ClojureJobboard.com](https://clojurejobboard.com/remote-clojure-jobs.html)- Clojure jobs, filter -> Remote only
   1. [Crypto Jobs](https://crypto.jobs/?jobs=remote) - Blockchain jobs for crypto enthusiasts.
   1. [Crypto Jobs List](https://cryptojobslist.com/remote) - #1 job board to find and post crypto, bitcoin and blockchain jobs.
@@ -147,6 +155,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
   1. [hiring.lat](https://hiring.lat) — Transparent job postings for LATAM workers with remote or relocation opportunities.
   1. [Findjobit](https://findjobit.com/jobs) - Remote jobs for LATAM IT professionals.
+  1. [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
   1. [freelancermap](https://www.freelancermap.com/projects/remote.html) - Freelance & contract jobs for IT experts (mostly German projects)
   1. [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
   1. [Gridnaut Recruiting](https://gridnaut.site/jobs/) - Remote contract roles in AI training, evaluation, and domain-expert work, curated from Mercor referrals.
@@ -155,9 +164,11 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
   1. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
   1. [HN hiring](https://www.hnhiring.me/) – Filter REMOTE.
+  1. [Human Pages](https://humanpages.ai) - AI agents hire humans for real-world tasks.
   1. [JOBBOX.io](https://landing.jobs/jobs) – Filter -> Remote only.
   1. [JobsCollider](https://jobscollider.com/remote-jobs) - * Tens of thousands of remote jobs from over 10,000 companies and startups worldwide. *
   1. [Jobspresso](https://jobspresso.co/) * High-quality remote positions that are open and legitimate *
+  1. [JobsByCulture](https://jobsbyculture.com/) - Culture-first AI & tech job board with remote-friendly filters, Glassdoor ratings, and culture values for 45+ companies.
   1. [JustRemote](https://justremote.co)
   1. [Larajobs](https://larajobs.com/?location=&remote=1) – The artisan employment connection
   1. [No Fluff Jobs](https://nofluffjobs.com/pl/#criteria=remote) – Filter -> “*remote*”
@@ -168,6 +179,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote Frontend Jobs](https://www.remotefrontendjobs.com/) - Find exclusively remote frontend jobs aggregated from the top 22 job boards in the world.
   1. [PyJobs.com](https://www.pyjobs.com/?remoteLevel[0]=1&remoteLevel[1]=2) - Jobs for Python developers
   1. [Remote Game Jobs](https://remotegamejobs.com/) - Find remote work and talent in the game industry.
+  1. [Remote Job Assistant](https://remotejobassistant.com/) - Remote jobs for non-technical professionals, moms returning to work, and career changers.
   1. [remote-es/remotes](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
   1. [thatmlopsguy/remote-pt](https://github.com/thatmlopsguy/remote-pt) - Repository listing companies which offer full-time remote jobs with Portuguese contracts
   1. [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech
@@ -182,9 +194,11 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
   1. [TypeScriptJobs](https://typescriptjobs.net/) - TypeScript positions with remote filter
   1. [Upwork](https://www.upwork.com) - Find remote jobs in any category
+  1. [usdevjobs.com](https://usdevjobs.com/) - Real-time job aggregator for software, AI, data, engineers in US.
   1. [Virtual Vocations](https://www.virtualvocations.com/)
   1. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
   1. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
+  1. [web3vacancy](https://web3vacancy.com) - #1 Crypto & Web3 Job Board. Where crypto teams hire. Where builders get found.
   1. [Wellfound](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
@@ -196,6 +210,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - Remote jobs for UI/UX designers
   1. [EmbeddedJobs](https://embedded.jobs) — Remote job board dedicated to embedded systems engineers and developers.
   1. [Jobo](https://jobo.pl) - 100% remote-only verified jobs from Poland in IT, marketing, sales & more.
+  
 
 
 ## Job boards aggregators
@@ -211,6 +226,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [SlashJobs](https://slashjobs.com/) - Remote dev jobs aggregator. `and`/`or`/`not` filters, location search, fast, no sign-up/login.
   1. [tokenjobs.io](https://tokenjobs.io?remote=true) A web3 job aggregator where jobs can be filtered based on keywords, locations, languages and contract types. Anyone can publish a job offer.
   1. [UN Talent](https://untalent.org/jobs/home-based) - Vacancies at the United Nations and its agencies.
+  1. [usdevjobs.com](https://usdevjobs.com/) - Real-time job aggregator for software, AI, data, engineers in US.
   1. [Vollna](https://www.vollna.com/) - An aggregator for top freelance sites.
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
 
@@ -237,6 +253,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Vermont Remote Worker Grant Program](https://thinkvermont.com/relocate/) - Receive up to a max of $5,000 per year to work from Vermont. Cannot exceed $10,000 for life of the program per individual.
   1. [Remote Shoals](https://remoteshoals.com/) - Work remotely? Get $10,000 to do your job from the Shoals.
   1. [Visto](https://visto.ai/) - We relocate developers to canada and help companies to bring developers outside the world!
+  1. [Where Do I Move To](https://wheredoimoveto.com) - Get personalized city and country relocation recommendations based on 50+ factors.
 
 ## Interviewing
   1. [andreis/interview](https://github.com/Olshansk/interview) - Everything you need to kick ass on your coding interview
@@ -251,6 +268,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
   1. [Meetapro](https://www.meetapro.com/) - An Airbnb style mock interview platform with top FAANG interviewers
   1. [Easyclimbtech](https://www.easyclimb.tech/) - $99 mock interviews with a FAANG mentor, also free P2P mock interviews
+  1. [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
+  1. [MianLing AI](https://mianlingai.com) - AI-powered real-time interview assistant that captures interviewer questions via system audio and generates professional answers in milliseconds
 ## Events
   1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
   1. [Project Getaway](https://www.projectgetaway.com/) - 30 days retreat
@@ -383,6 +402,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Instructure](https://www.instructure.com/about/careers) - We make software that makes people smarter.
   1. [Intellum](https://www.intellum.com/) - We build employee collaboration, performance and learning tools. Ruby, iOS, Android, AWS, GCS.
   1. [Intevity](https://www.intevity.com/)
+  1. [Innostax Tech LLC](https://innostax.com) - Full-stack software engineering partner specializing in AI-native managed pods and rigorous development guardrails.
+
   1. [Intuition Machines, Inc.](https://apply.workable.com/imachines/) - Intuition Machines specializes in deep learning and visual domain ML at scale. Python, JavaScript, Kubernetes, Kafka, Dask/Spark, ML/Computer Vision
   1. [InVision](https://www.invisionapp.com/company#jobs) - prototyping, collaboration & workflow platform.
   1. [Iterative](https://iterative.notion.site/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a878a4d22) - ML Model Development for teams. Remotely worldwide
@@ -532,6 +553,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Tools
 
 #### HR
+  1. [Brighten](https://hellobrighten.com) – AI-powered peer recognition for remote teams — kudos, badges, and a rewards marketplace.
   1. [Remoteteam.com](https://gusto.com) – Automated payrolls, time off, HR tools, and compliance for remote companies.
 
 #### Communication
@@ -540,6 +562,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Floobits](https://floobits.com) - Remote pair programming with screen share. Integrates with Sublime, IntelliJ, Atom and others
   1. [Gather](https://www.gather.town/) - Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.
   1. [Hopp](https://github.com/gethopp/hopp) - Open source remote pair programming app.
+  1. [HeyRobyn](https://heyrobyn.ai) - Native Mac unified inbox for email, Slack, and GitHub in one window. Built with SwiftUI for lightweight performance and privacy-first design.
   1. [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
   1. [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
   1. [Matrix](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
@@ -575,6 +598,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [gantt-online](https://gantt-online.com/) - Gantt Chart Project Management Tool.
 
 #### Others
+  1. [BeginThings](https://beginthings.com) - 96+ free productivity tools for remote workers and freelancers: invoice generator, QR code maker, UTM builder, bio link builder, resume formatter and more. No login required.
   1. [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
   1. [Fiverr](https://www.fiverr.com/) - Fiverr is the world's largest freelance services marketplace for lean entrepreneurs, where you can hire remote workers to do small tasks for you.
   1. [EasyRetro](https://easyretro.io) - EasyRetro is a retrospective online board for distributed teams.
@@ -584,11 +608,14 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback (Mac).
   1. [Miro](https://miro.com) (fka Realtime Board) - Distributed permanent virtual whiteboard.
   1. [Timing](https://timingapp.com/?lang=en) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work (especially important when working remotely). Also ensures that no billable hours get lost if you are billing hourly (Mac).
-    1. [SYNCDATE](https://syncdate.app) - Automatically syncs events across multiple Google Calendar accounts — great for remote workers juggling work and personal schedules.
+  1. [SYNCDATE](https://syncdate.app) - Automatically syncs events across multiple Google Calendar accounts — great for remote workers juggling work and personal schedules.
+  1. [FastTool](https://fasttool.app) - 800+ browser-based productivity utilities (JSON formatter, regex tester, color tools, time zone converter, meeting cost calculator). No signup, works offline after first visit — handy when working across different networks.
 
 ## Law & Finance
   1. [1099 contractors](https://www.smartcapitalmind.com/what-is-a-1099-contractor.htm) – US based companies can hire remote workers as.
+  1. [Your Tax Base](https://yourtaxbase.com/) - Florida residency and tax domicile services for digital nomads and remote workers, with virtual mailbox, Declaration of Domicile filing, and step-by-step guidance for establishing a tax-free home base.
   1. [Transferwise](https://wise.com/gb/business/payouts) - Easy way to pay remote employees.
+  1. [VerdeDesk](https://verdedesk.vercel.app/) - Issue Portuguese green receipts (recibos verdes) and manage freelancer tax compliance in Portugal — in plain English. Built for D8 visa holders and expat freelancers.
 
 ## Others
   1. [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
@@ -606,5 +633,3 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Lukasz Madon](https://github.com/lukasz-madon) has waived all copyright and related or neighboring rights to this work.
-
-
