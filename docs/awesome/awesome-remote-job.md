@@ -5,16 +5,19 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Languages
 
-- [English (default)](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md)
-- [Español](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.es.md)
-- [Français](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.fr.md)
-- [简体中文](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.zh.md)
+- [English (default)](README.md)
+- [Español](README.es.md)
+- [Français](README.fr.md)
+- [简体中文](README.zh.md)
 
-*To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](https://github.com/lukasz-madon/awesome-remote-job/blob/master/CONTRIBUTING.md).*
+*To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](CONTRIBUTING.md).*
 
 
 <!-- MarkdownTOC depth=4 -->
 
+- [Awesome Remote Job  ](#awesome-remote-job--)
+  - [Languages](#languages)
+  - [Table of Contents](#table-of-contents)
   - [Articles \& Posts](#articles--posts)
   - [Videos](#videos)
   - [Books](#books)
@@ -94,7 +97,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [The Ultimate Remote Team Culture](https://www.toptal.com/remote-work-playbook)
   1. [The Villains of Remote Work](https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/)
   1. [Things To Watch Out For While Working Remotely](https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale)
-  1. [Tips to Land a Remote Job](https://moduscreate.com/blog/tips-to-land-a-remote-job/)
   1. [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home)
   1. [What is a Distributed Company?](https://www.lullabot.com/articles/what-is-a-distributed-company)
   1. [Who Needs an Office? How to Go 100 Percent Remote.](https://www.entrepreneur.com/growing-a-business/who-needs-an-office-how-to-go-100-percent-remote/242708)
@@ -104,7 +106,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Why Small Businesses Are Building Remote Workforces](https://www.businessinsider.com/why-small-businesses-are-building-remote-workforces-2013-10)
   1. [Why We (Still) Believe in Working Remotely](https://stackoverflow.blog/2013/02/01/why-we-still-believe-in-working-remotely/)
   1. [Working Remotely: A Complete Guide to Turn You Into a Pro](https://www.paymoapp.com/blog/working-remotely/)
-  1. [Working Remotely for Extroverts](https://stephyiu.com/2014/12/13/working-remotely-for-extroverts/)
   1. [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/articles/yahoo-best-buy-and-telecommuting-advice-from-a-distributed-company)
   1. [Your Commute Is Killing You](https://slate.com/business/2011/05/long-commutes-cause-obesity-neck-pain-loneliness-divorce-stress-and-insomnia.html)
   1. [Why remote work makes disagreement hard](https://zapier.com/blog/how-to-disagree-remote-work/)
@@ -194,7 +195,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
   1. [TypeScriptJobs](https://typescriptjobs.net/) - TypeScript positions with remote filter
   1. [Upwork](https://www.upwork.com) - Find remote jobs in any category
-  1. [usdevjobs.com](https://usdevjobs.com/) - Real-time job aggregator for software, AI, data, engineers in US.
   1. [Virtual Vocations](https://www.virtualvocations.com/)
   1. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
   1. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
@@ -237,7 +237,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [HubBOG](https://www.hubbog.com/) - Coworking Space + Startup Accelerator. Bogotá, Colombia
   1. [Mokrin House](https://mokrinhouse.com/) - Coliving & coworking space in a rural area of Serbia
   1. [Nest Copenhagen](https://www.nestcopenhagen.dk/) - Coliving space in Copenhagen, Denmark
-  1. [NoHatDigital](https://www.nohatdigital.com/mansionpage/) - Coliving space in Mexico
   1. [Nomad House](https://nomadhouse.io) - Global network of nomad housing
   1. [Sende](https://www.sende.co/) - Coliving & coworking space in northern Spain
   1. [Sun Desk](https://sun-desk.com/) - Coliving & coworking space in Taghazout, Morocco
@@ -467,8 +466,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Prodperfect](https://prodperfect.com/) - Automated QA testing from live user data. Remote-first org with workplaces in Boston and San Fran.
   1. [ProFinda](https://www.profinda.com/) - Workforce planning & optimization. 100% remote dev team. Ruby on Rails, React.js and Python. Company based in UK.
   1. [Prosopo](https://prosopo.io/) - Bot protection & web security company. Fully remote team based in UK. Typescript, Rust, Open Source.  
-  1. [RainforestQA](https://jobs.lever.co/rainforest) - On demand QA as a service.
-  1. [RebelMouse](https://www.rebelmouse.com/st/blog) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
   1. [Recurly](https://recurly.com/careers/) - recurring billing management for subscription-based businesses
   1. [Red Hat](https://www.redhat.com/en/jobs)
   1. [Redox](https://redoxengine.com/company/careers/) - Healthcare API platform. Proudly remote-first team.
@@ -485,7 +482,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Shiphero](https://shiphero.breezy.hr/?&remote=remote#positions) - ShipHero builds a fully featured Warehouse Management System. 100% remote. 
   1. [Shogun](https://getshogun.com/) - Build and optimize eCommerce landing pages. Ruby / Rails, Go, JavaScript, React. 100% remote.
   1. [Signal](https://signal.org/workworkwork/) - These people make the fantastic Signal app. US Only.
-  1. [Skyscrapers](https://skyscrapers.eu/join-us/) - Cloud hosting services & management. Working with multiple cloud providers (AWS, Digital Ocean, Linode, ...). 100% remote.
   1. [SoftwareMill](https://softwaremill.com/join-us/)
   1. [Soshace](https://soshace.com/) - Angular/React/Vue.js/Java/Python remote development company
   1. [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
@@ -521,7 +517,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Truelogic](https://www.truelogic.io/careers) - Outsourcing company focused on Latin America talent for US companies
   1. [Tyk](https://tyk.io/current-vacancies/) - API Gateway and API Management. Built with Go, open source.
   1. [Vidalingua](https://www.vidalingua.com/amaze.php) - Bringing language apps to life.
-  1. [WAAT](https://waat.eu/job/) - A cross-functional digital agency that adapts to project needs.
   1. [Water Lily Pond](https://waterlilypond.co.uk/) - Advertising and marketing communication services.
   1. [wemake.services](https://wemake.services/meta/) - We sell repeatable software development process. Fully remote. Python, JavaScript, Vue
   1. [Wheel](https://www.wheel.com/careers) - healthcare startup.
@@ -632,4 +627,4 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Lukasz Madon](https://github.com/lukasz-madon) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Lukasz Madon](https://github.com/lukasz-madon) has waived all copyright and related or neighboring rights to this work.

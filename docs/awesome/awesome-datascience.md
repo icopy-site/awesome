@@ -30,6 +30,12 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 
 <br>
 
+## $ [academic](https://academic.io/cli)
+
+```
+$ brew tap academic/tap
+$ brew install academic
+```
 
 ## Sponsors
 
