@@ -25,6 +25,7 @@ To enhance your WezTerm configuration experience:
 ## Keybinding
 
 - [MLFlexer/modal.wezterm](https://github.com/MLFlexer/modal.wezterm) - Predefined Vim-like modal keybindings with a good looking UI.
+- [sravioli/chord.wz](https://github.com/sravioli/chord.wz) - Vim-style key notation, modal key tables, and hint bars.
 - [sei40kr/wez-pain-control](https://github.com/sei40kr/wez-pain-control?tab=readme-ov-file) - Pane control keybindings like tmux-pain-control.
 - [sei40kr/wez-tmux](https://github.com/sei40kr/wez-tmux) - Ported tmux keybindings.
 - [selectnull/pinned-tabs.wezterm](https://github.com/selectnull/pinned-tabs.wezterm) - Lets you assign a key binding to a specific tab.
@@ -79,7 +80,9 @@ To enhance your WezTerm configuration experience:
 - [lilaqua/tunicodes](https://gitlab.com/lilaqua/tunicodes) - Insert Unicode characters via their codepoints.
 - [zsh-sage/toggle_terminal.wez](https://github.com/zsh-sage/toggle_terminal.wez) - An easy-to-use toggleable terminal window.
 - [quantonganh/quickselect.wezterm](https://github.com/quantonganh/quickselect.wezterm) - Jump to the build error by opening them in Helix.
+- [sravioli/lantern.wz](https://github.com/sravioli/lantern.wz) - Selector framework for colorschemes, fonts, GPU adapters, window appearance, and custom config presets.
 - [sravioli/log.wz](https://github.com/sravioli/log.wz) - Tagged logging library with pluggable sinks and severity thresholds.
 - [sravioli/memo.wz](https://github.com/sravioli/memo.wz) - Memoization, caching, and persistent state management.
+- [sravioli/sigil.wz](https://github.com/sravioli/sigil.wz) - Icon and identity-color registry for processes, tools, and UI labels.
 - [sravioli/warp.wz](https://github.com/sravioli/warp.wz) - General-purpose utility library with string, table, list, path, and filesystem helpers.
 - [btrachey/wezterm-replay](https://github.com/btrachey/wezterm-replay) - Parse command output and get URLs, shell commands, etc. pasted into your next prompt.

@@ -345,6 +345,24 @@ Features Provided by XC-Manager:
 
 **Zeesh** is a cross-platform ZSH framework. It's similar to, but incompatible with, [oh-my-zsh](http://ohmyz.sh/). It has a modular plugin architecture making it easy to extend. It has a rich set of defaults, but is designed to be as lightweight as possible.
 
+### [zert](https://github.com/oxcl/zert)
+![GitHub last commit](https://img.shields.io/github/last-commit/oxcl/zert)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/oxcl/zert)
+
+ **zert** is a pure-ZSH plugin manager built around a simple idea: your plugins should be declared directly in your `.zshrc`, pinned to exact commits, and reproducible on any machine — just like `npm` does for Node projects.
+
+No config files to maintain. No subcommands to memorize for adding plugins. No external tools. Just ZSH, `git`, and `curl`.
+
+Features
+
+* **Inline, declarative syntax** — declare plugins directly in `.zshrc`. No separate config file, no add command.
+* **Lockfile-based reproducibility** — `zert.lock` pins every plugin to an exact `git` commit SHA. Commit it. Share it. Reproduce it anywhere.
+* **Parallel installs** — clones multiple plugins simultaneously using `git clone --filter=tree:0` for minimal bandwidth.
+* **Sequential, ordered loading** — plugins are sourced in exactly the order you declare them. Always.
+* **Zero external UI dependencies** — real-time progress bars and spinners built entirely from ANSI escape codes.
+* **Self-managing** — Zert updates itself with `zert update zert`, managed as a first-class plugin.
+* **Oh-My-Zsh / Prezto compatibility** — load OMZ libs and Prezto modules without installing either framework.*
+
 ### [zgem](https://github.com/qoomon/zgem)
 ![GitHub last commit](https://img.shields.io/github/last-commit/qoomon/zgem)
  ![GitHub Repo stars](https://img.shields.io/github/stars/qoomon/zgem)
@@ -745,6 +763,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [arc-prompt](https://github.com/dkryaklin/arc-zsh-plugin) - Arc VCS prompt integration with branch display, status caching, operation mode detection, agnoster theme support, and aliases.
 - [arc-search](https://github.com/michaelsousajr/zsh-arc-search) - Enables quick searches using Arc browser directly from your terminal. Features URL encoding for search terms.
 - [arc](https://github.com/anton-rudeshko/zsh-arc) - Adds aliases for Yandex version control system.
+- [arch-aptstyle](https://github.com/MRoldL001/arch-aptstyle) - Designed to provide Debian/Ubuntu-style `apt` command wrappers for users transitioning from those distributions to arch. Requires `yay` or `paru` for full functionality.
 - [archlinux (fourdim)](https://github.com/fourdim/zsh-archlinux) - Defines helper functions for `pacman` on Arch Linux.
 - [archlinux (junker)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
 - [arduino](https://github.com/raghur/zsh-arduino) - Adds scripts to build, upload and monitor arduino sketches from a command line. Requires [`jq`](https://stedolan.github.io/jq/).
@@ -1383,6 +1402,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [php-version-switcher](https://github.com/Akollade/php-version-switcher.plugin.zsh) - Changes php versions if a `.php-version` file is found.
 - [phpcs](https://github.com/voronkovich/phpcs.plugin.zsh) - Plugin for [PHP code sniffer](https://github.com/squizlabs/PHP_CodeSniffer).
 - [phpunit](https://github.com/voronkovich/phpunit.plugin.zsh) - Plugin for [PHPUnit](https://phpunit.de/).
+- [pi](https://github.com/nearsyh/pi-zsh-plugin) - Maps `:` commands in your shell to `pi -p` calls and keeps a per-shell `pi` session file for continuity.
 - [pins](https://github.com/mehalter/zsh-pins) - A plugin for pinning directories. Like a CLI folder bookmark manager with tab completions.
 - [pip-app](https://github.com/sharat87/pip-app) - Makes it easy to install python applications into distinct Python virtualenvs so they don't conflict with any other python requirements on your system.
 - [pip-env](https://github.com/iboyperson/zsh-pipenv) - Automatic [pipenv](https://pipenv.readthedocs.io/en/latest/) activation upon entry into a `pipenv` project.
@@ -1398,6 +1418,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [plugin-vscode](https://github.com/wuotr/zsh-plugin-vscode) - Plugin for [Visual Studio Code](https://code.visualstudio.com/download), a text editor for macOS, Windows, and Linux.
 - [plugin](https://github.com/darrenbutcher/plugin) - Creates custom [oh-my-zsh](https://ohmyz.sh) plugins from a boilerplate template. Very oh-my-zsh centric, the generated plugins may need editing to work with other frameworks.
 - [pnpm (baliestri)](https://github.com/baliestri/pnpm.plugin.zsh) - Adds useful aliases for many common [pnpm](https://pnpm.io/) commands. Includes tab-completions.
+- [pnpm (bgowers)](https://github.com/bgowers/omz-pnpm) - Adds a small set of alias for the [pnpm](https://pnpm.io/) commands you actually type and tab-completions.
 - [pnpm (leizhenpeng)](https://github.com/Leizhenpeng/zsh-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
 - [pnpm (mat2ja)](https://github.com/mat2ja/pnpm.plugin.zsh) - Better [pnpm](https://pnpm.io/) aliases.
 - [pnpm (ntnyq)](https://github.com/ntnyq/omz-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
@@ -1644,6 +1665,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [ubuntualiases](https://github.com/GuilleDF/zsh-ubuntualiases) - Ubuntu 16 aliases.
 - [ugit](https://github.com/Bhupesh-V/ugit) - Lets you undo your last `git` operation.
 - [uncloudium](https://github.com/Talon1024/omz-uncloudium) - Adds helper script to download crx files from the Google Chrome web store.
+- [undo-dir](https://github.com/allisnulll/zsh-undo-dir) - Undo and redo current working directory changes.
 - [undollar](https://github.com/zpm-zsh/undollar) - Strips the dollar sign from the beginning of the terminal prompt.
 - [unique-id](https://github.com/z-shell/zsh-unique-id) - Provides a unique number that identifies a running Zshell session, in its shell variable `$ZUID_ID`. Besides this unique number, also a unique codename is provided, in shell variable `$ZUID_CODENAME`. An example use case is to hold logs in files `.../mylog-${ZUID_CODENAME}.log`, so that two different Zshells will not write to the same file at the same time.
 - [unix-simple](https://github.com/redxtech/zsh-unix-simple) - A command that shows a graphic about the simplicity of unix.
