@@ -95,6 +95,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [pg_activity](https://github.com/julmon/pg_activity) - Top-like application for PostgreSQL server activity monitoring.
 - [pg_top](https://github.com/markwkm/pg_top) - Top for PostgreSQL.
 - [pspg](https://github.com/okbob/pspg) - PostgreSQL Pager.
+- [diesel-guard](https://github.com/ayarotsky/diesel-guard) - Linter for dangerous PostgreSQL migration patterns. It works seamlessly with PostgreSQL SQL files and integrates natively with projects using Diesel and SQLx.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer Command Line (SQLcl) is a free command line interface for Oracle Database.
 - [sqlite-utils](https://github.com/simonw/sqlite-utils) - CLI tools for manipulating SQLite database files - inserting data, running queries, creating indexes, configuring full-text search and more.
 - [SQLLine](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
@@ -138,6 +139,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Azimutt](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
 - [ChartDB](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
 - [DrawDB](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator. 
+- [DrawSQL](https://drawsql.app) - Online database schema diagram editor with SQL import, AI generation, and real-time team collaboration.
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
 - [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 - [Liam ERD](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.

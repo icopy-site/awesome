@@ -176,11 +176,13 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cmakeprojectmanager2](https://github.com/h4tr3d/cmakeprojectmanager2) - Enhanced CMake Project Manager plugin for Qt Creator. ```[NO LICENSE]```
 * [cmake-lint](https://github.com/richq/cmake-lint) - Check for coding style issues in CMake files. cmakelint requires Python. [```[APACHE2]```][APACHE2]
 * [git-cmake-format](https://github.com/kbenzie/git-cmake-format) - Integrate clang-format into your CMake project hosted in a git repository. [```[LICENSE]```](https://github.com/kbenzie/git-cmake-format/blob/master/license.txt)
+* [cmakefmt](https://github.com/cmakefmt/cmakefmt) - Fast, native CMake formatter written in Rust with format-on-save editor support and a first-party GitHub Action. [```[MIT]```][MIT]
 * [configure-cmake](https://github.com/nemequ/configure-cmake) - configure-cmake is an autotools-style configure script for CMake-based projects. [```[CC0-1.0]```][CC0-1.0]
 * [cmake-ast](https://github.com/polysquare/cmake-ast) - Python module to reduce a CMake file to an AST. [```[MIT]```][MIT]
 * [cmake-checks-cache](https://github.com/cristianadam/cmake-checks-cache) - CMake checks cache helper modules. [```[MIT]```][MIT]
 * [cmake_check](https://github.com/DaelDe/cmake_check) - Static analysis (linter) for the CMake language (e.g. to enforce modern CMake rules). [```[MIT]```][MIT]
 * [cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake Language Server Protocol Implementation. [```[MIT]```][MIT]
+* [cmake-xray](https://github.com/pt9912/cmake-xray) - Analyze and diagnose CMake-based C++ builds from compile databases and CMake File API data. [```[MIT]```][MIT]
 * [cmake-maven-plugin](https://github.com/cmake-maven-project/cmake-maven-project) - CMake integration for Maven builds. [```[APACHE2]```][APACHE2]
 * [version-from-git](https://github.com/MhmRhm/version-from-git) - Bake git information into your binary. [```[MIT]```][MIT]
 * [SoCMake](https://github.com/HEP-SoC/SoCMake) - CMake based build system for hardware (ASIC, FPGA) and System-on-Chip build automation. [```[LGPL]```][LGPL]

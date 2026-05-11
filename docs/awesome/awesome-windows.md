@@ -313,6 +313,7 @@ More information in CLAUDE.md and llms.txt.
 * [Ninite](https://ninite.com/) - Streamlined software installation utility.
 * [PhraseVault](https://phrasevault.app/) - Expands text snippets with fuzzy search, usage-based prioritization, and local-only data storage. ![paid]
 * [Super Productivity](https://super-productivity.com/) - Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration. [![Open-Source Software][oss]](https://github.com/johannesjo/super-productivity)
+* [talat](https://talat.app) - On-device meeting recording and transcription that keeps mic and system audio on your machine. ![paid]
 * [Taskade](https://taskade.com/) - Collaborative task management with real-time sync.
 * [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription with privacy-first approach. System-wide dictation via global hotkey. [![Open-Source Software][oss]](https://github.com/TypeWhisper/typewhisper-win)
 * [Timelens](https://timlens.wireway.ch) - Cross-platform time tracking software. [![Open-Source Software][oss]](https://github.com/0pandadev/timelens)

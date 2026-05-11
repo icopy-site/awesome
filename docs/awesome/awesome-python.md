@@ -414,6 +414,12 @@ _Libraries for data analysis._
   - [lumibot](https://github.com/Lumiwealth/lumibot) - Algorithmic trading framework for backtesting and live deployment across stocks, options, crypto, futures, and forex.
   - [openbb](https://github.com/OpenBB-finance/OpenBB) - A financial data platform for analysts, quants and AI agents.
   - [yfinance](https://github.com/ranaroussi/yfinance) - Easy Pythonic way to download market and financial data from Yahoo Finance.
+  
+### Data Ingestion / ETL
+
+_Libraries for extracting data from external sources and loading it into databases, warehouses, and lakehouses._
+
+- [dlt](https://github.com/dlt-hub/dlt) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
 
 ### Data Validation
 
@@ -535,7 +541,6 @@ _Tools of static analysis, linters and code quality checkers. Also see [awesome-
   - [flake8](https://github.com/PyCQA/flake8) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
     - [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
   - [pylint](https://github.com/pylint-dev/pylint) - A fully customizable source code analyzer.
-  - [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter.
 - Code Formatters
   - [black](https://github.com/psf/black) - The uncompromising Python code formatter.
   - [isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.

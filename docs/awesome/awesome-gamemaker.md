@@ -44,7 +44,6 @@ This includes data structures and file formats that do not fit into a more speci
 - [Map](https://github.com/GameMakerDiscord/Map.gml) - Hash table implementations.
 - [Matrices](https://github.com/JujuAdams/matrices) - A collection of matrix handling scripts.
 - [gm-stream](https://github.com/daikon-games/gm-stream) - Data structure manipulation.
-- [Promises](https://github.com/YAL-GameMaker/Promise.gml) - An adaptation of JavaScript Promises.
 - [ForEach](https://github.com/KeeVeeGames/foreach.gml) - Adds a foreach implementation for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs.
 - [DeepCopy](https://github.com/KeeVeeGames/DeepCopy.gml) - Deep clone class instances / constructed structs, anonymous structs and arrays nested in any order!
 - [Cottonwool](https://github.com/JujuAdams/Cottonwool) - Safe surfaces without memory leaks.
@@ -98,6 +97,14 @@ Custom timers, timelines, and task scheduling.
 - [GMTimeLine](https://github.com/TimVN/GMTimeLine) - A pure code alternative to GameMaker timelines.
 - [Agenda](https://github.com/benal20/Agenda.gml) - Schedule and delay the execution of callbacks.
 
+## Async
+
+- [Coroutines](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker.
+- [SimThreads](https://github.com/tabularelf/SimThreads) - Simulated threads for GameMaker.
+- [MultiProcessing](https://github.com/tinkerer-red/MultiProcessing) - A proof of concept for multiprocessing in GameMaker.
+- [Promises](https://github.com/YAL-GameMaker/Promise.gml) - An adaptation of JavaScript Promises.
+- [GML Promise](https://github.com/tinkerer-red/GML-Promise) - Another JS-style promise library.
+
 ## Utilities
 
 - [gm-core](https://github.com/gm-core) - Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.
@@ -108,7 +115,6 @@ Custom timers, timelines, and task scheduling.
 - [Broadcast](https://github.com/JulianDicken/Broadcast) - Event handling library.
 - [Polarca](https://github.com/VitorEstevam/polarca) - Interpolation functions.
 - [Twerp](https://pixelatedpope.itch.io/twerp) - Easing function similar to lerp().
-- [Coroutines](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker.
 - [Dynamo](https://github.com/JujuAdams/Dynamo) - Dynamic data loader.
 - [Gumshoe](https://github.com/JujuAdams/Gumshoe) - Simple deep file search function.
 - [Mathematical Scripts](https://github.com/adam-rumpf/game-maker-scripts) - A collection of math scripts.
@@ -127,7 +133,6 @@ Custom timers, timelines, and task scheduling.
 - [Catspeak](https://github.com/katsaii/catspeak-lang) - Cross-platform programming language for modding support.
 - [JITSpeak](https://github.com/BenjaminUrquhart/JITSpeak) - Improves Catspeak performance.
 - [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) - A tool to benchmark GML code.
-- [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) - A proof of concept for multiprocessing.
 - [Figgy](https://github.com/glebtsereteli/Figgy) - Centralized and persistent live configs for seamless game tuning and balancing.
 - [RenderStack](https://github.com/FoxyOfJungle/RenderStack) - Organize your game's rendering into a customizable order.
 - [GMLiteSearch](https://github.com/erkan612/GMLiteSearch) - Fast, flexible full‑text search for GameMaker. Built for small to medium datasets (10k‑50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence.
@@ -203,6 +208,8 @@ Things that work with project files or GameMaker itself rather than being someth
 - [SimpleUI](https://github.com/evolutionleo/SimpleUI) - Minimalistic UI framework.
 - [LimeUI](https://github.com/Limekys/LimeUI) - Flexpanel system for modern, touch-friendly interfaces.
 - [Bento](https://github.com/JujuAdams/Bento) - Cross-platform UI framework.
+- [InteractiveBooks](https://marketplace.gamemaker.io/assets/4858/now-free-interactive-books) - Highly flexible, interactable books.
+- [SimpleBook](https://github.com/Gizmo199/SimpleBook) - Simple book rendering framework.
 
 ## Localization
 

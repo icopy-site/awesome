@@ -21,6 +21,7 @@ To enhance your WezTerm configuration experience:
 - [dimao/ai-commander.wezterm](https://github.com/dimao/ai-commander.wezterm) - Generate and select bash commands based on natural language prompts.
 - [EdenGibson/wezterm-quota-limit](https://github.com/EdenGibson/wezterm-quota-limit) - Shows Claude API usage quota in the status bar with color-coded thresholds and automatic token refresh.
 - [Eric162/wezterm-agent-deck](https://github.com/Eric162/wezterm-agent-deck) - Monitors AI coding agents, shows status dots in tabs and notifications when agents need attention.
+- [M-Marbouh/agent-quota.wezterm](https://github.com/M-Marbouh/agent-quota.wezterm) - Shows Claude and Codex quota usage in the status bar with reset countdowns, process-aware states, and shared caching.
 
 ## Keybinding
 
@@ -77,12 +78,14 @@ To enhance your WezTerm configuration experience:
 - [ChrisGVE/dev.wezterm](https://github.com/ChrisGVE/dev.wezterm) - Location resolver for development and deployment of a plugin.
 - [ChrisGVE/lib.wezterm](https://github.com/ChrisGVE/lib.wezterm) - A library of common utility functions for plugin developers.
 - [ChrisGVE/listeners.wezterm](https://github.com/ChrisGVE/listeners.wezterm) - Enables enhanced event listener capabilities with persistent state management.
+- [dfsramos/wezterm-sync](https://github.com/dfsramos/wezterm-sync) - Sync your config across machines via a private GitHub Gist, with zero external dependencies.
 - [lilaqua/tunicodes](https://gitlab.com/lilaqua/tunicodes) - Insert Unicode characters via their codepoints.
 - [zsh-sage/toggle_terminal.wez](https://github.com/zsh-sage/toggle_terminal.wez) - An easy-to-use toggleable terminal window.
 - [quantonganh/quickselect.wezterm](https://github.com/quantonganh/quickselect.wezterm) - Jump to the build error by opening them in Helix.
 - [sravioli/lantern.wz](https://github.com/sravioli/lantern.wz) - Selector framework for colorschemes, fonts, GPU adapters, window appearance, and custom config presets.
 - [sravioli/log.wz](https://github.com/sravioli/log.wz) - Tagged logging library with pluggable sinks and severity thresholds.
 - [sravioli/memo.wz](https://github.com/sravioli/memo.wz) - Memoization, caching, and persistent state management.
+- [sravioli/ribbon.wz](https://github.com/sravioli/ribbon.wz) - Builds styled text segments for status bars, tab titles, and selector previews.
 - [sravioli/sigil.wz](https://github.com/sravioli/sigil.wz) - Icon and identity-color registry for processes, tools, and UI labels.
 - [sravioli/warp.wz](https://github.com/sravioli/warp.wz) - General-purpose utility library with string, table, list, path, and filesystem helpers.
 - [btrachey/wezterm-replay](https://github.com/btrachey/wezterm-replay) - Parse command output and get URLs, shell commands, etc. pasted into your next prompt.
