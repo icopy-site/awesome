@@ -398,28 +398,29 @@ _Libraries for serializing complex data types._
 
 _Libraries for data analysis._
 
+- [aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas) - Pandas on AWS.
+- [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
+- [data-profiling](https://github.com/Data-Centric-AI-Community/data-profiling) - Generate detailed data profiling reports for pandas DataFrames.
+- [desbordante](https://github.com/desbordante/desbordante-core/) - An open source data profiler for complex pattern discovery.
+- [ibis](https://github.com/ibis-project/ibis) - A portable Python dataframe library with a single API for 20+ backends.
+- [modin](https://github.com/modin-project/modin) - A drop-in pandas replacement that scales workflows by changing a single line of code.
+- [pandas](https://github.com/pandas-dev/pandas) - A library providing high-performance, easy-to-use data structures and data analysis tools.
+- [pathway](https://github.com/pathwaycom/pathway) - Real-time data processing framework for Python with reactive dataflows.
+- [polars](https://github.com/pola-rs/polars) - A fast DataFrame library implemented in Rust with a Python API.
+
+  
+### Data Ingestion / ETL
+
+_Libraries for data extraction, transformation, and loading pipelines across multiple sources and destinations._
+
 - General
-  - [aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas) - Pandas on AWS.
-  - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
-  - [data-profiling](https://github.com/Data-Centric-AI-Community/data-profiling) - Generate detailed data profiling reports for pandas DataFrames.
-  - [desbordante](https://github.com/desbordante/desbordante-core/) - An open source data profiler for complex pattern discovery.
-  - [ibis](https://github.com/ibis-project/ibis) - A portable Python dataframe library with a single API for 20+ backends.
-  - [modin](https://github.com/modin-project/modin) - A drop-in pandas replacement that scales workflows by changing a single line of code.
-  - [pandas](https://github.com/pandas-dev/pandas) - A library providing high-performance, easy-to-use data structures and data analysis tools.
-  - [pathway](https://github.com/pathwaycom/pathway) - Real-time data processing framework for Python with reactive dataflows.
-  - [polars](https://github.com/pola-rs/polars) - A fast DataFrame library implemented in Rust with a Python API.
+  - [dlt](https://github.com/dlt-hub/dlt) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
 - Financial Data
   - [akshare](https://github.com/akfamily/akshare) - A financial data interface library, built for human beings!
   - [edgartools](https://github.com/dgunning/edgartools) - Library for downloading structured data from SEC EDGAR filings and XBRL financial statements.
   - [lumibot](https://github.com/Lumiwealth/lumibot) - Algorithmic trading framework for backtesting and live deployment across stocks, options, crypto, futures, and forex.
   - [openbb](https://github.com/OpenBB-finance/OpenBB) - A financial data platform for analysts, quants and AI agents.
   - [yfinance](https://github.com/ranaroussi/yfinance) - Easy Pythonic way to download market and financial data from Yahoo Finance.
-  
-### Data Ingestion / ETL
-
-_Libraries for extracting data from external sources and loading it into databases, warehouses, and lakehouses._
-
-- [dlt](https://github.com/dlt-hub/dlt) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
 
 ### Data Validation
 

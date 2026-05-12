@@ -316,6 +316,7 @@ Compute:
 ### Open Source Projects
 
 - [ActorCloud](https://github.com/actorcloud/ActorCloud) - Open-source IoT Platform.
+- [BOFS](https://github.com/colbyj/bride-of-frankensystem) - Create online surveys and behavioral experiments based on declarative configuration files; extend functionality via Flask as-needed.
 - [Busy Beaver](https://github.com/busy-beaver-dev/busy-beaver) - Chicago Python's Community Engagement Slack bot.
 - [FlaskBB](https://github.com/flaskbb/flaskbb) - Classic forum software.
 - [Indico](https://github.com/indico/indico) - Feature-rich event management system, made at [CERN](https://home.cern/).

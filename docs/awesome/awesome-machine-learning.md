@@ -1702,6 +1702,10 @@ be
 <a name="tools"></a>
 ## Tools
 
+<a name="tools-educational-tools"></a>
+#### Educational Tools
+* [NN Visual](https://nn-visual.com) - Interactive visualizations explaining neural networks, backpropagation, attention mechanisms, and transformers.
+
 <a name="tools-neural-networks"></a>
 #### Neural Networks
 * [layer](https://github.com/cloudkj/layer) - Neural network inference from the command line
