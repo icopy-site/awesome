@@ -87,9 +87,7 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Introduction to Backstage](https://www.youtube.com/watch?v=1XtJ5FAOjPk) - A video introduction to Backstage by Spotify.
 - [Creating a Plugin for Backstage](https://www.youtube.com/watch?v=lLLw3tcBwWw) - Learn how to create a plugin for Backstage.
 - [How Spotify Builds Infrastructure with Backstage](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/) - A blog post by Spotify on their experience with Backstage.
-- [Backstage v1.48.0 Release Notes](https://backstage.io/docs/releases/v1.48.0/) - Current stable release notes with platform updates and fixes.
-- [Backstage v1.47.0 Release Notes](https://backstage.io/docs/releases/v1.47.0/) - Stable release notes covering backend action filtering and security fixes.
-- [Backstage v1.49.0-next.1 Changelog](https://backstage.io/docs/next/releases/v1.49.0-next.1-changelog) - Preview upcoming changes in the next release line.
+- [Backstage v1.50.4 Release Notes](https://backstage.io/docs/releases/v1.50.4/) - Latest stable release (2026-04-29) with platform updates and bug fixes.
 - [Backstage Wrapped 2025: Celebrating a mature framework with modern foundations](https://backstage.io/blog/2025/12/30/backstage-wrapped-2025) - Annual retrospective on Backstage growth, platform maturity, and highlights.
 - [BackstageCon + KubeCon NA 2025 Highlights](https://backstage.io/blog/2025/11/25/backstagecon-kubecon-25-atlanta) - Recap of recent platform updates and community demos from Atlanta.
 - [Backstage Security Audit 2024](https://backstage.io/blog/2024/12/17/backstage-security-audit-2024/) - Independent security audit results, findings, and remediation summary.

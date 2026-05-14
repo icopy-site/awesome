@@ -1187,6 +1187,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [uiGrid](https://github.com/orneryd/uiGrid) - Open‑source, multi‑platform data grid rebuilt from the original [ui‑grid](https://github.com/angular-ui/ui-grid) with the same API and modern Angular signals, supporting Angular, Web Components, React, and Rust.
 * [ngx-datawindow](https://github.com/sugitter/ngx-datawindow) - Table component modernizing the classic DataWindow with zero‑config CRUD, computed columns, multi‑buffer state, offline sync, and granular change tracking.
 * [simple-table](https://github.com/petera2c/simple-table) - Framework-agnostic data grid and table component for building modern, scalable applications.
+* [toolbox](https://github.com/OysteinAmundsen/toolbox) - High-performance, framework-agnostic web components for data-intensive applications.
 
 ### Dates
 
@@ -1668,6 +1669,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-confirmation-capture](https://github.com/lazycuh/angular-confirmation-capture) - A singleton, global Angular service to programmatically show a confirmation box to capture an user's consent.
 * [ngx-side-page](https://github.com/strikerh/ngx-side-page) - Versatile Angular library for slide‑out side panels with smooth, service‑based animations, like Material dialogs for side pages.
 * [async-modal-ngx](https://github.com/antonioconselheiro/async-modal-ngx) - This library renders Angular components with flexible data flow, while all styling and modal-host design remain your responsibility.
+* [rnd-dialog](https://github.com/acrodata/rnd-dialog) - Resizable and draggable dialog based on CDK dialog.
 
 ### Notifications
 

@@ -302,6 +302,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Containers
 
 * [C++ B-tree](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]
+* [CRoaring](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++), with SIMD optimizations. [Apache-2.0]
 * [dynamic_bitset](https://github.com/pinam45/dynamic_bitset) - Simple Useful Libraries: C++17/20 header-only dynamic bitset. [MIT] [website](https://pinam45.github.io/dynamic_bitset/)
 * [fixed-containers](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. [MIT]
 * [flat_hash_map](https://github.com/skarupke/flat_hash_map) - A very fast flat hashtable with Fibonacci hashing.
@@ -326,7 +327,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [svector](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. [MIT]
 * [tree.hh](https://github.com/kpeeters/tree.hh) - An STL-like C++ header-only tree library. [GPL2+]
 * [unordered_dense](https://github.com/martinus/unordered_dense) - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. [MIT]
-* [CRoaring](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++), with SIMD optimizations. [Apache-2.0]
 * [fifo_map](https://github.com/nlohmann/fifo_map) - A FIFO-ordered associative container for C++. [MIT]
 * [ordered-map](https://github.com/Tessil/ordered-map) - A C++ hash map and hash set which preserves the order of insertion. [MIT]
 
@@ -626,6 +626,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Image Processing
 
+* [avir](https://github.com/avaneev/avir) - High-quality Pro HDR image resizer and fast SIMD Lanczos resizer. [MIT]
 * [Boost.GIL](https://github.com/boostorg/gil) - Generic Image Library. [Boost] [website](https://boost.org/libs/gil)
 * [BitmapPlusPLus](https://github.com/baderouaich/BitmapPlusPlus) - Simple and Fast header only Bitmap C++ library. [MIT]
 * [CImg](http://cimg.eu/) - A small, open source, C++ toolkit for image processing. [Own LGPL or GPL]
@@ -776,6 +777,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [darknet](https://github.com/pjreddie/darknet) - Open source neural network framework written in C and CUDA. [PublicDomain] [website](https://pjreddie.com/darknet/)
 * [Dlib](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. [Boost] [website](http://dlib.net/)
 * [FAISS](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors. [MIT]
+* [FANN](https://github.com/libfann/fann) - Fast Artificial Neural Network library in C. [LGPL]
 * [Fido](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. [MIT] [website](http://fidoproject.github.io/)
 * [flashlight](https://github.com/facebookresearch/flashlight) - A fast, flexible machine learning library from Facebook AI Research written entirely in C++ and based on the ArrayFire tensor library. [BSD-3-Clause] [website](https://fl.readthedocs.io/en/latest/)
 * [ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning with 16-bit and 4-bit quantization support. [MIT]
