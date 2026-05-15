@@ -775,6 +775,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [asdf-prompt](https://github.com/CurryEleison/zsh-asdf-prompt) - Provides a function usable in prompts that displays version information for your current tool versions.
 - [ask-opencode](https://github.com/andreacasarin/zsh-ask-opencode) - Integrates OpenCode AI with your shell, allowing you to generate shell commands using natural language. Press `Ctrl+O` to transform any text in your command line into optimized shell commands.
 - [ask](https://github.com/Licheam/zsh-ask) - Serves as a ChatGPT API frontend, enabling you to interact with ChatGPT directly from the ZSH shell using only `cURL` and `jq`.
+- [assistant](https://github.com/tarball0/zsh-assistant) - Uses ollama to answer questions about commands.
 - [assume-role](https://github.com/weizard/assume-role) - Allows you to assume AWS IAM roles easily. Includes completions.
 - [async](https://github.com/mafredri/zsh-async) - Library for running asynchronous tasks in ZSH without requiring any external tools. Allows you to run multiple asynchronous jobs, enforce unique jobs (multiple instances of the same job will not run), flush all currently running jobs and create multiple workers (each with their own jobs).
 - [atom-plugin](https://github.com/CorradoRossi/oh-my-zsh-atom-plugin) - Based on the [Sublime](https://github.com/valentinocossar/sublime) plugin, lets you launch a file or folder in [Atom](https://atom.io) from [iTerm 2](https://iterm2.com).
@@ -876,6 +877,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [check-deps](https://github.com/zpm-zsh/check-deps) - Helper for ZSH plugins that allows them to show how to install any missing dependencies. Works on Debian (and derivatives like Ubuntu), Arch and its derivatives, Node.js and ZSH plugins if you are using the [zpm](https://github.com/zpm-zsh/zpm) framework.
 - [chgo](https://github.com/sbfaulkner/chgo-plugin-zsh) - Clone of `chruby` modified to make it easy to switch between multiple Go versions.
 - [claude-code-shell](https://github.com/ArielTM/zsh-claude-code-shell) - Translates natural language comments into shell commands using [Claude Code](https://claude.ai/claude-code).
+- [claude-shell](https://github.com/myk-org/claude-shell) - Provides intelligent shell assistance using Claude AI. It offers seven powerful features to enhance your command-line experience: natural language command translation, command explanation, error fixing, intelligent history search, and Kitty terminal integration for advanced scrollback analysis.
 - [claude](https://github.com/HundredAcreStudio/zsh-claude) - AI-powered command suggestions and explanations for ZSH using Claude AI. Get intelligent shell command help with simple keybindings. Transform natural language into executable shell commands, or get detailed explanations of complex commands - all directly in your terminal with Claude AI integration.
 - [clean-history](https://github.com/Automaat/zsh-clean-history) - Smart ZSH history cleanup plugin that automatically removes typos and failed commands based on similarity analysis. Removes failed commands similar to successful ones, finds rare commands similar to common variants, automatically captures command success/failure, adjusts similarity thresholds and behavior & creates backups before cleaning.
 - [clean-project](https://github.com/wwilsman/zsh-clean-project) - Remove files from projects (automatically by default). Useful for keeping `.DS_Store` and `Thumbs.db` files from cluttering your directories.
@@ -1292,6 +1294,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [matecito](https://github.com/uvallasciani/matecito-zsh) - Detects your language and country to display quotes from local authors in your native language. Simple, offline, no noise.
 - [maven-plugin](https://github.com/KyleChamberlin/zsh_maven_plugin) - A fork of the [oh-my-zsh](https://ohmyz.sh/) maven plugin.
 - [media-sync](https://github.com/redxtech/zsh-media-sync) - A plugin to facilitate copying media between two `rclone` locations.
+- [mend](https://github.com/Rakosn1cek/mend) - A distro-agnostic assistant that recovers failed commands, handles missing libraries/PGP keys, and provides hardware-specific package recommendations.
 - [mercurial](https://github.com/hcgraf/zsh-mercurial) - Extracted from [oh-my-zsh](https://ohmyz.sh) so you can use it without the rest of oh-my-zsh.
 - [mfunc](https://github.com/hlohm/mfunc) - Allows you to define persistent functions on-the-fly, without the need to add them to your config files. These functions are permanently available until you delete them.
 - [mise (cowboyd)](https://github.com/cowboyd/zsh-mise) - Adds [mise](https://mise.jdx.dev/) shims to your `$PATH`. Uses the shims strategy so that tools are available in non-interactive shells (e.g. Emacs exec-path-from-shell).
@@ -2308,6 +2311,7 @@ These plugins add tab completions without adding extra functions or aliases.
 - [dmx](https://github.com/domix/dmx.zsh-theme) - Optimized for dark terminal windows.
 - [do-you-even-nix](https://github.com/miche1e/do-you-even-nix) - Simple powerline-esque theme designed to increase [nix](https://nixos.org) power. Includes decorators for username@hostname, current directory, `git` status, whether you're in a nix shell, and whether there is a flake.nix or shell.nix file in the current directory.
 - [domixgit](https://github.com/tariqdomi/ohmyzsh-domixgit) - Prompt with `git` status and current directory decorators.
+- [dongri](https://github.com/dongri/dongri.zsh-theme) - Minimalist theme that shows both the default branch and current branch.
 - [doodleshell](https://github.com/cdodd/doodleshell-zsh-theme) - Minimalist theme, includes `git`, `terraform` and `aws` status decorations.
 - [doom](https://github.com/CMOISDEAD/doom-zsh) - Doom-inspired. Looks similar to powerline. Has customizable segments, decorators for `git` status, `rust`, `Node.js`, `python` and `ruby` versions.
 - [dp](https://github.com/davidparsson/zsh-dp-theme) - Low contrast theme that shows current git branch, if the repository is dirty and the value of `$PYENV_VERSION`.

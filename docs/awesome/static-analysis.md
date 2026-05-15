@@ -472,7 +472,7 @@ The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It 
 
 - [gokart](https://github.com/praetorian-inc/gokart) — Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
 
-- [GolangCI-Lint](https://golangci-lint.run) — Alternative to `Go Meta Linter`: GolangCI-Lint is a linters aggregator.
+- [GolangCI-Lint](https://golangci-lint.run) — Fast linters runner for Go. It aggregates multiple Go linters and provides a unified configuration, caching, and output format. Alternative to `Go Meta Linter`.
 
 - [golint](https://github.com/golang/lint) — Prints out coding style mistakes in Go source code.
 
@@ -954,7 +954,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [pylint](http://pylint.pycqa.org/en/latest) — Looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It additionally includes `pyreverse` (an UML diagram generator) and `symilar` (a similarities checker).
 
-- [pylyzers](https://mtshiba.github.io/pylyzer/) — A static code analyzer / language server for Python, written in Rust, focused on type checking and readable output.
+- **pylyzers** :warning: — A static code analyzer / language server for Python, written in Rust, focused on type checking and readable output.
 
 - [Pyra](https://github.com/spangea/Pyra) — Pyra is a high-level linter static analyzer for data science applications written in Python, that helps developers identify potential issues in their data science code written in Python, as an extension of [Lyra](https://github.com/caterinaurban/Lyra).
 

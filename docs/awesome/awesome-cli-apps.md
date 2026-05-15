@@ -316,6 +316,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 - [clevercli](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
 - [OctoType](https://github.com/mahlquistj/octotype) - A customizable typing trainer.
+- [gittype](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
 
 ### macOS
 
@@ -609,6 +610,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [srgn](https://github.com/alexpovel/srgn/) - A grep-like tool which understands code syntax and also allows for manipulation.
 - [rawhide](https://github.com/raforg/rawhide) - Find files using pretty C expressions.
 - [semantic-grep](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
+- [reflex](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
 
 ## Version Control
 
