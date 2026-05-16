@@ -643,6 +643,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
+| [Foil](https://usefoil.com) | [@usefoil](https://twitter.com/usefoil) | - | Detect AI agents, bots and malicious devices with a drop-in SDK for web, iOS and Android |
 | [Burp](https://portswigger.net/burp) | [@Burp_Suite](https://twitter.com/Burp_Suite) | - | - |
 | [DuoSecurity](https://duo.com/) | [@duosec](https://twitter.com/duosec) | - | - |
 | [Authy](https://authy.com/) | [@Authy](https://twitter.com/Authy) | - | - |

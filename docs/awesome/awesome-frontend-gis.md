@@ -142,7 +142,7 @@ Data available for download:
 Restful APIs for consuming geospatial data on the fly:
 
 - [Address API](https://gisco-services.ec.europa.eu/addressapi/docs/) - Pan-European address data with geocoding and reverse-geocoding.
-- [API Geo](https://api.gouv.fr/les-api/api-geo) - Official French geographical data API.
+- [API Geo](https://geo.api.gouv.fr/) - Official French geographical data API.
 - [ArcGIS location services](https://developers.arcgis.com/rest/location-based-services/) - Basemaps, Geocoding, Places, routing, and GeoEnrichment.
 - [bng2latlong](https://www.getthedata.com/bng2latlong) - Converts British National Grid to latitude and longitude.
 - [breezometer](https://docs.breezometer.com/api-documentation/introduction/) - Air Quality, Weather, Pollen, and Environmental data.
@@ -171,6 +171,7 @@ Restful APIs for consuming geospatial data on the fly:
 - [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Search earthquake data by various parameters.
 - [ZipCheckup API](https://github.com/artakulov/us-water-quality-data) - Free REST API for US ZIP-level environmental safety data: water quality, air quality, PFAS, radon, lead, flood risk. ![GitHub stars](https://img.shields.io/github/stars/artakulov/us-water-quality-data?style=social)
 - [what3words](https://developer.what3words.com/public-api) - Converts 3-word addresses to coordinates.
+- [PostalCodes](https://postalcodes.info/api) - Global postal code search, country exports, and address validation data.
 
 ### Collections 
 Compilations and repositories of open geospatial datasets:

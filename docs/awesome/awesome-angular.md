@@ -670,6 +670,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@yoo-digital/eslint-plugin-angular](https://github.com/yoo-digital/eslint-plugin-angular) - Custom lint rules for Angular.
 * [angular-eslint](https://github.com/angular-eslint/angular-eslint) - Monorepo for all the tooling which enables ESLint to lint Angular projects.
 * [angular-eslint-injection-context](https://github.com/cyrilletuzi/angular-eslint-injection-context) - ESLint rules for Angular injection context that help prevent [NG0203](https://angular.dev/errors/NG0203) errors.
+* [angular-eslint-zoneless](https://github.com/cyrilletuzi/angular-eslint-zoneless) - Checks that a zoneless application does not use Zone.js-based features and that signal/resource patterns are used.
 * [eslint-config-angular-strict](https://github.com/Jbz797/eslint-config-angular-strict) - Modern ESLint configuration with strict rules for Angular development.
 * [eslint-config-spartan](https://github.com/glitch452/eslint-config-spartan) - An opinionated ESLint configuration with separate configs (called mixins) for various eslint plugins.
 * [eslint-plugin-ng-module-sort](https://github.com/ducktordanny/eslint-plugin-ng-module-sort) - Auto-sorts Angular and NestJS module arrays to keep your modules clean and organized.
@@ -1410,6 +1411,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [combobox](https://github.com/ng-matero/combobox) - An all‑in‑one Angular Select solution with built‑in multiselect and autocomplete features.
 * [BlossomColorPicker](https://github.com/dayflow-js/BlossomColorPicker) - A polished, blooming color picker for the Web, offered as a standalone JS library with lightweight wrappers for Angular, React, Vue, and Svelte.
 * [ngx-intl-phone-input](https://github.com/JoaoHenriqueAlmeida/ngx-intl-phone-input) - Accessible, headless Angular international phone input with CDK-powered country selector.
+* [ngx-colors2](https://github.com/DominicWrege/ngx-colors) - A material‑style Angular color‑picker updated for Angular 20+, using signals and no animation dependencies.
 
 ### JSON Forms
 

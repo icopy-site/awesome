@@ -80,7 +80,7 @@ See [README.md](https://github.com/papers-we-love/papers-we-love/blob/master/./s
 
 ## Contributing Guidelines
 
-Please take a look at our [CONTRIBUTING.md](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md) file.
+Please take a look at our [CONTRIBUTING.md](https://github.com/papers-we-love/papers-we-love/blob/main/.github/CONTRIBUTING.md) file.
 
 ## Copyright
 
