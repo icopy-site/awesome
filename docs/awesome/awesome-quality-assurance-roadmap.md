@@ -1,4 +1,6 @@
 <div class="github-widget" data-repo="fityanos/awesome-quality-assurance-roadmap"></div>
+❗The updated roadmap can be seen on https://fityanos.github.io/anasfitiani/qaroadmap.html
+
 ## Awesome Quality Assurance Roadmap [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
