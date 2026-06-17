@@ -181,6 +181,7 @@ Please read the [contribution guidelines](https://github.com/DopplerHQ/awesome-i
 * [Front End Interview Handbook - HTML Questions and Answers](https://frontendinterviewhandbook.com/html-questions/)
 * [30 HTML Interview Questions and Answers](https://www.techbeamers.com/latest-html-interview-questions/)
 * [30+ HTML Interview Questions (2021)](https://www.interviewbit.com/html-interview-questions/)
+* [Top 50 HTML Interview Questions and Answers For Fresher](https://geeky4u.com/html-interview-question-and-answer/)
 
 ### Ionic
 
