@@ -70,6 +70,7 @@ A curation of WebAssembly resources, projects, and communities.
 
 - [Wasm Explorer](https://mbebenita.github.io/WasmExplorer/) - Visualize and debug WebAssembly binaries.
 - [wasm2c](https://github.com/WebAssembly/wabt/tree/main/wasm2c) - Convert WebAssembly binaries to C.
+- [Cross-Origin Isolation Checker](https://app.cinevva.com/tools/cross-origin-isolation-checker) - Check whether a page is cross-origin isolated (COOP/COEP), the requirement for SharedArrayBuffer and multithreaded WebAssembly.
 
 ### Frameworks
 
