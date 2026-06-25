@@ -26,8 +26,6 @@ nav:
     - Cordova: awesome/awesome-cordova.md
     - React Native: awesome/awesome-react-native.md
     - Xamarin: awesome/awesome-xamarin.md
-    - Linux: awesome/awesome-linux.md
-    - Linux_sub: 
       - Containers: awesome/awesome-linux-containers.md
       - eBPF: awesome/awesome-ebpf.md
       - Arch-based Projects: awesome/Awesome-Arch.md
@@ -56,13 +54,11 @@ nav:
     - .NET_sub: 
       - Core: awesome/awesome-dotnet-core.md
       - Roslyn: awesome/awesome-roslyn.md
-    - Amazon Alexa: awesome/awesome-amazon-alexa.md
     - DigitalOcean: awesome/awesome-digitalocean.md
     - Flutter: awesome/awesome-flutter.md
     - Home Assistant: awesome/awesome-home-assistant.md
     - IBM Cloud: awesome/awesome-ibmcloud.md
     - Firebase: awesome/awesome-firebase.md
-    - Robot Operating System 2.0: awesome/awesome-ros2.md
     - Adafruit IO: awesome/awesome-adafruitio.md
     - Cloudflare: awesome/awesome-cloudflare.md
     - Actions on Google: awesome/awesome-actions-on-google.md
@@ -128,7 +124,6 @@ nav:
     - Erlang: awesome/awesome-erlang.md
     - Julia: awesome/Julia.jl.md
     - Lua: awesome/awesome-lua.md
-    - C: awesome/awesome-c.md
     - C/C++: awesome/awesome-cpp.md
     - R: awesome/awesome-R.md
     - R_sub: 
@@ -154,10 +149,8 @@ nav:
     - AutoHotkey: awesome/awesome-AutoHotkey.md
     - AutoIt: awesome/awesome-AutoIt.md
     - Crystal: awesome/awesome-crystal.md
-    - Frege: awesome/awesome-frege.md
     - CMake: awesome/awesome-cmake.md
     - ActionScript 3: awesome/awesome-actionscript3.md
-    - Eta: awesome/awesome-eta.md
     - Idris: awesome/awesome-idris.md
     - Ada/SPARK: awesome/awesome-ada.md
     - Q#: awesome/awesome-qsharp.md
@@ -271,7 +264,6 @@ nav:
     - Laravel: awesome/awesome-laravel.md
     - Laravel_sub: 
       - Education: awesome/Awesome-Laravel-Education.md
-      - TALL Stack: awesome/awesome-tall-stack.md
     - Rails: awesome/awesome-rails.md
     - Rails_sub: 
       - Gems: awesome/awesome-rails-gem.md
@@ -374,7 +366,6 @@ nav:
     - Sublime Text: awesome/sublime-bookmarks.md
     - Vim: awesome/vim-galore.md
     - Neovim: awesome/awesome-neovim.md
-    - Atom: awesome/awesome-atom.md
     - Visual Studio Code: awesome/awesome-vscode.md
   - Gaming:
     - Game Development: awesome/magictools.md
@@ -426,8 +417,6 @@ nav:
     - SSH: awesome/awesome-ssh.md
     - FOSS for Developers: awesome/FOSS-for-Dev.md
     - Hyper: awesome/awesome-hyper.md
-    - PowerShell: awesome/awesome-powershell.md
-    - Alfred Workflows: awesome/awesome-alfred-workflows.md
     - Terminals Are Sexy: awesome/terminals-are-sexy.md
     - GitHub Actions: awesome/awesome-actions.md
     - WezTerm: awesome/awesome-wezterm.md
@@ -452,7 +441,6 @@ nav:
     - Database Tools: awesome/awesome-db-tools.md
     - TypeDB: awesome/typedb-awesome.md
     - Cassandra: awesome/awesome-cassandra.md
-    - TDengine: awesome/awesome-tdengine.md
     - Supabase: awesome/awesome-supabase.md
     - PocketBase: awesome/awesome-pocketbase.md
     - Neon: awesome/awesome-neon.md
@@ -476,7 +464,6 @@ nav:
     - Learn to Program: awesome/learn-to-program.md
     - Speaking: awesome/awesome-speaking.md
     - Tech Videos: awesome/awesome-tech-videos.md
-    - Dive into Machine Learning: awesome/dive-into-machine-learning.md
     - Computer History: awesome/awesome-computer-history.md
     - Programming for Kids: awesome/awesome-programming-for-kids.md
     - STEAM: awesome/STEAM.md
@@ -563,7 +550,6 @@ nav:
     - Programming Interviews: awesome/awesome-interview-questions.md
     - Code Review: awesome/awesome-code-review.md
     - Creative Technology: awesome/awesome-creative-technology.md
-    - Internships: awesome/awesome-internships.md
   - Networking:
     - Software-Defined Networking: awesome/awesome-sdn.md
     - PCAPTools: awesome/awesome-pcaptools.md
@@ -596,7 +582,6 @@ nav:
     - Digital History: awesome/awesome-digital-history.md
     - Empathy in Engineering: awesome/empathy-in-engineering.md
     - Healthcare: awesome/awesome-healthcare.md
-    - Humane Technology: awesome/awesome-humane-tech.md
     - Mental Health: awesome/awesome-mental-health.md
     - Neuroscience: awesome/awesome-neuroscience.md
     - Digital Humanities: awesome/awesome-digital-humanities.md
@@ -624,7 +609,6 @@ nav:
     - JSON: awesome/awesome-json.md
     - JSON_sub: 
       - GeoJSON: awesome/awesome-geojson.md
-      - Datasets: awesome/awesome-json-datasets.md
     - CSV: awesome/awesomeCSV.md
     - Discounts for Student Developers: awesome/discount-for-student-dev.md
     - Radio: awesome/awesome-radio.md
@@ -634,7 +618,6 @@ nav:
     - Continuous Integration and Continuous Delivery: awesome/awesome-ciandcd.md
     - Services Engineering: awesome/services-engineering.md
     - Free for Developers: awesome/free-for-dev.md
-    - Answers: awesome/awesome-answers.md
     - Sketch: awesome/awesome-sketch.md
     - Boilerplate Projects: awesome/awesome-projects-boilerplates.md
     - Readme: awesome/awesome-readme.md

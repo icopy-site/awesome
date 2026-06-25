@@ -91,7 +91,7 @@
 - [Cordova](awesome/awesome-cordova.md) - JavaScript API for hybrid apps.
 - [React Native](awesome/awesome-react-native.md) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
 - [Xamarin](awesome/awesome-xamarin.md) - Mobile app development IDE, testing, and distribution.
-- [Linux](awesome/awesome-linux.md)
+- Linux
 	- [Containers](awesome/awesome-linux-containers.md)
 	- [eBPF](awesome/awesome-ebpf.md) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
 	- [Arch-based Projects](awesome/Awesome-Arch.md) - Linux distributions and projects based on Arch Linux.
@@ -119,13 +119,11 @@
 - [.NET](awesome/awesome-dotnet.md)
 	- [Core](awesome/awesome-dotnet-core.md)
 	- [Roslyn](awesome/awesome-roslyn.md) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
-- [Amazon Alexa](awesome/awesome-amazon-alexa.md) - Virtual home assistant.
 - [DigitalOcean](awesome/awesome-digitalocean.md) - Cloud computing platform designed for developers.
 - [Flutter](awesome/awesome-flutter.md) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
 - [Home Assistant](awesome/awesome-home-assistant.md) - Open source home automation that puts local control and privacy first.
 - [IBM Cloud](awesome/awesome-ibmcloud.md) - Cloud platform for developers and companies.
 - [Firebase](awesome/awesome-firebase.md) - App development platform built on Google Cloud.
-- [Robot Operating System 2.0](awesome/awesome-ros2.md) - Set of software libraries and tools that help you build robot apps.
 - [Adafruit IO](awesome/awesome-adafruitio.md) - Visualize and store data from any device.
 - [Cloudflare](awesome/awesome-cloudflare.md) - CDN, DNS, DDoS protection, and security for your site.
 - [Actions on Google](awesome/awesome-actions-on-google.md) - Developer platform for Google Assistant.
@@ -188,7 +186,6 @@
 - [Erlang](awesome/awesome-erlang.md)
 - [Julia](awesome/Julia.jl.md) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
 - [Lua](awesome/awesome-lua.md)
-- [C](awesome/awesome-c.md)
 - [C/C++](awesome/awesome-cpp.md) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 - [R](awesome/awesome-R.md) - Functional programming language and environment for statistical computing and graphics.
 	- [Learning](awesome/awesome-r-learning-resources.md)
@@ -211,10 +208,8 @@
 - [AutoHotkey](awesome/awesome-AutoHotkey.md)
 - [AutoIt](awesome/awesome-AutoIt.md)
 - [Crystal](awesome/awesome-crystal.md)
-- [Frege](awesome/awesome-frege.md) - Haskell for the JVM.
 - [CMake](awesome/awesome-cmake.md) - Build, test, and package software.
 - [ActionScript 3](awesome/awesome-actionscript3.md) - Object-oriented language targeting Adobe AIR.
-- [Eta](awesome/awesome-eta.md) - Functional programming language for the JVM.
 - [Idris](awesome/awesome-idris.md) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
 - [Ada/SPARK](awesome/awesome-ada.md) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
 - [Q#](awesome/awesome-qsharp.md) - Domain-specific programming language used for expressing quantum algorithms.
@@ -339,7 +334,6 @@
 	- [Education](awesome/awesome-symfony-education.md)
 - [Laravel](awesome/awesome-laravel.md) - PHP framework.
 	- [Education](awesome/Awesome-Laravel-Education.md)
-	- [TALL Stack](awesome/awesome-tall-stack.md) - Full-stack development solution featuring libraries built by the Laravel community.
 - [Rails](awesome/awesome-rails.md) - Web app framework for Ruby.
 	- [Gems](awesome/awesome-rails-gem.md) - Packages.
 - [Phalcon](awesome/awesome-phalcon.md) - PHP framework.
@@ -448,7 +442,6 @@
 - [Vim](awesome/vim-galore.md)
 - [Neovim](awesome/awesome-neovim.md) - Vim-fork focused on extensibility and usability.
 - [Emacs](awesome/awesome-emacs.md)
-- [Atom](awesome/awesome-atom.md) - Open-source and hackable text editor.
 - [Visual Studio Code](awesome/awesome-vscode.md) - Cross-platform open-source text editor.
 
 ## Gaming
@@ -503,8 +496,6 @@
 - [SSH](awesome/awesome-ssh.md)
 - [FOSS for Developers](awesome/FOSS-for-Dev.md)
 - [Hyper](awesome/awesome-hyper.md) - Cross-platform terminal app built on web technologies.
-- [PowerShell](awesome/awesome-powershell.md) - Cross-platform object-oriented shell.
-- [Alfred Workflows](awesome/awesome-alfred-workflows.md) - Productivity app for macOS.
 - [Terminals Are Sexy](awesome/terminals-are-sexy.md)
 - [GitHub Actions](awesome/awesome-actions.md) - Create tasks to automate your workflow and share them with others on GitHub.
 - [WezTerm](awesome/awesome-wezterm.md) - Powerful cross-platform terminal emulator.
@@ -534,7 +525,6 @@
 - [Database Tools](awesome/awesome-db-tools.md) - Everything that makes working with databases easier.
 - [TypeDB](awesome/typedb-awesome.md) - Logical database to organize large and complex networks of data as one body of knowledge.
 - [Cassandra](awesome/awesome-cassandra.md) - Open-source, distributed, wide column store, NoSQL database management system.
-- [TDengine](awesome/awesome-tdengine.md) - An open-source time-series database with high-performance, scalability, and SQL support.
 - [Supabase](awesome/awesome-supabase.md) - An open-source alternative to Firebase.
 - [PocketBase](awesome/awesome-pocketbase.md) - An open-source, Go-based backend in one file.
 - [Neon](awesome/awesome-neon.md) - An open-source alternative to AWS Aurora.
@@ -562,7 +552,6 @@
 - [Learn to Program](awesome/learn-to-program.md)
 - [Speaking](awesome/awesome-speaking.md)
 - [Tech Videos](awesome/awesome-tech-videos.md)
-- [Dive into Machine Learning](awesome/dive-into-machine-learning.md)
 - [Computer History](awesome/awesome-computer-history.md)
 - [Programming for Kids](awesome/awesome-programming-for-kids.md)
 - [STEAM](awesome/awesome-steam.md) - Supplements for specific science, technology, engineering, arts, and math (STEAM) courses across all grade levels.
@@ -659,7 +648,6 @@
 - [Programming Interviews](awesome/awesome-interview-questions.md)
 - [Code Review](awesome/awesome-code-review.md) - Reviewing code.
 - [Creative Technology](awesome/awesome-creative-technology.md) - Businesses & groups that specialize in combining computing, design, art, and user experience.
-- [Internships](awesome/awesome-internships.md) - CV writing guides and companies that hire interns.
 
 ## Networking
 
@@ -698,7 +686,6 @@
 - [Digital History](awesome/awesome-digital-history.md) - Computer-aided scientific investigation of history.
 - [Empathy in Engineering](awesome/empathy-in-engineering.md) - Building and promoting more compassionate engineering cultures.
 - [Healthcare](awesome/awesome-healthcare.md) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
-- [Humane Technology](awesome/awesome-humane-tech.md) - Open source projects that help improve society.
 - [Mental Health](awesome/awesome-mental-health.md) - Awareness and self-care in the software industry.
 - [Neuroscience](awesome/awesome-neuroscience.md) - Study of the nervous system and brain.
 - [Digital Humanities](awesome/awesome-digital-humanities.md) - Software for humanities scholars using quantitative or computational methods.
@@ -731,7 +718,6 @@
 - [Scientific Writing](awesome/awesome-scientific-writing.md) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 - [JSON](awesome/awesome-json.md) - Text based data interchange format.
 	- [GeoJSON](awesome/awesome-geojson.md)
-	- [Datasets](awesome/awesome-json-datasets.md)
 - [CSV](awesome/awesomeCSV.md) - A text file format that stores tabular data and uses a comma to separate values.
 - [Discounts for Student Developers](awesome/discount-for-student-dev.md)
 - [Radio](awesome/awesome-radio.md)
@@ -741,7 +727,6 @@
 - [Continuous Integration and Continuous Delivery](awesome/awesome-ciandcd.md)
 - [Services Engineering](awesome/services-engineering.md)
 - [Free for Developers](awesome/free-for-dev.md)
-- [Answers](awesome/awesome-answers.md) - Stack Overflow, Quora, etc.
 - [Sketch](awesome/awesome-sketch.md) - Design app for macOS.
 - [Boilerplate Projects](awesome/awesome-projects-boilerplates.md)
 - [Readme](awesome/awesome-readme.md)
@@ -787,7 +772,6 @@
 - [Falsehood](awesome/awesome-falsehood.md) - Falsehoods programmers believe in.
 - [Domain-Driven Design](awesome/awesome-ddd.md) - Software development approach for complex needs by connecting the implementation to an evolving model.
 - [Quantified Self](awesome/awesome-quantified-self.md) - Self-tracking through technology.
-- [SaltStack](awesome/awesome-saltstack.md) - Python-based config management system.
 - [Web Design](awesome/awesome-web-design.md) - For digital designers.
 - [Creative Coding](awesome/awesome-creative-coding.md) - Programming something expressive instead of something functional.
 - [No-Login Web Apps](awesome/awesome-no-login-web-apps.md) - Web apps that work without login.
