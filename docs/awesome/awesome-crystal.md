@@ -119,6 +119,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [envyable](https://github.com/philnash/envyable.cr) -  A simple YAML to ENV config loader
  * [habitat](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules
  * [totem](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats
+ * [ucl.cr](https://github.com/jbox-web/ucl.cr) - Bindings to [libucl](https://github.com/vstakhov/libucl), load, dump and validate UCL/JSON configuration
 
 ## Converters
  * [base62.cr](https://github.com/Sija/base62.cr) - Base62 encoder/decoder, well suited for url-shortening
@@ -217,6 +218,7 @@ described in [RFC 8032]
  * [motion.cr](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
  * [multi-auth](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
  * [praetorian](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
+ * [rbacr](https://github.com/systatum/rbacr) - Role-Based Access Control system with a clean, type-safe DSL for roles, privileges, and authorization logic
  * [Shield](https://github.com/grottopress/shield) - Comprehensive security for *Lucky* framework
  * [shrine.cr](https://github.com/jetrockets/shrine.cr) - File Attachment toolkit for Crystal applications. Heavily inspired by Shrine for Ruby
  * [tourmaline](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
@@ -488,6 +490,9 @@ described in [RFC 8032]
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
  * [web_finger](https://github.com/toddsundsted/web_finger) - A WebFinger (https://tools.ietf.org/html/rfc7033) client
  * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) - A library to interact with your YNAB data
+
+## TUI
+ * [termisu](https://github.com/omarluq/termisu) - Minimalistic API for writing text-based user interfaces
 
 ## Validation
  * [accord](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects

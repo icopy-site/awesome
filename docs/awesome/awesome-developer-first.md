@@ -146,6 +146,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Tools that help in tracking bugs.*
 * [Lightrun](https://www.lightrun.com) - Debug production servers using a plugin in the IDE (on-prem or SaaS) that supports Java, Node.js, and Python.
 * [Linear](https://linear.app/) - Issue tracking built for developers.
+* [Multiplayer](https://www.multiplayer.app) - Debugging agent that runs locally next to your favorite coding agents (open source or SaaS), feeding them full-stack, unsampled runtime data to catch and fix bugs automatically.
 * [Rookout](https://www.rookout.com) - Debug production servers via a cloud-based debugger. Supporting Java, .Net, Node.js, Python, and Ruby.
 
 ## Deployment Hosting
