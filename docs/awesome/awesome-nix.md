@@ -281,6 +281,7 @@ A curated list of the best resources in the Nix community.
 * [NixOS hardware](https://github.com/NixOS/nixos-hardware) - NixOS profiles to optimize settings for different hardware.
 * [NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
 * [NixVim](https://github.com/nix-community/nixvim) - A Neovim distribution built with Nix modules and Nixpkgs.
+* [nvf](https://github.com/NotAShelf/nvf) - A portable, modular Neovim configuration framework for Nix.
 * [Self Host Blocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 * [Stylix](https://github.com/nix-community/stylix) - System-wide colorscheming and typography for NixOS.
@@ -309,7 +310,7 @@ A curated list of the best resources in the Nix community.
 ## Distributions
 
 * [nixbsd](https://github.com/nixos-bsd/nixbsd) - A NixOS fork with a FreeBSD kernel.
-* [NixNG](https://github.com/nix-community/NixNG) - A GNU/Linux distribution similar to NixOS, defining difference is a focus on containers and lightweightness.
+* [NixNG](https://github.com/nix-community/NixNG) - A GNU/Linux distribution similar to NixOS. The defining difference is a focus on containers and lightweightness.
 * [SnowflakeOS](https://snowflakeos.org/) - A NixOS-based Linux distribution focused on beginner friendliness and ease of use.
 
 ## Community
