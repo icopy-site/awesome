@@ -82,6 +82,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng new command generator](https://ng.gridatek.com/) - Generate optimized `ng new` commands.
 * [svger-cli](https://github.com/faezemohades/svger-cli) - A lightweight CLI that transforms SVGs into optimized Angular components with zero dependencies.
 * [tailwind-init-cli](https://github.com/ImLeoNova/tailwind-init-cli) - A one-command setup tool for Tailwind CSS in Angular, React, or Next.js projects!
+* [fanstack](https://github.com/PrestomediaLLC/fanstack) - A lightweight CLI and architecture that automatically watches your Firebase functions and generates a strictly typed Angular service.
 
 ### Deployment
 
@@ -100,6 +101,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@railwayapp-templates/angular-starter](https://github.com/railwayapp-templates/angular-starter) - One-click default Angular TS starter, utilizing Caddy to serve!
 * [angular-deploy-bunny](https://github.com/lostium/angular-deploy-bunny) - Angular Architect builder (`ng deploy`) that syncs your build to a Bunny.net CDN Storage Zone using SHA256 incremental diffing, then purges the corresponding Pull Zone.
 * [ngx-ssh-deploy](https://bitbucket.org/dkhang97/ngx-ssh-deploy/src/master/) - Deploy Angular projects using SSH.
+* [front-ready](https://github.com/czfabrics/front-ready) - Detects your Angular build settings, compiles the project, and uploads it to AWS S3 with optimized cache headers using a single command.
 
 ### Desktop Applications
 
@@ -1177,6 +1179,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [org-chart](https://github.com/bumbeishvili/org-chart) - Highly customizable org chart. Integrations available for Angular, React, and Vue.
 * [pioneer-charts](https://github.com/PioneerCode/pioneer-charts) - An Angular library for creating responsive, customizable charts using D3.js—supports bar, line, pie, and more.
 * [sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. Zero external dependencies.
+* [schedula-core-angular](https://github.com/RGabGH/schedula-core/tree/main/integrations/packages/angular) - Official Angular wrapper for [SchedulaCore](https://www.npmjs.com/package/schedula-core) — a fast, lightweight Gantt chart & resource scheduler component.
 * [systelab-charts](https://github.com/systelab/systelab-charts) - Systelab Angular Chart services.
 * [unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
 
@@ -2268,6 +2271,7 @@ for the creation of web applications developed with Angular.
 * [sio](https://github.com/silicia-apps/sio) - Silicia Framework: a fresh approach built upon Ionic, designed to streamline the development of hybrid applications and websites.
 * [UnReact.js](https://github.com/arnvjshi/unreactpjs) - A modern framework combining the best of Angular and React for enhanced component communication.
 * [use-vue-service](https://github.com/kaokei/use-vue-service) - Lightweight Vue 3 state management with dependency injection, inspired by Angular services.
+* [weave](https://github.com/weave-framework/weave) - A fine-grained reactive, signal-native UI framework.
 
 ## External Lists
 

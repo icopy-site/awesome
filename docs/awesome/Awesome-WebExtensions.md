@@ -45,7 +45,7 @@ Code meant become part of the extension.
 
 Apps that help you manage your extensions.
 
-- [Chrome Webstore Upload](https://github.com/fregante/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically).
+- [Chrome Webstore Upload](https://github.com/fregante/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on GitHub Actions, automatically).
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - Command line tool to help build, run, and test WebExtensions.
 - [chromepet](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
 - [chrome-ext-downloader](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
@@ -76,7 +76,7 @@ Apps that help you manage your extensions.
 
 ## Sample Extensions
 
-These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via Travis CI.
+These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via GitHub Actions.
 
 - [npmhub](https://github.com/npmhub/npmhub)
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github)
