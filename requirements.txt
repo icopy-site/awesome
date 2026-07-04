@@ -1,6 +1,9 @@
-mkdocs
-mkdocs-minify-plugin
-Pygments
-markdown
-pymdown-extensions
-mkdocs-material
+# Pinned documentation dependencies to avoid breaking changes
+# Update these pins intentionally. Run `pip install -r requirements.txt` locally
+# and adjust versions if you need newer releases.
+mkdocs==1.4.2
+mkdocs-minify-plugin==0.3.0
+Pygments==2.16.1
+Markdown==3.4.3
+pymdown-extensions==9.3
+mkdocs-material==9.1.10
