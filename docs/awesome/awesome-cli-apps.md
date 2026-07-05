@@ -589,6 +589,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [share](https://github.com/beavailable/share) - Share and receive files effortlessly over HTTP.
 - [shuk](https://shuk.rs) - Quicky share files using Amazon S3 buckets.
 - [croc](https://github.com/schollz/croc) - Easily send things from one computer to another.
+- [filecast](https://github.com/gistrec/filecast) - Fast file transfer to multiple machines on your LAN.
 
 ### Directory Listing
 
@@ -666,6 +667,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cli-github](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
 - [hub](https://github.com/github/hub) - Make git easier to use with GitHub.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
+- [gitfetch](https://github.com/Matars/gitfetch) - Neofetch-style stats of your git forge.
 
 ### Emoji
 
