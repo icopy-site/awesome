@@ -545,6 +545,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [KubeSwitch](https://www.kubeswitch.com/) - The fastest way to switch between Kubernetes contexts and namespaces on macOS. ![Freeware][Freeware Icon]
 * [Tabby (formerly Terminus)](https://github.com/Eugeny/tabby) - Free terminal tool, built with TypeScript, heavily inspired by Hyper. [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 * [Termius](https://www.termius.com/) - A beautiful SSH and SFTP client for Mac. It is also available for mobile. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/termius-terminal-ssh-client/id549039908?platform=mac)
+* [tty7](https://github.com/l0ng-ai/tty7) - A GPU-rendered, daemon-backed terminal in pure Rust with sessions that stay alive without tmux. [![Open-Source Software][OSS Icon]](https://github.com/l0ng-ai/tty7) ![Freeware][Freeware Icon]
 * [Vesta](https://github.com/vestaterm/Vesta) - Native macOS terminal built on libghostty for running coding agents in parallel. [![Open-Source Software][OSS Icon]](https://github.com/vestaterm/Vesta) ![Freeware][Freeware Icon]
 * [Warp](https://www.warp.dev) - Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app. [![Open-Source Software][OSS Icon]](https://www.github.com/warpdotdev/warp)
 * [Wave](https://github.com/wavetermdev/waveterm) - Open-source terminal with built-in file previews, web browsing, and AI tools. [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
@@ -731,12 +732,14 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [RecurseChat](https://recurse.chat) - Local-first AI chat app with customizable workflows.
 * [Runtime](https://github.com/runtime-org/runtime) - AI taskmate and take control of the web & your office tools
 * [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - Track Claude Code usage, rate limits, costs, and activity heatmaps. [![Open-Source Software][OSS Icon]](https://github.com/Priyans-hu/tokenmeter) ![Freeware][Freeware Icon]
+* [TokenTracker](https://www.tokentracker.cc) - Local-first menu bar app and CLI that tracks token usage and cost across 20+ AI coding tools. [![Open-Source Software][OSS Icon]](https://github.com/mm7894215/TokenTracker) ![Freeware][Freeware Icon]
 * [Usage4Claude](https://github.com/f-is-h/Usage4Claude) - Real-time monitoring of Claude usage quotas across time windows and plans. [![Open-Source Software][OSS Icon]](https://github.com/f-is-h/Usage4Claude) ![Freeware][Freeware Icon]
 * [Jan](https://jan.ai/) - An open-source alternative to ChatGPT that runs entirely offline on your computer. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
 * [Maestro](https://runmaestro.ai) - Multi-agent AI coding tool with spec-driven workflows. [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 * [MiniClaw](https://miniclaw.bot) - Local-first personal AI agent with memory and automation tools. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/augmentedmike/miniclaw-os)
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - Private, local-first AI for your Mac: local LLM chat, image generation, voice dictation, and memory search, all on-device. [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - MCP server that connects AI assistants to Apple apps.
+* [Prevail](https://prevail.sh) - Local-first AI life OS: any model per life-domain over a plain-markdown vault on your Mac. Signed and notarized. [![Open-Source Software][OSS Icon]](https://github.com/fru-dev3/prevail-desktop) ![Freeware][Freeware Icon]
 * [Witsy](https://github.com/nbonamy/witsy) - desktop AI assistant / universal MCP client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
 * [remio](https://www.remio.ai/?utm_source=github_list) - Local-first AI chat client that answers from your knowledge base.  [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
 * [Warden](https://karatsidhu.gumroad.com/l/warden) - A Native Swift macOS app that lets you run multiple LLM models using your own API keys. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/SidhuK/WardenApp)
@@ -978,7 +981,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Orion](https://browser.kagi.com/) - Lightweight WebKit-based browser with support for Chrome and Firefox extensions. ![Freeware][Freeware Icon]
 * [qutebrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on Python and Qt. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qutebrowser/qutebrowser)
 * [Safari](https://www.apple.com/safari/) - Native browser for Macs. ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
-* [Station](https://getstation.com/) - An open-source browser providing a single place for all of your web applications. [![Open-Source Software][OSS Icon]](https://github.com/getstation/desktop-app/) ![Freeware][Freeware Icon]
 * [Tabbit](https://tabbitbrowser.com/) - An AI-native browser that understands your context, chats with webpages, and automates tasks. ![Freeware][Freeware Icon]
 * [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - Privacy browser designed for anonymous web browsing. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/tor-browser/)
 * [Mullvad Browser](https://mullvad.net/en/download/browser/) - Privacy browser focused on anti-fingerprinting protection. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)
@@ -1113,6 +1115,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Anvil](https://anvilformac.com/) - Tool for serving local static sites and Rack apps with simple URLs. ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com) - Organize or hide menu bar icons on your Mac.
+* [cctop](https://cctop.app) - Open-source menu bar monitor that shows live status for AI coding sessions (Claude Code, Codex, opencode, pi) and jumps to the right terminal pane or editor window. [![Open-Source Software][OSS Icon]](https://github.com/st0012/cctop) ![Freeware][Freeware Icon]
 * [ChargeMonitor](https://github.com/CrashSystemZ/ChargeMonitor) - Menu bar battery monitor with real-time charging stats and energy impact insights. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CrashSystemZ/ChargeMonitor)
 * [CodexIsland](https://github.com/ericjypark/codex-island) - Turns the MacBook notch into a Dynamic Island-style live activity for Claude Code and Codex CLI rate limits and spend, computed locally with no telemetry. [![Open-Source Software][OSS Icon]](https://github.com/ericjypark/codex-island) ![Freeware][Freeware Icon]
 * [SaneBar](https://sanebar.com) - Privacy-first menu bar manager with hidden zones and automation rules. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar) ![Freeware][Freeware Icon]
@@ -1336,6 +1339,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Trello](https://trello.com) - A collaboration tool that organizes your projects into Kanban boards.![Freeware][Freeware Icon][![App Store][app-store Icon]](https://apps.apple.com/app/trello/id1278508951?ls=1&platform=mac)
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode Keyboard Layout Editor.
 * [Velja](https://sindresorhus.com/velja) - Browser picker that lets you open links in a specific browser or a desktop app.  [![App Store][app-store Icon]](https://apps.apple.com/app/id1607635845?platform=mac)
+* [Wox](https://wox-launcher.github.io/Wox/) - Open-source cross-platform launcher with fast local search and plugin extensibility. [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox) ![Freeware][Freeware Icon]
 * [xScope](http://xscopeapp.com/) - Toolset for measuring, inspecting, and testing on-screen layouts and graphics.
 * [Z](https://github.com/rupa/z) - Jump to frequently used directories by typing part of the path.
 

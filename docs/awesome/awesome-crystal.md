@@ -119,6 +119,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [envyable](https://github.com/philnash/envyable.cr) -  A simple YAML to ENV config loader
  * [habitat](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules
  * [totem](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats
+ * [typed_env_config](https://github.com/systatum/typed_env_config) - Load type-safe configuration from YAML/dotenv with ENV overrides
  * [ucl.cr](https://github.com/jbox-web/ucl.cr) - Bindings to [libucl](https://github.com/vstakhov/libucl), load, dump and validate UCL/JSON configuration
 
 ## Converters

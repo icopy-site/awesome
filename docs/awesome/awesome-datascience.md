@@ -1081,6 +1081,7 @@ Some data mining competition platforms
 
 - [Academic Torrents](https://academictorrents.com/)
 - [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.
+- [Chinese Tea Dataset](https://chinatea.house/dataset/) - Curated open dataset of 100+ Chinese teas with category, origin, caffeine level, flavor notes, oxidation, and brewing parameters. Available as JSON and CSV.
 - [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - Structured dataset tracking 92 AI-attributed workforce reduction events affecting 453,748 workers across 12 countries and 11 sectors. JSON and CSV formats. CC-BY-4.0 licensed.
 - [Packrift Packaging Optimization Benchmark Corpus](https://packrift.github.io/packaging-optimization-benchmark-corpus/) - Public packaging product dataset generated from 1,000 exact-spec SKU records, with downloadable CSV and JSON files for ecommerce fulfillment and warehouse analysis.
 - [hadoopilluminated.com](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
@@ -1154,6 +1155,7 @@ Some data mining competition platforms
 - [latamdata-py](https://github.com/juanmoisesd/latamdata-py) - Python package for one-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). pip install latamdata-py.
 - [ZipCheckup](https://github.com/artakulov/us-water-quality-data) - Free ZIP-level environmental safety data for 42,000+ US ZIP codes: water quality, air quality, PFAS contamination, radon, lead, flood risk, and 11 more verticals. Public REST API, npm/PyPI packages, CC BY 4.0.
 - [Helium](https://heliumtrades.com/mcp-page/) - Real-time news corpus with structured bias features across 15+ dimensions (3.2M+ articles, 5,000+ sources), live financial market data (stocks, ETFs, crypto) with AI-generated analysis, ML options pricing with probability metrics and full Greeks, historical options chain data for quantitative research; available via MCP server or REST API.
+- [Verified Supplement Evidence](https://github.com/erinheit451/verified-supplement-evidence) - Evidence-graded dietary-supplement dataset covering dosing, bioavailability by form, drug-nutrient interactions, NHANES deficiency prevalence, FDA FAERS adverse-event signals, and cost-per-effective-dose, with every clinical claim citing a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
 
 
 ### Comics

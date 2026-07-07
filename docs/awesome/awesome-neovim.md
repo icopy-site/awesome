@@ -119,6 +119,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
 - [artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
 - [Kurama622/clean-diagnostic](https://github.com/Kurama622/clean-diagnostic) - Display diagnostic count using virtual text, and show diagnostic details in a floating window.
+- [tumillanino/semgrep.nvim](https://github.com/tumillanino/semgrep.nvim) - Lightweight Semgrep static analysis integration to catch bugs and vulnerabilities.
 <!--lint disable double-link -->
 <!--lint enable double-link -->
 
@@ -1110,6 +1111,7 @@ then it is not supported:
 - [wsdjeg/code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) - Async code runner with range support.
 - [mikeboiko/nvim-flow](https://github.com/mikeboiko/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
 - [negativo/nx-nvim](https://github.com/negativo/nx-nvim) - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
+- [lewistg/pesto.nvim](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its _Build Event Protocol_ to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 <!--lint disable double-link -->
 <!--lint enable double-link -->
 

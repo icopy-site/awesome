@@ -92,6 +92,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
 - Pre-trained Models and Inference
   - [diffusers](https://github.com/huggingface/diffusers) - A library that provides pre-trained diffusion models for generating and editing images, audio, and video.
   - [LiteLLM](https://github.com/BerriAI/litellm) - Call 100+ LLMs using OpenAI format.
+  - [liter-llm](https://github.com/xberg-io/liter-llm) - A universal LLM API client with a Rust core, calling 142+ providers through a single OpenAI-compatible interface, with a built-in proxy and MCP server.
   - [mlx-lm](https://github.com/ml-explore/mlx-lm) - Run and fine-tune large language models on Apple Silicon with MLX.
   - [sglang](https://github.com/sgl-project/sglang) - A high-performance serving framework for large language models and multimodal models.
   - [transformers](https://github.com/huggingface/transformers) - A framework that lets you easily use pre-trained transformer models for NLP, vision, and audio tasks.
@@ -125,7 +126,7 @@ _Libraries for Machine Learning. Also see [awesome-machine-learning](https://git
 - [mindsdb](https://github.com/mindsdb/minds) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 - [pgmpy](https://github.com/pgmpy/pgmpy) - A Python library for probabilistic graphical models and Bayesian networks.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - The most popular Python library for Machine Learning with extensive documentation and community support.
-- - [scikit-lego](https://github.com/koaning/scikit-lego) - A collection of lego bricks for scikit-learn pipelines.
+- [scikit-lego](https://github.com/koaning/scikit-lego) - A collection of lego bricks for scikit-learn pipelines.
 - [spark.ml](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/)'s scalable [Machine Learning library](https://spark.apache.org/docs/latest/ml-guide.html) for distributed computing.
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs, Diffusion Models, and LLMs.
 - [timesfm](https://github.com/google-research/timesfm) - A pretrained foundation model from Google Research for time-series forecasting.
@@ -149,6 +150,7 @@ _Libraries for working with human languages._
 _Libraries for Computer Vision._
 
 - [easyocr](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported.
+- [fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models.
 - [kornia](https://github.com/kornia/kornia/) - Open Source Differentiable Computer Vision Library for PyTorch.
 - [opencv](https://github.com/opencv/opencv-python) - Open Source Computer Vision Library.
 - [pytesseract](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).

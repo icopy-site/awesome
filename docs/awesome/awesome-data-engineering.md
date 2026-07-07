@@ -79,6 +79,7 @@
   - [DuckDB](https://duckdb.org/) - A fast in-process analytical database that has zero external dependencies, runs on Linux/macOS/Windows, offers a rich SQL dialect, and is free and extensible.
   - [SlothDB](https://github.com/SouravRoy-ETL/slothdb) - In-process analytical SQL database written in C++20. Reads Parquet, CSV, JSON, Avro, Arrow, SQLite, and Excel directly. Single binary, Python package, and 1.3 MB WASM build for the browser.
   - [chDB](https://chdb.io) - Embedded ClickHouse — full ClickHouse SQL dialect, ~80 data formats, and 12+ source connectors (S3, Postgres, MongoDB, Kafka, Iceberg) in core. Python, Go, Rust, Node, Bun, Zig, and Ruby bindings.
+  - [zvec](https://github.com/alibaba/zvec) - An embedded vector database for on-device RAG and edge AI, the SQLite of vector databases.
 
 ## Data Comparison
 
@@ -92,6 +93,7 @@
 
 - [DataSpoc Pipe](https://github.com/dataspoclab/dataspoc-pipe) - Data ingestion engine that connects 400+ Singer taps to Parquet files in cloud buckets (S3, GCS, Azure). Streaming, incremental, with auto-catalog.
 - [Enrich.sh](https://enrich.sh) - Managed event ingestion service that converts JSON sent to a REST API into Hive-partitioned Parquet on Cloudflare R2, queryable from DuckDB, ClickHouse, BigQuery, Snowflake, and Python.
+- [enrich-companies](https://github.com/Alessandro114/enrich-companies) - CLI tool to enrich CSV files with company data (financials, contacts, metadata) from 250M+ company records. Available on [npm](https://www.npmjs.com/package/enrich-companies).
 - [ingestr](https://github.com/bruin-data/ingestr) - CLI tool to copy data between databases with a single command. Supports 50+ sources including PostgreSQL, MySQL, MongoDB, Salesforce, Shopify to any data warehouse.
 - [Kafka](https://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
   - [BottledWater](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka. Deprecated.
@@ -244,10 +246,11 @@
 - [QueryGPT](https://github.com/MKY508/QueryGPT) - Natural language database query interface with automatic chart generation, supporting Chinese and English queries.
 - [AI for Database](https://aifordatabase.com/) - Agentic AI platform to connect any database (PostgreSQL, MySQL, MongoDB, etc.) and query in plain English; includes self-refreshing intelligent dashboards and action workflows triggered by data changes.
 - [Dekart](https://github.com/dekart-xyz/dekart) - Open-source SQL to map platform for BigQuery, Snowflake, and PostGIS.
+- [LunaPad](https://lunapad.dev/) - Open-source analytics notebook for reusable SQL workflows, interactive reports, and AI-assisted data exploration.
 
 ## Workflow
 
-- [Bonnard](https://bonnard.dev/) - Agent-native semantic layer with governed metrics, React SDK, and multi-warehouse support. Connects AI agents and dashboards to a single source of truth.
+- [Bonnard](https://bonnard.dev/) - Governed, multi-tenant MCP access to your customers' data. Turn your warehouse, dbt, or semantic layer into a secure, per-customer MCP for AI agents.
 - [OrionBelt Semantic Layer](https://github.com/ralfbecher/orionbelt-semantic-layer) - Open-source semantic sidecar that compiles YAML-defined dimensions, measures, and metrics into optimized SQL across 8 engines (BigQuery, ClickHouse, Databricks, Dremio, DuckDB, MySQL, PostgreSQL, Snowflake). Unified REST, MCP, and Postgres wire protocol; one model powers AI agents, analytics, DQ rules, and KPIs.
 - [Bruin](https://github.com/bruin-data/bruin) - End-to-end data pipeline tool that combines ingestion, transformation (SQL + Python), and data quality in a single CLI. Connects to BigQuery, Snowflake, PostgreSQL, Redshift, and more. Includes VS Code extension with live previews.
 - [DataFlow](https://github.com/OpenDCAI/DataFlow) - Open-source platform for data preparation, synthetic data generation, and AI/data pipelines. Includes reusable skills for automating workflow steps across data and AI tasks.
@@ -268,6 +271,7 @@
 - [Kestra](https://github.com/kestra-io/kestra) - Scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
 - [RudderStack](https://github.com/rudderlabs/rudder-server) - A warehouse-first Customer Data Platform that enables you to collect data from every application, website and SaaS platform, and then activate it in your warehouse and business tools.
 - [PACE](https://github.com/getstrm/pace) - An open source framework that allows you to enforce agreements on how data should be accessed, used, and transformed, regardless of the data platform (Snowflake, BigQuery, DataBricks, etc.)
+- [OneQuery](https://github.com/wordbricks/onequery) - Self-hosted gateway for safe, auditable queries for agents across approved data sources.
 - [Prefect](https://prefect.io/) - An orchestration and observability platform. With it, developers can rapidly build and scale resilient code, and triage disruptions effortlessly.
 - [Multiwoven](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform for modern data teams.
 - [SuprSend](https://www.suprsend.com/products/workflows) - Create automated workflows and logic using API's for your notification service. Add templates, batching, preferences, inapp inbox with workflows to trigger notifications directly from your data warehouse.
@@ -323,6 +327,7 @@
 - [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite of US household cost burdens (housing, taxes, childcare, healthcare, transport) aggregated from Census ACS, BLS Consumer Expenditure Survey, and HUD Fair Market Rents. Open methodology, free, no email gate.
 - [FirstData](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 160+ curated sources from governments, international organizations, and research institutions with MCP integration.
 - [Mindweave Synthetic Business Data](https://github.com/MindweaveTech/sme-sim-sample) - 42-table synthetic SME dataset with double-entry accounting, tax compliance (AU/US/UK), and temporal realism. CSV, SQL, Parquet, SQLite. Ideal for ETL pipeline testing.
+- [LatAm Synth](https://apify.com/jmendozapuche/latam-synth) - Synthetic financial savings behavior generator for Latin America: users, savings goals, and transactions calibrated on 506K real records (2015–2024). Reproducible by seed, 100% synthetic.
 
 ## Monitoring
 
@@ -338,6 +343,11 @@
 - [Data Profiler](https://github.com/capitalone/dataprofiler) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
 - [YData Profiling](https://docs.profiling.ydata.ai/latest/) - A general-purpose open-source data profiler for high-level analysis of a dataset.
 - [Desbordante](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
+
+
+## Schema
+
+- [SchemaCrawler](https://www.schemacrawler.com/) - Open-source and free relational database schema discovery and comprehension tool. Documents and diagrams relational database schemas from your Java programs, build tools and the command line. Find database design issues with lint, and write scripts against the database. Includes an MCP Server for use by AI agents.
 
 
 ## Testing

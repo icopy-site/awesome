@@ -85,6 +85,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 
 ### Audio and Music
 
+* [AreevAI/flowcat](https://github.com/AreevAI/flowcat) - Native-Rust runtime for real-time voice AI agents (phone + WebRTC), self-hosted single binary, pipecat-compatible
 * [dano](https://github.com/kimono-koans/dano) - A hashdeep/md5tree (but much more) for media files
 * [enginesound](https://github.com/DasEtwas/enginesound) - A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
 * [Festival](https://github.com/hinto-janai/festival) - A local music player/server/client [![build-badge](https://github.com/hinto-janai/festival/actions/workflows/ci.yml/badge.svg)](https://github.com/hinto-janai/festival/actions/workflows/ci.yml)
@@ -439,6 +440,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [tw93/Pake](https://github.com/tw93/Pake) - Turn any webpage into a desktop app with one command using Rust and Tauri. Lightweight, fast, and supports macOS, Windows, and Linux.
 * [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - Lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools (Cursor, Claude Code, Codex, Copilot, etc.) with Tauri 2, Rust backend, and Git backup support.
 * [yashs662/rust_kanban](https://github.com/yashs662/rust_kanban) [[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg)](https://github.com/yashs662/rust_kanban/releases) - A Kanban App for the terminal
+* [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting assistant that captures, transcribes, and summarizes meetings entirely on your local machine. Features real-time transcription with Whisper/Parakeet models, AI-powered summaries, and support for multiple AI providers (Ollama, Claude, Groq, OpenAI)
 
 ### Routing protocols
 
@@ -844,6 +846,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * Docker
   * [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
   * [kpcyrd/mini-docker-rust](https://github.com/kpcyrd/mini-docker-rust) - An example project for very small rust docker images
+  * [lenra-io/dofigen](https://github.com/lenra-io/dofigen) [[dofigen](https://crates.io/crates/dofigen/)] - Dockerfile generator using a simplified description in YAML or JSON format ![Rust CI](https://github.com/lenra-io/dofigen/actions/workflows/build_ci.yml/badge.svg)
   * [liuchong/docker-rustup](https://github.com/liuchong/docker-rustup) - A multiple version (with musl tools) Rust Docker image
   * [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
   * [moghtech/komodo](https://github.com/moghtech/komodo) - A tool to build and deploy software across many servers, with a web UI, API, and no server limits
@@ -1423,6 +1426,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * [fizyk20/generic-array](https://github.com/fizyk20/generic-array) - a hack to allow for arrays sized by typenums
 * [garro95/priority-queue](https://github.com/garro95/priority-queue)[[priority-queue](https://crates.io/crates/priority-queue)] - A priority queue that implements priority changes.
 * [greyblake/nutype](https://github.com/greyblake/nutype) [[nutype](https://crates.io/crates/nutype)] - define newtype structures with validation constraints. [![build status](https://github.com/greyblake/nutype/actions/workflows/ci.yml/badge.svg)](https://github.com/greyblake/nutype/actions)
+* [mikwielgus/undoredo](https://github.com/mikwielgus/undoredo) [[undoredo](https://crates.io/crates/undoredo)] - Undo/Redo pattern implementation for arbitrary data structures. Supports delta-based (sparse diffs), snapshot-based, and command-based undo-redo with derive macros for custom types. Compatible with no_std and serde. [![Crates.io](https://img.shields.io/crates/v/undoredo.svg)](https://crates.io/crates/undoredo)
 * [mrhooray/kdtree-rs](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree for fast geospatial indexing and nearest neighbors lookup
 * [orium/rpds](https://github.com/orium/rpds) [[rpds](https://crates.io/crates/rpds)] - Persistent data structures. [![build badge](https://github.com/orium/rpds/workflows/CI/badge.svg)](https://github.com/orium/rpds/actions?query=workflow%3ACI)
 * [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs) - Roaring Bitmaps

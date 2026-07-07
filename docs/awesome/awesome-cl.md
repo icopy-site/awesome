@@ -96,6 +96,7 @@ Credit: borretti.me's [State of CL Ecosystem 2015](http://borretti.me/article/co
 ## Expert Systems
 
 * [Lisa](https://github.com/youngde811/Lisa) - a production-quality, forward-chaining expert system shell featuring an optimized implementation of Charles Forgy's Rete algorithm, a highly efficient solution to the difficult many-to-many pattern matching problem. MIT.
+  * [Lisa 4.0.0](https://github.com/youngde811/Lisa/releases/tag/v4.0.0): hybrid Symbolic/LLM Support that integrates Anthropic's Claude with Lisa's symbolic reasoning engine.
 * [WouldWork](https://github.com/davypough/wouldwork) - solve classical planning and constraint satisfaction problems without extensive programming experience. BSD_3Clause.
 
 ## Educational
@@ -848,7 +849,7 @@ Experimental:
 CLOS extensions
 ---------------
 
-* ⭐ [closer-mop](https://github.com/pcostanza/closer-mop) - A compatibility layer that rectifies many absent or incorrect MOP features. [Expat][14].
+* ⭐ [closer-mop](https://codeberg.org/pcostanza/closer-mop) - A compatibility layer that rectifies many absent or incorrect MOP features. [Expat][14].
 * [specialization-store](https://github.com/markcox80/specialization-store/) - generic functions based on types. Simplified BSD License variant.
 * [filtered-functions](https://github.com/pcostanza/filtered-functions) - enable the use of arbitrary predicates for selecting and applying methods. [MIT][200].
 * [inlined-generic-function](https://github.com/guicho271828/inlined-generic-function) -
@@ -2077,6 +2078,8 @@ Caching (serialization)
   - dare we add: used in production by the author's company (ASTN Group, see [awesome-lisp-companies](https://github.com/azzamsa/awesome-lisp-companies/))
 * 🚀 [cl-binary-store](https://github.com/ajberkley/cl-binary-store) -  A fast Common Lisp binary serializer/deserializer. BSD_3Clause. See [reddit announce](https://www.reddit.com/r/Common_Lisp/comments/1hz5879/new_binary_serializationdeserialization_library/) (2025).
   * "A super fast and customizable serializer/deserializer of Common Lisp objects to/from a very compact binary format. Equality of objects, circular references, and the full Common Lisp type system are supported. Specialized arrays (on SBCL) are stored/restore at lightning speed."
+- [cl-marshal](https://github.com/wlbr/cl-marshal) - Simple and fast serialization of all kinds of Common Lisp data structures. MIT.
+  * Only minimal changes required to make your CLOS objects serializable.
 
 See also the [Persistent object databases](#persistent-object-databases) section.
 

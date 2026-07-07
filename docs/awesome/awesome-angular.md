@@ -523,6 +523,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-ai-devtools](https://github.com/ahmedkhan1/ngx-ai-devtools) -  See every prompt, response, token, and dollar your app spends without leaving the browser tab.
 * [ngx-bob](https://github.com/scottstraughan/ngx-bob) - Angular chat widget with messaging, local history, error handling, commands, and search.
 * [ngx-prompt-kit](https://github.com/PianoNic/ngx-prompt-kit) - Angular components for AI chat interfaces, built on Spartan UI.
+* [ngx-testbox-agent-skill](https://github.com/kirill-kolomin/ngx-testbox-agent-skill) - AI Agent skill for the `ngx-testbox` testing package.
 * [PureCode AI](https://purecode.ai/components/angular/application-ui) - Build Angular application UIs 50% faster with PureCode AI.
 * [reangular](https://github.com/AleksanderBodurri/reangular) - A coding-agent skill that converts a React library into a modern Angular library with full feature parity, automated browser validation, and a side-by-side parity review.
 * [repomix](https://github.com/yamadashy/repomix) - A tool that packs your entire repository into a single, AI-friendly file.
@@ -648,6 +649,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [swaggular](https://github.com/AlexMA2/swaggular) - A tool to generate Angular services and models from Swagger/OpenAPI specifications.
 * [prism](https://github.com/arclight-digital/prism) - Auto-generate framework wrappers (React, Vue, Svelte, Angular, Solid, Preact) and HTML/CSS examples from Lit web components.
 * [momentum-cms](https://github.com/DonaldMurillo/momentum-cms) - An Angular-based headless CMS. Define collections in TypeScript, auto-generate an Admin UI, REST API, and database schema.
+* [ng-openapi-signals](https://github.com/ynnckrkn/ng-openapi-signals) - Signal-first OpenAPI client generator for Angular using `resource()` and `fetch()`.
 
 ### Internationalization
 
@@ -1824,6 +1826,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-dynamic-search](https://github.com/mustafaer/ngx-dynamic-search) - Angular pipe designed for dynamic, deep search filtering across complex nested objects and arrays.
 * [ngx-name-capitalize](https://github.com/gabo2151/ngx-name-capitalize) - Angular pipe for name capitalization that formats compound surnames, linguistic particles, hyphenated names, apostrophes, and Unicode characters.
 * [ngx-transforms](https://github.com/mofirojean/ngx-transforms) - 90+ standalone, tree-shakable pipes for strings, numbers, dates, arrays, objects, and more.
+* [@unirate/angular](https://github.com/UniRate-API/angular-unirate) - Angular pipes (`currencyRate`, `currencyConvert`) and `UniRateService` (Observable-based) for live currency exchange rates from the [UniRate](https://unirateapi.com) API. Supports Angular 16–22 with `UniRateModule.forRoot()` or `provideUniRate()`.
 
 ### Printing
 
@@ -1859,6 +1862,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ui-router](https://github.com/ui-router/angular) - State-based routing in Angular is enabled through [UI-Router for Angular](https://ui-router.github.io).
 * [ngx-url-params](https://github.com/shlomog12/ngx-url-params) - Lightweight Angular service for managing and synchronizing URL query parameters with a concise, reactive API.
 * [ngx-history](https://github.com/lumentut/ngx-history) - Modern Angular navigation history service with reactive programming support.
+* [angular-typed-router](https://github.com/dominicbachmann/angular-typed-router) - Type‑safe Angular navigation from a single Routes array, yielding inferred path unions and typed navigate tuples with zero codegen or runtime cost.
 
 ### Scroll
 
@@ -1912,11 +1916,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [popover](https://github.com/ncstate-sat/popover) - Angular popover component.
 * [ngx-tooltip-directives](https://github.com/mkeller1992/ngx-tooltip-directives) - Library with three tooltip directives (string, HTML, template), inspired by [ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive).
-* [angular-tooltip](https://github.com/babybeet/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.
+* [@babybeet/angular-tooltip](https://github.com/babybeet/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.
 * [ngx-tippy-wrapper](https://github.com/farengeyt451/ngx-tippy-wrapper) - Angular wrapper for [Tippy.js](https://github.com/atomiks/tippyjs).
-* [angular-tooltip](https://github.com/lazycuh/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.
+* [@lazycuh/angular-tooltip](https://github.com/lazycuh/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.
 * [ngx-overlay](https://github.com/bastienmoulia/ngx-overlay) - Lightweight Angular library for modern CSS/HTML overlays—modals, tooltips, and popups—browser‑compatible and elegant.
 * [ngx-smart-tooltip](https://github.com/techasif/ngx-smart-tooltip) - A lightweight, customizable tooltip library for Angular 18 that uses signals, the Web Animations API, and OnPush change detection.
+* [angular-tooltips](https://github.com/h-k-dev/angular-tooltips) - Modern, lightweight Angular tooltips using a single CSS‑anchored popover element with no overlays, no scroll listeners, and no per‑trigger DOM.
 
 ### UI Libraries
 
@@ -1988,6 +1993,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [kanso-protocol](https://github.com/GregNBlack/kanso-protocol) - Open‑source, cross‑framework design system with W3C DTCG tokens, Web Components, and an AI‑ready MCP server — built around kanso (簡素), the discipline of removing the unnecessary.
 * [frame-ui](https://github.com/Gamekohl/frame-ui) - A customizable Angular component library built around modern primitives.
 * [coss-ui-angular](https://github.com/lordsarcastic/coss-ui-angular) - Accessible Angular components inspired by the public [COSS UI catalogue](https://www.coss.com/ui/docs).
+* [OpenMFP Web Components Library](https://github.com/openmfp/webcomponents) - A modern Angular 21 web components library featuring declarative UI components built with the latest signal-based APIs.
 
 ### UI Libraries built on Bootstrap
 

@@ -53,7 +53,7 @@ _Tools that handle the build cycle and dependencies of an application._
 - [Bazel](https://bazel.build) - Tool from Google that builds code quickly and reliably.
 - [Buck2](https://github.com/facebook/buck2) - Encourages the creation of small, reusable modules consisting of code and resources.
 - [Gradle](https://gradle.org) - Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
-
+- [jar-cart](https://github.com/Sudhanshu-Ambastha/jar-cart) - A modern, zero-configuration package manager and runner for the Java ecosystem written in Go, focusing on developer productivity and build speed.
 - [ReleaseRun](https://releaserun.com) - Dependency health checker for pom.xml and Gradle projects that scans for CVEs and outdated packages.
 ### Bytecode Manipulation
 
@@ -973,6 +973,7 @@ _Frameworks specifically for creating RESTful services._
 - [Elide](https://elide.io) - Opinionated framework for JSON- or GraphQL-APIs based on a JPA data model.
 - [Jersey](https://jersey.github.io) - JAX-RS reference implementation.
 - [Microserver](https://github.com/aol/micro-server) - Convenient, extensible microservices plugin system for Spring & Spring Boot. With more than 30 plugins and growing, it supports both micro-monolith and pure microservices styles.
+- [OfficeFloor](https://github.com/officefloor/OfficeFloor) - Spring Boot add-on that adds explicit function orchestration to REST endpoints, with each endpoint's steps, branches and error flows in one YAML file whose directory path maps to the URL.
 - [Rapidoid](https://www.rapidoid.org) - Simple, secure and extremely fast framework consisting of an embedded HTTP server, GUI components and dependency injection.
 - [rest.li](https://github.com/linkedin/rest.li) - Framework for building robust, scalable RESTful architectures using typesafe bindings and asynchronous, non-blocking IO with an end-to-end developer workflow that promotes clean practices, uniform interface design and consistent data modeling.
 - [RESTEasy](https://resteasy.github.io) - Fully certified and portable implementation of the JAX-RS specification.
