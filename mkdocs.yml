@@ -26,7 +26,6 @@ nav:
     - Cordova: awesome/awesome-cordova.md
     - React Native: awesome/awesome-react-native.md
     - Xamarin: awesome/awesome-xamarin.md
-    - Xamarin_sub: 
       - Containers: awesome/awesome-linux-containers.md
       - eBPF: awesome/awesome-ebpf.md
       - Arch-based Projects: awesome/Awesome-Arch.md
