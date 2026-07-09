@@ -48,9 +48,9 @@ One of the most recommended modern Go books, praised by experts at Datadog and a
 
 -----
 
-### [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
+### [100 Go Mistakes and How to Avoid Them](https://amzn.to/4p8eldS)
 
-<a href="https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/100-go-mistakes-and-how-to-avoid-them.png" width="120px"/></a>
+<a href="https://amzn.to/4p8eldS"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/100-go-mistakes-and-how-to-avoid-them.png" width="120px"/></a>
 
 *Last published*: **2022**
 *Authors:* **Teiva Harsanyi**
@@ -115,9 +115,9 @@ A highly popular niche book that combines Go with security and penetration testi
 
 -----
 
-### [Efficient Go: Data-Driven Performance Optimization](https://www.amazon.com/Efficient-Go-Data-Driven-Performance-Optimization/dp/1098105710)
+### [Efficient Go: Data-Driven Performance Optimization](https://amzn.to/4ycxS0Q)
 
-<a href="https://www.amazon.com/Efficient-Go-Data-Driven-Performance-Optimization/dp/1098105710"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/efficient-go.jpg" width="120px"/></a>
+<a href="https://amzn.to/4ycxS0Q"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/efficient-go.jpg" width="120px"/></a>
 
 *Last published*: **2022**
 *Authors:* **Bartlomiej Płotka, Frederic Branczyk**
@@ -187,7 +187,7 @@ Introduces the Go programming language for complete beginners, as well as those 
 
 -----
 
-### [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](hhttps://amzn.to/4ceJWWQ)
+### [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](https://amzn.to/4ceJWWQ)
 
 *Last published*: **2024**
 *Authors:* **Jon Bodner**
@@ -279,7 +279,7 @@ With my book, Go Faster, you can shorten your learning curve and become a profic
 *Authors:* **Joel Holmes**
 
 
-<a href="https://amzn.to/4ra6o8q"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/efficient-go.jpg" alt="Picture of book cover for Shipping Go" width="120px"/></a>
+<a href="https://amzn.to/4ra6o8q"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/shipping-go.jpg" alt="Picture of book cover for Shipping Go" width="120px"/></a>
 
 You know how to build Go programs—now learn how to ship them to your customers efficiently! This practical guide to continuous delivery shows you how to rapidly establish an automated pipeline that will improve your testing, code quality, and final product.
 
@@ -466,9 +466,9 @@ Widely regarded as the definitive guide to Go programming, this book offers an i
 
 ## Advanced Books
 
-### [Go at Scale: Patterns for Professional Development](https://rezmoss.com/go-at-scale/)
+### [Go at Scale: Patterns for Professional Development](https://amzn.to/4wDN5Xn)
 
-<a href="https://rezmoss.com/go-at-scale/"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/go-at-scale.jpg" width="120px"/></a>
+<a href="https://amzn.to/4wDN5Xn"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/go-at-scale.jpg" width="120px"/></a>
 
 *Last published*: **2025**
 *Authors:* ****
@@ -490,9 +490,9 @@ Even more importantly, the book teaches you how to _think_ like a master softwar
 
 -----
 
-### [Build an Orchestrator in Go](https://www.manning.com/books/build-an-orchestrator-in-go)
+### [Build an Orchestrator in Go](https://amzn.to/4bjptyT)
 
-<a href="https://www.manning.com/books/build-an-orchestrator-in-go"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/build-an-orchestrator-in-go.png" width="120px"/></a>
+<a href="https://amzn.to/4bjptyT"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/build-an-orchestrator-in-go.png" width="120px"/></a>
 
 *Last published*: **2024**
 *Authors:* **Tim Boring**
@@ -535,9 +535,9 @@ The main goal of this book is to help developers avoid common mistakes while at 
 
 -----
 
-### [Network Automation with Go](https://www.packtpub.com/en-us/product/network-automation-with-go-9781800560925)
+### [Network Automation with Go](https://amzn.to/4pd0mDM)
 
-<a href="https://www.packtpub.com/en-us/product/network-automation-with-go-9781800560925"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/network-automation-with-go.jpg" width="120px"/></a>
+<a href="https://amzn.to/4pd0mDM"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/network-automation-with-go.jpg" width="120px"/></a>
 
 *Last published*: **2023**
 *Authors:* ****
@@ -546,8 +546,8 @@ Go's built-in first-class concurrency mechanisms make it an ideal choice for lon
 
 -----
 
-### [Microservices with Go](https://www.packtpub.com/product/microservices-with-go/9781804617007)
-<a href="https://www.packtpub.com/product/microservices-with-go/9781804617007"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/microservices-with-go.jpg" width="120px"/></a>
+### [Microservices with Go](https://amzn.to/4f6I2aH)
+<a href="https://amzn.to/4f6I2aH"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/microservices-with-go.jpg" width="120px"/></a>
 
 *Last published*: **2022**
 *Authors:* ****
@@ -560,9 +560,9 @@ By the end of this book, you'll have gained hands-on experience with everything 
 
 -----
 
-### [Event-Driven Architecture in Golang](https://www.packtpub.com/product/event-driven-architecture-in-golang/9781803238012)
+### [Event-Driven Architecture in Golang](https://amzn.to/4h4aVqw)
 
-<a href="https://www.packtpub.com/product/event-driven-architecture-in-golang/9781803238012"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/event-driven-architecture-in-golang.jpg" width="120px"/></a>
+<a href="https://amzn.to/4h4aVqw"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/event-driven-architecture-in-golang.jpg" width="120px"/></a>
 
 *Last published*: **2022**
 *Authors:* ****
@@ -575,9 +575,9 @@ By the end of this book, you'll be able to build and deploy your own event-drive
 
 -----
 
-### [Efficient Go: Data-Driven Performance Optimization](https://www.amazon.com/Efficient-Go-Data-Driven-Performance-Optimization/dp/1098105710)
+### [Efficient Go: Data-Driven Performance Optimization](https://amzn.to/4ycxS0Q)
 
-<a href="https://www.amazon.com/Efficient-Go-Data-Driven-Performance-Optimization/dp/1098105710"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/efficient-go.jpg" width="120px"/></a>
+<a href="https://amzn.to/4ycxS0Q"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/efficient-go.jpg" width="120px"/></a>
 
 *Last published*: **2022**
 *Authors:* **Bartlomiej Płotka, Frederic Branczyk**
@@ -588,9 +588,9 @@ How and when should you apply performance efficiency optimization without wastin
 
 -----
 
-### [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
+### [100 Go Mistakes and How to Avoid Them](https://amzn.to/4p8eldS)
 
-<a href="https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/100-go-mistakes-and-how-to-avoid-them.png" width="120px"/></a>
+<a href="https://amzn.to/4p8eldS"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/100-go-mistakes-and-how-to-avoid-them.png" width="120px"/></a>
 
 *Last published*: **2022**
 *Authors:* **Teiva Harsanyi**
@@ -621,9 +621,9 @@ Go's built-in support for testing puts tests front and centre of any software pr
 
 -----
 
-### [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://coreyscott.dev/book/)
+### [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://amzn.to/4y3Un8a)
 
-<a href="https://coreyscott.dev/book/"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/beyond-effective-go.jpg" width="120px"/></a>
+<a href="https://amzn.to/4y3Un8a"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/beyond-effective-go.jpg" width="120px"/></a>
 
 *Last published*: **2022**
 *Authors:* **Corey Scott**
@@ -643,9 +643,9 @@ This book, Part 1 of the series, focuses on achieving high-performance code. You
 
 -----
 
-### [Domain-Driven Design with Golang](https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450)
+### [Domain-Driven Design with Golang](https://amzn.to/4p9m5fI)
 
-<a href="https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/domain-driven-design-with-golang.jpg" width="120px"/></a>
+<a href="https://amzn.to/4p9m5fI"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/domain-driven-design-with-golang.jpg" width="120px"/></a>
 
 *Last published*: **2022**
 *Authors:* ****
@@ -656,9 +656,9 @@ Domain-driven design (DDD) is one of the most sought-after skills in the industr
 
 -----
 
-### [Building Distributed Applications in Gin](https://www.packtpub.com/product/building-distributed-applications-in-gin/9781801074858)
+### [Building Distributed Applications in Gin](https://amzn.to/4bA5Fr4)
 
-<a href="https://www.packtpub.com/product/building-distributed-applications-in-gin/9781801074858"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/building-distributed-applications-in-gin.jpg" width="120px"/></a>
+<a href="https://amzn.to/4bA5Fr4"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/building-distributed-applications-in-gin.jpg" width="120px"/></a>
 
 *Last published*: **2021**
 *Authors:* ****
@@ -671,9 +671,9 @@ By the end of this Gin book, you will be able to design, build, and deploy a pro
 
 -----
 
-### [Network Programming with Go](https://nostarch.com/networkprogrammingwithgo)
+### [Network Programming with Go](https://amzn.to/4aLciqi)
 
-<a href="https://nostarch.com/networkprogrammingwithgo"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/network-programming-with-go.jpg" width="120px"/></a>
+<a href="https://amzn.to/4aLciqi"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/network-programming-with-go.jpg" width="120px"/></a>
 
 *Last published*: **2021**
 *Authors:* **Adam Woodbeck**
@@ -682,9 +682,9 @@ Network Programming with Go will help you leverage Go to write secure, readable,
 
 -----
 
-### [Powerful Command-Line Applications in Go](https://pragprog.com/titles/rggo/powerful-command-line-applications-in-go/)
+### [Powerful Command-Line Applications in Go](https://amzn.to/4wtnWOP)
 
-<a href="https://pragprog.com/titles/rggo/powerful-command-line-applications-in-go/"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/powerful-command-line-applications-in-go.jpg" width="120px"/></a>
+<a href="https://amzn.to/4wtnWOP"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/powerful-command-line-applications-in-go.jpg" width="120px"/></a>
 
 *Last published*: **2021**
 *Authors:* **Ricardo Gerardi**
@@ -693,9 +693,9 @@ Write your own fast, reliable, and cross-platform command-line tools with the Go
 
 -----
 
-### [Go by Example](https://www.manning.com/books/go-by-example)
+### [Go by Example](https://amzn.to/4vhHQLF)
 
-<a href="https://www.manning.com/books/go-by-example"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/go-by-example.png" width="120px"/></a>
+<a href="https://amzn.to/4vhHQLF"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/go-by-example.png" width="120px"/></a>
 
 *Last published*: **2021**
 *Authors:* **İlker Baltacı**
@@ -704,9 +704,9 @@ Go by Example is a practical guide to writing high-quality code that's easy to t
 
 -----
 
-### [Cloud Native Go - Building Reliable Services in Unreliable Environments](https://www.amazon.com/Cloud-Native-Go-Unreliable-Environments/dp/1492076333)
+### [Cloud Native Go - Building Reliable Services in Unreliable Environments](https://amzn.to/3SV0g7A)
 
-<a href="https://www.amazon.com/Cloud-Native-Go-Unreliable-Environments/dp/1492076333"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/cloud-native-go.jpg" width="120px"/></a>
+<a href="https://amzn.to/3SV0g7A"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/cloud-native-go.jpg" width="120px"/></a>
 
 *Last published*: **2021**
 *Authors:* **Kevin Hoffman, Dan Nemeth**
@@ -735,9 +735,9 @@ This book is a compilation of practical examples, lessons and techniques for Go 
 
 -----
 
-### [Practical Go: Building Scalable Network and Non-Network Applications](https://practicalgobook.net)
+### [Practical Go: Building Scalable Network and Non-Network Applications](https://amzn.to/4vl3sXG)
 
-<a href="https://practicalgobook.net"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/practical-go-building-scalable-network.jpg" width="120px"/></a>
+<a href="https://amzn.to/4vl3sXG"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/practical-go-building-scalable-network.jpg" width="120px"/></a>
 
 *Last published*: **2021**
 *Authors:* **Amit Saha**
@@ -806,9 +806,9 @@ It's the next step in Monkey's evolution.
 
 -----
 
-### [Hands-On Software Engineering with Golang](https://www.packtpub.com/gb/programming/hands-on-software-engineering-with-golang)
+### [Hands-On Software Engineering with Golang](https://amzn.to/4gtAf9l)
 
-<a href="https://www.packtpub.com/gb/programming/hands-on-software-engineering-with-golang"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/hands-on-software-engineering-with-golang.jpg" width="120px"/></a>
+<a href="https://amzn.to/4gtAf9l"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/hands-on-software-engineering-with-golang.jpg" width="120px"/></a>
 
 *Last published*: **2020**
 *Authors:* ****
@@ -889,9 +889,9 @@ code.
 
 -----
 
-### [Ultimate Go Notebook](https://courses.ardanlabs.com/courses/ultimate-go-notebook)
+### [Ultimate Go Notebook](https://amzn.to/4byPxGh)
 
-<a href="https://courses.ardanlabs.com/courses/ultimate-go-notebook"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/ultimate-go-notebook.jpg" width="120px"/></a>
+<a href="https://amzn.to/4byPxGh"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/ultimate-go-notebook.jpg" width="120px"/></a>
 
 *Last published*: ****
 *Authors:* **Ardan Labs**
@@ -905,9 +905,9 @@ This notebook has been designed to provide a reference to everything mentioned i
 
 ## Web Development
 
-### [Mastering Go, 4rd edition](https://www.packtpub.com/en-us/product/mastering-go-9781805127147)
+### [Mastering Go, 4rd edition](https://amzn.to/4aMT3N8)
 
-<a href="https://www.packtpub.com/en-us/product/mastering-go-9781805127147"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/mastering-go-4th-edition.jpg" width="120px"/></a>
+<a href="https://amzn.to/4aMT3N8"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/mastering-go-4th-edition.jpg" width="120px"/></a>
 
 *Last published*: **2024**
 *Authors:* **Mihalis Tsoukalos**
@@ -949,9 +949,9 @@ This book was written to teach how to develop web applications in Go for people 
 
 -----
 
-### [Build SaaS apps in Go](https://buildsaasappingo.com)
+### [Build SaaS apps in Go](https://amzn.to/3STz7Sz)
 
-<a href="https://buildsaasappingo.com"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/build-saas-apps-in-go.jpg" width="120px"/></a>
+<a href="https://amzn.to/3STz7Sz"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/build-saas-apps-in-go.jpg" width="120px"/></a>
 
 *Last published*: **2021**
 *Authors:* ****
@@ -962,7 +962,7 @@ a solid framework to use as the starting point for future projects.
 
 -----
 
-### [Go Brain Teasers](https://gum.co/Qkmou)
+### [Go Brain Teasers](https://amzn.to/4vhK8uf)
 
 *Last published*: **2021**
 *Authors:* **Miki Tebeka**
@@ -973,9 +973,9 @@ This book contains 25 mind bending quizzes and answers. You can view a sample ch
 
 -----
 
-### [Creative DIY Microcontroller Projects with TinyGo and WebAssembly](https://www.packtpub.com/product/creative-diy-microcontroller-projects-with-tinygo-and-webassembly/9781800560208)
+### [Creative DIY Microcontroller Projects with TinyGo and WebAssembly](https://amzn.to/4f8MfuD)
 
-<a href="https://www.packtpub.com/product/creative-diy-microcontroller-projects-with-tinygo-and-webassembly/9781800560208"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/creative-diy-microcontroller-projects-tinygo-webassembly.jpg" width="120px"/></a>
+<a href="https://amzn.to/4f8MfuD"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/creative-diy-microcontroller-projects-tinygo-webassembly.jpg" width="120px"/></a>
 
 *Last published*: **2021**
 *Authors:* ****
@@ -988,9 +988,9 @@ By the end of this microcontroller book, you will be equipped with the skills yo
 
 -----
 
-### [Distributed Services with Go Your Guide to Reliable, Scalable, and Maintainable Systems](https://pragprog.com/titles/tjgo/distributed-services-with-go/)
+### [Distributed Services with Go Your Guide to Reliable, Scalable, and Maintainable Systems](https://amzn.to/3SU8lJJ)
 
-<a href="https://pragprog.com/titles/tjgo/distributed-services-with-go/"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/distributed-services-with-go.jpg" width="120px"/></a>
+<a href="https://amzn.to/3SU8lJJ"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/distributed-services-with-go.jpg" width="120px"/></a>
 
 *Last published*: **2021**
 *Authors:* **Travis Jeffery**
@@ -999,9 +999,9 @@ Take your Go skills to the next level by learning how to design, develop, and de
 
 -----
 
-### [Build Systems with Go: Everything a Gopher Must Know](https://www.amazon.com/dp/B091FX4CZX)
+### [Build Systems with Go: Everything a Gopher Must Know](https://amzn.to/4b3VmeX)
 
-<a href="https://www.amazon.com/dp/B091FX4CZX"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/build-systems-with-go.png" width="120px"/></a>
+<a href="https://amzn.to/4b3VmeX"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/build-systems-with-go.png" width="120px"/></a>
 
 *Last published*: **2021**
 *Authors:* **Juan Manuel Tirado**
@@ -1010,8 +1010,8 @@ The Go ecosystem is helping developers to build distributed and scalable systems
 
 -----
 
-### [12 Factor Applications with Docker and Go](https://leanpub.com/12fa-docker-golang)
-<a href="https://leanpub.com/12fa-docker-golang"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/12-factor-applications-with-docker-and-go.jpg" width="120px"/></a>
+### [12 Factor Applications with Docker and Go](https://amzn.to/4wx1qVp)
+<a href="https://amzn.to/4wx1qVp"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/12-factor-applications-with-docker-and-go.jpg" width="120px"/></a>
 
 *Last published*: **2020**
 *Authors:* ****
@@ -1020,9 +1020,9 @@ A book filled with examples on how to use Docker and Go to create the ultimate 1
 
 -----
 
-### [Learn Data Structures and Algorithms with Golang](https://www.packtpub.com/product/learn-data-structures-and-algorithms-with-golang/9781789618501)
+### [Learn Data Structures and Algorithms with Golang](https://amzn.to/3QHSwoY)
 
-<a href="https://www.packtpub.com/product/learn-data-structures-and-algorithms-with-golang/9781789618501"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/learn-data-structures-and-algorithms-with-golang.jpg" width="120px"/></a>
+<a href="https://amzn.to/3QHSwoY"><img src="https://raw.githubusercontent.com/dariubs/GoBooks/master/gobooks/covers/learn-data-structures-and-algorithms-with-golang.jpg" width="120px"/></a>
 
 *Last published*: **2019**
 *Authors:* ****
@@ -1032,7 +1032,7 @@ By the end of the book, you'll have become adept at implementing classic data st
 
 -----
 
-### [Web Development with Go: Learn to Create Real World Web Applications using Go](https://www.usegolang.com/)
+### [Web Development with Go: Learn to Create Real World Web Applications using Go](https://amzn.to/44mqpi7)
 
 *Last published*: ****
 *Authors:* **Jon Calhoun**
