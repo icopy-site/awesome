@@ -2014,6 +2014,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 ### Reverse engineering
 
+* [binlex](https://github.com/c3rb3ru5d3d53c/binlex) - Binary analysis and reverse engineering framework with function fingerprinting and similarity matching.
 * [idalib](https://github.com/idalib-rs/idalib) [[idalib](https://crates.io/crates/idalib)] - Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.0’s idalib
 * [objdiff](https://github.com/encounter/objdiff) - A local diffing tool for decompilation projects
 
@@ -2124,6 +2125,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 * [chromium/chromiumos/platform/crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/) - CrOSVM Enables Chrome OS to run Linux apps inside a fast, secure virtualized environment
 * [oxidecomputer/propolis](https://github.com/oxidecomputer/propolis) - Userspace program for illumos bhyve kernel modules
 * [saurvs/hypervisor-rs](https://github.com/saurvs/hypervisor-rs) - Hardware-accelerated virtualization on OS X
+* [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable microVM sandboxes on libkrun with copy-on-write forking of running VMs
 * [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - A lightweight runtime for WebAssembly
 
 ### Web programming
