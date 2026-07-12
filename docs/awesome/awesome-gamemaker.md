@@ -98,6 +98,7 @@ Custom timers, timelines, and task scheduling.
 - [GMTimeLine](https://github.com/TimVN/GMTimeLine) - A pure code alternative to GameMaker timelines.
 - [Agenda](https://github.com/benal20/Agenda.gml) - Schedule and delay the execution of callbacks.
 - [GMMT](https://github.com/erkan612/GMMT) - Tweening framework with 30+ easing functions, keyframes, clips, motion paths, spring physics, oscillation, perlin noise, and full playback control.
+- [STAGING](https://github.com/sdelaughter/STAGING) - Split initialization tasks over multiple frames, including support for asynchronous tasks.
 
 ## Async
 
@@ -140,6 +141,7 @@ Custom timers, timelines, and task scheduling.
 - [GMLiteSearch](https://github.com/erkan612/GMLiteSearch) - Fast, flexible full‑text search for GameMaker. Built for small to medium datasets (10k‑50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence.
 - [Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library.
 - [GMVex](https://github.com/erkan612/GMVex) - Vector graphics framework with SVG support, TrueType font rendering, path boolean operations and fill/stroke rendering.
+- [RunGML](https://github.com/sdelaughter/RunGML) - A runtime scripting language with a Lisp-like syntax.  Facilitates modding support via included JSON files, and debugging/live coding via an in-game console.
 
 ## Tools
 
