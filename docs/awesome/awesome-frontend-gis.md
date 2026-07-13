@@ -226,6 +226,7 @@ A compilation of interesting web maps:
 - [ClimateArchive](https://climatearchive.org/) - An interactive visualisation of climate model data across time and space.
 - [Old Maps Online](https://www.oldmapsonline.org/) - Browse historical places and search for old maps with timeline.
 - [chronotrains](https://www.chronotrains.com) - Where can you go by train in 8h?
+- [Castlemap](https://thecastlemap.com/) - The world's 2,400 great castles on one night map, built from Wikidata.
 
 ## 🌐 Web apps 
 Plug-and-play geospatial web apps:
@@ -252,6 +253,7 @@ Plug-and-play geospatial web apps:
 - [GeoJSONLint](https://geojsonlint.com/) - Use this site to validate and view your GeoJSON.
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive DeckGL/MapLibre geospatial visualization. ([Source Code](https://github.com/Juliusolsson05/pharos-ai)) ![GitHub stars](https://img.shields.io/github/stars/Juliusolsson05/pharos-ai?style=social)
 - [Pumperly](https://github.com/GeiserX/pumperly) - Open-source fuel price comparison and EV charging route planner using MapLibre GL JS, PostGIS, Valhalla routing, and Photon geocoding. ![GitHub stars](https://img.shields.io/github/stars/GeiserX/pumperly?style=social)
+- [gpx studio](https://github.com/gpxstudio/gpxstudio.github.io) - Online tool for GPX editing.
 
 
 ## 🎨 Colour advice 
@@ -289,12 +291,9 @@ Videos of web mapping presentations and tutorials:
 - [Geospatial Network Visualization](https://geonetworks.github.io/) - A collection of visualization techniques for geospatial network data. 
 
 
-## Contributing
+## 🤝 Contributing
 
-Contributions of any kind are welcome, just follow the [guidelines](https://github.com/joewdavies/awesome-frontend-gis/blob/master/./CONTRIBUTING.md) by either:
-
-- Filling a [suggestion issue](https://github.com/joewdavies/awesome-frontend-gis/issues/new/) (easier).
-- Opening a [pull request](https://github.com/joewdavies/awesome-frontend-gis/compare).
+Contributions are welcome, just follow the [guidelines](https://github.com/joewdavies/awesome-frontend-gis/blob/master/./CONTRIBUTING.md).
 
 ---
 
