@@ -508,6 +508,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular code editor rules](https://promptgenius.net/cursorrules/frameworks/frontend/angular) - Guide for effective AI interaction patterns when working with Angular code.
 * [Angularize](https://beta.angularize.dev/) - Vibe code your Angular app with a human coder in your corner.
 * [@Kobolden/angular-skills](https://github.com/Kobolden/angular-skills) - Enhance your Angular development with skills for AI-assisted coding, featuring up-to-date patterns, best practices, and examples for version 20+.
+* [angular-vibe-kit](https://github.com/vuanhtung10/angular-vibe-kit) - Bootstrap a vibe coding workflow into any Angular project—complete with a `CLAUDE.md`, project docs, and Claude Code slash-commands tailored to your Angular version.
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
 * [CodingFleet](https://codingfleet.com/code-generator/angular/) - An innovative AI-powered tool that transforms your instructions into efficient Angular code.
 * [context7](https://github.com/upstash/context7) - MCP Server with up-to-date code documentation for LLMs and AI code editors.
@@ -1542,7 +1543,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@ngverse/icons](https://github.com/ngverse/icons) - Angular library that allows you to use popular open-source icons as regular components.
 * [ngxi](https://github.com/adrian-ub/ngxi) - Comprehensive SVG icon set for Angular with seamless integration of thousands of popular icons.
 * [animated-icons](https://github.com/ajitzero/animated-icons) - Animated icons for Angular based on [moving icons](https://www.movingicons.dev/).
-* [hugeicons-angular](https://github.com/hugeicons/angular) - 5,100+ free MIT-licensed stroke-rounded icons for Angular.
+* [@hugeicons/angular](https://github.com/hugeicons/hugeicons/tree/main/packages/angular) - 5,400+ free MIT-licensed stroke-rounded icons for Angular.
 * [@quikturn-sdk/logos-angular](https://github.com/quikturn-sdk/Company-Logos) - TypeScript SDK for the [Quikturn Logos API](https://getquikturn.io/) - Fetch any company's logo by domain name.
 * [GeoIcons](https://geoicons.io) - Geographic map icons for every country, territory, and world region as tree-shakable Angular standalone components.
 
@@ -1753,6 +1754,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-helpers](https://github.com/Gaspar1992/angular-helpers) - A suite of Angular libraries that help you build secure, browser-integrated applications with a clean developer experience.
 * [ngneat-archive](https://github.com/ngneat-archive) - A read-only preservation archive of the [ngneat](https://github.com/ngneat) repositories.
 * [Indice.Angular](https://github.com/indice-co/Indice.Angular) - A collection of Angular libraries providing authentication, configuration, and reusable components for Angular v20+ applications.
+* [trt-web-utils](https://github.com/therightthings/trt-web/tree/dev) - Monorepo for the `@trt-web` packages, which includes a Firebase admin helper library and more.
 
 ### Modals
 
@@ -1783,7 +1785,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-french-toast](https://github.com/thiagopg84/ngx-french-toast) - Lightweight, customizable Angular 14+ toast library for informative messages, feedback, and dynamic component support.
 * [ngx-modern-alerts](https://github.com/jonaaix/ngx-modern-alerts) - Flexible Angular system for banner and floating alerts with hub, timeouts, custom actions, and more.
 * [@klausbrandner/ngx-notifications](https://github.com/klausbrandner/ngx-notifications) - Simple, lightweight toast notifications for Angular.
-* [@pascaliske/ngx-notifications](https://github.com/pascaliske/ngx-notifications) - Simple notifications module for Angular.
 * [ngx-notifier](https://github.com/sibiraj-s/ngx-notifier) - A Simple Notification Service for Angular applications.
 * [ngx-popify](https://github.com/fgilmet/ngx-popify) - Toast notifications for Angular 16+ built using reactive signals and easily integrated via a view component.
 * [ngx-signal-toast](https://github.com/white-devil1/ngx-signal-toast-workspace) - Signal-first toast notification library for Angular 21+ with zoneless support, zero dependencies, SSR safety and powerful theming.
@@ -1802,6 +1803,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-notitia](https://github.com/klajdm/ngx-notitia) - Updated fork of `ngx-toastr` with additional features, fixes, and modernizations for Angular 21+.
 * [ngx-herald](https://github.com/HoplaGeiss/ngx-herald) - A lightweight, modern Angular toast notification library. Signals-first, zoneless-compatible, zero runtime dependencies, and an easy-to-use alternative to ngx-toastr.
 * [ngx-gooey-toast](https://github.com/juanvieiraprado99/ngx-gooey-toast) - A morphing pill‑to‑blob toast component for Angular, serving as an Angular port of the React [gooey‑toast](https://goey-toast.vercel.app/).
+* [ngx-yet-another-toast-library](https://github.com/Zeeraa/ngx-yet-another-toast-library) - A lightweight, signal-based Angular toast notification library with Bootstrap 5 color palette support.
 
 ### Onboarding and Product Tours
 
@@ -2141,7 +2143,6 @@ for the creation of web applications developed with Angular.
 * [ng-event-bus](https://github.com/cristiammercado/ng-event-bus) - RxJS-based message bus service for Angular.
 * [ngx-device-permission](https://github.com/PhilipSh/ngx-device-permission) - Angular library for handling device permissions (camera, microphone, geolocation, etc.) in a reactive way using RxJS.
 * [ngx-operators](https://github.com/nilsmehlhorn/ngx-operators) - RxJS operators for Angular.
-* [ngx-safe-subscribe](https://github.com/Badisi/ngx-safe-subscribe) - Easy way to automatically unsubscribe from RxJS observables in Angular components.
 * [operators](https://github.com/jscutlery/devkit/tree/main/packages/operators) - This package regroups a couple of RxJS operators meant to simplify some common patterns.
 * [reactive-event-source](https://github.com/andreasnicolaou/reactive-event-source) - Lightweight RxJS-based EventSource wrapper with auto-reconnect, leak prevention, and reactive state management.
 * [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".

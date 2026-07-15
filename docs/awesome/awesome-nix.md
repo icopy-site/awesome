@@ -187,6 +187,10 @@ A curated list of the best resources in the Nix community.
 
 * [crystal2nix](https://github.com/nix-community/crystal2nix) - Convert `shard.lock` into Nix expressions.
 
+### Elixir
+
+* [deps_nix](https://github.com/code-supply/deps_nix) - Converts Mix dependencies to Nix derivations.
+
 ### Elm
 
 * [elm2nix](https://github.com/cachix/elm2nix) - Convert `elm.json` into Nix expressions.
