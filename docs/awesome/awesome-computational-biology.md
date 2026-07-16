@@ -204,6 +204,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [Tabula Sapiens](https://tabula-sapiens-portal.ds.czbiohub.org/) — Comprehensive human single-cell atlas of ~500K cells from 24 organs and tissues across multiple donors.
 - [TAPE (Tasks Assessing Protein Embeddings)](https://github.com/songlab-cal/tape) — Benchmark suite of five biologically meaningful semi-supervised learning tasks for evaluating protein representations.
 - [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) — Comprehensive multi-omics (genomics, transcriptomics, proteomics, methylation) dataset for 33 cancer types across ~11,000 patients.
+- [TCGA virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas) — DeepSpot-M predicted transcriptome-wide ST for TCGA H&E (FF + FFPE; 28,664 slides / 32 cancer types; gated). Paper: [DeepSpot-M](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1).
+- [HEST Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics) — DeepSpot-M predicted transcriptome-wide ST for 59 HEST-1k 10x Xenium samples (~13.3M cells) (gated). Paper: [DeepSpot-M](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1).
 - [Therapeutics Data Commons (TDC)](https://tdcommons.ai/) — Unified benchmark suite covering ADMET, drug-target interaction, drug response, and more.
 - [Tox21](https://tripod.nih.gov/tox21/challenge/) — 12,707 compounds tested in 12 nuclear receptor and stress-response pathway biochemical assays for toxicity prediction.
 - [UK Biobank](https://www.ukbiobank.ac.uk/) — Large-scale biomedical database of ~500K participants with genetic, imaging, and health data for population genetics and disease studies.
@@ -351,6 +353,10 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [Phikon](https://huggingface.co/owkin/phikon) — ViT-based pathology foundation model pretrained with iBOT self-supervision on TCGA whole-slide images.
 - [Nicheformer](https://github.com/theislab/nicheformer) — Foundation model for single-cell and spatial omics using a transformer architecture with positional embeddings to encode spatial cell information.
 - [scGPT-spatial](https://github.com/bowang-lab/scGPT-spatial) — Extension of scGPT for spatial transcriptomics with continual pretraining and a mixture-of-experts decoder for spatial gene expression analysis.
+- [DeepSpot](https://github.com/ratschlab/DeepSpot) — Deep learning model predicting spatial transcriptomics from H&E images at spot and single-cell resolution.
+- [DeepSpot2Cell](https://github.com/ratschlab/DeepSpot2Cell) — Predicts virtual single-cell spatial transcriptomics from H&E using spot-level supervision (NeurIPS 2025 Imageomics).
+- [DeepSpot-M](https://github.com/ratschlab/DeepSpotM) — Multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology.
+- [AESTETIK](https://github.com/ratschlab/aestetik) — Autoencoder for spatial transcriptomics representation learning using topology and histology image knowledge.
 
 ##### Multi-Omics Foundation Models
 

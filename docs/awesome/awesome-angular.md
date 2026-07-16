@@ -618,6 +618,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Ionic VS Code Extension](https://ionicframework.com/docs/intro/vscode-extension) - Perform various functions that are common to developing an Ionic app, all without leaving your VS Code window.
 * [mini-typescript-hero](https://github.com/angular-schule/mini-typescript-hero) - A lightweight, modern VSCode extension that automatically manages your import statements.
 * [ngx-html-syntax](https://github.com/princemaple/ngx-html-syntax) - Angular HTML Syntax for [Sublime Text](https://www.sublimetext.com/).
+* [ngx-translatorex](https://github.com/MarcinKurylo/ngx-translatorex) - A VS Code extension that extracts hard-coded strings from Angular templates and components into `ngx-translate` i18n keys.
 * [Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) - Spend less time looking up command line arguments and more time shipping incredible products.
 * [Redux DevTools](https://github.com/reduxjs/redux-devtools/) - Can be used in combination with `@ngrx/store-devtools` to inspect the state of your NgRx app.
 * [vscode-angulartools](https://github.com/CoderAllan/vscode-angulartools) - You can explore an Angular project, enhance documentation, reverse engineer code, and do refactoring with [AngularTools](https://marketplace.visualstudio.com/items?itemName=coderAllan.vscode-angulartools).
@@ -1176,6 +1177,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [michi-vz-mono](https://github.com/beany-vu/michi-vz-mono) - One engine powering 17 interactive, accessible chart types with seamless support for Angular and more, all emitting LLM‑ready data for reports, dashboards, and AI features.
 * [ng-apexcharts](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations.
 * [ng-chartist](https://github.com/willsoto/ng-chartist) - Angular component for [Chartist.js](https://github.com/chartist-js/chartist).
+* [ng-charts](https://github.com/AleksanderBodurri/ng-charts) - Reangular port of `recharts`.
 * [ng-diagram](https://github.com/synergycodes/ng-diagram) - Angular library for building interactive, customizable diagrams, node-based editors, and visual workflows.
 * [ng-draw-flow](https://github.com/taiga-family/ng-draw-flow) - A library for creating interfaces based on displaying data as nodes.
 * [ng-flowchart](https://github.com/joel-wenzel/ng-flowchart) - A lightweight Angular library for building drag and drop flow charts.
@@ -2239,6 +2241,7 @@ for the creation of web applications developed with Angular.
 * [@interopio/ng](https://www.npmjs.com/package/@interopio/ng) - [IO Connect](https://interop.io/) Angular wrapper to simplify initializing and using IO Connect libraries in projects.
 * [ng-elementum](https://github.com/MillerSvt/ng-elementum) - A modern fork of `@angular/elements` that enhances the integration of Angular components with the Web Components standard.
 * [ngfire](https://github.com/qarapace/ngfire) - A minimal Angular wrapper around the Firebase JS SDK.
+* [ng-number-flow](https://github.com/phalla-doll/ng-number-flow) - Angular wrapper around [number-flow](https://github.com/barvian/number-flow) — an accessible, animated number component.
 * [ngx-apexgantt](https://github.com/apexcharts/ngx-apexgantt) - Angular wrapper for [ApexGantt](https://github.com/apexcharts/apexgantt), a JavaScript library to create Gantt diagrams built on SVG.
 * [ngx-apexsankey](https://github.com/apexcharts/ngx-apexsankey) - Angular wrapper for [ApexSankey](https://github.com/apexcharts/apexsankey) - A JavaScript library to create Sankey diagrams.
 * [ngx-apextree](https://github.com/apexcharts/ngx-apextree) - Angular wrapper for [ApexTree](https://github.com/apexcharts/apextree) - a JavaScript library for creating organizational and hierarchical charts.
