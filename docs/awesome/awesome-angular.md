@@ -1054,6 +1054,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [realworld-angular](https://github.com/realworld-angular/realworld-angular) - RealWorld Angular example apps showcasing Angular libraries in action.
 * [spartan-admin-dashboard](https://github.com/Oussemasahbeni/spartan-admin-dashboard) - A production-ready, Angular admin dashboard template built with Spartan UI components and Tailwind CSS.
 * [elite-angular-zen](https://github.com/saiyan666-4Wk/elite-angular-zen) - 2026 Angular 17 Pro Admin Template with Clean Minimal Design.
+* [spike-angular-pro-starter](https://github.com/juwairiyah09/spike-angular-pro-starter) - Spike Angular 2026: Ultimate Free Material Admin Template for Modern Dashboards.
 
 ### Paid Templates
 
@@ -1252,6 +1253,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-powerful-tree](https://github.com/raknjarasoa/ngx-powerful-tree) - A virtualized tree with HTML5 drag‑and‑drop, fast search, locked subtrees, and file‑picker modes, built on `@angular/cdk/scrolling` for smooth performance at 100k+ rows.
 * [agrid](https://github.com/thkl/agrid) - Angular data grid with spreadsheet-like editing, virtual scrolling, filtering, sorting, grouping, clipboard workflows, row operations, pagination, and custom cell renderers.
 * [ngx-datatables-net](https://github.com/ascentspark/ngx-datatables-net) - Angular wrapper for `DataTables.net` supporting Angular 20+.
+* [angular-advanced-table](https://github.com/VaggelisKa/angular-advanced-table) -  Angular monorepo featuring `ng-advanced-table`—a signals-first, accessible data table library—and its documentation site.
 
 ### Dates
 
@@ -1376,6 +1378,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [dragble-angular-editor](https://github.com/Dragble/dragble-angular-editor) - Dual‑mode Angular component blending a designer‑friendly visual editor with an AI‑driven conversational interface.
 * [ngx-email-studio](https://github.com/edward124689/ngx-email-studio) - An Angular 21 frontend email builder for composing, importing, editing, previewing, and exporting responsive email templates.
 * [qalma](https://github.com/cdskill/qalma) - Angular-first, headless rich text editor toolkit built on ProseMirror.
+* [ngx-mermaid-canvas](https://github.com/Nigelli/ngx-mermaid-canvas) - A visual flowchart editor for Angular that outputs Mermaid syntax.
 
 ### File Upload
 

@@ -72,6 +72,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 * [temps](https://github.com/gotempsh/temps) - A self-hosted PaaS that replaces Vercel, analytics, error tracking, and uptime monitoring with a single Rust binary
 * [tiny](https://github.com/osa1/tiny) - A terminal IRC client
 * [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - A suite of open source tools for customizing Android, providing root access, boot image manipulation, and systemless modifications
+* [Tura-AI/tura](https://github.com/Tura-AI/tura) - A local coding agent for terminal, desktop GUI, and command-line workflows, with persistent task state and evidence-backed verification. [![CI](https://github.com/Tura-AI/tura/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Tura-AI/tura/actions/workflows/ci.yml)
 * [Typst](https://github.com/typst/typst) - A markup-based typesetting system [![crates.io](https://img.shields.io/crates/v/typst.svg)](https://crates.io/crates/typst)
 * [UpVPN](https://github.com/upvpn/upvpn-app) - WireGuard VPN client for macOS, Linux, and Windows built on Tauri.
 * [vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch
@@ -679,6 +680,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [Water-Run/treepp](https://github.com/Water-Run/treepp) - A Rust-based native Windows `tree` replacement with diff-level input/output compatibility on successful runs, many more features including essential exclusions and `.gitignore` support, and several-times faster performance.
 * [wrestic](https://github.com/alvaro17f/wrestic) - A wrapper around restic.
 * [wthrr](https://github.com/ttytm/wthrr-the-weathercrab) - Weather companion for the terminal. [![crates.io](https://img.shields.io/crates/v/wthrr?logo=rust)](https://crates.io/crates/wthrr)
+* [YAKC](https://github.com/iammodev/YAKC) - Cross-platform keystroke & mouse-click visualizer for screencasts, streaming, and presentations. Works on Windows, macOS, and Linux (X11 & Wayland). [![CI](https://github.com/iammodev/YAKC/actions/workflows/ci.yml/badge.svg)](https://github.com/iammodev/YAKC/actions/workflows/ci.yml)
 * [YueMiyuki/Risuko](https://github.com/YueMiyuki/Risuko) - A full-featured download manager. [![Release-Badge](https://github.com/YueMiyuki/Risuko/actions/workflows/release.yml/badge.svg)](https://github.com/YueMiyuki/Risuko/actions/workflows/release.yml)
 
 ### Video

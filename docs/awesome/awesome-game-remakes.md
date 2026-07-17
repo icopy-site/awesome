@@ -18,12 +18,14 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy and Jedi Outcast by Raven Software.
 - [Speed-Academy](https://github.com/kugelrund/Speed-Academy) - Source port of the singleplayer of Star Wars Jedi Knight: Jedi Academy.
 - [Speed-Outcast](https://github.com/kugelrund/Speed-Outcast) - Source port of the singleplayer of Star Wars Jedi Knight II: Jedi Outcast.
+- [OpenChaos](https://github.com/lndpj/OpenChaos) - OpenChaos — Fan Modernization of Urban Chaos
 - [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine.
 - [OpenMB](https://github.com/cookgreen/OpenMB) - Role-playing game engine for Taleworlds' Mount&Blade Series.
 - [OpenRW](https://openrw.org/) - A cross-platform, open source re-implementation of Rockstar Games' Grand Theft Auto III.
 - [remc2](https://github.com/turican0/remc2) - Reverse engineering of Magic Carpet 2 from Assembler.
 - [Rigel Engine](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
 - [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) - Reimplementation of GTA: San Andreas game engine in Unity.
+- [Sunny-Survival-Remake-Code](https://github.com/Kynwi/Sunny-Survival-Remake-Code) - Code for my game called "Sunny Survival Remake"
 - [TOMB5](https://github.com/TOMB5/TOMB5) - Tomb Raider: Chronicles disassembly translated to C source code.
 - [TR1X](https://github.com/LostArtefacts/TR1X) - Open source implementation of the classic Tomb Raider I game.
 
@@ -39,11 +41,20 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 
 ## Arcade
 - [AcidDrop](https://github.com/lostjared/AcidDrop) - Remake of classic Atari 2600 game "Acid Drop".
+- [atomiks](https://github.com/carstene1ns/atomiks) - A remake of the classic Atomix game for modern platforms.
 - [Barbarian](http://barbarian.1987.free.fr/indexEN.htm) - Open-source clone of Barbarian: The Ultimate Warrior.
 - [Battle City](https://github.com/vgrichina/battlecity) - Browser reimplementation of Namco's 1985 Battle City (Famicom version), built from a full annotated 6502 disassembly. Playable at https://battle-city.berrry.app. :flower_playing_cards:
+- [blips](https://github.com/joyrider3774/blips) - A Remake of the dos Bips, Bips Gold and Bips Platinum game from Bryant Brownell. It is a Puzzle game which is a variation of sokoban written in SDL 3 based on my old gp2x version.
 - [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - Classic overhead run-and-gun game. :flower_playing_cards:
 - [Crimsonland](https://github.com/banteg/crimson) - Faithful from-scratch rewrite of the twin-stick shooter Crimsonland.
+- [galaxy-eggbert](https://github.com/openeggbert/galaxy-eggbert) - 3D remake of Speedy Blupi / Mobile Eggbert, moving from Urho3D toward a native CNA + Easy3D engine.
+- [guardian](https://github.com/LaughingInPurgatory/guardian) - A modern, endless remake of the classic arcade game Defender
+- [GradiusRemake](https://github.com/luisfae/GradiusRemake) - Remake of the game Gradius (NES - 1986)
+- [Maze-Runner-FPS](https://github.com/IbsYoussef/Maze-Runner-FPS) - Remake of classic Maze Runner game from the 70s -- written in Rust
+- [Metal-Slug-Remake](https://github.com/ahmadraza2730/Metal-Slug-Remake) - A Metal Slug-inspired 2D action game built in C++ with SFML — featuring enemy AI, procedural terrain via Perlin noise, and a full weapon/damage system. OOP course project (CS-1004). 
 - [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) - 8-player Bomberman clone for RetroArch/Libretro.
+- [O21](https://github.com/ForNeVeR/O21) - FOSS remake of U95, an old submarine arcade game from 1995.
+- [OrbitalDecay](https://github.com/LeineckerGames/OrbitalDecay) - This is a 3D remake of the old Lunar Lander game
 - [OpenClonk](https://github.com/openclonk/openclonk) - Multiplayer action game where you control small and nimble humanoids.
 - [OpenJazz](https://github.com/AlisterT/openjazz) - Free, open-source version of the classic Jazz Jackrabbit™ games.
 - [Open Kick-Off](https://github.com/ssenegas/kickoff) - Rewriting attempt of the cult football game Kick Off 2. :flower_playing_cards:
@@ -55,6 +66,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [The Great Escape in C](https://github.com/dpt/The-Great-Escape-in-C) - Classic ZX Spectrum game The Great Escape in portable C. :flower_playing_cards:
 - [Zelda Classic](https://github.com/ArmageddonGames/ZeldaClassic) - A game and editing tool that lets you create custom Legend of Zelda quests.
 - [WarhawkDS](https://github.com/RustyPixelsUK/WarhawkDS) - Warhawk DS remake of the C64 game Warhawk to the Nintendo DS in native assembler.
+- [wedges-trial](https://github.com/begiedz/wedges-trial) - [WIP] Browser logic puzzle game inspired by Gothic's Remake lockpicking mechanism.
 
 ## FPS
 - [4TAK](https://github.com/qbism/4TAK) - client and server based on q2pro-rerelease and q2pro
@@ -158,8 +170,10 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [RuneLite](https://github.com/runelite/runelite) - Open source Old School RuneScape (OSRS) client. :flower_playing_cards:
 - [Ryzom Core](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom. :flower_playing_cards:
 - [Space Station 14](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
+- [starcup](https://github.com/teamstarcup/starcup) - A fork of the multiplayer game Space Station 14, a remake of the cult-classic Space Station 13.
 - [VoxeLibre](https://git.minetest.land/VoxeLibre/VoxeLibre) - Stable, moddable & free/libre clone of Minecraft based on the Luanti engine. :flower_playing_cards:
 - [Netrek](https://github.com/quozl/netrek-client-cow) - Netrek is a multiplayer battle simulation game with a Star Trek theme. Up to 16 players are divided into two teams that fight each other for dominion over the galaxy.
+- [Heart-of-Africa-Remake](https://github.com/PatrickVonMassow/Heart-of-Africa-Remake) Single-player 3D web remake of the 1985 classic The Heart of Africa: real ~1890 geography, living wildlife, period journal with in-browser TTS - three.js/WebGPU, React, TypeScript.
 
 ## RPG
 - [Abyss Engine](https://github.com/AbyssEngine/AbyssEngine) - Abyss Engine is a game engine designed to run games similar to 2000's style ARPGs such as Diablo II.
@@ -234,6 +248,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [retruxx](https://github.com/mindflower/retruxx) - Reverse engineered Hard Truck Apocalypse.
 
 ## Simulator
+- [darknova2](https://github.com/deadjim/darknova2) - Dark Nova ][ — cross-platform space trading game (Space Trader remake)
 - [Descent3](https://github.com/DMJC/Descent3) - Descent 3 by Outrage Entertainment
 - [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
 - [dxx-redux](https://github.com/dxx-redux/dxx-redux) - Descent 1&2 source port based on DXX-Retro.
@@ -324,6 +339,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Ozymandias](https://github.com/dalerank/Ozymandias) - An open source re-implementation of Pharaoh in the Julius/Augustus engine.
 - [parabellum](https://github.com/andreapavoni/parabellum) - An attempt to build a #Travian 3.x clone written in #Rust.
 - [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C based on Everglory
+- [rebellion2](https://github.com/davidadas/rebellion2) - Remake of the classic Star Wars Rebellion game for PC using Unity
 - [Pillage-First-Ask-Questions-Later](https://github.com/jurerotar/Pillage-First-Ask-Questions-Later) - An open-source, single-player, Travian alternative browser strategy game, inspired by [Travian T4](https://ts4.x1.europe.travian.com/) and [Travian Kingdoms](https://www.kingdoms.com/)
 - [Race into Space](https://github.com/raceintospace/raceintospace) - Version of Interplay's Buzz Aldrin's Race into Space.
 - [Rescue Max!](https://sourceforge.net/projects/rescue/) - A 2D space real-time, action/strategy game. you are in control of a ship that you fly around space fighting enemies and making friends on your way. The main objective is to rescue people from planets and take them to star bases. its writen in java1.4. 

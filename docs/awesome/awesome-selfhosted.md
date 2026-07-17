@@ -112,6 +112,7 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot), [Software Develop
 - [gocron](https://github.com/flohoss/gocron) - Task scheduler that allows users to specify recurring jobs via a simple YAML configuration file. `MIT` `Docker`
 - [HandBrake Web](https://github.com/TheNickOfTime/handbrake-web) - Use one or more instances of HandBrake video transcoder on a headless device via a web interface. `AGPL-3.0` `Docker`
 - [Healthchecks](https://healthchecks.io/) - Listen for pings and sends alerts when pings are late. ([Source Code](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python/Docker`
+- [HomeButler](https://homebutler.dev) - Homelab management tool for monitoring hosts, Docker services, Wake-on-LAN, inventory, and remote operations, with a web dashboard and MCP integrations. ([Source Code](https://github.com/Higangssh/homebutler)) `MIT` `Docker/Go`
 - [Huginn](https://github.com/huginn/huginn) - Build agents that monitor and act on your behalf. `MIT` `Ruby`
 - [Kestra](https://kestra.io) - Event-driven, language-agnostic platform to create, schedule, and monitor workflows. In code. Coordinate data pipelines and tasks such as ETL and ELT. ([Source Code](https://github.com/kestra-io/kestra)) `Apache-2.0` `Docker`
 - [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code](https://github.com/kibitzr/kibitzr)) `MIT` `Python`
@@ -1212,6 +1213,7 @@ _Related: [Automation](#automation), [Media Streaming](#media-streaming), [Media
 - [Watcharr](https://github.com/sbondCo/Watcharr) - Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. ([Demo](https://beta.watcharr.app/)) `MIT` `Docker`
 - [ydl_api_ng](https://github.com/Totonyus/ydl_api_ng) - Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`
 - [Youtarr](https://github.com/DialmasterOrg/Youtarr) `⚠` - Download videos from YouTube channels on a schedule via yt-dlp, with a web UI to browse and selectively download videos. Integrates with Plex Media Server and generates NFO metadata for Jellyfin, Kodi, and Emby. `ISC` `Docker`
+- [youtube-dl-nas](https://hyeonsangjeon.github.io/youtube-dl-nas/) `⚠` - Authenticated yt-dlp download queue for video, audio and subtitles, with history, mobile sharing and NAS file management (fork of youtube-dl-server). ([Source Code](https://github.com/hyeonsangjeon/youtube-dl-nas)) `MIT` `Python/Docker`
 - [YoutubeDL-Server](https://github.com/nbr23/youtube-dl-server) - Web and REST interface to Youtube-DL for downloading videos onto a server. `MIT` `Python/Docker`
 - [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) - Web GUI for yt-dlp. `MPL-2.0` `Docker/Go/Nodejs`
 
