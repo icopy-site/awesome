@@ -223,3 +223,4 @@
 
 - [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - Coding style conventions and standards.
 - [Awesome API Devtools](https://github.com/yosriady/awesome-api-devtools) - A collection of useful resources for building RESTful HTTP+JSON APIs.
+- [Awesome Corporate Standards](https://github.com/openapi/awesome-corporate-standards) - International standards, frameworks, and certification bodies for organizations and businesses (quality, security, privacy, ESG, finance, and sector-specific compliance).
