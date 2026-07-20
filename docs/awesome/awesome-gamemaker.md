@@ -242,6 +242,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration) - Verlet integration example used for visuals.
 - [Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles) - Robust object-based collision system from Pixelated Pope.
 - [GMPhysX](https://bytecauldron.itch.io/gmphysx) - Adds NVIDIA PhysX to GameMaker for physics-based 2D/3D games. 💸
+- [Fracture](https://github.com/GlebTsereteli/Fracture) - Physics-based destruction for procedural Box2D fracture effects.
 
 ## Sprites
 

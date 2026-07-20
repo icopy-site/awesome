@@ -667,6 +667,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-translation-checker](https://github.com/ricardoferreirades/angular-translation-checker) - A tool for `ngx-translate` that detects unused or missing keys to keep i18n files clean.
 * [doloc](https://doloc.io/) - Instant translations in your [Angular](https://doloc.io/getting-started/frameworks/angular/) workflow.
 * [I18N](https://github.com/soluling/I18N) - Soluling has implemented a collection of internationalization (I18N) APIs for `.NET`, Angular and Delphi.
+* [i18n-egy](https://github.com/abdelfattahqandil21-oss/i18n-egy) - A modern, lightweight, and tree-shakable Angular internationalization library powered by Signals that is safe for server-side rendering.
 * [i18n-keygen](https://github.com/gagle/i18n-keygen) - Type-safe i18n keys for every build tool. One package, zero lock-in.
 * [intl-tel-input-ng](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input](https://github.com/jackocnr/intl-tel-input).
 * [langsync](https://github.com/mariokreitz/langsync) - CLI tooling for localization workflows in TypeScript projects.
@@ -1255,6 +1256,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [agrid](https://github.com/thkl/agrid) - Angular data grid with spreadsheet-like editing, virtual scrolling, filtering, sorting, grouping, clipboard workflows, row operations, pagination, and custom cell renderers.
 * [ngx-datatables-net](https://github.com/ascentspark/ngx-datatables-net) - Angular wrapper for `DataTables.net` supporting Angular 20+.
 * [angular-advanced-table](https://github.com/VaggelisKa/angular-advanced-table) -  Angular monorepo featuring `ng-advanced-table`—a signals-first, accessible data table library—and its documentation site.
+* [angular-tree](https://github.com/h-k-dev/angular-tree) - A high-performance, headless tree component that is zoneless, signal-powered, and fully virtualized, with `@angular/cdk` as its sole runtime dependency.
 
 ### Dates
 
@@ -1496,6 +1498,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-multiselect-dropdown](https://github.com/alexandroit/angular-multiselect-dropdown) - A maintained Angular multiselect dropdown built for template-driven and reactive forms.
 * [@koenz/angular-datepicker](https://github.com/koenz/angular-datepicker) - An animating datepicker for Angular 21+.
 * [ngx-dual-rangepicker](https://github.com/olivierpetitjean/ngx-dual-rangepicker) - Dual-calendar date range picker for Angular 20+ and Angular Material M3.
+* [ngx-libs-workspace](https://github.com/dineeek/ngx-libs-workspace) - A small family of reactive form controls—built on Signal Forms, customizable via CSS custom properties, and free of Angular Material, Angular CDK, and `ControlValueAccessor`.
 
 ### JSON Forms
 

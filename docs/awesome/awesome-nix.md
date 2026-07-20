@@ -39,6 +39,7 @@ A curated list of the best resources in the Nix community.
 * [NixOS & Flakes Book](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
 * [NixOS Asia Tutorial Series](https://nixos.asia/en/tutorial) - A series of high-level tutorials on using Nix Flakes, NixOS, home-manager, etc.
 * [NixOS in Production](https://leanpub.com/nixos-in-production) - Free (pay-what-you-want) book in pdf format.
+* [Unofficial NixOS test driver manual](https://applicative.systems/nixos-test-driver-manual/) - Opinionated unofficial NixOS test driver manual with quick getting started guides and best practices.
 * [Official Nix manual](https://nix.dev/manual/nix/stable/) - Latest stable version of the official Nix manual, best used as reference guide. Receives updates when available.
 * [Official NixOS manual](https://nixos.org/manual/nixos/stable/) - Latest stable version of the official NixOS manual, mix of tutorial and reference guide. Receives updates when available.
 * [Official Nixpkgs manual](https://nixos.org/manual/nixpkgs/stable/) - Latest stable version of the official Nixpkgs reference manual. Receives updates when available.
@@ -77,7 +78,7 @@ A curated list of the best resources in the Nix community.
 
 * [bento](https://github.com/rapenne-s/bento/) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 * [Clan](https://clan.lol) - A peer-to-peer deployment tool with inbuilt support for secrets and a module system to manage distributed networks.
-* [Colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
+* [Colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
 * [comin](https://github.com/nlewo/comin) - A deployment tool to continuously pull from Git repositories.
 * [deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 * [krops](https://cgit.krebsco.de/krops/about/) - A lightweight toolkit to deploy NixOS systems, remotely or locally.
@@ -105,7 +106,7 @@ A curated list of the best resources in the Nix community.
 * [comma](https://github.com/nix-community/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
 * [deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 * [devenv](https://github.com/cachix/devenv) - A Nix-based tool for creating developer shell environments quickly and reproducibly.
-* [dix](https://github.com/faukah/dix) - Diff Nix; a super-fast tool to diff Nix related things.
+* [dix](https://github.com/manic-systems/dix) - Diff Nix; a super-fast tool to diff Nix related things.
 * [manix](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
 * [nh](https://github.com/nix-community/nh) - Better output for `nix`, `nixos-rebuild`, `home-manager` and nix-darwin CLI leveraging `dix` and `nix-output-monitor`.
 * [nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
@@ -136,6 +137,7 @@ A curated list of the best resources in the Nix community.
 * [Devbox](https://github.com/jetify-com/devbox) - Instant, portable, and predictable development environments.
 * [devshell](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
 * [dream2nix](https://github.com/nix-community/dream2nix) - A framework for automatically converting packages from other build systems to Nix.
+* [flake-edit](https://github.com/a-kenji/flake-edit) - Edit your flake inputs with auto-follows and update functionality directly from the CLI.
 * [flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - A lightweight Nix library flake for painless NixOS flake configuration.
 * [flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
 * [flake.parts](https://github.com/hercules-ci/flake-parts) - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.
@@ -259,9 +261,7 @@ A curated list of the best resources in the Nix community.
 * [fenix](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
 * [naersk](https://github.com/nix-community/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
 * [nix-cargo-integration](https://github.com/90-008/nix-cargo-integration) - A library that allows easy and effortless integration for Cargo projects.
-* [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
 * [rust-nix-templater](https://github.com/90-008/rust-nix-templater) - Generates Nix build and development files for Rust projects.
-* [rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
 
 ### Scala
 
@@ -306,8 +306,10 @@ A curated list of the best resources in the Nix community.
 * [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
 * [neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - Daily bumped Neovim nightly package.
 * [nixpkgs-firefox-darwin](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
+* [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
 * [nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
 * [NUR](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
+* [rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
 * [System Manager](https://github.com/numtide/system-manager) - A non-NixOS Linux system configuration tool built on Nix.
 * [zig-overlay](https://github.com/mitchellh/zig-overlay) - A Nix flake packaging the Zig compiler. The flake mirrors the binaries built officially by Zig and does not build them from source.
 
