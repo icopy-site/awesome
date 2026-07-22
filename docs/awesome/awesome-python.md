@@ -87,6 +87,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
   - [entroly](https://github.com/juyterman1000/entroly) - An auditable context control plane that optimizes prompt context, stabilizes cache prefixes, and verifies answers locally with WITNESS.
   - [instructor](https://github.com/567-labs/instructor) - A library for extracting structured data from LLMs, powered by Pydantic.
   - [llama-index](https://github.com/run-llama/llama_index) - A data framework for your LLM application.
+  - [lumen](https://github.com/holoviz/lumen) - An agent framework for conversational analysis of SQL, dataframe and multidimensional array data.
   - [mem0](https://github.com/mem0ai/mem0) - An intelligent memory layer for AI agents enabling personalized interactions.
   - [outlines](https://github.com/dottxt-ai/outlines) - Structured text generation for LLMs with JSON schema, regex, and grammar-constrained decoding.
 - Pre-trained Models and Inference
@@ -788,6 +789,7 @@ _Libraries for working with graphical user interface applications._
   - [pygobject](https://github.com/GNOME/pygobject) - Python Bindings for GLib/GObject/GIO/GTK+ (GTK+3).
   - [PyQt](https://www.riverbankcomputing.com/static/Docs/PyQt6/) - Python bindings for the [Qt](https://www.qt.io/) cross-platform application and UI framework.
   - [pyside](https://github.com/pyside/pyside-setup) - Qt for Python offers the official Python bindings for [Qt](https://www.qt.io/), this is same as PyQt but it's the official binding with different licensing.
+  - [tkdesigner](https://github.com/ParthJadhav/Tkinter-Designer) - Generates Tkinter interfaces from Figma designs using the Figma API.
   - [tkinter](https://docs.python.org/3/library/tkinter.html) - (Python standard library) The standard Python interface to the Tcl/Tk GUI toolkit.
   - [toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
   - [wxPython](https://github.com/wxWidgets/Phoenix) - A blending of the wxWidgets C++ class library with the Python.

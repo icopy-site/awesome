@@ -230,6 +230,7 @@
 - [GSplat Share](https://gsplat.org/) - Share your splats with optional time-limited and password-protected links.
 - [Echo-2 Viewer](https://spaitial.ai/gallery) - Explore splats created by the world models of SpAItial AI.
 - [Form Chasers](https://formchasers.com/) - A community site for sharing scans of vehicles.
+- [Grace Cathedral](https://vincentwoo.com/3d/grace_cathedral) - Explore the interior and exterior of the famous San Francisco landmark.
 - [Heritage Expolorer](https://heritageexplorer.org/) - Archive of cultural heritage and other interesting sites.
 - [LichtFeld Studio Gallery](https://lichtfeld.io/showcase/) - Example scenes trained by LichtFeld Studio.
 - [Mind Studio](https://studio.adnfamily.com/maquette-immersive) - Showcase page showing many examples of 3DGS being used for real estate projects.
@@ -250,6 +251,7 @@
 - [Splatimation](https://splatimation.com/) - Create and publish 3D virtual tours.
 - [Splattr](https://splattr.app) - Create Gaussian splats on the cloud.
 - [SplatTour](https://splattour.com/) - Photorealistic 3D tours of any space, generated from a video shot with the user's phone.
+- [Split View Studio](https://splitview.studio/) - Tools for creating interactive 4D timelines.
 - [StorySplat](https://storysplat.com) - Transform your 3D captures into interactive stories.
 - [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 - [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.

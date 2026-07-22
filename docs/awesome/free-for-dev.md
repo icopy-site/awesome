@@ -340,6 +340,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Fizzy](https://www.fizzy.do/) - Kanban-based platform for project management and issue tracking. Create public boards, set up webhooks, use card stamping, and track unlimited users - free for up to 1000 items.
   * [flat.social](https://flat.social) - Interactive customizable spaces for team meetings & happy hours socials. Unlimited meetings, free up to 8 concurrent users.
   * [flock.com](https://flock.com) - A faster way for your team to communicate. Free Unlimited Messages, Channels, Users, Apps & Integrations
+  * [GhostChat](https://ghostchat.dev) - Privacy-first live chat widget for websites (~15KB, no cookies, no tracking). Free plan includes 1 site, unlimited messages, 30-day history, Gmail threading, canned responses and push notifications.
   * [GitBook](https://www.gitbook.com/) - Platform for capturing and documenting technical knowledge - from product docs to internal knowledge bases and APIs. Free plan for individual developers.
   * [GitDailies](https://gitdailies.com) - Daily reports of your team's Commit and Pull Request activity on GitHub. Includes Push visualizer, peer recognition system, and custom alert builder. The free tier has unlimited users, three repos, and 3 alert configs.
   * [gitter.im](https://gitter.im/) - Chat, for GitHub. Unlimited public and private rooms, free for teams of up to 25
@@ -674,7 +675,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Monitoring
 
-* [Pingzo](https://www.pingzoapp.com) - Free tier offers 1 uptime/API monitor with 15-minute check intervals and instant email alerts.
+  * [Pingzo](https://www.pingzoapp.com) - Free tier offers 1 uptime/API monitor with 15-minute check intervals and instant email alerts.
   * [Accesserty Pulse](https://accesserty.com/en/pulse) - Accesserty Pulse monitors interaction signals and detectable accessibility risks on live websites. Free plans for everyone and 14-day Pro trial.
   * [assertible.com](https://assertible.com) - Automated API testing and monitoring. Free plans for teams and individuals.
   * [Better Stack](https://betterstack.com/better-uptime) - Uptime monitoring, incident management, on-call scheduling/alerting, and status pages in a single product. The free plan includes ten monitors with 3-minute check frequency and status pages.
@@ -694,7 +695,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [incidenthub.cloud](https://incidenthub.cloud/) - Cloud and SaaS status page aggregator - 20 monitors and 2 notification channels (Slack and Discord) are free forever.
   * [inspector.dev](https://www.inspector.dev) - A complete Real-Time monitoring dashboard in less than one minute with a free forever tier.
   * [instatus.com](https://instatus.com) - Get a beautiful status page in 10 seconds. Free forever with unlimited subs and unlimited teams.
-    * [isitdownstatus.com](https://isitdownstatus.com) – Free public JSON API returning real-time status for 500+ popular services (GitHub, Stripe, AWS, etc.). No auth required, CORS enabled.
+  * [isitdownstatus.com](https://isitdownstatus.com) – Free public JSON API returning real-time status for 500+ popular services (GitHub, Stripe, AWS, etc.). No auth required, CORS enabled.
   * [linkok.com](https://linkok.com) - Online broken link checker, free for small websites up to 100 pages, completely free for open-source projects.
   * [loader.io](https://loader.io/) - Free load testing tools with limitations
   * [MarionetteOps.com](https://www.marionetteops.com/) - Server monitoring, public status pages, and service uptime monitoring.
@@ -1004,6 +1005,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [pushbots.com](https://pushbots.com/) - Push notification service. Free for up to 1.5 million pushes/month
   * [pusher.com](https://pusher.com/beams) - Free, unlimited push notifications for 2000 monthly active users. A single API for iOS and Android devices.
   * [simperium.com](https://simperium.com/) - Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2,500 users/month
+  * [snill.ai](https://snill.ai) - AI no-code platform that turns a plain-language description into a complete business system with a relational database, dashboards, workflows, REST API and webhooks. Free plan for solo operators includes 2 apps, 1,000 records and 10 AI requests/day.
   * [Supabase](https://supabase.com) - The Open Source Firebase Alternative to build backends. Free Plan offers Authentication, Realtime Database & Object Storage.
   * [tyk.io](https://tyk.io/) - API management with authentication, quotas, monitoring and analytics. Free cloud offering
   * [zapier.com](https://zapier.com/) - Connect the apps you use to automate tasks. Five zaps every 15 minutes and 100 tasks/month

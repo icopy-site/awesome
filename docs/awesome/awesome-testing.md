@@ -31,6 +31,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Spiderhash](https://spiderhash.io/) - Webhook debugging and request inspection tool for testing callback payloads, headers, and delivery behavior.
 - [KushoAI](https://kusho.ai/) - AI-native platform for API contract testing, end-to-end testing, UI testing, and continuous security scanning, with self-healing tests that automatically adapt to code changes in CI/CD.
 - [postman2pytest](https://github.com/golikovichev/postman2pytest) - Convert a Postman Collection v2.1 JSON file into a ready-to-run pytest test suite.
+- [funapi] (https://funapi.dev) - A free mock REST API service designed for practicing API testing, automation, and integration with realistic scenarios and endpoints.
 
 ### Security Testing
 - [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
@@ -97,8 +98,11 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
 
 ### Test Data Management
+- [Temp Mail 24](https://temp-mail24.com/) - Browser-based receive-only temporary inbox for permitted manual signup-flow testing.
 - [DATAMIMIC CE](https://github.com/rapiddweller/datamimic) - Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.
 - [JSON Validation Test Cases](https://github.com/UtilHatch/json-validation-test-cases) - Reusable valid, invalid, and edge-case JSON fixtures for testing parsers, validators, APIs, editors, and error handling.
+- [MockJutsu](https://github.com/altansayan/mock-jutsu-api) - Algorithmic open-source mock data engine generating 390+ format-valid types (IBAN, TCKN, Luhn, VIN, NHS, SWIFT, MRZ and more). CLI + REST API + Python package + JMeter
+  plugin. 6 locales.
 - [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms. Free tier available.
 - [Synth](https://github.com/getsynth/synth) - Open-source test data generator.
 - [Touca](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
@@ -142,6 +146,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Screen Recording & Session Replays
 - [Captura](https://github.com/MathewSachin/Captura) - Open-source video recording tool.
 - [PR Preview](https://www.pr-preview.com/) - MCP for Claude Code that drives your web app in a headed browser and records before/after demo videos of a pull request as MP4 or GIF.
+- [rrweb](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
 
 ### Mind Mapping & Documentation
 - [Xmind](http://www.xmind.net/) - Mind mapping tool for documenting test cases and strategies.

@@ -477,6 +477,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
 * [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 * [Vibrant.js](https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
+* [color-space](https://github.com/colorjs/color-space) - Conversions between 162 color spaces (OKLCH, CAM16, Munsell, camera logs) with cited references.
 
 ## I18n And L10n
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
@@ -1010,6 +1011,7 @@ https://listjs.com
 * [Peg.js](https://github.com/pegjs/pegjs) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API.
 * [lune](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
 * [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
+* [rrweb](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
 
 ## Worth Reading
  

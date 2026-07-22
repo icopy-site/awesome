@@ -40,6 +40,7 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI](http
 -->
 
 ## :tada: New
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - GPL-3.0 autonomous penetration testing platform: per-technology agents, 80+ tools, proof-based findings, and a privacy gateway that keeps target data from the model.
 - [llm-box](https://github.com/alib8b8/llm-box) - Terminal-first workflow automation engine. Generate and execute YAML workflows from plain English. 20+ built-in nodes, 15+ LLM providers, and MCP server mode. Install via `gemini extensions install https://github.com/alib8b8/llm-box`.
 - [Maestro](https://github.com/josstei/maestro-gemini) - Turn Gemini CLI into a multi-agent platform — 12 specialized subagents, parallel dispatch, 4-phase orchestration, and standalone dev tools for code review, debugging, security, and performance.
 - [Task Monitor](https://github.com/davidwiet/task-monitor) - Prevents agent loops via message tracking and plays auditory notifications for long tasks or out-of-focus prompts.
@@ -104,6 +105,7 @@ Modified versions of Gemini CLI with enhanced features or alternative model supp
 - [DevIntern](https://github.com/getdevintern/devintern) - Tool that picks up tickets from Jira, Linear, Trello, Asana, Azure DevOps, GitHub Issues, or markdown files and turns them into self-reviewed pull requests by driving Gemini CLI non-interactively (also supports Claude Code, Codex, and others). A feasibility gate flags vague tickets back to the tracker with questions; optional unattended mode schedules ticket pickup and turns PR review comments into commits. Runs on your machines with your own Google keys. FSL-1.1, free for interactive use.
 - [PickySteve](https://github.com/KernelLord/pickysteve) - Skill router and context picker for coding agents: a local model (via Ollama, offline by default) routes each prompt to the right skill via hybrid BM25 + embedding retrieval, cross-encoder rerank, and an LLM judge, then assembles a minimal context bundle for the execution model. Built-in prompt-injection gate scans every retrieved document, fail-closed. Ships an MCP stdio server and an OpenAI-compatible proxy; one-command installer wires 18 coding agents including Gemini CLI. MIT.
 - [Better Agent](https://github.com/ofekron/better-agent) - Local workspace for persistent Gemini CLI, Claude Code, and Codex sessions with detached execution, restart recovery, parallel forks, delegation, and approval gates. Source-available; free for non-commercial use.
+- [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - Local-first Agent Operation Environment (AOE) that installs into Gemini CLI and other supported hosts to build, route, and run specialist agent teams with portable packages, permissions, and verification gates.
 
 ## Commands & Extensions
 

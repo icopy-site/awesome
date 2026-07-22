@@ -22,7 +22,11 @@ $ brew install academic
 
 ## Sponsors
 
-Be the first to sponsor! `github@academic.io`
+
+[![Graphyn: visualize specialized agent workflows](https://raw.githubusercontent.com/fuego-wtf/graphyn-code/main/assets/graphyn-agent-workflows.png)](https://graphyn.ai/?utm_source=github&utm_medium=sponsorship&utm_campaign=graphyn_founding_alpha&utm_content=awesome_datascience_banner)
+
+
+Become a sponsor! `github@academic.io`
 
 
 

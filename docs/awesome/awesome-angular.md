@@ -592,6 +592,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan) - A visual debugging overlay for Angular change detection.
 * [rxjs-leak-finder](https://github.com/FlorinCiocirlan/rxjs-leak-finder) - A dev-mode tool that finds leaked RxJS subscriptions in Angular apps.
 * [form-lens-angular](https://github.com/hebertdelima13/form-lens-angular) - Inspect form structure, control state, validation errors, and nested form trees directly inside your app during development.
+* [allstak-angular](https://github.com/AllStak/allstak-angular) - Captures uncaught exceptions, structured logs, navigation spans, outbound HTTP requests, and component render timing — with first-class support for both standalone and NgModule-based apps.
 
 ### Documentation Tools
 
@@ -2230,6 +2231,7 @@ for the creation of web applications developed with Angular.
 * [alterior](https://github.com/alterior-mvc/alterior) - Isomorphic TypeScript framework for building modular services with seamless Angular integration.
 * [23blocks SDK](https://github.com/23blocks-OS/frontend-sdk) - Build full-stack apps 10x faster with modular backend blocks.
 * [ngx-unity](https://github.com/jjmhalew/ngx-unity) - A type-safe bridge for bidirectional communication between Unity WebGL/WebGPU and Angular.
+* [ngx-wp-shortcode](https://codeberg.org/tomaszatoo/ngx-wp-shortcode.git) - A library that lets Angular applications render WordPress shortcodes as native Angular components.
 
 ### Wrappers
 

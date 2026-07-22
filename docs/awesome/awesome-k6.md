@@ -47,13 +47,11 @@ Contributions are welcome! Read the [contribution guidelines](https://github.com
 
 - [Umbraco 9 - What a Performance!](https://moriyama.co.uk/about-us/news/blog-umbraco-9-what-a-performance/) - Test the performance of Umbraco v9 on Azure against Umbraco v8 and comparing Windows vs Linux.
 - [On maintaining a k6 codebase, Part 1](https://filfreire.com/posts/k6_tricks_ep1) - Personal tips to maintain a challenging k6 load testing codebase.
-- [Distributed Load Testing With K6](https://engineering.empathy.co/distributed-load-testing-with-k6/) - Setting up distributed execution with k6-operator and Argo workflows.
 - [Load testing with k6 and k8s](https://www.toucantoco.com/en/tech-blog/tech-blog/load-testing-with-k6-and-k8s) - The Toucan DevOps team explains why they chose k6 as their load testing tool and how they deploy it on k8s.
 
 - [CloudPosse's Load Testing Stack](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
 - [Real-time stress:
 AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-time-stress-anycable-k6-websockets-and-yabeda) - Evil Martians adding "real-time stress" with k6 and WebSockets.
-- [Scaling Confidently with the Load and Fault Team](https://robinhood.engineering/scaling-confidently-with-the-load-and-fault-team-122978333d9) - Robinhood on load testing a Kubernetes system with k6.
 - [Streamlining Performance Testing with K6 and ChatGPT](https://medium.com/@monish.correia/streamlining-performance-testing-with-k6-and-chatgpt-206c6c7db82b) - Monish Correia writes k6 tests using GitHub co-pilot.
 
 ## Videos
@@ -108,7 +106,6 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 
 ## CI/CD
 
-- [k6 for AWS CodeBuild](https://k6.io/blog/integrating-k6-with-aws-codebuild/)
 - [k6 for Azure Pipelines](https://k6.io/blog/integrating-load-testing-with-azure-pipelines/)
 - [k6 for Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
 - [k6 for Buddy](https://k6.io/blog/integrating-k6-with-buddy-devops/)
