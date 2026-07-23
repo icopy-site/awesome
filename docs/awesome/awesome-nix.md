@@ -52,6 +52,7 @@ A curated list of the best resources in the Nix community.
 * [Home Manager Option Search](https://home-manager-options.extranix.com/) - Search through all 2000+ Home Manager options and read how to use them.
 <!-- * [Hound](https://search.nix.gsc.io) - Handily search across all or selected Nix-related repositories. -->
 * [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - Find all versions of a package that were available in a channel and the revision you can download it from.
+* [Nix Software](https://nixsoftware.org/en/) - Friendly package search. Supports logos, screenshots, categories, and translations into multiple languages.
 * [nix-search-tv](https://github.com/3timeslazy/nix-search-tv) - CLI fuzzy finder for packages and options from Nixpkgs, Home Manager, and more.
 * [Noogle](https://noogle.dev/) - Nix API search engine allowing to search functions based on their types and other attributes.
 * [NüschtOS Search](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search.
@@ -95,6 +96,7 @@ A curated list of the best resources in the Nix community.
 
 ## Virtualisation
 
+* [agent-sandbox.nix](https://github.com/archie-judd/agent-sandbox.nix) - Declarative sandboxing for any package (e.g. AI coding agents) using bubblewrap on Linux and sandbox-exec on macOS.
 * [extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers from the command line.
 * [microvm](https://github.com/microvm-nix/microvm.nix) - NixOS-based MicroVMs.
 * [nixos-shell](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).

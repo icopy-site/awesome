@@ -527,6 +527,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-bob](https://github.com/scottstraughan/ngx-bob) - Angular chat widget with messaging, local history, error handling, commands, and search.
 * [ngx-prompt-kit](https://github.com/PianoNic/ngx-prompt-kit) - Angular components for AI chat interfaces, built on Spartan UI.
 * [ngx-testbox-agent-skill](https://github.com/kirill-kolomin/ngx-testbox-agent-skill) - AI Agent skill for the `ngx-testbox` testing package.
+* [point-grab](https://github.com/Nacho-Labs-LLC/point-grab) - Point at any web app element to instantly send its full context—HTML, component name, source file, and ancestors—to your AI agent via MCP.
 * [PureCode AI](https://purecode.ai/components/angular/application-ui) - Build Angular application UIs 50% faster with PureCode AI.
 * [reangular](https://github.com/AleksanderBodurri/reangular) - A coding-agent skill that converts a React library into a modern Angular library with full feature parity, automated browser validation, and a side-by-side parity review.
 * [repomix](https://github.com/yamadashy/repomix) - A tool that packs your entire repository into a single, AI-friendly file.
@@ -562,6 +563,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@grandgular/logrocket-angular](https://github.com/Grandgular/logrocket) - Wrapper for the LogRocket Web SDK with DI‑friendly init, lazy loading, typed options, privacy helpers, and DOM directives for data‑private/data‑public.
 * [ngx-umami](https://github.com/mitsuru17/ngx-umami) - Angular integration for [Umami Analytics](https://umami.is/) — a lightweight, privacy‑first tracking solution tailored for Angular applications.
 * [takt-angular](https://github.com/vskstudio/takt-angular) - Idiomatic Angular wrapper for [Takt](https://github.com/vskstudio/takt-core) privacy-friendly analytics.
+* [inspect-ng-collector](https://github.com/oneteme/inspect-ng-collector) - A comprehensive front-end telemetry and monitoring library for Angular applications.
 
 ### Code Analysis
 
@@ -1383,6 +1385,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-email-studio](https://github.com/edward124689/ngx-email-studio) - An Angular 21 frontend email builder for composing, importing, editing, previewing, and exporting responsive email templates.
 * [qalma](https://github.com/cdskill/qalma) - Angular-first, headless rich text editor toolkit built on ProseMirror.
 * [ngx-mermaid-canvas](https://github.com/Nigelli/ngx-mermaid-canvas) - A visual flowchart editor for Angular that outputs Mermaid syntax.
+* [@bloklabs/angular](https://github.com/JackUait/blok) - Angular adapter for [Blok](https://blokeditor.com), a headless block-based rich text editor that outputs JSON instead of HTML.
 
 ### File Upload
 

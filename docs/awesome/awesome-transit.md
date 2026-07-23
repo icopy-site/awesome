@@ -170,6 +170,7 @@ Converters from various static schedule formats to and from GTFS.
 #### GTFS Analysis Tools
 
 - [GTFS Kit](https://github.com/mrcagney/gtfs_kit) - A Python 3.6+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes [GTFSTK](https://github.com/araichev/gtfstk).
+- [GTFS Scorecard](https://github.com/ChelseaKR/gtfs-scorecard) - Daily, open-source GTFS and GTFS-Realtime quality scoring for a curated registry of 1,700+ feed records with 1,100+ published scorecards, rider-focused fix guidance, agency and program views, trend history, a read API, pre-publish checks, and a GitHub Action.
 - [gtfstools](https://github.com/ipeaGIT/gtfstools) - A set of convenient tools for editing and analysing transit feeds in GTFS format in R.
 - [transit_service_analyst](https://github.com/psrc/transit_service_analyst) - A Python library to support transit service analysis.
 - [Peartree](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
@@ -397,7 +398,9 @@ Apps people use when taking transit.
 #### Web Apps (open source)
 - [MOTIS](https://motis-project.org) - Web UI for the MOTIS mobility platform (routing, geocoding, live transit map, etc.).
 - [Catenary Maps](https://catenarymaps.org) - Realtime and Schedule global public transport map and navigation software, written in Rust and Svelte.
-- [Instabus](http://instabus.org) - Realtime map of Austin's (CapMetro) public transit. Has no server/backend dependency at all and runs completely on GitHub pages.
+- [Instabus](https://github.com/luqmaan/instabus) - Realtime map of Austin's (CapMetro) public transit. Has no server/backend dependency at all and runs completely on GitHub pages. No longer maintained; the instabus.org domain no longer points at the project.
+- [Is SEPTA Fucked?](https://www.isseptafucked.com/) - Status dashboard for SEPTA (Philadelphia) showing whether Regional Rail, Metro, and bus service is currently disrupted.
+- [Is Metro Burning?](https://ismetroburning.com/) - Similar at-a-glance status board for WMATA (D.C. Metro).
 - [OpenTripPlanner Client GWT](https://github.com/mecatran/OpenTripPlanner-client-gwt) - A Google Web Toolkit-based web interface for OpenTripPlanner
 - [OpenTripPlanner.js](https://github.com/conveyal/otp.js) - A Javascript-based client for OpenTripPlanner (no longer under development)
 - [OTP-UI React Component Library](https://github.com/opentripplanner/otp-ui) - React Javascript component library, which can be used to build trip planner webapps. See the [Storybook](http://www.opentripplanner.org/otp-ui) for a demo.
@@ -410,7 +413,7 @@ Apps people use when taking transit.
 - [Bustime](https://busti.me) - Public transport real-time monitoring with WebSocket updates. Open-source [on GitHub](https://github.com/norn/bustime).
 - [Transit Tracker](https://transittracker.ca/#/) - Realtime vehicle position for Greater Montreal & Toronto, Canada
 - [GTFS Builder](http://nationalrtap.org/Web-Apps/GTFS-Builder) - A free web-based application to help you create GTFS files. Maintained by the National Rural Transit Assistance Program (RTAP).
-- Dede - An independent and universal passenger information system (PIS) mapping realtime movement. A message feed with Vehicle Position entities in the GTFS-Realtime format or the [Dede app](https://github.com/dancesWithCycles/dede-android) can be used as data source.
+- Dede - An independent and universal passenger information system (PIS) mapping realtime movement. A [message feed with Vehicle Position entities](https://codeberg.org/dancingCycle/dede-obc-adapter) in the GTFS-Realtime format or the Dede app can be used as data source/ as provider to the [Dede server](https://codeberg.org/dancingCycle/dede-server). The result is presented either on the [Dede web front end](https://codeberg.org/dancingCycle/dede-front-end) or [Dede display](https://codeberg.org/dancingCycle/dede-display).
 - [MBTA tile-server](https://github.com/mbta/tile-server) - Scripts to create a Docker container that encapsulates all the elements necessary to develop map tiles for use on MBTA.com
 - [Cadê Meu Busão](https://tarifazerobh.org/cade-meu-busao/) - Realtime tracking transit buses from Belo Horizonte, Brazil. Open-source on [GitHub](https://github.com/tarifazero/monitoramento).
 - [Tiramisu Transit](https://github.com/CMU-RERC-APT/tiramisu3-pr) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. No longer maintained.

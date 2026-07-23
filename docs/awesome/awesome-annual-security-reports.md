@@ -12,14 +12,29 @@
 
 **Acknowledgement:** I would like to give recognition for other works that inspired this collection. [Dr. Wade Baker](https://www.linkedin.com/in/drwadebaker/) and the team at the [Cyentia Institute](https://www.cyentia.com/) deserve special mention for their pioneering, data-driven cybersecurity research and studies that continuously elevate industry analysis. Additionally, [Rick Howard](https://www.linkedin.com/in/rickhoward/)'s [Cyber Cannon](https://cybercanon.org/) list of must-read books is a timeless resource of curated wisdom, catering to both leadership and practitioner levels within the field. Finally, [Richard Stiennon](https://www.linkedin.com/in/stiennon) produces an annual comprehensive cybersecurity industry analysis at [IT Harvest](https://dashboard.it-harvest.com/) that deserves attention of those in the industry
 
+<!-- BADGES_START -->
 **Annual Report Counts:** \
-![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2020?type=file&style=flat-square&label=2020%20Reports)
-![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2021?type=file&style=flat-square&label=2021%20Reports)
-![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2022?type=file&style=flat-square&label=2022%20Reports)
-![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2023?type=file&style=flat-square&label=2023%20Reports)
-![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2024?type=file&style=flat-square&label=2024%20Reports)
-![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2025?type=file&style=flat-square&label=2025%20Reports)
-![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2026?type=file&style=flat-square&label=2026%20Reports)
+![Total](https://img.shields.io/badge/Total_Reports-968-blue?style=flat-square)
+![2008](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2008?type=file&style=flat-square&label=2008)
+![2009](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2009?type=file&style=flat-square&label=2009)
+![2010](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2010?type=file&style=flat-square&label=2010)
+![2011](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2011?type=file&style=flat-square&label=2011)
+![2012](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2012?type=file&style=flat-square&label=2012)
+![2013](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2013?type=file&style=flat-square&label=2013)
+![2014](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2014?type=file&style=flat-square&label=2014)
+![2015](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2015?type=file&style=flat-square&label=2015)
+![2016](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2016?type=file&style=flat-square&label=2016)
+![2017](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2017?type=file&style=flat-square&label=2017)
+![2018](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2018?type=file&style=flat-square&label=2018)
+![2019](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2019?type=file&style=flat-square&label=2019)
+![2020](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2020?type=file&style=flat-square&label=2020)
+![2021](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2021?type=file&style=flat-square&label=2021)
+![2022](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2022?type=file&style=flat-square&label=2022)
+![2023](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2023?type=file&style=flat-square&label=2023)
+![2024](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2024?type=file&style=flat-square&label=2024)
+![2025](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2025?type=file&style=flat-square&label=2025)
+![2026](https://img.shields.io/github/directory-file-count/jacobdjwilson/awesome-annual-security-reports/Annual%20Security%20Reports%2F2026?type=file&style=flat-square&label=2026)
+<!-- BADGES_END -->
 
 
 <!-- TOC -->
@@ -495,7 +510,7 @@ The categories below highlight the diverse roles these organizations play in bui
 
 **Threat Intelligence and Incident Response:** Organizations focused on sharing threat intelligence, coordinating cyber incident responses, and combating cyber threats.
 
-**Policy and Advocacy]:** Institutions shaping cybersecurity policies, regulations, and public awareness on a national or international scale.
+**Policy and Advocacy:** Institutions shaping cybersecurity policies, regulations, and public awareness on a national or international scale.
 
 **Working Groups:** These are collaborative organizations or professional associations that conduct research, share information, and develop best practices in cybersecurity.
 
@@ -527,7 +542,7 @@ The categories below highlight the diverse roles these organizations play in bui
 ### Threat Intelligence and Incident Response
 - [The Anti-Phishing Working Group (APWG)](https://apwg.org/) - A global coalition focused on unifying the global response to cybercrime.
 - [The Cyber Threat Alliance (CTA)](https://www.cyberthreatalliance.org/) - An industry-driven group of cybersecurity organizations that share threat intelligence and conduct collaborative research to combat cyber threats.
-- [Center for Threat-Informed Defense (CTID)](https://ctid.mitre-engenuity.org/) - A non-profit, privately funded research and development organization operated by MITRE Engenuity to advance threat-informed defense globally.
+- [Center for Threat-Informed Defense (CTID)](https://mitre-engenuity.org/) - A non-profit, privately funded research and development organization operated by MITRE Engenuity to advance threat-informed defense globally.
 - [The Forum of Incident Response and Security Teams (FIRST)](https://www.first.org/) - Provides platforms, means and tools for incident responders to always find the right partner and to collaborate efficiently.
 - [The Global Cyber Alliance (GCA)](https://globalcyberalliance.org/) - An international, cross-sector effort dedicated to reducing cyber risk.
 - [The Messaging, Malware and Mobile Anti-Abuse Working Group (M3AAWG)](https://www.m3aawg.org/) - Focuses on operational issues of Internet abuse including botnets, malware, spam, viruses, and mobile messaging abuse.
@@ -554,12 +569,12 @@ The categories below highlight the diverse roles these organizations play in bui
 - [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/) - A U.S. government agency responsible for enhancing the security and resilience of the nation's critical infrastructure.
 - [Cyber Peace Institute](https://cyberpeaceinstitute.org/) - A non-profit organization focused on reducing the impact of cyberattacks on civilians and promoting peace in cyberspace.
 - [European Union Agency for Cybersecurity (ENISA)](https://www.enisa.europa.eu/) - A European Union agency that contributes to EU cybersecurity policy, enhances trust in digital services, and supports incident response capabilities across Europe.
-- [Europol - European Cybercrime Centre (EC3)](https://www.europol.europa.eu/activities-services-main/areas-interest/european-cybercrime-centre-ec3) - A strategic alliance focused on combating cybercrime within the European Union.
+- [Europol - European Cybercrime Centre (EC3)](https://www.europol.europa.eu/about-europol/european-cybercrime-centre-ec3) - A strategic alliance focused on combating cybercrime within the European Union.
 - [German Federal Office for Information Security (BSI)](https://www.bsi.bund.de/) - Germany's national cyber security authority providing IT security services and guidance.
 - [InfraGard](https://www.infragard.org/) - A partnership between the FBI and members of the private sector for the protection of U.S. Critical Infrastructure.
 - [Internet Security Research Group (ISRG)](https://www.abetterinternet.org/) - A non-profit organization focused on reducing financial, technological, and educational barriers to secure communication over the Internet (creators of Let's Encrypt).
 - [Japan National Center of Incident Readiness and Strategy for Cybersecurity (NISC)](https://www.nisc.go.jp/eng/) - Japan's central organization for national cybersecurity strategy and incident response.
-- [Korean Internet & Security Agency (KISA)](https://www.kisa.or.kr/eng/) - South Korea's government agency dedicated to promoting cybersecurity and a safer internet environment.
+- [Korean Internet & Security Agency (KISA)](https://www.kisa.or.kr/) - South Korea's government agency dedicated to promoting cybersecurity and a safer internet environment.
 - [MITRE Corporation](https://www.mitre.org/) - An American not-for-profit organization which conducts research and development, famously maintaining the ATT&CK and CVE frameworks.
 - [National Cyber Security Centre (NCSC)](https://www.ncsc.gov.uk/) - The UK's technical authority for cyber incidents.
 - [National Cyber Security Centre - Netherlands (NCSC-NL)](https://www.ncsc.nl/english) - The Dutch national cyber security center providing guidance and incident response.
